@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-07T20:39:33.971Z</id>
+    <id>urn:2021-07-07T21:11:26.160Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T20:39:33.971Z</updated>
+    <updated>2021-07-07T21:11:26.160Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://kaede2020.hatenablog.com/entry/2021/07/07/134334"/>
         <updated>2021-07-07T11:27:26.000Z</updated>
         <summary type="html"><![CDATA[0.はじめに 1.簡単な自己紹介 2.年をとるにつれて衰える能力 3.低下した記憶力で競プロに取り組む 4.AtCoderのレベル感 5.競プロ上達への道のり 6.競プロとの向き合い方 7.競プロの依存性 8.競プロのコミュニティ 7.これから 8.終わりに 9.＜番外編＞もし後悔があるとすれば 0.はじめに こんにちは。競プロ歴一年半のか...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハイチで大統領暗殺　暫定首相「外国人集団の仕業」：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021070701164&amp;g=int</id>
+        <link href="https://www.jiji.com/jc/article?k=2021070701164&amp;g=int"/>
+        <updated>2021-07-07T11:06:30.000Z</updated>
+        <summary type="html"><![CDATA[ハイチで大統領暗殺　暫定首相「外国人集団の仕業」 2021年07月07日21時48分 ハイチのモイーズ大統領＝２０１９年１０月、ポルトープランス（ＥＰＡ時事） 【サンパウロ時事】政情不安に陥っているカリブ海の島国ハイチからの報道によると、ジョゼフ暫定首相は７日、ジョブネル・モイーズ大統領（５３）が自宅で武装集団...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://news.yahoo.co.jp/articles/723363984320fff62f4697606b320ee2c1c33b3b"/>
         <updated>2021-07-07T02:48:57.000Z</updated>
         <summary type="html"><![CDATA[河野太郎行政改革担当相が先月、霞が関の全省庁に要請したファクス廃止に対し、「できない」との反論が数百件寄せられ、政府が全廃を事実上断念したことが分かった。情報漏えいの懸念や通信環境への不安などが理由で、一定程度の使用を認める方針だ。 【動画】住宅街でクマに襲われ4人けが　札幌・東区 政府関係者が明ら...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内外で流行状況が悪化　最後の切り札「緊急事態宣言」の効果が持続しないかもと専門家が不安に思う理由]]></title>
-        <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210706-1</id>
-        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210706-1"/>
-        <updated>2021-07-07T02:16:41.000Z</updated>
-        <summary type="html"><![CDATA[ーー先生のツイートを見て、「今回ばかりは止められないかもしれない」という言葉にぞっとしました。日本だけでなく海外でも流行が拡大していることに危機感を強めていらっしゃいますね。 世界全体でインド由来の変異ウイルス、デルタ株が流行のスピードを加速化する形で広がっています。 英国はインドとの往来が多いの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

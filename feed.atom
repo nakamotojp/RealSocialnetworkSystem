@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T12:19:06.162Z</id>
+    <id>urn:2021-07-08T13:21:52.850Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T12:19:06.162Z</updated>
+    <updated>2021-07-08T13:21:52.850Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[菅首相、宣言下での東京五輪「歴史的な歴史に残る大会を実現したい」（スポニチアネックス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/6893057a6234d8ba9ecd972e47867305ea9d5f56</id>
+        <link href="https://news.yahoo.co.jp/articles/6893057a6234d8ba9ecd972e47867305ea9d5f56"/>
+        <updated>2021-07-08T11:22:38.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相が8日、記者会見を行った。 新型コロナウイルスの感染が拡大し、東京都に12日から8月22日まで緊急事態宣言が発令される。緊急事態宣言下での開催となる東京五輪（23日～8月8日）について、「これまで緊急事態宣言となれば無観客も辞さないと申し上げてきた。この後の5者協議において観客の取り扱いが決められ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相「先手先手の措置」 東京都に“宣言”、8月22日まで（Yahoo!ニュース オリジナル THE PAGE）]]></title>
+        <id>https://news.yahoo.co.jp/articles/21401f83493217a7c3e731a395abfb3abfcafd3d</id>
+        <link href="https://news.yahoo.co.jp/articles/21401f83493217a7c3e731a395abfb3abfcafd3d"/>
+        <updated>2021-07-08T11:14:16.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉（よしひで）首相は8日、記者会見し、新型コロナウイルスの感染拡大防止対策として東京都に7月12日から8月22日の間、「緊急事態宣言」を発出することを明らかにした。すでに宣言下にある沖縄県も8月22日まで延長することとした。 また、神奈川県、千葉県、埼玉県、大阪府は8月22日まで「まん延防止等重点措置」と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google、日本で金融本格参入へ　国内スマホ決済買収: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUB256V60V20C21A6000000/</id>
@@ -31,6 +51,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210708/k10013127141000.html"/>
         <updated>2021-07-08T07:49:26.000Z</updated>
         <summary type="html"><![CDATA[東京都内では、8日新たに896人が新型コロナウイルスに感染していることが確認されました。 1週間前の木曜日より223人増えていて、19日連続で前の週の同じ曜日を上回りました。 また、都は、感染が確認された男性2人が死亡したことを明らかにしました。 東京都は、8日都内で新たに10歳未満から80代までの男女合わせて896...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「効果が高まると思って」80代男性が新型コロナワクチンを4回接種：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/115394</id>
+        <link href="https://www.tokyo-np.co.jp/article/115394"/>
+        <updated>2021-07-08T07:23:17.000Z</updated>
+        <summary type="html"><![CDATA[北海道弟子屈（てしかが）町は８日、同町の８０代男性が新型コロナウイルスワクチンを４～７月に計４回接種したと明らかにした。男性は「複数回受けた方が効果が高まると思った」と話しているという。体調に異常は出ていない。 男性は町外の病院に出入りしている業者。医療従事者としてその病院で４～５月に２回、先行接...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[立憲との政策協定「サインしたらダメだ」　国民が拒否へ：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP780BMYP77UTFK00W.html</id>
-        <link href="https://www.asahi.com/articles/ASP780BMYP77UTFK00W.html"/>
-        <updated>2021-07-07T23:43:05.000Z</updated>
-        <summary type="html"><![CDATA[国民民主党は7日、次期衆院選に向けて、連合が求めていた立憲民主党との政策協定を拒否する方針を決めた。国民民主は、東京都議選で共産党と選挙協力した立憲の姿勢を問題視する一方、党内からは小池百合子・東京都知事との連携に期待する声が出ている。（鬼原民幸） 「こんな協定書にサインしたらダメだ！」 国会内でこ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「なぜスマホのバッテリーは交換できないの？」　その理由と問題の本質を考える（1/4 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2107/08/news041.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2107/08/news041.html"/>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[支援物資いりません...熱海市が「苦渋の決断」　背景には何が？市が明かす被災地の現状: J-CAST ニュース【全文表示】]]></title>
-        <id>https://www.j-cast.com/2021/07/07415629.html?p=all</id>
-        <link href="https://www.j-cast.com/2021/07/07415629.html?p=all"/>
-        <updated>2021-07-07T13:19:34.000Z</updated>
-        <summary type="html"><![CDATA[土石流で大きな被害を受けた静岡県熱海市は2021年7月7日、寄せられる支援物資の受け入れを一時休止すると発表した。 市の観光建設部の担当者は「心苦しい」と吐露する。なぜ、苦渋の決断となったのか。背景には送り手が思う「必要そうなもの」と「実際に必要なもの」とのギャップがあった。 「食事の提供も、飲料の提供...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[男性の問題について何故女性が首を突っ込んでくるのか？という疑問]]></title>
         <id>https://anond.hatelabo.jp/20210707213629</id>
         <link href="https://anond.hatelabo.jp/20210707213629"/>
         <updated>2021-07-07T12:45:22.000Z</updated>
         <summary type="html"><![CDATA[手芸は「呪い」を解く？ 男子高校生が編み物を通して自分を取り戻す漫画「ニッターズハイ！」作者に聞く 「男が手芸なんて変だし」。自分にかけられてしまった「呪い」やジェンダーバイアスを解体していく物語『ニッターズハイ！ 』。「男子高校生が編み物をする」というテーマはどのようにして生まれたのか。作者の猫田...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2000台超のロボットが走り回ってネット通販で注文された商品をまとめて梱包する自動化された最新倉庫の実態を収めたムービー - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210707-robot-run-grocery-store/</id>
-        <link href="https://gigazine.net/news/20210707-robot-run-grocery-store/"/>
-        <updated>2021-07-07T11:05:59.000Z</updated>
-        <summary type="html"><![CDATA[チャンネル登録者数397万人超の人気YouTuberであるトム・スコット氏が、イギリスのネットスーパーである「Ocado」の食料品倉庫に潜入し、その中で稼働する無数のロボットを紹介するムービーを公開し、話題を呼んでいます。 How many robots does it take to run a grocery store? - YouTube スコット氏がやってきたのは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T00:37:56.747Z</id>
+    <id>urn:2021-07-08T01:56:53.714Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T00:37:56.747Z</updated>
+    <updated>2021-07-08T01:56:53.714Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2107/08/news041.html"/>
         <updated>2021-07-07T23:19:10.000Z</updated>
         <summary type="html"><![CDATA[しばしば聴かれる質問。だが、この問題については誰もちゃんと答えていないようなので、西田宗千佳さんが乗り出した。 現在のスマートフォンは、ほとんどがバッテリー内蔵で、交換することができない。先日、「交換できないのは問題だ」とする記事がSNSでバズっていた。メーカーがスマホを買い替えさせるために交換でき...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七夕って何食べるんだっけ？]]></title>
+        <id>https://anond.hatelabo.jp/20210707182239</id>
+        <link href="https://anond.hatelabo.jp/20210707182239"/>
+        <updated>2021-07-07T23:11:16.000Z</updated>
+        <summary type="html"><![CDATA[笹？]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +61,16 @@
         <link href="https://note.com/gotch_akg/n/nd5f787e9316c"/>
         <updated>2021-07-07T17:36:10.000Z</updated>
         <summary type="html"><![CDATA[率直に言って、とても残念だ。ほとんど空白とも言える2020年を経て、また、大きな緊張を抱えて臨んだゴールデンウィークのフェスを乗り越えて、少しずつコロナ禍の先に新しい日常を見出すための、はじまりの季節だと、この夏を捉えていた。 当時の逡巡についてはこちらの投稿を読んでほしい。音楽関係者の困惑や憤り、そ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蓮舫🙋‍♀️7/4都議選・立憲民主党 on Twitter: "いや、これ。 スパコンの使い方間違ってませんか。　 今までの映画館や劇場、イベント等の自粛や中止要請から一転、五輪は10000人でも大丈夫とのお墨付きに使うの、と思えてしまいます。 マスク着用で…観客1万人でも感染リスクゼロの… https://t.co/hOzAGAz6Df"]]></title>
+        <id>https://twitter.com/renho_sha/status/1412475495560581122</id>
+        <link href="https://twitter.com/renho_sha/status/1412475495560581122"/>
+        <updated>2021-07-07T16:40:53.000Z</updated>
+        <summary type="html"><![CDATA[いや、これ。 スパコンの使い方間違ってませんか。　 今までの映画館や劇場、イベント等の自粛や中止要請から一転、五輪は10000人でも大丈夫とのお墨付きに使うの、と思えてしまいます。 マスク着用で…観客1万人でも感染リスクゼロの… https://t.co/hOzAGAz6Df]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,6 +216,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS テクニカルサポートで得た暗黙知をまとめてみた | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/technical-support-tips/</id>
+        <link href="https://dev.classmethod.jp/articles/technical-support-tips/"/>
+        <updated>2021-07-07T12:08:39.000Z</updated>
+        <summary type="html"><![CDATA[AWS テクニカルサポートを 5 年経験して アノテーションの荒川です。 クラスメソッドメンバーズをご契約いただいているお客様のテクニカルサポート業務を始めて、早 5 年が経過しました。 私が対応したチケット件数をざっくりと調べたところ、本日時点で 1685 件でした。 最近は私がチケット対応する機会は減りまして、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[麻生氏　森友改ざん「再調査しない」　本紙記者に「わかってるね？」容姿にまた言及：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/115209</id>
         <link href="https://www.tokyo-np.co.jp/article/115209"/>
@@ -256,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[方針決まらず「現場もう限界」　完全無観客なら課題山積 - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP775Q1KP77UTQP029.html</id>
-        <link href="https://www.asahi.com/articles/ASP775Q1KP77UTQP029.html"/>
-        <updated>2021-07-07T08:48:30.000Z</updated>
-        <summary type="html"><![CDATA[7日で競技開始まであと2週間となった東京オリンピック（五輪）で、観客の扱いがいまだ定まらない。6月21日に前提条件つきで決まった「上限1万人」の方針は「風前のともしび」（大会関係者）で、大規模会場や夜間の試合の「一部無観客」のほか、全会場を無観客にする案も取りざたされている。運営の要となる大会組織委員...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[平井デジタル相に資産公開法違反の疑い　“五輪アプリ受注”の親密ITグループの株を不記載 | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/46660</id>
         <link href="https://bunshun.jp/articles/-/46660"/>
@@ -281,26 +301,6 @@
         <link href="https://www.htb.co.jp/news/archives_12310.html"/>
         <updated>2021-07-07T06:30:35.000Z</updated>
         <summary type="html"><![CDATA[新型コロナのワクチン接種に反対する市民らが道や札幌市に要請に訪れた際に応対した複数の職員がその後新型コロナに感染していたことがわかりました。 関係者によりますと、新型コロナワクチンの接種に反対する市民らが先月29日と30日、北海道庁や札幌市役所に反対の要請で訪れた際、市民らに応対した道や札幌市の複数の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本史の学び直しにぴったりな本、10タイトル。日本一生徒数の多い社会科講師が選んでみた（伊藤賀一） - ソレドコ]]></title>
-        <id>https://srdk.rakuten.jp/entry/2021/07/07/103000</id>
-        <link href="https://srdk.rakuten.jp/entry/2021/07/07/103000"/>
-        <updated>2021-07-07T01:51:59.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。伊藤賀一と申します。 原始から近代・現代まで、あらゆる時代をカバーしているオールラウンド型の珍しい日本史講師です。 日本史だけでなく社会科全般を教えているため、ありがたいことに「日本一生徒数が多い社会科講師」という称号もいただいたことがあります。 今回は「日本史を学び直すための本」を紹介...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webサイト制作をどれくらいの粒度で分解してタスク化するか｜重松佑 / Shhh inc.｜note]]></title>
-        <id>https://note.com/sgmtyu/n/n60ae42a413b0</id>
-        <link href="https://note.com/sgmtyu/n/n60ae42a413b0"/>
-        <updated>2021-07-06T11:55:33.000Z</updated>
-        <summary type="html"><![CDATA[プロジェクトが始まるときにかなり初期の段階でWBSを作ることは多いとおもいます。そのWBSの作成、プロマネやディレクターに任せっぱなしになっていないでしょうか。WBSはスケジュールをガントチャートで表したものを指していると思われがちですが、実はスケジュールだけでなく見積もりやアサインを精度高く行うためにも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

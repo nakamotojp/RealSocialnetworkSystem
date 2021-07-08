@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T14:12:36.754Z</id>
+    <id>urn:2021-07-08T15:15:58.607Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T14:12:36.754Z</updated>
+    <updated>2021-07-08T15:15:58.607Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京五輪 都内のすべての会場で観客を入れずに開催へ | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210708/k10013128461000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210708/k10013128461000.html"/>
+        <updated>2021-07-08T12:58:40.000Z</updated>
+        <summary type="html"><![CDATA[最大1万人まで観客を入れて開催される予定だった東京オリンピックは、東京都で新型コロナウイルスの感染が再び拡大し4回目の緊急事態宣言が出されることを受けて、都内のすべての会場で観客を入れずに開催することになったことが大会関係者への取材でわかりました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バッハ会長「緊急事態宣言はどういうものなのか」　5者協議 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210708/k00/00m/050/337000c</id>
@@ -51,6 +61,16 @@
         <link href="https://www.nikkei.com/article/DGXZQOUB256V60V20C21A6000000/"/>
         <updated>2021-07-08T09:06:30.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 米グーグルが日本で金融事業に本格参入することが8日までにわかった。国内のスマートフォン決済会社を200億円超で買収し、インドや米国に続き日本でも2022年をめどに自...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jQueryからTypeScript・Reactまで - Viteで始めるモダンで高速な開発環境構築 - ICS MEDIA]]></title>
+        <id>https://ics.media/entry/210708/</id>
+        <link href="https://ics.media/entry/210708/"/>
+        <updated>2021-07-08T08:42:33.000Z</updated>
+        <summary type="html"><![CDATA[Vite（ヴィート＝フランス語で「速い」の意味）は2020年に発表された新しいフロントエンドのビルドツールです。 開発者がVue.jsの作者であるEvan You氏であるため、Vue.jsのツールであると誤解されることもありますが、プレーンなJavaScript（バニラJS）からVue.js・React・Svelteといった流行のフレームワークまで、さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小学生『こんにちは！何年生？』自分『働いてる人だよ』→その瞬間防犯ブザーを鳴らされてしまう「なんぼなんでも理不尽すぎ」「なにその高度なトラップ」 - Togetter]]></title>
-        <id>https://togetter.com/li/1742017</id>
-        <link href="https://togetter.com/li/1742017"/>
-        <updated>2021-07-08T02:23:06.000Z</updated>
-        <summary type="html"><![CDATA[でこ彦 @decohico 仕事で外を歩いてたら下校中の小学生が「こんにちは」「何年生？」って話しかけてきてくれたので「働いてる人だよ」と答えたら、その瞬間に防犯ブザーを鳴らし始めたので本当に焦った 2021-07-07 15:23:29]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新しい携帯ゲーム機「風呂」 :: デイリーポータルZ]]></title>
         <id>https://dailyportalz.jp/kiji/new_game_machine-FURO</id>
         <link href="https://dailyportalz.jp/kiji/new_game_machine-FURO"/>
@@ -261,16 +271,6 @@
         <link href="https://forest.watch.impress.co.jp/docs/special/1335793.html"/>
         <updated>2021-07-07T22:01:09.000Z</updated>
         <summary type="html"><![CDATA[ゲーム業界やVTuber界隈で、3DCG制作ツール「Blender」に注目が集まっている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファイザーのワクチン 医療機関など3800万回分余 在庫の可能性 | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210708/k10013125591000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210708/k10013125591000.html"/>
-        <updated>2021-07-07T21:08:29.000Z</updated>
-        <summary type="html"><![CDATA[ファイザーの新型コロナウイルスのワクチンについて、厚生労働省は最大で3800万回分余りが、在庫として全国の医療機関などに保管されている可能性があるとして、自治体に活用するよう求めています。 一方、自治体からは2回目の接種のために確保している分などもあり、余っているワクチンは限られているという声が相次い...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

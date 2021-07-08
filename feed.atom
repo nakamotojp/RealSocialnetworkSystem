@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T19:09:32.683Z</id>
+    <id>urn:2021-07-08T20:12:07.579Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T19:09:32.683Z</updated>
+    <updated>2021-07-08T20:12:07.579Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[いざ尋常に勝負勝負！！！ - Togetter]]></title>
+        <id>https://togetter.com/li/1742236</id>
+        <link href="https://togetter.com/li/1742236"/>
+        <updated>2021-07-08T11:49:24.000Z</updated>
+        <summary type="html"><![CDATA[たられば @tarareba722 やあやあ遠からん者は音にも聞け近くば寄って目にも見よ我こそは炊飯器に米と水を入れおかずの調理にかかりすべて整ってさあ晩飯だと茶碗を出したところで炊飯器のスイッチを入れ忘れた丸なり。腕に覚えのある者よ志あらば前に出よいざ尋常に勝負勝負！！！ 2021-07-08 19:23:08]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[菅首相、宣言下での東京五輪「歴史的な歴史に残る大会を実現したい」（スポニチアネックス） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/6893057a6234d8ba9ecd972e47867305ea9d5f56</id>
         <link href="https://news.yahoo.co.jp/articles/6893057a6234d8ba9ecd972e47867305ea9d5f56"/>
@@ -121,6 +131,16 @@
         <link href="https://ics.media/entry/210708/"/>
         <updated>2021-07-08T08:42:33.000Z</updated>
         <summary type="html"><![CDATA[Vite（ヴィート＝フランス語で「速い」の意味）は2020年に発表された新しいフロントエンドのビルドツールです。 開発者がVue.jsの作者であるEvan You氏であるため、Vue.jsのツールであると誤解されることもありますが、プレーンなJavaScript（バニラJS）からVue.js・React・Svelteといった流行のフレームワークまで、さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナワクチンの「2回目難民」　2回目の接種が遅れても大丈夫か？(倉原優) - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/kuraharayu/20210708-00246937/</id>
+        <link href="https://news.yahoo.co.jp/byline/kuraharayu/20210708-00246937/"/>
+        <updated>2021-07-08T08:35:07.000Z</updated>
+        <summary type="html"><![CDATA[「2回目難民」モデルナ社製のワクチンは4週間あけて合計2回、ファイザー社製のワクチンは3週間あけて合計2回（図）、接種する必要があります。 ワクチンの接種日（筆者作成） しかし、現在ワクチンの供給量が追い付いておらず、1回目を接種した後にもかかわらず、2回目の接種ができない「2回目難民」が増加しています。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[表現の不自由展会場に爆竹？入り郵便物　破裂し避難騒ぎ：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP783G6HP78OIPE00D.html</id>
-        <link href="https://www.asahi.com/articles/ASP783G6HP78OIPE00D.html"/>
-        <updated>2021-07-08T02:00:49.000Z</updated>
-        <summary type="html"><![CDATA[8日午前9時半ごろ、名古屋市中区栄4丁目の市施設「市民ギャラリー栄」で来場者が避難する騒ぎがあった。ギャラリーでは、6日から国際芸術祭「あいちトリエンナーレ2019」で一時中止された企画展「表現の不自由展・その後」出展作品の展覧会が開かれていた。けが人はいないとみられる。 捜査関係者によると、この日、ギャ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTML tableの実装がこれまでと変わる！Googleデベロッパーによる変更点の解説 -TablesNG | コリス]]></title>
         <id>https://coliss.com/articles/build-websites/operation/work/about-tablesng.html</id>
         <link href="https://coliss.com/articles/build-websites/operation/work/about-tablesng.html"/>
         <updated>2021-07-08T00:49:33.000Z</updated>
         <summary type="html"><![CDATA[GoogleではCSSの新機能を導入するだけでなく、既存の機能を向上することにも取り組んでいます。その中の一つ「TablesNG」で、HTMLのtableの実装がこれまでと変わるのでその変更点を紹介します。 tableは古くからあり、その後さまざまなCSSの機能がブラウザに実装されました。当然、それらの新しい機能にtableは対応して...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無償モデリングソフト「Blender」はVTuberで需要急増？大人気の「無償マニュアル」の裏側を聞いてみた - 窓の杜]]></title>
-        <id>https://forest.watch.impress.co.jp/docs/special/1335793.html</id>
-        <link href="https://forest.watch.impress.co.jp/docs/special/1335793.html"/>
-        <updated>2021-07-07T22:01:09.000Z</updated>
-        <summary type="html"><![CDATA[ゲーム業界やVTuber界隈で、3DCG制作ツール「Blender」に注目が集まっている。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

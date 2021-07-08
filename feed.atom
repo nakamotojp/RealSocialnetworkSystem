@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T10:13:22.455Z</id>
+    <id>urn:2021-07-08T11:10:07.506Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T10:13:22.455Z</updated>
+    <updated>2021-07-08T11:10:07.506Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210708/k10013125531000.html"/>
         <updated>2021-07-08T06:40:50.000Z</updated>
         <summary type="html"><![CDATA[「雑音の中では話が聞き取れない」 「早口や小さな声が聞き取りにくい」 聴力は正常でも雑音の多い場所では必要な音や話を選び取れず、理解できなくなってしまう「APD（＝聴覚情報処理障害）」という症状があります。専門家で作る研究グループはこうした症状がある人がどのくらいいるか実態を把握するため、大阪と首都圏...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不自由展会場休館、開催不可能に ｜ 共同通信]]></title>
+        <id>https://nordot.app/785756431338405888</id>
+        <link href="https://nordot.app/785756431338405888"/>
+        <updated>2021-07-08T06:37:15.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市は8日、「表現の不自由展」が開催されている市施設での郵送物の破裂を受け、11日まで施設を臨時休館すると発表した。不自由展は11日までの予定で、開催が不可能になった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://www.j-cast.com/2021/07/07415629.html?p=all"/>
         <updated>2021-07-07T13:19:34.000Z</updated>
         <summary type="html"><![CDATA[土石流で大きな被害を受けた静岡県熱海市は2021年7月7日、寄せられる支援物資の受け入れを一時休止すると発表した。 市の観光建設部の担当者は「心苦しい」と吐露する。なぜ、苦渋の決断となったのか。背景には送り手が思う「必要そうなもの」と「実際に必要なもの」とのギャップがあった。 「食事の提供も、飲料の提供...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sekkai on Twitter: "Pfizer の mRNA ワクチンの治験が4万人規模で圧倒的な成績を示しているのに、塩野義のワクチンが phase 2 trial の時点でたかだか200人でしか治験してなくて、それで年末までに緊急使用申請して6,000万人に投… https://t.co/7Vi1flwoiP"]]></title>
-        <id>https://twitter.com/sekkai/status/1412727525906608133</id>
-        <link href="https://twitter.com/sekkai/status/1412727525906608133"/>
-        <updated>2021-07-07T13:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Pfizer の mRNA ワクチンの治験が4万人規模で圧倒的な成績を示しているのに、塩野義のワクチンが phase 2 trial の時点でたかだか200人でしか治験してなくて、それで年末までに緊急使用申請して6,000万人に投… https://t.co/7Vi1flwoiP]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -6,6 +6,60 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/08/news041.html",
+          "author": null,
+          "description": "しばしば聴かれる質問。だが、この問題については誰もちゃんと答えていないようなので、西田宗千佳さんが乗り出した。 現在のスマートフォンは、ほとんどがバッテリー内蔵で、交換することができない。先日、「交換できないのは問題だ」とする記事がSNSでバズっていた。メーカーがスマホを買い替えさせるために交換でき...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/08/news041.html",
+          "publishedOn": "2021-07-07T23:19:10.000Z",
+          "wordCount": 152,
+          "title": "「なぜスマホのバッテリーは交換できないの？」　その理由と問題の本質を考える（1/4 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/special/1335793.html",
+          "author": null,
+          "description": "ゲーム業界やVTuber界隈で、3DCG制作ツール「Blender」に注目が集まっている。",
+          "link": "https://forest.watch.impress.co.jp/docs/special/1335793.html",
+          "publishedOn": "2021-07-07T22:01:09.000Z",
+          "wordCount": 187,
+          "title": "無償モデリングソフト「Blender」はVTuberで需要急増？大人気の「無償マニュアル」の裏側を聞いてみた - 窓の杜"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210708/k10013126071000.html",
+          "author": null,
+          "description": "大リーグ、エンジェルスの大谷翔平選手が今シーズン32号ホームランを打ち、大リーグでの日本選手のシーズン最多ホームラン記録を更新しました。 大谷選手は、前日の試合でピッチャーとして登板し日米通算50勝目をあげた翌日の7日も本拠地のカリフォルニア州アナハイムで行われているレッドソックス戦に2番 指名打者で先...",
+          "link": "https://www3.nhk.or.jp/news/html/20210708/k10013126071000.html",
+          "publishedOn": "2021-07-07T21:58:36.000Z",
+          "wordCount": 30,
+          "title": "大リーグ 大谷翔平 32号ホームラン 日本選手シーズン単独最多 | 大リーグ | NHKニュース"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210708/k10013125591000.html",
+          "author": null,
+          "description": "ファイザーの新型コロナウイルスのワクチンについて、厚生労働省は最大で3800万回分余りが、在庫として全国の医療機関などに保管されている可能性があるとして、自治体に活用するよう求めています。 一方、自治体からは2回目の接種のために確保している分などもあり、余っているワクチンは限られているという声が相次い...",
+          "link": "https://www3.nhk.or.jp/news/html/20210708/k10013125591000.html",
+          "publishedOn": "2021-07-07T21:08:29.000Z",
+          "wordCount": 25,
+          "title": "ファイザーのワクチン 医療機関など3800万回分余 在庫の可能性 | 新型コロナ ワクチン（日本国内） | NHKニュース"
+        },
+        {
+          "id": "https://note.com/gotch_akg/n/nd5f787e9316c",
+          "author": null,
+          "description": "率直に言って、とても残念だ。ほとんど空白とも言える2020年を経て、また、大きな緊張を抱えて臨んだゴールデンウィークのフェスを乗り越えて、少しずつコロナ禍の先に新しい日常を見出すための、はじまりの季節だと、この夏を捉えていた。 当時の逡巡についてはこちらの投稿を読んでほしい。音楽関係者の困惑や憤り、そ...",
+          "link": "https://note.com/gotch_akg/n/nd5f787e9316c",
+          "publishedOn": "2021-07-07T17:36:10.000Z",
+          "wordCount": 80,
+          "title": "わきまえていないのは #4-3｜Masafumi Gotoh｜note"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210707231116",
+          "author": null,
+          "description": "licensenecessaryreceive",
+          "link": "https://anond.hatelabo.jp/20210707231116",
+          "publishedOn": "2021-07-07T14:42:04.000Z",
+          "wordCount": 72,
+          "title": "いまだに綴りが覚えられない英単語"
+        },
+        {
           "id": "https://www.tokyo-np.co.jp/article/115235",
           "author": null,
           "description": "生活保護を申請した人らが公的支援で一時的に滞在するホテルから「五輪需要」を理由に退室を求められているとして、生活困窮者を支援する１０の団体などが７日、東京五輪・パラリンピック中に居場所を失う困窮者が出ないよう、都に実態把握や改善を求める要望書を提出した。 住まいがない生活保護申請者は、無料・低額宿...",
@@ -20,8 +74,17 @@
           "description": "戦力差が10倍以上のもののみ取り上げています。随時更新中 古代・テルモピレーの戦い B.C.480　ペルシア戦争　ギリシア軍700vsペルシア軍30万以下 スパルタ王レオニダス指揮下のギリシア連合軍がペルシア軍の大軍と激突した。狭い地形を活かし、3日間の激戦を繰り広げるが、背後から攻撃され敗北した。この戦いでギリシ...",
           "link": "https://anond.hatelabo.jp/20210707223409",
           "publishedOn": "2021-07-07T13:36:31.000Z",
-          "wordCount": 263,
+          "wordCount": 266,
           "title": "圧倒的な戦力差にも関わらず勝利・善戦した戦い"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210707163051",
+          "author": null,
+          "description": "新卒で入った会社の転勤で東京に来た。 もともと東京で働きたかったわけじゃない、でも若手で期待されているのを知ってたしキャリアアップになると確信して部署異動も含めて辞令を飲んだ、後悔はしてない。 でも転勤して、上司の期待通りのことは何一つ出来なくて、オペレーター仕事しかできず、なんのために転勤したの...",
+          "link": "https://anond.hatelabo.jp/20210707163051",
+          "publishedOn": "2021-07-07T13:25:40.000Z",
+          "wordCount": 118,
+          "title": "さよなら東京"
         },
         {
           "id": "https://www.j-cast.com/2021/07/07415629.html?p=all",
@@ -31,6 +94,15 @@
           "publishedOn": "2021-07-07T13:19:34.000Z",
           "wordCount": 172,
           "title": "支援物資いりません...熱海市が「苦渋の決断」　背景には何が？市が明かす被災地の現状: J-CAST ニュース【全文表示】"
+        },
+        {
+          "id": "https://twitter.com/sekkai/status/1412727525906608133",
+          "author": null,
+          "description": "Pfizer の mRNA ワクチンの治験が4万人規模で圧倒的な成績を示しているのに、塩野義のワクチンが phase 2 trial の時点でたかだか200人でしか治験してなくて、それで年末までに緊急使用申請して6,000万人に投… https://t.co/7Vi1flwoiP",
+          "link": "https://twitter.com/sekkai/status/1412727525906608133",
+          "publishedOn": "2021-07-07T13:13:03.000Z",
+          "wordCount": 196,
+          "title": "sekkai on Twitter: \"Pfizer の mRNA ワクチンの治験が4万人規模で圧倒的な成績を示しているのに、塩野義のワクチンが phase 2 trial の時点でたかだか200人でしか治験してなくて、それで年末までに緊急使用申請して6,000万人に投… https://t.co/7Vi1flwoiP\""
         },
         {
           "id": "https://twitter.com/lady_merrow/status/1410192776671612930",
@@ -56,7 +128,7 @@
           "description": "北海道新聞の女性記者（22）が取材の際、国立大学法人旭川医科大（北海道旭川市）の建物内に無断で侵入したとして建造物侵入容疑で現行犯逮捕された事件で、同社は7日、経緯や見解をまとめた「社内調査報告」を公表した。この調査報告について、北海道新聞の元記者で、北海道警裏金問題の取材班代表として新聞協会賞など...",
           "link": "https://mainichi.jp/articles/20210707/k00/00m/040/298000c",
           "publishedOn": "2021-07-07T13:03:52.000Z",
-          "wordCount": 484,
+          "wordCount": 483,
           "title": "北海道新聞は「調査報告の体をなしていない」元記者の識者が批判 | 毎日新聞"
         },
         {
@@ -65,7 +137,7 @@
           "description": "Transcript モデリングを起点に可読性の高いコードを実現する 2021/07/07 #readablelt Yoshiki Iida リーダブルコード by DDD Yoshiki Iida (@ysk_118) エンジニアに始まり、スクラムマスター、プロダクトオーナー、マネージャー、執行 役員を経験し、現場のチームビルディングから部署を超えた会社全体の改善な ど、ア...",
           "link": "https://speakerdeck.com/yoshikiiida/readable-code-by-ddd",
           "publishedOn": "2021-07-07T12:53:34.000Z",
-          "wordCount": 865,
+          "wordCount": 866,
           "title": "リーダブルコード by DDD / Readable Code by DDD - Speaker Deck"
         },
         {
@@ -74,7 +146,7 @@
           "description": "手芸は「呪い」を解く？ 男子高校生が編み物を通して自分を取り戻す漫画「ニッターズハイ！」作者に聞く 「男が手芸なんて変だし」。自分にかけられてしまった「呪い」やジェンダーバイアスを解体していく物語『ニッターズハイ！ 』。「男子高校生が編み物をする」というテーマはどのようにして生まれたのか。作者の猫田...",
           "link": "https://anond.hatelabo.jp/20210707213629",
           "publishedOn": "2021-07-07T12:45:22.000Z",
-          "wordCount": 637,
+          "wordCount": 685,
           "title": "男性の問題について何故女性が首を突っ込んでくるのか？という疑問"
         },
         {
@@ -85,6 +157,15 @@
           "publishedOn": "2021-07-07T12:32:09.000Z",
           "wordCount": 215,
           "title": "ロッキンに中止要請の県医師会「五輪は要請出す案件ではない」 | 女性自身"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ed108366d2f4c8248f916f6cc9b6961e25682d7a",
+          "author": null,
+          "description": "「当店は選手村なので堂々とお酒を提供します」。東京都内の飲食店が掲出した、こんな貼り紙がツイッターで話題になっている。 【写真】政治家への皮肉を効かせたポップも 赤、青、黄、緑と五輪マークのような色が付いた円弧に挟まれて、「IOC」と黒の字が入っている。国際オリンピック委員会の略称でもあるが、貼り紙で...",
+          "link": "https://news.yahoo.co.jp/articles/ed108366d2f4c8248f916f6cc9b6961e25682d7a",
+          "publishedOn": "2021-07-07T12:23:27.000Z",
+          "wordCount": 88,
+          "title": "「当店は選手村なので酒を提供します」　IOCに強烈皮肉？渋谷の居酒屋の貼り紙が話題に（J-CASTニュース） - Yahoo!ニュース"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210707/k10013125481000.html",
@@ -101,7 +182,7 @@
           "description": "麻生太郎財務大臣は７日、財務省での会見で、学校法人「森友学園」に関する決裁文書を財務省が改ざんした問題について、改めて再調査を否定した。検察の調査を受けたことを理由に、「検察ですから第三者ですからね」と強調。質問した本紙記者を見つめ、「わかってるね？その部分。きょとんとしてるけど、それは顔のせい...",
           "link": "https://www.tokyo-np.co.jp/article/115209",
           "publishedOn": "2021-07-07T11:32:05.000Z",
-          "wordCount": 321,
+          "wordCount": 322,
           "title": "麻生氏　森友改ざん「再調査しない」　本紙記者に「わかってるね？」容姿にまた言及：東京新聞 TOKYO Web"
         },
         {
@@ -114,13 +195,13 @@
           "title": "40代で競プロができるのかという話 - 競プロ始めました"
         },
         {
-          "id": "https://www.jiji.com/jc/article?k=2021070701164&g=int",
+          "id": "https://gigazine.net/news/20210707-robot-run-grocery-store/",
           "author": null,
-          "description": "ハイチで大統領暗殺　暫定首相「外国人集団の仕業」 2021年07月07日21時48分 ハイチのモイーズ大統領＝２０１９年１０月、ポルトープランス（ＥＰＡ時事） 【サンパウロ時事】政情不安に陥っているカリブ海の島国ハイチからの報道によると、ジョゼフ暫定首相は７日、ジョブネル・モイーズ大統領（５３）が自宅で武装集団...",
-          "link": "https://www.jiji.com/jc/article?k=2021070701164&g=int",
-          "publishedOn": "2021-07-07T11:06:30.000Z",
-          "wordCount": 349,
-          "title": "ハイチで大統領暗殺　暫定首相「外国人集団の仕業」：時事ドットコム"
+          "description": "チャンネル登録者数397万人超の人気YouTuberであるトム・スコット氏が、イギリスのネットスーパーである「Ocado」の食料品倉庫に潜入し、その中で稼働する無数のロボットを紹介するムービーを公開し、話題を呼んでいます。 How many robots does it take to run a grocery store? - YouTube スコット氏がやってきたのは...",
+          "link": "https://gigazine.net/news/20210707-robot-run-grocery-store/",
+          "publishedOn": "2021-07-07T11:05:59.000Z",
+          "wordCount": 194,
+          "title": "2000台超のロボットが走り回ってネット通販で注文された商品をまとめて梱包する自動化された最新倉庫の実態を収めたムービー - GIGAZINE"
         },
         {
           "id": "https://anond.hatelabo.jp/20210707162046",
@@ -128,7 +209,7 @@
           "description": "仁義なきプリキュア https://www.nishinippon.co.jp/item/n/765758/ というパワータイトルが出たので、これをこえるのを目指そう。 七人のプリキュア プリキュア家の一族 極道のプリキュアたち プリキュアの異常な愛情 ほかには？",
           "link": "https://anond.hatelabo.jp/20210707162046",
           "publishedOn": "2021-07-07T11:04:33.000Z",
-          "wordCount": 365,
+          "wordCount": 401,
           "title": "映画のタイトルにプリキュア入れていこうぜ"
         },
         {
@@ -143,20 +224,11 @@
         {
           "id": "https://www3.nhk.or.jp/news/html/20210707/k10013125451000.html",
           "author": null,
-          "description": "新型コロナウイルス対策で、政府は、東京都を対象に4回目となる緊急事態宣言を出す方針を固め、与党側に伝えました。 また、沖縄県の緊急事態宣言も延長し、期限は、いずれも来月22日までとする方針です。",
+          "description": "新型コロナウイルス対策で、政府は、東京都を対象に4回目となる緊急事態宣言を出す方針を固め、与党側に伝えました。 沖縄県の緊急事態宣言も延長し、期限は、いずれも来月22日までとする方針です。 沖縄も延長の方針 沖縄県を対象にした緊急事態宣言と、東京など10の都道府県に適用されているまん延防止等重点措置は、...",
           "link": "https://www3.nhk.or.jp/news/html/20210707/k10013125451000.html",
           "publishedOn": "2021-07-07T10:37:16.000Z",
           "wordCount": 30,
-          "title": "東京に4回目の緊急事態宣言へ 政府方針 | NHKニュース"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8849315aa9634a4b86913dd2ae60eea36040b4f6",
-          "author": null,
-          "description": "政府が新型コロナウイルス特別措置法に基づき蔓延（まんえん）防止等重点措置を適用している東京都に対し、緊急事態宣言を発令する方向で調整に入ったことが７日、分かった。複数の政府関係者が明らかにした。２３日に開会式が行われる東京五輪は、原則無観客で行われる公算が大きくなった。東京都に宣言が発令されれば...",
-          "link": "https://news.yahoo.co.jp/articles/8849315aa9634a4b86913dd2ae60eea36040b4f6",
-          "publishedOn": "2021-07-07T09:17:56.000Z",
-          "wordCount": 64,
-          "title": "＜独自＞東京に緊急事態宣言発令　政府調整（産経新聞） - Yahoo!ニュース"
+          "title": "東京に4回目の緊急事態宣言へ 期限来月22日まで 政府方針 | 新型コロナウイルス | NHKニュース"
         },
         {
           "id": "https://www.asahi.com/articles/ASP775Q1KP77UTQP029.html",
@@ -164,26 +236,8 @@
           "description": "7日で競技開始まであと2週間となった東京オリンピック（五輪）で、観客の扱いがいまだ定まらない。6月21日に前提条件つきで決まった「上限1万人」の方針は「風前のともしび」（大会関係者）で、大規模会場や夜間の試合の「一部無観客」のほか、全会場を無観客にする案も取りざたされている。運営の要となる大会組織委員...",
           "link": "https://www.asahi.com/articles/ASP775Q1KP77UTQP029.html",
           "publishedOn": "2021-07-07T08:48:30.000Z",
-          "wordCount": 217,
+          "wordCount": 222,
           "title": "方針決まらず「現場もう限界」　完全無観客なら課題山積 - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル"
-        },
-        {
-          "id": "https://lastline.hatenablog.com/entry/2021/07/07/161622",
-          "author": null,
-          "description": "最初にまとめ 2020年10月29日：モデルナ製ワクチンが2021年上半期で4000万回分供給されるとの情報。 2021年5月24日：厚労省の資料に4000万回分と記載されており、現在も訂正がない。 2021年6月1日：河野大臣が4000万回分を否定。ただし、実際の供給量などは言及せず。また、職域接種は大体的に募集している。 2021年6月2...",
-          "link": "https://lastline.hatenablog.com/entry/2021/07/07/161622",
-          "publishedOn": "2021-07-07T08:08:47.000Z",
-          "wordCount": 125,
-          "title": "河野大臣とモデルナ製ワクチン4000万回分 - 最終防衛ライン3"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210707/k10013124641000.html",
-          "author": null,
-          "description": "東京都内では、7日、新たに920人の感染が確認され5月13日以来、900人を超えました。1週間前の水曜日より206人増えているほか、20代から40代がおよそ7割を占めていて、都の担当者は「変異ウイルスの影響もあり急激な感染拡大が強く懸念される。改めて増加傾向である状況を認識してもらいたい」と呼びかけています。 東京...",
-          "link": "https://www3.nhk.or.jp/news/html/20210707/k10013124641000.html",
-          "publishedOn": "2021-07-07T07:49:05.000Z",
-          "wordCount": 34,
-          "title": "東京都 コロナ 3人死亡 920人感染確認 900人超は5月13日以来 | 新型コロナ 国内感染者数 | NHKニュース"
         },
         {
           "id": "https://bunshun.jp/articles/-/46660",
@@ -191,17 +245,8 @@
           "description": "平井氏が保有していたのは、IT関連企業「豆蔵ホールディングス」（東京都新宿区）の株式8400株。同社は、荻原紀男社長（63）が1999年に創業した会社が前身で、2004年に東証マザーズ、2013年に東証一部への上場を果たした。 最近では、豆蔵ホールディングスのグループ会社「ネクストスケープ」（東京都新宿区）が、内閣官...",
           "link": "https://bunshun.jp/articles/-/46660",
           "publishedOn": "2021-07-07T07:08:30.000Z",
-          "wordCount": 202,
+          "wordCount": 203,
           "title": "平井デジタル相に資産公開法違反の疑い　“五輪アプリ受注”の親密ITグループの株を不記載 | 文春オンライン"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qmsTpZW5h8o",
-          "author": null,
-          "description": "2021年5月10日衆議院予算委員会 https://www.youtube.com/watch?v=FX7qWJRNd5o ＜2:02:02 から2:13:36まで。オリンピック開催の是非について＞ ●山井和則議員　 　そういう中で、これ、オリンピック優先と言っている場合じゃないんじゃないか。自分自身のみならず、国民の命、あるいは先ほども言いましたように、コロナ...",
-          "link": "https://www.youtube.com/watch?v=qmsTpZW5h8o",
-          "publishedOn": "2021-07-07T06:54:20.000Z",
-          "wordCount": null,
-          "title": "【字幕】山井和則議員（立憲民主党）vs 菅義偉首相：感染急増、感染爆発でもオリンピックは開催するのか（2021年5月10日　衆議院予算委員会）"
         },
         {
           "id": "https://www.htb.co.jp/news/archives_12310.html",
@@ -213,33 +258,6 @@
           "title": "ワクチン反対の市民らに応対した道職員らが感染 | HTB北海道ニュース"
         },
         {
-          "id": "https://seijotcp.hatenablog.com/entry/2021/07/07/142707",
-          "author": null,
-          "description": "ジャーナリストの伊藤詩織氏と、最近はTwitterのプロフィールに「Ex-東大最年少准教授」「経済学者」という肩書きをつけている大澤昇平氏との裁判について、東京地裁は7月6日、大澤氏に対し、33万円の支払いと投稿の削除を命じました。判決文の内容を踏まえつつ、投げかけられている課題について考えてみます。 まずは、...",
-          "link": "https://seijotcp.hatenablog.com/entry/2021/07/07/142707",
-          "publishedOn": "2021-07-07T05:53:30.000Z",
-          "wordCount": 168,
-          "title": "伊藤詩織氏と大澤昇平氏との裁判、判決内容が示唆するもの - 荻上式BLOG"
-        },
-        {
-          "id": "https://davitrice.hatenadiary.jp/entry/2021/07/07/122636",
-          "author": null,
-          "description": "このブログではめずらしく個人的な思い出話。 91年生まれ大反省会をしたい。わたしは91年生まれで今年30になる。若者と括られてきたけど、明らかに今の世代と全く育ってきた景色が違うことを感じる。政治家と言えば小泉首相、まだ日本は経済的にすごいと習ったし、嫌韓本が本屋に並び、ネットは2chにニコニコ、メディア...",
-          "link": "https://davitrice.hatenadiary.jp/entry/2021/07/07/122636",
-          "publishedOn": "2021-07-07T03:34:06.000Z",
-          "wordCount": 152,
-          "title": "89年生まれのわたしにとっての「はてな」 - 道徳的動物日記"
-        },
-        {
-          "id": "http://rijfes.jp/2021/info/1928/",
-          "author": null,
-          "description": "「ロック・イン・ジャパン・フェスティバル 2021」の開催を中止いたします。私たちは、コロナ禍に於ける安全なフェス実現の為に1年以上の長い時間をかけて開催スキームを検討してきました。そして、会場である国営ひたち海浜公園、地元自治体の茨城県やひたちなか市と協議を重ねて開催の承認をいただき、券売を始めてい...",
-          "link": "http://rijfes.jp/2021/info/1928/",
-          "publishedOn": "2021-07-07T03:11:13.000Z",
-          "wordCount": 138,
-          "title": "ROCK IN JAPAN FESTIVAL 2021開催中止に関して、皆さんにお伝えしたいこと | ROCK IN JAPAN FESTIVAL 2021"
-        },
-        {
           "id": "https://srdk.rakuten.jp/entry/2021/07/07/103000",
           "author": null,
           "description": "こんにちは。伊藤賀一と申します。 原始から近代・現代まで、あらゆる時代をカバーしているオールラウンド型の珍しい日本史講師です。 日本史だけでなく社会科全般を教えているため、ありがたいことに「日本一生徒数が多い社会科講師」という称号もいただいたことがあります。 今回は「日本史を学び直すための本」を紹介...",
@@ -247,24 +265,6 @@
           "publishedOn": "2021-07-07T01:51:59.000Z",
           "wordCount": 510,
           "title": "日本史の学び直しにぴったりな本、10タイトル。日本一生徒数の多い社会科講師が選んでみた（伊藤賀一） - ソレドコ"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1336421.html",
-          "author": null,
-          "description": "株式会社Preferred Networks(PFN)とENEOS株式会社(ENEOS)は7月6日、共同出資により6月1日に設立した新会社Preferred Computational Chemistry(PFCC、プリファード・コンピュテーショナル・ケミストリー)から、共同開発した新物質開発・材料探索を高速化する汎用原子レベルシミュレータ「Matlantis(マトランティス)」をクラウドサービスとして提供開始したと発表した。契約ユーザー向けに提供する。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1336421.html",
-          "publishedOn": "2021-07-07T01:34:52.000Z",
-          "wordCount": 182,
-          "title": "3千CPUで数カ月かかる計算が0.1秒で完了。汎用原子レベルシミュレータ「Matlantis」 ～PFNとENEOSがクラウドサービスで提供開始 - PC Watch"
-        },
-        {
-          "id": "https://www.tokyo-sports.co.jp/sports/gymnastics/3387282/",
-          "author": null,
-          "description": "内村航平 東京五輪に出場する日本選手団の壮行会が６日、オンライン形式で開催された。 ４度目の五輪出場となる体操の内村航平（３２＝ジョイカル）は過去大会とは違う異例の雰囲気について「ああいう式典をオンラインでやるっていうのは、ちょっと物足りない気がしますね」と率直な感想を漏らした。 昨年１１月の国際大...",
-          "link": "https://www.tokyo-sports.co.jp/sports/gymnastics/3387282/",
-          "publishedOn": "2021-07-07T01:07:58.000Z",
-          "wordCount": 299,
-          "title": "【東京五輪】体操・内村航平オンライン壮行会終え「選手が何を言おうが世界は変わらない」 | 東スポの体操に関するニュースを掲載"
         },
         {
           "id": "https://note.com/sgmtyu/n/n60ae42a413b0",

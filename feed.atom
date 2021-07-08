@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T20:12:07.579Z</id>
+    <id>urn:2021-07-08T21:11:03.624Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T20:12:07.579Z</updated>
+    <updated>2021-07-08T21:11:03.624Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[オンラインお賽銭サイト『カミムスビ』に掲載の複数の神社が注意喚起「当神社は一切関わりがございません」 - Togetter]]></title>
+        <id>https://togetter.com/li/1742192</id>
+        <link href="https://togetter.com/li/1742192"/>
+        <updated>2021-07-08T11:00:06.000Z</updated>
+        <summary type="html"><![CDATA[緒羽神主【公式】 @rurusekakiha 友人神職から注意喚起があったので念のため。 オンラインで自分の好きな神社にお賽銭を入れられるサイトだそうですが、 断りもなく勝手に神社の名前と写真を使われて、 当然無許可なので利用者が入れたお賽銭が神社に支払われるような契約は交わされていないようです。 kamimusubi.or.jp...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「N先生に連れられ戻ってきた時、涙とヨダレでビショビショに…」横浜市教諭が小4女児に行った、陰湿イジメの全貌 | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/46572</id>
         <link href="https://bunshun.jp/articles/-/46572"/>
@@ -166,21 +176,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 2人死亡 896人感染確認 19日連続前週上回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210708/k10013127141000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210708/k10013127141000.html"/>
-        <updated>2021-07-08T07:49:26.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では、8日新たに896人が新型コロナウイルスに感染していることが確認されました。 1週間前の木曜日より223人増えていて、19日連続で前の週の同じ曜日を上回りました。 また、都は、感染が確認された男性2人が死亡したことを明らかにしました。 東京都は、8日都内で新たに10歳未満から80代までの男女合わせて896...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[熱海の土石流災害について静岡県の副知事が会見で自身の見解を述べる→経歴を見てみるとガチの専門家の方だった - Togetter]]></title>
         <id>https://togetter.com/li/1742146</id>
         <link href="https://togetter.com/li/1742146"/>
         <updated>2021-07-08T07:35:52.000Z</updated>
         <summary type="html"><![CDATA[ゆるふわ怪電波☆埼玉 @yuruhuwa_kdenpa 静岡県の副知事かっこいいな 技術者として専門知識で解説できるの有能すぎる… 本来なら許可を出した後の監督責任の追及を恐れて言及したくはないはずの盛り土について踏み込んだ解説をしていた やはり技術者しか勝たん pic.twitter.com/omItJDMl6u 2021-07-07 23:48:05]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウマ娘を許せない。]]></title>
+        <id>https://anond.hatelabo.jp/20210708161706</id>
+        <link href="https://anond.hatelabo.jp/20210708161706"/>
+        <updated>2021-07-08T07:24:35.000Z</updated>
+        <summary type="html"><![CDATA[アイドルマスターミリオンライブという作品がある。 その中で信号機トリオと呼ばれる主人公格になる３人がいる。 ・赤・春日未来(cv：山崎はるか) ・青・最上静香(cv：田所あずさ) ・黄・伊吹翼(cv：machico) である。 ウマ娘を知っている人ならおっと思うはずだ。 皇帝シンボリルドルフ役の田所あずさ、そしてアニメ２...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://news.livedoor.com/article/detail/20496107/"/>
         <updated>2021-07-08T02:36:15.000Z</updated>
         <summary type="html"><![CDATA[2021年7月8日 10時37分 ざっくり言うと 西村康稔経済再生相が8日午前、酒類提供を続ける飲食店について言及した そうした飲食店と取引をしないよう酒類販売事業者に要請する意向を明らかに 「酒類提供停止を徹底するため」だと説明している 経済再生担当相は８日午前、の基本的対処方針分科会で、酒類提供を続ける飲食店...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML tableの実装がこれまでと変わる！Googleデベロッパーによる変更点の解説 -TablesNG | コリス]]></title>
-        <id>https://coliss.com/articles/build-websites/operation/work/about-tablesng.html</id>
-        <link href="https://coliss.com/articles/build-websites/operation/work/about-tablesng.html"/>
-        <updated>2021-07-08T00:49:33.000Z</updated>
-        <summary type="html"><![CDATA[GoogleではCSSの新機能を導入するだけでなく、既存の機能を向上することにも取り組んでいます。その中の一つ「TablesNG」で、HTMLのtableの実装がこれまでと変わるのでその変更点を紹介します。 tableは古くからあり、その後さまざまなCSSの機能がブラウザに実装されました。当然、それらの新しい機能にtableは対応して...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

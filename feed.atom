@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T01:56:53.714Z</id>
+    <id>urn:2021-07-08T02:26:19.169Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T01:56:53.714Z</updated>
+    <updated>2021-07-08T02:26:19.169Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[国際的なサッカー選手権で見えた答え合わせ　専門家が命を守るために提示する3つの選択肢]]></title>
+        <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210706-2</id>
+        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210706-2"/>
+        <updated>2021-07-08T00:12:43.000Z</updated>
+        <summary type="html"><![CDATA[国際的なサッカー選手権で見えた答え合わせ　専門家が命を守るために提示する3つの選択肢東京五輪を目前とした6月、国際的なサッカー選手権で大規模なクラスターが発生しました。このままいけば過去最大規模の感染爆発も考えられる中、新型コロナのデータ分析をしてきた西浦博さんは命を守るために3つの選択肢を提示しま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「なぜスマホのバッテリーは交換できないの？」　その理由と問題の本質を考える（1/4 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2107/08/news041.html</id>
@@ -71,6 +81,16 @@
         <link href="https://twitter.com/renho_sha/status/1412475495560581122"/>
         <updated>2021-07-07T16:40:53.000Z</updated>
         <summary type="html"><![CDATA[いや、これ。 スパコンの使い方間違ってませんか。　 今までの映画館や劇場、イベント等の自粛や中止要請から一転、五輪は10000人でも大丈夫とのお墨付きに使うの、と思えてしまいます。 マスク着用で…観客1万人でも感染リスクゼロの… https://t.co/hOzAGAz6Df]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ガールズバンド」のこと - WASTE OF POPS 80s-90s]]></title>
+        <id>https://www.wasteofpops.com/entry/2021/07/07/000000</id>
+        <link href="https://www.wasteofpops.com/entry/2021/07/07/000000"/>
+        <updated>2021-07-07T16:40:35.000Z</updated>
+        <summary type="html"><![CDATA[昨日の「マツコの知らない世界」で、SHOW-YAの寺田恵子さんと、Mary's Blood/NEMOPHILAのSAKIさんを迎えて「ガールズバンド」を特集していたのでぼんやりと眺めていたところ、いろいろ思いついたのでちょいちょいTwitterに流していたのですが、いったんまとめてみようと思いまして、書きます。 まず冒頭ですごく違和感を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,11 +226,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“酒出る3人以上の会食に2回以上参加”で感染リスク約5倍か | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210707/k10013125481000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210707/k10013125481000.html"/>
-        <updated>2021-07-07T12:13:20.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染リスクについて、国立感染症研究所などのグループが発熱外来などを受診した280人余りを分析したところ「酒の出る3人以上の会食」に2回以上参加していた人は、感染の危険性がおよそ5倍高かったという暫定的な解析結果を公表しました。 この分析結果は、国立感染症研究所の鈴木基感染症疫学センタ...]]></summary>
+        <title type="html"><![CDATA[自民、衆院選へ準備加速　若手指南、パーティー開催 ｜ 共同通信]]></title>
+        <id>https://nordot.app/785443973644681216</id>
+        <link href="https://nordot.app/785443973644681216"/>
+        <updated>2021-07-07T12:15:34.000Z</updated>
+        <summary type="html"><![CDATA[自民党各派閥は次期衆院選をにらみ、選挙準備を加速させている。竹下派は7日、東京都内の派閥事務所に選挙基盤の弱い若手や中堅議員を呼び出し、議席死守に向けた選挙運動の在り方を指南した。各派事務総長は党本部で会談し、不調に終わった都議選の結果を踏まえ、結束を再確認した。岸田派と石破派は8日に都内で政治資...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「ウマ娘」でのブレークで今や師匠！ツインターボの大逃げを東スポで振り返る｜東スポnote]]></title>
-        <id>https://note.tokyo-sports.co.jp/n/n9c5bad6fb511</id>
-        <link href="https://note.tokyo-sports.co.jp/n/n9c5bad6fb511"/>
-        <updated>2021-07-07T10:43:15.000Z</updated>
-        <summary type="html"><![CDATA[「ウマ娘」のゲームやアニメで物語を引っかき回す青い髪の暴走少女が〝師匠〟と呼ばれるほど大人気となっています。１９９０年代前半の日本競馬を面白くした人気者ツインターボです。小さい体で他馬を大きく引き離していく逃げっぷりは、まさに肉を切らせて骨を断つ。勝ちっぷりも、散りっぷりもすがすがしい、一か八か...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京に4回目の緊急事態宣言へ 期限来月22日まで 政府方針 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210707/k10013125451000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210707/k10013125451000.html"/>
@@ -291,16 +301,6 @@
         <link href="https://bunshun.jp/articles/-/46660"/>
         <updated>2021-07-07T07:08:30.000Z</updated>
         <summary type="html"><![CDATA[平井氏が保有していたのは、IT関連企業「豆蔵ホールディングス」（東京都新宿区）の株式8400株。同社は、荻原紀男社長（63）が1999年に創業した会社が前身で、2004年に東証マザーズ、2013年に東証一部への上場を果たした。 最近では、豆蔵ホールディングスのグループ会社「ネクストスケープ」（東京都新宿区）が、内閣官...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン反対の市民らに応対した道職員らが感染 | HTB北海道ニュース]]></title>
-        <id>https://www.htb.co.jp/news/archives_12310.html</id>
-        <link href="https://www.htb.co.jp/news/archives_12310.html"/>
-        <updated>2021-07-07T06:30:35.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナのワクチン接種に反対する市民らが道や札幌市に要請に訪れた際に応対した複数の職員がその後新型コロナに感染していたことがわかりました。 関係者によりますと、新型コロナワクチンの接種に反対する市民らが先月29日と30日、北海道庁や札幌市役所に反対の要請で訪れた際、市民らに応対した道や札幌市の複数の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

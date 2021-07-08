@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T17:23:38.091Z</id>
+    <id>urn:2021-07-08T18:14:34.522Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T17:23:38.091Z</updated>
+    <updated>2021-07-08T18:14:34.522Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -196,6 +196,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[イギリスの1日の新規感染者3万人超す　1月以来最多 - BBCニュース]]></title>
+        <id>https://www.bbc.com/japanese/57759088</id>
+        <link href="https://www.bbc.com/japanese/57759088"/>
+        <updated>2021-07-08T06:34:48.000Z</updated>
+        <summary type="html"><![CDATA[イギリスで1日に確認される新型コロナウイルスの新規感染者が7日、今年1月以来初めて3万人を超えた。ボリス・ジョンソン英首相は下院で、デルタ変異株のため感染は増えているものの、感染と重症化・死亡の間の関係が「断たれた」と述べた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[芸術系大学の学生を面接する人にわかって欲しい「芸術なんか勉強して何の役に立つのか」と質問されて学生も先生も心を痛めている - Togetter]]></title>
         <id>https://togetter.com/li/1742091</id>
         <link href="https://togetter.com/li/1742091"/>
@@ -251,16 +261,6 @@
         <link href="https://news.livedoor.com/article/detail/20496107/"/>
         <updated>2021-07-08T02:36:15.000Z</updated>
         <summary type="html"><![CDATA[2021年7月8日 10時37分 ざっくり言うと 西村康稔経済再生相が8日午前、酒類提供を続ける飲食店について言及した そうした飲食店と取引をしないよう酒類販売事業者に要請する意向を明らかに 「酒類提供停止を徹底するため」だと説明している 経済再生担当相は８日午前、の基本的対処方針分科会で、酒類提供を続ける飲食店...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表現の不自由展会場に爆竹？入り郵便物　破裂し避難騒ぎ：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP783G6HP78OIPE00D.html</id>
-        <link href="https://www.asahi.com/articles/ASP783G6HP78OIPE00D.html"/>
-        <updated>2021-07-08T02:00:49.000Z</updated>
-        <summary type="html"><![CDATA[8日午前9時半ごろ、名古屋市中区栄4丁目の市施設「市民ギャラリー栄」で来場者が避難する騒ぎがあった。ギャラリーでは、6日から国際芸術祭「あいちトリエンナーレ2019」で一時中止された企画展「表現の不自由展・その後」出展作品の展覧会が開かれていた。けが人はいないとみられる。 捜査関係者によると、この日、ギャ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

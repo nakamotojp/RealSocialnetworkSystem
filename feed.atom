@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T02:26:19.169Z</id>
+    <id>urn:2021-07-08T03:13:32.686Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T02:26:19.169Z</updated>
+    <updated>2021-07-08T03:13:32.686Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【独自】「緊急事態宣言」大規模商業施設には休業要請出さない方向で調整（フジテレビ系（FNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/173e222524d3baee1bd6be9dcebe1f8e67969609</id>
+        <link href="https://news.yahoo.co.jp/articles/173e222524d3baee1bd6be9dcebe1f8e67969609"/>
+        <updated>2021-07-08T01:42:15.000Z</updated>
+        <summary type="html"><![CDATA[4度目の緊急事態宣言が出される見通しとなった東京都では、酒類提供については中止を要請する一方、映画館や百貨店など大規模商業施設については、現状のままとする方向で調整が進められていることがわかった。 東京都では、まん延防止等重点措置が7月11日に期限を迎えるが、感染状況などから、8月22日まで緊急事態宣言...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国際的なサッカー選手権で見えた答え合わせ　専門家が命を守るために提示する3つの選択肢]]></title>
         <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210706-2</id>
         <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210706-2"/>
         <updated>2021-07-08T00:12:43.000Z</updated>
         <summary type="html"><![CDATA[国際的なサッカー選手権で見えた答え合わせ　専門家が命を守るために提示する3つの選択肢東京五輪を目前とした6月、国際的なサッカー選手権で大規模なクラスターが発生しました。このままいけば過去最大規模の感染爆発も考えられる中、新型コロナのデータ分析をしてきた西浦博さんは命を守るために3つの選択肢を提示しま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立憲との政策協定「サインしたらダメだ」　国民が拒否へ：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP780BMYP77UTFK00W.html</id>
+        <link href="https://www.asahi.com/articles/ASP780BMYP77UTFK00W.html"/>
+        <updated>2021-07-07T23:43:05.000Z</updated>
+        <summary type="html"><![CDATA[国民民主党は7日、次期衆院選に向けて、連合が求めていた立憲民主党との政策協定を拒否する方針を決めた。国民民主は、東京都議選で共産党と選挙協力した立憲の姿勢を問題視する一方、党内からは小池百合子・東京都知事との連携に期待する声が出ている。（鬼原民幸） 「こんな協定書にサインしたらダメだ！」 国会内でこ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自民、衆院選へ準備加速　若手指南、パーティー開催 ｜ 共同通信]]></title>
-        <id>https://nordot.app/785443973644681216</id>
-        <link href="https://nordot.app/785443973644681216"/>
-        <updated>2021-07-07T12:15:34.000Z</updated>
-        <summary type="html"><![CDATA[自民党各派閥は次期衆院選をにらみ、選挙準備を加速させている。竹下派は7日、東京都内の派閥事務所に選挙基盤の弱い若手や中堅議員を呼び出し、議席死守に向けた選挙運動の在り方を指南した。各派事務総長は党本部で会談し、不調に終わった都議選の結果を踏まえ、結束を再確認した。岸田派と石破派は8日に都内で政治資...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS テクニカルサポートで得た暗黙知をまとめてみた | DevelopersIO]]></title>
         <id>https://dev.classmethod.jp/articles/technical-support-tips/</id>
         <link href="https://dev.classmethod.jp/articles/technical-support-tips/"/>
@@ -291,16 +301,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210707/k10013125451000.html"/>
         <updated>2021-07-07T10:37:16.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス対策で、政府は、東京都を対象に4回目となる緊急事態宣言を出す方針を固め、与党側に伝えました。 沖縄県の緊急事態宣言も延長し、期限は、いずれも来月22日までとする方針です。 沖縄も延長の方針 沖縄県を対象にした緊急事態宣言と、東京など10の都道府県に適用されているまん延防止等重点措置は、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平井デジタル相に資産公開法違反の疑い　“五輪アプリ受注”の親密ITグループの株を不記載 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/46660</id>
-        <link href="https://bunshun.jp/articles/-/46660"/>
-        <updated>2021-07-07T07:08:30.000Z</updated>
-        <summary type="html"><![CDATA[平井氏が保有していたのは、IT関連企業「豆蔵ホールディングス」（東京都新宿区）の株式8400株。同社は、荻原紀男社長（63）が1999年に創業した会社が前身で、2004年に東証マザーズ、2013年に東証一部への上場を果たした。 最近では、豆蔵ホールディングスのグループ会社「ネクストスケープ」（東京都新宿区）が、内閣官...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

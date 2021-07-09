@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T18:15:49.899Z</id>
+    <id>urn:2021-07-09T19:09:17.549Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T18:15:49.899Z</updated>
+    <updated>2021-07-09T19:09:17.549Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://anond.hatelabo.jp/20210707211559"/>
         <updated>2021-07-09T10:25:01.000Z</updated>
         <summary type="html"><![CDATA[・一人目 一人目は学生時代、通販の受信専門コルセンで働いていたとき。住所の確認を繰り返している途中にボン、ゴトンっと鈍い音とともに会話が途切れてしまった。通話自体は続いていたのだで「歩きながら電話でもしていて落としちゃったのかな？」としばらくそのままに。しかし雑音は聞こえるものの一向に話し声が再開...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シティポップの世界的ブームの背景 かれらの日本という国への目線 - インタビュー : Kompass（コンパス） ミュージックガイドマガジン by Spotify&CINRA]]></title>
+        <id>https://kompass.cinra.net/article/202107-citypop_ymmts</id>
+        <link href="https://kompass.cinra.net/article/202107-citypop_ymmts"/>
+        <updated>2021-07-09T10:10:02.000Z</updated>
+        <summary type="html"><![CDATA[シティポップの世界的ブームの背景 かれらの日本という国への目線 テキスト・編集 山元翔一（CINRA.NET編集部） イラスト：アボット奥谷 「シティポップ」にまつわる言説はとても複雑だ。そもそも音楽的な定義が曖昧で、その反面なんとなくの風景やビジュアル、イメージを想起させてしまう言葉の魔力も理由としてあるだ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://gigazine.net/news/20210709-uk-animal-welfare-bill-ban-boiling-lobsters/"/>
         <updated>2021-07-09T02:37:19.000Z</updated>
         <summary type="html"><![CDATA[イギリスで既存の動物愛護法で対象とする「動物」の定義について、甲殻類や軟体動物も含むべきという旨を明文化した「動物福祉(感覚)法」の審議が行われています。この法案が成立すると、動物福祉の観点からロブスターやタコを気絶させずに茹でる行為などが禁じられる可能性があります。 Animal Welfare (Sentience) Bil...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西村再生相はそうした趣旨の発言は絶対しない＝金融機関への飲食店情報提供で菅首相 | ロイター]]></title>
-        <id>https://jp.reuters.com/article/japan-suga-nishimura-covid-idJPKCN2EF03B</id>
-        <link href="https://jp.reuters.com/article/japan-suga-nishimura-covid-idJPKCN2EF03B"/>
-        <updated>2021-07-09T01:38:55.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相（写真）は９日午前、西村康稔経済再生相が昨夜の会見で休業要請に応じない飲食店の情報を金融機関に提供し、金融機関から順守の働きかけをして欲しいと発言したことに関して、西村再生相はそうした趣旨の発言はしないと否定した。写真は５月に撮影。（２０２１年　ロイター／Behrouz Mehri/Pool via REUTERS...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

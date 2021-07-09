@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T20:12:00.242Z</id>
+    <id>urn:2021-07-09T21:11:17.280Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T20:12:00.242Z</updated>
+    <updated>2021-07-09T21:11:17.280Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[五輪 北海道でのサッカー“無観客”開催を決定 道の意向で一転 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210710/k10013130781000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210710/k10013130781000.html"/>
+        <updated>2021-07-09T15:06:28.000Z</updated>
+        <summary type="html"><![CDATA[北海道の札幌ドームで行われる東京オリンピックのサッカー競技について、大会組織員会は上限を設けたうえで、観客を入れて開催するとしていましたが、緊急事態宣言が出される東京都などとの人の往来を防ぐのが難しいという北海道の意向を受けて、一転して観客を入れずに開催することを決めました。 東京オリンピックは、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西村経済再生相 二階幹事長に謝罪　「金融機関」発言を撤回]]></title>
         <id>https://www.fnn.jp/articles/-/208138</id>
@@ -36,11 +46,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[企業のお知らせ配信サイト「PR TIMES」で漏えい　発表前の情報258件に不正アクセスの痕跡 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/09/news145.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/09/news145.html"/>
+        <updated>2021-07-09T10:49:01.000Z</updated>
+        <summary type="html"><![CDATA[企業のプレスリリース配信サービス「PR TIMES」が不正アクセスを受け、公開前の情報258件が流出した。7月9日時点でインサイダー情報の流出は確認していないという。 PR TIMES社（東京都港区）は7月9日、同社が運営する、会員企業の発表を配信するWebサイト「PR TIMES」で当時未発表だった画像ファイルやPDFファイルなど...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「USB3.0」「USB3.1（Gen1）」「USB3.2（Gen1）」は“名前が違うだけで同じ規格”　バッファロー「お客さまの困惑は知っている」 - ねとらぼ]]></title>
         <id>https://nlab.itmedia.co.jp/nl/articles/2107/06/news107.html</id>
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/06/news107.html"/>
         <updated>2021-07-09T10:36:34.000Z</updated>
         <summary type="html"><![CDATA[「USB3.2だと思って購入したのに、パッケージにUSB3.0と書いてあったから返品した」――。AmazonでUSBハブを購入しようとすると、こんな低評価レビューを見かけます。 ところが、PC周辺機器メーカーのバッファローによると「USB3.0」「USB3.1（Gen1）」「USB3.2（Gen1）」は“名称が違うだけで同じ規格”であり、“通信速度や...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ひろゆき」がF爺・小島剛一を「勉強不足の高齢者」呼ばわりしていた(本編) - F爺・小島剛一のブログ]]></title>
+        <id>https://fjii.blog.fc2.com/blog-entry-3037.html?sp</id>
+        <link href="https://fjii.blog.fc2.com/blog-entry-3037.html?sp"/>
+        <updated>2021-07-09T10:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Author:F爺・小島剛一 F国(= フランス)に住む日本人の爺さん。 専門は、言語学(特にトルコ語、ザザ語、ラズ語など)、民族学、日本語文法、作曲・編曲、合唱指揮など。 詳しいことは「Catégories」欄の「自己紹介」という記事に。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 822人感染確認 先週金曜日より162人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210709/k10013129811000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210709/k10013129811000.html"/>
-        <updated>2021-07-09T07:50:22.000Z</updated>
-        <summary type="html"><![CDATA[東京都は9日、都内で新たに822人が新型コロナウイルスに感染していることを確認したと発表しました。822人は1週間前の金曜日より162人増えていて、前の週の同じ曜日を上回るのは20日連続です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【速報】五輪組織委「この3週間のコロナ悪化は想定外」／パートナー企業に謝罪 | 探査報道メディアTansaの報道]]></title>
         <id>https://tansajp.org/investigativejournal/8374/</id>
         <link href="https://tansajp.org/investigativejournal/8374/"/>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「鬼滅の刃」制作会社社長を在宅起訴 ｜ 共同通信]]></title>
-        <id>https://nordot.app/786122468718166016</id>
-        <link href="https://nordot.app/786122468718166016"/>
-        <updated>2021-07-09T06:52:38.000Z</updated>
-        <summary type="html"><![CDATA[東京地検特捜部は9日、約1億3700万円を脱税したとして、法人税法違反などの罪で、人気アニメ「鬼滅の刃」の制作会社「ユーフォーテーブル」の近藤光社長（51）を在宅起訴し、法人としての同社を起訴した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ウイルスに打ち勝った証し→コロナと闘う五輪に　厚労相 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP794G71P79UTFL002.html</id>
         <link href="https://www.asahi.com/articles/ASP794G71P79UTFL002.html"/>
@@ -251,16 +261,6 @@
         <link href="https://www.sankei.com/article/20210709-FZD4Z3MVNZNZPFLJAFLVKBKEYE/"/>
         <updated>2021-07-09T04:44:10.000Z</updated>
         <summary type="html"><![CDATA[記者団の取材に応じる菅義偉首相＝９日午前、首相官邸（春名中撮影）菅義偉（すが・よしひで）首相は９日、下校中の小学生５人がトラックにはねられ死傷した事故が起きた千葉県八街（やちまた）市の北村新司市長と官邸で面会した。首相は同市内全小中学校の送迎スクールバス運行を支援する意向を表明。「全国に先駆けて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西村氏、不公平解消が目的　酒提供で金融機関要請 ｜ 共同通信]]></title>
-        <id>https://nordot.app/786081204047101952</id>
-        <link href="https://nordot.app/786081204047101952"/>
-        <updated>2021-07-09T04:34:05.000Z</updated>
-        <summary type="html"><![CDATA[西村康稔経済再生担当相は9日の閣議後記者会見で、酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう方針について、真面目に取り組んでいる事業者との「不公平感の解消」のためだと説明し、発言を撤回しなかった。立憲民主党の安住淳国対委員長は「単に脅して締め付けようとしている。国民...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

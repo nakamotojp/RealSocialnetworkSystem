@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T02:27:01.087Z</id>
+    <id>urn:2021-07-09T03:13:22.063Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T02:27:01.087Z</updated>
+    <updated>2021-07-09T03:13:22.063Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://jp.reuters.com/article/japan-suga-nishimura-covid-idJPKCN2EF03B"/>
         <updated>2021-07-09T01:38:55.000Z</updated>
         <summary type="html"><![CDATA[菅義偉首相（写真）は９日午前、西村康稔経済再生相が昨夜の会見で休業要請に応じない飲食店の情報を金融機関に提供し、金融機関から順守の働きかけをして欲しいと発言したことに関して、西村再生相はそうした趣旨の発言はしないと否定した。写真は５月に撮影。（２０２１年　ロイター／Behrouz Mehri/Pool via REUTERS...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファイザー、ワクチンのブースター接種許可申請へ　米で8月に | ロイター]]></title>
+        <id>https://jp.reuters.com/article/health-coronavirus-pfizer-idJPKCN2EE2JF</id>
+        <link href="https://jp.reuters.com/article/health-coronavirus-pfizer-idJPKCN2EE2JF"/>
+        <updated>2021-07-09T00:52:14.000Z</updated>
+        <summary type="html"><![CDATA[［ニューヨーク　８日　ロイター］ - 米ファイザーのミカエル・ドルステン最高科学責任者は８日、同社が独ビオンテックと開発した新型コロナウイルスワクチンについて、３回目の追加接種（ブースター接種）の許可を来月中に米食品医薬品局（ＦＤＡ）に申請する方針だと述べた。２回目の接種から半年経過すると再感染リス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米紙「東京五輪、安全安心なのは自己責任同意書で武装したIOCだけ」 | 話題を呼んだ「ぼったくり男爵」著者、再び辛辣コラム | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/252544/</id>
+        <link href="https://courrier.jp/news/archives/252544/"/>
+        <updated>2021-07-08T23:40:23.000Z</updated>
+        <summary type="html"><![CDATA[開幕が迫る東京五輪について、日本でも話題を呼んだ「ぼったくり男爵」の記事を書いた米有力紙「ワシントン・ポスト」のコラムニスト、サリー・ジェンキンスが、このたび再び辛辣なコラムを執筆した。クーリエ・ジャポンはこの最新のコラムを緊急全訳でお届けする。 「安全で安心」催眠術のように繰り返し 東京五輪は安...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった | ギズモード・ジャパン]]></title>
+        <id>https://www.gizmodo.jp/2021/07/resetting-your-iot-device-before-reselling-it.html</id>
+        <link href="https://www.gizmodo.jp/2021/07/resetting-your-iot-device-before-reselling-it.html"/>
+        <updated>2021-07-08T13:14:58.000Z</updated>
+        <summary type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった2021.07.08 21:0022,296 Lucas Ropek - Gizmodo US ［原文］ （ mayumine ） Image: Victoria Song/Gizmodo US 中古品を売る、譲渡する時には改めて気をつけましょう。 Amazon Echo等のIoTデバイス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京五輪 都内の全会場で無観客開催へ 東京の緊急事態宣言受け | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210708/k10013128461000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210708/k10013128461000.html"/>
@@ -256,51 +286,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[スター連打って何がだめなの？]]></title>
+        <id>https://anond.hatelabo.jp/20210708175648</id>
+        <link href="https://anond.hatelabo.jp/20210708175648"/>
+        <updated>2021-07-08T09:09:30.000Z</updated>
+        <summary type="html"><![CDATA[take-it 「完全無観客」に五輪貴族などの関係者は入るのかどうか。/ともあれ、ひとつ心配事は減ったか。ホテルやらチケット買った人はこれからが大変だけど。/id:speed_star_99 スター連打やめてください。通報しました。 https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASP783VPLP78UTIL019.html 通報するよう...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[jQueryからTypeScript・Reactまで - Viteで始めるモダンで高速な開発環境構築 - ICS MEDIA]]></title>
         <id>https://ics.media/entry/210708/</id>
         <link href="https://ics.media/entry/210708/"/>
         <updated>2021-07-08T08:42:33.000Z</updated>
         <summary type="html"><![CDATA[Vite（ヴィート＝フランス語で「速い」の意味）は2020年に発表された新しいフロントエンドのビルドツールです。 開発者がVue.jsの作者であるEvan You氏であるため、Vue.jsのツールであると誤解されることもありますが、プレーンなJavaScript（バニラJS）からVue.js・React・Svelteといった流行のフレームワークまで、さ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熱海の土石流災害について静岡県の副知事が会見で自身の見解を述べる→経歴を見てみるとガチの専門家の方だった - Togetter]]></title>
-        <id>https://togetter.com/li/1742146</id>
-        <link href="https://togetter.com/li/1742146"/>
-        <updated>2021-07-08T07:35:52.000Z</updated>
-        <summary type="html"><![CDATA[ゆるふわ怪電波☆埼玉 @yuruhuwa_kdenpa 静岡県の副知事かっこいいな 技術者として専門知識で解説できるの有能すぎる… 本来なら許可を出した後の監督責任の追及を恐れて言及したくはないはずの盛り土について踏み込んだ解説をしていた やはり技術者しか勝たん pic.twitter.com/omItJDMl6u 2021-07-07 23:48:05]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「効果が高まると思って」80代男性が新型コロナワクチンを4回接種：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/115394</id>
-        <link href="https://www.tokyo-np.co.jp/article/115394"/>
-        <updated>2021-07-08T07:23:17.000Z</updated>
-        <summary type="html"><![CDATA[北海道弟子屈（てしかが）町は８日、同町の８０代男性が新型コロナウイルスワクチンを４～７月に計４回接種したと明らかにした。男性は「複数回受けた方が効果が高まると思った」と話しているという。体調に異常は出ていない。 男性は町外の病院に出入りしている業者。医療従事者としてその病院で４～５月に２回、先行接...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“聞こえているのに聞き取れない” APD 初の大規模調査へ | 医療 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210708/k10013125531000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210708/k10013125531000.html"/>
-        <updated>2021-07-08T06:40:50.000Z</updated>
-        <summary type="html"><![CDATA[「雑音の中では話が聞き取れない」 「早口や小さな声が聞き取りにくい」 聴力は正常でも雑音の多い場所では必要な音や話を選び取れず、理解できなくなってしまう「APD（＝聴覚情報処理障害）」という症状があります。専門家で作る研究グループはこうした症状がある人がどのくらいいるか実態を把握するため、大阪と首都圏...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はいはいはい！！！！中止中止！！！！！！ 貴様のようなカスが、てめえの..]]></title>
-        <id>https://anond.hatelabo.jp/20210708130026</id>
-        <link href="https://anond.hatelabo.jp/20210708130026"/>
-        <updated>2021-07-08T04:03:34.000Z</updated>
-        <summary type="html"><![CDATA[はいはいはい！！！！中止中止！！！！！！ 貴様のようなカスが、てめえの挫折を東京で味付けしてクソみたいなストーリーで感傷に浸るせいで、まーた東京のプレゼンスがあがんだよな みんな挫折したがってるとこあるからな　こういうのを読んで、愛すべき田舎モンがクソ東京に出ようと思っちゃうワケです 貴様の挫折は貴...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

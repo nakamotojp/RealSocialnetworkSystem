@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T12:18:08.108Z</id>
+    <id>urn:2021-07-09T13:17:04.556Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T12:18:08.108Z</updated>
+    <updated>2021-07-09T13:17:04.556Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[電話口から三人殺したかもしれない話]]></title>
+        <id>https://anond.hatelabo.jp/20210707211559</id>
+        <link href="https://anond.hatelabo.jp/20210707211559"/>
+        <updated>2021-07-09T10:25:01.000Z</updated>
+        <summary type="html"><![CDATA[・一人目 一人目は学生時代、通販の受信専門コルセンで働いていたとき。住所の確認を繰り返している途中にボン、ゴトンっと鈍い音とともに会話が途切れてしまった。通話自体は続いていたのだで「歩きながら電話でもしていて落としちゃったのかな？」としばらくそのままに。しかし雑音は聞こえるものの一向に話し声が再開...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京五輪、海外メディアは不満爆発寸前　「我々は敵じゃない」：日経ビジネス電子版]]></title>
         <id>https://business.nikkei.com/atcl/gen/19/00119/070800066/</id>
         <link href="https://business.nikkei.com/atcl/gen/19/00119/070800066/"/>
         <updated>2021-07-09T10:05:44.000Z</updated>
         <summary type="html"><![CDATA[「我々、報道機関は、日本の皆さんの敵ではない」 国際スポーツ記者協会（AIPS）のジャンニ・メルロ会長は2021年7月2日、オンラインで開いたAIPSの世界カンファレンスのスピーチで、こう力強く訴えた。 メルロ会長が問題視しているのは、海外から東京五輪・パラリンピックを取材するため来日する報道陣に課せられる「行...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共産「日米安保廃棄」政権公約から除外へ：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP795X2HP79UTFK011.html</id>
+        <link href="https://www.asahi.com/articles/ASP795X2HP79UTFK011.html"/>
+        <updated>2021-07-09T09:49:23.000Z</updated>
+        <summary type="html"><![CDATA[共産党の田村智子政策委員長は9日の記者会見で、党綱領で掲げている日米安保条約の「廃棄」について、次期衆院選の政権公約には盛り込まない考えを示した。 田村氏は「今度の衆院選は政権交代を目指したい。立憲民主党などとの政策の一致点を公約に掲げることになる」と説明した。そのうえで「目指す連立政権のなかで、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,26 +281,6 @@
         <link href="https://news.yahoo.co.jp/articles/0dd2cd36c06f881dbd3836ef8d4007baf2fe51e9"/>
         <updated>2021-07-08T14:25:11.000Z</updated>
         <summary type="html"><![CDATA[東京五輪の開会式まで15日に迫った8日、新型コロナウイルスの感染拡大が続く東京都に4度目となる緊急事態宣言発出が決まり、菅義偉首相が記者会見に臨んだ。しかし、記者と首相のかみ合わぬやりとりが続き、SNSでは「首相会見」などが続々トレンドワードとなり「全く中身のない内容。質問には何一つ正面から答えていない...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった | ギズモード・ジャパン]]></title>
-        <id>https://www.gizmodo.jp/2021/07/resetting-your-iot-device-before-reselling-it.html</id>
-        <link href="https://www.gizmodo.jp/2021/07/resetting-your-iot-device-before-reselling-it.html"/>
-        <updated>2021-07-08T13:14:58.000Z</updated>
-        <summary type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった2021.07.08 21:0025,084 Lucas Ropek - Gizmodo US ［原文］ （ mayumine ） Image: Victoria Song/Gizmodo US 中古品を売る、譲渡する時には改めて気をつけましょう。 Amazon Echo等のIoTデバイス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エンジニア適正が無い奴の生きる道ってなんですか？]]></title>
-        <id>https://anond.hatelabo.jp/20210706022633</id>
-        <link href="https://anond.hatelabo.jp/20210706022633"/>
-        <updated>2021-07-08T12:04:07.000Z</updated>
-        <summary type="html"><![CDATA[最初のいくばかを使って，自己紹介とタイトルの理由，この文章を書くにあたったエピソードを話させてください． プログラミングは17歳くらいから始めました．今22歳，B4だ．Mまでは行く．Dに迷ってる．研究は楽しいからです 追記 ------ 研究分野はプログラミングは使うがあまり関係ないところ. トップカンファは通せて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

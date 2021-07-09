@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T09:12:49.268Z</id>
+    <id>urn:2021-07-09T10:13:06.321Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T09:12:49.268Z</updated>
+    <updated>2021-07-09T10:13:06.321Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[酒提供で金融機関要請の方針撤回と官房長官 ｜ 共同通信]]></title>
+        <id>https://nordot.app/786145496498896896</id>
+        <link href="https://nordot.app/786145496498896896"/>
+        <updated>2021-07-09T08:33:59.000Z</updated>
+        <summary type="html"><![CDATA[加藤勝信官房長官は9日の記者会見で、酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらうよう求める方針を撤回したことを明らかにした。西村康稔経済再生担当相から連絡を受けたと説明した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】五輪組織委「この3週間のコロナ悪化は想定外」／パートナー企業に謝罪 | 探査報道メディアTansaの報道]]></title>
         <id>https://tansajp.org/investigativejournal/8374/</id>
@@ -221,16 +231,6 @@
         <link href="https://news.yahoo.co.jp/articles/0dd2cd36c06f881dbd3836ef8d4007baf2fe51e9"/>
         <updated>2021-07-08T14:25:11.000Z</updated>
         <summary type="html"><![CDATA[東京五輪の開会式まで15日に迫った8日、新型コロナウイルスの感染拡大が続く東京都に4度目となる緊急事態宣言発出が決まり、菅義偉首相が記者会見に臨んだ。しかし、記者と首相のかみ合わぬやりとりが続き、SNSでは「首相会見」などが続々トレンドワードとなり「全く中身のない内容。質問には何一つ正面から答えていない...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[命令応じぬ飲食店には金融機関からも働きかけ　西村担当相 - 産経ニュース]]></title>
-        <id>https://www.sankei.com/article/20210708-SAZMMRUJ45OSTGNOBEKHDZ7NCU/</id>
-        <link href="https://www.sankei.com/article/20210708-SAZMMRUJ45OSTGNOBEKHDZ7NCU/"/>
-        <updated>2021-07-08T14:21:43.000Z</updated>
-        <summary type="html"><![CDATA[基本的対処方針分科会終了後、記者の取材に応じる西村経済再生相＝８日午後、東京都千代田区西村康稔経済再生担当相は８日夜の記者会見で、新型コロナウイルス特別措置法に基づく休業要請や命令などに応じない飲食店に関し、融資元の金融機関と情報共有して協力を求め、要請に応じるよう働きかける方針を明らかにした。 ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

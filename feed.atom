@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T03:13:22.063Z</id>
+    <id>urn:2021-07-09T04:15:35.696Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T03:13:22.063Z</updated>
+    <updated>2021-07-09T04:15:35.696Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[中外製薬 ワクチン1600回分廃棄 冷凍庫の電源接続緩む | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210709/k10013128871000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210709/k10013128871000.html"/>
+        <updated>2021-07-09T01:50:24.000Z</updated>
+        <summary type="html"><![CDATA[製薬大手の中外製薬は、新型コロナワクチンの職域接種を行うなか、冷凍庫の電源アダプターの接続が緩んでいたため、自社で使う予定だった1600回分のワクチンが使えなくなり、廃棄すると発表しました。 中外製薬は今月1日から東京の本社でモデルナのワクチンを使って従業員を対象に職域接種を始めています。 会社の発表に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西村再生相はそうした趣旨の発言は絶対しない＝金融機関への飲食店情報提供で菅首相 | ロイター]]></title>
         <id>https://jp.reuters.com/article/japan-suga-nishimura-covid-idJPKCN2EF03B</id>
@@ -76,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[（年収270万で）プログラマーを引退して、医学部にきた俺が真面目に考えて..]]></title>
+        <id>https://anond.hatelabo.jp/20210708205945</id>
+        <link href="https://anond.hatelabo.jp/20210708205945"/>
+        <updated>2021-07-08T22:04:39.000Z</updated>
+        <summary type="html"><![CDATA[（年収270万で）プログラマーを引退して、医学部にきた俺が真面目に考えてやろう。 ① 言葉は正しく使おう真面目に読んでいて、ちょっと気になる箇所がある。たとえば PostgreSQL を postgre とか書くヤツは現場では嫌われるぞ。 ② プライドが高い消えていくエンジニアの特徴だけど、叱責されたり馬鹿にされるのが嫌で VC...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[五輪を最優先、崩れた方程式　楽観論に流された菅首相 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP787H28P78UTFK007.html</id>
         <link href="https://www.asahi.com/articles/ASP787H28P78UTFK007.html"/>
@@ -91,6 +111,16 @@
         <link href="https://twitter.com/norijunnorijun/status/1413124860532826119"/>
         <updated>2021-07-08T21:31:35.000Z</updated>
         <summary type="html"><![CDATA[内村選手も池江選手も、何か言い訳するのに「自分たちには何も変えられない」なんて言葉、本当スポーツ選手として一番言って欲しくなかった。まだ、コロナだろうが誰が死のうがそれでも五輪やりたいって身も蓋もないこと言ってくれた方がずっとましだった。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マライ・メントライン＠職業はドイツ人 on Twitter: "なんとバッハ会長、 「日本国民は、選手の85％がワクチンを接種して来日したことに感謝すべき！」と、報道陣を前に、鈍感王ならではの凄い発言をぶちかましてました。正気かお前は？ ドイツ人記者もドン引きしていたぞ！ #バッハ帰れ しか… https://t.co/mGEzyMzIda"]]></title>
+        <id>https://twitter.com/marei_de_pon/status/1413122332520894467</id>
+        <link href="https://twitter.com/marei_de_pon/status/1413122332520894467"/>
+        <updated>2021-07-08T18:45:12.000Z</updated>
+        <summary type="html"><![CDATA[なんとバッハ会長、 「日本国民は、選手の85％がワクチンを接種して来日したことに感謝すべき！」と、報道陣を前に、鈍感王ならではの凄い発言をぶちかましてました。正気かお前は？ ドイツ人記者もドン引きしていたぞ！ #バッハ帰れ しか… https://t.co/mGEzyMzIda]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,21 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[山田孝之がいきなり逮捕、どこかで見た作風……　主要キー局全部からNGを食らったアニメ「暗黒家族 ワラビさん」が攻めすぎな件（1/2 ページ） - ねとらぼ]]></title>
-        <id>https://nlab.itmedia.co.jp/nl/articles/2107/07/news157.html</id>
-        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/07/news157.html"/>
-        <updated>2021-07-08T13:31:17.000Z</updated>
-        <summary type="html"><![CDATA[7月6日からバーティカルシアターアプリ「smash.」で配信されている「暗黒家族 ワラビさん」。人気俳優の山田孝之が声優を務めているにも関わらず、主要キー局全部からオンエアNGを食らったという攻めた内容に度肝を抜かれます。 「暗黒家族 ワラビさん」（公式サイトより） 逮捕されたそうです。えらいこっちゃ 問題の第...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった | ギズモード・ジャパン]]></title>
         <id>https://www.gizmodo.jp/2021/07/resetting-your-iot-device-before-reselling-it.html</id>
         <link href="https://www.gizmodo.jp/2021/07/resetting-your-iot-device-before-reselling-it.html"/>
         <updated>2021-07-08T13:14:58.000Z</updated>
-        <summary type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった2021.07.08 21:0022,296 Lucas Ropek - Gizmodo US ［原文］ （ mayumine ） Image: Victoria Song/Gizmodo US 中古品を売る、譲渡する時には改めて気をつけましょう。 Amazon Echo等のIoTデバイス...]]></summary>
+        <summary type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった2021.07.08 21:0025,084 Lucas Ropek - Gizmodo US ［原文］ （ mayumine ） Image: Victoria Song/Gizmodo US 中古品を売る、譲渡する時には改めて気をつけましょう。 Amazon Echo等のIoTデバイス...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -171,16 +191,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210708/k10013128461000.html"/>
         <updated>2021-07-08T12:58:40.000Z</updated>
         <summary type="html"><![CDATA[最大1万人まで観客を入れて開催される予定だった東京オリンピックは、東京都で新型コロナウイルスの感染が再び拡大し4回目の緊急事態宣言が出されることなどを受けて、都内のすべての会場で観客を入れずに開催することになったことが、大会関係者への取材でわかりました。 大会組織委員会と政府、東京都、IOC＝国際オリ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盛り土を造成した業者　熱海の２か所でトラブルの証言｜NHK 静岡県のニュース]]></title>
-        <id>https://www3.nhk.or.jp/lnews/shizuoka/20210708/3030012309.html</id>
-        <link href="https://www3.nhk.or.jp/lnews/shizuoka/20210708/3030012309.html"/>
-        <updated>2021-07-08T12:38:16.000Z</updated>
-        <summary type="html"><![CDATA[熱海市で発生した、土石流の起点にあった盛り土を造成した神奈川県の不動産業者が、同じころに市内の別の２か所で行った工事で、土砂の流出などのトラブルを起こしたとして、市が対策工事を行うなどの対応を取っていたことがわかりました。 熱海市伊豆山で起きた土石流で、上流部にあった盛り土は、平成１８年に土地を取...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://twitter.com/touyoui/status/1412539456565899266"/>
         <updated>2021-07-08T12:32:13.000Z</updated>
         <summary type="html"><![CDATA[何十回も述べているが、珍コ枠を打って助かる道はない。死亡やアナフィラキシーは幾何級数的に増加し、あとになるほど打つほどADEで危険は高まり、不妊リスクが激増し、すべては因果関係不明として別の病気で死んだように処理される。どんな解毒法も効果はない。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHK経営委の議事録開示　番組を批判　放送法に抵触か：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP785W7CP46UCVL00W.html</id>
-        <link href="https://www.asahi.com/articles/ASP785W7CP46UCVL00W.html"/>
-        <updated>2021-07-08T12:24:56.000Z</updated>
-        <summary type="html"><![CDATA[NHK経営委員会は8日、かんぽ生命保険の不正販売を報じた番組を巡って2018年に当時の会長を厳重注意した会議の議事録を全面開示した。当時経営委員長代行だった森下俊三・現委員長が「極めて稚拙」などと番組や取材手法を批判していた内容が記されている。こうした発言は、番組への干渉を禁じた放送法に抵触する疑いがあ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[オンラインお賽銭サイト『カミムスビ』に掲載の複数の神社が注意喚起「当神社は一切関わりがございません」 - Togetter]]></title>
-        <id>https://togetter.com/li/1742192</id>
-        <link href="https://togetter.com/li/1742192"/>
-        <updated>2021-07-08T11:00:06.000Z</updated>
-        <summary type="html"><![CDATA[緒羽神主【公式】 @rurusekakiha 友人神職から注意喚起があったので念のため。 オンラインで自分の好きな神社にお賽銭を入れられるサイトだそうですが、 断りもなく勝手に神社の名前と写真を使われて、 当然無許可なので利用者が入れたお賽銭が神社に支払われるような契約は交わされていないようです。 kamimusubi.or.jp...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「N先生に連れられ戻ってきた時、涙とヨダレでビショビショに…」横浜市教諭が小4女児に行った、陰湿イジメの全貌 | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/46572</id>
         <link href="https://bunshun.jp/articles/-/46572"/>
@@ -301,6 +291,16 @@
         <link href="https://ics.media/entry/210708/"/>
         <updated>2021-07-08T08:42:33.000Z</updated>
         <summary type="html"><![CDATA[Vite（ヴィート＝フランス語で「速い」の意味）は2020年に発表された新しいフロントエンドのビルドツールです。 開発者がVue.jsの作者であるEvan You氏であるため、Vue.jsのツールであると誤解されることもありますが、プレーンなJavaScript（バニラJS）からVue.js・React・Svelteといった流行のフレームワークまで、さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あらゆる面で最強、アンカーの小型65W急速充電器がついに出た！スマホからPCまで全部これひとつでOK | ギズモード・ジャパン]]></title>
+        <id>https://www.gizmodo.jp/2021/07/anker-nano-ll-65w.html</id>
+        <link href="https://www.gizmodo.jp/2021/07/anker-nano-ll-65w.html"/>
+        <updated>2021-07-08T04:58:25.000Z</updated>
+        <summary type="html"><![CDATA[あらゆる面で最強、アンカーの小型65W急速充電器がついに出た！スマホからPCまで全部これひとつでOK2021.07.08 10:056,242 mayumine 全充電器をこれひとつに全集中可能。 本日、AnkerよりAnker GaN ll 搭載の第二弾製品｢Anker Nano ll 65W｣｢Anker Nano ll 30W｣が登場しました。 最大65W出力のUSB-Cポートを搭載した｢Anke...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

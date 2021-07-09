@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T11:10:03.763Z</id>
+    <id>urn:2021-07-09T12:18:08.108Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T11:10:03.763Z</updated>
+    <updated>2021-07-09T12:18:08.108Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京五輪、海外メディアは不満爆発寸前　「我々は敵じゃない」：日経ビジネス電子版]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00119/070800066/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00119/070800066/"/>
+        <updated>2021-07-09T10:05:44.000Z</updated>
+        <summary type="html"><![CDATA[「我々、報道機関は、日本の皆さんの敵ではない」 国際スポーツ記者協会（AIPS）のジャンニ・メルロ会長は2021年7月2日、オンラインで開いたAIPSの世界カンファレンスのスピーチで、こう力強く訴えた。 メルロ会長が問題視しているのは、海外から東京五輪・パラリンピックを取材するため来日する報道陣に課せられる「行...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒提供で金融機関要請の方針撤回と官房長官 ｜ 共同通信]]></title>
         <id>https://nordot.app/786145496498896896</id>
@@ -41,6 +51,16 @@
         <link href="https://tansajp.org/investigativejournal/8374/"/>
         <updated>2021-07-09T07:39:20.000Z</updated>
         <summary type="html"><![CDATA[ニュース 【速報】五輪組織委「この3週間のコロナ悪化は想定外」／パートナー企業に謝罪 2021年07月09日15時29分　渡辺周 4都県での東京五輪の無観客開催が決まって一夜明けた7月9日朝、東京五輪組織委員会はパートナー企業向けに非公開の会議を開いた。会議で組織委幹部は「この3週間で感染状況が悪くなるとは想定して...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相「ワクチン接種、先進国の中で最速」はミスリード。会見で強調、実際は…]]></title>
+        <id>https://www.buzzfeed.com/jp/kotahatachi/vakzin-fc-6</id>
+        <link href="https://www.buzzfeed.com/jp/kotahatachi/vakzin-fc-6"/>
+        <updated>2021-07-09T07:26:24.000Z</updated>
+        <summary type="html"><![CDATA[日本での新型コロナウイルスワクチンの接種状況について、菅義偉首相が会見などで「世界で最もスピード接種」「先進国の中でも最も速い」「先進国でも例を見ない速さ」などと発言した。 これは、「ミスリード」だ。たしかに日々の接種数では日本が主要7カ国（G7）でここ最近は1位だが、それは各国よりも接種の開始が遅れ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[シュレディンガーのネコ死なず　千葉電波大が再現実験]]></title>
-        <id>https://kyoko-np.net/2021070901.html</id>
-        <link href="https://kyoko-np.net/2021070901.html"/>
-        <updated>2021-07-08T22:52:16.000Z</updated>
-        <summary type="html"><![CDATA[千葉電波大学理学部の研究グループは８日、粒子の振る舞いと連動して毒ガスが出る箱にネコを閉じ込めて生死を確かめる実験で、ネコの生存する確率が１００％になることを確認した。「観測するまで生死は確定しない」としてきた、これまでの定説を覆す結果によって、今後理論の見直しを迫られそうだ。 この思考実験は、１...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[（年収270万で）プログラマーを引退して、医学部にきた俺が真面目に考えて..]]></title>
         <id>https://anond.hatelabo.jp/20210708205945</id>
         <link href="https://anond.hatelabo.jp/20210708205945"/>
@@ -251,16 +261,6 @@
         <link href="https://news.yahoo.co.jp/articles/0dd2cd36c06f881dbd3836ef8d4007baf2fe51e9"/>
         <updated>2021-07-08T14:25:11.000Z</updated>
         <summary type="html"><![CDATA[東京五輪の開会式まで15日に迫った8日、新型コロナウイルスの感染拡大が続く東京都に4度目となる緊急事態宣言発出が決まり、菅義偉首相が記者会見に臨んだ。しかし、記者と首相のかみ合わぬやりとりが続き、SNSでは「首相会見」などが続々トレンドワードとなり「全く中身のない内容。質問には何一つ正面から答えていない...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ: 休業要請拒否店の情報、金融機関に提供　経財相: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUA08DR50Y1A700C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUA08DR50Y1A700C2000000/"/>
-        <updated>2021-07-08T13:57:37.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 西村康稔経済財政・再生相は8日夜の記者会見で、休業要請に応じない飲食店の情報を金融機関に提供する考えを明らかにした。「金融機関からも順守の働き掛けをしてほし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

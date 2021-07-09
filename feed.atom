@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T08:13:28.854Z</id>
+    <id>urn:2021-07-09T09:12:49.268Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T08:13:28.854Z</updated>
+    <updated>2021-07-09T09:12:49.268Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】五輪組織委「この3週間のコロナ悪化は想定外」／パートナー企業に謝罪 | 探査報道メディアTansaの報道]]></title>
+        <id>https://tansajp.org/investigativejournal/8374/</id>
+        <link href="https://tansajp.org/investigativejournal/8374/"/>
+        <updated>2021-07-09T07:39:20.000Z</updated>
+        <summary type="html"><![CDATA[ニュース 【速報】五輪組織委「この3週間のコロナ悪化は想定外」／パートナー企業に謝罪 2021年07月09日15時29分　渡辺周 4都県での東京五輪の無観客開催が決まって一夜明けた7月9日朝、東京五輪組織委員会はパートナー企業向けに非公開の会議を開いた。会議で組織委幹部は「この3週間で感染状況が悪くなるとは想定して...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウイルスに打ち勝った証し→コロナと闘う五輪に　厚労相 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP794G71P79UTFL002.html</id>
@@ -26,11 +36,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[首相、スクールバスの全国事業化を検討　八街事故 - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210709-FZD4Z3MVNZNZPFLJAFLVKBKEYE/</id>
+        <link href="https://www.sankei.com/article/20210709-FZD4Z3MVNZNZPFLJAFLVKBKEYE/"/>
+        <updated>2021-07-09T04:44:10.000Z</updated>
+        <summary type="html"><![CDATA[記者団の取材に応じる菅義偉首相＝９日午前、首相官邸（春名中撮影）菅義偉（すが・よしひで）首相は９日、下校中の小学生５人がトラックにはねられ死傷した事故が起きた千葉県八街（やちまた）市の北村新司市長と官邸で面会した。首相は同市内全小中学校の送迎スクールバス運行を支援する意向を表明。「全国に先駆けて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[西村氏、不公平解消が目的　酒提供で金融機関要請 ｜ 共同通信]]></title>
         <id>https://nordot.app/786081204047101952</id>
         <link href="https://nordot.app/786081204047101952"/>
         <updated>2021-07-09T04:34:05.000Z</updated>
         <summary type="html"><![CDATA[西村康稔経済再生担当相は9日の閣議後記者会見で、酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう方針について、真面目に取り組んでいる事業者との「不公平感の解消」のためだと説明し、発言を撤回しなかった。立憲民主党の安住淳国対委員長は「単に脅して締め付けようとしている。国民...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホテルのキャンセル「どっと一気に」　無観客決定に困惑 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP793VXLP79UTIL016.html</id>
+        <link href="https://www.asahi.com/articles/ASP793VXLP79UTIL016.html"/>
+        <updated>2021-07-09T04:23:43.000Z</updated>
+        <summary type="html"><![CDATA[首都圏1都3県で東京五輪の「無観客開催」が決まり、観客が泊まる予定だった都内のホテルには、キャンセルの連絡が続々と入っている。 有明アリーナや有明体操競技場など、五輪の関連施設が集中する江東区の有明地区。 昨夏にオープンした300室超のホテルの担当者は9日朝、記者の電話取材にこう語った。「こうして話して...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチンを打ったのでLANケーブルを肛門に差してみたんだがネットにつながらない]]></title>
+        <id>https://anond.hatelabo.jp/20210709131627</id>
+        <link href="https://anond.hatelabo.jp/20210709131627"/>
+        <updated>2021-07-09T04:19:02.000Z</updated>
+        <summary type="html"><![CDATA[プロバイダと契約しないとだめなのか？]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,26 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マライ・メントライン＠職業はドイツ人 on Twitter: "なんとバッハ会長、 「日本国民は、選手の85％がワクチンを接種して来日したことに感謝すべき！」と、報道陣を前に、鈍感王ならではの凄い発言をぶちかましてました。正気かお前は？ ドイツ人記者もドン引きしていたぞ！ #バッハ帰れ しか… https://t.co/mGEzyMzIda"]]></title>
-        <id>https://twitter.com/marei_de_pon/status/1413122332520894467</id>
-        <link href="https://twitter.com/marei_de_pon/status/1413122332520894467"/>
-        <updated>2021-07-08T18:45:12.000Z</updated>
-        <summary type="html"><![CDATA[なんとバッハ会長、 「日本国民は、選手の85％がワクチンを接種して来日したことに感謝すべき！」と、報道陣を前に、鈍感王ならではの凄い発言をぶちかましてました。正気かお前は？ ドイツ人記者もドン引きしていたぞ！ #バッハ帰れ しか… https://t.co/mGEzyMzIda]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思考ロックに陥る....誰かこの絵が何なのか教えてください！「心が汚れている」「なぜこの色にした」 - Togetter]]></title>
-        <id>https://togetter.com/li/1742254</id>
-        <link href="https://togetter.com/li/1742254"/>
-        <updated>2021-07-08T14:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Rex＠節操とは？ @RexRexus 自分の心の汚れ具合を再確認してしまった…_:(´ཀ`」 ∠):_ 新幹線の横顔ですよね…そうですよね…！ twitter.com/okihimu3/statu… 2021-07-08 20:51:53]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[記者とかみ合わぬ「首相会見」にSNSでは怒りのコメント「子どもには見せてはいけないもの」（中日スポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/0dd2cd36c06f881dbd3836ef8d4007baf2fe51e9</id>
         <link href="https://news.yahoo.co.jp/articles/0dd2cd36c06f881dbd3836ef8d4007baf2fe51e9"/>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ会長「緊急事態宣言はどういうものなのか」　5者協議 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210708/k00/00m/050/337000c</id>
-        <link href="https://mainichi.jp/articles/20210708/k00/00m/050/337000c"/>
-        <updated>2021-07-08T12:23:53.000Z</updated>
-        <summary type="html"><![CDATA[東京都内のホテルに到着し、車の窓を開けて手を振るIOCのバッハ会長＝2021年7月8日午後2時22分（代表撮影） 東京オリンピックの観客受け入れを巡り、国際オリンピック委員会（IOC）、国際パラリンピック委員会（IPC）、政府、東京都、大会組織委員会のトップによる5者協議が8日夜始まった。 IOCのトーマス・バッハ会長は...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[エンジニア適正が無い奴の生きる道ってなんですか？]]></title>
         <id>https://anond.hatelabo.jp/20210706022633</id>
         <link href="https://anond.hatelabo.jp/20210706022633"/>
@@ -261,16 +271,6 @@
         <link href="https://togetter.com/li/1742236"/>
         <updated>2021-07-08T11:49:24.000Z</updated>
         <summary type="html"><![CDATA[たられば @tarareba722 やあやあ遠からん者は音にも聞け近くば寄って目にも見よ我こそは炊飯器に米と水を入れおかずの調理にかかりすべて整ってさあ晩飯だと茶碗を出したところで炊飯器のスイッチを入れ忘れた丸なり。腕に覚えのある者よ志あらば前に出よいざ尋常に勝負勝負！！！ 2021-07-08 19:23:08]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「N先生に連れられ戻ってきた時、涙とヨダレでビショビショに…」横浜市教諭が小4女児に行った、陰湿イジメの全貌 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/46572</id>
-        <link href="https://bunshun.jp/articles/-/46572"/>
-        <updated>2021-07-08T10:36:15.000Z</updated>
-        <summary type="html"><![CDATA[横浜市のM小学校4年生の担任だった40代の男性N教諭が、特定の児童に対して「配布物を渡さない」「行事で役割を与えない」「給食を少なく盛る」など執拗ないじめを繰り返し、不登校に追い込んでいた。 いじめを受けたその山本美咲さん（仮名＝当時9歳）がこれらのことを両親に打ち明けはじめたのは、4年生になって約10カ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

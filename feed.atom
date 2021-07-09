@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T00:40:25.006Z</id>
+    <id>urn:2021-07-09T01:57:00.883Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T00:40:25.006Z</updated>
+    <updated>2021-07-09T01:57:00.883Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[世間が知らない「車内で飲酒するトラックドライバーを全否定できない事情」(橋本愛喜) - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/hashimotoaiki/20210709-00246886/</id>
+        <link href="https://news.yahoo.co.jp/byline/hashimotoaiki/20210709-00246886/"/>
+        <updated>2021-07-08T23:18:19.000Z</updated>
+        <summary type="html"><![CDATA[千葉県八街市で起きた、幼い子どもの命が奪われる痛ましい事故。 まだトラックドライバーによる飲酒運転が報じられる前、見通しのいい直線道路がスマホ画面に映し出された時、「これは何かある」と直感的に悟った。 これまでの報道によると、容疑者の呼気から基準値を超えるアルコールを検出。同容疑者は「事故前にコン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シュレディンガーのネコ死なず　千葉電波大が再現実験]]></title>
+        <id>https://kyoko-np.net/2021070901.html</id>
+        <link href="https://kyoko-np.net/2021070901.html"/>
+        <updated>2021-07-08T22:52:16.000Z</updated>
+        <summary type="html"><![CDATA[千葉電波大学理学部の研究グループは８日、粒子の振る舞いと連動して毒ガスが出る箱にネコを閉じ込めて生死を確かめる実験で、ネコの生存する確率が１００％になることを確認した。「観測するまで生死は確定しない」としてきた、これまでの定説を覆す結果によって、今後理論の見直しを迫られそうだ。 この思考実験は、１...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アフリカで新型コロナの新規感染者数が最多 「最悪の週に」 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210709/k10013128521000.html</id>
@@ -40,7 +60,7 @@
         <id>https://togetter.com/li/1742292</id>
         <link href="https://togetter.com/li/1742292"/>
         <updated>2021-07-08T14:38:27.000Z</updated>
-        <summary type="html"><![CDATA[A. Ennyu @r_isotope 沢の源頭部に残った盛り土が崩壊すれば、この真っ平らな斜面を滑るので捜索活動する人への伝達が間に合うか。10m/sだと2分で酒屋に到達します。 pic.twitter.com/QGdb69Ewck 2021-07-08 18:40:11 A. Ennyu @r_isotope そんなわけで「熱海の土石流で流れた泥は山の岩石に由来する土砂ではなく沢の源...]]></summary>
+        <summary type="html"><![CDATA[早川由紀夫 @HayakawaYukio 白い家の壁一面に泥がびっしりと付着しているが、岩が当たって破損した部分はひとつもない。流れの中に岩はなくて泥ばかりだったことの証拠だ。土石流と呼ぶべきではない。泥流と呼ぶのがよい。今回の流れは、伊豆山の扇状地をつくった過去に多数回発生した土石流とまったく異なるプロセスだ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -76,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ: 休業要請拒否店、金融機関に情報提供　経財相: 日本経済新聞]]></title>
+        <title type="html"><![CDATA[新型コロナ: 休業要請拒否店の情報、金融機関に提供　経財相: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUA08DR50Y1A700C2000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOUA08DR50Y1A700C2000000/"/>
         <updated>2021-07-08T13:57:37.000Z</updated>
@@ -231,26 +251,6 @@
         <link href="https://ics.media/entry/210708/"/>
         <updated>2021-07-08T08:42:33.000Z</updated>
         <summary type="html"><![CDATA[Vite（ヴィート＝フランス語で「速い」の意味）は2020年に発表された新しいフロントエンドのビルドツールです。 開発者がVue.jsの作者であるEvan You氏であるため、Vue.jsのツールであると誤解されることもありますが、プレーンなJavaScript（バニラJS）からVue.js・React・Svelteといった流行のフレームワークまで、さ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOCのバッハ会長が来日　都内ホテルで3日間隔離生活 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210708/k00/00m/050/134000c</id>
-        <link href="https://mainichi.jp/articles/20210708/k00/00m/050/134000c"/>
-        <updated>2021-07-08T08:29:51.000Z</updated>
-        <summary type="html"><![CDATA[国際オリンピック委員会（IOC）のトーマス・バッハ会長が8日、東京オリンピックの23日開幕に先駆けて来日した。バッハ氏は5月に来日する予定だったが、緊急事態宣言下のために断念。開催都市の東京都で4回目の緊急事態宣言が発令される方針のなか、五輪の主催者であるIOCのトップが現地入りした。 大会組織委員会による...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野田洋次郎さん、ロッキン中止に「ふざけんな」　自身の思いを文章で公開（全文） | ハフポスト]]></title>
-        <id>https://www.huffingtonpost.jp/entry/story_jp_60e647cce4b0d698f0aa198a</id>
-        <link href="https://www.huffingtonpost.jp/entry/story_jp_60e647cce4b0d698f0aa198a"/>
-        <updated>2021-07-08T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[8月7日から2年ぶりに開催される予定だった野外音楽フェス「ROCK IN JAPAN FESTIVAL 2021（ロック・イン・ジャパン・フェスティバル）」の中止発表を受けて、出演を予定していた「RADWIMPS」ボーカルの野田洋次郎さんがTwitterで心境を明かした。 野田さんは7月8日未明に自身のTwitterを更新。 「数日前に中止の連絡をも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

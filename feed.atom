@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T07:10:48.548Z</id>
+    <id>urn:2021-07-09T08:13:28.854Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T07:10:48.548Z</updated>
+    <updated>2021-07-09T08:13:28.854Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.asahi.com/articles/ASP794G71P79UTFL002.html"/>
         <updated>2021-07-09T05:34:56.000Z</updated>
         <summary type="html"><![CDATA[田村憲久厚生労働相は9日の閣議後会見で、緊急事態宣言下で開く東京オリンピックについて「コロナと闘う五輪にしていきたい」と話した。これまで政権は五輪を「ウイルスに打ち勝った証し」（菅義偉首相）などと位置づけてきたが、開幕直前になっても東京で感染が拡大し、日常生活を制限する宣言を出すまでに至った状況を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子供舌扱いされない食べ物ってなんだよ]]></title>
+        <id>https://anond.hatelabo.jp/20210709142640</id>
+        <link href="https://anond.hatelabo.jp/20210709142640"/>
+        <updated>2021-07-09T05:27:50.000Z</updated>
+        <summary type="html"><![CDATA[ハンバーグやカレーや唐揚げが子供舌と馬鹿にされるなら我々弱者男性は何食べれば良いんだよ 唐揚げとか作るの簡単だし安いし腹膨れるしめっちゃ高パラメータなんだぞ]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +51,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210709/k10013129001000.html"/>
         <updated>2021-07-09T02:52:46.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックが、首都圏の1都3県では無観客で開催されることが決まったことを受け、出場予定だったオーストラリアのテニス選手が「観客のいないスタジアムでプレーすることは受け入れられない」などとして、出場を断念することを明らかにしました。 東京オリンピック出場を断念することを明らかにしたのは、テニス男...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イギリスがロブスターやタコをそのまま茹でる行為を禁止する可能性、「甲殻類や軟体動物も動物愛護の対象とすべき」という新法により - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210709-uk-animal-welfare-bill-ban-boiling-lobsters/</id>
+        <link href="https://gigazine.net/news/20210709-uk-animal-welfare-bill-ban-boiling-lobsters/"/>
+        <updated>2021-07-09T02:37:19.000Z</updated>
+        <summary type="html"><![CDATA[イギリスで既存の動物愛護法で対象とする「動物」の定義について、甲殻類や軟体動物も含むべきという旨を明文化した「動物福祉(感覚)法」の審議が行われています。この法案が成立すると、動物福祉の観点からロブスターやタコを気絶させずに茹でる行為などが禁じられる可能性があります。 Animal Welfare (Sentience) Bil...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[香港の民主派区議、約50人が辞職　政府が忠誠を義務化：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP78774KP78UHBI02Q.html</id>
-        <link href="https://www.asahi.com/articles/ASP78774KP78UHBI02Q.html"/>
-        <updated>2021-07-08T15:37:48.000Z</updated>
-        <summary type="html"><![CDATA[香港の地方議会に当たる区議会議員（479議席）のうち少なくとも民主派の区議50人が、8日までの2日間で辞職を表明したことがわかった。香港メディアが一斉に報じた。区議は政府に「忠誠」を宣誓することが義務化され、「愛国者」とみなされなければ資格が剝奪（はくだつ）されることから、これまでに計約100人の民主派区...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[思考ロックに陥る....誰かこの絵が何なのか教えてください！「心が汚れている」「なぜこの色にした」 - Togetter]]></title>
         <id>https://togetter.com/li/1742254</id>
         <link href="https://togetter.com/li/1742254"/>
@@ -221,16 +231,6 @@
         <link href="https://www.gizmodo.jp/2021/07/resetting-your-iot-device-before-reselling-it.html"/>
         <updated>2021-07-08T13:14:58.000Z</updated>
         <summary type="html"><![CDATA[中古のAmazon Echoを調べたら、そもそもみんな個人情報を消してなかったし、リセットしても個人情報を復元できてしまった2021.07.08 21:0025,084 Lucas Ropek - Gizmodo US ［原文］ （ mayumine ） Image: Victoria Song/Gizmodo US 中古品を売る、譲渡する時には改めて気をつけましょう。 Amazon Echo等のIoTデバイス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元素の「周期律」にほころび？　金属元素「ドブニウム」が金属の性質持たず - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2107/08/news160.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2107/08/news160.html"/>
-        <updated>2021-07-08T12:35:52.000Z</updated>
-        <summary type="html"><![CDATA[日本原子力研究開発機構の研究チームが重い金属元素「ドブニウム（Db）」の性質を調べた結果、周期表から予想できる性質に反して金属的な性質を失っていることが分かった。 重い金属元素「ドブニウム（Db）」の性質を調べた結果、周期表から予想できる性質に反して金属的な性質を失っていることが分かった──日本原子力研...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T05:10:00.099Z</id>
+    <id>urn:2021-07-10T06:14:24.562Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T05:10:00.099Z</updated>
+    <updated>2021-07-10T06:14:24.562Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[映画『100日間生きたワニ』（100ワニ）の感想【一部ネタバレあり】 - 光景ワレズANNEX]]></title>
+        <id>https://akasofa.hatenablog.com/entry/2021/07/10/094000</id>
+        <link href="https://akasofa.hatenablog.com/entry/2021/07/10/094000"/>
+        <updated>2021-07-10T02:12:21.000Z</updated>
+        <summary type="html"><![CDATA[※この記事は映画のネタバレがありますが、途中まではネタバレなしでご覧いただけます。ネタバレに入っていくところには注釈を入れます。 はじめに 『100日後に死ぬワニ』を原作とした映画『100日間生きたワニ』を公開初日に見てきたので感想を書きます。 ここでは「映画作品としての感想」もできるだけ書いてみるけど、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本の「大麻政策」がここへきて激変中…来年の春から始まる「これだけの変化」（一般社団法人 大麻博物館） | 現代ビジネス | 講談社（1/5）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/84987</id>
+        <link href="https://gendai.ismedia.jp/articles/-/84987"/>
+        <updated>2021-07-10T01:47:29.000Z</updated>
+        <summary type="html"><![CDATA[日本の「大麻政策」がここへきて激変中…来年の春から始まる「これだけの変化」 新たな「市場」が生まれる…？ 日本では、大麻イコール「違法な薬物」というイメージがすっかり定着している。著名人の逮捕や若年層の検挙者急増といったネガティブな報道も続いている。 一方で、海外では北米を中心に大麻の再評価が進んでも...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デップ主演映画上映、水俣市が後援拒否「制作意図不明」：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP796Q3RP79TIPE01R.html</id>
@@ -126,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「おい！話が違ぇだろがよ」撮り鉄マナー違反に駅員ブチギレ　ホーム先端に走り出し...JRに詳細聞く（J-CASTニュース） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/2dda75be9a015703ca62e11d7e0e8bf98757c1e9</id>
+        <link href="https://news.yahoo.co.jp/articles/2dda75be9a015703ca62e11d7e0e8bf98757c1e9"/>
+        <updated>2021-07-09T14:42:24.000Z</updated>
+        <summary type="html"><![CDATA[千葉県船橋市内のJR南船橋駅で、鉄道ファンらが駅員との約束を守らず、駅員がブチ切れる様子を映した動画がユーチューブに投稿され、様々な意見が寄せられている。 【写真】駅員が出るなと注意した黄色い線 駅員の発言について、JR東日本では、「行き過ぎがあった」と謝罪した。とはいえ、同じ日に別の駅でも、鉄道ファ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[五輪選手団 コロナ検査結果出る前に入国手続き 成田空港｜NHK 首都圏のニュース]]></title>
         <id>https://www3.nhk.or.jp/shutoken-news/20210709/1000067055.html</id>
         <link href="https://www3.nhk.or.jp/shutoken-news/20210709/1000067055.html"/>
@@ -236,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[しゃいん on Twitter: "2コマ https://t.co/TVdJABTPdl"]]></title>
-        <id>https://twitter.com/shine_sann/status/1413411272230465536</id>
-        <link href="https://twitter.com/shine_sann/status/1413411272230465536"/>
-        <updated>2021-07-09T10:22:32.000Z</updated>
-        <summary type="html"><![CDATA[2コマ https://t.co/TVdJABTPdl]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[シティポップの世界的ブームの背景 かれらの日本という国への目線 - インタビュー : Kompass（コンパス） ミュージックガイドマガジン by Spotify&CINRA]]></title>
         <id>https://kompass.cinra.net/article/202107-citypop_ymmts</id>
         <link href="https://kompass.cinra.net/article/202107-citypop_ymmts"/>
         <updated>2021-07-09T10:10:02.000Z</updated>
         <summary type="html"><![CDATA[シティポップの世界的ブームの背景 かれらの日本という国への目線 テキスト・編集 山元翔一（CINRA.NET編集部） イラスト：アボット奥谷 「シティポップ」にまつわる言説はとても複雑だ。そもそも音楽的な定義が曖昧で、その反面なんとなくの風景やビジュアル、イメージを想起させてしまう言葉の魔力も理由としてあるだ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京五輪、海外メディアは不満爆発寸前　「我々は敵じゃない」：日経ビジネス電子版]]></title>
-        <id>https://business.nikkei.com/atcl/gen/19/00119/070800066/</id>
-        <link href="https://business.nikkei.com/atcl/gen/19/00119/070800066/"/>
-        <updated>2021-07-09T10:05:44.000Z</updated>
-        <summary type="html"><![CDATA[「我々、報道機関は、日本の皆さんの敵ではない」 国際スポーツ記者協会（AIPS）のジャンニ・メルロ会長は2021年7月2日、オンラインで開いたAIPSの世界カンファレンスのスピーチで、こう力強く訴えた。 メルロ会長が問題視しているのは、海外から東京五輪・パラリンピックを取材するため来日する報道陣に課せられる「行...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://www.asahi.com/articles/ASP795X2HP79UTFK011.html"/>
         <updated>2021-07-09T09:49:23.000Z</updated>
         <summary type="html"><![CDATA[共産党の田村智子政策委員長は9日の記者会見で、党綱領で掲げている日米安保条約の「廃棄」について、次期衆院選の政権公約には盛り込まない考えを示した。 田村氏は「今度の衆院選は政権交代を目指したい。立憲民主党などとの政策の一致点を公約に掲げることになる」と説明した。そのうえで「目指す連立政権のなかで、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相「ヤラセ会見」疑惑 挙手していない記者が指名される“珍事”の目撃証言（日刊ゲンダイDIGITAL） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/55dd85f17350fe565ec63ff743644771516b10c9</id>
-        <link href="https://news.yahoo.co.jp/articles/55dd85f17350fe565ec63ff743644771516b10c9"/>
-        <updated>2021-07-09T09:48:04.000Z</updated>
-        <summary type="html"><![CDATA[「この会見に意味はあるのか」「この男の顔はもう見たくない」 政府の新型コロナウイルス感染症対策本部（本部長・菅義偉首相）が、東京都に４回目となる緊急事態宣言（12日～８月22日まで）の発令を決めた８日夜。首相官邸で記者会見した菅首相に対し、ネット上では憤りと呆れた声であふれかえった。 作家・鈴木涼美氏...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T01:51:32.706Z</id>
+    <id>urn:2021-07-10T02:23:25.930Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T01:51:32.706Z</updated>
+    <updated>2021-07-10T02:23:25.930Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.asahi.com/articles/ASP796Q3RP79TIPE01R.html"/>
         <updated>2021-07-10T00:22:50.000Z</updated>
         <summary type="html"><![CDATA[水俣病を世界に伝えた米国人写真家のユージン・スミス（1918～78）を人気俳優のジョニー・デップが演じる映画「MINAMATA―ミナマタ―」について、地元有志らが熊本県水俣市で8月に開く上映会の後援を、市が拒否していたことがわかった。市は「映画の内容が不明」などと理由を説明している。 映画は、スミスと元妻アイリー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熱海土石流　造成が誘発した人為的な「河川争奪」地質学者が指摘 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210709/k00/00m/040/373000c</id>
+        <link href="https://mainichi.jp/articles/20210709/k00/00m/040/373000c"/>
+        <updated>2021-07-09T23:35:05.000Z</updated>
+        <summary type="html"><![CDATA[静岡県熱海市伊豆山（いずさん）地区で起きた土石流で、現地調査に基づき「人災だ」と見解を公表した地質学者の塩坂邦雄さん（76）は9日、県庁での記者会見で、造成で尾根が削られたことによって雨水の流れ込む範囲（集水域）が変化、盛り土側に雨水が流入した結果、土石流を誘発したと分析した。【山田英之】 塩坂氏は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -141,16 +151,6 @@
         <link href="https://www.newsweekjapan.jp/fujisaki/2021/07/post-15.php"/>
         <updated>2021-07-09T12:46:10.000Z</updated>
         <summary type="html"><![CDATA[＜コロナ、失業、五輪強行と不満だらけのはずなのに、若い世代は相変わらず投票に行かず、政治家にも舐められっぱなしだ＞ 7月4日に行われた東京都議会議員選挙は、勝者らしい勝者がいないという結果に終わった。この選挙では、大きく分けて3つの政治ブロックが争った。都民ファースト、自民+公明、立憲民主+共産＋生活...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚構新聞速報／編集部便り on Twitter: "【速報】菅首相「安心・安全な大会実現する」（虚構新聞社／20:30発表）"]]></title>
-        <id>https://twitter.com/kyoko_np/status/1413460424821927939</id>
-        <link href="https://twitter.com/kyoko_np/status/1413460424821927939"/>
-        <updated>2021-07-09T12:16:28.000Z</updated>
-        <summary type="html"><![CDATA[【速報】菅首相「安心・安全な大会実現する」（虚構新聞社／20:30発表）]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

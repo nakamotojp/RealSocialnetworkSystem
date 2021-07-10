@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T20:11:25.086Z</id>
+    <id>urn:2021-07-10T21:10:53.046Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T20:11:25.086Z</updated>
+    <updated>2021-07-10T21:10:53.046Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://shonenjumpplus.com/episode/3269754496390069971"/>
         <updated>2021-07-10T15:09:34.000Z</updated>
         <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映像研作者「最初から非難するつもりで映画観たら、そりゃだいたいつまんなく感じるよ」→作品との向き合い方についてさまざまな意見が集まる - Togetter]]></title>
+        <id>https://togetter.com/li/1743092</id>
+        <link href="https://togetter.com/li/1743092"/>
+        <updated>2021-07-10T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[大童 澄瞳 @dennou319 最初から非難するつもりで映画観たら、そりゃだいたいつまんない映画に感じるよ。そういう人が見てるのは自分の心であって、別に作品じゃないぞよ。将来そのことに自分で気づけるといいね。 2021-07-10 18:41:41 大童 澄瞳 @dennou319 古今亭志ん朝だったか、噺の枕に「たまにしかめっ面で寄席へ来...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -71,6 +81,16 @@
         <link href="https://togetter.com/li/1742771"/>
         <updated>2021-07-10T09:43:59.000Z</updated>
         <summary type="html"><![CDATA[結局のところ彼らは日本を批判したくて道徳的優位を示したいだけ。 結果的に良い方向に向かうとかは興味なく、五輪自粛派は数年後に五輪で観客呼ばなかったのは愚かとか平気で言い兼ねないことを予言しておく。 因みに海外の方がワクチン多く出回っていても圧倒的に感染者も重症者数も死者数も多い。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ひろゆきのフランス語レベルとサッカー選手の差別動画]]></title>
+        <id>https://anond.hatelabo.jp/20210710153831</id>
+        <link href="https://anond.hatelabo.jp/20210710153831"/>
+        <updated>2021-07-10T09:29:04.000Z</updated>
+        <summary type="html"><![CDATA[小島先生のブログがホットエントリに上がっていたことで、ひろゆきがフランス人サッカー選手の人種発言問題に関してTwitterやYoutubeで触れていたことを知った。 ひろゆきはフランス語ができるのか？ ひろゆきはputainという言葉は、強調の意味でフランス人もよく使っていると言うのだが、本当に聞いたことがあるのか？ ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[歴史上の人物は何をもって実在と見做すか]]></title>
-        <id>https://anond.hatelabo.jp/20210707223357</id>
-        <link href="https://anond.hatelabo.jp/20210707223357"/>
-        <updated>2021-07-10T02:40:46.000Z</updated>
-        <summary type="html"><![CDATA[例えば織田信長なんかは、今生きている人は誰もその姿を自分の目で見たことがないはずであるが、実在していたことは疑いようのない事実であると認識している。 これがスティーブ・ジョブスだったりすると、ウェブ・テレビ・新聞など様々な媒体で目にしたことがあるので、実在していたことは疑いようがない。 しかしなが...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[上司から叱責を受けた]]></title>
         <id>https://anond.hatelabo.jp/20210710003426</id>
         <link href="https://anond.hatelabo.jp/20210710003426"/>
@@ -261,16 +271,6 @@
         <link href="https://anond.hatelabo.jp/20210710111327"/>
         <updated>2021-07-10T02:16:03.000Z</updated>
         <summary type="html"><![CDATA[夢だった小説家になった。すでに何冊も出している。 どれも売上は順調で、増刷もしている。映像化の話もきている。 会社員時代よりも年収はちょっと落ちるが、体力的に兼業がきつくなってきたので専業になった。それが二年前。 それ以来、ほぼ毎日文章を書く生活をしている。 創作だけをする生活なんて、さぞ楽しいこと...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の「大麻政策」がここへきて激変中…来年の春から始まる「これだけの変化」（一般社団法人 大麻博物館） | 現代ビジネス | 講談社（1/5）]]></title>
-        <id>https://gendai.ismedia.jp/articles/-/84987</id>
-        <link href="https://gendai.ismedia.jp/articles/-/84987"/>
-        <updated>2021-07-10T01:47:29.000Z</updated>
-        <summary type="html"><![CDATA[日本の「大麻政策」がここへきて激変中…来年の春から始まる「これだけの変化」 新たな「市場」が生まれる…？ 日本では、大麻イコール「違法な薬物」というイメージがすっかり定着している。著名人の逮捕や若年層の検挙者急増といったネガティブな報道も続いている。 一方で、海外では北米を中心に大麻の再評価が進んでも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

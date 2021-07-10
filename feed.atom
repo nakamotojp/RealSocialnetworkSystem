@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T15:13:13.465Z</id>
+    <id>urn:2021-07-10T16:17:13.834Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T15:13:13.465Z</updated>
+    <updated>2021-07-10T16:17:13.834Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://mainichi.jp/articles/20210710/k00/00m/040/287000c"/>
         <updated>2021-07-10T12:11:37.000Z</updated>
         <summary type="html"><![CDATA[文部科学省は、教員免許に10年の有効期限を設け、更新の際に講習の受講を義務づける「教員免許更新制」を廃止する方針を固めた。政府関係者への取材で判明した。今夏にも廃止案を中央教育審議会に示し、来年の通常国会で廃止に必要な法改正を目指す。 文科省は免許更新講習に代わる教員の資質向上策として、オンラインな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西村大臣発言、菅首相や分科会メンバー 事前に把握せず｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4311749.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4311749.html"/>
+        <updated>2021-07-10T11:33:58.000Z</updated>
+        <summary type="html"><![CDATA[西村経済再生担当大臣が、酒類の提供停止を拒む飲食店に取引先の金融機関から応じるよう働きかけてもらうとした発言について、菅総理や政府分科会メンバーも事前に知らなかった実態が浮き彫りとなりました。 「（西村大臣から）コロナ室においては、関係省庁から個別の金融機関などへの働きかけは行わないこととしたと」...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[無限ストレージ - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/sat/wu-xian-sutorezi</id>
+        <link href="https://speakerdeck.com/sat/wu-xian-sutorezi"/>
+        <updated>2021-07-10T05:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 無限ストレージ Jul. 10th, 2021 Satoru Takeuchi twitter: satoru_takeuchi, EnSatoru 1 ストレージのコストは高い 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運用コストも高い 2 今日のテーマ 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[最近、子供の頃のことがちゃんと思い出せない]]></title>
         <id>https://anond.hatelabo.jp/20210710112932</id>
         <link href="https://anond.hatelabo.jp/20210710112932"/>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[映画『100日間生きたワニ』（100ワニ）の感想【一部ネタバレあり】 - 光景ワレズANNEX]]></title>
-        <id>https://akasofa.hatenablog.com/entry/2021/07/10/094000</id>
-        <link href="https://akasofa.hatenablog.com/entry/2021/07/10/094000"/>
-        <updated>2021-07-10T02:12:21.000Z</updated>
-        <summary type="html"><![CDATA[※この記事は映画のネタバレがありますが、途中まではネタバレなしでご覧いただけます。ネタバレに入っていくところには注釈を入れます。 はじめに 『100日後に死ぬワニ』を原作とした映画『100日間生きたワニ』を公開初日に見てきたので感想を書きます。 ここでは「映画作品としての感想」もできるだけ書いてみるけど、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[日本の「大麻政策」がここへきて激変中…来年の春から始まる「これだけの変化」（一般社団法人 大麻博物館） | 現代ビジネス | 講談社（1/5）]]></title>
         <id>https://gendai.ismedia.jp/articles/-/84987</id>
         <link href="https://gendai.ismedia.jp/articles/-/84987"/>
@@ -251,16 +261,6 @@
         <link href="https://www.asahi.com/articles/ASP796Q3RP79TIPE01R.html"/>
         <updated>2021-07-10T00:22:50.000Z</updated>
         <summary type="html"><![CDATA[水俣病を世界に伝えた米国人写真家のユージン・スミス（1918～78）を人気俳優のジョニー・デップが演じる映画「MINAMATA―ミナマタ―」について、地元有志らが熊本県水俣市で8月に開く上映会の後援を、市が拒否していたことがわかった。市は「映画の内容が不明」などと理由を説明している。 映画は、スミスと元妻アイリー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三原じゅん子氏に横浜市長選への擁立論浮上　支援する会が活動を開始 - 社会 : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/general/nikkan/news/202107100000025.html</id>
-        <link href="https://www.nikkansports.com/general/nikkan/news/202107100000025.html"/>
-        <updated>2021-07-09T23:30:10.000Z</updated>
-        <summary type="html"><![CDATA[来月の横浜市長選（8月8日告示、22日投開票）をめぐり、自民党参院議員の三原じゅん子厚労副大臣（56）を擁立しようとする動きが、地元で出ていることが9日、関係者への取材で分かった。 女性経営者らが中心になって、三原氏を支援する会が結成され、すでに活動をスタートさせている。市民の間では、選挙の争点としてカ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T21:10:53.046Z</id>
+    <id>urn:2021-07-10T22:11:17.055Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T21:10:53.046Z</updated>
+    <updated>2021-07-10T22:11:17.055Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://togetter.com/li/1743092"/>
         <updated>2021-07-10T14:37:59.000Z</updated>
         <summary type="html"><![CDATA[大童 澄瞳 @dennou319 最初から非難するつもりで映画観たら、そりゃだいたいつまんない映画に感じるよ。そういう人が見てるのは自分の心であって、別に作品じゃないぞよ。将来そのことに自分で気づけるといいね。 2021-07-10 18:41:41 大童 澄瞳 @dennou319 古今亭志ん朝だったか、噺の枕に「たまにしかめっ面で寄席へ来...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靖国神社の徳川宮司が退任意向　明治維新巡る歴史認識で波紋｜【西日本新聞me】]]></title>
+        <id>https://www.nishinippon.co.jp/item/o/388599/</id>
+        <link href="https://www.nishinippon.co.jp/item/o/388599/"/>
+        <updated>2021-07-10T14:05:58.000Z</updated>
+        <summary type="html"><![CDATA[靖国神社の徳川康久宮司（６９）が退任する意向を関係者に伝えていたことが２３日、分かった。定年前の退任は異例。徳川氏は「一身上の都合」と周囲に説明している。徳川幕府１５代将軍慶喜を曽祖父に持つ徳川氏が１６年の共同通信のインタビューで示した明治維新に関する歴史認識について、同神社元総務部長が「会津藩...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[台湾 オードリー・タン氏を東京五輪に派遣へ | オリンピック・パラリンピック 話題 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210710/k10013131941000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210710/k10013131941000.html"/>
-        <updated>2021-07-10T07:41:56.000Z</updated>
-        <summary type="html"><![CDATA[台湾当局は、今月開幕する東京オリンピックに、IT担当の閣僚でマスクの在庫が一目で確認できるアプリの導入などで知られる唐鳳氏、英語名オードリー・タン氏を代表として日本に派遣すると発表しました。 これは台湾の内閣にあたる行政院の報道官が発表しました。 唐鳳氏はIT企業の顧問などを経て、2016年に発足した蔡英...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[首相のフリーター支援、動きなし　フリーランスと混同？：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7B4DNFP78ULFA035.html</id>
         <link href="https://www.asahi.com/articles/ASP7B4DNFP78ULFA035.html"/>
@@ -191,6 +191,16 @@
         <link href="https://kabumatome.doorblog.jp/archives/65982568.html"/>
         <updated>2021-07-10T06:13:44.000Z</updated>
         <summary type="html"><![CDATA[100日後に死んだのが、作者の社会的評価だったのが一番予想外の結果でしたね。 — らくからちゃ@スゴいコシフリスト (@lacucaracha) 2020年3月21日 ※「100日後に死ぬワニ」、死んだ途端にすごい勢いで商業展開されるワニに（2020/03/20） 100日で死ぬワニ、商業化しようが電通が絡もうがそのひとつひとつは何の問題も感じ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無限ストレージ - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/sat/wu-xian-sutorezi</id>
+        <link href="https://speakerdeck.com/sat/wu-xian-sutorezi"/>
+        <updated>2021-07-10T05:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 無限ストレージ Jul. 10th, 2021 Satoru Takeuchi twitter: satoru_takeuchi, EnSatoru 1 ストレージのコストは高い 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運用コストも高い 2 今日のテーマ 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210710045115"/>
         <updated>2021-07-09T20:42:03.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスにおける反ワクチン界隈を類型化してみる。 ★ワクチン慎重派 ワクチンの効果については認めているが、中長期的な悪影響がわからないので見送るタイプ。なので純粋な反ワクチンではない。 確かに他人に移す可能性を一切顧みないならば、健康な20代がわざわざ副反応のあるワクチンを受けにいくかは個人...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オードリー・タン氏が訪日へ　五輪開会式に出席、日台関係の強化図る | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210710/k00/00m/030/006000c</id>
-        <link href="https://mainichi.jp/articles/20210710/k00/00m/030/006000c"/>
-        <updated>2021-07-09T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[台湾のデジタル担当相、唐鳳（オードリー・タン）氏＝台北市の行政院で2020年11月23日午前11時、福岡静哉撮影 台湾の蔡英文政権は、台湾のデジタル担当相、唐鳳（オードリー・タン）氏（40）を23日に開幕する東京オリンピックに合わせ、日本に派遣すると決めた。唐氏はオリンピックの開会式に出席する見通し。台湾政府関...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

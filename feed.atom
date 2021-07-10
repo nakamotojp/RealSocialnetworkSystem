@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T09:12:11.188Z</id>
+    <id>urn:2021-07-10T10:12:28.309Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T09:12:11.188Z</updated>
+    <updated>2021-07-10T10:12:28.309Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 950人感染確認 前週土曜日より234人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京 新型コロナ 5人死亡 950人感染確認 前週より234人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210710/k10013132071000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210710/k10013132071000.html"/>
         <updated>2021-07-10T07:49:17.000Z</updated>
-        <summary type="html"><![CDATA[東京都は10日、都内で新たに950人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の土曜日より234人増えていて、前週の同じ曜日を上回るのは21日連続です。]]></summary>
+        <summary type="html"><![CDATA[東京都内では10日、新たに10歳未満から90代までの男女合わせて950人が新型コロナウイルスに感染していることが確認されました。 1週間前の土曜日より234人増えていて、21日連続で前週の同じ曜日を上回りました。 また、感染が確認された5人が死亡したことを明らかにしました。 10日までの7日間平均は720.1人で、前の週と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首相のフリーター支援、動きなし　フリーランスと混同？：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7B4DNFP78ULFA035.html</id>
+        <link href="https://www.asahi.com/articles/ASP7B4DNFP78ULFA035.html"/>
+        <updated>2021-07-10T07:27:14.000Z</updated>
+        <summary type="html"><![CDATA[エンターテインメント業界で働く「フリーター」の支援を表明した菅義偉首相の発言が波紋を広げている。フリーターは短期雇用契約のアルバイトで生計を立てる人を指すことが多いが、発言から1週間近くたっても、政府が首相発言に沿った施策を検討している気配はない。このため、首相が雇用契約を結ばない個人事業主を指す...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +61,16 @@
         <link href="https://bunshun.jp/articles/-/47030"/>
         <updated>2021-07-10T02:41:34.000Z</updated>
         <summary type="html"><![CDATA[「ワクチンの接種と父の死に関連があるのでは？」という疑念 「ワクチンの接種と父の死に関連があるのではないか？」と遺族は不安に思い、警察もまた哲郎さんの死因について外部の医療機関に委託して、検査を行った。その結果、哲郎さんの死とワクチン接種との間には「関連がない」と結論付けられたが、遺族にはその検査...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歴史上の人物は何をもって実在と見做すか]]></title>
+        <id>https://anond.hatelabo.jp/20210707223357</id>
+        <link href="https://anond.hatelabo.jp/20210707223357"/>
+        <updated>2021-07-10T02:40:46.000Z</updated>
+        <summary type="html"><![CDATA[例えば織田信長なんかは、今生きている人は誰もその姿を自分の目で見たことがないはずであるが、実在していたことは疑いようのない事実であると認識している。 これがスティーブ・ジョブスだったりすると、ウェブ・テレビ・新聞など様々な媒体で目にしたことがあるので、実在していたことは疑いようがない。 しかしなが...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「東証1部上場」がなくなる？ ｜ NHK]]></title>
-        <id>https://www3.nhk.or.jp/news/special/sakusakukeizai/articles/20210709.html</id>
-        <link href="https://www3.nhk.or.jp/news/special/sakusakukeizai/articles/20210709.html"/>
-        <updated>2021-07-09T23:03:42.000Z</updated>
-        <summary type="html"><![CDATA[東証にはいま、「1部」と「2部」、新興企業が多い「マザーズ」、「ジャスダック」のスタンダードとグロースのあわせて5つの区分があります。 これを、来年（2022年）4月から「プライム」「スタンダード」「グロース」の3つに再編します。 「東証1部」などはなくなり、各企業は原則として新たな上場基準を満たせば、3つの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[いつもの on Twitter: "1か月たったらどうでもよくなっている話だが、現在のワクチン不足の構造について。 　前提としてワクチンには2種類あってファイザーとモデルナ。この2つの最大の違いはモデルナは二次移動が効かないこと。モデルナは溶かした場所で使わなくてはいけないので、大ロットでしか使えない。"]]></title>
         <id>https://twitter.com/AGSTEGKaQKw0iMk/status/1413534768654798848</id>
         <link href="https://twitter.com/AGSTEGKaQKw0iMk/status/1413534768654798848"/>
@@ -211,16 +221,6 @@
         <link href="https://anond.hatelabo.jp/20210710045115"/>
         <updated>2021-07-09T20:42:03.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスにおける反ワクチン界隈を類型化してみる。 ★ワクチン慎重派 ワクチンの効果については認めているが、中長期的な悪影響がわからないので見送るタイプ。なので純粋な反ワクチンではない。 確かに他人に移す可能性を一切顧みないならば、健康な20代がわざわざ副反応のあるワクチンを受けにいくかは個人...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ひろゆきが断言「我が子には絶対にiPadを買い与えるな！」 | 1％の努力 | ダイヤモンド・オンライン]]></title>
-        <id>https://diamond.jp/articles/-/275900</id>
-        <link href="https://diamond.jp/articles/-/275900"/>
-        <updated>2021-07-09T20:17:16.000Z</updated>
-        <summary type="html"><![CDATA[本名：西村博之 1976年、神奈川県生まれ。東京都に移り、中央大学へと進学。在学中に、アメリカ・アーカンソー州に留学。1999年、インターネットの匿名掲示板「2ちゃんねる」を開設し、管理人になる。2005年、株式会社ニワンゴの取締役管理人に就任し、「ニコニコ動画」を開始。2009年に「2ちゃんねる」の譲渡を発表。20...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

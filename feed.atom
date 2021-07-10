@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T17:16:33.386Z</id>
+    <id>urn:2021-07-10T18:13:57.578Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T17:16:33.386Z</updated>
+    <updated>2021-07-10T18:13:57.578Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -146,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[無限ストレージ - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/sat/wu-xian-sutorezi</id>
+        <link href="https://speakerdeck.com/sat/wu-xian-sutorezi"/>
+        <updated>2021-07-10T05:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 無限ストレージ Jul. 10th, 2021 Satoru Takeuchi twitter: satoru_takeuchi, EnSatoru 1 ストレージのコストは高い 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運用コストも高い 2 今日のテーマ 1. ハードウェアコストは高い 2. ストレージシステムを組むコストも高い 3. 運...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[最近、子供の頃のことがちゃんと思い出せない]]></title>
         <id>https://anond.hatelabo.jp/20210710112932</id>
         <link href="https://anond.hatelabo.jp/20210710112932"/>
@@ -271,16 +281,6 @@
         <link href="https://www.asahi.com/articles/ASP7974ZJP79ULFA00G.html"/>
         <updated>2021-07-09T22:18:14.000Z</updated>
         <summary type="html"><![CDATA[国内外から訪れた大勢の観客に、自社や商品を存分にPRし、たくさんの関連消費も生まれたら――。東京五輪のスポンサー企業が当初抱いた期待は、大半の会場が無観客と決まったことで、はかなく消え去った。憤り、自嘲、恨み節。経済効果の薄れた五輪に、様々な声が聞かれた。 「IもJも、感染状況の認識が甘い」。あるスポン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「蕎麦をたぐる」とか「タバコを飲む」とか]]></title>
-        <id>https://anond.hatelabo.jp/20210709234059</id>
-        <link href="https://anond.hatelabo.jp/20210709234059"/>
-        <updated>2021-07-09T21:10:29.000Z</updated>
-        <summary type="html"><![CDATA[そういうちょっと違う言い方って他に無いか、弁当を使うみたいなやつ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

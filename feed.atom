@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T18:13:57.578Z</id>
+    <id>urn:2021-07-10T19:09:15.164Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T18:13:57.578Z</updated>
+    <updated>2021-07-10T19:09:15.164Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[汚れた血 - 粟森きち | 少年ジャンプ＋]]></title>
+        <id>https://shonenjumpplus.com/episode/3269754496390069971</id>
+        <link href="https://shonenjumpplus.com/episode/3269754496390069971"/>
+        <updated>2021-07-10T15:09:34.000Z</updated>
+        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教員免許更新制廃止へ　文科省、来年の法改正目指す　安倍政権導入 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210710/k00/00m/040/287000c</id>
@@ -71,6 +81,16 @@
         <link href="https://news.yahoo.co.jp/articles/4e506e9619ed37ac82ff5a4a172b8218ab5f387f"/>
         <updated>2021-07-10T09:16:09.000Z</updated>
         <summary type="html"><![CDATA[7月5日の午前０時。ロックバンド『RADWIMPS』のボーカル・野田洋次郎は、36才になる瞬間を大勢の仲間と共に迎えていた。 【写真16枚】有名ミュージシャンも参加。「まん延防止等重点措置」の中で、10人以上が集まった誕生日パーティ。上下を白でコーディネートした野田洋次郎の全身ショットも。店を変えて朝の5時までパ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かぼすのたね on Twitter: "なんか日本政府ってモラ夫感あるよね。 外ヅラ（外交）はいいカッコしいで、家庭内（国民）に対しては「俺はこんだけ外でやってんだよ！！家のこと？知らん知らん！自分たちでなんとかしろ！自助だ、自助！」みたいな感じ"]]></title>
+        <id>https://twitter.com/KabosSeed/status/1413306222384541696</id>
+        <link href="https://twitter.com/KabosSeed/status/1413306222384541696"/>
+        <updated>2021-07-10T08:24:55.000Z</updated>
+        <summary type="html"><![CDATA[なんか日本政府ってモラ夫感あるよね。 外ヅラ（外交）はいいカッコしいで、家庭内（国民）に対しては「俺はこんだけ外でやってんだよ！！家のこと？知らん知らん！自分たちでなんとかしろ！自助だ、自助！」みたいな感じ]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[音楽関連4団体、相次ぐライブ中止を受け共同声明「行政に認められている営業活動は守られるべき」 - 音楽ナタリー]]></title>
-        <id>https://natalie.mu/music/news/436281</id>
-        <link href="https://natalie.mu/music/news/436281"/>
-        <updated>2021-07-10T04:08:19.000Z</updated>
-        <summary type="html"><![CDATA[音楽関連4団体、相次ぐライブ中止を受け共同声明「行政に認められている営業活動は守られるべき」 2021年7月10日 12:00 2421 一般社団法人日本音楽事業者協会、一般社団法人日本音楽制作者連盟、一般社団法人コンサートプロモーターズ協会、一般社団法人日本音楽出版社協会の4団体が、新型コロナウイルス感染拡大の影響...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[日本のエンタメ業界が直視できない不都合な真実]]></title>
         <id>https://anond.hatelabo.jp/20210710124113</id>
         <link href="https://anond.hatelabo.jp/20210710124113"/>
@@ -271,16 +281,6 @@
         <link href="https://anond.hatelabo.jp/20210710091933"/>
         <updated>2021-07-10T00:51:23.000Z</updated>
         <summary type="html"><![CDATA[ハンドメイド系の雑貨を売る仕事していて、セミナーもよくやっている。 それにやってくる客はほとんどが趣味の延長で小遣い稼ぎがしたい主婦。 ヤレる客は一瞬でわかる。こちらを見る目がキラキラしていて崇拝しているのがわかる。 セミナーのあとにLINEかインスタグラムでつながってDMするのがルーティン。 アトリエに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開幕直前の無観客決定　スポンサー恨み節「全て無駄に」 - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7974ZJP79ULFA00G.html</id>
-        <link href="https://www.asahi.com/articles/ASP7974ZJP79ULFA00G.html"/>
-        <updated>2021-07-09T22:18:14.000Z</updated>
-        <summary type="html"><![CDATA[国内外から訪れた大勢の観客に、自社や商品を存分にPRし、たくさんの関連消費も生まれたら――。東京五輪のスポンサー企業が当初抱いた期待は、大半の会場が無観客と決まったことで、はかなく消え去った。憤り、自嘲、恨み節。経済効果の薄れた五輪に、様々な声が聞かれた。 「IもJも、感染状況の認識が甘い」。あるスポン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

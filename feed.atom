@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T04:15:35.047Z</id>
+    <id>urn:2021-07-10T05:10:00.099Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T04:15:35.047Z</updated>
+    <updated>2021-07-10T05:10:00.099Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ひろゆきが断言「我が子には絶対にiPadを買い与えるな！」 | 1％の努力 | ダイヤモンド・オンライン]]></title>
+        <id>https://diamond.jp/articles/-/275900</id>
+        <link href="https://diamond.jp/articles/-/275900"/>
+        <updated>2021-07-09T20:17:16.000Z</updated>
+        <summary type="html"><![CDATA[本名：西村博之 1976年、神奈川県生まれ。東京都に移り、中央大学へと進学。在学中に、アメリカ・アーカンソー州に留学。1999年、インターネットの匿名掲示板「2ちゃんねる」を開設し、管理人になる。2005年、株式会社ニワンゴの取締役管理人に就任し、「ニコニコ動画」を開始。2009年に「2ちゃんねる」の譲渡を発表。20...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[滋賀県の喫茶店「銀河鉄道の夜をイメージして試作していたら恐ろしく可愛いゼリーを作り出してしまって狼狽えてるので見てほしい」 - Togetter]]></title>
         <id>https://togetter.com/li/1742673</id>
         <link href="https://togetter.com/li/1742673"/>
@@ -111,16 +121,6 @@
         <link href="https://shonenjumpplus.com/episode/3269754496389779134"/>
         <updated>2021-07-09T15:13:36.000Z</updated>
         <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪 北海道でのサッカー“無観客”開催を決定 道の意向で一転 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210710/k10013130781000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210710/k10013130781000.html"/>
-        <updated>2021-07-09T15:06:28.000Z</updated>
-        <summary type="html"><![CDATA[北海道の札幌ドームで行われる東京オリンピックのサッカー競技について、大会組織員会は上限を設けたうえで、観客を入れて開催するとしていましたが、緊急事態宣言が出される東京都などとの人の往来を防ぐのが難しいという北海道の意向を受けて、一転して観客を入れずに開催することを決めました。 東京オリンピックは、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

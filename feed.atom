@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T07:10:52.001Z</id>
+    <id>urn:2021-07-11T08:12:55.537Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T07:10:52.001Z</updated>
+    <updated>2021-07-11T08:12:55.537Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[安倍氏「自民に厳しい風」　次期衆院選へ危機感 ｜ 共同通信]]></title>
+        <id>https://nordot.app/786833784310693888</id>
+        <link href="https://nordot.app/786833784310693888"/>
+        <updated>2021-07-11T06:02:06.000Z</updated>
+        <summary type="html"><![CDATA[自民党の安倍晋三前首相は11日、北海道苫小牧市で講演し、秋までにある次期衆院選への危機感を強調した。不調だった東京都議選に触れ「自民党に対し、厳しい風が吹いている。都議選の結果もそうだった。私たちは謙虚に受け止めなければいけない」と述べた。 新型コロナウイルス対応を巡り、事業者などへの支援が重要だと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[疲れているハチに砂糖水をあげるための商品、自分以外誰が買うんだ？→そして出番が訪れる「あのとき助けていただいたハチです」 - Togetter]]></title>
         <id>https://togetter.com/li/1743337</id>
@@ -231,16 +241,6 @@
         <link href="https://mainichi.jp/articles/20210710/k00/00m/040/266000c"/>
         <updated>2021-07-10T12:53:20.000Z</updated>
         <summary type="html"><![CDATA[国会議事堂に掲げられる肖像画を除幕した穀田恵二氏（左）と呼び掛け人の伊吹文明氏＝京都市上京区の西陣織会館で2021年7月10日午後2時26分、矢倉健次撮影 共産党の穀田恵二国対委員長（74）の衆院議員在職25年を記念し、国会議事堂に掲げられる肖像画の完成披露の会が10日、京都市上京区の西陣織会館で開かれた。衆院京...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教員免許更新制廃止へ　文科省、来年の法改正目指す　安倍政権導入 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210710/k00/00m/040/287000c</id>
-        <link href="https://mainichi.jp/articles/20210710/k00/00m/040/287000c"/>
-        <updated>2021-07-10T12:11:37.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省は、教員免許に10年の有効期限を設け、更新の際に講習の受講を義務づける「教員免許更新制」を廃止する方針を固めた。政府関係者への取材で判明した。今夏にも廃止案を中央教育審議会に示し、来年の通常国会で廃止に必要な法改正を目指す。 文科省は免許更新講習に代わる教員の資質向上策として、オンラインな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

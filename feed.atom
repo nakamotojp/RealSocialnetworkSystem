@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T18:14:09.078Z</id>
+    <id>urn:2021-07-11T19:09:21.039Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T18:14:09.078Z</updated>
+    <updated>2021-07-11T19:09:21.039Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://bunshun.jp/articles/-/47024"/>
         <updated>2021-07-11T08:16:10.000Z</updated>
         <summary type="html"><![CDATA[亀は湯の児温泉のシンボル。大きな海亀が傷ついた体を癒しにきたという伝説がある 「あの日のことは忘れんですよ」 そう語るのは、16年ほど前に旅館の経営に区切りをつけ、いまは熊本市内に住む梅村健児さん（70）と里美さん（64）夫妻だ。 「いま思うとですよ。当時、若かった選手の方たちが、プロレスを何とか良くしよ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 614人感染確認 前週の日曜日より96人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html"/>
+        <updated>2021-07-11T07:54:11.000Z</updated>
+        <summary type="html"><![CDATA[東京都は11日、都内で新たに614人が新型コロナウイルスに感染していることを確認したと発表しました。 11日の614人は1週間前の日曜日より96人増えていて、前の週の同じ曜日を上回るのは22日連続です。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://lulu-blog.com/ssyakyou/"/>
         <updated>2021-07-11T02:50:44.000Z</updated>
         <summary type="html"><![CDATA[文章が上手になる方法 「文章」や「記事」を書くことが苦手な方は是非参考にしてください。 「文章を書く」と聞いただけで諦めてしまう方が多いのも現実です。 そもそも「文章を書く」事が苦手な方の原因ははっきりしています。 はっきり言いますが、原因は「練習してない」からです。 「では、今までに文章を書く練習を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インドから広がったデルタ型変異ウイルス　感染力、重症化リスク、ワクチンの効果について(忽那賢志) - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210711-00247279/</id>
-        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210711-00247279/"/>
-        <updated>2021-07-11T00:16:15.000Z</updated>
-        <summary type="html"><![CDATA[日本国内でもデルタ型と呼ばれる変異ウイルスが広がってきています。 このデルタ型変異ウイルスの特徴について、現時点で分かっていることをまとめました。 東京都内ではアルファ型からデルタ型に置き換わりつつある東京都内のデルタ型変異ウイルス（L452R）の陽性率の推移（第53回東京都新型コロナウイルス感染症モニタ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

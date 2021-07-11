@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T20:11:16.548Z</id>
+    <id>urn:2021-07-11T21:11:05.685Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T20:11:16.548Z</updated>
+    <updated>2021-07-11T21:11:05.685Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -101,16 +101,6 @@
         <link href="https://bunshun.jp/articles/-/47024"/>
         <updated>2021-07-11T08:16:10.000Z</updated>
         <summary type="html"><![CDATA[亀は湯の児温泉のシンボル。大きな海亀が傷ついた体を癒しにきたという伝説がある 「あの日のことは忘れんですよ」 そう語るのは、16年ほど前に旅館の経営に区切りをつけ、いまは熊本市内に住む梅村健児さん（70）と里美さん（64）夫妻だ。 「いま思うとですよ。当時、若かった選手の方たちが、プロレスを何とか良くしよ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 614人感染確認 前週の日曜日より96人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html"/>
-        <updated>2021-07-11T07:54:11.000Z</updated>
-        <summary type="html"><![CDATA[東京都は11日、都内で新たに614人が新型コロナウイルスに感染していることを確認したと発表しました。 11日の614人は1週間前の日曜日より96人増えていて、前の週の同じ曜日を上回るのは22日連続です。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,6 +251,16 @@
         <link href="https://www.nikkei.com/article/DGXZQOUF073TR0X00C21A6000000/"/>
         <updated>2021-07-10T22:18:25.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら デジタル技術でビジネスモデルを変革する「デジタルトランスフォーメーション（DX）」に走り出した日本企業の足元がおぼつかない。過去のリストラで実動部隊の情報シス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「石投げられるかも…」 五輪パラ組織委の「自宅からユニホーム着用」指示にボランティア困惑：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/115857</id>
+        <link href="https://www.tokyo-np.co.jp/article/115857"/>
+        <updated>2021-07-10T21:08:32.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・パラリンピック大会組織委員会が７万人のボランティアに対して、活動日は自宅からユニホーム姿で通うように指示していることが分かった。一部の活動場所で更衣室がないことに加え、市中に祝祭感を演出する狙いがあるという。だが、新型コロナウイルス感染症拡大への不安から大会への批判は根強く、「道中で嫌...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

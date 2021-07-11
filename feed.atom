@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T03:13:26.172Z</id>
+    <id>urn:2021-07-11T04:14:58.509Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T03:13:26.172Z</updated>
+    <updated>2021-07-11T04:14:58.509Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,11 +96,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[G20、法人課税で「歴史的合意」　最低税率15%以上: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOGR08DU80Y1A700C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOGR08DU80Y1A700C2000000/"/>
-        <updated>2021-07-10T15:50:57.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ベネチア=加藤晶也】20カ国・地域（G20）財務相・中央銀行総裁会議は10日、国際的な法人課税の新たなルールの大枠で合意して閉幕した。世界共通となる最低税率の設定...]]></summary>
+        <title type="html"><![CDATA[単純にロジスティクス(日本語だと兵站)の概念が欠如していることが問題だと..]]></title>
+        <id>https://anond.hatelabo.jp/20210711010321</id>
+        <link href="https://anond.hatelabo.jp/20210711010321"/>
+        <updated>2021-07-10T16:13:13.000Z</updated>
+        <summary type="html"><![CDATA[単純にロジスティクス(日本語だと兵站)の概念が欠如していることが問題だと思う。 はっきり言って、最上流(政府が各自治体に何個発送したか)と末端(現場で何回打ったか)だけで在庫管理なんてできるわけがない。 最上流から末端へワクチンが流通していく際に、中間に倉庫が1つ以上存在している。というのも、輸入量が毎日...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[西村大臣発言、菅首相や分科会メンバー 事前に把握せず｜TBS NEWS]]></title>
-        <id>https://news.tbs.co.jp/newseye/tbs_newseye4311749.html</id>
-        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4311749.html"/>
-        <updated>2021-07-10T11:33:58.000Z</updated>
-        <summary type="html"><![CDATA[西村経済再生担当大臣が、酒類の提供停止を拒む飲食店に取引先の金融機関から応じるよう働きかけてもらうとした発言について、菅総理や政府分科会メンバーも事前に知らなかった実態が浮き彫りとなりました。 「（西村大臣から）コロナ室においては、関係省庁から個別の金融機関などへの働きかけは行わないこととしたと」...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[安倍前首相、コロナ対応「思い切った、異次元の対策を」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7B64RVP7BUTFK009.html</id>
         <link href="https://www.asahi.com/articles/ASP7B64RVP7BUTFK009.html"/>
@@ -281,6 +271,16 @@
         <link href="https://anond.hatelabo.jp/20210710171633"/>
         <updated>2021-07-10T08:20:56.000Z</updated>
         <summary type="html"><![CDATA[「プロ野球やJリーグは観客入れてやってるじゃねーか！なんでそっちにも中止や無観客の要請を出さないんだ医師会は！」という的外れな騒ぎを起こしている連中が居るので解説しておく。 1.プロ野球とJリーグは上位組織や専門家を巻き込んでイベント開催ガイドラインを作り、随時改善しながら1年以上興行を続けた実績があ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[競泳の米王者、東京五輪控えワクチン接種拒否の理由明かす　写真1枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3355953</id>
+        <link href="https://www.afpbb.com/articles/-/3355953"/>
+        <updated>2021-07-10T05:17:36.000Z</updated>
+        <summary type="html"><![CDATA[競泳男子、米代表のマイケル・アンドリュー（2021年6月14日撮影）。(c)Al Bello/Getty Images/AFP 【7月10日 AFP】競泳男子の米代表として東京五輪に出場するマイケル・アンドリュー（Michael Andrew）は、新型コロナウイルス感染症（COVID-19）のワクチンを接種するという圧力には屈せず、周囲とは同調しないで大会に臨...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T09:12:30.364Z</id>
+    <id>urn:2021-07-11T10:12:32.170Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T09:12:30.364Z</updated>
+    <updated>2021-07-11T10:12:32.170Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 614人感染確認 前週の日曜日より96人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html"/>
+        <updated>2021-07-11T07:54:11.000Z</updated>
+        <summary type="html"><![CDATA[東京都は11日、都内で新たに614人が新型コロナウイルスに感染していることを確認したと発表しました。 11日の614人は1週間前の日曜日より96人増えていて、前の週の同じ曜日を上回るのは22日連続です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安倍氏「自民に厳しい風」　次期衆院選へ危機感 ｜ 共同通信]]></title>
         <id>https://nordot.app/786833784310693888</id>
@@ -231,16 +241,6 @@
         <link href="https://twitter.com/NOSUKE0607/status/1413273958904856577"/>
         <updated>2021-07-10T13:26:50.000Z</updated>
         <summary type="html"><![CDATA[男子トイレのほぼ全てに、この手のものが付いていないというジェンダー不平等を女性のほとんどは知らない。 https://t.co/lnSXmj6qhg]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共産・穀田氏を自民・二階氏ら祝福　肖像画披露会で和やかに呉越同舟 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210710/k00/00m/040/266000c</id>
-        <link href="https://mainichi.jp/articles/20210710/k00/00m/040/266000c"/>
-        <updated>2021-07-10T12:53:20.000Z</updated>
-        <summary type="html"><![CDATA[国会議事堂に掲げられる肖像画を除幕した穀田恵二氏（左）と呼び掛け人の伊吹文明氏＝京都市上京区の西陣織会館で2021年7月10日午後2時26分、矢倉健次撮影 共産党の穀田恵二国対委員長（74）の衆院議員在職25年を記念し、国会議事堂に掲げられる肖像画の完成披露の会が10日、京都市上京区の西陣織会館で開かれた。衆院京...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T05:10:10.973Z</id>
+    <id>urn:2021-07-11T06:14:56.557Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T05:10:10.973Z</updated>
+    <updated>2021-07-11T06:14:56.557Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[名ばかりCIO、場当たりDX　システム開発なお丸投げ: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUF073TR0X00C21A6000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUF073TR0X00C21A6000000/"/>
+        <updated>2021-07-10T22:18:25.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら デジタル技術でビジネスモデルを変革する「デジタルトランスフォーメーション（DX）」に走り出した日本企業の足元がおぼつかない。過去のリストラで実動部隊の情報シス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[公明の重点政策に「新・Go Toキャンペーン」感染収束を前提に | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210711/k10013132621000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210711/k10013132621000.html"/>
@@ -111,6 +121,16 @@
         <link href="https://twitter.com/Narodovlastiye/status/1413763866513666052"/>
         <updated>2021-07-10T17:56:26.000Z</updated>
         <summary type="html"><![CDATA[西村大臣の暴走ぶりを見ていると、つくづく自民党が改憲によって手に入れようと画策する「緊急事態条項」が存在しなくて良かったと思い知らされる。この条項は時の内閣の一存で、憲法も無視して法律と同等の命令を好きな時に好きなだけ出せる代物なので、令状なしで逮捕も無期限拘禁も止められません。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昔の友達がニュース激怒マンになって悲しい私]]></title>
+        <id>https://anond.hatelabo.jp/20210711021233</id>
+        <link href="https://anond.hatelabo.jp/20210711021233"/>
+        <updated>2021-07-10T17:41:54.000Z</updated>
+        <summary type="html"><![CDATA[自分は神経質な人間で、なるべく常に楽しいこと、スムーズなことだけを眺めていたい気質だから、ニュースとか、それに関する他人の感想なんかをあまり見ないように生きている。こういうことに関して不満とか怒りをわざわざ表明し合っている人間の気持ちがわからない。そうすればするほど、余計に傷ついてストレスを溜め...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[機動戦士ガンダムのコロニーは「貧困層を押し込める集合住宅」だった？→地球に住めているのは富裕層だけかもしれない - Togetter]]></title>
-        <id>https://togetter.com/li/1743008</id>
-        <link href="https://togetter.com/li/1743008"/>
-        <updated>2021-07-10T12:18:00.000Z</updated>
-        <summary type="html"><![CDATA[理間 高広（『プリセイジ・ペリータ』DL販売中！） @Rima_tk 今更だけど、宇宙世紀ガンダムて「宇宙の人工島＝富裕層の新天地」でなく「宇宙の人工島＝大量の貧困層を押し込める集合住宅」とした所がよくよく考えるほど確かになぁ…となって、でもSF映画でもそこら辺を考え抜いてるぽいのはあまり見なくて、近年でもカジ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[教員免許更新制廃止へ　文科省、来年の法改正目指す　安倍政権導入 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210710/k00/00m/040/287000c</id>
         <link href="https://mainichi.jp/articles/20210710/k00/00m/040/287000c"/>
@@ -281,16 +291,6 @@
         <link href="https://www.afpbb.com/articles/-/3355953"/>
         <updated>2021-07-10T05:17:36.000Z</updated>
         <summary type="html"><![CDATA[競泳男子、米代表のマイケル・アンドリュー（2021年6月14日撮影）。(c)Al Bello/Getty Images/AFP 【7月10日 AFP】競泳男子の米代表として東京五輪に出場するマイケル・アンドリュー（Michael Andrew）は、新型コロナウイルス感染症（COVID-19）のワクチンを接種するという圧力には屈せず、周囲とは同調しないで大会に臨...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UVライトを当てると5秒で硬化！ 瞬間接着剤より扱いやすいアクリレート樹脂 | ライフハッカー［日本版］]]></title>
-        <id>https://www.lifehacker.jp/2021/07/amazon-akamorikohki-uvhardener-ruv-02.html</id>
-        <link href="https://www.lifehacker.jp/2021/07/amazon-akamorikohki-uvhardener-ruv-02.html"/>
-        <updated>2021-07-10T05:11:44.000Z</updated>
-        <summary type="html"><![CDATA[接着剤は、とても便利なものです。とはいえ、意外に取り扱いが難しいものが少なくないんですよね。 種類が多すぎる上に、それぞれ“適量”が違うし、“硬化”が早すぎたり遅すぎたり…。 そんな不満を持っている人にチェックしてみて欲しいのが、高森コーキの｢UVライトで固まる硬化剤 RUV-02｣。 取り扱いが簡単なのに、たった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T01:58:17.036Z</id>
+    <id>urn:2021-07-11T02:29:00.737Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T01:58:17.036Z</updated>
+    <updated>2021-07-11T02:29:00.737Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://twitter.com/Narodovlastiye/status/1413763866513666052"/>
         <updated>2021-07-10T17:56:26.000Z</updated>
         <summary type="html"><![CDATA[西村大臣の暴走ぶりを見ていると、つくづく自民党が改憲によって手に入れようと画策する「緊急事態条項」が存在しなくて良かったと思い知らされる。この条項は時の内閣の一存で、憲法も無視して法律と同等の命令を好きな時に好きなだけ出せる代物なので、令状なしで逮捕も無期限拘禁も止められません。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究の呪い]]></title>
+        <id>https://www.slideshare.net/hitoshin/ss-249684418</id>
+        <link href="https://www.slideshare.net/hitoshin/ss-249684418"/>
+        <updated>2021-07-10T16:32:41.000Z</updated>
+        <summary type="html"><![CDATA[研究の呪い 1. 研究の呪い 西川 仁 (アスタミューゼ株式会社) 2021/03/19 bit.ly/hitoshini NLP 2021 Workshop 若手研究者交流のニューノーマルを考える 1 bit.ly/hitoshini @hitoshi_ni 2. 自己紹介 • 自然言語処理のなかの、特に自動要約など、テキストを計算機に吐かせる技術 (自然言語 生成) については (たぶん) 割...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://togetter.com/li/1742921"/>
         <updated>2021-07-10T04:50:25.000Z</updated>
         <summary type="html"><![CDATA[龍姫 @xdestinydollx おばあちゃんがガラケーでうまく電話できなくなったのでホムテルにしてみたんだけど、これすごい！ 耳にちゃんとあてやすいし最大音量が大きいので会話が成立する！鳴ったらちゃんと出てくれる！ 施設やホームだと固定電話ひけないから…SIM差すだけで使えるの最高！ pic.twitter.com/Oikfn0a2mU 202...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本のエンタメ業界が直視できない不都合な真実]]></title>
-        <id>https://anond.hatelabo.jp/20210710124113</id>
-        <link href="https://anond.hatelabo.jp/20210710124113"/>
-        <updated>2021-07-10T03:50:32.000Z</updated>
-        <summary type="html"><![CDATA[シティポップがなぜ流行ったのか。 日本の楽曲が知られているのはなぜなのか。 そんなことは最早考えるまでもない。 それはすべてアニメやゲームやライトノベルを筆頭とするおたくカルチャーに付随して流行したものだ。 40歳以上のおたくカルチャーを毛嫌いしている人が多い世代には理解しがたいかもしれないがそれ以外...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

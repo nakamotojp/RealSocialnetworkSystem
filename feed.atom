@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T17:16:53.269Z</id>
+    <id>urn:2021-07-11T18:14:09.078Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T17:16:53.269Z</updated>
+    <updated>2021-07-11T18:14:09.078Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「動いてるでしょ!?」「信じられない」　箱がすごい動いて見えるのに動いてない錯視GIFに反響（1/2 ページ） - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html"/>
+        <updated>2021-07-11T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[箱（立方体）が左右・上下・斜め・回転・拡大＆縮小と、色んな動き方をしているように見えるGIF画像がTwitterで話題です。実際には動いていないだと……？ 箱の中央に矢印があり、それが指し示す方向に箱が動いているように見えます。しかし、よく見ると箱は元の位置から変わっておらず、感じる動きとのズレから頭が混乱し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「ディズニープラス」会員から苦情　退会に十数ページかかる複雑さ...運営会社「改善に励む」: J-CAST ニュース【全文表示】]]></title>
         <id>https://www.j-cast.com/2021/07/11415854.html?p=all</id>
         <link href="https://www.j-cast.com/2021/07/11415854.html?p=all"/>
@@ -201,16 +211,6 @@
         <link href="https://www.jiji.com/jc/article?k=2021070800906&amp;g=soc"/>
         <updated>2021-07-10T23:28:35.000Z</updated>
         <summary type="html"><![CDATA[「ネコの宿命」腎臓病の治療法を開発　寿命が２倍、最長３０年にも　東大大学院・宮崎徹教授インタビュー 2021年07月11日08時00分 インタビューに答える宮崎徹教授 ネコを飼った経験のある人の多くはご存じだろうが、ほとんどのイエネコは高齢になると腎臓病を発症する。そして、腎臓の機能は一度失われると回復せず、長...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪関連イベント、雨の中「手話通訳」続ける女性に報道陣からも心配の声 - モデルプレス]]></title>
-        <id>https://mdpr.jp/news/detail/2665631</id>
-        <link href="https://mdpr.jp/news/detail/2665631"/>
-        <updated>2021-07-10T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[都内で行われた聖火お披露目イベント。中継には必要不可欠な「手話通訳」女性の扱いを見て、記者は少々残念な気持ちに…。 東京オリンピック開幕まで残り2週間となった9日、東京・駒沢公園で聖火のお披露目イベントが行われた。 雨が降りしきる中での式典、集まったカメラマンたちはみなレインコートに身を包む中、記者は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

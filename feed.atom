@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T10:12:32.170Z</id>
+    <id>urn:2021-07-11T11:09:27.685Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T10:12:32.170Z</updated>
+    <updated>2021-07-11T11:09:27.685Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210711/k10013133351000.html"/>
         <updated>2021-07-11T07:54:11.000Z</updated>
         <summary type="html"><![CDATA[東京都は11日、都内で新たに614人が新型コロナウイルスに感染していることを確認したと発表しました。 11日の614人は1週間前の日曜日より96人増えていて、前の週の同じ曜日を上回るのは22日連続です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ 感染再拡大の東京都 重症患者数40～50代で増加 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210711/k10013132991000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210711/k10013132991000.html"/>
+        <updated>2021-07-11T07:13:53.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに感染して重症となった患者は、感染が再拡大している東京都では40代から50代で増加し、ことし春以降の感染拡大の「第4波」のピーク時をすでに上回っています。 専門家は感染対策を続けながら、ワクチンの接種を進める必要があると指摘しています。 重症者数 全国は減少も 東京都では増加 全国の重症...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +51,16 @@
         <link href="https://news.yahoo.co.jp/byline/morisayaka/20210711-00247345/"/>
         <updated>2021-07-11T03:13:01.000Z</updated>
         <summary type="html"><![CDATA[カリフォルニア州デスバレーは、海抜マイナス86メートルという、北米一低い谷に位置しています。深い谷には暑さがこもりやすく、死の谷を意味するその名前からもわかるように、昔から多くの人々が命を落としてきました。 そんなデスバレーで9日(金)、54.4度(華氏130度)まで気温が上昇しました。 これが正式な記録として...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中学のとき国語でやった『最後の授業』は、中年になって世界史を学んだら解釈が変わった: わたしが知らないスゴ本は、きっとあなたが読んでいる]]></title>
+        <id>http://dain.cocolog-nifty.com/myblog/2021/07/post-54ccc1.html</id>
+        <link href="http://dain.cocolog-nifty.com/myblog/2021/07/post-54ccc1.html"/>
+        <updated>2021-07-11T03:06:21.000Z</updated>
+        <summary type="html"><![CDATA[中学のとき、国語の授業で、アルフォンス・ドーデ『最後の授業』をやった。 フランス領アルザス地方に住む少年の目を通して、ドイツに占領される悲哀を描いた短編だ。明日からフランス語は禁止され、ドイツ語で教わることになる。だから今日は、フランス語の最後の授業なのだ、という話だ。 先生はフランス語の素晴らし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[汚れた血 - 粟森きち | 少年ジャンプ＋]]></title>
-        <id>https://shonenjumpplus.com/episode/3269754496390069971</id>
-        <link href="https://shonenjumpplus.com/episode/3269754496390069971"/>
-        <updated>2021-07-10T15:09:34.000Z</updated>
-        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[映像研作者「最初から非難するつもりで映画観たら、そりゃだいたいつまんなく感じるよ」→作品との向き合い方についてさまざまな意見が集まる - Togetter]]></title>
         <id>https://togetter.com/li/1743092</id>
         <link href="https://togetter.com/li/1743092"/>
@@ -281,16 +291,6 @@
         <link href="https://togetter.com/li/1742930"/>
         <updated>2021-07-10T09:08:59.000Z</updated>
         <summary type="html"><![CDATA[「性的客体化」「性的モノ化」について ポルノ撲滅運動で知られるラディカルフェミニストのキャサリン・マッキノン、アンドレア・ドウォーキンが提唱した概念。 その後、マーサ・ヌスバウムというフェミニスト哲学者が体系化。現在では多くのフェミニスト達の考え方の柱となっている。 あんな🙋‍♀️ @annaPHd9pj 日米ミック...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロッキンが中止せざるを得ず、プロ野球やJリーグは普通に客入れて開催している理由]]></title>
-        <id>https://anond.hatelabo.jp/20210710171633</id>
-        <link href="https://anond.hatelabo.jp/20210710171633"/>
-        <updated>2021-07-10T08:20:56.000Z</updated>
-        <summary type="html"><![CDATA[「プロ野球やJリーグは観客入れてやってるじゃねーか！なんでそっちにも中止や無観客の要請を出さないんだ医師会は！」という的外れな騒ぎを起こしている連中が居るので解説しておく。 1.プロ野球とJリーグは上位組織や専門家を巻き込んでイベント開催ガイドラインを作り、随時改善しながら1年以上興行を続けた実績があ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

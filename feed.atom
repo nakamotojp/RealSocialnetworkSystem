@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T15:13:12.289Z</id>
+    <id>urn:2021-07-11T16:17:08.162Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T15:13:12.289Z</updated>
+    <updated>2021-07-11T16:17:08.162Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://fjii.blog.fc2.com/blog-entry-3041.html"/>
         <updated>2021-07-11T11:59:27.000Z</updated>
         <summary type="html"><![CDATA[今日の二本目の記事です。 ある友人が「ひろゆき」の反論まがいツイートのリンクを送ってくれました。 「ひろゆき」がまたまた歪曲引用 「ひろゆき」のツイートを引用します。 ***** ひろゆき, Hiroyuki Nishimura@hirox246 ・ 「語源が古いから、若者言葉ではない」というのは反論になってません。 「ヤバい」は若者言...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昔、母にうさぎを飼いたいと言ったら…「生命を預かる覚悟を聞くのではなく自覚させるのが素晴らしい」今、息子達に同じ課題を出している。 - Togetter]]></title>
+        <id>https://togetter.com/li/1743496</id>
+        <link href="https://togetter.com/li/1743496"/>
+        <updated>2021-07-11T10:50:59.000Z</updated>
+        <summary type="html"><![CDATA[かえ @kae_k16 小学生の時、母にうさぎ飼いたいって言ったら飼い方を調べてノートにまとめたらその出来栄えで判断すると言われた。3冊の本をまとめた結論が、うさぎの健康を維持するのは大変、という事で、母にノートを渡して飼いませんと言った。ハムスターを飼いたいという息子たちに今同じ課題を出している。 2021-07...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://dot.asahi.com/dot/2021070800084.html"/>
         <updated>2021-07-11T00:00:45.000Z</updated>
         <summary type="html"><![CDATA[東京都への4度目の緊急事態宣言発令が決まり、首都圏では無観客での開催が決まった東京五輪。一方、海外の五輪関係者は続々と東京入りしている。東京・江東区の東京ビッグサイトでは、海外メディアをはじめとする五輪関係者が大会本番に向けた準備を進めている。組織委は、海外から来日した関係者に厳格な行動管理を求め...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「コルク狩り」で少年2人に暴行　非行グループの高校生３人を逮捕、テリトリーを巡りトラブルに（デイリー新潮） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/edcad30a88125813b92423921a5d16eddcce9309</id>
-        <link href="https://news.yahoo.co.jp/articles/edcad30a88125813b92423921a5d16eddcce9309"/>
-        <updated>2021-07-10T23:53:58.000Z</updated>
-        <summary type="html"><![CDATA[東京北区の緑地広場で足立区在住の会社員と高校1年生（ともに16歳）に暴行を加えたとして、6月23日、北区の高校生3人が警視庁少年事件課に逮捕された。 【写真】トラブルの原因となった「コルク半」 社会部のデスクが言う。 「現場は王子駅近くの『あすか緑地』（北区）という場所です。北東へ向かうとまず隅田川とぶつ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

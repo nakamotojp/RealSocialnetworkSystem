@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T12:18:59.598Z</id>
+    <id>urn:2021-07-12T13:19:20.127Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T12:18:59.598Z</updated>
+    <updated>2021-07-12T13:19:20.127Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210712/k10013134571000.html"/>
         <updated>2021-07-12T10:08:46.000Z</updated>
         <summary type="html"><![CDATA[NHKの世論調査によりますと、菅内閣を「支持する」と答えた人は、先月より4ポイント下がって33％と、去年9月の発足以降最も低くなりました。一方、「支持しない」と答えた人は、1ポイント上がって46％で、発足以降最も高くなりました。 NHKは、今月9日から3日間、全国の18歳以上を対象にコンピューターで無作為に発生さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「中国共産党員になりたい」　香港俳優ジャッキー・チェン氏：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021071200793&amp;g=int</id>
+        <link href="https://www.jiji.com/jc/article?k=2021071200793&amp;g=int"/>
+        <updated>2021-07-12T09:47:54.000Z</updated>
+        <summary type="html"><![CDATA[「中国共産党員になりたい」　香港俳優ジャッキー・チェン氏 2021年07月12日17時29分 香港の映画俳優ジャッキー・チェン氏＝２０１９年１０月、米カリフォルニア州ビバリーヒルズ（ＡＦＰ時事） 【北京時事】中国共産党機関紙・人民日報系の環球時報英語版は１２日、香港の映画俳優ジャッキー・チェン氏（６７）が共産党...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +61,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210712/k10013135001000.html"/>
         <updated>2021-07-12T07:49:41.000Z</updated>
         <summary type="html"><![CDATA[東京都は12日、都内で新たに502人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の月曜日より160人増えました。前の週の同じ曜日を上回るのは12日で23日連続です。土日に休診の医療機関が多く1週間のなかでも比較的、感染確認が少ない傾向にある月曜日に500人を超えるのは、およそ2か月前の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サバ缶とトマト缶を冷蔵庫にぶち込んで「プッタネスカみたいな冷たいサバ缶トマトスパゲティ」【メシ通の冷たい麺】 - メシ通 | ホットペッパーグルメ]]></title>
+        <id>https://www.hotpepper.jp/mesitsu/entry/yasunario/2021-00385</id>
+        <link href="https://www.hotpepper.jp/mesitsu/entry/yasunario/2021-00385"/>
+        <updated>2021-07-12T07:49:06.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、高円寺メタルめしのヤスナリオです。 サバ水煮缶、カットトマト缶、コンソメスープの素など常備してあるものをフライパンにダイレクトインして作るプッタネスカ風スパゲティ、 www.hotpepper.jp 今回はその冷やしバージョン「プッタネスカみたいな冷たいサバ缶トマトスパゲティ」です。 冷やしたカットトマ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -150,7 +170,7 @@
         <id>https://mainichi.jp/articles/20210712/k00/00m/020/032000c</id>
         <link href="https://mainichi.jp/articles/20210712/k00/00m/020/032000c"/>
         <updated>2021-07-12T01:26:50.000Z</updated>
-        <summary type="html"><![CDATA[経済産業省は12日、2030年時点の原子力や火力、太陽光など各電源の発電コストを有識者委員会で示した。原発の発電コストは、東京電力福島第1原発事故を踏まえた安全対策費の増加などを反映し、1キロワット時あたり「11円台後半以上」と算定。過去の試算では「最安値」だったが、太陽光などよりも高くなり、コスト面での...]]></summary>
+        <summary type="html"><![CDATA[経済産業省は12日、原子力や火力、太陽光などの発電コストについて2030年時点の試算を有識者委員会に示した。最も安い電源は原発から事業用太陽光に代わった。原発は1キロワット時あたり「11円台後半以上」で、東京電力福島第1原発事故を踏まえた安全対策費の増加などを反映して、前回15年の試算より1円以上増えた。経産...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,31 +236,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NTT、五輪無観客の大逆風　アピールの場失うこれだけの技術：日経ビジネス電子版]]></title>
-        <id>https://business.nikkei.com/atcl/gen/19/00306/070800006/</id>
-        <link href="https://business.nikkei.com/atcl/gen/19/00306/070800006/"/>
-        <updated>2021-07-11T20:46:24.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染者数が再び増加に転じ、東京五輪・パラリンピックは多くの競技が無観客で開催されることになった。関係者以外が会場に足を運べないなかで、注目が高まるのが映像配信などのリモート観戦だ。しかし、通信分野での五輪ゴールドパートナーであるNTTはそのニーズを捉えられそうにない。 「商用の5G...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[西村大臣「趣旨十分に伝えられず反省」とツイッターで釈明も…批判やまず、辞任求める声　：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/116107</id>
         <link href="https://www.tokyo-np.co.jp/article/116107"/>
         <updated>2021-07-11T16:37:49.000Z</updated>
         <summary type="html"><![CDATA[西村氏は３度にわたってツイッターを更新。まず「飲食店の皆様には、新型コロナ対策にご協力頂き感謝申し上げます。この度は、私の発言で、混乱を招き、特に飲食店の皆様に不安を与えることになってしまいました。何とか感染拡大を抑えたい、多くの皆様にご協力頂きたいとの強い思いからではありますが、趣旨を十分に伝...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT系上場企業の平均年収を業種別にみてみた 2021年版［前編］ ～ ネットベンチャー、ゲーム、メディア系 － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/it_2021.html</id>
-        <link href="https://www.publickey1.jp/blog/21/it_2021.html"/>
-        <updated>2021-07-11T15:03:17.000Z</updated>
-        <summary type="html"><![CDATA[IT系上場企業の平均年収を業種別にみてみた 2021年版［前編］ ～ ネットベンチャー、ゲーム、メディア系 IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 特に今年は、昨年春からの新型コロナウイルス感染拡大の影響を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

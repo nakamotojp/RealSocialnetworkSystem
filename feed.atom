@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T01:53:53.027Z</id>
+    <id>urn:2021-07-12T02:22:47.947Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T01:53:53.027Z</updated>
+    <updated>2021-07-12T02:22:47.947Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSSで上下左右の中央に配置する時の「position: fixed;」での新しい記述方法 | コリス]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html"/>
+        <updated>2021-07-12T00:41:51.000Z</updated>
+        <summary type="html"><![CDATA[中央揃えの古典的なテクニックの一つ、モーダルやメッセージなどを表示する時に適したposition: fixed;での新しい記述方法を紹介します。 古い記述方法では、負のパーセンテージを使用していたり、あまり直感的ではない...記事の続きを読む]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巧妙化する「排除アート」　誰にもやさしくない都市が牙をむく時]]></title>
+        <id>https://withnews.jp/article/f0210712003qq000000000000000W02c10101qq000023308A</id>
+        <link href="https://withnews.jp/article/f0210712003qq000000000000000W02c10101qq000023308A"/>
+        <updated>2021-07-11T22:53:47.000Z</updated>
+        <summary type="html"><![CDATA[巧妙化する「排除アート」　誰にもやさしくない都市が牙をむく時 街中や公園の「座りにくいベンチ」はどう広がっていったのか？ 何かよく分からないものは「アート」 定義されない場所を減らしたい 隠された「排除」の意図に気づくと… 都市の駅のスペースにあるデコボコした突起のようなオブジェ、公園や路上では仕切り...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京五輪「おもてなし」外国選手〝はとバスツアー〟計画　組織委・橋本会長も検討 - サンスポ]]></title>
         <id>https://www.sanspo.com/article/20210712-BIZJNFWBOZPO3EHTCWIVVMXABE/</id>
@@ -96,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[『古畑任三郎』が「キムタクで復活」…衝撃すぎる情報の深層（FRIDAY） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/79d907807420e7e21b054c2493b52f0e3e4f5bd1</id>
+        <link href="https://news.yahoo.co.jp/articles/79d907807420e7e21b054c2493b52f0e3e4f5bd1"/>
+        <updated>2021-07-11T14:14:55.000Z</updated>
+        <summary type="html"><![CDATA[「名優・田村正和（享年77）の訃報を受けて、フジテレビが水面下で『古畑任三郎』復活プロジェクトを始動させたと聞いています。本来ならば田村さんが存命中になんとか形にしたかったが、それは叶わなかった。この作品には根強いファンも多いことから、関係者に十分理解が得られたうえで続編の制作に入れるように、フジ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Soka Gakkai’s Human Revolution: The Rise of a Mimetic Nation in Modern Japan"はめちゃめちゃすごい本なので読んでほしいという｜タサヤマ｜note]]></title>
         <id>https://note.com/girugamera/n/n1bf303614de6</id>
         <link href="https://note.com/girugamera/n/n1bf303614de6"/>
@@ -121,16 +151,6 @@
         <link href="https://rhysd.hatenablog.com/entry/2021/07/11/214313"/>
         <updated>2021-07-11T12:54:40.000Z</updated>
         <summary type="html"><![CDATA[GitHub Actions のワークフローを静的にチェックする actionlint というコマンドラインツールを最近つくっていて，概ね欲しい機能が揃って実装も安定してきたので紹介します． github.com なぜワークフローファイルの lint をすべきなのか GitHub Actions が正式リリースされてからだいぶ経ち，GitHub 上での CI は GitH...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どうすのー on Twitter: "あの…本当に信じられないのですが… #兵庫県知事選 に出馬している #さいとう元彦 候補が「反日や在日が多い兵庫県南部」という明らかに事実無根の誹謗中傷ツイートに「いいね」をつけています… 維新推薦のさいとうさんは兵庫県南部には反… https://t.co/8sgMs6qVvI"]]></title>
-        <id>https://twitter.com/7SJFw94Q9SIAPCe/status/1414126430456193030</id>
-        <link href="https://twitter.com/7SJFw94Q9SIAPCe/status/1414126430456193030"/>
-        <updated>2021-07-11T12:21:48.000Z</updated>
-        <summary type="html"><![CDATA[あの…本当に信じられないのですが… #兵庫県知事選 に出馬している #さいとう元彦 候補が「反日や在日が多い兵庫県南部」という明らかに事実無根の誹謗中傷ツイートに「いいね」をつけています… 維新推薦のさいとうさんは兵庫県南部には反… https://t.co/8sgMs6qVvI]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -181,16 +201,6 @@
         <link href="https://togetter.com/li/1743496"/>
         <updated>2021-07-11T10:50:59.000Z</updated>
         <summary type="html"><![CDATA[かえ @kae_k16 小学生の時、母にうさぎ飼いたいって言ったら飼い方を調べてノートにまとめたらその出来栄えで判断すると言われた。3冊の本をまとめた結論が、うさぎの健康を維持するのは大変、という事で、母にノートを渡して飼いませんと言った。ハムスターを飼いたいという息子たちに今同じ課題を出している。 2021-07...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「世界中のオタクを救いたい」　オタク女子向けジム爆誕　“使命感”に駆られたオタク起業家：“推しに恥じない”身体作り（1/3 ページ） - ITmedia ビジネスオンライン]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2107/11/news010.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2107/11/news010.html"/>
-        <updated>2021-07-11T09:55:47.000Z</updated>
-        <summary type="html"><![CDATA[目指すのは「推しに恥じない身体作り」──オタク女子をターゲットにしたパーソナルジム「Clara（クララ）」。申し込み多数の好調な滑り出しだという。なぜオタク女子向けのジムを開業するに至ったのか、本人も生粋のオタクであるというクララボの作田燿子代表に話を聞いた。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://anond.hatelabo.jp/20210711161100"/>
         <updated>2021-07-11T07:13:19.000Z</updated>
         <summary type="html"><![CDATA[とくにバイブとか女性向けグッズを買ったことがある方々へ 大抵そういう商品は買うと持ち運び用のチープなきんちゃく袋がついていると思う 実際あれに入れて持ち運ぶ人がいるのかどうかは知らないが いやだからこそなのかもしれないが 頼むからそれを日常使いにしないでくれ 確かに大抵のメーカーのは無地だから使ってい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 【画像】 オンライン修学旅行が悲惨すぎると話題に - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009167.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009167.html"/>
-        <updated>2021-07-11T04:30:47.000Z</updated>
-        <summary type="html"><![CDATA[【画像】 オンライン修学旅行が悲惨すぎると話題に 1 名前：ベンガル(茸) [ﾆﾀﾞ]：2021/07/11(日) 10:49:58.45 ID:Kghixxdc0 修学旅行の気分でオンライン京都巡り 2021年7月5日更新 https://www.toonippo.co.jp/articles/-/576831 5: ブリティッシュショートヘア(茸) [EU] 2021/07/11(日) 10:51:36.45 ID:lcoLoCC90 ひで...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

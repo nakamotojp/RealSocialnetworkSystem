@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T23:11:32.640Z</id>
+    <id>urn:2021-07-12T00:38:07.666Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T23:11:32.640Z</updated>
+    <updated>2021-07-12T00:38:07.666Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京五輪「おもてなし」外国選手〝はとバスツアー〟計画　組織委・橋本会長も検討 - サンスポ]]></title>
+        <id>https://www.sanspo.com/article/20210712-BIZJNFWBOZPO3EHTCWIVVMXABE/</id>
+        <link href="https://www.sanspo.com/article/20210712-BIZJNFWBOZPO3EHTCWIVVMXABE/"/>
+        <updated>2021-07-11T22:21:19.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の選手村（東京・晴海）から外国選手らを乗せて都内の観光名所を巡る〝はとバスツアー〟が計画されていることが１１日、関係者への取材で分かった。選手村の宿泊者は新型コロナウイルス感染防止策で外部との接触が遮断され、観光地などに足を向けられないが、バスの中から景色を眺める分には問題ないと判断。１...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTT、五輪無観客の大逆風　アピールの場失うこれだけの技術：日経ビジネス電子版]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00306/070800006/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00306/070800006/"/>
+        <updated>2021-07-11T20:46:24.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染者数が再び増加に転じ、東京五輪・パラリンピックは多くの競技が無観客で開催されることになった。関係者以外が会場に足を運べないなかで、注目が高まるのが映像配信などのリモート観戦だ。しかし、通信分野での五輪ゴールドパートナーであるNTTはそのニーズを捉えられそうにない。 「商用の5G...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[唾液PCRによる一般人口のCOVID-19モニタリング検査の意義 | COVID-19有識者会議]]></title>
         <id>https://www.covid19-jma-medical-expert-meeting.jp/topic/6570</id>
@@ -31,6 +51,26 @@
         <link href="https://togetter.com/li/1743622"/>
         <updated>2021-07-11T16:12:49.000Z</updated>
         <summary type="html"><![CDATA[ゆずみかん🇫🇷パリでフリーランサー @yuzumikan4791 ミシガン州のフェスティバルで、移動遊園地の乗り物が後方に傾き、見物人が搭乗者たちを助けようと駆けつけました。 気付くのや対応が遅れたら、重大事故になってる事例でしたね⋯!! 重しになろうと取り憑いた最初の勇気ある方、それに続いた方達、素晴らしいです。 pic...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT系上場企業の平均年収を業種別にみてみた 2021年版［前編］ ～ ネットベンチャー、ゲーム、メディア系 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/it_2021.html</id>
+        <link href="https://www.publickey1.jp/blog/21/it_2021.html"/>
+        <updated>2021-07-11T15:03:17.000Z</updated>
+        <summary type="html"><![CDATA[IT系上場企業の平均年収を業種別にみてみた 2021年版［前編］ ～ ネットベンチャー、ゲーム、メディア系 IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 特に今年は、昨年春からの新型コロナウイルス感染拡大の影響を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヘタクソなコードを書いてもいい - 覚書]]></title>
+        <id>https://satoru-takeuchi.hatenablog.com/entry/2021/07/11/230232</id>
+        <link href="https://satoru-takeuchi.hatenablog.com/entry/2021/07/11/230232"/>
+        <updated>2021-07-11T14:55:14.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング言語のお作法から外れたコードやメンテ性が悪いコードを書くのはダメとよくいわれます。わたしは学生の頃、そういう意見を過剰に気にしていました。コードを書くことそのものに慣れていないのに綺麗に書こうとして手が動かず、動かないがゆえにコーディングの練習が進まない、という悪循環になっていまし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -76,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「聖剣伝説 レジェンド オブ マナ」のHDリマスターを遊んだら軽く感情が暴走したので全力でお勧めする：今日書きたいことはこれくらい（1/2 ページ） - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/11/news039.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/11/news039.html"/>
+        <updated>2021-07-11T12:04:16.000Z</updated>
+        <summary type="html"><![CDATA[夢中になって遊んでたらちょっと書くのが遅くなってしまいました……。 この記事は、基本的には「聖剣伝説 レジェンド オブ マナ HDリマスター（以下、LOM）超面白いから、昔遊んだ人も未経験の人も今だからこそ遊ぼうぜ！」という趣旨の記事なんですが、記事が大きく3段階に分かれており、後半に行くほどしんざきの感情成...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[歪曲引用犯「ひろゆき」の反論まがい - F爺・小島剛一のブログ]]></title>
         <id>https://fjii.blog.fc2.com/blog-entry-3041.html</id>
         <link href="https://fjii.blog.fc2.com/blog-entry-3041.html"/>
@@ -101,16 +151,6 @@
         <link href="https://togetter.com/li/1743496"/>
         <updated>2021-07-11T10:50:59.000Z</updated>
         <summary type="html"><![CDATA[かえ @kae_k16 小学生の時、母にうさぎ飼いたいって言ったら飼い方を調べてノートにまとめたらその出来栄えで判断すると言われた。3冊の本をまとめた結論が、うさぎの健康を維持するのは大変、という事で、母にノートを渡して飼いませんと言った。ハムスターを飼いたいという息子たちに今同じ課題を出している。 2021-07...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[97歳の村山富市元首相「頑張ってよ」　枝野氏を激励：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7C5J9PP7CUTFK00D.html</id>
-        <link href="https://www.asahi.com/articles/ASP7C5J9PP7CUTFK00D.html"/>
-        <updated>2021-07-11T10:06:48.000Z</updated>
-        <summary type="html"><![CDATA[立憲民主党の枝野幸男代表は11日、社民党の初代党首の村山富市・元首相（97）と大分市内で面会した。枝野氏は、1994～96年に自社さ政権で首相を務めた村山氏に対し、「先生がお元気なうちに、もう一回リベラルな政権をつくります」と決意を語った。 この日は、昨年の社民分裂の際に立憲に合流した吉川元（はじめ）・衆院...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,31 +226,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ 感染再拡大の東京都 重症患者数40～50代で増加 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210711/k10013132991000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210711/k10013132991000.html"/>
-        <updated>2021-07-11T07:13:53.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスに感染して重症となった患者は、感染が再拡大している東京都では40代から50代で増加し、ことし春以降の感染拡大の「第4波」のピーク時をすでに上回っています。 専門家は感染対策を続けながら、ワクチンの接種を進める必要があると指摘しています。 重症者数 全国は減少も 東京都では増加 全国の重症...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[アダルトグッズを買ったことがあるやつらへ]]></title>
         <id>https://anond.hatelabo.jp/20210711161100</id>
         <link href="https://anond.hatelabo.jp/20210711161100"/>
         <updated>2021-07-11T07:13:19.000Z</updated>
         <summary type="html"><![CDATA[とくにバイブとか女性向けグッズを買ったことがある方々へ 大抵そういう商品は買うと持ち運び用のチープなきんちゃく袋がついていると思う 実際あれに入れて持ち運ぶ人がいるのかどうかは知らないが いやだからこそなのかもしれないが 頼むからそれを日常使いにしないでくれ 確かに大抵のメーカーのは無地だから使ってい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安倍氏「自民に厳しい風」　次期衆院選へ危機感 ｜ 共同通信]]></title>
-        <id>https://nordot.app/786833784310693888</id>
-        <link href="https://nordot.app/786833784310693888"/>
-        <updated>2021-07-11T06:02:06.000Z</updated>
-        <summary type="html"><![CDATA[自民党の安倍晋三前首相は11日、北海道苫小牧市で講演し、秋までにある次期衆院選への危機感を強調した。不調だった東京都議選に触れ「自民党に対し、厳しい風が吹いている。都議選の結果もそうだった。私たちは謙虚に受け止めなければいけない」と述べた。 新型コロナウイルス対応を巡り、事業者などへの支援が重要だと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,36 +261,6 @@
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html"/>
         <updated>2021-07-11T04:10:00.000Z</updated>
         <summary type="html"><![CDATA[箱（立方体）が左右・上下・斜め・回転・拡大＆縮小と、色んな動き方をしているように見えるGIF画像がTwitterで話題です。実際には動いていないだと……？ 箱の中央に矢印があり、それが指し示す方向に箱が動いているように見えます。しかし、よく見ると箱は元の位置から変わっておらず、感じる動きとのズレから頭が混乱し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ディズニープラス」会員から苦情　退会に十数ページかかる複雑さ...運営会社「改善に励む」: J-CAST ニュース【全文表示】]]></title>
-        <id>https://www.j-cast.com/2021/07/11415854.html?p=all</id>
-        <link href="https://www.j-cast.com/2021/07/11415854.html?p=all"/>
-        <updated>2021-07-11T03:18:12.000Z</updated>
-        <summary type="html"><![CDATA[動画配信サービス「ディズニー＋（プラス）」をめぐり、利用者から苦情が寄せられている。退会方法が複雑との指摘で、運営会社は取材に「真摯に受け止め、改善に励んでまいります」と答えた。 利用者を惑わせるような設計は「ダークパターン」と呼ばれ、米国では法規制も進んでいる。 十数ページ遷移する必要 ディズニー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ネコの宿命」腎臓病の治療法を開発　寿命が２倍、最長３０年にも　東大大学院・宮崎徹教授インタビュー：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021070800906&amp;g=soc</id>
-        <link href="https://www.jiji.com/jc/article?k=2021070800906&amp;g=soc"/>
-        <updated>2021-07-10T23:28:35.000Z</updated>
-        <summary type="html"><![CDATA[「ネコの宿命」腎臓病の治療法を開発　寿命が２倍、最長３０年にも　東大大学院・宮崎徹教授インタビュー 2021年07月11日08時00分 インタビューに答える宮崎徹教授 ネコを飼った経験のある人の多くはご存じだろうが、ほとんどのイエネコは高齢になると腎臓病を発症する。そして、腎臓の機能は一度失われると回復せず、長...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毎日のご飯作りを楽にしたい→「ホットクックと冷凍野菜ミックス」を使えば待ってるだけで美味しいご飯が食べられる - Togetter]]></title>
-        <id>https://togetter.com/li/1743271</id>
-        <link href="https://togetter.com/li/1743271"/>
-        <updated>2021-07-10T23:16:08.000Z</updated>
-        <summary type="html"><![CDATA[リンク 無印良品 冷凍食品｜冷凍食品 通販 | 無印良品 「冷凍食品」の通販なら無印良品 公式ネットストア。小腹がすいた時に、もう一品欲しい時に、忙しい朝に・・・。食にまつわるさまざまなお悩みを解決するために、バラエティに富んだ冷凍食品を取り揃えました。 毎日の食事をおいしくサポートします。 1 user]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

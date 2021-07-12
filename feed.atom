@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T19:09:26.301Z</id>
+    <id>urn:2021-07-12T20:11:48.101Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T19:09:26.301Z</updated>
+    <updated>2021-07-12T20:11:48.101Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://anond.hatelabo.jp/20210712205129"/>
         <updated>2021-07-12T13:27:24.000Z</updated>
         <summary type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出してはいけない」と言いつけられていたが、高校生くらいで「そろそろ食べ物をパックのまま食卓に出してはいけないとわかっただろうから、今日からパックのまま食卓に出しても良い事にする」と解禁された。禅問答めいている]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒提供停止働き掛けに財務、経産両省も関与 ｜ 共同通信]]></title>
+        <id>https://nordot.app/787303254282387456</id>
+        <link href="https://nordot.app/787303254282387456"/>
+        <updated>2021-07-12T13:26:50.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらうよう求める政府の方針決定に、内閣官房のほかに、財務省と経済産業省、金融庁も関与していたことが12日、分かった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京五輪にみる翻訳記事の危うさ(鴻巣友季子) - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/konosuyukiko/20210712-00247561/</id>
-        <link href="https://news.yahoo.co.jp/byline/konosuyukiko/20210712-00247561/"/>
-        <updated>2021-07-12T06:35:16.000Z</updated>
-        <summary type="html"><![CDATA[刺激の強い言葉を使いたがるマスコミIOC会長のトマス・バッハ氏も来日し、東京オリンピック、パラリンピックの開催予定日が近づいてきた。しかしコロナ禍で紆余曲折を経てきたこの東京五輪2020には、反対の声も強くある。 そうした経緯を反映しているのか、報道記事、とくに翻訳記事の見出しや本文中に、原文の意味や発...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[30過ぎてオタク趣味が楽しくなくなってきた人は「年のせいかな？」と疑う前に「オタク趣味は、油断するとすぐ楽しくなくなる」という原則を覚えておきたい - 頭の上にミカンをのせる]]></title>
         <id>https://www.tyoshiki.com/entry/2021/07/12/124806</id>
         <link href="https://www.tyoshiki.com/entry/2021/07/12/124806"/>
@@ -246,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[鷲谷花 on Twitter: "監督が「日本人のスタッフはいないので、出来れば君がチェックをしてもらえないか」と言うので、ボランティアで日本文化の監修もしたとの談。・・・ちょっとお待ちを、それはとてつもなく危険だろう／日本への誤解を埋める　真田広之は「水俣」に飛… https://t.co/RfMNUodMlH"]]></title>
-        <id>https://twitter.com/HWAshitani/status/1414399076112601090</id>
-        <link href="https://twitter.com/HWAshitani/status/1414399076112601090"/>
-        <updated>2021-07-12T02:03:33.000Z</updated>
-        <summary type="html"><![CDATA[監督が「日本人のスタッフはいないので、出来れば君がチェックをしてもらえないか」と言うので、ボランティアで日本文化の監修もしたとの談。・・・ちょっとお待ちを、それはとてつもなく危険だろう／日本への誤解を埋める　真田広之は「水俣」に飛… https://t.co/RfMNUodMlH]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ゲームエンジンはアートである - 8 年以上自作ゲームエンジンをメンテし続けている話｜Hajime Hoshi｜note]]></title>
         <id>https://note.com/hajimehoshi/n/nc09751f2dbf9</id>
         <link href="https://note.com/hajimehoshi/n/nc09751f2dbf9"/>
@@ -301,6 +291,16 @@
         <link href="https://anond.hatelabo.jp/20210711231323"/>
         <updated>2021-07-11T14:24:22.000Z</updated>
         <summary type="html"><![CDATA[今、テレビを観てたら、 たまたま「バストトップの痒みに」と言う軟膏のCMが流れて、 「ああ。」と思い出し、 誰かの助けになればと思って書く。 20代の頃、バストトップの痒みが発生した。 乳輪の周りがかゆいのである。 寝てる間に掻き毟ってしまい血が出たり。 ブラに黄色い汁が付いたりした。眠れないくらい痒かった...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「がんばってるね」ジムに行くたびにオジサンに声をかけられ…「教え魔」被害、なぜ女性がターゲットにされるのか | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/46245</id>
+        <link href="https://bunshun.jp/articles/-/46245"/>
+        <updated>2021-07-11T03:31:25.000Z</updated>
+        <summary type="html"><![CDATA[あるボウリング場が『STOP！　教え魔』という張り紙をしたことで、にわかに話題となった「教え魔」という存在。常連客が勝手にコーチングをすることで、初心者は困惑し、やがてボウリング場に来ること自体を避けてしまうという事態が多発、「お客様同士のコーチは是非ご遠慮ください」と注意を呼びかけている。 ほとんど...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

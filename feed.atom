@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T17:20:44.729Z</id>
+    <id>urn:2021-07-12T18:14:32.177Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T17:20:44.729Z</updated>
+    <updated>2021-07-12T18:14:32.177Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出しては..]]></title>
+        <id>https://anond.hatelabo.jp/20210712205129</id>
+        <link href="https://anond.hatelabo.jp/20210712205129"/>
+        <updated>2021-07-12T13:27:24.000Z</updated>
+        <summary type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出してはいけない」と言いつけられていたが、高校生くらいで「そろそろ食べ物をパックのまま食卓に出してはいけないとわかっただろうから、今日からパックのまま食卓に出しても良い事にする」と解禁された。禅問答めいている]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒提供停止　内閣官房が金融庁、財務、経産と事前調整　政府ぐるみで推進に批判も：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/116247</id>
@@ -211,16 +221,6 @@
         <link href="https://www.bengo4.com/times/articles/318/"/>
         <updated>2021-07-12T02:16:31.000Z</updated>
         <summary type="html"><![CDATA[「弁護士が選ぶ法曹界を描いたドラマ・漫画・映画ランキング」映画部門で1位に選ばれた「それでもボクはやってない」（2007年公開）。監督を務めた周防正行氏は、刑事裁判のありかたに驚き、それを伝えたくて、全公判をリアルに描くことにこだわったという。法制審議会の「新時代の刑事司法制度特別部会」で委員も務め、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サッカーに6万人、感染増の恐れ　英、ウィンブルドンも満席 ｜ 共同通信]]></title>
-        <id>https://nordot.app/787117024636321792</id>
-        <link href="https://nordot.app/787117024636321792"/>
-        <updated>2021-07-12T02:10:36.000Z</updated>
-        <summary type="html"><![CDATA[【ロンドン共同】英国で新型コロナウイルスの感染が拡大する中、サッカー欧州選手権の決勝が11日夜、6万7千人強の大観衆を収容してロンドンの会場で開催された。地元イングランド代表が出場し、イタリア代表に惜敗したものの、競技場だけでなくパブや広場でも多くの市民がマスクを着けずに歓声を上げる光景が見られ、感...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

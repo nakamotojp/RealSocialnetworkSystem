@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T00:38:07.666Z</id>
+    <id>urn:2021-07-12T01:53:53.027Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T00:38:07.666Z</updated>
+    <updated>2021-07-12T01:53:53.027Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[多数の組織がランサムウエアに感染したサプライチェーン攻撃についてまとめてみた - piyolog]]></title>
+        <id>https://piyolog.hatenadiary.jp/entry/2021/07/12/054229</id>
+        <link href="https://piyolog.hatenadiary.jp/entry/2021/07/12/054229"/>
+        <updated>2021-07-11T21:31:57.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月2日、米フロリダ州のIT企業のKaseyaは同社のRMM（リモート監視・管理）製品である「Kaseya VSA」をオンプレミスで利用している顧客に対してサイバー攻撃が発生していると公表しました。同製品を運用する顧客の多くはMSP事業者で、MSPサービスを利用する多数の中小企業などに影響が及びました。ここでは関連する...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NTT、五輪無観客の大逆風　アピールの場失うこれだけの技術：日経ビジネス電子版]]></title>
         <id>https://business.nikkei.com/atcl/gen/19/00306/070800006/</id>
         <link href="https://business.nikkei.com/atcl/gen/19/00306/070800006/"/>
         <updated>2021-07-11T20:46:24.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染者数が再び増加に転じ、東京五輪・パラリンピックは多くの競技が無観客で開催されることになった。関係者以外が会場に足を運べないなかで、注目が高まるのが映像配信などのリモート観戦だ。しかし、通信分野での五輪ゴールドパートナーであるNTTはそのニーズを捉えられそうにない。 「商用の5G...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽車にのりたい]]></title>
+        <id>https://anond.hatelabo.jp/20210711214401</id>
+        <link href="https://anond.hatelabo.jp/20210711214401"/>
+        <updated>2021-07-11T20:16:28.000Z</updated>
+        <summary type="html"><![CDATA[汽車で少し遠いところに行きたい 実際は電車なのかもしれないけど 遠いところに行くのだから 汽車ってよびたい 一日で行って帰れるぐらいの 少し遠いところに 自動販売機で切符を買って キオスクでジュースと菓子パンを買って 窓の外を眺めて なんとなく 音楽を聴きながら 向こうについたら 駅前の商店街をぶらぶらして ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[どうすのー on Twitter: "あの…本当に信じられないのですが… #兵庫県知事選 に出馬している #さいとう元彦 候補が「反日や在日が多い兵庫県南部」という明らかに事実無根の誹謗中傷ツイートに「いいね」をつけています… 維新推薦のさいとうさんは兵庫県南部には反… https://t.co/8sgMs6qVvI"]]></title>
+        <id>https://twitter.com/7SJFw94Q9SIAPCe/status/1414126430456193030</id>
+        <link href="https://twitter.com/7SJFw94Q9SIAPCe/status/1414126430456193030"/>
+        <updated>2021-07-11T12:21:48.000Z</updated>
+        <summary type="html"><![CDATA[あの…本当に信じられないのですが… #兵庫県知事選 に出馬している #さいとう元彦 候補が「反日や在日が多い兵庫県南部」という明らかに事実無根の誹謗中傷ツイートに「いいね」をつけています… 維新推薦のさいとうさんは兵庫県南部には反… https://t.co/8sgMs6qVvI]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ウーバーの報酬改定と、その他のもろもろ]]></title>
         <id>https://anond.hatelabo.jp/20210711175401</id>
         <link href="https://anond.hatelabo.jp/20210711175401"/>
@@ -136,11 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[外国人と日本人のエレベーター分ける　都内のホテルが貼り紙 ⇒ 批判受け撤去「誤解招く表記だった」【東京五輪】 | ハフポスト]]></title>
-        <id>https://www.huffingtonpost.jp/entry/story_jp_60ea8a4ce4b0cb62748343c2</id>
-        <link href="https://www.huffingtonpost.jp/entry/story_jp_60ea8a4ce4b0cb62748343c2"/>
-        <updated>2021-07-11T11:23:18.000Z</updated>
-        <summary type="html"><![CDATA[東京都千代田区のホテルで、外国人利用客に対し、日本人と同じエレベーターに乗らないよう求める貼り紙が掲示されたことに「差別だ」などと批判が上がっている。 指摘を受け、ホテル側は掲示から2日後の7月11日に貼り紙を撤去したという。 波紋を呼んでいるのは、赤坂エクセルホテル東急の貼り紙だ。 ホテルによると、エ...]]></summary>
+        <title type="html"><![CDATA[二次創作と著作権をちょこっと考えてみた｜菅 浩江｜note]]></title>
+        <id>https://note.com/hiroe_suga/n/n8ea8f20c540b</id>
+        <link href="https://note.com/hiroe_suga/n/n8ea8f20c540b"/>
+        <updated>2021-07-11T11:55:01.000Z</updated>
+        <summary type="html"><![CDATA[二次創作と著作権についてはココを見たらいいよ、と言われるくらいのつもりで、力を込めて書きました。 昨今流行りの人気ゲームのひとつが「版権に厳しい」ので有名な企業の作です。二次創作と版権について考えると「へええ、そういうことだったんだ」と認識を新たにすることがすごく多かったので、私の「へええ」をまと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -171,16 +201,6 @@
         <link href="https://www.afpbb.com/articles/-/3356035"/>
         <updated>2021-07-11T09:47:04.000Z</updated>
         <summary type="html"><![CDATA[東京都内の駅の改札前でインタビューを受けるヴィンセント・フィショ氏（2021年7月10日撮影）。(c)Philip FONG / AFP 【7月11日 AFP】わが子を日本人妻に「誘拐された」と訴える在日フランス人男性が10日、東京都内でハンガーストライキを開始した。男性は、子供たちと再会するための自身の闘いに国際的な関心が集まって...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民、安倍前首相秘書を擁立へ　衆院選長崎1区 ｜ 共同通信]]></title>
-        <id>https://nordot.app/786885368176623616</id>
-        <link href="https://nordot.app/786885368176623616"/>
-        <updated>2021-07-11T09:26:48.000Z</updated>
-        <summary type="html"><![CDATA[自民党長崎県連は11日、次期衆院選長崎1区への不出馬を表明した冨岡勉衆院議員（73）の後任に、安倍晋三前首相の政策秘書初村滝一郎氏（41）を擁立する方針を決めた。16日の選挙対策委員会と常任総務会で正式決定し、党本部に公認申請する。 県連が開いた選考委員会で、出席委員27人による投票で半数を超える支持を得た...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マクドナルド食べたい時はカリウムが足りてない証拠！ほうれん草を食べましょう！と言われても意味わからんし、普通にマクドナルドが食べたい - Togetter]]></title>
-        <id>https://togetter.com/li/1743375</id>
-        <link href="https://togetter.com/li/1743375"/>
-        <updated>2021-07-11T04:48:26.000Z</updated>
-        <summary type="html"><![CDATA[精神凶器 @hituyounasiko ブスでデブで肌も汚い何の取り柄も無いけど頑張って隅っこで息させてもらえますように。過去の自分を殺すために生きています。お洋服も、整形も、ダイエットも好きだけどなにひとつ努力出来ておりません]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 【画像】 オンライン修学旅行が悲惨すぎると話題に - ライブドアブログ]]></title>
         <id>http://blog.livedoor.jp/dqnplus/archives/2009167.html</id>
         <link href="http://blog.livedoor.jp/dqnplus/archives/2009167.html"/>
@@ -261,16 +271,6 @@
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/11/news018.html"/>
         <updated>2021-07-11T04:10:00.000Z</updated>
         <summary type="html"><![CDATA[箱（立方体）が左右・上下・斜め・回転・拡大＆縮小と、色んな動き方をしているように見えるGIF画像がTwitterで話題です。実際には動いていないだと……？ 箱の中央に矢印があり、それが指し示す方向に箱が動いているように見えます。しかし、よく見ると箱は元の位置から変わっておらず、感じる動きとのズレから頭が混乱し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昔の友達がニュース激怒マンになって悲しい私]]></title>
-        <id>https://anond.hatelabo.jp/20210711021233</id>
-        <link href="https://anond.hatelabo.jp/20210711021233"/>
-        <updated>2021-07-10T17:41:54.000Z</updated>
-        <summary type="html"><![CDATA[自分は神経質な人間で、なるべく常に楽しいこと、スムーズなことだけを眺めていたい気質だから、ニュースとか、それに関する他人の感想なんかをあまり見ないように生きている。こういうことに関して不満とか怒りをわざわざ表明し合っている人間の気持ちがわからない。そうすればするほど、余計に傷ついてストレスを溜め...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

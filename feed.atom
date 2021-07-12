@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T22:09:45.738Z</id>
+    <id>urn:2021-07-12T23:12:10.649Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T22:09:45.738Z</updated>
+    <updated>2021-07-12T23:12:10.649Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[大谷 史上初大リーグオールスターで二刀流 先発投手で1番DH | 大リーグ | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210713/k10013135891000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210713/k10013135891000.html"/>
+        <updated>2021-07-12T20:58:08.000Z</updated>
+        <summary type="html"><![CDATA[大リーグ、エンジェルスの大谷翔平選手が13日（日本時間の14日）行われるオールスターゲームで先発投手を務めることになりました。大谷選手は1番バッターで出場したうえで先発マウンドに上がり、オールスターゲームで史上初めて投打の二刀流でプレーします。 大谷選手は12日、ホームラン競争の前に行われたオールスター...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信号機倒壊の原因は “犬の尿” 県警科捜研調査 三重 鈴鹿 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html</id>
@@ -121,6 +131,16 @@
         <link href="https://www.jiji.com/jc/article?k=2021071200793&amp;g=int"/>
         <updated>2021-07-12T09:47:54.000Z</updated>
         <summary type="html"><![CDATA[「中国共産党員になりたい」　香港俳優ジャッキー・チェン氏 2021年07月12日17時29分 香港の映画俳優ジャッキー・チェン氏＝２０１９年１０月、米カリフォルニア州ビバリーヒルズ（ＡＦＰ時事） 【北京時事】中国共産党機関紙・人民日報系の環球時報英語版は１２日、香港の映画俳優ジャッキー・チェン氏（６７）が共産党...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中島岳志 on Twitter: "河野大臣がブログで私への反論を掲載されたので、もう一度確認しておきたい。河野大臣は、モデルナのワクチンが予定の約３分の１しか入ってこないことを、4月下旬に知っていた。「予定よりも少し減った」程度ではなく、３分の１しか入ってこないのだ。"]]></title>
+        <id>https://twitter.com/nakajima1975/status/1414490493770092551</id>
+        <link href="https://twitter.com/nakajima1975/status/1414490493770092551"/>
+        <updated>2021-07-12T09:41:35.000Z</updated>
+        <summary type="html"><![CDATA[河野大臣がブログで私への反論を掲載されたので、もう一度確認しておきたい。河野大臣は、モデルナのワクチンが予定の約３分の１しか入ってこないことを、4月下旬に知っていた。「予定よりも少し減った」程度ではなく、３分の１しか入ってこないのだ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[八街児童死傷事故　「非線引き自治体」とは何か？　虫食い開発で基盤整備に遅れ　通学路だけじゃない郊外特有の課題　【急上昇ニュースのウラ】 | 千葉日報オンライン]]></title>
-        <id>https://www.chibanippo.co.jp/news/national/810433</id>
-        <link href="https://www.chibanippo.co.jp/news/national/810433"/>
-        <updated>2021-07-12T00:29:42.000Z</updated>
-        <summary type="html"><![CDATA[八街児童死傷事故　「非線引き自治体」とは何か？　虫食い開発で基盤整備に遅れ　通学路だけじゃない郊外特有の課題　【急上昇ニュースのウラ】]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[巧妙化する「排除アート」　誰にもやさしくない都市が牙をむく時]]></title>
         <id>https://withnews.jp/article/f0210712003qq000000000000000W02c10101qq000023308A</id>
         <link href="https://withnews.jp/article/f0210712003qq000000000000000W02c10101qq000023308A"/>
         <updated>2021-07-11T22:53:47.000Z</updated>
         <summary type="html"><![CDATA[巧妙化する「排除アート」　誰にもやさしくない都市が牙をむく時 街中や公園の「座りにくいベンチ」はどう広がっていったのか？ 何かよく分からないものは「アート」 定義されない場所を減らしたい 隠された「排除」の意図に気づくと… 都市の駅のスペースにあるデコボコした突起のようなオブジェ、公園や路上では仕切り...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あのころの私へ。「バストトップの痒み」]]></title>
-        <id>https://anond.hatelabo.jp/20210711231323</id>
-        <link href="https://anond.hatelabo.jp/20210711231323"/>
-        <updated>2021-07-11T14:24:22.000Z</updated>
-        <summary type="html"><![CDATA[今、テレビを観てたら、 たまたま「バストトップの痒みに」と言う軟膏のCMが流れて、 「ああ。」と思い出し、 誰かの助けになればと思って書く。 20代の頃、バストトップの痒みが発生した。 乳輪の周りがかゆいのである。 寝てる間に掻き毟ってしまい血が出たり。 ブラに黄色い汁が付いたりした。眠れないくらい痒かった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T15:13:31.033Z</id>
+    <id>urn:2021-07-12T16:18:26.063Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T15:13:31.033Z</updated>
+    <updated>2021-07-12T16:18:26.063Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://www.jiji.com/jc/article?k=2021071200793&amp;g=int"/>
         <updated>2021-07-12T09:47:54.000Z</updated>
         <summary type="html"><![CDATA[「中国共産党員になりたい」　香港俳優ジャッキー・チェン氏 2021年07月12日17時29分 香港の映画俳優ジャッキー・チェン氏＝２０１９年１０月、米カリフォルニア州ビバリーヒルズ（ＡＦＰ時事） 【北京時事】中国共産党機関紙・人民日報系の環球時報英語版は１２日、香港の映画俳優ジャッキー・チェン氏（６７）が共産党...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来日した中国五輪選手団、宿泊ホテルのコロナ対策に不満　写真2枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3356161</id>
+        <link href="https://www.afpbb.com/articles/-/3356161"/>
+        <updated>2021-07-12T09:16:28.000Z</updated>
+        <summary type="html"><![CDATA[2019年に行われた東京五輪・セーリングのテスト大会の様子（2019年8月22日撮影、資料写真）。(c)Charly TRIBALLEAU / AFP 【7月12日 AFP】東京五輪に出場する中国選手団の第1陣が来日したが、チームからは11日、ホテルの新型コロナウイルス感染症（COVID-19）対策の甘さに対する不満の声が出た。 今回の東京五輪は、前週...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +231,6 @@
         <link href="https://mainichi.jp/articles/20210712/k00/00m/020/032000c"/>
         <updated>2021-07-12T01:26:50.000Z</updated>
         <summary type="html"><![CDATA[経済産業省は12日、原子力や火力、太陽光などの発電コストについて2030年時点の試算を有識者委員会に示した。最も安い電源は原発から事業用太陽光に代わった。原発は1キロワット時あたり「11円台後半以上」で、東京電力福島第1原発事故を踏まえた安全対策費の増加などを反映して、前回15年の試算より1円以上増えた。経産...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSで上下左右の中央に配置する時の「position: fixed;」での新しい記述方法 | コリス]]></title>
-        <id>https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html"/>
-        <updated>2021-07-12T00:41:51.000Z</updated>
-        <summary type="html"><![CDATA[中央揃えの古典的なテクニックの一つ、モーダルやメッセージなどを表示する時に適したposition: fixed;での新しい記述方法を紹介します。 古い記述方法では、負のパーセンテージを使用していたり、あまり直感的ではない...記事の続きを読む]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T08:13:42.608Z</id>
+    <id>urn:2021-07-12T09:13:00.392Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T08:13:42.608Z</updated>
+    <updated>2021-07-12T09:13:00.392Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.taro.org/2021/07/%E7%9F%A5%E3%81%AE%E5%B4%A9%E5%A3%8A%EF%BC%9F.php"/>
         <updated>2021-07-12T06:54:37.000Z</updated>
         <summary type="html"><![CDATA[2021.07.12 先日こういう一連のツイートを見かけました。 「この一連の政治過程は、河野太郎という政治家のネオリベ的特質が出たとみるべきだろう。．．．．」 ？？ 「4月25日ごろには1370万回分しか入ってこないことが分かっていたのに、4000万回分あるかのように振る舞い、ワクチン接種現場の競争を煽った。」 モデル...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30過ぎてオタク趣味が楽しくなくなってきた人は「年のせいかな？」と疑う前に「オタク趣味は、油断するとすぐ楽しくなくなる」という原則を覚えておきたい - 頭の上にミカンをのせる]]></title>
+        <id>https://www.tyoshiki.com/entry/2021/07/12/124806</id>
+        <link href="https://www.tyoshiki.com/entry/2021/07/12/124806"/>
+        <updated>2021-07-12T05:10:47.000Z</updated>
+        <summary type="html"><![CDATA[[第86話]2.5次元の誘惑 - 橋本悠 | 少年ジャンプ＋ オタクとしてのモチベーションが急に切れた時の対応についてかたってる回。 2.5次元の誘惑 10 (ジャンプコミックスDIGITAL) 作者:橋本悠集英社Amazon 私が最近ブログが楽しくないのは、どう考えてもアウトプット過多、インプット不足です。本当にありがとうございまし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,16 +101,6 @@
         <link href="https://mainichi.jp/articles/20210712/k00/00m/020/032000c"/>
         <updated>2021-07-12T01:26:50.000Z</updated>
         <summary type="html"><![CDATA[経済産業省は12日、2030年時点の原子力や火力、太陽光など各電源の発電コストを有識者委員会で示した。原発の発電コストは、東京電力福島第1原発事故を踏まえた安全対策費の増加などを反映し、1キロワット時あたり「11円台後半以上」と算定。過去の試算では「最安値」だったが、太陽光などよりも高くなり、コスト面での...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新規開発を止めないAngular→Reactリプレイスの進め方まとめ｜Yuito Sato｜note]]></title>
-        <id>https://note.com/yuitosato/n/na3fe8c21887e</id>
-        <link href="https://note.com/yuitosato/n/na3fe8c21887e"/>
-        <updated>2021-07-12T00:49:17.000Z</updated>
-        <summary type="html"><![CDATA[【結論】 5ヶ月かけて無事完了しました。あー長かった。 新規の機能開発を止めないために一般的な開発チームでは今回のようなフロントエンドのフルリプレイスで一部新規の機能開発を止めながら開発を行うことがあると思います。 コードフリーズとなど呼ばれているものですね。 しかしログラスのようなスタートアップでは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,21 +236,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『古畑任三郎』が「キムタクで復活」…衝撃すぎる情報の深層（FRIDAY） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/79d907807420e7e21b054c2493b52f0e3e4f5bd1</id>
-        <link href="https://news.yahoo.co.jp/articles/79d907807420e7e21b054c2493b52f0e3e4f5bd1"/>
-        <updated>2021-07-11T14:14:55.000Z</updated>
-        <summary type="html"><![CDATA[「名優・田村正和（享年77）の訃報を受けて、フジテレビが水面下で『古畑任三郎』復活プロジェクトを始動させたと聞いています。本来ならば田村さんが存命中になんとか形にしたかったが、それは叶わなかった。この作品には根強いファンも多いことから、関係者に十分理解が得られたうえで続編の制作に入れるように、フジ...]]></summary>
+        <title type="html"><![CDATA[あのころの私へ。「バストトップの痒み」]]></title>
+        <id>https://anond.hatelabo.jp/20210711231323</id>
+        <link href="https://anond.hatelabo.jp/20210711231323"/>
+        <updated>2021-07-11T14:24:22.000Z</updated>
+        <summary type="html"><![CDATA[今、テレビを観てたら、 たまたま「バストトップの痒みに」と言う軟膏のCMが流れて、 「ああ。」と思い出し、 誰かの助けになればと思って書く。 20代の頃、バストトップの痒みが発生した。 乳輪の周りがかゆいのである。 寝てる間に掻き毟ってしまい血が出たり。 ブラに黄色い汁が付いたりした。眠れないくらい痒かった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Soka Gakkai’s Human Revolution: The Rise of a Mimetic Nation in Modern Japan"はめちゃめちゃすごい本なので読んでほしいという｜タサヤマ｜note]]></title>
-        <id>https://note.com/girugamera/n/n1bf303614de6</id>
-        <link href="https://note.com/girugamera/n/n1bf303614de6"/>
-        <updated>2021-07-11T14:10:15.000Z</updated>
-        <summary type="html"><![CDATA["Soka Gakkai’s Human Revolution: The Rise of a Mimetic Nation in Modern Japan"はめちゃめちゃすごい本なので読んでほしいという話 なんというか、ビビった。 読んでるときに何度か声を出して叫んでしまった。 同じ時代でほぼ同じテーマに取り組んでいる研究者の本についてこれを言っていいのか分からないが、これま...]]></summary>
+        <title type="html"><![CDATA[『古畑任三郎』が「キムタクで復活」…衝撃すぎる情報の深層（FRIDAY） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/79d907807420e7e21b054c2493b52f0e3e4f5bd1</id>
+        <link href="https://news.yahoo.co.jp/articles/79d907807420e7e21b054c2493b52f0e3e4f5bd1"/>
+        <updated>2021-07-11T14:14:55.000Z</updated>
+        <summary type="html"><![CDATA[「名優・田村正和（享年77）の訃報を受けて、フジテレビが水面下で『古畑任三郎』復活プロジェクトを始動させたと聞いています。本来ならば田村さんが存命中になんとか形にしたかったが、それは叶わなかった。この作品には根強いファンも多いことから、関係者に十分理解が得られたうえで続編の制作に入れるように、フジ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

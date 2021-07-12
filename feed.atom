@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T16:18:26.063Z</id>
+    <id>urn:2021-07-12T17:20:44.729Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T16:18:26.063Z</updated>
+    <updated>2021-07-12T17:20:44.729Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[酒提供停止　内閣官房が金融庁、財務、経産と事前調整　政府ぐるみで推進に批判も：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/116247</id>
+        <link href="https://www.tokyo-np.co.jp/article/116247"/>
+        <updated>2021-07-12T13:12:39.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう政府の方針決定を巡り、内閣官房が８日付で各府省庁に、所管する金融機関に政府方針への協力を求めるよう依頼する文書を出していたことが１２日、分かった。内閣官房は、銀行などを監督する金融庁や、政府系金融...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (7月12日版)]]></title>
         <id>https://anond.hatelabo.jp/20210712212830</id>
@@ -186,6 +196,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大きなGitリポジトリをクローンするときの工夫を図解します - DeNA Testing Blog]]></title>
+        <id>https://swet.dena.com/entry/2021/07/12/120000</id>
+        <link href="https://swet.dena.com/entry/2021/07/12/120000"/>
+        <updated>2021-07-12T03:06:39.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、SWETでCI/CDチームの前田（ @mad_p ）です。 SWETではCI/CDチームの一員として、Jenkins運用のサポートや、CI/CD回りのノウハウ蓄積・研究をしています。 はじめに Gitリポジトリをクローンすると、ローカルフォルダにはそのリポジトリの全体がダウンロードされ .git というフォルダに格納されます。ブラン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[『不快な思いで映画館を出てもらう必要があった　周防正行監督インタビュー　完全版Vol.1』 - 弁護士ドットコムタイムズ]]></title>
         <id>https://www.bengo4.com/times/articles/318/</id>
         <link href="https://www.bengo4.com/times/articles/318/"/>
@@ -281,16 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210711231323"/>
         <updated>2021-07-11T14:24:22.000Z</updated>
         <summary type="html"><![CDATA[今、テレビを観てたら、 たまたま「バストトップの痒みに」と言う軟膏のCMが流れて、 「ああ。」と思い出し、 誰かの助けになればと思って書く。 20代の頃、バストトップの痒みが発生した。 乳輪の周りがかゆいのである。 寝てる間に掻き毟ってしまい血が出たり。 ブラに黄色い汁が付いたりした。眠れないくらい痒かった...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「がんばってるね」ジムに行くたびにオジサンに声をかけられ…「教え魔」被害、なぜ女性がターゲットにされるのか | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/46245</id>
-        <link href="https://bunshun.jp/articles/-/46245"/>
-        <updated>2021-07-11T03:31:25.000Z</updated>
-        <summary type="html"><![CDATA[あるボウリング場が『STOP！　教え魔』という張り紙をしたことで、にわかに話題となった「教え魔」という存在。常連客が勝手にコーチングをすることで、初心者は困惑し、やがてボウリング場に来ること自体を避けてしまうという事態が多発、「お客様同士のコーチは是非ご遠慮ください」と注意を呼びかけている。 ほとんど...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T06:15:46.491Z</id>
+    <id>urn:2021-07-12T07:10:55.366Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T06:15:46.491Z</updated>
+    <updated>2021-07-12T07:10:55.366Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,6 +36,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[『不快な思いで映画館を出てもらう必要があった　周防正行監督インタビュー　完全版Vol.1』 - 弁護士ドットコムタイムズ]]></title>
+        <id>https://www.bengo4.com/times/articles/318/</id>
+        <link href="https://www.bengo4.com/times/articles/318/"/>
+        <updated>2021-07-12T02:16:31.000Z</updated>
+        <summary type="html"><![CDATA[「弁護士が選ぶ法曹界を描いたドラマ・漫画・映画ランキング」映画部門で1位に選ばれた「それでもボクはやってない」（2007年公開）。監督を務めた周防正行氏は、刑事裁判のありかたに驚き、それを伝えたくて、全公判をリアルに描くことにこだわったという。法制審議会の「新時代の刑事司法制度特別部会」で委員も務め、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サッカーに6万人、感染増の恐れ　英、ウィンブルドンも満席 ｜ 共同通信]]></title>
+        <id>https://nordot.app/787117024636321792</id>
+        <link href="https://nordot.app/787117024636321792"/>
+        <updated>2021-07-12T02:10:36.000Z</updated>
+        <summary type="html"><![CDATA[【ロンドン共同】英国で新型コロナウイルスの感染が拡大する中、サッカー欧州選手権の決勝が11日夜、6万7千人強の大観衆を収容してロンドンの会場で開催された。地元イングランド代表が出場し、イタリア代表に惜敗したものの、競技場だけでなくパブや広場でも多くの市民がマスクを着けずに歓声を上げる光景が見られ、感...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ゲームエンジンはアートである - 8 年以上自作ゲームエンジンをメンテし続けている話｜Hajime Hoshi｜note]]></title>
         <id>https://note.com/hajimehoshi/n/nc09751f2dbf9</id>
         <link href="https://note.com/hajimehoshi/n/nc09751f2dbf9"/>
@@ -51,6 +71,16 @@
         <link href="https://mainichi.jp/articles/20210712/k00/00m/020/032000c"/>
         <updated>2021-07-12T01:26:50.000Z</updated>
         <summary type="html"><![CDATA[経済産業省は12日、2030年時点の原子力や火力、太陽光など各電源の発電コストを有識者委員会で示した。原発の発電コストは、東京電力福島第1原発事故を踏まえた安全対策費の増加などを反映し、1キロワット時あたり「11円台後半以上」と算定。過去の試算では「最安値」だったが、太陽光などよりも高くなり、コスト面での...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新規開発を止めないAngular→Reactリプレイスの進め方まとめ｜Yuito Sato｜note]]></title>
+        <id>https://note.com/yuitosato/n/na3fe8c21887e</id>
+        <link href="https://note.com/yuitosato/n/na3fe8c21887e"/>
+        <updated>2021-07-12T00:49:17.000Z</updated>
+        <summary type="html"><![CDATA[【結論】 5ヶ月かけて無事完了しました。あー長かった。 新規の機能開発を止めないために一般的な開発チームでは今回のようなフロントエンドのフルリプレイスで一部新規の機能開発を止めながら開発を行うことがあると思います。 コードフリーズとなど呼ばれているものですね。 しかしログラスのようなスタートアップでは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -111,16 +141,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210712/k10013133761000.html"/>
         <updated>2021-07-11T22:03:11.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの国産ワクチンについて、開発を進める製薬会社の1つ、第一三共は、国産の「mRNAワクチン」の数千人規模の臨床試験を年内にも実施する方向で準備を進めていることが分かりました。 国産の「mRNAワクチン」 現在、国内で使われている「mRNAワクチン」はいずれも海外で開発されたものですが、第一三共で...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多数の組織がランサムウエアに感染したサプライチェーン攻撃についてまとめてみた - piyolog]]></title>
-        <id>https://piyolog.hatenadiary.jp/entry/2021/07/12/054229</id>
-        <link href="https://piyolog.hatenadiary.jp/entry/2021/07/12/054229"/>
-        <updated>2021-07-11T21:31:57.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月2日、米フロリダ州のIT企業のKaseyaは同社のRMM（リモート監視・管理）製品である「Kaseya VSA」をオンプレミスで利用している顧客に対してサイバー攻撃が発生していると公表しました。同製品を運用する顧客の多くはMSP事業者で、MSPサービスを利用する多数の中小企業などに影響が及びました。ここでは関連する...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ウーバーの報酬改定と、その他のもろもろ]]></title>
-        <id>https://anond.hatelabo.jp/20210711175401</id>
-        <link href="https://anond.hatelabo.jp/20210711175401"/>
-        <updated>2021-07-11T12:21:45.000Z</updated>
-        <summary type="html"><![CDATA[兼業ウーバー配達員だが、いろいろ最近思ったことをダラダラ書く。 一応、登録して2年くらいになるかな。 23区内で稼働。 使ってるのは電動自転車。 レンタルではなく、もともと乗っていたのでプライベートでも割と使ってる。 空いてる日は昼飯時と、晩飯時に6時間くらい走って、1万円台で稼ぐこともある。 逆に、空いた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「聖剣伝説 レジェンド オブ マナ」のHDリマスターを遊んだら軽く感情が暴走したので全力でお勧めする：今日書きたいことはこれくらい（1/2 ページ） - ねとらぼ]]></title>
         <id>https://nlab.itmedia.co.jp/nl/articles/2107/11/news039.html</id>
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/11/news039.html"/>
@@ -251,16 +261,6 @@
         <link href="https://note.com/hiroe_suga/n/n8ea8f20c540b"/>
         <updated>2021-07-11T11:55:01.000Z</updated>
         <summary type="html"><![CDATA[二次創作と著作権についてはココを見たらいいよ、と言われるくらいのつもりで、力を込めて書きました。 昨今流行りの人気ゲームのひとつが「版権に厳しい」ので有名な企業の作です。二次創作と版権について考えると「へええ、そういうことだったんだ」と認識を新たにすることがすごく多かったので、私の「へええ」をまと...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物の名前が途中で変わることってあったの？]]></title>
-        <id>https://anond.hatelabo.jp/20210711135946</id>
-        <link href="https://anond.hatelabo.jp/20210711135946"/>
-        <updated>2021-07-11T09:06:52.000Z</updated>
-        <summary type="html"><![CDATA[例えばキャベツが全く違う名前になったり。 カメラが違う名前になったり。 これまでに大きな変更があった物の名前ってある？ よほどの理由が無いと変わらないと思うけど。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

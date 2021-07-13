@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T10:12:55.281Z</id>
+    <id>urn:2021-07-13T11:09:55.035Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T10:12:55.281Z</updated>
+    <updated>2021-07-13T11:09:55.035Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[国税庁職員 3人以上の飲み会に参加 7人が感染 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210713/k10013137451000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210713/k10013137451000.html"/>
+        <updated>2021-07-13T08:10:55.000Z</updated>
+        <summary type="html"><![CDATA[国税庁は13日、職員7人が新型コロナウイルスに感染したと発表しました。 いずれも今月上旬、3人以上の職場の飲み会に参加し、東京都のまん延防止等重点措置に基づく要請に従っていなかったということです。 国税庁によりますと、新型コロナウイルスに感染したのは、いずれも東京・霞が関で勤務し課税部に所属する20代か...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 2人死亡 830人感染 前週火曜日より237人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html"/>
         <updated>2021-07-13T07:52:10.000Z</updated>
         <summary type="html"><![CDATA[東京都は13日、都内で新たに830人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より237人増え、24日連続で前の週の同じ曜日を上回りました。 また都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は13日、都内で新たに10歳未満から90代までの男女合わせて830...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「権限要求多すぎ」──セブン-イレブンのTwitterキャンペーンに批判相次ぐ→中止に　なぜこうなったかは「確認中」 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/13/news110.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/13/news110.html"/>
+        <updated>2021-07-13T06:53:23.000Z</updated>
+        <summary type="html"><![CDATA[セブン-イレブン・ジャパンが7月11日に始めたTwitterキャンペーンが波紋を呼んでいる。無料クーポンをプレゼントする企画だったが、応募のためには個人のTwitterアカウントと外部アプリを連携しようとすると過大な権限が要求されるため、不適切として批判の声が上がっていた。 セブン-イレブン・ジャパンが7月11日に始め...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[来年に迫る「Internet Explorer 11」の終了について知っておきたいこと - やじうまの杜 - 窓の杜]]></title>
-        <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1337626.html</id>
-        <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1337626.html"/>
-        <updated>2021-07-12T22:38:53.000Z</updated>
-        <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Terraform, Dockerfile, KubernetesなどIaCの脆弱な設定をCI/CDで検知する - knqyf263's blog]]></title>
         <id>https://knqyf263.hatenablog.com/entry/2021/07/13/063729</id>
         <link href="https://knqyf263.hatenablog.com/entry/2021/07/13/063729"/>
@@ -271,16 +281,6 @@
         <link href="https://anond.hatelabo.jp/20160625163320"/>
         <updated>2021-07-12T11:21:54.000Z</updated>
         <summary type="html"><![CDATA[むかし勤めていた、結婚式代理出席会社の最大の案件。 結婚相手に恵まれなかった女性のたっての依頼で、理想の結婚式・披露宴を実現したいという。 そうはいっても相手がいない →新郎は代理出席で賄いたい →そうすると新郎側の出席者も必要だ、これも代理出席を頼もう →新婦役のリアルの知り合いや家族を呼んでウソをつ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「自公以外」トレンド入りに自民党議員「しょせんネットの声だろ」（NEWSポストセブン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/86051624d91fe86479d3aaa6947216c3533081c0</id>
-        <link href="https://news.yahoo.co.jp/articles/86051624d91fe86479d3aaa6947216c3533081c0"/>
-        <updated>2021-07-12T10:19:08.000Z</updated>
-        <summary type="html"><![CDATA[「当店はしっかり感染防止対策をしています。不公平な『緊急事態宣言』には断固反対します。秋の総選挙では、自民党と公明党以外に投票します。お客様もご協力ください」──こんなポスターが、Twitterを中心に拡散されている。Twitterでは「自公以外」がトレンドワード入りし、このポスターの画像が数多くリツイートされ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

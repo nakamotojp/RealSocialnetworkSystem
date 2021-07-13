@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T07:10:52.853Z</id>
+    <id>urn:2021-07-13T08:13:21.795Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T07:10:52.853Z</updated>
+    <updated>2021-07-13T08:13:21.795Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pixivにプレゼン資料上げてるやつが嫌いだ]]></title>
-        <id>https://anond.hatelabo.jp/20210713053352</id>
-        <link href="https://anond.hatelabo.jp/20210713053352"/>
-        <updated>2021-07-12T23:52:39.000Z</updated>
-        <summary type="html"><![CDATA[自ジャンルにプレゼン資料を作る女がいるせいで、pixivで自ジャンルのusers入りタグを検索するとそいつの作ったPowerPointのスライドがヒットする。 よく見る感じの手描きイラスト入りの推し紹介じゃない。数十枚に及ぶプレゼン資料だ。 初めて見つけたときは、枚数もブクマ数も多くてツイログでもない、どんな長編漫画...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【独自】往年の作品、ネット配信しやすく…著作権不明でも料金納付すれば使用可能に（読売新聞オンライン） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/2a91e6121fc40abdb8667447533d37f8de59022b</id>
         <link href="https://news.yahoo.co.jp/articles/2a91e6121fc40abdb8667447533d37f8de59022b"/>
@@ -191,6 +181,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html"/>
         <updated>2021-07-12T20:18:54.000Z</updated>
         <summary type="html"><![CDATA[ことし2月、三重県鈴鹿市の交差点で、信号機の鉄製の柱が根元から倒れたことを受けて、三重県警察本部の科学捜査研究所などが柱の根元の地面を調べたところ、同じ交差点にある別の信号機のおよそ40倍の尿素が検出されたことが分かりました。倒れた信号機のそばは犬の散歩コースになっていて、警察は犬の尿で柱の腐食が進...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビーガンの息子（小5）は十分な栄養素を取れているのか？ 心配になった母がある日の献立を元に必要な栄養素を計算してみた(1/5) | JBpress (ジェイビープレス)]]></title>
+        <id>https://jbpress.ismedia.jp/articles/-/66011</id>
+        <link href="https://jbpress.ismedia.jp/articles/-/66011"/>
+        <updated>2021-07-12T20:14:49.000Z</updated>
+        <summary type="html"><![CDATA[「ビーガンで育てられた赤ちゃんが栄養失調で死亡」 このような痛ましいニュースが定期的に世界中を駆け巡る。そのたびに「ビーガン＝栄養不足」との認識が「健康説」を強く脇に追いやって、世の中に浸透していく。 事件の詳細を見てみれば、そこにはビーガン以前の問題があることがすぐに分かる。ガリガリに痩せ、栄養...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

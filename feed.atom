@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T06:14:59.386Z</id>
+    <id>urn:2021-07-13T07:10:52.853Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T06:14:59.386Z</updated>
+    <updated>2021-07-13T07:10:52.853Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【速報】西村大臣　金融機関への要請、事務方が首相にも説明と明かす　「責任果たす」と辞任は否定：東京新聞 TOKYO Web]]></title>
+        <title type="html"><![CDATA[IOCのバッハ会長「最も大事なのはチャイニーズピープル」痛恨の言い間違い - ライブドアニュース]]></title>
+        <id>https://news.livedoor.com/article/detail/20523663/</id>
+        <link href="https://news.livedoor.com/article/detail/20523663/"/>
+        <updated>2021-07-13T05:47:45.000Z</updated>
+        <summary type="html"><![CDATA[国際オリンピック委員会（ＩＯＣ）の会長が１３日、都内で・パラリンピック組織委員会の橋本聖子会長と面会した。 ２３日の五輪開幕に向けて、８日に来日したバッハ会長は９日から１１日の３日間の隔離期間を終え、行動規制期間に入った。用務先を指定した形での活動は可能となったため、この日から始動した。「来日から...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ会長痛恨　日本人と中国人を言い間違い「最も大事なのはチャイニーズピープル」（デイリースポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/51efa0c4a79e388fce00edb8f1d5be5105424cf2</id>
+        <link href="https://news.yahoo.co.jp/articles/51efa0c4a79e388fce00edb8f1d5be5105424cf2"/>
+        <updated>2021-07-13T05:28:09.000Z</updated>
+        <summary type="html"><![CDATA[国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長が１３日、都内で東京五輪・パラリンピック組織委員会の橋本聖子会長と面会した。 ２３日の五輪開幕に向けて、８日に来日したバッハ会長は９日から１１日の３日間の隔離期間を終え、行動規制期間に入った。用務先を指定した形での活動は可能となったため、この日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【詳報】西村大臣　金融機関への要請、事務方が首相にも説明と明かす　「責任果たす」と辞任は否定：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/116356</id>
         <link href="https://www.tokyo-np.co.jp/article/116356"/>
         <updated>2021-07-13T03:42:57.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう政府方針を撤回したことについて、西村康稔経済再生担当相は１３日の閣議後記者会見で「飲食店の皆様への不安を与えてしまったことを深く反省しています」と述べた。インターネットなど西村氏の辞任を求める声が...]]></summary>
+        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう政府方針を撤回したことについて、西村康稔経済再生担当相は１３日の閣議後記者会見で「飲食店の皆様への不安を与えてしまったことを深く反省しています」と述べた。インターネットで西村氏の辞任を求める声が上...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +71,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210713/k10013136231000.html"/>
         <updated>2021-07-13T01:50:01.000Z</updated>
         <summary type="html"><![CDATA[大リーグ、オールスターゲームのホームラン競争にエンジェルスの大谷翔平選手が日本選手で初めて出場し、1回戦で敗れましたが、延長戦を繰り返す熱戦で球場を沸かせました。 ことしの大リーグのオールスターゲームは、2年ぶりにロッキーズの本拠地、コロラド州デンバーで開催され、12日は前日恒例のホームラン競争が行わ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクロールに連動するアニメーションを実装する時は、JSのIntersection Observerを使用すると簡単に実装できる | コリス]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html"/>
+        <updated>2021-07-13T00:37:15.000Z</updated>
+        <summary type="html"><![CDATA[スクロールに連動するアニメーションはIntersection Observerを使用すると、簡単に実装できます。カードUIがスクロールしてビューポートに表示されると、カード内の要素がアニメーションするUIを実装する方法を紹介します。 ライブラリなどは必要なく、数行のJavaScriptで簡単に実装できます。 Animate on scroll using ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,26 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[酒提供停止で内閣官房が依頼文書　金融庁、財務、経産と調整 ｜ 共同通信]]></title>
-        <id>https://nordot.app/787322755481452544</id>
-        <link href="https://nordot.app/787322755481452544"/>
-        <updated>2021-07-12T14:25:33.000Z</updated>
-        <summary type="html"><![CDATA[内閣官房が8日付で各府省庁に出していた政府方針への協力を依頼する事務連絡の文書（左）と、「廃止」を伝える9日付の文書（担当者名、問い合わせ先をモザイク加工しています）（山尾志桜里衆院議員事務所提供） 新型コロナ対策で酒類の提供停止に応じない飲食店に取引金融機関から順守を働き掛けてもらうよう求める政府...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出しては..]]></title>
-        <id>https://anond.hatelabo.jp/20210712205129</id>
-        <link href="https://anond.hatelabo.jp/20210712205129"/>
-        <updated>2021-07-12T13:27:24.000Z</updated>
-        <summary type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出してはいけない」と言いつけられていたが、高校生くらいで「そろそろ食べ物をパックのまま食卓に出してはいけないとわかっただろうから、今日からパックのまま食卓に出しても良い事にする」と解禁された。禅問答めいている]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[酒提供停止　内閣官房が金融庁、財務、経産と事前調整　政府ぐるみで推進に批判も：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/116247</id>
         <link href="https://www.tokyo-np.co.jp/article/116247"/>
@@ -231,16 +241,6 @@
         <link href="https://anond.hatelabo.jp/20210712212559"/>
         <updated>2021-07-12T12:49:17.000Z</updated>
         <summary type="html"><![CDATA[中国政府が学習塾の規制強化に乗り出す。政府内に監督部門を新設し、週末授業や学費の制限を検討する。家計の教育費負担を抑えて少子化対策につなげる狙い https://www.nikkei.com/article/DGXZQOGM229HK0S1A620C2000000/ 子供3人作ったら子供は大学受験で50点プラス、4人作れば1人は最高学府に入学できる制度を開始へ h...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (7月12日版)]]></title>
-        <id>https://anond.hatelabo.jp/20210712212830</id>
-        <link href="https://anond.hatelabo.jp/20210712212830"/>
-        <updated>2021-07-12T12:29:13.000Z</updated>
-        <summary type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (6月21日版)、(6月28日版)、(7月5日版) の続き。まえがきは初回(6月21日版)の記事でご覧ください。 先週の予測は、日曜までの週単位で 6642人(6月21日版)、6896人(6月28日版)、5737人(7月5日版) でしたが、現実は 5137人 となりました。大きめの数字で警鐘を鳴らすつもりはまったくな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T00:42:00.153Z</id>
+    <id>urn:2021-07-13T01:56:57.406Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T00:42:00.153Z</updated>
+    <updated>2021-07-13T01:56:57.406Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[かふお on Twitter: "長くなりますが、「おっさんが女児を保護した話」を書きました。"]]></title>
+        <id>https://twitter.com/yorunokafuka/status/1414614978544345093</id>
+        <link href="https://twitter.com/yorunokafuka/status/1414614978544345093"/>
+        <updated>2021-07-13T00:26:32.000Z</updated>
+        <summary type="html"><![CDATA[長くなりますが、「おっさんが女児を保護した話」を書きました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米英五輪スタッフ４人逮捕　コカイン使用疑い　六本木のバーで飲酒後発覚 - 五輪一般 - 東京オリンピック2020 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/olympic/tokyo2020/general/news/202107130000096.html</id>
+        <link href="https://www.nikkansports.com/olympic/tokyo2020/general/news/202107130000096.html"/>
+        <updated>2021-07-13T00:24:38.000Z</updated>
+        <summary type="html"><![CDATA[警視庁麻布署は13日までに、コカインを使用したとして、麻薬取締法違反容疑で東京オリンピック（五輪）のスタッフとして来日していた米と英国籍で電気技師の男4人を逮捕した。逮捕は3～5日で、全員容疑を否認している。 署によると、4人は米国籍のブーケ・ダルトン・レイ容疑者（22）や、英国籍のロックウッド・ベンジャ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コカイン使用疑いで米英五輪スタッフ逮捕 ｜ 共同通信]]></title>
+        <id>https://nordot.app/787458476421955584</id>
+        <link href="https://nordot.app/787458476421955584"/>
+        <updated>2021-07-13T00:03:03.000Z</updated>
+        <summary type="html"><![CDATA[警視庁は13日までに、コカインを使用したとして、麻薬取締法違反容疑で東京五輪のスタッフとして来日していた米と英国籍で電気技師の男4人を逮捕した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terraform, Dockerfile, KubernetesなどIaCの脆弱な設定をCI/CDで検知する - knqyf263's blog]]></title>
         <id>https://knqyf263.hatenablog.com/entry/2021/07/13/063729</id>
@@ -21,6 +51,16 @@
         <link href="https://bunshun.jp/articles/-/47063"/>
         <updated>2021-07-12T21:22:46.000Z</updated>
         <summary type="html"><![CDATA[「無観客も辞さない」のカッコ悪い使い方 ふつうの使い方を想像してみよう。世論やマスコミが「五輪は観客入れてバンバンやろうぜー、ウェーイ」と興奮している。そんななか菅首相がこう言うのです。 「待て待てお前ら、興奮しすぎではないでしょうかー。私はリーダーとして冷静に考えた。コロナ禍なので無観客も辞さな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わずか550円、ダイソーのUSB Type-C「万能ケーブル」は本当に万能かをチェックした - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1336858.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1336858.html"/>
+        <updated>2021-07-12T21:08:41.000Z</updated>
+        <summary type="html"><![CDATA[最近は100円均一ストアでも、両端がいずれもUSB Type-Cのケーブルを見かける機会が増えてきた。Androidスマホの端子はほぼUSB Type-C一色になりつつあるが、最近は充電器側も従来のUSB Standard AではなくUSB Type-Cとなりつつあるため、それに合わせたケーブルが求められるようになりつつあるというわけだ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[来日した中国五輪選手団、宿泊ホテルのコロナ対策に不満　写真2枚　国際ニュース：AFPBB News]]></title>
-        <id>https://www.afpbb.com/articles/-/3356161</id>
-        <link href="https://www.afpbb.com/articles/-/3356161"/>
-        <updated>2021-07-12T09:16:28.000Z</updated>
-        <summary type="html"><![CDATA[2019年に行われた東京五輪・セーリングのテスト大会の様子（2019年8月22日撮影、資料写真）。(c)Charly TRIBALLEAU / AFP 【7月12日 AFP】東京五輪に出場する中国選手団の第1陣が来日したが、チームからは11日、ホテルの新型コロナウイルス感染症（COVID-19）対策の甘さに対する不満の声が出た。 今回の東京五輪は、前週...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【やじうまPC Watch】Amazonのサクラレビュー対策でアカ凍結された中国の越境EC会社、売上が45分の1に - PC Watch]]></title>
         <id>https://pc.watch.impress.co.jp/docs/news/yajiuma/1337554.html</id>
         <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/1337554.html"/>
@@ -266,41 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[タイムラプスで東京のゲリラ豪雨を撮影してみたら物凄い映像になった件「ビルが呑まれてく…」「22秒からおかしい」 - Togetter]]></title>
-        <id>https://togetter.com/li/1743838</id>
-        <link href="https://togetter.com/li/1743838"/>
-        <updated>2021-07-12T07:00:31.000Z</updated>
-        <summary type="html"><![CDATA[リンク Wikipedia ゲリラ豪雨 ゲリラ豪雨（ゲリラごうう）は、集中豪雨の一種。正式な気象用語ではなく、突発的で天気予報による正確な予測が困難な局地的大雨を、軍事のゲリラ（奇襲を多用する非正規部隊）にたとえたもの。従来から使用されていた驟雨（にわか雨）や集中豪雨、夕立といった言葉をマスメディアが代用し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[漫画家が女性漫画家に突然大量の暴言「怖すぎる…」ネット上で困惑の声 - ライブドアニュース]]></title>
         <id>https://news.livedoor.com/article/detail/20517668/</id>
         <link href="https://news.livedoor.com/article/detail/20517668/"/>
         <updated>2021-07-12T05:39:34.000Z</updated>
         <summary type="html"><![CDATA[集英社の『グランドジャンプ』発で現在『めちゃコミック』で「Dr.クインチ」の連載を行っているの鈴川恵康氏が、『グランドジャンプ』増刊号で「白咲いちごは断れない」の連載を行っている漫画家で元セクシー女優の優月心菜氏に対し、ツイッターで暴言を吐いているとして、ネット上から困惑の声を集めている。 事の発端...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大きなGitリポジトリをクローンするときの工夫を図解します - DeNA Testing Blog]]></title>
-        <id>https://swet.dena.com/entry/2021/07/12/120000</id>
-        <link href="https://swet.dena.com/entry/2021/07/12/120000"/>
-        <updated>2021-07-12T03:06:39.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、SWETでCI/CDチームの前田（ @mad_p ）です。 SWETではCI/CDチームの一員として、Jenkins運用のサポートや、CI/CD回りのノウハウ蓄積・研究をしています。 はじめに Gitリポジトリをクローンすると、ローカルフォルダにはそのリポジトリの全体がダウンロードされ .git というフォルダに格納されます。ブラン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『不快な思いで映画館を出てもらう必要があった　周防正行監督インタビュー　完全版Vol.1』 - 弁護士ドットコムタイムズ]]></title>
-        <id>https://www.bengo4.com/times/articles/318/</id>
-        <link href="https://www.bengo4.com/times/articles/318/"/>
-        <updated>2021-07-12T02:16:31.000Z</updated>
-        <summary type="html"><![CDATA[「弁護士が選ぶ法曹界を描いたドラマ・漫画・映画ランキング」映画部門で1位に選ばれた「それでもボクはやってない」（2007年公開）。監督を務めた周防正行氏は、刑事裁判のありかたに驚き、それを伝えたくて、全公判をリアルに描くことにこだわったという。法制審議会の「新時代の刑事司法制度特別部会」で委員も務め、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

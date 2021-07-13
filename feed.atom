@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T12:20:15.305Z</id>
+    <id>urn:2021-07-13T13:19:50.003Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T12:20:15.305Z</updated>
+    <updated>2021-07-13T13:19:50.003Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,7 +30,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html"/>
         <updated>2021-07-13T07:52:10.000Z</updated>
-        <summary type="html"><![CDATA[東京都は13日、都内で新たに830人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より237人増え、24日連続で前の週の同じ曜日を上回りました。 また都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は13日、都内で新たに10歳未満から90代までの男女合わせて830...]]></summary>
+        <summary type="html"><![CDATA[東京都内では13日、新たに830人の感染が確認されました。1週間前の火曜日より237人増えていて、都の担当者は「感染確認が増加するペースが速く、今週中に1000人に達する可能性が十分ある。外出の自粛を徹底し、テレワークをするなど人との接触を避けてほしい」としています。 東京都は13日、都内で新たに10歳未満から90...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +41,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2107/13/news110.html"/>
         <updated>2021-07-13T06:53:23.000Z</updated>
         <summary type="html"><![CDATA[セブン-イレブン・ジャパンが7月11日に始めたTwitterキャンペーンが波紋を呼んでいる。無料クーポンをプレゼントする企画だったが、応募のためには個人のTwitterアカウントと外部アプリを連携しようとすると過大な権限が要求されるため、不適切として批判の声が上がっていた。 セブン-イレブン・ジャパンが7月11日に始め...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下村氏、ワクチン不足は「風評」　自治体反発も ｜ 共同通信]]></title>
+        <id>https://nordot.app/787571772567683072</id>
+        <link href="https://nordot.app/787571772567683072"/>
+        <updated>2021-07-13T06:53:07.000Z</updated>
+        <summary type="html"><![CDATA[自民党の下村博文政調会長は13日、党の新型コロナウイルス感染症対策本部などの合同会議で、ワクチン供給に関し「足らないという風評が広がっていることも事実だ」と述べた。実際に不足を訴え予約制限などを行っている自治体が反発する可能性がある。 下村氏は、市中在庫を活用することが重要だと指摘。「丁寧に詳しく説...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://www.nikkansports.com/olympic/tokyo2020/general/news/202107130000096.html"/>
         <updated>2021-07-13T00:24:38.000Z</updated>
         <summary type="html"><![CDATA[警視庁麻布署は13日までに、コカインを使用したとして、麻薬取締法違反容疑で東京オリンピック（五輪）のスタッフとして来日していた米と英国籍で電気技師の男4人を逮捕した。逮捕は3～5日で、全員容疑を否認している。 署によると、4人は米国籍のブーケ・ダルトン・レイ容疑者（22）や、英国籍のロックウッド・ベンジャ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コカイン使用疑いで米英五輪スタッフ逮捕 ｜ 共同通信]]></title>
-        <id>https://nordot.app/787458476421955584</id>
-        <link href="https://nordot.app/787458476421955584"/>
-        <updated>2021-07-13T00:03:03.000Z</updated>
-        <summary type="html"><![CDATA[警視庁は13日までに、コカインを使用したとして、麻薬取締法違反容疑で東京五輪のスタッフとして来日していた米と英国籍で電気技師の男4人を逮捕した。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

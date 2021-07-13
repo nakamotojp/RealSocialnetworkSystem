@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T15:14:22.962Z</id>
+    <id>urn:2021-07-13T16:18:34.040Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T15:14:22.962Z</updated>
+    <updated>2021-07-13T16:18:34.040Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[エアコンつけっぱなしで寝たから朝だるい…どう防ぐ　熱帯夜でも快眠する方法(西多昌規) - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/nishidamasaki/20210713-00245869/</id>
+        <link href="https://news.yahoo.co.jp/byline/nishidamasaki/20210713-00245869/"/>
+        <updated>2021-07-13T12:59:01.000Z</updated>
+        <summary type="html"><![CDATA[今年の夏は、全国的に気温が上昇し、猛暑になるという。熱帯夜が続くことは確実で、夜の睡眠のためにも、エアコンを使いこなすことは例年以上に重要となってくる。既にご存じのことも多いかもしれないが、エアコンと睡眠とのつき合い方を簡潔にまとめてみた。 基本的にはつけっぱなし　気温が28度を超えると、夜間でも熱...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JR新宿駅の社員11人がコロナ感染　感染経路は不明 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7F6RGWP7FUTIL069.html</id>
@@ -21,6 +31,16 @@
         <link href="https://www.tokyo-np.co.jp/article/116469"/>
         <updated>2021-07-13T11:05:20.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピックで来日した選手を除く関係者が入国後１４日以内でも宿泊所外のコンビニなどを利用できる特例を巡り、組織委員会が利用状況を調査・記録しないことが分かった。１３日の野党会合で内閣官房が明らかにした。議員たちは「誰がいつどこに行ったのか記録がなければ、新型コロナウイルスが広がっても...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒類提供禁止めぐり、二階氏が苦言「事前に党に相談を」：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7F5J2DP7FUTFK017.html</id>
+        <link href="https://www.asahi.com/articles/ASP7F5J2DP7FUTFK017.html"/>
+        <updated>2021-07-13T08:48:17.000Z</updated>
+        <summary type="html"><![CDATA[自民党の二階俊博幹事長は13日の総務会で、酒を提供する飲食店への休業要請をめぐり、政府が取引金融機関に順守の働きかけを依頼する方針を打ち出したことに苦言を呈した。「誤解を受けることがないよう、事前に党に対してしっかりと相談していただき、発言には慎重を尽くしていただく」と述べた。総務会後の記者会見で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大谷翔平 ホームラン競争 1回戦敗退も平均飛距離はトップ | 大リーグ | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210713/k10013136231000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210713/k10013136231000.html"/>
-        <updated>2021-07-13T01:50:01.000Z</updated>
-        <summary type="html"><![CDATA[大リーグ、オールスターゲームのホームラン競争にエンジェルスの大谷翔平選手が日本選手で初めて出場し、1回戦で敗れましたが、延長戦を繰り返す熱戦で球場を沸かせました。 ことしの大リーグのオールスターゲームは、2年ぶりにロッキーズの本拠地、コロラド州デンバーで開催され、12日は前日恒例のホームラン競争が行わ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[かふお on Twitter: "長くなりますが、「おっさんが女児を保護した話」を書きました。"]]></title>
         <id>https://twitter.com/yorunokafuka/status/1414614978544345093</id>
         <link href="https://twitter.com/yorunokafuka/status/1414614978544345093"/>
@@ -271,16 +281,6 @@
         <link href="https://jbpress.ismedia.jp/articles/-/66011"/>
         <updated>2021-07-12T20:14:49.000Z</updated>
         <summary type="html"><![CDATA[「ビーガンで育てられた赤ちゃんが栄養失調で死亡」 このような痛ましいニュースが定期的に世界中を駆け巡る。そのたびに「ビーガン＝栄養不足」との認識が「健康説」を強く脇に追いやって、世の中に浸透していく。 事件の詳細を見てみれば、そこにはビーガン以前の問題があることがすぐに分かる。ガリガリに痩せ、栄養...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国提出の赤木ファイル　妻側が「メール記録が欠落」と申し立て：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/116226</id>
-        <link href="https://www.tokyo-np.co.jp/article/116226"/>
-        <updated>2021-07-12T19:39:45.000Z</updated>
-        <summary type="html"><![CDATA[財務省の決裁文書改ざん問題で自殺した近畿財務局の元職員赤木俊夫さん＝当時（５４）＝が改ざん過程をまとめた「赤木ファイル」を巡る大阪地裁での訴訟で、妻雅子さん（５０）側は１２日、国側が提出した文書から一部のメール記録が欠落しているとして、全ての文書を提出したかどうかを確認するよう地裁に申し立てた。 ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

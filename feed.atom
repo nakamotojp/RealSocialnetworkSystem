@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T11:09:55.035Z</id>
+    <id>urn:2021-07-13T12:20:15.305Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T11:09:55.035Z</updated>
+    <updated>2021-07-13T12:20:15.305Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Just Systemが一太郎負けて最近低迷してるかと思いきや株価も上がって給与も最高水準だった - Togetter]]></title>
+        <id>https://togetter.com/li/1744321</id>
+        <link href="https://togetter.com/li/1744321"/>
+        <updated>2021-07-13T08:33:37.000Z</updated>
+        <summary type="html"><![CDATA[一太郎がWordに負け低迷してると思ってたジャストシステムのこの数年右肩上がりでしかも給与が最強クラスで不死鳥のごとく復活してた。 それにしても、みんなジャストシステム好きだなｗ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国税庁職員 3人以上の飲み会に参加 7人が感染 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210713/k10013137451000.html</id>
@@ -41,6 +51,16 @@
         <link href="https://contents.xj-storage.jp/xcontents/37600/20fd247e/72d9/4f24/a5e8/648cd95e6b26/140120210713466022.pdf"/>
         <updated>2021-07-13T06:36:38.000Z</updated>
         <summary type="html"><![CDATA[2021 年７月 13 日 各 位 会 社 名 株 式 会 社 ケ イ ブ 代 表 者 名 代表取締役社長 CEO 秋 田 英 好 （コード番号：3760、JASDAQ） 問 合 せ 先 代表取締役副社長 CFO 安 藤 裕 史 （TEL:03-6820-8176） 新規ゲーム開発の開始に関するお知らせ ケイブの新規ゲーム開発プロジェクト始動！ 株式会社ケイブ（本社：東京...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ会長が痛恨のいい間違い「最も大事なのはチャイニーズピー…日本人の安全」/スポーツ/デイリースポーツ online]]></title>
+        <id>https://www.daily.co.jp/general/2021/07/13/0014497149.shtml</id>
+        <link href="https://www.daily.co.jp/general/2021/07/13/0014497149.shtml"/>
+        <updated>2021-07-13T06:04:38.000Z</updated>
+        <summary type="html"><![CDATA[バッハ会長が痛恨のいい間違い「最も大事なのはチャイニーズピー…日本人の安全」 拡大 国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長が１３日、都内で東京五輪・パラリンピック組織委員会の橋本聖子会長と面会した。 ２３日の五輪開幕に向けて、８日に来日したバッハ会長は９日から１１日の３日間の隔離期間...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -101,6 +121,16 @@
         <link href="https://withnews.jp/article/f0210713003qq000000000000000W08k10201qq000023319A"/>
         <updated>2021-07-13T03:40:23.000Z</updated>
         <summary type="html"><![CDATA[「さすがに、必要ですよね」 そもそもベンチがない問題 「恐れていることが本当に起きるか」を知る まちなかで見かけるベンチに、仕切りや手すりのような突起がついていることは「当たり前」の風景になっています。そんな「排除ベンチ」の一つが、先日、ツイッターをきっかけに形を変えました。〝突起〟が動いたのです。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富野由悠季×樋口真嗣 対談① | Febri]]></title>
+        <id>https://febri.jp/topics/tomino-higuchi-1/</id>
+        <link href="https://febri.jp/topics/tomino-higuchi-1/"/>
+        <updated>2021-07-13T03:22:35.000Z</updated>
+        <summary type="html"><![CDATA[樋口　中学生のときに『機動戦士ガンダム』を見てから本当に尊敬しておりますし、憧れのアイドルでもある富野由悠季監督とこうして対談できるなんて、40年前の自分に自慢できます。関係者の皆様、本当にありがとうございます。 富野　尊敬されている富野という話は、今初めて聞きました（笑）。普段からそう言ってくれて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大谷 史上初大リーグオールスターで二刀流 先発投手で1番DH | 大リーグ | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210713/k10013135891000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210713/k10013135891000.html"/>
-        <updated>2021-07-12T20:58:08.000Z</updated>
-        <summary type="html"><![CDATA[大リーグ、エンジェルスの大谷翔平選手が13日（日本時間の14日）行われるオールスターゲームで先発投手を務めることになりました。大谷選手は1番バッターで出場したうえで先発マウンドに上がり、オールスターゲームで史上初めて投打の二刀流でプレーします。 大谷選手は12日、ホームラン競争の前に行われたオールスター...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[信号機倒壊の原因は “犬の尿” 県警科捜研調査 三重 鈴鹿 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html"/>
@@ -251,26 +271,6 @@
         <link href="https://togetter.com/li/1744053"/>
         <updated>2021-07-12T19:19:17.000Z</updated>
         <summary type="html"><![CDATA[沖田らいく @okitastyle lin.ee/136SaFG?mediad… 「名字が高橋になっててキュンした」「幸せを感じる」「名字が変わってる感動」 グロ……選択的夫婦別姓反対派かよ。こんなコメ付けて、女をコントロールすることに喜びを見出してる男尊女卑で家父長制維持派で女性差別主義者が一生懸命印象操作してるようにしか見えないな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文庫すら売れない業界の現実について「値段が高い、娯楽の選択肢が増えて本を読む時間が無い」 - Togetter]]></title>
-        <id>https://togetter.com/li/1744013</id>
-        <link href="https://togetter.com/li/1744013"/>
-        <updated>2021-07-12T13:01:30.000Z</updated>
-        <summary type="html"><![CDATA[酒井エマ @factress0415 「文庫すら売れない現実」は、業界にいる知人の話だと事実らしい。ハードカバーはまず売れない。電子書籍への置き換えではなく、純粋に読者数が激減している。ツイッター見てると全然そんな気しないけど。読書垢さんは貴重で奇特な存在かも。 2021-07-11 22:53:20 saikonchan @saikonchan @factr...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拝啓 コロナに関わるみなさまへ]]></title>
-        <id>https://anond.hatelabo.jp/20210712212604</id>
-        <link href="https://anond.hatelabo.jp/20210712212604"/>
-        <updated>2021-07-12T12:26:15.000Z</updated>
-        <summary type="html"><![CDATA[溜まった思いを書き散らしました。 拝啓 すべてのみなさまへワクチンを打って安心するのは、まだ早いです さすがに1回目の接種の翌日からマスクを外して動き回るような人はいないと思いますが、効果が十分あらわれるとされる2回目の接種から2週間経ってもなお、安心しないでほしいという話をします。あなた自身の重症化...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

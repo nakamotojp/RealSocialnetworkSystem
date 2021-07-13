@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T09:12:37.517Z</id>
+    <id>urn:2021-07-13T10:12:55.281Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T09:12:37.517Z</updated>
+    <updated>2021-07-13T10:12:55.281Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html"/>
         <updated>2021-07-13T07:52:10.000Z</updated>
         <summary type="html"><![CDATA[東京都は13日、都内で新たに830人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より237人増え、24日連続で前の週の同じ曜日を上回りました。 また都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は13日、都内で新たに10歳未満から90代までの男女合わせて830...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF]新規ゲーム開発の開始に関するお知らせ]]></title>
+        <id>https://contents.xj-storage.jp/xcontents/37600/20fd247e/72d9/4f24/a5e8/648cd95e6b26/140120210713466022.pdf</id>
+        <link href="https://contents.xj-storage.jp/xcontents/37600/20fd247e/72d9/4f24/a5e8/648cd95e6b26/140120210713466022.pdf"/>
+        <updated>2021-07-13T06:36:38.000Z</updated>
+        <summary type="html"><![CDATA[2021 年７月 13 日 各 位 会 社 名 株 式 会 社 ケ イ ブ 代 表 者 名 代表取締役社長 CEO 秋 田 英 好 （コード番号：3760、JASDAQ） 問 合 せ 先 代表取締役副社長 CFO 安 藤 裕 史 （TEL:03-6820-8176） 新規ゲーム開発の開始に関するお知らせ ケイブの新規ゲーム開発プロジェクト始動！ 株式会社ケイブ（本社：東京...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緊急事態の効果「何もかけないよりまし」　田村厚労相：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7F45S0P7FULBJ003.html</id>
+        <link href="https://www.asahi.com/articles/ASP7F45S0P7FULBJ003.html"/>
+        <updated>2021-07-13T05:56:00.000Z</updated>
+        <summary type="html"><![CDATA[4度目となる新型コロナウイルス対応の緊急事態宣言について、田村憲久厚生労働相は13日の閣議後会見で、人の流れを抑制する効果が弱まっているとの認識を示した。その上で「何もかけないよりは、本来伸びるところがある程度収まるという効果は、4回目であったとしてもある」と述べた。 宣言初日となる12日の東京都内の人...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[スクロールに連動するアニメーションを実装する時は、JSのIntersection Observerを使用すると簡単に実装できる | コリス]]></title>
-        <id>https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html</id>
-        <link href="https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html"/>
-        <updated>2021-07-13T00:37:15.000Z</updated>
-        <summary type="html"><![CDATA[スクロールに連動するアニメーションはIntersection Observerを使用すると、簡単に実装できます。カードUIがスクロールしてビューポートに表示されると、カード内の要素がアニメーションするUIを実装する方法を紹介します。 ライブラリなどは必要なく、数行のJavaScriptで簡単に実装できます。 Animate on scroll using ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[かふお on Twitter: "長くなりますが、「おっさんが女児を保護した話」を書きました。"]]></title>
         <id>https://twitter.com/yorunokafuka/status/1414614978544345093</id>
         <link href="https://twitter.com/yorunokafuka/status/1414614978544345093"/>
@@ -146,11 +156,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【独自】往年の作品、ネット配信しやすく…著作権不明でも料金納付すれば使用可能に（読売新聞オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/2a91e6121fc40abdb8667447533d37f8de59022b</id>
-        <link href="https://news.yahoo.co.jp/articles/2a91e6121fc40abdb8667447533d37f8de59022b"/>
-        <updated>2021-07-12T23:28:06.000Z</updated>
-        <summary type="html"><![CDATA[政府は、著作権者が不明な映像や音楽などが含まれる過去の作品をオンライン配信しやすくする制度創設の検討に入った。政府が認定する管理団体に配信者が著作権使用料を支払えば、作品の二次利用を認める方向だ。日本のテレビ番組やアニメが海外で人気となる中、コンテンツ産業の活性化を図る。 【写真】海のシーン多い「...]]></summary>
+        <title type="html"><![CDATA[来年に迫る「Internet Explorer 11」の終了について知っておきたいこと - やじうまの杜 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1337626.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1337626.html"/>
+        <updated>2021-07-12T22:38:53.000Z</updated>
+        <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://togetter.com/li/1744013"/>
         <updated>2021-07-12T13:01:30.000Z</updated>
         <summary type="html"><![CDATA[酒井エマ @factress0415 「文庫すら売れない現実」は、業界にいる知人の話だと事実らしい。ハードカバーはまず売れない。電子書籍への置き換えではなく、純粋に読者数が激減している。ツイッター見てると全然そんな気しないけど。読書垢さんは貴重で奇特な存在かも。 2021-07-11 22:53:20 saikonchan @saikonchan @factr...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国の少子化対策は正しい]]></title>
-        <id>https://anond.hatelabo.jp/20210712212559</id>
-        <link href="https://anond.hatelabo.jp/20210712212559"/>
-        <updated>2021-07-12T12:49:17.000Z</updated>
-        <summary type="html"><![CDATA[中国政府が学習塾の規制強化に乗り出す。政府内に監督部門を新設し、週末授業や学費の制限を検討する。家計の教育費負担を抑えて少子化対策につなげる狙い https://www.nikkei.com/article/DGXZQOGM229HK0S1A620C2000000/ 子供3人作ったら子供は大学受験で50点プラス、4人作れば1人は最高学府に入学できる制度を開始へ h...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

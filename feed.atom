@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T04:15:14.898Z</id>
+    <id>urn:2021-07-13T05:10:17.283Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T04:15:14.898Z</updated>
+    <updated>2021-07-13T05:10:17.283Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】西村大臣　金融機関への要請、事務方が首相にも説明と明かす　「責任果たす」と辞任は否定：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/116356</id>
+        <link href="https://www.tokyo-np.co.jp/article/116356"/>
+        <updated>2021-07-13T03:42:57.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう政府方針を撤回したことについて、西村康稔経済再生担当相は１３日の閣議後記者会見で「飲食店の皆様への不安を与えてしまったことを深く反省しています」と述べた。インターネットなど西村氏の辞任を求める声が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一番シティポップっぽいアニソンって何？]]></title>
         <id>https://anond.hatelabo.jp/20210713100308</id>
@@ -181,16 +191,6 @@
         <link href="https://anond.hatelabo.jp/20210712205129"/>
         <updated>2021-07-12T13:27:24.000Z</updated>
         <summary type="html"><![CDATA[子供の頃から、祖母に「買ってきたお惣菜等をパックのまま食卓に出してはいけない」と言いつけられていたが、高校生くらいで「そろそろ食べ物をパックのまま食卓に出してはいけないとわかっただろうから、今日からパックのまま食卓に出しても良い事にする」と解禁された。禅問答めいている]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒提供停止働き掛けに財務、経産両省も関与 ｜ 共同通信]]></title>
-        <id>https://nordot.app/787303254282387456</id>
-        <link href="https://nordot.app/787303254282387456"/>
-        <updated>2021-07-12T13:26:50.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらうよう求める政府の方針決定に、内閣官房のほかに、財務省と経済産業省、金融庁も関与していたことが12日、分かった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

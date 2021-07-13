@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T08:13:21.795Z</id>
+    <id>urn:2021-07-13T09:12:37.517Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T08:13:21.795Z</updated>
+    <updated>2021-07-13T09:12:37.517Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 2人死亡 830人感染 前週火曜日より237人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210713/k10013137371000.html"/>
+        <updated>2021-07-13T07:52:10.000Z</updated>
+        <summary type="html"><![CDATA[東京都は13日、都内で新たに830人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より237人増え、24日連続で前の週の同じ曜日を上回りました。 また都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は13日、都内で新たに10歳未満から90代までの男女合わせて830...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOCのバッハ会長「最も大事なのはチャイニーズピープル」痛恨の言い間違い - ライブドアニュース]]></title>
         <id>https://news.livedoor.com/article/detail/20523663/</id>
@@ -26,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[麻生財務相、飲食店への金融機関働きかけについて「放っておけ」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210713/k00/00m/040/113000c</id>
+        <link href="https://mainichi.jp/articles/20210713/k00/00m/040/113000c"/>
+        <updated>2021-07-13T05:03:41.000Z</updated>
+        <summary type="html"><![CDATA[西村康稔経済再生担当相が酒類提供停止に応じない飲食店に対し、取引先の金融機関から働きかけてもらう方針を一時表明した問題について、麻生太郎財務相兼金融担当相は13日の閣議後記者会見で、主要20カ国・地域（G20）財務相・中央銀行総裁会議出席のため訪れたイタリアで8日夕（日本時間9日未明）、同行していた金融庁...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【詳報】西村大臣　金融機関への要請、事務方が首相にも説明と明かす　「責任果たす」と辞任は否定：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/116356</id>
         <link href="https://www.tokyo-np.co.jp/article/116356"/>
@@ -41,6 +61,16 @@
         <link href="https://withnews.jp/article/f0210713003qq000000000000000W08k10201qq000023319A"/>
         <updated>2021-07-13T03:40:23.000Z</updated>
         <summary type="html"><![CDATA[「さすがに、必要ですよね」 そもそもベンチがない問題 「恐れていることが本当に起きるか」を知る まちなかで見かけるベンチに、仕切りや手すりのような突起がついていることは「当たり前」の風景になっています。そんな「排除ベンチ」の一つが、先日、ツイッターをきっかけに形を変えました。〝突起〟が動いたのです。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[母子手帳は「親子手帳」じゃだめ？　父親たちの問題提起（朝日新聞デジタル） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/eec5cde3fb54e41744939214e1c82e29aa0383d0</id>
+        <link href="https://news.yahoo.co.jp/articles/eec5cde3fb54e41744939214e1c82e29aa0383d0"/>
+        <updated>2021-07-13T03:12:02.000Z</updated>
+        <summary type="html"><![CDATA[俺って、育児に関係ないと思われているのかな……。 3歳の長男を育てるさいたま市議の三神尊志（たかし）さん（40）は、役所で妻と妊娠届を出して母子手帳をもらった時、「母子」の言葉が気になった。産院では息子は「三神ママの赤ちゃん」と呼ばれ、産前産後の手続きのための書類には、母と子の名前の記入欄しかないもの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[来年に迫る「Internet Explorer 11」の終了について知っておきたいこと - やじうまの杜 - 窓の杜]]></title>
-        <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1337626.html</id>
-        <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1337626.html"/>
-        <updated>2021-07-12T22:38:53.000Z</updated>
-        <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Terraform, Dockerfile, KubernetesなどIaCの脆弱な設定をCI/CDで検知する - knqyf263's blog]]></title>
         <id>https://knqyf263.hatenablog.com/entry/2021/07/13/063729</id>
         <link href="https://knqyf263.hatenablog.com/entry/2021/07/13/063729"/>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[酒提供停止　内閣官房が金融庁、財務、経産と事前調整　政府ぐるみで推進に批判も：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/116247</id>
-        <link href="https://www.tokyo-np.co.jp/article/116247"/>
-        <updated>2021-07-12T13:12:39.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対策で酒類の提供停止に応じない飲食店に対し、取引金融機関から順守を働き掛けてもらう政府の方針決定を巡り、内閣官房が８日付で各府省庁に、所管する金融機関に政府方針への協力を求めるよう依頼する文書を出していたことが１２日、分かった。内閣官房は、銀行などを監督する金融庁や、政府系金融...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[文庫すら売れない業界の現実について「値段が高い、娯楽の選択肢が増えて本を読む時間が無い」 - Togetter]]></title>
         <id>https://togetter.com/li/1744013</id>
         <link href="https://togetter.com/li/1744013"/>
@@ -251,16 +261,6 @@
         <link href="https://anond.hatelabo.jp/20210712212604"/>
         <updated>2021-07-12T12:26:15.000Z</updated>
         <summary type="html"><![CDATA[溜まった思いを書き散らしました。 拝啓 すべてのみなさまへワクチンを打って安心するのは、まだ早いです さすがに1回目の接種の翌日からマスクを外して動き回るような人はいないと思いますが、効果が十分あらわれるとされる2回目の接種から2週間経ってもなお、安心しないでほしいという話をします。あなた自身の重症化...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「がんばろう」のはずが棚田アート“誤字”｜日テレNEWS24]]></title>
-        <id>https://www.news24.jp/articles/2021/07/12/07904953.html</id>
-        <link href="https://www.news24.jp/articles/2021/07/12/07904953.html"/>
-        <updated>2021-07-12T12:09:27.000Z</updated>
-        <summary type="html"><![CDATA[見出し、記事、写真、動画、図表などの無断転載を禁じます。 当サイトにおけるクッキーの扱いについてはこちら 『日テレNEWS24 ライブ配信』の推奨環境はこちら]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-14T12:18:54.552Z</id>
+    <id>urn:2021-07-14T13:20:42.473Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T12:18:54.552Z</updated>
+    <updated>2021-07-14T13:20:42.473Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[怒るよりも投票へ　サイゼリア社長が従業員に呼びかけ [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html</id>
+        <link href="https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html"/>
+        <updated>2021-07-14T10:44:17.000Z</updated>
+        <summary type="html"><![CDATA[怒るよりも投票に行こう――。サイゼリヤの堀埜（ほりの）一成社長は14日の決算会見で、コロナ禍で苦しい飲食業界の意向が政策に反映されない理由として関係者の「投票率の低さ」を挙げた。今秋までにある総選挙で投票に行くよう、従業員に呼びかけたという。 堀埜社長は、酒類の提供をやめさせようとした政府の一連の対応...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「信号機倒壊原因は『犬の尿』by科捜研」の記事はバカニュースの類か]]></title>
+        <id>https://anond.hatelabo.jp/20210714180449</id>
+        <link href="https://anond.hatelabo.jp/20210714180449"/>
+        <updated>2021-07-14T09:07:55.000Z</updated>
+        <summary type="html"><![CDATA[鈴鹿の信号機柱が折れた原因が犬のおしっこだというNHKのニュースが人気だけど、この報道ちょっと短絡的なんよ。 https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html 地中に尿素が沢山検出された→尿に含まれる塩分のせいで腐食が速く進んだって理路だが、この科捜研の推理、間違いじゃね？普通こういう場...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪府 コロナ 2人死亡 349人感染 感染者数は先週水曜の2倍超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210714/k10013139171000.html</id>
@@ -80,6 +100,16 @@
         <id>https://news.yahoo.co.jp/articles/f08cdb20c28a05ab70f12931caa31a62291d5f3c</id>
         <link href="https://news.yahoo.co.jp/articles/f08cdb20c28a05ab70f12931caa31a62291d5f3c"/>
         <updated>2021-07-14T04:46:18.000Z</updated>
+        <summary type="html"><![CDATA[先週、東京・板橋区の踏切で３１歳の女性が電車にはねられ死亡しました。その後の取材で事故の原因が女性の“ながらスマホ”とみられることが分かりました。 今月８日の午後７時半頃、東武東上線「東武練馬駅」の脇の踏切で、近くに住む３１歳の女性が電車にはねられ死亡しました。はねられた際、女性は踏切の中で遮断機の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ながらスマホ」が原因か、踏切で電車にはねられ３１歳女性死亡｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4314568.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4314568.html"/>
+        <updated>2021-07-14T04:36:12.000Z</updated>
         <summary type="html"><![CDATA[先週、東京・板橋区の踏切で３１歳の女性が電車にはねられ死亡しました。その後の取材で事故の原因が女性の“ながらスマホ”とみられることが分かりました。 今月８日の午後７時半頃、東武東上線「東武練馬駅」の脇の踏切で、近くに住む３１歳の女性が電車にはねられ死亡しました。はねられた際、女性は踏切の中で遮断機の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
@@ -196,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪・パラ ボランティアへの支給品 ネットに出品相次ぐ | オリンピック・パラリンピック | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210714/k10013138021000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210714/k10013138021000.html"/>
-        <updated>2021-07-13T21:24:20.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック・パラリンピックのボランティアに支給されているユニフォームなどが、インターネット上のサイトに販売目的で相次いで出品されていることが分かりました。大会の組織委員会は「規約に反する行為で極めて遺憾だ」としています。 東京オリンピック・パラリンピックの競技会場で活動する大会ボランティアに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全宅ツイのグル on Twitter: "説明しよう！貴方がお家を5,000万円で売りに出してたところに、5,000万円で買うっていう近所のアパートに住んでる家族と、4,900万円で買うっていう不動産業者が現れたとする。 https://t.co/TlnqyVKr9X"]]></title>
         <id>https://twitter.com/emoyino/status/1414757418165182464</id>
         <link href="https://twitter.com/emoyino/status/1414757418165182464"/>
@@ -226,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社会人になって数年で歪んだ俺の価値観10選]]></title>
-        <id>https://anond.hatelabo.jp/20210713223549</id>
-        <link href="https://anond.hatelabo.jp/20210713223549"/>
-        <updated>2021-07-13T13:36:16.000Z</updated>
-        <summary type="html"><![CDATA[心優しい青年だった俺は、社会と労働によって歪められてしまった。今なら声を大にして言える。働いたら負け。 仕事のできない人間は攻撃してもいいと思うようになったこっちも迷惑被ってるんだから別にいいと思う。あわよくば消えていただきたい。 他人とのコミュニケーションを避けるようになった話しててイライラする...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[過去の嫌な瞬間が次々思い出されて叫びたくなるような精神状態になる時]]></title>
         <id>https://anond.hatelabo.jp/20210713204740</id>
         <link href="https://anond.hatelabo.jp/20210713204740"/>
         <updated>2021-07-13T12:34:25.000Z</updated>
         <summary type="html"><![CDATA[時々あるけど、あれは過去の嫌な瞬間が次々思い出されるから精神状態限界になるんじゃなくて 精神状態が限界になると過去の嫌な瞬間が次々思い出されたりするんだということに最近気づいた。 抑肝散加陳皮半夏って漢方が結構効く。飲むと防音室のドアを閉じたみたいに気持ちが落ち着く。まずい、って思ったタイミングで...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高校で“保護者”が剣道部員の挨拶に激高か…2人に防具つけさせ面や胴何度も踏みつけ 柔道部見学で学校に（富山テレビ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/c341e679446deabb2ddb6c0d2149a5c9c194a541</id>
-        <link href="https://news.yahoo.co.jp/articles/c341e679446deabb2ddb6c0d2149a5c9c194a541"/>
-        <updated>2021-07-13T11:55:51.000Z</updated>
-        <summary type="html"><![CDATA[今月7日、高岡工芸高校で剣道部の男子部員2人が保護者に暴力を受けたとされる問題で、13日、県教育委員会と高岡工芸高校が会見を開き、詳細を説明しました。 会見には、県教育員会の佐野友昭県立学校課長と高岡工芸高校の篠原俊一郎校長が出席し、説明しました。 それによりますと、今月7日、柔道部の見学のため学校を訪...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

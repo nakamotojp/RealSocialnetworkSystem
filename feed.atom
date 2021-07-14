@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-14T04:15:20.389Z</id>
+    <id>urn:2021-07-14T05:10:24.259Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T04:15:20.389Z</updated>
+    <updated>2021-07-14T05:10:24.259Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「これがフェミニズムだというなら、私はフェミニストではない」| 共同声明「フェミニスト原則の再確認を呼びかける」に反対するフェミニストさんたちの意見まとめ - Togetter]]></title>
+        <id>https://togetter.com/li/1744776</id>
+        <link href="https://togetter.com/li/1744776"/>
+        <updated>2021-07-14T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[SWASHとはセックスワーカーの活動団体です。全世界にネットワークがあり日本では要 友紀子さんなどが主力となって活動されています リンク SWASH 共同声明「フェミニスト原則の再確認を呼びかける」 フェミニストグループや、女性の人権団体、LGBTIQ+とトランス主導の団体による共同声明、「フェミニスト原則の再確認を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相「飲食店との取引停止要請 具体的な内容は議論したことない」　西村大臣発言で]]></title>
         <id>https://www.fnn.jp/articles/-/210211</id>
@@ -66,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[バラク・オバマがリストアップした「今夏に読むべき11冊の課題図書」 | 2021年に出版された話題の新作をまとめてチェック | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/253173/</id>
+        <link href="https://courrier.jp/news/archives/253173/"/>
+        <updated>2021-07-13T22:19:47.000Z</updated>
+        <summary type="html"><![CDATA[『夜のなかでは血すらも黒い』（未邦訳） デイビッド・ディオプ フランス人作家による小説。英語に翻訳され、イギリスで出版された最も優れたフィクション作品に贈られる「国際ブッカー賞」受賞作。第一次世界大戦でフランス軍としてドイツと戦ったセネガル人の兵士、アルファとマデンバは助け合いながら戦い続けるが、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[非正規雇用が｢日本の生産性｣低迷させる根本理由 | 国内経済 | 東洋経済オンライン | 社会をよくする経済ニュース]]></title>
         <id>https://toyokeizai.net/articles/-/440446</id>
         <link href="https://toyokeizai.net/articles/-/440446"/>
@@ -101,6 +121,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210714/k10013138021000.html"/>
         <updated>2021-07-13T21:24:20.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック・パラリンピックのボランティアに支給されているユニフォームなどが、インターネット上のサイトに販売目的で相次いで出品されていることがわかりました。大会の組織委員会は「規約に反する行為で極めて遺憾だ」としています。 東京オリンピック・パラリンピックの競技会場で活動する大会ボランティアに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全宅ツイのグル on Twitter: "説明しよう！貴方がお家を5,000万円で売りに出してたところに、5,000万円で買うっていう近所のアパートに住んでる家族と、4,900万円で買うっていう不動産業者が現れたとする。 https://t.co/TlnqyVKr9X"]]></title>
+        <id>https://twitter.com/emoyino/status/1414757418165182464</id>
+        <link href="https://twitter.com/emoyino/status/1414757418165182464"/>
+        <updated>2021-07-13T20:20:37.000Z</updated>
+        <summary type="html"><![CDATA[説明しよう！貴方がお家を5,000万円で売りに出してたところに、5,000万円で買うっていう近所のアパートに住んでる家族と、4,900万円で買うっていう不動産業者が現れたとする。 https://t.co/TlnqyVKr9X]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[現代美術二等兵ふじわら on Twitter: "新宿の巨大ネコ すごいよね。うちの巨大ネコもかなり飛び出して見えるんだけど。。。 https://t.co/oGwBnUaeRy"]]></title>
-        <id>https://twitter.com/f2touhey/status/1414950105552203798</id>
-        <link href="https://twitter.com/f2touhey/status/1414950105552203798"/>
-        <updated>2021-07-13T16:02:54.000Z</updated>
-        <summary type="html"><![CDATA[新宿の巨大ネコ すごいよね。うちの巨大ネコもかなり飛び出して見えるんだけど。。。 https://t.co/oGwBnUaeRy]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[漫画『絶対可憐チルドレン』完結、連載約16年に幕　アニメ化もされた人気作 | ORICON NEWS]]></title>
         <id>https://www.oricon.co.jp/news/2200161/full/</id>
         <link href="https://www.oricon.co.jp/news/2200161/full/"/>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[エアコンつけっぱなしで寝たから朝だるい…どう防ぐ　熱帯夜でも快眠する方法(西多昌規) - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/nishidamasaki/20210713-00245869/</id>
-        <link href="https://news.yahoo.co.jp/byline/nishidamasaki/20210713-00245869/"/>
-        <updated>2021-07-13T12:59:01.000Z</updated>
-        <summary type="html"><![CDATA[今年の夏は、全国的に気温が上昇し、猛暑になるという。熱帯夜が続くことは確実で、夜の睡眠のためにも、エアコンを使いこなすことは例年以上に重要となってくる。既にご存じのことも多いかもしれないが、エアコンと睡眠とのつき合い方を簡潔にまとめてみた。 基本的にはつけっぱなし　気温が28度を超えると、夜間でも熱...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[過去の嫌な瞬間が次々思い出されて叫びたくなるような精神状態になる時]]></title>
         <id>https://anond.hatelabo.jp/20210713204740</id>
         <link href="https://anond.hatelabo.jp/20210713204740"/>
@@ -261,16 +271,6 @@
         <link href="https://www.nikkansports.com/baseball/mlb/news/202107130000426.html"/>
         <updated>2021-07-13T08:46:16.000Z</updated>
         <summary type="html"><![CDATA[ホームランダービーで盛り上がる陰で、米国の人気コメンテーターがエンゼルス大谷翔平投手（27）に関して不適切発言をし、大炎上する騒動に発展した。 ESPNの番組「ファスト・テイク」に出演し過激な発言で人気を博しているスティーブン・A・スミス氏が、12日の番組内で大谷について言及。「MLBの顔になる選手が、通訳が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虫歯の要因は「両親の虫歯の有無」が1位、「現在の歯磨き回数」は因果関係確認できず AI活用で調査 | Ledge.ai]]></title>
-        <id>https://ledge.ai/nexer-whiteningnote/</id>
-        <link href="https://ledge.ai/nexer-whiteningnote/"/>
-        <updated>2021-07-13T03:29:55.000Z</updated>
-        <summary type="html"><![CDATA[TOP > Article Theme > 人工知能（AI）ニュース > 虫歯の要因は「両親の虫歯の有無」が1位、「現在の歯磨き回数」は因果関係確認できず AI活用で調査 株式会社NEXERは、男女3000人を対象にした「虫歯の要因」に関する調査結果を発表した。本調査ではAI（機械学習）を活用し、虫歯になりやすい行動・要因を分析している。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

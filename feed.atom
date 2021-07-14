@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-14T13:20:42.473Z</id>
+    <id>urn:2021-07-14T14:10:54.514Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T13:20:42.473Z</updated>
+    <updated>2021-07-14T14:10:54.514Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[怒るよりも投票へ　サイゼリア社長が従業員に呼びかけ [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <title type="html"><![CDATA[怒るよりも投票へ　サイゼリヤ社長が従業員に呼びかけ [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html</id>
         <link href="https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html"/>
         <updated>2021-07-14T10:44:17.000Z</updated>
         <summary type="html"><![CDATA[怒るよりも投票に行こう――。サイゼリヤの堀埜（ほりの）一成社長は14日の決算会見で、コロナ禍で苦しい飲食業界の意向が政策に反映されない理由として関係者の「投票率の低さ」を挙げた。今秋までにある総選挙で投票に行くよう、従業員に呼びかけたという。 堀埜社長は、酒類の提供をやめさせようとした政府の一連の対応...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鬼滅の複製原稿、集英社が作り直し　「作りが雑」と苦情：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7G4F97P7FUTIL05P.html</id>
+        <link href="https://www.asahi.com/articles/ASP7G4F97P7FUTIL05P.html"/>
+        <updated>2021-07-14T09:30:08.000Z</updated>
+        <summary type="html"><![CDATA[昨年末に人気漫画「鬼滅の刃」の「複製原稿」として販売した作品に重大な問題があったとして、集英社が複製原稿を新たに作り直し、販売済みの商品と交換することが14日、わかった。約4万円と高額ながら、購入者からネット上で「作りが雑」などの批判が出ていた。 複製原稿は、漫画家が実際に描いた生原稿に近い仕上がり...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -50,7 +60,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210714/k10013138851000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210714/k10013138851000.html"/>
         <updated>2021-07-14T07:48:26.000Z</updated>
-        <summary type="html"><![CDATA[東京都は14日、都内で新たに1149人が新型コロナウイルスに感染していることを確認したと発表しました。都内で1日に1100人を超えるのは、第4波のピークで1121人だったことし5月8日以来です。 また、都は、感染が確認された4人が死亡したことを明らかにしました。 東京都は14日、都内で新たに10歳未満から80代までの男女合...]]></summary>
+        <summary type="html"><![CDATA[東京都内では14日、新たに1149人が新型コロナウイルスに感染していることが確認され、第4波のピークだったことし5月8日の1121人を上回りました。高齢者の感染は抑えられている一方、20代と30代で全体の半数近くを占めています。また、入院している患者は先月1日以来2000人を超えました。 東京都内の14日の新たな感染確認...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -211,16 +221,6 @@
         <link href="https://courrier.jp/news/archives/253173/"/>
         <updated>2021-07-13T22:19:47.000Z</updated>
         <summary type="html"><![CDATA[『夜のなかでは血すらも黒い』（未邦訳） デイビッド・ディオプ フランス人作家による小説。英語に翻訳され、イギリスで出版された最も優れたフィクション作品に贈られる「国際ブッカー賞」受賞作。第一次世界大戦でフランス軍としてドイツと戦ったセネガル人の兵士、アルファとマデンバは助け合いながら戦い続けるが、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非正規雇用が｢日本の生産性｣低迷させる根本理由 | 国内経済 | 東洋経済オンライン | 社会をよくする経済ニュース]]></title>
-        <id>https://toyokeizai.net/articles/-/440446</id>
-        <link href="https://toyokeizai.net/articles/-/440446"/>
-        <updated>2021-07-13T22:08:22.000Z</updated>
-        <summary type="html"><![CDATA[そんな中、諸外国では最低賃金の引き上げが相次いでいます。2021年の引き上げ率は、アメリカで4.3％、EU27カ国の平均は2.5％でした。最近発表された上海は4.5％、オーストラリアは2.5％、カナダは11.6％となりました。また、韓国は来年の最低賃金を5.1％引き上げると決めています。前回の記事（｢最低賃金1178円｣が国際的...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

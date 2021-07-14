@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
+          "author": null,
+          "description": "We built Fleets as a lower-pressure, ephemeral way for people to share their fleeting thoughts. We hoped Fleets would help more people feel comfortable joining the conversation on Twitter. But, in the time since we introduced Fleets to everyone, we haven’t seen an increase in the number of new pe...",
+          "link": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
+          "publishedOn": "2021-07-14T17:48:57.000Z",
+          "wordCount": 689,
+          "title": "Goodbye, Fleets"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html",
           "author": null,
           "description": "［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Wi...",
@@ -33,12 +42,21 @@
           "title": "酒停止「広告扱いで留意を」　西村担当相、メディアにも圧力？：時事ドットコム"
         },
         {
+          "id": "https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html",
+          "author": null,
+          "description": "東京オリンピック（五輪）の選手団の来日がピークを迎え、空港には連日、数百人単位で選手や関係者が入国している。大会中、新型コロナウイルスの感染拡大防止策として、選手団と一般の人たちとを分離する「バブル方式」を採り入れているが、完全な遮断とはほど遠い。 13日午前、成田空港第1ターミナルの北ウイング。複...",
+          "link": "https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html",
+          "publishedOn": "2021-07-14T11:22:53.000Z",
+          "wordCount": 222,
+          "title": "五輪選手団、急に来日・空港客とタッチ…遮断「不可能」 - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html",
           "author": null,
           "description": "怒るよりも投票に行こう――。サイゼリヤの堀埜（ほりの）一成社長は14日の決算会見で、コロナ禍で苦しい飲食業界の意向が政策に反映されない理由として関係者の「投票率の低さ」を挙げた。今秋までにある総選挙で投票に行くよう、従業員に呼びかけたという。 堀埜社長は、酒類の提供をやめさせようとした政府の一連の対応...",
           "link": "https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html",
           "publishedOn": "2021-07-14T10:44:17.000Z",
-          "wordCount": 218,
+          "wordCount": 221,
           "title": "怒るよりも投票へ　サイゼリヤ社長が従業員に呼びかけ [新型コロナウイルス]：朝日新聞デジタル"
         },
         {
@@ -56,7 +74,7 @@
           "description": "大貫剛 @ohnuki_tsuyoshi 一部の人が「新型コロナワクチンは治験が終わっていない」と言ってて、実際にアメリカの政府サイトとか見ると治験期間が2023年までとかに見える問題、ようやく理解できた。 販売までに必要な「治験」と、販売後に追跡調査する「市販後臨床試験」が、どちらも英語では「clinical trial」なんだ。...",
           "link": "https://togetter.com/li/1744892",
           "publishedOn": "2021-07-14T09:50:40.000Z",
-          "wordCount": 1085,
+          "wordCount": 1092,
           "title": "一部の人の言う「新型コロナワクチンは治験が終わっていない」という意見がなぜ発生するのか？という\"ことば\"の話 - Togetter"
         },
         {
@@ -65,8 +83,17 @@
           "description": "昨年末に人気漫画「鬼滅の刃」の「複製原稿」として販売した作品に重大な問題があったとして、集英社が複製原稿を新たに作り直し、販売済みの商品と交換することが14日、わかった。約4万円と高額ながら、購入者からネット上で「作りが雑」などの批判が出ていた。 複製原稿は、漫画家が実際に描いた生原稿に近い仕上がり...",
           "link": "https://www.asahi.com/articles/ASP7G4F97P7FUTIL05P.html",
           "publishedOn": "2021-07-14T09:30:08.000Z",
-          "wordCount": 213,
+          "wordCount": 216,
           "title": "鬼滅の複製原稿、集英社が作り直し　「作りが雑」と苦情：朝日新聞デジタル"
+        },
+        {
+          "id": "https://news.tbs.co.jp/newseye/tbs_newseye4314705.html",
+          "author": null,
+          "description": "東京オリンピックの開会式について、名誉総裁である天皇陛下がお一人で出席して開会宣言を行う方向で最終調整が行われていることが分かりました。 関係者によりますと、今月２３日に行われる東京オリンピックの開会式には名誉総裁である天皇陛下お一人が出席して開会宣言を行い、皇后さまは出席されない方向で最終調整し...",
+          "link": "https://news.tbs.co.jp/newseye/tbs_newseye4314705.html",
+          "publishedOn": "2021-07-14T09:08:49.000Z",
+          "wordCount": 1271,
+          "title": "【独自】東京五輪の開会式 天皇陛下お一人で出席で調整｜TBS NEWS"
         },
         {
           "id": "https://anond.hatelabo.jp/20210714180449",
@@ -92,7 +119,7 @@
           "description": "会談前に言葉を交わすIOCのトーマス・バッハ会長（左）と菅義偉首相＝首相官邸で2021年7月14日午後3時20分、竹内幹撮影 来日している国際オリンピック委員会（IOC）のトーマス・バッハ会長は14日、首相官邸を訪れ、菅義偉首相と会談した。23日に東京オリンピックの開幕を控え、「我々が日本国内にリスクを持ち込むことは...",
           "link": "https://mainichi.jp/articles/20210714/k00/00m/010/155000c",
           "publishedOn": "2021-07-14T07:50:52.000Z",
-          "wordCount": 607,
+          "wordCount": 609,
           "title": "バッハ会長「日本にリスク持ち込むことは絶対ない」　首相と会談 | 毎日新聞"
         },
         {
@@ -119,7 +146,7 @@
           "description": "自身が保有していたIT企業株を巡り、売却益にかかる所得税を申告していなかったことが明るみに出た平井卓也デジタル相（63）。問題のIT企業株を購入した時期は内閣府政務官を務めており、政務三役在任中の株取引自粛を求める大臣規範に違反していたことが、「週刊文春」の取材でわかった。 平井氏が保有していたのは、IT...",
           "link": "https://bunshun.jp/articles/-/47100",
           "publishedOn": "2021-07-14T07:36:09.000Z",
-          "wordCount": 187,
+          "wordCount": 179,
           "title": "平井デジタル相が大臣規範違反　IT政務官時代に親密IT企業株を購入 | 文春オンライン"
         },
         {
@@ -137,7 +164,7 @@
           "description": "すきえんてぃあ@書け @cicada3301_kig 着ぐるみ生命体／トランスヒューマニスト／コピミズム／言語／謎エスニック料理／リキュール／主なるねこかわの御名において にゃーん twitter.com/search?q=%E6%9… すきえんてぃあ@書け @cicada3301_kig 歳をとった女性声優が若作りして出す声、独特のダミ声のような老化の特徴も...",
           "link": "https://togetter.com/li/1744860",
           "publishedOn": "2021-07-14T06:27:51.000Z",
-          "wordCount": 1181,
+          "wordCount": 1205,
           "title": "発音の違いによって声優が大体何歳くらいかが分かってしまう『若者と年寄りではもはや話してる言語が違う』 - Togetter"
         },
         {
@@ -146,7 +173,7 @@
           "description": "自民党岸田派の政治資金パーティーで所属議員らと衆院選の必勝を期した岸田文雄前政調会長（中央）＝東京都内のホテルで2021年7月8日、小田中大撮影 衆参両院の事務局は、14日までに自民党岸田派の秘書5人が新型コロナウイルスに感染したと発表した。両院事務局によると、感染したのは岸田文雄前政調会長の秘書のほか、...",
           "link": "https://mainichi.jp/articles/20210714/k00/00m/010/116000c",
           "publishedOn": "2021-07-14T05:59:43.000Z",
-          "wordCount": 533,
+          "wordCount": 535,
           "title": "自民党岸田派秘書5人が新型コロナ感染　8日に政治資金パーティー | 毎日新聞"
         },
         {
@@ -164,7 +191,7 @@
           "description": "先週、東京・板橋区の踏切で３１歳の女性が電車にはねられ死亡しました。その後の取材で事故の原因が女性の“ながらスマホ”とみられることが分かりました。 今月８日の午後７時半頃、東武東上線「東武練馬駅」の脇の踏切で、近くに住む３１歳の女性が電車にはねられ死亡しました。はねられた際、女性は踏切の中で遮断機の...",
           "link": "https://news.yahoo.co.jp/articles/f08cdb20c28a05ab70f12931caa31a62291d5f3c",
           "publishedOn": "2021-07-14T04:46:18.000Z",
-          "wordCount": 73,
+          "wordCount": 75,
           "title": "「ながらスマホ」が原因か、踏切で電車にはねられ３１歳女性死亡（TBS系（JNN）） - Yahoo!ニュース"
         },
         {
@@ -173,17 +200,8 @@
           "description": "菅さん、今からでも遅くないから五輪に観客を入れてくれ！せっかくワクチン打ってノーマルに戻れると思ったのに... 先週(7/5)コロナワクチンの1回目を港区の集団接種会場で打った。勤務先の職域接種、国の大規模接種、港区の集団接種の3段構えで待ったが、結局港区が一番早かった。天皇陛下(僕より一歳下)はその翌日に打...",
           "link": "https://www.fnn.jp/articles/-/210223",
           "publishedOn": "2021-07-14T03:28:10.000Z",
-          "wordCount": 186,
+          "wordCount": 188,
           "title": "菅さん、今からでも遅くないから五輪に観客を入れてくれ！せっかくワクチン打ってノーマルに戻れると思ったのに..."
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210714114025",
-          "author": null,
-          "description": "近所に公園がある。 午前中はママ友が子供を遊ばせていたり、ジジババがゲートボールをしていたりする。夕方には小中学生が集まってキックベースをしていたり、藤棚の下のベンチに集まってなんかよくわからんけどゲームをしてたりする。 夜になると若者が集まってなんか騒いでる。フィットネスブームが来てからは鉄棒で...",
-          "link": "https://anond.hatelabo.jp/20210714114025",
-          "publishedOn": "2021-07-14T02:48:39.000Z",
-          "wordCount": 234,
-          "title": "公園は結局誰のものなのかって話。"
         },
         {
           "id": "https://togetter.com/li/1744776",
@@ -195,15 +213,6 @@
           "title": "「これがフェミニズムだというなら、私はフェミニストではない」| 共同声明「フェミニスト原則の再確認を呼びかける」に反対するフェミニストさんたちの意見まとめ - Togetter"
         },
         {
-          "id": "https://dailyportalz.jp/kiji/mizuno-haitta-fuku",
-          "author": null,
-          "description": "1995年、海の近く生まれ。映画と動物とバーベキューが好きです。オレンジジュースを飲んでいたコップに麦茶を注いでもらう時でも「コップこのままでいいよー！」と言えます。 前の記事：「エリマキトカゲみたい」な服をカッコよく作りたい ＞ 個人サイト たびっこ動物 ランウェイスタイルと実用的スタイルを作る という...",
-          "link": "https://dailyportalz.jp/kiji/mizuno-haitta-fuku",
-          "publishedOn": "2021-07-14T02:25:51.000Z",
-          "wordCount": 240,
-          "title": "水の入った服で夏を涼しく過ごしたい :: デイリーポータルZ"
-        },
-        {
           "id": "https://togetter.com/li/1744709",
           "author": null,
           "description": "リンク www.ncd-ri.co.jp イメージシステム | カラー戦略の専門家 | NCD-WEB | 色彩心理・生活者研究・トレンド分析の日本カラーデザイン研究所 日本カラーデザイン研究所はオリジナルのカラーシステム「HUE&TONEシステム」やイメージ分析システム「イメージスケール」を開発、発展させてきました。 62 users かたおか＠...",
@@ -211,15 +220,6 @@
           "publishedOn": "2021-07-14T00:04:19.000Z",
           "wordCount": 580,
           "title": "配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter"
-        },
-        {
-          "id": "https://karaage.hatenadiary.jp/entry/2021/07/14/073000",
-          "author": null,
-          "description": "文章を書く方法 あくまで、「良い文章を書く方法」でも「文章を書く極意」でもなく「（普通の）文章を（普通に）書く方法」です。 20年以上ネットに文章を書いたりしているうちに、いつのまにか商業誌に数十本寄稿したり、書籍も数冊出したりしていました。あんまり意識していなかったのですが、ひょっとしたら自分はあ...",
-          "link": "https://karaage.hatenadiary.jp/entry/2021/07/14/073000",
-          "publishedOn": "2021-07-13T22:30:13.000Z",
-          "wordCount": 239,
-          "title": "20年以上ネットに文章を書き続けた上で文章術の本をたくさん読んで分かった「文章を書く方法」 - karaage. [からあげ]"
         },
         {
           "id": "https://courrier.jp/news/archives/253173/",
@@ -254,7 +254,7 @@
           "description": "フェミニストグループや、女性の人権団体、LGBTIQ+とトランス主導の団体による共同声明、「フェミニスト原則の再確認を呼びかける」が起草されました。この共同声明の呼びかけ団体は次のとおりです。 性と生殖に関する健康と権利のためのアジア太平洋協会・Asia Pacific Alliance for Sexual and Reproductive Health an...",
           "link": "https://swashweb.net/2021/07/12/post-906/",
           "publishedOn": "2021-07-12T22:26:17.000Z",
-          "wordCount": 351,
+          "wordCount": 409,
           "title": "共同声明「フェミニスト原則の再確認を呼びかける」"
         },
         {

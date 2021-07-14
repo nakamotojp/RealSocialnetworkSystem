@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-14T08:13:16.285Z</id>
+    <id>urn:2021-07-14T09:12:40.949Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T08:13:16.285Z</updated>
+    <updated>2021-07-14T09:12:40.949Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210714/k10013138851000.html"/>
         <updated>2021-07-14T07:48:26.000Z</updated>
         <summary type="html"><![CDATA[東京都は14日、都内で新たに1149人が新型コロナウイルスに感染していることを確認したと発表しました。都内で1日に1100人を超えるのは、第4波のピークで1121人だったことし5月8日以来です。 また、都は、感染が確認された4人が死亡したことを明らかにしました。 東京都は14日、都内で新たに10歳未満から80代までの男女合...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[発音の違いによって声優が大体何歳くらいかが分かってしまう『若者と年寄りではもはや話してる言語が違う』 - Togetter]]></title>
+        <id>https://togetter.com/li/1744860</id>
+        <link href="https://togetter.com/li/1744860"/>
+        <updated>2021-07-14T06:27:51.000Z</updated>
+        <summary type="html"><![CDATA[すきえんてぃあ@書け @cicada3301_kig 着ぐるみ生命体／トランスヒューマニスト／コピミズム／言語／謎エスニック料理／リキュール／主なるねこかわの御名において にゃーん twitter.com/search?q=%E6%9… すきえんてぃあ@書け @cicada3301_kig 歳をとった女性声優が若作りして出す声、独特のダミ声のような老化の特徴も...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[20年以上ネットに文章を書き続けた上で文章術の本をたくさん読んで分かった「文章を書く方法」 - karaage. [からあげ]]]></title>
+        <id>https://karaage.hatenadiary.jp/entry/2021/07/14/073000</id>
+        <link href="https://karaage.hatenadiary.jp/entry/2021/07/14/073000"/>
+        <updated>2021-07-13T22:30:13.000Z</updated>
+        <summary type="html"><![CDATA[文章を書く方法 あくまで、「良い文章を書く方法」でも「文章を書く極意」でもなく「（普通の）文章を（普通に）書く方法」です。 20年以上ネットに文章を書いたりしているうちに、いつのまにか商業誌に数十本寄稿したり、書籍も数冊出したりしていました。あんまり意識していなかったのですが、ひょっとしたら自分はあ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[バラク・オバマがリストアップした「今夏に読むべき11冊の課題図書」 | 2021年に出版された話題の新作をまとめてチェック | クーリエ・ジャポン]]></title>
         <id>https://courrier.jp/news/archives/253173/</id>
         <link href="https://courrier.jp/news/archives/253173/"/>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[龍安寺の石庭と秘密]]></title>
-        <id>https://anond.hatelabo.jp/20210714035141</id>
-        <link href="https://anond.hatelabo.jp/20210714035141"/>
-        <updated>2021-07-13T19:13:29.000Z</updated>
-        <summary type="html"><![CDATA[京都龍安寺の石庭というと、石が15個配置されているのにどの角度から見てもどれか一つは見えない石がある、ということで有名な庭だ。 この庭は、人生において大切なことを教えてくれているような気がしてならない。 ものごとは角度を変えて見てみることが大事であるというような言葉は誰しも聞いたことがあるような教訓...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[オカンは嗅覚が異常によいが「タンパク質の腐った匂い。家の中じゃない。外から」と言った数日後に近所で殺人遺体が発見された - Togetter]]></title>
         <id>https://togetter.com/li/1744553</id>
         <link href="https://togetter.com/li/1744553"/>
@@ -221,16 +231,6 @@
         <link href="https://www.oricon.co.jp/news/2200161/full/"/>
         <updated>2021-07-13T15:51:11.000Z</updated>
         <summary type="html"><![CDATA[テレビアニメ化もされた人気漫画『絶対可憐チルドレン』（略：絶チル　作者：椎名高志）が、14日発売の連載誌『週刊少年サンデー』（小学館）33号で最終回を迎えた。2005年の連載スタートから、約16年の歴史に幕を下ろした。（※2004年に短期連載されている） 【写真】その他の写真を見る 同作は、増え続けるエスパーが軍...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン接種混乱　河野氏「供給追いつかなかった」不手際認め陳謝　自治体「はしご外された」と批判：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/116505</id>
-        <link href="https://www.tokyo-np.co.jp/article/116505"/>
-        <updated>2021-07-13T13:40:57.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスのワクチン接種を巡る混乱で、河野太郎行政改革担当相が１３日の記者会見で自らの不手際を認めた。自治体で相次ぐ接種予約の停止を巡り「もう少し早く供給量を示し予約（ペース）を落としてもらう必要があった」と語り、自治体の接種加速が予想を上回っていたことを認め、陳謝した。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

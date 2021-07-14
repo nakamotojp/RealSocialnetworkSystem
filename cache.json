@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/15/news062.html",
+          "author": null,
+          "description": "Twitterが日本でも昨年11月から提供しているInstagramの「ストーリーズ」に似た「Fleet」を8月3日に終了する。提供の目的は、あまりツイートしない人に投稿しやすい手段を提供することだったが、思ったような効果がなかったためとしている。 米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/15/news062.html",
+          "publishedOn": "2021-07-14T22:02:33.000Z",
+          "wordCount": 138,
+          "title": "Twitter、24時間で投稿が消える「Fleet」を8月3日に終了へ - ITmedia NEWS"
+        },
+        {
           "id": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
           "author": null,
           "description": "We built Fleets as a lower-pressure, ephemeral way for people to share their fleeting thoughts. We hoped Fleets would help more people feel comfortable joining the conversation on Twitter. But, in the time since we introduced Fleets to everyone, we haven’t seen an increase in the number of new pe...",
@@ -20,8 +29,26 @@
           "description": "オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 2021年7月15日 0:55 開会式と閉会式ともにショーディレクターを小林賢太郎、音楽監督を田中知之（FPM）、音楽監督アシスタントをナカムラヒロシ（i-dep、Sotte Bosse）、舞台美術を種田陽平、ライターを放送作家の樋口卓治...",
           "link": "https://natalie.mu/music/news/436905",
           "publishedOn": "2021-07-14T16:00:46.000Z",
-          "wordCount": 407,
+          "wordCount": 408,
           "title": "オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 - 音楽ナタリー"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1338124.html",
+          "author": null,
+          "description": "Microsoftは14日(米国太平洋時間、日本時間7月15日未明)、販売パートナーなどを対象にしたカンファレンス「Inspire 2021」に先だって報道発表を行ない、SaaS(Software as a Service)型の仮想デスクトップとなる「Windows 365」を発表した。同社はAzure Virtual Desktop(AVD)と呼ばれるクラウドベースの仮想デスクトップサービスを提供しているが、AVDが従量制課金でIaaS(Infrastructure as a Service)で青天井の料金であるのに対して、Windows 365では月額固定料金で使えるのが違いとなる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1338124.html",
+          "publishedOn": "2021-07-14T15:22:31.000Z",
+          "wordCount": 188,
+          "title": "Microsoft、月額制クラウドPC「Windows 365」を8月提供開始。Windows 11にも対応 - PC Watch"
+        },
+        {
+          "id": "https://amamako.hateblo.jp/entry/2021/07/14/224731",
+          "author": null,
+          "description": "swashweb.net TLでは結構絶賛されていて、「真のフェミニズムってこういうことだよな」みたいなことを書かれている上記の声明文。 ただ、どうも僕は読んでいて納得がいかないんですね。 いや、良いこと書いてあるとは思うんですよ？「すべての人々が解放されるまで私たちは戦う」とか、「私たち全員が自由になるまで、私...",
+          "link": "https://amamako.hateblo.jp/entry/2021/07/14/224731",
+          "publishedOn": "2021-07-14T15:06:10.000Z",
+          "wordCount": 154,
+          "title": "「フェミニスト原則」だけでどうにもならないから今の混沌があるんじゃないの - あままこのブログ"
         },
         {
           "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html",
@@ -56,7 +83,7 @@
           "description": "酒停止「広告扱いで留意を」　西村担当相、メディアにも圧力？ 2021年07月14日20時20分 衆院内閣委員会の閉会中審査で質問を聞く西村康稔経済再生担当相＝１４日午前、国会内 西村康稔経済再生担当相は１４日の衆院内閣委員会で、酒類提供停止の要請に応じない飲食店の広告について、各媒体に何らかの対応を促すことを検...",
           "link": "https://www.jiji.com/jc/article?k=2021071401159&g=pol",
           "publishedOn": "2021-07-14T11:48:03.000Z",
-          "wordCount": 354,
+          "wordCount": 355,
           "title": "酒停止「広告扱いで留意を」　西村担当相、メディアにも圧力？：時事ドットコム"
         },
         {
@@ -74,7 +101,7 @@
           "description": "今いる有名人は以下の７パターンばかり ・勘違いした河原乞食（芸人）のなれの果て ・アニメ絵で着飾ったキャバ嬢/ホスト ・金持った途端にろくろを回しだした成金 ・アフィで稼ぐために虚勢を張り続けるメンタリストもどき ・ヤクザや半グレの広告塔 ・スポーツが上手かっただけで人生わかった気になってる脳筋 ・動画...",
           "link": "https://anond.hatelabo.jp/20210714200902",
           "publishedOn": "2021-07-14T11:14:51.000Z",
-          "wordCount": 127,
+          "wordCount": 154,
           "title": "ひろゆきが人気なのは他の大人がひろゆきよりダサいからだよ"
         },
         {
@@ -101,7 +128,7 @@
           "description": "大貫剛 @ohnuki_tsuyoshi 一部の人が「新型コロナワクチンは治験が終わっていない」と言ってて、実際にアメリカの政府サイトとか見ると治験期間が2023年までとかに見える問題、ようやく理解できた。 販売までに必要な「治験」と、販売後に追跡調査する「市販後臨床試験」が、どちらも英語では「clinical trial」なんだ。...",
           "link": "https://togetter.com/li/1744892",
           "publishedOn": "2021-07-14T09:50:40.000Z",
-          "wordCount": 1111,
+          "wordCount": 1168,
           "title": "一部の人の言う「新型コロナワクチンは治験が終わっていない」という意見がなぜ発生するのか？という\"ことば\"の話 - Togetter"
         },
         {
@@ -119,7 +146,7 @@
           "description": "東京オリンピックの開会式について、名誉総裁である天皇陛下がお一人で出席して開会宣言を行う方向で最終調整が行われていることが分かりました。 関係者によりますと、今月２３日に行われる東京オリンピックの開会式には名誉総裁である天皇陛下お一人が出席して開会宣言を行い、皇后さまは出席されない方向で最終調整し...",
           "link": "https://news.tbs.co.jp/newseye/tbs_newseye4314705.html",
           "publishedOn": "2021-07-14T09:08:49.000Z",
-          "wordCount": 1271,
+          "wordCount": 1283,
           "title": "【独自】東京五輪の開会式 天皇陛下お一人で出席で調整｜TBS NEWS"
         },
         {
@@ -132,21 +159,12 @@
           "title": "「信号機倒壊原因は『犬の尿』by科捜研」の記事はバカニュースの類か"
         },
         {
-          "id": "https://www3.nhk.or.jp/news/html/20210714/k10013139171000.html",
-          "author": null,
-          "description": "大阪府は14日、府内で新たに349人が新型コロナウイルスに感染したことが確認されたと発表しました。 300人を上回るのは5月27日以来で、先週水曜日、7日（151人）の2倍以上となりました。 これで、府内の感染者の累計は10万5528人となりました。 また、新たに2人の死亡が発表され、府内で亡くなった人は2698人になりました。",
-          "link": "https://www3.nhk.or.jp/news/html/20210714/k10013139171000.html",
-          "publishedOn": "2021-07-14T08:14:04.000Z",
-          "wordCount": 28,
-          "title": "大阪府 コロナ 2人死亡 349人感染 感染者数は先週水曜の2倍超 | 新型コロナ 国内感染者数 | NHKニュース"
-        },
-        {
           "id": "https://mainichi.jp/articles/20210714/k00/00m/010/155000c",
           "author": null,
           "description": "会談前に言葉を交わすIOCのトーマス・バッハ会長（左）と菅義偉首相＝首相官邸で2021年7月14日午後3時20分、竹内幹撮影 来日している国際オリンピック委員会（IOC）のトーマス・バッハ会長は14日、首相官邸を訪れ、菅義偉首相と会談した。23日に東京オリンピックの開幕を控え、「我々が日本国内にリスクを持ち込むことは...",
           "link": "https://mainichi.jp/articles/20210714/k00/00m/010/155000c",
           "publishedOn": "2021-07-14T07:50:52.000Z",
-          "wordCount": 606,
+          "wordCount": 609,
           "title": "バッハ会長「日本にリスク持ち込むことは絶対ない」　首相と会談 | 毎日新聞"
         },
         {
@@ -159,22 +177,22 @@
           "title": "東京都 新型コロナ 4人死亡1149人感染 5月の第4波ピーク上回る | 新型コロナ 国内感染者数 | NHKニュース"
         },
         {
-          "id": "https://twitter.com/aiko33151709/status/1414956182985494528",
-          "author": null,
-          "description": "テレビ。大谷、大谷のバカ騒ぎ！コロナで苦悩する人達への配慮もない。大谷選手並の活躍なら韓国台湾出身者でもざらにいるし大リーグは彼だけじゃない。日常的に見るCNNに大谷は全く出てこない。こんな調子で五輪報道も大騒ぎするんだろう。だか… https://t.co/OIJDQQMoWI",
-          "link": "https://twitter.com/aiko33151709/status/1414956182985494528",
-          "publishedOn": "2021-07-14T07:36:24.000Z",
-          "wordCount": 196,
-          "title": "澤田愛子 on Twitter: \"テレビ。大谷、大谷のバカ騒ぎ！コロナで苦悩する人達への配慮もない。大谷選手並の活躍なら韓国台湾出身者でもざらにいるし大リーグは彼だけじゃない。日常的に見るCNNに大谷は全く出てこない。こんな調子で五輪報道も大騒ぎするんだろう。だか… https://t.co/OIJDQQMoWI\""
-        },
-        {
           "id": "https://bunshun.jp/articles/-/47100",
           "author": null,
           "description": "自身が保有していたIT企業株を巡り、売却益にかかる所得税を申告していなかったことが明るみに出た平井卓也デジタル相（63）。問題のIT企業株を購入した時期は内閣府政務官を務めており、政務三役在任中の株取引自粛を求める大臣規範に違反していたことが、「週刊文春」の取材でわかった。 平井氏が保有していたのは、IT...",
           "link": "https://bunshun.jp/articles/-/47100",
           "publishedOn": "2021-07-14T07:36:09.000Z",
-          "wordCount": 186,
+          "wordCount": 179,
           "title": "平井デジタル相が大臣規範違反　IT政務官時代に親密IT企業株を購入 | 文春オンライン"
+        },
+        {
+          "id": "https://togetter.com/li/1744846",
+          "author": null,
+          "description": "Swash @swash_jp フェミニストグループ、女性の人権団体、LGBTIQ＋やトランス主導の団体など18団体による共同声明、 「フェミニスト原則の再確認を呼びかける」 が発表されました。 共同声明の翻訳を掲載しました。 swashweb.net/2021/07/12/pos… 広く共有のご協力をお願いします。 個人でも団体でも署名できます。 2021...",
+          "link": "https://togetter.com/li/1744846",
+          "publishedOn": "2021-07-14T07:33:58.000Z",
+          "wordCount": 926,
+          "title": "ツイフェミ「フェミニズムとツイフェミって、違ったの…？」 - Togetter"
         },
         {
           "id": "https://anond.hatelabo.jp/20210714123642",
@@ -191,7 +209,7 @@
           "description": "すきえんてぃあ@書け @cicada3301_kig 着ぐるみ生命体／トランスヒューマニスト／コピミズム／言語／謎エスニック料理／リキュール／主なるねこかわの御名において にゃーん twitter.com/search?q=%E6%9… すきえんてぃあ@書け @cicada3301_kig 歳をとった女性声優が若作りして出す声、独特のダミ声のような老化の特徴も...",
           "link": "https://togetter.com/li/1744860",
           "publishedOn": "2021-07-14T06:27:51.000Z",
-          "wordCount": 1224,
+          "wordCount": 1237,
           "title": "発音の違いによって声優が大体何歳くらいかが分かってしまう『若者と年寄りではもはや話してる言語が違う』 - Togetter"
         },
         {
@@ -200,7 +218,7 @@
           "description": "自民党岸田派の政治資金パーティーで所属議員らと衆院選の必勝を期した岸田文雄前政調会長（中央）＝東京都内のホテルで2021年7月8日、小田中大撮影 衆参両院の事務局は、14日までに自民党岸田派の秘書5人が新型コロナウイルスに感染したと発表した。両院事務局によると、感染したのは岸田文雄前政調会長の秘書のほか、...",
           "link": "https://mainichi.jp/articles/20210714/k00/00m/010/116000c",
           "publishedOn": "2021-07-14T05:59:43.000Z",
-          "wordCount": 532,
+          "wordCount": 535,
           "title": "自民党岸田派秘書5人が新型コロナ感染　8日に政治資金パーティー | 毎日新聞"
         },
         {
@@ -218,7 +236,7 @@
           "description": "先週、東京・板橋区の踏切で３１歳の女性が電車にはねられ死亡しました。その後の取材で事故の原因が女性の“ながらスマホ”とみられることが分かりました。 今月８日の午後７時半頃、東武東上線「東武練馬駅」の脇の踏切で、近くに住む３１歳の女性が電車にはねられ死亡しました。はねられた際、女性は踏切の中で遮断機の...",
           "link": "https://news.yahoo.co.jp/articles/f08cdb20c28a05ab70f12931caa31a62291d5f3c",
           "publishedOn": "2021-07-14T04:46:18.000Z",
-          "wordCount": 73,
+          "wordCount": 74,
           "title": "「ながらスマホ」が原因か、踏切で電車にはねられ３１歳女性死亡（TBS系（JNN）） - Yahoo!ニュース"
         },
         {
@@ -227,7 +245,7 @@
           "description": "SWASHとはセックスワーカーの活動団体です。全世界にネットワークがあり日本では要 友紀子さんなどが主力となって活動されています リンク SWASH 共同声明「フェミニスト原則の再確認を呼びかける」 フェミニストグループや、女性の人権団体、LGBTIQ+とトランス主導の団体による共同声明、「フェミニスト原則の再確認を...",
           "link": "https://togetter.com/li/1744776",
           "publishedOn": "2021-07-14T02:40:03.000Z",
-          "wordCount": 1317,
+          "wordCount": 1322,
           "title": "「これがフェミニズムだというなら、私はフェミニストではない」| 共同声明「フェミニスト原則の再確認を呼びかける」に反対するフェミニストさんたちの意見まとめ - Togetter"
         },
         {
@@ -236,26 +254,8 @@
           "description": "リンク www.ncd-ri.co.jp イメージシステム | カラー戦略の専門家 | NCD-WEB | 色彩心理・生活者研究・トレンド分析の日本カラーデザイン研究所 日本カラーデザイン研究所はオリジナルのカラーシステム「HUE&TONEシステム」やイメージ分析システム「イメージスケール」を開発、発展させてきました。 62 users かたおか＠...",
           "link": "https://togetter.com/li/1744709",
           "publishedOn": "2021-07-14T00:04:19.000Z",
-          "wordCount": 580,
+          "wordCount": 593,
           "title": "配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter"
-        },
-        {
-          "id": "https://courrier.jp/news/archives/253173/",
-          "author": null,
-          "description": "『夜のなかでは血すらも黒い』（未邦訳） デイビッド・ディオプ フランス人作家による小説。英語に翻訳され、イギリスで出版された最も優れたフィクション作品に贈られる「国際ブッカー賞」受賞作。第一次世界大戦でフランス軍としてドイツと戦ったセネガル人の兵士、アルファとマデンバは助け合いながら戦い続けるが、...",
-          "link": "https://courrier.jp/news/archives/253173/",
-          "publishedOn": "2021-07-13T22:19:47.000Z",
-          "wordCount": 174,
-          "title": "バラク・オバマがリストアップした「今夏に読むべき11冊の課題図書」 | 2021年に出版された話題の新作をまとめてチェック | クーリエ・ジャポン"
-        },
-        {
-          "id": "https://twitter.com/emoyino/status/1414757418165182464",
-          "author": null,
-          "description": "説明しよう！貴方がお家を5,000万円で売りに出してたところに、5,000万円で買うっていう近所のアパートに住んでる家族と、4,900万円で買うっていう不動産業者が現れたとする。 https://t.co/TlnqyVKr9X",
-          "link": "https://twitter.com/emoyino/status/1414757418165182464",
-          "publishedOn": "2021-07-13T20:20:37.000Z",
-          "wordCount": 196,
-          "title": "全宅ツイのグル on Twitter: \"説明しよう！貴方がお家を5,000万円で売りに出してたところに、5,000万円で買うっていう近所のアパートに住んでる家族と、4,900万円で買うっていう不動産業者が現れたとする。 https://t.co/TlnqyVKr9X\""
         },
         {
           "id": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7",
@@ -263,7 +263,7 @@
           "description": "役立つYouTubeのチャンネルまとめ 物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する 取っ掛かり、ハマりがち、コツみたいな物が拾える。数学がメイン。随時更新していくつもり 背景 YouTubeは視聴する登録チャンネルの数が増えると...",
           "link": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7",
           "publishedOn": "2021-07-10T13:15:10.000Z",
-          "wordCount": 416,
+          "wordCount": 413,
           "title": "技術ようつべチャンネル集 - Qiita"
         },
         {

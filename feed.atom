@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T08:13:37.889Z</id>
+    <id>urn:2021-07-15T09:12:52.435Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T08:13:37.889Z</updated>
+    <updated>2021-07-15T09:12:52.435Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210715/k10013140951000.html"/>
         <updated>2021-07-15T07:49:04.000Z</updated>
         <summary type="html"><![CDATA[東京都は15日、都内で新たに1308人が新型コロナウイルスに感染していることを確認したと発表しました。 都内で1日に1000人を超えるのは2日連続です。 1週間前の木曜日より412人多くなりました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪開会式の演出に「コーネリアス」小山田圭吾　案の定蒸し返された過去の〝いじめ自慢〟 | 東スポのニュースに関するニュースを掲載]]></title>
+        <id>https://www.tokyo-sports.co.jp/entame/news/3422757/</id>
+        <link href="https://www.tokyo-sports.co.jp/entame/news/3422757/"/>
+        <updated>2021-07-15T05:08:58.000Z</updated>
+        <summary type="html"><![CDATA[開会式が行われる国立競技場 「東京２０２０オリンピック・パラリンピック競技大会」開会式および閉会式のクリエイティブチームのメンバーが発表された。 開会式と閉会式ともにショーディレクターを小林賢太郎、音楽監督をＦＰＭの田中知之が務め、開会式は「コーネリアス」小山田圭吾（５２）らが楽曲を担当することに...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[おれ、死ぬまで練馬がいいや。老若男女が「ちょうどよさ」に溺れる街 - SUUMOタウン]]></title>
+        <id>https://suumo.jp/town/entry/nerima-yasuda/</id>
+        <link href="https://suumo.jp/town/entry/nerima-yasuda/"/>
+        <updated>2021-07-15T02:00:12.000Z</updated>
+        <summary type="html"><![CDATA[著： 安田理央 西武池袋線、都営地下鉄大江戸線を擁する練馬駅 埼玉県浦和市（現・さいたま市）育ちの筆者にとって、練馬区といえば、子どものころ、親に連れて行ってもらった豊島園遊園地（としまえん、2020年8月に閉館）だった。 としまえん以外のかかわりができたのは、高校時代。当時組んでいたバンドのメンバーが江...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[さよなら、フリート]]></title>
         <id>https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets</id>
         <link href="https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets"/>
@@ -171,16 +191,6 @@
         <link href="https://anond.hatelabo.jp/20210715063023"/>
         <updated>2021-07-14T21:40:27.000Z</updated>
         <summary type="html"><![CDATA[このブコメ群にとても象徴的だが、 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20210714123642 お前らは若者を馬鹿にしている。それを隠そうともしない。我々でなくひろゆきを支持するような者は愚かであるというメッセージを意識的にでも無意識的にでも発している。 少なくともひろゆきは10代、20代に対して“敬...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二年前話題となった「令和生まれの若者は泣くだけで何も出来ない問題」→最近は言葉で抗議したり逃げたりする若者が出現しつつある模様 - Togetter]]></title>
-        <id>https://togetter.com/li/1745004</id>
-        <link href="https://togetter.com/li/1745004"/>
-        <updated>2021-07-14T20:12:53.000Z</updated>
-        <summary type="html"><![CDATA[if @if_itself 「令和生まれの若者は不愉快なことがあると泣くだけで自分で何も出来ない」というネタが2年前に流行りましたが、最近は令和生まれでも、納得いかない時に言葉で抗議したり危険を感じたら走って逃げたりする若者が出現しつつあるようで、時代の流れは早い。 2021-07-13 23:57:00 if @if_itself 令和生まれ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,7 +276,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[セックスワーク差別は無知からやってくる]]></title>
+        <title type="html"><![CDATA[セックスワーク差別は無知からやってくる [追記あり]]]></title>
         <id>https://anond.hatelabo.jp/20210714185723</id>
         <link href="https://anond.hatelabo.jp/20210714185723"/>
         <updated>2021-07-14T10:03:04.000Z</updated>
@@ -291,16 +301,6 @@
         <link href="https://twitter.com/nitiyoutwitt/status/1415181759197503492"/>
         <updated>2021-07-14T07:26:16.000Z</updated>
         <summary type="html"><![CDATA[【スクープ】 感染対策で入国後14日間は公共交通機関を使えない五輪海外メディア。しかし菅政権は、普通のタクシーを使わせていました 編集部の入手資料には「ハイヤーヘンシン」という言葉が。五輪関係者の乗車時だけタクシーは専用ハイヤー（… https://t.co/gAdvcRr88s]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術ようつべチャンネル集 - Qiita]]></title>
-        <id>https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7</id>
-        <link href="https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7"/>
-        <updated>2021-07-10T13:15:10.000Z</updated>
-        <summary type="html"><![CDATA[役立つYouTubeのチャンネルまとめ 物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する。 取っ掛かり、ハマりがち、コツみたいな物が拾える。数学がメイン。随時更新していくつもり。 背景 YouTubeは視聴する登録チャンネルの数が増え...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

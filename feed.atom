@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T02:26:09.939Z</id>
+    <id>urn:2021-07-15T03:13:42.496Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T02:26:09.939Z</updated>
+    <updated>2021-07-15T03:13:42.496Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[何故ひろゆきが支持されているか理解できない老害共へ]]></title>
+        <id>https://anond.hatelabo.jp/20210715063023</id>
+        <link href="https://anond.hatelabo.jp/20210715063023"/>
+        <updated>2021-07-14T21:40:27.000Z</updated>
+        <summary type="html"><![CDATA[このブコメ群にとても象徴的だが、 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20210714123642 お前らは若者を馬鹿にしている。それを隠そうともしない。我々でなくひろゆきを支持するような者は愚かであるというメッセージを意識的にでも無意識的にでも発している。 少なくともひろゆきは10代、20代に対して“敬...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[上機嫌一転「検査体制機能している」バッハ会長“違反”指摘に顔色こわばる - 東京オリンピック2020 : 日刊スポーツ]]></title>
         <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html</id>
         <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html"/>
@@ -91,6 +101,16 @@
         <link href="https://natalie.mu/music/news/436905"/>
         <updated>2021-07-14T16:00:46.000Z</updated>
         <summary type="html"><![CDATA[オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 2021年7月15日 0:55 開会式と閉会式ともにショーディレクターを小林賢太郎、音楽監督を田中知之（FPM）、音楽監督アシスタントをナカムラヒロシ（i-dep、Sotte Bosse）、舞台美術を種田陽平、ライターを放送作家の樋口卓治...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国立大学の購買のアイスコーナーに一箇所だけ霜が深刻におりている→その箇所にあるアイスに経済的困窮を感じられる - Togetter]]></title>
+        <id>https://togetter.com/li/1744958</id>
+        <link href="https://togetter.com/li/1744958"/>
+        <updated>2021-07-14T15:59:10.000Z</updated>
+        <summary type="html"><![CDATA[こうたのチャンネルー@鏡音さんに言われたので太鼓十段取りたい.. ‏‎‏‎تابعني_أتابعك @koutanotyannner @3O1OLbpbWPDEjgO @HokusuiD という事は極論を言えば大学入った時から冷やされ続けたアイスを、 4年後に卒業記念に食うことが出来るのか...！？！？ 2021-07-14 20:52:52]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ会長「日本にリスク持ち込むことは絶対ない」　首相と会談 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210714/k00/00m/010/155000c</id>
-        <link href="https://mainichi.jp/articles/20210714/k00/00m/010/155000c"/>
-        <updated>2021-07-14T07:50:52.000Z</updated>
-        <summary type="html"><![CDATA[会談前に言葉を交わすIOCのトーマス・バッハ会長（左）と菅義偉首相＝首相官邸で2021年7月14日午後3時20分、竹内幹撮影 来日している国際オリンピック委員会（IOC）のトーマス・バッハ会長は14日、首相官邸を訪れ、菅義偉首相と会談した。23日に東京オリンピックの開幕を控え、「我々が日本国内にリスクを持ち込むことは...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[平井デジタル相が大臣規範違反　IT政務官時代に親密IT企業株を購入 | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/47100</id>
         <link href="https://bunshun.jp/articles/-/47100"/>
@@ -281,16 +291,6 @@
         <link href="https://twitter.com/nitiyoutwitt/status/1415181759197503492"/>
         <updated>2021-07-14T07:26:16.000Z</updated>
         <summary type="html"><![CDATA[【スクープ】 感染対策で入国後14日間は公共交通機関を使えない五輪海外メディア。しかし菅政権は、普通のタクシーを使わせていました 編集部の入手資料には「ハイヤーヘンシン」という言葉が。五輪関係者の乗車時だけタクシーは専用ハイヤー（… https://t.co/gAdvcRr88s]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter]]></title>
-        <id>https://togetter.com/li/1744709</id>
-        <link href="https://togetter.com/li/1744709"/>
-        <updated>2021-07-14T00:04:19.000Z</updated>
-        <summary type="html"><![CDATA[リンク www.ncd-ri.co.jp イメージシステム | カラー戦略の専門家 | NCD-WEB | 色彩心理・生活者研究・トレンド分析の日本カラーデザイン研究所 日本カラーデザイン研究所はオリジナルのカラーシステム「HUE&TONEシステム」やイメージ分析システム「イメージスケール」を開発、発展させてきました。 62 users かたおか＠...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T01:56:36.365Z</id>
+    <id>urn:2021-07-15T02:26:09.939Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T01:56:36.365Z</updated>
+    <updated>2021-07-15T02:26:09.939Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2107/15/news062.html"/>
         <updated>2021-07-14T22:02:33.000Z</updated>
         <summary type="html"><![CDATA[Twitterが日本でも昨年11月から提供しているInstagramの「ストーリーズ」に似た「Fleet」を8月3日に終了する。提供の目的は、あまりツイートしない人に投稿しやすい手段を提供することだったが、思ったような効果がなかったためとしている。 米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尾身氏、東京でコロナ新規感染1000人超えは「想定内」　感染加速を専門家ら警告：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/116732</id>
+        <link href="https://www.tokyo-np.co.jp/article/116732"/>
+        <updated>2021-07-14T21:40:59.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染状況を分析し、厚生労働省に助言する専門家組織「アドバイザリーボード」は１４日、新規感染者数が１０００人を超えた東京都について「感染拡大の速度はさらに加速する」との分析をまとめた。１２日に発令された緊急事態宣言の効果が出るのは早くても２週間後とされ、５０代以下を中心に入院者...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://ponjpi.hatenablog.com/entry/2021/07/14/203415"/>
         <updated>2021-07-14T12:11:33.000Z</updated>
         <summary type="html"><![CDATA[swashweb.net 共同声明「フェミニスト原則の再確認を呼びかける」を読みました。すっごいいいことが書いてある。賛同、超賛同。うんうん、で？女はどこへ行った。という話。 トランスジェンダー、インターセックス、そしてノンバイナリーの人々が他の多くの人々と共にあるための居場所を強化し、守ります。 うんうん、わ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒停止「広告扱いで留意を」　西村担当相、メディアにも圧力？：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021071401159&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021071401159&amp;g=pol"/>
-        <updated>2021-07-14T11:48:03.000Z</updated>
-        <summary type="html"><![CDATA[酒停止「広告扱いで留意を」　西村担当相、メディアにも圧力？ 2021年07月14日20時20分 衆院内閣委員会の閉会中審査で質問を聞く西村康稔経済再生担当相＝１４日午前、国会内 西村康稔経済再生担当相は１４日の衆院内閣委員会で、酒類提供停止の要請に応じない飲食店の広告について、各媒体に何らかの対応を促すことを検...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

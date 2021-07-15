@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T07:11:04.695Z</id>
+    <id>urn:2021-07-15T08:13:37.889Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T07:11:04.695Z</updated>
+    <updated>2021-07-15T08:13:37.889Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 新たに1308人感染確認 2日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210715/k10013140951000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210715/k10013140951000.html"/>
+        <updated>2021-07-15T07:49:04.000Z</updated>
+        <summary type="html"><![CDATA[東京都は15日、都内で新たに1308人が新型コロナウイルスに感染していることを確認したと発表しました。 都内で1日に1000人を超えるのは2日連続です。 1週間前の木曜日より412人多くなりました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「セックスワーク差別は無知からやってくる」というけれど…]]></title>
         <id>https://anond.hatelabo.jp/20210715130237</id>
         <link href="https://anond.hatelabo.jp/20210715130237"/>
         <updated>2021-07-15T04:08:23.000Z</updated>
         <summary type="html"><![CDATA[セックスワーク擁護派だけど、増田のロジックはだいぶマズいというか突っ込まれどころが多いので、もう少し理論武装してください。通常の賃労働とは違うセックスワーク固有の困難というのは確かにあって、セックスワーク当事者たちも、そのことはきちんと問題化しているので。 安全確保そもそもセックスワークというのは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪の不自由展会場に液体入り袋　サリンと記載も ｜ 共同通信]]></title>
+        <id>https://nordot.app/788243206769344512</id>
+        <link href="https://nordot.app/788243206769344512"/>
+        <updated>2021-07-15T03:43:05.000Z</updated>
+        <summary type="html"><![CDATA[「表現の不自由展かんさい」（16～18日）の予定会場の大阪府立労働センター「エル・おおさか」（大阪市）に14日、「サリン」と書かれた文書と液体入りの袋が届いていたことが15日、センターの指定管理者への取材で分かった。大阪府警は、危険な液体ではなく水の可能性が高いとみて調べている。 指定管理者によると、14日...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -56,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小山田圭吾さん、おめでとう！]]></title>
+        <id>https://anond.hatelabo.jp/20210715112920</id>
+        <link href="https://anond.hatelabo.jp/20210715112920"/>
+        <updated>2021-07-15T02:36:09.000Z</updated>
+        <summary type="html"><![CDATA[オリパラ開会式の作曲メンバーに選ばれたそうですね。 おめでとうございます！ https://koritsumuen.hatenablog.com/entry/20061115/p1 他だったら特殊学校にいるような子が普通クラスにいたし。私立だから変わってて。僕、小学校の時からダウン症って言葉、知ってたもん。学校の裏に養護学校みたいなのがあるんですよ。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[温水便座が院内で多剤耐性菌を拡散か｜最新医療ニュース｜時事メディカル｜時事通信の医療ニュースサイト]]></title>
         <id>https://medical.jiji.com/news/45151</id>
         <link href="https://medical.jiji.com/news/45151"/>
@@ -71,16 +101,6 @@
         <link href="https://www.tamahome.jp/company/ir/upload_file/m000-/210715.pdf?e=7780"/>
         <updated>2021-07-15T02:04:41.000Z</updated>
         <summary type="html"><![CDATA[NEWS RELEASE 1 2021 年 7 月 15 日 タマホーム株式会社 東京都港区高輪 3-22-9 平素より、当社事業活動に対する温かいご支援をいただきまして、誠にありがとうございます。 2021 年 7 月頃より、インターネット上において、当社の新型コロナワクチン対応に関する誤った内容 を記載した、匿名での書き込みが Twitter や...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おれ、死ぬまで練馬がいいや。老若男女が「ちょうどよさ」に溺れる街 - SUUMOタウン]]></title>
-        <id>https://suumo.jp/town/entry/nerima-yasuda/</id>
-        <link href="https://suumo.jp/town/entry/nerima-yasuda/"/>
-        <updated>2021-07-15T02:00:12.000Z</updated>
-        <summary type="html"><![CDATA[著： 安田理央 西武池袋線、都営地下鉄大江戸線を擁する練馬駅 埼玉県浦和市（現・さいたま市）育ちの筆者にとって、練馬区といえば、子どものころ、親に連れて行ってもらった豊島園遊園地（としまえん、2020年8月に閉館）だった。 としまえん以外のかかわりができたのは、高校時代。当時組んでいたバンドのメンバーが江...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「フェミニスト原則」だけでどうにもならないから今の混沌があるんじゃないの - あままこのブログ]]></title>
-        <id>https://amamako.hateblo.jp/entry/2021/07/14/224731</id>
-        <link href="https://amamako.hateblo.jp/entry/2021/07/14/224731"/>
-        <updated>2021-07-14T15:06:10.000Z</updated>
-        <summary type="html"><![CDATA[swashweb.net TLでは結構絶賛されていて、「真のフェミニズムってこういうことだよな」みたいなことを書かれている上記の声明文。 ただ、どうも僕は読んでいて納得がいかないんですね。 いや、良いこと書いてあるとは思うんですよ？「すべての人々が解放されるまで私たちは戦う」とか、「私たち全員が自由になるまで、私...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに － Publickey]]></title>
         <id>https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html</id>
         <link href="https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html"/>
@@ -220,7 +230,7 @@
         <id>https://mdpr.jp/news/detail/2672209</id>
         <link href="https://mdpr.jp/news/detail/2672209"/>
         <updated>2021-07-14T13:32:31.000Z</updated>
-        <summary type="html"><![CDATA[YouTubeに動画をあげました！ 【拡散希望】被害者大量…おっさんを騙して3億円稼いだ「頂き女子」の悪質すぎる手口と犯罪行為を公開 https://t.co/kyxR8YrpzB @YouTubeより — コレコレ@8/12誕生日😷 (@korekore19) July 13, 2021 コレコレ「頂き女子りり」に注意喚起「頂き女子」とはSNS上で出会った男性に接触し、嘘を付...]]></summary>
+        <summary type="html"><![CDATA[コレコレ「頂き女子・りり」に注意喚起「頂き女子」とはSNS上で出会った男性に接触し、嘘を付くことで金を「頂く」女性のこと。今回は、その「頂き女子」を作り、詐欺で金銭を騙し取る手法を情報商材として2000人以上に販売しているという女性・りり（23歳）がコレコレのリスナーであったことから動画への出演に至ったと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://www.sankei.com/article/20210714-SM6SB6CCAFMX7JCBYRVESEAN64/"/>
         <updated>2021-07-14T12:17:11.000Z</updated>
         <summary type="html"><![CDATA[「なぜ今なのか」「パートの勤務を減らすしかない」－。中央最低賃金審議会の小委員会で１４日、最低賃金の大幅な引き上げが示されたことに対し、関西の中小企業からは悲鳴があがった。コロナ禍の影響がより大きい中小には人件費の増大で経営体力を奪われるとの懸念が強く、今後雇用を抑制する動きが加速しかねない。 酒...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪選手団、急に来日・空港客とタッチ…遮断「不可能」 - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html</id>
-        <link href="https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html"/>
-        <updated>2021-07-14T11:22:53.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック（五輪）の選手団の来日がピークを迎え、空港には連日、数百人単位で選手や関係者が入国している。大会中、新型コロナウイルスの感染拡大防止策として、選手団と一般の人たちとを分離する「バブル方式」を採り入れているが、完全な遮断とはほど遠い。 13日午前、成田空港第1ターミナルの北ウイング。複...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

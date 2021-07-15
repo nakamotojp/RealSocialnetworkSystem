@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T13:18:09.627Z</id>
+    <id>urn:2021-07-15T14:11:00.843Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T13:18:09.627Z</updated>
+    <updated>2021-07-15T14:11:00.843Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【独自】バッハ会長が菅首相に“有観客開催”検討を要望 官邸で｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4315709.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4315709.html"/>
+        <updated>2021-07-15T12:32:06.000Z</updated>
+        <summary type="html"><![CDATA[ＩＯＣ＝国際オリンピック委員会のバッハ会長が１４日、菅総理と会談した際に、コロナの感染状況が改善した際には観客を入れてほしいと要望していたことが明らかになりました。 バッハ会長は、１４日午後に菅総理と会談し、「今回の東京大会はいろいろな意味で歴史的な大会となる」などとして、大会を成功させるため協力...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾さん、過去の「いじめ」告白が拡散　五輪開会式で楽曲担当 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210715/k00/00m/040/254000c</id>
@@ -46,11 +56,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 新たに1308人感染確認 2日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[「喉が渇いた」ツイートにすぐ飲料広告　ニーズ逃さず: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC303JJ0Q1A630C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC303JJ0Q1A630C2000000/"/>
+        <updated>2021-07-15T09:13:11.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら ツイッターで特定のキーワードをつぶやいた人に対して、リアルタイムで広告を配信できるサービス「リアルタイムキーワードターゲティング」の国内提供が始まっている。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 4人死亡 新たに1308人感染 2日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210715/k10013140951000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210715/k10013140951000.html"/>
         <updated>2021-07-15T07:49:04.000Z</updated>
-        <summary type="html"><![CDATA[東京都は15日、都内で新たに1308人が新型コロナウイルスに感染していることを確認したと発表しました。 都内で1日に1000人を超えるのは2日連続です。 東京都は15日、都内で新たに10歳未満から90代までの男女合わせて1308人が新型コロナウイルスに感染していることを確認したと発表しました。 都内では14日、1000人を再び...]]></summary>
+        <summary type="html"><![CDATA[東京都内では15日、新たに1308人が新型コロナウイルスに感染していることが確認され、2日連続で1000人を超えました。1週間前の木曜日からおよそ400人増えていて、感染の急拡大が続いています。また、都は、感染が確認された4人が死亡したことを明らかにしました。 東京都は15日、都内で新たに10歳未満から90代までの男女...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「永久不妊の可能性」「接種者の息や汗から…」立憲・北條智彦氏がワクチンめぐる誤情報拡散→削除]]></title>
+        <id>https://www.buzzfeed.com/jp/yutochiba/rikken-kitajyo-covid-19-vaccine</id>
+        <link href="https://www.buzzfeed.com/jp/yutochiba/rikken-kitajyo-covid-19-vaccine"/>
+        <updated>2021-07-15T07:31:51.000Z</updated>
+        <summary type="html"><![CDATA[だが、「感染予防効果は見込めない」とする北條氏の主張は誤りだ。 新型コロナやワクチンに関する正確な情報発信を推進する日米の専門家によるプロジェクト「こびナビ」は、BuzzFeed Newsの以前のファクトチェックに対し、こう回答している。 「アメリカでは 4000名弱の医療従事者などを対象に毎週PCR検査を実施した結果...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[作品名に人数が入っていると必ず面白い説]]></title>
-        <id>https://anond.hatelabo.jp/20210715001433</id>
-        <link href="https://anond.hatelabo.jp/20210715001433"/>
-        <updated>2021-07-14T22:44:32.000Z</updated>
-        <summary type="html"><![CDATA[・七人の侍 ・十二人の怒れる男 ・オーシャンズ11 ・300（スリーハンドレッド） ・ふたりはプリキュア]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitter、24時間で投稿が消える「Fleet」を8月3日に終了へ - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2107/15/news062.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2107/15/news062.html"/>
@@ -236,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尾身氏、東京でコロナ新規感染1000人超えは「想定内」　感染加速を専門家ら警告：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/116732</id>
-        <link href="https://www.tokyo-np.co.jp/article/116732"/>
-        <updated>2021-07-14T21:40:59.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染状況を分析し、厚生労働省に助言する専門家組織「アドバイザリーボード」は１４日、新規感染者数が１０００人を超えた東京都について「感染拡大の速度はさらに加速する」との分析をまとめた。１２日に発令された緊急事態宣言の効果が出るのは早くても２週間後とされ、５０代以下を中心に入院者...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[何故ひろゆきが支持されているか理解できない老害共へ]]></title>
         <id>https://anond.hatelabo.jp/20210715063023</id>
         <link href="https://anond.hatelabo.jp/20210715063023"/>
         <updated>2021-07-14T21:40:27.000Z</updated>
         <summary type="html"><![CDATA[このブコメ群にとても象徴的だが、 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20210714123642 お前らは若者を馬鹿にしている。それを隠そうともしない。我々でなくひろゆきを支持するような者は愚かであるというメッセージを意識的にでも無意識的にでも発している。 少なくともひろゆきは10代、20代に対して“敬...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上機嫌一転「検査体制機能している」バッハ会長“違反”指摘に顔色こわばる - 東京オリンピック2020 : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html</id>
-        <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html"/>
-        <updated>2021-07-14T18:11:16.000Z</updated>
-        <summary type="html"><![CDATA[国際オリンピック委員会（IOC）トーマス・バッハ会長（67）が14日、官邸を訪れ、菅義偉首相と面会した。バッハ氏の車はパトカーに先導されながらのVIP待遇で官邸入りした。 菅首相からは「すべての参加者が感染対策をはじめ、適切な行動を取ることが大会成功には不可欠。徹底にぜひ努めていただきたい」と、万全なコロナ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

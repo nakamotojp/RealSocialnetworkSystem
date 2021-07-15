@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T17:18:41.764Z</id>
+    <id>urn:2021-07-15T18:14:36.207Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T17:18:41.764Z</updated>
+    <updated>2021-07-15T18:14:36.207Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://www.asahi.com/articles/ASP7H66FVP7HULFA02Z.html"/>
         <updated>2021-07-15T13:02:39.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピックで来日した大会関係者の一部が、一般人との接触を避ける行動制限（バブル方式）を守っていないと指摘されている問題で、菅義偉首相は15日、記者団に「IOC（国際オリンピック委員会）のバッハ会長に強く指摘をした。（バブル方式は）できると思う」と述べた。 首相はこの日、選手団や関係者が多...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪反対派が急にだんまり？　開会式“演出チーム”に「サブカル大物」が集結（SmartFLASH） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/e2e955433813a5151b8e44377294df20205ceb30</id>
+        <link href="https://news.yahoo.co.jp/articles/e2e955433813a5151b8e44377294df20205ceb30"/>
+        <updated>2021-07-15T12:52:35.000Z</updated>
+        <summary type="html"><![CDATA[7月14日、東京オリンピック・パラリンピック競技大会組織委員会は開会式・閉会式のクリエイティブチームメンバーなどを発表した。 おもなメンバーとして、アドバイザーを狂言師の野村萬斎氏、聖火台デザイナーを佐藤オオキ氏が務める。 開会式・閉会式ともにショーディレクターを務めるのは、元「ラーメンズ」の小林賢太...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,6 +196,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自己流の手順書フォーマットを公開してみた | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/non-97-operation-manual/</id>
+        <link href="https://dev.classmethod.jp/articles/non-97-operation-manual/"/>
+        <updated>2021-07-15T04:23:51.000Z</updated>
+        <summary type="html"><![CDATA[手順書フォーマットは千差万別 みなさんは自己流または、組織やプロジェクトで定められた手順書のフォーマットはありますか? 私は自己流の手順書フォーマットがあります。 自己流の手順書フォーマットがあるといっても、かなり扱いがふわふわしているので、備忘やメモの意味合い強めでまとめていきます。 「もっとこうし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「日本語しゃべれねえのか」ムスリム母子に不当聴取「同意なく住所を漏らされた」と訴え。警視庁は回答せず | ハフポスト]]></title>
+        <id>https://www.huffingtonpost.jp/entry/story_jp_60ecfa32e4b022142cf0e410</id>
+        <link href="https://www.huffingtonpost.jp/entry/story_jp_60ecfa32e4b022142cf0e410"/>
+        <updated>2021-07-15T04:13:27.000Z</updated>
+        <summary type="html"><![CDATA[どんな事案だったのか女性側が東京都公安委員会に提出した苦情届出書などによると、事案が発生したのは6月1日。女性はヒジャブを着用し、長女と2人で都内の公園を訪れていた。 女性は南アジア出身で、10年前に来日した。長女は、女性と日本人の夫との間の子で日本国籍を持つ。 長女が滑り台で遊び、女性がそばのベンチで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「セックスワーク差別は無知からやってくる」というけれど…]]></title>
         <id>https://anond.hatelabo.jp/20210715130237</id>
         <link href="https://anond.hatelabo.jp/20210715130237"/>
@@ -216,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[はてな、20周年で企業ロゴをリニューアル - プレスリリース - 株式会社はてな]]></title>
-        <id>https://hatenacorp.jp/press/release/entry/2021/07/15/113000</id>
-        <link href="https://hatenacorp.jp/press/release/entry/2021/07/15/113000"/>
-        <updated>2021-07-15T03:24:59.000Z</updated>
-        <summary type="html"><![CDATA[株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、企業ロゴのデザインをリニューアルし、本日2021年7月15日に公開しました。 当社では“「知る」「つながる」「表現する」で新しい体験を提供し、人の生活を豊かにする”をコーポレートミッションに、さまざまな個人向け・法人向けサービスを展開...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[はてな20周年祭 - はてな]]></title>
         <id>https://www.hatena.ne.jp/hatena20th</id>
         <link href="https://www.hatena.ne.jp/hatena20th"/>
         <updated>2021-07-15T02:56:06.000Z</updated>
         <summary type="html"><![CDATA[株式会社はてなは、2021/7/15でサービス開始から20周年を迎えました。 この記念すべき節目の年を迎えることができましたのも、 多くのユーザーの皆様に支えられ、 パートナー企業の皆様のご支援、ご愛顧の賜物と心から感謝いたしております。 今後も社員一同決意を新たに、一層の努力で皆様のご愛顧にお応えしていきます...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["神社は災害が来ない位置にあるという言説、「被災した神社は残っていないだけ」で昔の人は危険境界を理解してた訳では無いという話 - Togetter]]></title>
-        <id>https://togetter.com/li/1745141</id>
-        <link href="https://togetter.com/li/1745141"/>
-        <updated>2021-07-15T02:44:31.000Z</updated>
-        <summary type="html"><![CDATA[ǝunsʇo ıɯnɟɐsɐɯ @otsune 2011年にも同じ話題が出たのですが、結論から言うと「津波や土砂崩れがギリギリ来ない位置を選んで神社を建ててるのではなく、歴史の流れで被災した神社は残っていないだけ」ですね。 なので古い神社の近くの土地が安全である可能性は高いとは言えるが、昔の人は危険境界を分かっていたわけでは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://medical.jiji.com/news/45151"/>
         <updated>2021-07-15T02:26:56.000Z</updated>
         <summary type="html"><![CDATA[こころがきれいになる医学 正確な情報と予防の知識を常に吸収し、いい気持ちで生活することが身体を守る力になる－。そんなコンセプトのもと、心療内科医・海原純子からみなさんへ「こころがきれいになる医学」をお届けするコーナーです。 もはや日本人の生活様式に不可欠ともいえる温水洗浄便座（以下、温水便座）。多...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何故ひろゆきが支持されているか理解できない老害共へ]]></title>
-        <id>https://anond.hatelabo.jp/20210715063023</id>
-        <link href="https://anond.hatelabo.jp/20210715063023"/>
-        <updated>2021-07-14T21:40:27.000Z</updated>
-        <summary type="html"><![CDATA[このブコメ群にとても象徴的だが、 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20210714123642 お前らは若者を馬鹿にしている。それを隠そうともしない。我々でなくひろゆきを支持するような者は愚かであるというメッセージを意識的にでも無意識的にでも発している。 少なくともひろゆきは10代、20代に対して“敬...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

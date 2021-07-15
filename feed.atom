@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T09:12:52.435Z</id>
+    <id>urn:2021-07-15T10:13:37.173Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T09:12:52.435Z</updated>
+    <updated>2021-07-15T10:13:37.173Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210715/k10013140951000.html"/>
         <updated>2021-07-15T07:49:04.000Z</updated>
         <summary type="html"><![CDATA[東京都は15日、都内で新たに1308人が新型コロナウイルスに感染していることを確認したと発表しました。 都内で1日に1000人を超えるのは2日連続です。 1週間前の木曜日より412人多くなりました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾の過去のいじめをずっと言っているやつって何がしたいの？]]></title>
+        <id>https://anond.hatelabo.jp/20210715150820</id>
+        <link href="https://anond.hatelabo.jp/20210715150820"/>
+        <updated>2021-07-15T06:22:23.000Z</updated>
+        <summary type="html"><![CDATA[小山田圭吾の話題になると必ず「こいつはいじめ加害者」って言うやつ出てくるよね。 もう20年くらいやっている。ぞっとする。 当事者の証言もないのに外野がずっとこういうことやっている情熱ってどこからくるんだろうか。 小山田圭吾はこの20年、技術を磨き、キャリアを積んで、オリンピックの作曲者にまでなったんだよ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html"/>
         <updated>2021-07-14T18:11:16.000Z</updated>
         <summary type="html"><![CDATA[国際オリンピック委員会（IOC）トーマス・バッハ会長（67）が14日、官邸を訪れ、菅義偉首相と面会した。バッハ氏の車はパトカーに先導されながらのVIP待遇で官邸入りした。 菅首相からは「すべての参加者が感染対策をはじめ、適切な行動を取ることが大会成功には不可欠。徹底にぜひ努めていただきたい」と、万全なコロナ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodbye, Fleets]]></title>
-        <id>https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets</id>
-        <link href="https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets"/>
-        <updated>2021-07-14T17:48:57.000Z</updated>
-        <summary type="html"><![CDATA[We built Fleets as a lower-pressure, ephemeral way for people to share their fleeting thoughts. We hoped Fleets would help more people feel comfortable joining the conversation on Twitter. But, in the time since we introduced Fleets to everyone, we haven’t seen an increase in the number of new pe...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

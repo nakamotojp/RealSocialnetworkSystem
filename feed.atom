@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T12:18:54.505Z</id>
+    <id>urn:2021-07-16T13:17:59.819Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T12:18:54.505Z</updated>
+    <updated>2021-07-16T13:17:59.819Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[長女じゃなかった]]></title>
+        <id>https://anond.hatelabo.jp/20210716191647</id>
+        <link href="https://anond.hatelabo.jp/20210716191647"/>
+        <updated>2021-07-16T10:26:44.000Z</updated>
+        <summary type="html"><![CDATA[母子手帳の母の名前が違った。 出生時刻が知りたくて（推しの影響で占いにハマってる）親の部屋にしまってある母子手帳を見た。 ぱっと開いたページに挟まってた診察書みたいなやつの母親の欄に知らない名前があった。苗字は一緒なのに下の名前が違う。でも子供の名前はちゃんと私。 最初は医者の書き間違いだと思った。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾が謝罪コメントを発表 過去に雑誌などでいじめを告白 - ライブドアニュース]]></title>
         <id>https://news.livedoor.com/article/detail/20543362/</id>
@@ -36,11 +46,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[平井デジタル相、IT株購入を陳謝　売却後に報告・納税もせず | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210716/k00/00m/010/279000c</id>
+        <link href="https://mainichi.jp/articles/20210716/k00/00m/010/279000c"/>
+        <updated>2021-07-16T09:44:41.000Z</updated>
+        <summary type="html"><![CDATA[平井卓也デジタル改革担当相は16日の閣議後記者会見で、内閣府政務官だった2006年に大臣規範に反してIT企業の株式を購入していたとして「不注意だった。おわびを申し上げたい」と陳謝した。 平井氏によると、06年6月の株購入後、国会議員資産公開法で提出が義務づけられている資産報告書に保有の事実を記載していなかっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[菅内閣支持２９．３％、発足後最低　初の３割割れ―時事世論調査：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021071600774&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021071600774&amp;g=pol"/>
         <updated>2021-07-16T08:32:55.000Z</updated>
         <summary type="html"><![CDATA[菅内閣支持２９．３％、発足後最低　初の３割割れ―時事世論調査 2021年07月16日19時04分 【図解】内閣支持率の推移 時事通信が９～１２日に実施した７月の世論調査で、菅内閣の支持率は前月比３．８ポイント減の２９．３％で、不支持率は５．６ポイント増の４９．８％となった。政権発足後、支持率が３割を切り「危険水...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小池知事、子どもの五輪観戦に前向き「一生もの」感染状況好転で：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/117165</id>
+        <link href="https://www.tokyo-np.co.jp/article/117165"/>
+        <updated>2021-07-16T08:20:40.000Z</updated>
+        <summary type="html"><![CDATA[東京都の小池百合子知事は１６日、開幕まで１週間に迫った東京五輪について、新型コロナウイルスの感染状況が好転した場合には「希望されるお子さんたちに会場で、という思い」と、子どもの観戦に前向きな姿勢を示した。 小池氏は「子どもさんにとっては、目の前で競技が行われるのは一生ものだ。東京の子どもたちに、そ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -111,16 +141,6 @@
         <link href="https://news.yahoo.co.jp/articles/a9772245dcab647aad46cc7438d8e63965981405"/>
         <updated>2021-07-16T03:03:23.000Z</updated>
         <summary type="html"><![CDATA[丸川珠代五輪相が16日、閣議後会見を行った。 新型コロナウイルス禍での開催となる東京五輪開幕まで1週間。大会組織委員会は14日に、五輪開閉会式の楽曲を担当するクリエーティブチームの一員に、ミュージシャンの小山田圭吾氏を任命。過去に小山田氏が障がい者をいじめたことを告白している雑誌が発行されていることも...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西川貴教が「朝起きたら代々木公園に女型の巨人いるんですけど… 怖い…」といって何事かと思ったら本当にでかい顔が浮かんでいた - Togetter]]></title>
-        <id>https://togetter.com/li/1745544</id>
-        <link href="https://togetter.com/li/1745544"/>
-        <updated>2021-07-16T02:53:34.000Z</updated>
-        <summary type="html"><![CDATA[つきこ @tsukiko0325 これ、6月28日にゲストで出演された美術ライターの浦島茂世さんが紹介していた「Tokyo Tokyo FESTIVAL」の「東京の空に顔が浮く」ってプロジェクトでは…？？？ #so954 twitter.com/TMR15/status/1… 2021-07-16 10:19:19]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,26 +291,6 @@
         <link href="https://www.steamdeck.com/ja/"/>
         <updated>2021-07-15T17:02:46.000Z</updated>
         <summary type="html"><![CDATA[過去最高のゲーミングパワー Steam Deck™新登場。$399 USDよりお買い求めいただけます。 2021年12月出荷開始。 ウィッシュリストに追加しよう。 ウィッシュリストに追加]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉田光雄 on Twitter: "小山田圭吾のいじめ発言は、悪趣味ブームだった当時（94〜95年）は別に問題にもならず、 その後だんだん世間の常識が変わってきてからは何度も「これはひどい！」的に掘り起こされてきたという経緯があります。そして、あれは小山田圭吾だけじ… https://t.co/CzVMc5Dxyf"]]></title>
-        <id>https://twitter.com/WORLDJAPAN/status/1415680102872981520</id>
-        <link href="https://twitter.com/WORLDJAPAN/status/1415680102872981520"/>
-        <updated>2021-07-15T15:20:12.000Z</updated>
-        <summary type="html"><![CDATA[小山田圭吾のいじめ発言は、悪趣味ブームだった当時（94〜95年）は別に問題にもならず、 その後だんだん世間の常識が変わってきてからは何度も「これはひどい！」的に掘り起こされてきたという経緯があります。そして、あれは小山田圭吾だけじ… https://t.co/CzVMc5Dxyf]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長野のご当地スーパー・ツルヤが夢の国だった - 欲しがります負けたって]]></title>
-        <id>https://www.oukakreuz.com/entry/tsuruya-nagano</id>
-        <link href="https://www.oukakreuz.com/entry/tsuruya-nagano"/>
-        <updated>2021-07-15T13:32:34.000Z</updated>
-        <summary type="html"><![CDATA[海外でも国内でも、旅先では現地のスーパーを見るのが大好きな私。ずっと行きたかったご当地スーパーに行ってきたよ〜！！その名も長野のツルヤ！！ 長野らしく地元の果物や野菜をふんだんに使ったプライベートブランドが有名なスーパーで、過去にお土産でおいしいジュースを頂いてからずっと自分でも行ってみたかったの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

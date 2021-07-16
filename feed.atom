@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T21:11:17.018Z</id>
+    <id>urn:2021-07-16T22:11:26.740Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T21:11:17.018Z</updated>
+    <updated>2021-07-16T22:11:26.740Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IOCバッハ会長らの歓迎会 40人余りで開催へ | オリンピック・パラリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210717/k10013144081000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210717/k10013144081000.html"/>
+        <updated>2021-07-16T18:21:36.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック・パラリンピック組織委員会は18日、IOC＝国際オリンピック委員会のバッハ会長などを招いて東京の迎賓館で歓迎会を開くことになりました。 関係者によりますと、菅総理大臣や小池都知事、それに橋本会長のほか、森前会長も出席する方向で調整していて、出席者は40人余りになる見通しだということです。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キスしたい男 - タイザン5 | 少年ジャンプ＋]]></title>
         <id>https://shonenjumpplus.com/episode/3269754496399711731</id>
@@ -246,6 +256,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ExcelやGoogleスプレッドシートをMarkdown出力するVS Codeの拡張機能「Excel to Markdown table」が便利すぎる件 | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/excel-to-markdown-table/</id>
+        <link href="https://dev.classmethod.jp/articles/excel-to-markdown-table/"/>
+        <updated>2021-07-16T06:25:41.000Z</updated>
+        <summary type="html"><![CDATA[ExcelやGoogleスプレッドシートをMarkdown出力するVS Codeの拡張機能「Excel to Markdown table」が便利すぎる件 Markdownでテーブルを表現するにはつらみが深すぎる みなさんはMarkdownでテーブルを書くことは得意ですか? 私は苦手です。 簡単なテーブルは簡単に書けるのですが、以下のようなテーブルを書くことには抵...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小山田圭吾はなぜイジメ記事問題を無視し続けるのか]]></title>
         <id>https://anond.hatelabo.jp/20210716130711</id>
         <link href="https://anond.hatelabo.jp/20210716130711"/>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[何も知らない丸川五輪相「まだ報道を確認していない」小山田氏が過去に障がい者いじめ告白（スポニチアネックス） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/a9772245dcab647aad46cc7438d8e63965981405</id>
-        <link href="https://news.yahoo.co.jp/articles/a9772245dcab647aad46cc7438d8e63965981405"/>
-        <updated>2021-07-16T03:03:23.000Z</updated>
-        <summary type="html"><![CDATA[丸川珠代五輪相が16日、閣議後会見を行った。 新型コロナウイルス禍での開催となる東京五輪開幕まで1週間。大会組織委員会は14日に、五輪開閉会式の楽曲を担当するクリエーティブチームの一員に、ミュージシャンの小山田圭吾氏を任命。過去に小山田氏が障がい者をいじめたことを告白している雑誌が発行されていることも...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[おしゃれな手術着で会社に行ってもいいですか :: デイリーポータルZ]]></title>
         <id>https://dailyportalz.jp/kiji/osyare-scrub-classico</id>
         <link href="https://dailyportalz.jp/kiji/osyare-scrub-classico"/>
         <updated>2021-07-16T02:24:57.000Z</updated>
         <summary type="html"><![CDATA[編集部の安藤さんから「おしゃれすぎる白衣屋さんがあるそうですよ」と教えてもらった。 聞くとその白衣屋さんは白衣だけでなく手術着なども手掛けていて、あまりの着心地の良さに社員の人たちも私服として愛用しているらしい。 私服として手術服を…？！ おしゃれな手術着がほしかった 奇遇なことに、筆者はここ数年の間...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リモートワークの弊害は職場でのよい思い出が作りにくいこと - BASEプロダクトチームブログ]]></title>
-        <id>https://devblog.thebase.in/entry/2021/07/16/085751</id>
-        <link href="https://devblog.thebase.in/entry/2021/07/16/085751"/>
-        <updated>2021-07-16T01:31:25.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。BASEの藤川です。 緊急事態宣言も続く状況下で、当社もリモートワーク（Work From Home）中心の仕事の進め方をしています。ネット系企業は、幸いにしてVPN、Slack、GitHubやドキュメント管理ツール、その他仕事に必要なSaaSやZOOMがオンライン化しているため仕事の作業そのものは、それほど違和感なく自宅か...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

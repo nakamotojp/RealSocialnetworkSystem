@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T17:20:05.731Z</id>
+    <id>urn:2021-07-16T18:14:49.939Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T17:20:05.731Z</updated>
+    <updated>2021-07-16T18:14:49.939Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[キスしたい男 - タイザン5 | 少年ジャンプ＋]]></title>
+        <id>https://shonenjumpplus.com/episode/3269754496399711731</id>
+        <link href="https://shonenjumpplus.com/episode/3269754496399711731"/>
+        <updated>2021-07-16T15:07:02.000Z</updated>
+        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開会式楽曲の小山田圭吾“障害者いじめ自慢”、五輪憲章に違反…障害者スポーツ協会幹部が憤慨]]></title>
+        <id>https://biz-journal.jp/2021/07/post_238746.html</id>
+        <link href="https://biz-journal.jp/2021/07/post_238746.html"/>
+        <updated>2021-07-16T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[コーネリアス公式サイトより 「ロッキング・オン・ジャパン」（1994年1月号、ロッキング・オン・ジャパン）と「クイック・ジャパン」（95年vol. 3、太田出版）に掲載された、東京オリンピック（五輪）開会式の楽曲担当、小山田圭吾氏（コーネリアス）のインタビュー記事2本がインターネット上で物議を醸している。 同記...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[何を聞いても「安心・安全」　本紙など３社の異なる質問に同じ答え　首相会見の書面回答：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/117219</id>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[麻生氏「おかしいからほっとけ、で止まるものだ」酒類停止要請問題 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210716/k00/00m/010/093000c</id>
-        <link href="https://mainichi.jp/articles/20210716/k00/00m/010/093000c"/>
-        <updated>2021-07-16T04:28:09.000Z</updated>
-        <summary type="html"><![CDATA[飲食店への酒類提供停止要請を巡り、政府が金融機関への働きかけなどの方針を撤回した問題で、麻生太郎財務相兼金融担当相は、16日の閣議後の記者会見で「大臣から『おかしいから放っておけ』と言われたら常識的には止まるものだ」と述べた。 この問題は、酒類提供停止に応じない飲食店に対し、金融機関から順守を働きか...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[スケジュールにバッファを設けるのは悪か？ - ユニファ開発者ブログ]]></title>
         <id>https://tech.unifa-e.com/entry/2021/07/16/130205</id>
         <link href="https://tech.unifa-e.com/entry/2021/07/16/130205"/>
@@ -291,16 +301,6 @@
         <link href="https://news.yahoo.co.jp/articles/2a56dec2411dc41d0995185c6d4b6ba830029ab4"/>
         <updated>2021-07-15T21:57:51.000Z</updated>
         <summary type="html"><![CDATA[政府と東京五輪・パラリンピック大会組織委員会は１５日、新型コロナウイルス感染者の濃厚接触者と判断された選手について、試合直前のＰＣＲ検査で陰性の場合は出場を認める方針を固めた。国内では濃厚接触者は１４日間の待機が求められており、特例的な対応となる。 【写真】２回目のワクチン接種後の副反応、予想以上...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京五輪を政権批判のダシに使うのはやめていただきたく……(川端康生) - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kawabatayasuo/20210715-00248092/</id>
-        <link href="https://news.yahoo.co.jp/byline/kawabatayasuo/20210715-00248092/"/>
-        <updated>2021-07-15T17:13:56.000Z</updated>
-        <summary type="html"><![CDATA[目まいがするのは……＜光る波、白い砂。＞という書き出しで始まった朝刊のコラムが、海水浴場が＜開くべきか、開かざるべきか＞シーズン本番を前に悩んでいることを取り上げていた。 僕も海水浴場のある町に住んでいるから事情はわかる。だから、＜市町村によって結論＞が分かれる悩ましさもわかるし、感染を心配する住民...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

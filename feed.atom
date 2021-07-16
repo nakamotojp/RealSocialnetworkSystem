@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T19:09:34.219Z</id>
+    <id>urn:2021-07-16T20:12:03.211Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T19:09:34.219Z</updated>
+    <updated>2021-07-16T20:12:03.211Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://biz-journal.jp/2021/07/post_238746.html"/>
         <updated>2021-07-16T15:05:00.000Z</updated>
         <summary type="html"><![CDATA[コーネリアス公式サイトより 「ロッキング・オン・ジャパン」（1994年1月号、ロッキング・オン・ジャパン）と「クイック・ジャパン」（95年vol. 3、太田出版）に掲載された、東京オリンピック（五輪）開会式の楽曲担当、小山田圭吾氏（コーネリアス）のインタビュー記事2本がインターネット上で物議を醸している。 同記...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不明のウガンダ選手、部屋に残したメモ　駅で切符買う姿 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7J7L0LP7JPTIL04T.html</id>
+        <link href="https://www.asahi.com/articles/ASP7J7L0LP7JPTIL04T.html"/>
+        <updated>2021-07-16T14:49:02.000Z</updated>
+        <summary type="html"><![CDATA[大阪府泉佐野市は16日、東京五輪出場のため同市内で事前合宿していたウガンダ選手団9人のうち、重量挙げの男性選手（20）が宿泊先のホテルから行方不明になったと発表した。市は大阪府警に通報し、行方を捜している。来日選手は原則として、宿泊先と競技場などを除いた移動は禁じられている。 16日夜に取材に応じた千代...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://devblog.thebase.in/entry/2021/07/16/085751"/>
         <updated>2021-07-16T01:31:25.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。BASEの藤川です。 緊急事態宣言も続く状況下で、当社もリモートワーク（Work From Home）中心の仕事の進め方をしています。ネット系企業は、幸いにしてVPN、Slack、GitHubやドキュメント管理ツール、その他仕事に必要なSaaSやZOOMがオンライン化しているため仕事の作業そのものは、それほど違和感なく自宅か...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】濃厚接触の選手、６時間前にＰＣＲ陰性なら出場可能に…政府・組織委方針（読売新聞オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/2a56dec2411dc41d0995185c6d4b6ba830029ab4</id>
-        <link href="https://news.yahoo.co.jp/articles/2a56dec2411dc41d0995185c6d4b6ba830029ab4"/>
-        <updated>2021-07-15T21:57:51.000Z</updated>
-        <summary type="html"><![CDATA[政府と東京五輪・パラリンピック大会組織委員会は１５日、新型コロナウイルス感染者の濃厚接触者と判断された選手について、試合直前のＰＣＲ検査で陰性の場合は出場を認める方針を固めた。国内では濃厚接触者は１４日間の待機が求められており、特例的な対応となる。 【写真】２回目のワクチン接種後の副反応、予想以上...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

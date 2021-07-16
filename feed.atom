@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T18:14:49.939Z</id>
+    <id>urn:2021-07-16T19:09:34.219Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T18:14:49.939Z</updated>
+    <updated>2021-07-16T19:09:34.219Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.tokyo-np.co.jp/article/117219"/>
         <updated>2021-07-16T12:41:14.000Z</updated>
         <summary type="html"><![CDATA[政府は１６日、菅義偉首相の８日の記者会見で指名されなかった報道機関が、会見後に提出した質問に書面で回答した。本紙は東京五輪に関し、新型コロナウイルス緊急事態宣言下で、国民の健康を危険にさらすリスクを冒してまで開催する意義を尋ねた。首相は一部競技の無観客開催などの対策を挙げ、「対策を徹底し安心・安...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾氏辞職せず「本来なら辞退すべきだったかも」謝罪し職全う意向（日刊スポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c8fd22a01f57f8727a5ac369cc913d8ac6dd8e15</id>
+        <link href="https://news.yahoo.co.jp/articles/c8fd22a01f57f8727a5ac369cc913d8ac6dd8e15"/>
+        <updated>2021-07-16T11:29:23.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック（五輪）開閉会式の音楽制作を手掛けており、14日の就任発表後に過去の「いじめ告白」が取り沙汰されていた小山田圭吾氏（52）が、留任することが16日、分かった。 【写真】小山田圭吾氏（06年10月撮影） ソロユニットとして別名義で活動するコーネリアスのツイッターを更新し「この度は、東京2020オリ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://devblog.thebase.in/entry/2021/07/16/085751"/>
         <updated>2021-07-16T01:31:25.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。BASEの藤川です。 緊急事態宣言も続く状況下で、当社もリモートワーク（Work From Home）中心の仕事の進め方をしています。ネット系企業は、幸いにしてVPN、Slack、GitHubやドキュメント管理ツール、その他仕事に必要なSaaSやZOOMがオンライン化しているため仕事の作業そのものは、それほど違和感なく自宅か...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東大ネコ研究に2日余りで寄付3千万円　担当者「驚き」：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7H51K7P7GPLBJ009.html</id>
-        <link href="https://www.asahi.com/articles/ASP7H51K7P7GPLBJ009.html"/>
-        <updated>2021-07-15T22:25:04.000Z</updated>
-        <summary type="html"><![CDATA[猫の腎臓病の治療をめざしている東京大学のチームの研究に突然、2日余りで約2900件、約3千万円の寄付が集まり、今も申し込みが殺到している。通常、東大への寄付は年間1万件程度で、寄付の事務担当者も「史上初めての出来事」という前代未聞の事態だ。いったい何が起きたのか？ 飼い猫は、腎不全で死ぬことが多い。ライ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

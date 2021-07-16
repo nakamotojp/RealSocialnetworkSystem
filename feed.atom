@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T00:39:33.640Z</id>
+    <id>urn:2021-07-16T01:58:00.897Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:39:33.640Z</updated>
+    <updated>2021-07-16T01:58:00.897Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[《 妻と“ドライブ蟹デート” 》NHK「おかあさんといっしょ」体操のまことお兄さんは2児のお父さんだった！「恋愛・結婚は禁止ですか？」と直撃してみたら… | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47146</id>
+        <link href="https://bunshun.jp/articles/-/47146"/>
+        <updated>2021-07-15T23:26:52.000Z</updated>
+        <summary type="html"><![CDATA[歌のお兄さんが結婚し、お父さんに…？ 福尾は、2019年4月、小林よしひさ（40）からバトンを渡された「12代目たいそうのお兄さん」だ。番組の終盤に、秋元杏月（24）と共におこなわれる体操「からだ☆ダンダン」は子どもだけでなく、ママからも大人気だ。 「まことお兄さんといえば、イケメンかつ見事な筋肉美の持ち主で、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[婚活アプリ「Omiai」、運転免許証やパスポートの画像が171万件も流出した経緯 | 日経クロステック（xTECH）]]></title>
+        <id>https://xtech.nikkei.com/atcl/nxt/column/18/01157/070900041/</id>
+        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01157/070900041/"/>
+        <updated>2021-07-15T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[婚活マッチングアプリ「Omiai」で、171万件もの会員情報流出が判明した。流出したデータには運転免許証やパスポート画像などが含まれる。氏名や住所に加えユーザーの顔写真情報まで流出したのは深刻な問題だ。運営するネットマーケティングは再発防止策を講じたものの、流出したデータによる二次被害を防ぐ手立ては見つ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東大ネコ研究に2日余りで寄付3千万円　担当者「驚き」：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7H51K7P7GPLBJ009.html</id>
@@ -21,6 +41,26 @@
         <link href="https://www.asahi.com/articles/ASP7H745DP7GUTQP02K.html"/>
         <updated>2021-07-15T21:51:21.000Z</updated>
         <summary type="html"><![CDATA[五輪史上初の1年延期を経て、東京オリンピック（五輪）の開幕まで16日で1週間となった。運営の実務を担う大会組織委員会の職員からは口々に、「延期してまで開催する意義は、何だったのか。いまは、開催することだけが目的になっている」との言葉が出る。新型コロナウイルスの感染拡大は収まらず、現場は無力感にさいな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熱海土石流は人災？　逮捕歴もある「盛り土」業者の黒歴史、太陽光発電トップにも前科（デイリー新潮） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/7d81d1b5e3477503bb5ec11c5b71d43c5b3ddf64</id>
+        <link href="https://news.yahoo.co.jp/articles/7d81d1b5e3477503bb5ec11c5b71d43c5b3ddf64"/>
+        <updated>2021-07-15T21:20:09.000Z</updated>
+        <summary type="html"><![CDATA[週末の保養地を、突如として容赦ない土砂が襲った。折からの大雨がもたらした熱海市の土石流災害。130軒もの家屋が押し流され、安否不明の人はなおも16人にのぼる。“次の危険地帯”が懸念される中、地元ではもっぱら「人災」との声が高まっていて……。 【写真4枚】崩落した「盛り土」前と後 *** 毎年のように列島を襲う天...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大会関係者が規約違反　組織委が厳重注意（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/2ff4ddb0c97846b7da3797f17d4bd390712e361d</id>
+        <link href="https://news.yahoo.co.jp/articles/2ff4ddb0c97846b7da3797f17d4bd390712e361d"/>
+        <updated>2021-07-15T21:10:25.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックで来日した一部の大会関係者が行動制限の規約に違反し、組織委員会が厳重注意をしていたことが明らかになりました。 この問題は、東京オリンピック・パラリンピックで来日した大会関係者の一部が、行動規範を定めた「プレイブック」に違反していると報じられ、国会で、丸川担当相が組織委員会に対して処...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -56,11 +96,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第5波で増える40代、 50代の重症者…「現場としては結構しんどい」コロナ治療最前線の医師が抱く不安と希望（BuzzFeed Japan） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/fc126726ce30396ef23b715a308bce3f38832e71</id>
-        <link href="https://news.yahoo.co.jp/articles/fc126726ce30396ef23b715a308bce3f38832e71"/>
-        <updated>2021-07-15T15:22:36.000Z</updated>
-        <summary type="html"><![CDATA[埼玉医科大学総合医療センター・総合診療内科教授の岡秀昭さん（取材時はマスクを着用し、感染対策を講じています。写真撮影時のみマスクを外しました） 新型コロナウイルス感染症の第5波が広がり始めた。政府分科会は7月、8月が「最大の山場」であると発信するが、医療の現場では何が起きているのか。そして、この夏、...]]></summary>
+        <title type="html"><![CDATA[「中国でマイニング機器撤去作業中のチベットの女性」の写真が「花を摘む婦人」に見えると話題になりNTFアート化したものが約40万円で売られている - Togetter]]></title>
+        <id>https://togetter.com/li/1745291</id>
+        <link href="https://togetter.com/li/1745291"/>
+        <updated>2021-07-15T16:42:33.000Z</updated>
+        <summary type="html"><![CDATA[katakoto @katakoto これホント最初に「花を摘む婦人」に見えたんだけど、中国でマイニング機器撤去作業中のチベットの女の人だった。 早速NFT Art化されてるし。 azcoinnews.com/nft-the-woman-… pic.twitter.com/jLXuvfExoI 2021-07-14 03:22:32]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,36 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ会長に「お前はウソつきだ！」と罵声。小池都知事との記念撮影でハプニング | ハフポスト]]></title>
-        <id>https://www.huffingtonpost.jp/entry/bach_jp_60eff7b1e4b0d5140ebced66</id>
-        <link href="https://www.huffingtonpost.jp/entry/bach_jp_60eff7b1e4b0d5140ebced66"/>
-        <updated>2021-07-15T10:12:57.000Z</updated>
-        <summary type="html"><![CDATA[KIMIMASA MAYAMA via Getty Images7月14日、首相官邸で菅義偉首相の面会した際のトーマス・バッハ会長。左は東京五輪・パラリンピック組織委員会の橋本聖子会長 来日中の国際オリンピック委員会（IOC）のトーマス・バッハ会長が7月15日、思わぬトラブルに見舞われた。 バッハ会長が東京都庁に出向き、小池百合子知事と会...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QUICとNATと – JANOG48 Meeting]]></title>
-        <id>https://www.janog.gr.jp/meeting/janog48/lt4/</id>
-        <link href="https://www.janog.gr.jp/meeting/janog48/lt4/"/>
-        <updated>2021-07-15T10:10:47.000Z</updated>
-        <summary type="html"><![CDATA[場所 OHGAKI(完全リモート) 日時 Day3 2021年7月16日(金) 14:45～15:15(05分) 概要 RFC9000で標準化が完了したQUICはUDP443番ポートを使うプロトコルです。それが故にIPv4のNATルータとの間で起こる問題について考察したいと思います。 発表者 川上 雄也(NTTコミュニケーションズ株式会社) 公開資料 公開資料]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かつてブルガリアでは独身成人に5-10%の独身税を課すことで結婚を増やそうとしたが若者が結婚資金を貯められず逆に出生率は下がるという結果になった - Togetter]]></title>
-        <id>https://togetter.com/li/1745312</id>
-        <link href="https://togetter.com/li/1745312"/>
-        <updated>2021-07-15T10:03:35.000Z</updated>
-        <summary type="html"><![CDATA[成田 悠輔 @narita_yusuke 独身税という税がある。少子化に苦しんでたブルガリアが1968-89年に導入した税で、独身成人に5-10%の税を課すことで結婚を増やそうとした。だけど、独身税のせいで結婚資金を貯められない人が多発、かえって独身率は上がって出生率は下がるという地獄に終わったらしい 2021-07-14 21:31:17 リ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[批評家の東浩紀氏「超法規的リンチよくない」小山田圭吾の過去いじめ問題で（日刊スポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/a6bbd18fb444741dfea5992d03bcc36106c46cf0</id>
         <link href="https://news.yahoo.co.jp/articles/a6bbd18fb444741dfea5992d03bcc36106c46cf0"/>
@@ -271,16 +281,6 @@
         <link href="https://www.nikkei.com/article/DGXZQOUC303JJ0Q1A630C2000000/"/>
         <updated>2021-07-15T09:13:11.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら ツイッターで特定のキーワードをつぶやいた人に対して、リアルタイムで広告を配信できるサービス「リアルタイムキーワードターゲティング」の国内提供が始まっている。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「永久不妊の可能性」「接種者の息や汗から…」立憲・北條智彦氏がワクチンめぐる誤情報拡散→削除]]></title>
-        <id>https://www.buzzfeed.com/jp/yutochiba/rikken-kitajyo-covid-19-vaccine</id>
-        <link href="https://www.buzzfeed.com/jp/yutochiba/rikken-kitajyo-covid-19-vaccine"/>
-        <updated>2021-07-15T07:31:51.000Z</updated>
-        <summary type="html"><![CDATA[だが、「感染予防効果は見込めない」とする北條氏の主張は誤りだ。 新型コロナやワクチンに関する正確な情報発信を推進する日米の専門家によるプロジェクト「こびナビ」は、BuzzFeed Newsの以前のファクトチェックに対し、こう回答している。 「アメリカでは 4000名弱の医療従事者などを対象に毎週PCR検査を実施した結果...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

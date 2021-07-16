@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T08:14:19.173Z</id>
+    <id>urn:2021-07-16T09:12:34.089Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T08:14:19.173Z</updated>
+    <updated>2021-07-16T09:12:34.089Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 1人死亡 1271人感染確認 3日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210716/k10013142781000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210716/k10013142781000.html"/>
+        <updated>2021-07-16T07:48:10.000Z</updated>
+        <summary type="html"><![CDATA[東京都は16日、都内で新たに1271人が新型コロナウイルスに感染していることを確認したと発表し、これで3日連続で1000人を超えました。16日までの7日間平均は946.3人となり、ことし4月から5月にかけての第4波のピークを上回りました。 東京都は16日、都内で新たに10歳未満から100歳以上までの男女合わせて1271人が新型コ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾はなぜイジメ記事問題を無視し続けるのか]]></title>
         <id>https://anond.hatelabo.jp/20210716130711</id>
@@ -160,7 +170,7 @@
         <id>https://news.yahoo.co.jp/articles/2a56dec2411dc41d0995185c6d4b6ba830029ab4</id>
         <link href="https://news.yahoo.co.jp/articles/2a56dec2411dc41d0995185c6d4b6ba830029ab4"/>
         <updated>2021-07-15T21:57:51.000Z</updated>
-        <summary type="html"><![CDATA[政府と東京五輪・パラリンピック大会組織委員会は１５日、新型コロナウイルス感染者の濃厚接触者と判断された選手について、試合直前のＰＣＲ検査で陰性の場合は出場を認める方針を固めた。国内では濃厚接触者は１４日間の待機が求められており、特例的な対応となる。 政府と組織委が作成した対応方針によると、濃厚接触...]]></summary>
+        <summary type="html"><![CDATA[政府と東京五輪・パラリンピック大会組織委員会は１５日、新型コロナウイルス感染者の濃厚接触者と判断された選手について、試合直前のＰＣＲ検査で陰性の場合は出場を認める方針を固めた。国内では濃厚接触者は１４日間の待機が求められており、特例的な対応となる。 【写真】２回目のワクチン接種後の副反応、予想以上...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://mainichi.jp/articles/20210715/k00/00m/040/254000c"/>
         <updated>2021-07-15T11:34:51.000Z</updated>
         <summary type="html"><![CDATA[クイック・ジャパン（1995年3号）に掲載された小山田圭吾さんのインタビュー記事＝東京都千代田区で2021年7月15日、北山夏帆撮影 東京オリンピックの開会式の楽曲を担当する小山田圭吾さんが過去に雑誌のインタビューで長年にわたって同級生をいじめていたと告白していたことを巡り、15日に「いじめ自慢」としてツイッタ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒類提供で取引停止、内閣官房が発案 ｜ 共同通信]]></title>
-        <id>https://nordot.app/788352044499648512</id>
-        <link href="https://nordot.app/788352044499648512"/>
-        <updated>2021-07-15T10:44:36.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスで打撃を受けた酒類販売事業者への「月次支援金」を巡り、政府が給付要件として「酒類提供停止に応じない飲食店との取引停止」を求めた文書は、内閣官房が発案したことが15日、明らかになった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

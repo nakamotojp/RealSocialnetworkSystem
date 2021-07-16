@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T14:10:59.135Z</id>
+    <id>urn:2021-07-16T15:13:50.862Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T14:10:59.135Z</updated>
+    <updated>2021-07-16T15:13:50.863Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[この2か月が「まさに山場」 尾身会長 感染対策徹底求める談話 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210716/k10013142991000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210716/k10013142991000.html"/>
+        <updated>2021-07-16T08:46:52.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染が東京都などで再拡大する中、政府の分科会の尾身茂会長が、4連休や夏休み、オリンピックを前に感染対策の徹底を求める談話を出しました。この2か月が「まさに山場だ」としていて、感染拡大を少しでも抑えるために、県境を越えた移動をできるだけ控えるよう求めています。 分科会の尾身会長は16...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[菅内閣支持２９．３％、発足後最低　初の３割割れ―時事世論調査：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021071600774&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021071600774&amp;g=pol"/>
@@ -141,6 +151,16 @@
         <link href="https://anond.hatelabo.jp/20210716130711"/>
         <updated>2021-07-16T05:09:58.000Z</updated>
         <summary type="html"><![CDATA[これが一番の謎。 2001年頃、2chの音楽板など一部で批判を確認。 2006年に当該記事がブログで掲載され拡散。2chで炎上する。 2012年にツイッターで当該記事を紹介したブログが拡散。炎上する。 2014年にツイッターで当該記事を紹介したブログが拡散。炎上する。 そして2021年、今回の大炎上である。 この間も、何かある...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻生氏「おかしいからほっとけ、で止まるものだ」酒類停止要請問題 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210716/k00/00m/010/093000c</id>
+        <link href="https://mainichi.jp/articles/20210716/k00/00m/010/093000c"/>
+        <updated>2021-07-16T04:28:09.000Z</updated>
+        <summary type="html"><![CDATA[飲食店への酒類提供停止要請を巡り、政府が金融機関への働きかけなどの方針を撤回した問題で、麻生太郎財務相兼金融担当相は、16日の閣議後の記者会見で「大臣から『おかしいから放っておけ』と言われたら常識的には止まるものだ」と述べた。 この問題は、酒類提供停止に応じない飲食店に対し、金融機関から順守を働きか...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《 妻と“ドライブ蟹デート” 》NHK「おかあさんといっしょ」体操のまことお兄さんは2児のお父さんだった！「恋愛・結婚は禁止ですか？」と直撃してみたら… | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47146</id>
-        <link href="https://bunshun.jp/articles/-/47146"/>
-        <updated>2021-07-15T23:26:52.000Z</updated>
-        <summary type="html"><![CDATA[体操のお兄さんが結婚し、お父さんに…？ 福尾は、2019年4月、小林よしひさ（40）からバトンを渡された「12代目たいそうのお兄さん」だ。番組の終盤に、秋元杏月（24）と共におこなわれる体操「からだ☆ダンダン」は子どもだけでなく、ママからも大人気だ。 「まことお兄さんといえば、イケメンかつ見事な筋肉美の持ち主で...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[婚活アプリ「Omiai」、運転免許証やパスポートの画像が171万件も流出した経緯 | 日経クロステック（xTECH）]]></title>
         <id>https://xtech.nikkei.com/atcl/nxt/column/18/01157/070900041/</id>
         <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01157/070900041/"/>
@@ -271,16 +281,6 @@
         <link href="https://news.yahoo.co.jp/articles/2a56dec2411dc41d0995185c6d4b6ba830029ab4"/>
         <updated>2021-07-15T21:57:51.000Z</updated>
         <summary type="html"><![CDATA[政府と東京五輪・パラリンピック大会組織委員会は１５日、新型コロナウイルス感染者の濃厚接触者と判断された選手について、試合直前のＰＣＲ検査で陰性の場合は出場を認める方針を固めた。国内では濃厚接触者は１４日間の待機が求められており、特例的な対応となる。 【写真】２回目のワクチン接種後の副反応、予想以上...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開会式縮小提案したら、IOCから「違約金払えるのか」 - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7H745DP7GUTQP02K.html</id>
-        <link href="https://www.asahi.com/articles/ASP7H745DP7GUTQP02K.html"/>
-        <updated>2021-07-15T21:51:21.000Z</updated>
-        <summary type="html"><![CDATA[五輪史上初の1年延期を経て、東京オリンピック（五輪）の開幕まで16日で1週間となった。運営の実務を担う大会組織委員会の職員からは口々に、「延期してまで開催する意義は、何だったのか。いまは、開催することだけが目的になっている」との言葉が出る。新型コロナウイルスの感染拡大は収まらず、現場は無力感にさいな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

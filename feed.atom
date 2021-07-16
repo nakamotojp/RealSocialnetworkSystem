@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T13:17:59.819Z</id>
+    <id>urn:2021-07-16T14:10:59.135Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T13:17:59.819Z</updated>
+    <updated>2021-07-16T14:10:59.135Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,6 +56,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ゲリラ豪雨って言うのやめろ]]></title>
+        <id>https://anond.hatelabo.jp/20210716172951</id>
+        <link href="https://anond.hatelabo.jp/20210716172951"/>
+        <updated>2021-07-16T09:36:48.000Z</updated>
+        <summary type="html"><![CDATA[ベトナム戦争でゲリラに苦しめられたのを思い出す]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊藤潤二傑作集 「首吊り気球」[マンガ無料ためし読み]｜ソノラマプラス]]></title>
+        <id>http://sonorama.asahi.com/comic/itouzyunnzi-kikyuu.html</id>
+        <link href="http://sonorama.asahi.com/comic/itouzyunnzi-kikyuu.html"/>
+        <updated>2021-07-16T08:56:15.000Z</updated>
+        <summary type="html"><![CDATA[高校卒業後、歯科技工士の学校へ入学し、職を得るも、『月刊ハロウィン』（朝日ソノラマ）新人漫画賞「楳図かずお賞」の創設をきっかけに、楳図氏に読んでもらいたい一念で投稿。1986年、投稿作「富江」で佳作受賞。本作がデビュー作となり、代表作になる。3年後、歯科技工士を辞め、漫画家業に専念。「道のない街」「首...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[菅内閣支持２９．３％、発足後最低　初の３割割れ―時事世論調査：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021071600774&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021071600774&amp;g=pol"/>
@@ -71,6 +91,16 @@
         <link href="https://www.tokyo-np.co.jp/article/117165"/>
         <updated>2021-07-16T08:20:40.000Z</updated>
         <summary type="html"><![CDATA[東京都の小池百合子知事は１６日、開幕まで１週間に迫った東京五輪について、新型コロナウイルスの感染状況が好転した場合には「希望されるお子さんたちに会場で、という思い」と、子どもの観戦に前向きな姿勢を示した。 小池氏は「子どもさんにとっては、目の前で競技が行われるのは一生ものだ。東京の子どもたちに、そ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小田急百貨店 新宿店本館、2022年9月末で営業終了。約55年間の営業に終止符。解体へ - トラベル Watch]]></title>
+        <id>https://travel.watch.impress.co.jp/docs/news/1338745.html</id>
+        <link href="https://travel.watch.impress.co.jp/docs/news/1338745.html"/>
+        <updated>2021-07-16T07:54:24.000Z</updated>
+        <summary type="html"><![CDATA[小田急百貨店は7月16日、東京・新宿の新宿店本館の営業を2022年9月末をもって終了することを発表した。小田急（小田急電鉄）と東京メトロ（東京地下鉄）が進める新宿駅西口地区開発計画の進捗に伴うもの。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[藤原 麻里菜 | Marina Fujiwara on Twitter: "終わり際の退出ボタンを探す気まずい空気を解決するために、ZOOMでガチャ切りできる受話器デバイスを作りました https://t.co/aitlUxReg9"]]></title>
-        <id>https://twitter.com/togenkyoo/status/1415612107597381635</id>
-        <link href="https://twitter.com/togenkyoo/status/1415612107597381635"/>
-        <updated>2021-07-16T00:22:14.000Z</updated>
-        <summary type="html"><![CDATA[終わり際の退出ボタンを探す気まずい空気を解決するために、ZOOMでガチャ切りできる受話器デバイスを作りました https://t.co/aitlUxReg9]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《 妻と“ドライブ蟹デート” 》NHK「おかあさんといっしょ」体操のまことお兄さんは2児のお父さんだった！「恋愛・結婚は禁止ですか？」と直撃してみたら… | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/47146</id>
         <link href="https://bunshun.jp/articles/-/47146"/>
@@ -266,31 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[増える自転車「闇通勤」　会社に内緒、リスクは自己責任 [東京インサイド]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7H46DSP7GULEI003.html</id>
-        <link href="https://www.asahi.com/articles/ASP7H46DSP7GULEI003.html"/>
-        <updated>2021-07-15T21:10:18.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大などを背景に、東京など都市部でじわりと広がる自転車通勤。ただ、事故のリスクなどから禁止する企業も少なくなく、会社に内緒で通勤する人たちもいます。 自己責任で不安、会社に言えず自転車通勤　IT関連会社に勤める男性（25）は、天候の良い日は自転車で通勤する。自宅から自転車で片道...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京五輪を政権批判のダシに使うのはやめていただきたく……(川端康生) - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kawabatayasuo/20210715-00248092/</id>
         <link href="https://news.yahoo.co.jp/byline/kawabatayasuo/20210715-00248092/"/>
         <updated>2021-07-15T17:13:56.000Z</updated>
         <summary type="html"><![CDATA[目まいがするのは……＜光る波、白い砂。＞という書き出しで始まった朝刊のコラムが、海水浴場が＜開くべきか、開かざるべきか＞シーズン本番を前に悩んでいることを取り上げていた。 僕も海水浴場のある町に住んでいるから事情はわかる。だから、＜市町村によって結論＞が分かれる悩ましさもわかるし、感染を心配する住民...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck]]></title>
-        <id>https://www.steamdeck.com/ja/</id>
-        <link href="https://www.steamdeck.com/ja/"/>
-        <updated>2021-07-15T17:02:46.000Z</updated>
-        <summary type="html"><![CDATA[過去最高のゲーミングパワー Steam Deck™新登場。$399 USDよりお買い求めいただけます。 2021年12月出荷開始。 ウィッシュリストに追加しよう。 ウィッシュリストに追加]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

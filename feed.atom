@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T16:18:15.348Z</id>
+    <id>urn:2021-07-16T17:20:05.731Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T16:18:15.348Z</updated>
+    <updated>2021-07-16T17:20:05.731Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[何を聞いても「安心・安全」　本紙など３社の異なる質問に同じ答え　首相会見の書面回答：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/117219</id>
+        <link href="https://www.tokyo-np.co.jp/article/117219"/>
+        <updated>2021-07-16T12:41:14.000Z</updated>
+        <summary type="html"><![CDATA[政府は１６日、菅義偉首相の８日の記者会見で指名されなかった報道機関が、会見後に提出した質問に書面で回答した。本紙は東京五輪に関し、新型コロナウイルス緊急事態宣言下で、国民の健康を危険にさらすリスクを冒してまで開催する意義を尋ねた。首相は一部競技の無観客開催などの対策を挙げ、「対策を徹底し安心・安...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田さん、過去のいじめ加害発言を謝罪　開会式で作曲：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7J5DVBP7JUTIL043.html</id>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WEB特集 男性のレイプ被害 HIVに感染も「被害を認識できなかった」 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210716/k10013141371000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210716/k10013141371000.html"/>
+        <updated>2021-07-16T08:27:52.000Z</updated>
+        <summary type="html"><![CDATA[ダイスケさん（40代・仮名）です。関東地方で看護師として働き、妻と2人の子どもと暮らしています。 ダイスケさんが被害に遭ったのは3年前。知り合いの男性に誘われて行った、男性専用のサウナでの出来事でした。 汗を流したあと、チューハイを飲むように勧められました。そこには睡眠薬が入っていたとみられ、急激な睡...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小池知事、子どもの五輪観戦に前向き「一生もの」感染状況好転で：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/117165</id>
         <link href="https://www.tokyo-np.co.jp/article/117165"/>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪まで1週間 菅首相 「安心安全な大会実現へ 高い緊張感を」 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210716/k10013142041000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210716/k10013142041000.html"/>
-        <updated>2021-07-16T02:30:46.000Z</updated>
-        <summary type="html"><![CDATA[開幕まで1週間となった東京オリンピックに向けて、政府は推進本部の会合を開き、菅総理大臣は、感染対策を徹底し国民の命と健康を守り、安心・安全な大会を実現していくため、高い緊張感を持って取り組むよう関係閣僚に指示しました。 この中で菅総理大臣は「東京オリンピックの開幕まで、いよいよ1週間となった。緊急事...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[おしゃれな手術着で会社に行ってもいいですか :: デイリーポータルZ]]></title>
         <id>https://dailyportalz.jp/kiji/osyare-scrub-classico</id>
         <link href="https://dailyportalz.jp/kiji/osyare-scrub-classico"/>
@@ -291,16 +301,6 @@
         <link href="https://news.yahoo.co.jp/byline/kawabatayasuo/20210715-00248092/"/>
         <updated>2021-07-15T17:13:56.000Z</updated>
         <summary type="html"><![CDATA[目まいがするのは……＜光る波、白い砂。＞という書き出しで始まった朝刊のコラムが、海水浴場が＜開くべきか、開かざるべきか＞シーズン本番を前に悩んでいることを取り上げていた。 僕も海水浴場のある町に住んでいるから事情はわかる。だから、＜市町村によって結論＞が分かれる悩ましさもわかるし、感染を心配する住民...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPバージョンアップけもの道 - Speaker Deck]]></title>
-        <id>https://speakerdeck.com/uzulla/phpbaziyonatupukemofalsedao</id>
-        <link href="https://speakerdeck.com/uzulla/phpbaziyonatupukemofalsedao"/>
-        <updated>2021-07-15T10:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Transcript ʮPHPɺόʔδϣϯΞοϓ͠φΠτʂʂʯ ஫ɿ15࣌͸னؒͰ͢ PHPόʔδϣϯΞοϓ͚΋ͷಓ at PHPόʔδϣϯΞοϓ kickoff - 2021/07/15 @uzulla ࣗݾ঺հ • uzullaʢ͏ͣΒʣ • PHP͕޷͖ • ৽ن΋վम΋΍ΔPHPerͰ͢ • var΍ɺ&=ʹ΋ରԠPHPerͰ͢ ࠷ۙPR TIMES͞Μͷ͓ख఻͍ͯ͠·͢ • CTOʮϨΨγʔରԠPHPerͰɺύοͱདྷΕΔਓ͕ଞʹࢥ͍͔ͭ ͳ͔ͬͨʯ • ࢲʮΘ͔ΔɺԶ΋஌Βͳ͍ʯ ࠷ॳʹ·ͱΊ • PHPόʔδϣϯΞοϓ͸ʮ࡞ۀʯͰ͋Δ • ෳࡶʹݟ͑Δ໰୊͸෼ղ͠୯७ʹɺ΍Γ͖ΕΔख๏Ͱ࣮ߦ͢Δ • ςετ͕ॆ࣮͍ͯ͠ͳ͚Ε͹ɺ৽چൺֱ͢ΔE2EςετΛਪ঑ ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

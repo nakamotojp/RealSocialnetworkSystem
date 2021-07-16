@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T06:15:08.706Z</id>
+    <id>urn:2021-07-16T07:10:55.522Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T06:15:08.706Z</updated>
+    <updated>2021-07-16T07:10:55.522Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://news.yahoo.co.jp/articles/f293718e75b3f8d8f5b0a735901a4373b8a1be98"/>
         <updated>2021-07-16T01:35:14.000Z</updated>
         <summary type="html"><![CDATA[脳科学者の茂木健一郎氏が１６日、ツイッターを更新。東京五輪の開会式の作曲担当となった小山田圭吾の過去の雑誌インタビューが拡散され、ネットで物議を醸していることに、本人が会見する以外「おさまり方はないように思う」との意見を投稿した。 １５日までに発表された東京五輪開会式のクリエーティブチームに名を連...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リモートワークの弊害は職場でのよい思い出が作りにくいこと - BASEプロダクトチームブログ]]></title>
+        <id>https://devblog.thebase.in/entry/2021/07/16/085751</id>
+        <link href="https://devblog.thebase.in/entry/2021/07/16/085751"/>
+        <updated>2021-07-16T01:31:25.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。BASEの藤川です。 緊急事態宣言も続く状況下で、当社もリモートワーク（Work From Home）中心の仕事の進め方をしています。ネット系企業は、幸いにしてVPN、Slack、GitHubやドキュメント管理ツール、その他仕事に必要なSaaSやZOOMがオンライン化しているため仕事の作業そのものは、それほど違和感なく自宅か...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,16 +241,6 @@
         <link href="https://www.oukakreuz.com/entry/tsuruya-nagano"/>
         <updated>2021-07-15T13:32:34.000Z</updated>
         <summary type="html"><![CDATA[海外でも国内でも、旅先では現地のスーパーを見るのが大好きな私。ずっと行きたかったご当地スーパーに行ってきたよ〜！！その名も長野のツルヤ！！ 長野らしく地元の果物や野菜をふんだんに使ったプライベートブランドが有名なスーパーで、過去にお土産でおいしいジュースを頂いてからずっと自分でも行ってみたかったの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】バッハ会長が菅首相に“有観客開催”検討を要望 官邸で｜TBS NEWS]]></title>
-        <id>https://news.tbs.co.jp/newseye/tbs_newseye4315709.html</id>
-        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4315709.html"/>
-        <updated>2021-07-15T12:32:06.000Z</updated>
-        <summary type="html"><![CDATA[ＩＯＣ＝国際オリンピック委員会のバッハ会長が１４日、菅総理と会談した際に、コロナの感染状況が改善した際には観客を入れてほしいと要望していたことが明らかになりました。 バッハ会長は、１４日午後に菅総理と会談し、「今回の東京大会はいろいろな意味で歴史的な大会となる」などとして、大会を成功させるため協力...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

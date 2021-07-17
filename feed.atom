@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-17T05:10:01.282Z</id>
+    <id>urn:2021-07-17T06:14:30.912Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T05:10:01.282Z</updated>
+    <updated>2021-07-17T06:14:30.912Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://bunshun.jp/articles/-/47166"/>
         <updated>2021-07-17T02:51:27.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックのほとんどの競技が無観客となることが発表された。開幕まで2週間というタイミングでの発表に、世界中が驚くというよりも呆れている。 オリンピック組織委員会の混乱は、大会運営だけでなくメディア対応にも表れている。メディアにとって今頃は本来ならば精力的な直前取材を行っていたはずの時期だが「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俺は逆にあの謝罪文がこうやって受け入れられ許されていくことに打ちのめ..]]></title>
+        <id>https://anond.hatelabo.jp/20210717080715</id>
+        <link href="https://anond.hatelabo.jp/20210717080715"/>
+        <updated>2021-07-17T02:33:52.000Z</updated>
+        <summary type="html"><![CDATA[俺は逆にあの謝罪文がこうやって受け入れられ許されていくことに打ちのめされてるわ。 イジメで完全に人生が崩壊したので、ああいうことをした人間がオリパラのような大舞台で許容され、称賛されてるのを暖かく見ることができない。 理性では厚生した人間を許すことが大事なのはわかるのだが、どうしても感情がついてこ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -36,11 +46,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新型コロナ: 40度の熱、激烈な頭痛　接種後に記者襲った「デルタ型」: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUE102870Q1A710C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUE102870Q1A710C2000000/"/>
+        <updated>2021-07-16T23:15:56.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新型コロナウイルスで感染力の強いインド型（デルタ型）などの変異型が、日本でも急速に拡大している。ワクチンが本来の効果を発揮するには2回接種の上に一定期間が必...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全トヨタ労連「立憲切り」 野党共闘に打ち込むくさび　：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7J6T4NP7JOIPE02X.html</id>
         <link href="https://www.asahi.com/articles/ASP7J6T4NP7JOIPE02X.html"/>
         <updated>2021-07-16T23:00:24.000Z</updated>
         <summary type="html"><![CDATA[今秋までに実施される衆院選に向け、愛知県内（全15選挙区）でも各党が準備を進めている。かつて「民主王国」と呼ばれた愛知では、長年良好な関係を築いてきた労働組合が一部の国会議員と距離を置く動きを見せている。 愛知県選出の旧民主国会議員とは「連絡会」を作って情報交換や選挙を支援してきたが、今後のメンバー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我が家の BigQuery による台所事情分析 - nownab.log]]></title>
+        <id>https://blog.nownabe.com/2020/12/13/home-finance-with-bigquery/</id>
+        <link href="https://blog.nownabe.com/2020/12/13/home-finance-with-bigquery/"/>
+        <updated>2021-07-16T22:48:54.000Z</updated>
+        <summary type="html"><![CDATA[弊家では銀行やクレジットカードの明細を BigQuery に取り込んでダッシュボードを作ったりしています。 また、そのために作った BigQuery 向けの Go 製 ETL フレームワークを OSS として公開しました。 本記事ではざっくりどんなもんかを紹介して、どう作るのかを説明します。 Google Cloud Platform Advent Calendar 20...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不明のウガンダ選手、部屋に残したメモ　駅で切符買う姿 - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7J7L0LP7JPTIL04T.html</id>
-        <link href="https://www.asahi.com/articles/ASP7J7L0LP7JPTIL04T.html"/>
-        <updated>2021-07-16T14:49:02.000Z</updated>
-        <summary type="html"><![CDATA[大阪府泉佐野市は16日、東京五輪出場のため同市内で事前合宿していたウガンダ選手団9人のうち、重量挙げの男性選手（20）が宿泊先のホテルから行方不明になったと発表した。市は大阪府警に通報し、行方を捜している。来日選手は原則として、宿泊先と競技場などを除いた移動は禁じられている。 16日夜に取材に応じた千代...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[広島訪問のバッハ氏、核廃絶に言及なし　自治体はコロナ下で苦慮 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210716/k00/00m/040/422000c</id>
         <link href="https://mainichi.jp/articles/20210716/k00/00m/040/422000c"/>
@@ -271,26 +291,6 @@
         <link href="https://mainichi.jp/articles/20210716/k00/00m/010/279000c"/>
         <updated>2021-07-16T09:44:41.000Z</updated>
         <summary type="html"><![CDATA[平井卓也デジタル改革担当相は16日の閣議後記者会見で、内閣府政務官だった2006年に大臣規範に反してIT企業の株式を購入していたとして「不注意だった。おわびを申し上げたい」と陳謝した。 平井氏によると、06年6月の株購入後、国会議員資産公開法で提出が義務づけられている資産報告書に保有の事実を記載していなかっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊藤潤二傑作集 「首吊り気球」[マンガ無料ためし読み]｜ソノラマプラス]]></title>
-        <id>http://sonorama.asahi.com/comic/itouzyunnzi-kikyuu.html</id>
-        <link href="http://sonorama.asahi.com/comic/itouzyunnzi-kikyuu.html"/>
-        <updated>2021-07-16T08:56:15.000Z</updated>
-        <summary type="html"><![CDATA[高校卒業後、歯科技工士の学校へ入学し、職を得るも、『月刊ハロウィン』（朝日ソノラマ）新人漫画賞「楳図かずお賞」の創設をきっかけに、楳図氏に読んでもらいたい一念で投稿。1986年、投稿作「富江」で佳作受賞。本作がデビュー作となり、代表作になる。3年後、歯科技工士を辞め、漫画家業に専念。「道のない街」「首...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020東京オリンピックの記憶が始まってもないのに多すぎる]]></title>
-        <id>https://anond.hatelabo.jp/20210715205330</id>
-        <link href="https://anond.hatelabo.jp/20210715205330"/>
-        <updated>2021-07-16T08:16:19.000Z</updated>
-        <summary type="html"><![CDATA[これは大河ドラマですわ ・齋藤ウィリアム浩幸氏の件 ・オリンピック委員買収疑惑の件 ・アンダーコントロールの件 ・コンパクト五輪の件 ・ザハ案の件 ・エンブレムの件 ・マラソン競歩会場移転の件 ・トライアスロンの件 ・笠の件 ・暑さ対策？舗装、街路樹伐採の件 ・コンビニからエロ本撤去の件 ・豊洲移転の件 ・サ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

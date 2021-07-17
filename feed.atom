@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-17T11:09:40.882Z</id>
+    <id>urn:2021-07-17T12:17:53.466Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T11:09:40.882Z</updated>
+    <updated>2021-07-17T12:17:53.466Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,11 +26,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 新たに1410人感染確認 4日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 2人死亡 1410人感染確認 4日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210717/k10013144631000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210717/k10013144631000.html"/>
         <updated>2021-07-17T07:52:09.000Z</updated>
-        <summary type="html"><![CDATA[東京都は17日、都内で新たに1410人が新型コロナウイルスに感染していることを確認したと発表しました。都内で1日に1000人を超えるのは4日連続です。また、1週間前の土曜日より460人増え、感染の急拡大が続いています。 一方、都の基準で集計した17日時点の重症の患者は、16日より6人増えて59人でした。]]></summary>
+        <summary type="html"><![CDATA[東京都は、17日、都内で新たに1410人が新型コロナウイルスに感染していることを確認したと発表し、これで4日連続で1000人を超えました。17日までの7日間平均は1012人となり、1000人を突破するのはことし1月27日以来です。 東京都は、17日都内で新たに10歳未満から100歳以上までの男女合わせて1410人が新型コロナウイルス...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +51,26 @@
         <link href="https://www.tokyo-sports.co.jp/sports/3431193/"/>
         <updated>2021-07-17T07:40:43.000Z</updated>
         <summary type="html"><![CDATA[ＩＯＣバッハ会長 大人数による〝バッハ歓迎パーティー〟開催に国民の怒りが頂点に達し、自粛破りが急加速しそうだ。 東京五輪のため来日している国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長（６７）の歓迎会が１８日に開催されることが決まった。菅首相、東京都の小池知事、大会組織委員会の橋本会長、森...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[東京五輪] 小山田圭吾の代わりは誰がいい？]]></title>
+        <id>https://anond.hatelabo.jp/20210717162602</id>
+        <link href="https://anond.hatelabo.jp/20210717162602"/>
+        <updated>2021-07-17T07:26:57.000Z</updated>
+        <summary type="html"><![CDATA[日本には優秀なアーティストがたくさんいる。 わざわざ地雷を選んで全世界に日本の恥晒しをする必要はない。 小山田圭吾に代わって、五輪開会式で誰の音楽を聴きたいですか？]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : NHK・Eテレの音楽監督「偉いよ小山田くん。いい音出してこう！！！！！寧ろ炎上なんか◯◯喰らえ。」 - ライブドアブログ]]></title>
+        <id>http://blog.livedoor.jp/dqnplus/archives/2009290.html</id>
+        <link href="http://blog.livedoor.jp/dqnplus/archives/2009290.html"/>
+        <updated>2021-07-17T07:16:23.000Z</updated>
+        <summary type="html"><![CDATA[NHK・Eテレの音楽監督「偉いよ小山田くん。いい音出してこう！！！！！寧ろ炎上なんか◯◯喰らえ。」 1 名前：Anonymous ★：2021/07/17(土) 10:28:37.34 ID:CAP_USER9 糞を同級生に食べさせた小山田圭吾さんのeテレ仲間、ゴンドウトモヒコさんが「〇〇喰らえ」という表現でエールを送っています。何故かツイートは消されて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[共産・田村氏「全体主義とは無縁」　国民・玉木代表の発言に反論 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210716/k00/00m/010/467000c</id>
-        <link href="https://mainichi.jp/articles/20210716/k00/00m/010/467000c"/>
-        <updated>2021-07-16T15:45:36.000Z</updated>
-        <summary type="html"><![CDATA[共産党の田村智子政策委員長は16日の記者会見で、国民民主党と連合の政策協定で排除すべき対象とされた「全体主義」という文言を巡り、同党の玉木雄一郎代表が「共産党のことだ」と名指ししたことについて、「事実と違う発言だ」と強く否定した。選挙協力など共闘への影響については言及を避けた。 田村氏は「日本共産党...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「中学生でこれはクオリティが高い」掃除してたらハチャメチャな教科書の落書きが出てきて笑っちゃった - Togetter]]></title>
         <id>https://togetter.com/li/1745749</id>
         <link href="https://togetter.com/li/1745749"/>
@@ -291,16 +301,6 @@
         <link href="https://www.tokyo-np.co.jp/article/117226"/>
         <updated>2021-07-16T12:41:38.000Z</updated>
         <summary type="html"><![CDATA[内閣官房は１６日の野党会合で、東京五輪・パラリンピックのため来日して１４日以内の関係者に対し、宿泊先から１５分以内なら監督者の帯同なしで外出できるとのルールを設けている例があったと明らかにした。１３日の会合で、こうした実態を取り上げた一部報道の真偽を問われた際には「組織委員会に確認したところ、そ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExcelやGoogleスプレッドシートをMarkdown出力するVS Codeの拡張機能「Excel to Markdown table」が便利すぎる件 | DevelopersIO]]></title>
-        <id>https://dev.classmethod.jp/articles/excel-to-markdown-table/</id>
-        <link href="https://dev.classmethod.jp/articles/excel-to-markdown-table/"/>
-        <updated>2021-07-16T06:25:41.000Z</updated>
-        <summary type="html"><![CDATA[ExcelやGoogleスプレッドシートをMarkdown出力するVS Codeの拡張機能「Excel to Markdown table」が便利すぎる件 Markdownでテーブルを表現するにはつらみが深すぎる みなさんはMarkdownでテーブルを書くことは得意ですか? 私は苦手です。 簡単なテーブルは簡単に書けるのですが、以下のようなテーブルを書くことには抵...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

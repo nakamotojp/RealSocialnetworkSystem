@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-17T10:12:47.397Z</id>
+    <id>urn:2021-07-17T11:09:40.882Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T10:12:47.397Z</updated>
+    <updated>2021-07-17T11:09:40.882Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[34歳童貞子供部屋おじさんが女性に縁が無さすぎて母親から怒られた件]]></title>
+        <id>https://anond.hatelabo.jp/20210717133234</id>
+        <link href="https://anond.hatelabo.jp/20210717133234"/>
+        <updated>2021-07-17T09:03:53.000Z</updated>
+        <summary type="html"><![CDATA[タイトルに書いてある通りのことが起きた。本当のことを言えば怒られた発端は俺の炊飯予約がミスってて朝に米が炊けてなかったことなのだが、ここから色んなトコロに連鎖的に怒りが爆発して 「悔しかったら彼女の一人でも連れてこい！」 「お前みたいな米も炊けない半人前になびく女なんかいない！」 「●●くん（小学校の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織委、小山田さん続投に理解を　いじめ告白問題で ｜ 共同通信]]></title>
+        <id>https://nordot.app/789040374138093568</id>
+        <link href="https://nordot.app/789040374138093568"/>
+        <updated>2021-07-17T08:08:43.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の開会式で楽曲制作を担当するミュージシャンの小山田圭吾さんが過去に雑誌のインタビューで学生時代のいじめについて告白していた問題を巡り、東京五輪・パラリンピック組織委員会の武藤敏郎事務総長は17日の記者会見で「十分に謝罪し、反省している。このタイミングでもあるので引き続き支え、貢献してもらい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 新たに1410人感染確認 4日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210717/k10013144631000.html</id>
@@ -21,6 +41,16 @@
         <link href="https://anond.hatelabo.jp/20210717164711"/>
         <updated>2021-07-17T07:48:07.000Z</updated>
         <summary type="html"><![CDATA[[B! COVID-19] 東京都 新型コロナ 1人死亡 1271人感染確認 3日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース https://b.hatena.ne.jp/entry/s/www3.nhk.or.jp/news/html/20210716/k10013142781000.html id:koutatan 感染者は急増しているにも関わらず重症者は昨日より4人減った。死者はわずか1人。mRNAワクチン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【東京五輪】バッハ歓迎パーティーに国民怒り爆発　自粛破り加速必至 | 東スポのスポーツ総合に関するニュースを掲載]]></title>
+        <id>https://www.tokyo-sports.co.jp/sports/3431193/</id>
+        <link href="https://www.tokyo-sports.co.jp/sports/3431193/"/>
+        <updated>2021-07-17T07:40:43.000Z</updated>
+        <summary type="html"><![CDATA[ＩＯＣバッハ会長 大人数による〝バッハ歓迎パーティー〟開催に国民の怒りが頂点に達し、自粛破りが急加速しそうだ。 東京五輪のため来日している国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長（６７）の歓迎会が１８日に開催されることが決まった。菅首相、東京都の小池知事、大会組織委員会の橋本会長、森...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我が家の BigQuery による台所事情分析 - nownab.log]]></title>
-        <id>https://blog.nownabe.com/2020/12/13/home-finance-with-bigquery/</id>
-        <link href="https://blog.nownabe.com/2020/12/13/home-finance-with-bigquery/"/>
-        <updated>2021-07-16T22:48:54.000Z</updated>
-        <summary type="html"><![CDATA[弊家では銀行やクレジットカードの明細を BigQuery に取り込んでダッシュボードを作ったりしています。 また、そのために作った BigQuery 向けの Go 製 ETL フレームワークを OSS として公開しました。 本記事ではざっくりどんなもんかを紹介して、どう作るのかを説明します。 Google Cloud Platform Advent Calendar 20...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[まつもと🇫🇷＼呪！五輪／ on Twitter: "実際の数字を重ねてみた https://t.co/BzS11KXkAc https://t.co/fVmOdR3eRo"]]></title>
         <id>https://twitter.com/matsuwitter/status/1416012112627785734</id>
         <link href="https://twitter.com/matsuwitter/status/1416012112627785734"/>
@@ -271,26 +291,6 @@
         <link href="https://www.tokyo-np.co.jp/article/117226"/>
         <updated>2021-07-16T12:41:38.000Z</updated>
         <summary type="html"><![CDATA[内閣官房は１６日の野党会合で、東京五輪・パラリンピックのため来日して１４日以内の関係者に対し、宿泊先から１５分以内なら監督者の帯同なしで外出できるとのルールを設けている例があったと明らかにした。１３日の会合で、こうした実態を取り上げた一部報道の真偽を問われた際には「組織委員会に確認したところ、そ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何を聞いても「安心・安全」　本紙など３社の異なる質問に同じ答え　首相会見の書面回答：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/117219</id>
-        <link href="https://www.tokyo-np.co.jp/article/117219"/>
-        <updated>2021-07-16T12:41:14.000Z</updated>
-        <summary type="html"><![CDATA[政府は１６日、菅義偉首相の８日の記者会見で指名されなかった報道機関が、会見後に提出した質問に書面で回答した。本紙は東京五輪に関し、新型コロナウイルス緊急事態宣言下で、国民の健康を危険にさらすリスクを冒してまで開催する意義を尋ねた。首相は一部競技の無観客開催などの対策を挙げ、「対策を徹底し安心・安...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バキ道】ツイフェミさん、範馬勇次郎氏に物申す「範馬勇次郎に伝えたい。レイプは本当にやめて」「女性は”男性に襲われる性”ではない」→ツッコミ殺到。 - Togetter]]></title>
-        <id>https://togetter.com/li/1745626</id>
-        <link href="https://togetter.com/li/1745626"/>
-        <updated>2021-07-16T11:39:50.000Z</updated>
-        <summary type="html"><![CDATA[金田淳子｜実写ドラマ化ッッ @kaneda_junko やおい・BLの研究家、フェミニスト、在野武将の金田淳子です。『『グラップラー刃牙』はBLではないかと1日30時間300日考えた乙女の記録ッッ』発売中＆驚異の実写ドラマ化！　はてなブログkanejun.net　アイコンは21歳で亡くなった♀猫ヒロです。お仕事はopengomajpあっとまーく...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

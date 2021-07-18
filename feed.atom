@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T03:13:17.769Z</id>
+    <id>urn:2021-07-18T04:15:07.373Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T03:13:17.770Z</updated>
+    <updated>2021-07-18T04:15:07.373Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ロッキング・オン・ジャパン94年1月号小山田圭吾インタビュー記事に関して (2021/07/18) 山崎洋一郎の「総編集長日記」 ｜音楽情報サイトrockinon.com(ロッキング・オン ドットコム)]]></title>
+        <id>https://rockinon.com/blog/yamazaki/199668?rtw</id>
+        <link href="https://rockinon.com/blog/yamazaki/199668?rtw"/>
+        <updated>2021-07-18T03:15:05.000Z</updated>
+        <summary type="html"><![CDATA[小山田圭吾氏が東京オリンピック・パラリンピックのクリエイティブチームの一員に選出されたことを受け、94年1月号のロッキング・オン・ジャパンに掲載されたインタビューで氏が話された中学時代のいじめエピソードが各方面で引用、議論されています。 その時のインタビュアーは私であり編集長も担当しておりました。そ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[河野太郎氏、生放送で菅首相のワクチン接種目標の前倒しに絶句…「１０月から１１月の早い時期…。頑張るしかない」 : スポーツ報知]]></title>
         <id>https://hochi.news/articles/20210718-OHT1T51017.html</id>
@@ -81,6 +91,16 @@
         <link href="https://www.mag2.com/p/news/504942"/>
         <updated>2021-07-17T17:42:56.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピック開会式の楽曲担当である小山田圭吾氏（52）が、過去の雑誌インタビューで学生時代の「障がい者いじめ」を自慢し批判を受けた問題で、小山田氏は16日、「クラスメイトおよび近隣学校の障がいを持つ方々に対する心ない発言や行為を、当時、反省することなく語っていたことは事実」とする謝罪文を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【コメント全文】吉田麻也「何のための五輪なのか」有観客再検討を訴え - サッカー - 東京オリンピック2020 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/olympic/tokyo2020/soccer/news/202107170001323.html</id>
+        <link href="https://www.nikkansports.com/olympic/tokyo2020/soccer/news/202107170001323.html"/>
+        <updated>2021-07-17T17:10:30.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック（五輪）日本代表の主将、DF吉田麻也（32＝サンプドリア）が、17日のスペイン戦後、オリンピックの有観客開催を再検討して欲しいと強く訴えた。以下、吉田のコメント。 ◇　　　◇　　　◇ 五輪をやるにあたって、国民の税金がたくさん使われていると思うんです。なのに国民が見に行けないのは、じゃあいっ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,26 +271,6 @@
         <link href="https://mainichi.jp/articles/20210717/k00/00m/050/220000c"/>
         <updated>2021-07-17T12:27:38.000Z</updated>
         <summary type="html"><![CDATA[国際オリンピック委員会（IOC）のトーマス・バッハ会長は17日、今回の来日後初の記者会見に臨み、緊急事態宣言下で開催される東京オリンピックについて「日本の方は大会が始まれば歓迎してくれると思う。アスリートを温かく歓迎し、応援してください」と呼びかけた。新型コロナウイルスの感染拡大で開催への反発が強まる...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾の感染者、一桁まで減少　過料やマスクの義務は継続 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7K5QSLP7KUHBI01B.html</id>
-        <link href="https://www.asahi.com/articles/ASP7K5QSLP7KUHBI01B.html"/>
-        <updated>2021-07-17T10:42:01.000Z</updated>
-        <summary type="html"><![CDATA[台湾当局の新型コロナウイルス対策本部は17日の定例会見で、域内の新規感染者数が7人だったと発表した。域内の感染者数が1桁台になるのは、5月11日以来、67日ぶり。ただ、違反者に過料を科す外出時のマスク着用義務など主な防疫策は今月26日まで維持するとしている。 対策本部によると、16日までのワクチン接種は、人口...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese composer who abused disabled classmates and forced them to perform sex acts remains involved in opening ceremony]]></title>
-        <id>https://www.telegraph.co.uk/olympics/2021/07/17/composer-forced-disabled-classmates-eat-faeces-masturbate-will/</id>
-        <link href="https://www.telegraph.co.uk/olympics/2021/07/17/composer-forced-disabled-classmates-eat-faeces-masturbate-will/"/>
-        <updated>2021-07-17T10:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Tokyo Olympics organisers insist they are happy for a famous Japanese musician to continue as a composer for next week’s opening ceremony despite interviews resurfacing where he described abusing mentally ill classmates and forcing them to carry out sex acts in front of other students. Keigo Oyam...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

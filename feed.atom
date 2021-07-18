@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T00:40:13.401Z</id>
+    <id>urn:2021-07-18T01:55:44.710Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T00:40:13.401Z</updated>
+    <updated>2021-07-18T01:55:44.710Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【北の富士コラム】白鵬には愛想が尽きた…44回も優勝してもまだあのような汚い手段で優勝したいのか：中日スポーツ・東京中日スポーツ]]></title>
+        <id>https://www.chunichi.co.jp/article/293116</id>
+        <link href="https://www.chunichi.co.jp/article/293116"/>
+        <updated>2021-07-17T22:50:04.000Z</updated>
+        <summary type="html"><![CDATA[【北の富士コラム】白鵬には愛想が尽きた…44回も優勝してもまだあのような汚い手段で優勝したいのか 2021年7月18日 05時00分]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五輪後、2400人感染も「それくらいなら大丈夫」　政府に開催中止の選択肢なし　：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/117391</id>
@@ -21,6 +31,16 @@
         <link href="https://anond.hatelabo.jp/20210718051310"/>
         <updated>2021-07-17T20:43:39.000Z</updated>
         <summary type="html"><![CDATA[炎上はいじめでも荒らしでもなく社会的制裁、っていうけどさ。 社会的制裁の目的って、何なの？ 圧倒的多数で、反省している人間を、みんなで寄ってたかってボコボコにするのは、何がねらいなの？ いじめについて、その被害を上手く説明してる人がいた。 被害者のメンタルに大きなダメージを与え、 その後の人生に多大な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[せっかく英語のつづりに意味があるのにカタカナにするな]]></title>
+        <id>https://anond.hatelabo.jp/20210718043242</id>
+        <link href="https://anond.hatelabo.jp/20210718043242"/>
+        <updated>2021-07-17T19:40:33.000Z</updated>
+        <summary type="html"><![CDATA[昔からある言葉はしょうがないけど、現代で海外から入ってくる言葉を無理にカタカナ表記にして、一見日本語っぽくするのをやめろ。 今、リコンファーム(reconfirm: [予約など]を再確認する)が話題になってて、そもそもカタカナとか英語とかじゃなくて「再確認」でええやろと思うけど、どうしても英語で言いたいならreとc...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +101,16 @@
         <link href="https://anond.hatelabo.jp/20210718002636"/>
         <updated>2021-07-17T15:29:47.000Z</updated>
         <summary type="html"><![CDATA[中村佑介のブログが炎上して「サンプリング文化を貶めている」って批判されているけど、渋谷系がやっていたことって今手法として定着しているサンプリングとはまったく違って、洋楽のメロディを無断で使って日本語歌詞を乗せるだけの本当にただの無断使用だよ。 たとえば「渋谷系の王子様」と言われた小沢健二のヒット曲...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【悲報】小山田圭吾氏の話が海外でも報道される。ソニーが「コーネリアス 小山田圭吾×ウォークマン」のページを削除。 - Togetter]]></title>
+        <id>https://togetter.com/li/1746214</id>
+        <link href="https://togetter.com/li/1746214"/>
+        <updated>2021-07-17T15:22:31.000Z</updated>
+        <summary type="html"><![CDATA[The Telegraph @Telegraph 🔴Tokyo Olympics organisers insist they are happy for a Keigo Oyamada to continue as a composer for the opening ceremony despite interviews resurfacing where he described abusing mentally ill classmates. 🔓This article is free to read telegraph.co.uk/olympics/2021/… 2021-...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,6 +216,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WindowsがLinuxより優れている点は何ですか？ (OSの設計に関する質問であり、利用者の使い勝手の話ではありません) 。 - Quora]]></title>
+        <id>https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA</id>
+        <link href="https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA"/>
+        <updated>2021-07-17T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IOCバッハ会長「日本の方は五輪が始まれば歓迎してくれる」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210717/k00/00m/050/220000c</id>
         <link href="https://mainichi.jp/articles/20210717/k00/00m/050/220000c"/>
@@ -206,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ会長　国民に呼びかけ　感染対策「信じて欲しい。これほど制約のある大会ない」（デイリースポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/f077c3abd5bed5c661bb6cb0f517fc3e266a5e4c</id>
-        <link href="https://news.yahoo.co.jp/articles/f077c3abd5bed5c661bb6cb0f517fc3e266a5e4c"/>
-        <updated>2021-07-17T10:33:38.000Z</updated>
-        <summary type="html"><![CDATA[国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長は１７日、理事会後にメーンプレスセンターで記者会見を行った。 【写真】韓国選手団が掲げた応援幕　ＩＯＣの要請で撤去する関係者 大会関係者が隔離期間中に宿舎の外で買い物などプレーブック違反が相次いでいるという指摘が続いているが、バッハ会長は「メデ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Japanese composer who abused disabled classmates and forced them to perform sex acts remains involved in opening ceremony]]></title>
         <id>https://www.telegraph.co.uk/olympics/2021/07/17/composer-forced-disabled-classmates-eat-faeces-masturbate-will/</id>
         <link href="https://www.telegraph.co.uk/olympics/2021/07/17/composer-forced-disabled-classmates-eat-faeces-masturbate-will/"/>
         <updated>2021-07-17T10:15:48.000Z</updated>
         <summary type="html"><![CDATA[Tokyo Olympics organisers insist they are happy for a famous Japanese musician to continue as a composer for next week’s opening ceremony despite interviews resurfacing where he described abusing mentally ill classmates and forcing them to carry out sex acts in front of other students. Keigo Oyam...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小山田が反省や後悔を感じていると内々に聞いているから「デザインあ」で..]]></title>
-        <id>https://anond.hatelabo.jp/20210717172602</id>
-        <link href="https://anond.hatelabo.jp/20210717172602"/>
-        <updated>2021-07-17T09:18:26.000Z</updated>
-        <summary type="html"><![CDATA[小山田が反省や後悔を感じていると内々に聞いているから「デザインあ」で起用してるって話がどこかで出てたけど、嘘だったんだな。 Eテレの奴らはみんなグルで、障害者へのいじめなんて◯◯喰らえとしか思ってないから、気にせず小山田を起用してたわけだ。 NHK・Eテレの音楽監督「偉いよ小山田くん。いい音出してこう！！...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : NHK・Eテレの音楽監督「偉いよ小山田くん。いい音出してこう！！！！！寧ろ炎上なんか◯◯喰らえ。」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009290.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009290.html"/>
-        <updated>2021-07-17T07:16:23.000Z</updated>
-        <summary type="html"><![CDATA[NHK・Eテレの音楽監督「偉いよ小山田くん。いい音出してこう！！！！！寧ろ炎上なんか◯◯喰らえ。」 1 名前：Anonymous ★：2021/07/17(土) 10:28:37.34 ID:CAP_USER9 糞を同級生に食べさせた小山田圭吾さんのeテレ仲間、ゴンドウトモヒコさんが「〇〇喰らえ」という表現でエールを送っています。何故かツイートは消されて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中村佑介 公式ブログ - 小山田圭吾さんのこと。 - Powered by LINE]]></title>
         <id>https://lineblog.me/yusuke_nakamura/archives/1062454461.html</id>
         <link href="https://lineblog.me/yusuke_nakamura/archives/1062454461.html"/>
@@ -291,16 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210717144651"/>
         <updated>2021-07-17T06:03:23.000Z</updated>
         <summary type="html"><![CDATA[なぜならいじめは魂の殺人であるからだ。 ここ最近になって「いじめは犯罪行為」 という当然の認識は広く共有されるようになったが、 どうも万引きやスリなどの窃盗や器物損壊、 或いは不良同士の喧嘩のような「若気の至り」とされやすい類の犯罪と同一視されているような印象を受ける。 見当違いもいいところだ。 いじ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ちゃんと開催しようという努力が感じられない」海外メディアが東京五輪に“大憤慨”ワクチンは自己申告、書類は不備ばかり、取材体制は大学以下… | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47166</id>
-        <link href="https://bunshun.jp/articles/-/47166"/>
-        <updated>2021-07-17T02:51:27.000Z</updated>
-        <summary type="html"><![CDATA[筆者は普段はアメリカで陸上などを中心に取材をしているジャーナリストで、東京オリンピックの取材パスは個人で取得した。取材パスを取得したジャーナリストやメディアには、組織委員会から入国手続きやコロナ検査に関する資料、入国してからの行動規制、取材規則など膨大な資料が連日送られてくる。しかしメディアの担...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

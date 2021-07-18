@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T15:13:17.496Z</id>
+    <id>urn:2021-07-18T16:17:22.102Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T15:13:17.496Z</updated>
+    <updated>2021-07-18T16:17:22.102Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ルックバック - 藤本タツキ | 少年ジャンプ＋]]></title>
+        <id>https://shonenjumpplus.com/episode/3269754496401369355</id>
+        <link href="https://shonenjumpplus.com/episode/3269754496401369355"/>
+        <updated>2021-07-18T15:07:05.000Z</updated>
+        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾と和光学園のインクルーシブ教育２｜藤井大地｜note]]></title>
         <id>https://note.com/dmadoy/n/nba5b1452dfbb</id>
@@ -26,11 +36,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[兵庫県知事選 自民・維新推薦の新人 斎藤元彦氏が当選確実 | 選挙 | NHKニュース]]></title>
+        <title type="html"><![CDATA[兵庫県知事選 自民・維新推薦の新人 斎藤元彦氏が初当選 | 選挙 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210718/k10013146501000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210718/k10013146501000.html"/>
         <updated>2021-07-18T11:06:12.000Z</updated>
-        <summary type="html"><![CDATA[20年ぶりに新人どうしの争いとなった兵庫県知事選挙は、自民党と日本維新の会が推薦した前大阪府財政課長の斎藤元彦氏が初めての当選を確実にしました。 兵庫県知事選挙は、開票が始まりました。 NHKの事前の情勢取材や、18日投票した有権者を対象にした出口調査では、自民党と日本維新の会が推薦した斎藤元彦氏がほかの...]]></summary>
+        <summary type="html"><![CDATA[20年ぶりに新人どうしの争いとなった兵庫県知事選挙は、自民党と日本維新の会が推薦した前大阪府財政課長の斎藤元彦氏が初めての当選を果たしました。 斎藤氏は神戸市出身の43歳。 総務省の理事官などを経てことし3月まで大阪府の財政課長を務めていました。 今回の選挙は、5期務めた現職の井戸知事の引退表明で、20年ぶ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://anond.hatelabo.jp/20210717145658"/>
         <updated>2021-07-18T03:21:28.000Z</updated>
         <summary type="html"><![CDATA[「センチメンタル・ジャーニー」（♪伊代はまだ16だから～）以外に、歌い手自体が歌詞に登場するというメタ要素のある歌謡曲って、他にあるのだろうか？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロッキング・オン・ジャパン94年1月号小山田圭吾インタビュー記事に関して (2021/07/18) 山崎洋一郎の「総編集長日記」 ｜音楽情報サイトrockinon.com(ロッキング・オン ドットコム)]]></title>
-        <id>https://rockinon.com/blog/yamazaki/199668</id>
-        <link href="https://rockinon.com/blog/yamazaki/199668"/>
-        <updated>2021-07-18T03:19:26.000Z</updated>
-        <summary type="html"><![CDATA[小山田圭吾氏が東京オリンピック・パラリンピックのクリエイティブチームの一員に選出されたことを受け、94年1月号のロッキング・オン・ジャパンに掲載されたインタビューで氏が話された中学時代のいじめエピソードが各方面で引用、議論されています。 その時のインタビュアーは私であり編集長も担当しておりました。そ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

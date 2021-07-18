@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T17:16:53.661Z</id>
+    <id>urn:2021-07-18T18:14:30.148Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T17:16:53.661Z</updated>
+    <updated>2021-07-18T18:14:30.148Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,26 @@
         <link href="https://note.com/dmadoy/n/nba5b1452dfbb"/>
         <updated>2021-07-18T13:00:48.000Z</updated>
         <summary type="html"><![CDATA[和光学園は昔から障碍者を受け入れ、健常者と同じ学級に編入し、分け隔てなく接する。 和光学園真光寺キャンパス（町田市）には、「翼の木」と呼ばれるアメリカハナミズキが植えられている。教職員の中には、毎朝この木に一礼する人もいるのを見たことがある。 この木にまつわるエピソードは和光学園にとって象徴的なも...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾と和光学園のインクルーシブ教育　１｜藤井大地｜note]]></title>
+        <id>https://note.com/dmadoy/n/nfc00d5f9402d</id>
+        <link href="https://note.com/dmadoy/n/nfc00d5f9402d"/>
+        <updated>2021-07-18T13:00:43.000Z</updated>
+        <summary type="html"><![CDATA[オリンピック開会を一週間後に控えた２０２１年７月１５日、僕はあるニュース記事を見て目を疑った。 それはミュージシャンの小山田圭吾（５２）が、東京五輪の開会式で楽曲製作を担当する、というもの。 僕は「何かの冗談ではないか」と思った。が、そんなことはない。確かに小山田圭吾が楽曲製作を担当するのだという...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[選手村初感染は南アフリカサッカー選手　日本と対戦予定 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7L72GHP7LUTQP01H.html</id>
+        <link href="https://www.asahi.com/articles/ASP7L72GHP7LUTQP01H.html"/>
+        <updated>2021-07-18T12:33:35.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック（五輪）・パラリンピックの大会組織委員会は18日、選手村（東京都中央区）に滞在する海外からの選手2人が、新型コロナウイルスの検査で陽性になったと発表した。選手村に滞在する選手の感染が確認されたのは初めて。 南アフリカオリンピック委員会はこの日、この2選手と、前日に陽性が発表されたスタッ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -96,7 +116,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[鳥山明さんがデザインした？40年前のラジオの取説に描かれたポップなキャラクターのアラレちゃん味が凄い - Togetter]]></title>
+        <title type="html"><![CDATA[鳥山明先生がデザインした？40年前のラジカセの取説に描かれたポップなキャラクターのアラレちゃん味が凄い - Togetter]]></title>
         <id>https://togetter.com/li/1746554</id>
         <link href="https://togetter.com/li/1746554"/>
         <updated>2021-07-18T08:39:50.000Z</updated>
@@ -110,7 +130,7 @@
         <id>https://anond.hatelabo.jp/20210718165938</id>
         <link href="https://anond.hatelabo.jp/20210718165938"/>
         <updated>2021-07-18T08:00:06.000Z</updated>
-        <summary type="html"><![CDATA[CORNELIUSファン掲示板が記事について荒れ始めた2004年、小山田圭吾は擁護するファンに向けて掲示板でこう書いていた。 Theme:庇う人たちへ Name:ch-fl ここはそもそも、議論の場所でもないし 表現の場所でもなかったと思います。 彼らは表現（挑発）をして、そして反応されたいだけなんですよ。 そして哀しいことに、掲...]]></summary>
+        <summary type="html"><![CDATA[CORNELIUSファン掲示板が記事について荒れ始めた2004年、小山田圭吾（追記参照）は擁護するファンに向けて掲示板でこう書いていた。 Theme:庇う人たちへ Name:ch-fl ここはそもそも、議論の場所でもないし 表現の場所でもなかったと思います。 彼らは表現（挑発）をして、そして反応されたいだけなんですよ。 そして哀し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,11 +146,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 新たに1008人感染確認 1000人超は5日連続 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 1008人感染確認 5日連続で1000人超え | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210718/k10013145731000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210718/k10013145731000.html"/>
         <updated>2021-07-18T07:51:05.000Z</updated>
-        <summary type="html"><![CDATA[東京都は、18日、都内で新たに1008人が新型コロナウイルスに感染していることを確認したと発表しました。 1日に1000人を超えるのは5日連続で、1週間前の日曜日より、394人増えました。 一方、都の基準で集計した18日時点の重症の患者は17日より1人減って58人でした。]]></summary>
+        <summary type="html"><![CDATA[東京都内では、18日、新たに1008人が新型コロナウイルスに感染していることが確認され、1日の感染確認が5日連続で1000人を超えました。18日までの7日間平均は1068.3人となり、感染の急拡大に歯止めがかかりません。 東京都は、18日、都内で新たに10歳未満から90代までの男女合わせて1008人が新型コロナウイルスに感染し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,21 +176,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国立競技場で女性乱暴の疑い　五輪スタッフの男逮捕 ｜ 共同通信]]></title>
+        <title type="html"><![CDATA[国立競技場で女性乱暴の疑い　五輪スタッフの外国人を逮捕 ｜ 共同通信]]></title>
         <id>https://nordot.app/789371379803455488</id>
         <link href="https://nordot.app/789371379803455488"/>
         <updated>2021-07-18T06:04:52.000Z</updated>
-        <summary type="html"><![CDATA[国立競技場内で五輪関係のアルバイト女性に乱暴したとして、警視庁は18日、強制性交の疑いで、ウズベキスタン国籍の大学生の男（30）＝住所不詳＝を逮捕した。男は場内でプレス向けに食事提供する会社のアルバイトスタッフだった。]]></summary>
+        <summary type="html"><![CDATA[東京都新宿区の国立競技場内で五輪関係のアルバイト女性に乱暴したとして、警視庁組織犯罪対策2課は18日、強制性交の疑いで、ウズベキスタン国籍の大学生ダヴロンベク・ラフマトゥッラエフ容疑者（30）＝住所不詳＝を逮捕した。同容疑者は、場内でプレス向けに食事提供する会社のアルバイトスタッフとして入場していた。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[武田鉄矢　IOCバッハ会長への批判一蹴「金メダルの話題が2つか3つ重なれば、みんな忘れます」（スポニチアネックス） - Yahoo!ニュース]]></title>
+        <title type="html"><![CDATA[武田鉄矢　IOCバッハ会長への批判に「金メダルの話題が2つか3つ重なれば、みんな忘れます」（スポニチアネックス） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/adcb38fc8e0a9e3b13a194d749ecc3aa765b5b40</id>
         <link href="https://news.yahoo.co.jp/articles/adcb38fc8e0a9e3b13a194d749ecc3aa765b5b40"/>
         <updated>2021-07-18T05:00:09.000Z</updated>
-        <summary type="html"><![CDATA[俳優でタレントの武田鉄矢（72）が18日放送のフジテレビ「ワイドナショー」（日曜前10・00）に出演。開幕が間近に迫った東京五輪について言及した。 番組では、新型コロナウイルス禍での開催となる東京五輪に合わせて来日中の国際オリンピック委員会（IOC）トーマス・バッハ会長（67＝ドイツ）について取り上げた。組織...]]></summary>
+        <summary type="html"><![CDATA[俳優でタレントの武田鉄矢（72）が18日放送のフジテレビ「ワイドナショー」（日曜前10・00）に出演。開幕が間近に迫った東京五輪について言及した。 【写真】懐かしい…「３年Ｂ組金八先生」第２シリーズでの赤木春恵さんと共演した武田鉄矢 番組では、新型コロナウイルス禍での開催となる東京五輪に合わせて来日中の国際...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ゴンドウトモヒコ on Twitter: "［先日の削除したツィートに関して］ 余計な一言のために油に火を注ぐようなことをして大変申し訳ありませんでした。 いじめ、暴力に関しては断固反対です。 謝罪文を支持し過去を払拭できる活動を一メンバーとして非力ながらも協力していきたいと思います。"]]></title>
-        <id>https://twitter.com/gondotomohiko/status/1416588224445652994</id>
-        <link href="https://twitter.com/gondotomohiko/status/1416588224445652994"/>
-        <updated>2021-07-18T02:45:51.000Z</updated>
-        <summary type="html"><![CDATA[［先日の削除したツィートに関して］ 余計な一言のために油に火を注ぐようなことをして大変申し訳ありませんでした。 いじめ、暴力に関しては断固反対です。 謝罪文を支持し過去を払拭できる活動を一メンバーとして非力ながらも協力していきたいと思います。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[カズレーザー　批判浴びる小山田圭吾は自業自得「マイナスの埋め合わせ作業をしてなかった」（スポニチアネックス） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/fed688174c11537064e3a9ad5e1825642c5ce7c1</id>
         <link href="https://news.yahoo.co.jp/articles/fed688174c11537064e3a9ad5e1825642c5ce7c1"/>
@@ -261,16 +271,6 @@
         <link href="https://vergil.hateblo.jp/entry/2021/07/18/105707"/>
         <updated>2021-07-18T02:33:07.000Z</updated>
         <summary type="html"><![CDATA[映画『ONODA』がカンヌでスタンディングオベーションという惨事 ゴーストライターが暴露せざるを得なかったほどひどい手記のデタラメ 小野田はとっくに戦争が終わったことを知っていた 小野田はジャングルに潜んで何をしていたのか？ 小野田はなぜ津田氏のルバング島行きを嫌がったのか フィリピンで戦った英雄は断じて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WindowsがLinuxより優れている点は何ですか？ (OSの設計に関する質問であり、利用者の使い勝手の話ではありません) 。 - Quora]]></title>
-        <id>https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA</id>
-        <link href="https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA"/>
-        <updated>2021-07-17T12:37:00.000Z</updated>
-        <summary type="html"><![CDATA[問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

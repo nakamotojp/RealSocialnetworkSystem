@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T16:17:22.102Z</id>
+    <id>urn:2021-07-18T17:16:53.661Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T16:17:22.102Z</updated>
+    <updated>2021-07-18T17:16:53.661Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,11 +46,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[性犯罪加害者の更正支援団体代表を逮捕　強制性交の疑い：朝日新聞デジタル]]></title>
+        <title type="html"><![CDATA[めいろまさんの語る、小山田圭吾氏の話に絡んだ、昭和の終わりのサブカル界隈の空気について - Togetter]]></title>
+        <id>https://togetter.com/li/1746618</id>
+        <link href="https://togetter.com/li/1746618"/>
+        <updated>2021-07-18T10:58:10.000Z</updated>
+        <summary type="html"><![CDATA[めいろま @May_Roma 小山田圭吾の件をああいう時代だという話があるが、当時若かった自分は実際体験してるが、確かにそう言う空気感はあった。テレビは虐待まがいなイジメコンテンツだらけだった。ただしBurrn!やミュージックライフには虐待をネタにする話は「一切」載らなかった。サブカル界隈や渋谷系は特に鬼畜だった...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[性犯罪加害者の更生支援団体代表を逮捕　強制性交の疑い：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7L5X1GP7LPTIL023.html</id>
         <link href="https://www.asahi.com/articles/ASP7L5X1GP7LPTIL023.html"/>
         <updated>2021-07-18T10:31:18.000Z</updated>
-        <summary type="html"><![CDATA[SNSで知り合った女性に性的暴行を加えたとして、大阪府警は18日、強制性交等容疑で、大阪市旭区太子橋の自称団体職員、松本学容疑者（48）を逮捕したと発表した。「誓約書を書いてもらいプレイしただけだ」と容疑を否認しているという。逮捕は17日付。 刑事特別捜査隊によると、容疑者は性犯罪加害者の更生支援をうたう...]]></summary>
+        <summary type="html"><![CDATA[SNSで知り合った女性に性的暴行を加えたとして、大阪府警は18日、強制性交等容疑で、大阪市旭区太子橋の団体職員、松本学容疑者（48）を逮捕したと発表した。「誓約書を書いてもらいプレイしただけだ」と容疑を否認しているという。逮捕は17日付。 刑事特別捜査隊によると、容疑者は性犯罪加害者の更生支援をうたう一般...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾がどこまで謝罪・贖罪をしたら批判をやめる？]]></title>
+        <id>https://anond.hatelabo.jp/20210718190345</id>
+        <link href="https://anond.hatelabo.jp/20210718190345"/>
+        <updated>2021-07-18T10:10:32.000Z</updated>
+        <summary type="html"><![CDATA[炎上には謝罪しない方が得、という事にならないように、どこかで批判の区切りはつけるべきと思い増田を書こうと思いたった。 そして、できればこういう基準を社会的に共有できれば無限のキャンセル社会や謝罪しない社会は回避できるのではないか、と思ったのでみんなも自分の基準を公開して共有してみてほしい。 オレ自...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,26 +261,6 @@
         <link href="https://vergil.hateblo.jp/entry/2021/07/18/105707"/>
         <updated>2021-07-18T02:33:07.000Z</updated>
         <summary type="html"><![CDATA[映画『ONODA』がカンヌでスタンディングオベーションという惨事 ゴーストライターが暴露せざるを得なかったほどひどい手記のデタラメ 小野田はとっくに戦争が終わったことを知っていた 小野田はジャングルに潜んで何をしていたのか？ 小野田はなぜ津田氏のルバング島行きを嫌がったのか フィリピンで戦った英雄は断じて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【北の富士コラム】白鵬には愛想が尽きた…44回も優勝してもまだあのような汚い手段で優勝したいのか：中日スポーツ・東京中日スポーツ]]></title>
-        <id>https://www.chunichi.co.jp/article/293116</id>
-        <link href="https://www.chunichi.co.jp/article/293116"/>
-        <updated>2021-07-17T22:50:04.000Z</updated>
-        <summary type="html"><![CDATA[【北の富士コラム】白鵬には愛想が尽きた…44回も優勝してもまだあのような汚い手段で優勝したいのか 2021年7月18日 05時00分]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪後、2400人感染も「それくらいなら大丈夫」　政府に開催中止の選択肢なし　：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/117391</id>
-        <link href="https://www.tokyo-np.co.jp/article/117391"/>
-        <updated>2021-07-17T22:38:05.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス緊急事態宣言下での東京五輪開幕まで１週間を切った。東京都では１７日まで４日連続で新規感染者が１０００人を超えるなど、感染状況は明らかに悪化傾向にあり、大会の中止を求める世論は根強い。だが政府には、状況次第で中止を検討する考えは既になく、このまま開幕を迎える方針だ。 菅義偉首相は１...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

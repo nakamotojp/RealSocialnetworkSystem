@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T13:15:55.196Z</id>
+    <id>urn:2021-07-18T14:10:32.700Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T13:15:55.196Z</updated>
+    <updated>2021-07-18T14:10:32.700Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[関西弁の否定表現「～へん」が消えるかもしれない？という話]]></title>
+        <id>https://anond.hatelabo.jp/20210718201139</id>
+        <link href="https://anond.hatelabo.jp/20210718201139"/>
+        <updated>2021-07-18T11:18:12.000Z</updated>
+        <summary type="html"><![CDATA[突然だが、「～しない」「～できない」のことを「～しやん」「～できやん」と表現する方言をご存知だろうか。 昔から三重県・和歌山県・奈良県南部・大阪府南部で使われている方言らしい。俺は大学時代の三重出身の友達がやたらとやんやん言ってたので、三重県の方言のイメージだ。 実は最近、関西の若者全体にこの方言...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兵庫県知事選 自民・維新推薦の新人 斎藤元彦氏が当選確実 | 選挙 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210718/k10013146501000.html</id>
@@ -31,6 +41,16 @@
         <link href="https://nordot.app/789425486668316672"/>
         <updated>2021-07-18T09:37:26.000Z</updated>
         <summary type="html"><![CDATA[【ワシントン共同】米紙ワシントン・ポスト電子版は17日、開幕を23日に控えた東京五輪について、これまでのところ「完全な失敗に見える」と指摘し、1964年の東京五輪のように日本に誇りをもたらすことは期待できないと伝えた。新型コロナウイルス流行の影響で国民に懐疑論が広がり、当初の五輪への熱気は敵意にすら変わ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾さんに「理解に苦しみます」と指摘。障害者の親らでつくる団体が声明 | ハフポスト]]></title>
+        <id>https://www.huffingtonpost.jp/entry/story_jp_60f3dbe2e4b01f11895a654f</id>
+        <link href="https://www.huffingtonpost.jp/entry/story_jp_60f3dbe2e4b01f11895a654f"/>
+        <updated>2021-07-18T09:20:48.000Z</updated>
+        <summary type="html"><![CDATA[大会への参加については、小山田さん本人が謝罪をしていることなどから、「参加取りやめまでを求めるものではありません」とした。 「極めて露悪的と言わざるを得ません」 小山田さんは、「ロッキング・オン・ジャパン」1994年1月号のインタビュー記事などで、学生時代にいじめをしていたことを告白。SNSで記事の内容が...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[河野太郎氏、生放送で菅首相のワクチン接種目標の前倒しに絶句…「１０月から１１月の早い時期…。頑張るしかない」 : スポーツ報知]]></title>
-        <id>https://hochi.news/articles/20210718-OHT1T51017.html</id>
-        <link href="https://hochi.news/articles/20210718-OHT1T51017.html"/>
-        <updated>2021-07-17T23:45:04.000Z</updated>
-        <summary type="html"><![CDATA[河野太郎氏、生放送で菅首相のワクチン接種目標の前倒しに絶句…「１０月から１１月の早い時期…。頑張るしかない」 河野太郎行政改革担当相が１８日、フジテレビ系「日曜報道　ＴＨＥ　ＰＲＩＭＥ」（日曜・午前７時半）にスタジオ生出演した。 番組では、ワクチン接種について、菅義偉首相が１７日に生出演したテレビ番...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【北の富士コラム】白鵬には愛想が尽きた…44回も優勝してもまだあのような汚い手段で優勝したいのか：中日スポーツ・東京中日スポーツ]]></title>
         <id>https://www.chunichi.co.jp/article/293116</id>
         <link href="https://www.chunichi.co.jp/article/293116"/>
@@ -241,16 +251,6 @@
         <link href="https://anond.hatelabo.jp/20210718043242"/>
         <updated>2021-07-17T19:40:33.000Z</updated>
         <summary type="html"><![CDATA[昔からある言葉はしょうがないけど、現代で海外から入ってくる言葉を無理にカタカナ表記にして、一見日本語っぽくするのをやめろ。 今、リコンファーム(reconfirm: [予約など]を再確認する)が話題になってて、そもそもカタカナとか英語とかじゃなくて「再確認」でええやろと思うけど、どうしても英語で言いたいならreとc...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マキタ、純正バッテリーと互換バッテリーの価格差の理由が可視化される : 市況かぶ全力２階建]]></title>
-        <id>https://kabumatome.doorblog.jp/archives/65982903.html</id>
-        <link href="https://kabumatome.doorblog.jp/archives/65982903.html"/>
-        <updated>2021-07-17T18:14:58.000Z</updated>
-        <summary type="html"><![CDATA[ツキノワグマ@Tsukinowa_Gumaマキタ純正バッテリーが高いので中国製の互換バッテリーを買ってみたのだけど、「念のために誰もいない時に充電しないでください」と書かれていて暗に燃えたり爆発する可能性をお知らせしてくれてて親切。 2019/05/30 22:09:09 Hochstern 互換バッテリー hiro_konken@ちくぜんのくにのNo.10@...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

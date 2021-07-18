@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T02:24:24.082Z</id>
+    <id>urn:2021-07-18T03:13:17.769Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T02:24:24.082Z</updated>
+    <updated>2021-07-18T03:13:17.770Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.tokyo-np.co.jp/article/117391"/>
         <updated>2021-07-17T22:38:05.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス緊急事態宣言下での東京五輪開幕まで１週間を切った。東京都では１７日まで４日連続で新規感染者が１０００人を超えるなど、感染状況は明らかに悪化傾向にあり、大会の中止を求める世論は根強い。だが政府には、状況次第で中止を検討する考えは既になく、このまま開幕を迎える方針だ。 菅義偉首相は１...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「笑い堪えられなかった」帝王切開で悶々としていたら車で２時間半かけてやってきた友人のサプライズにほっこりした話 - Togetter]]></title>
+        <id>https://togetter.com/li/1746241</id>
+        <link href="https://togetter.com/li/1746241"/>
+        <updated>2021-07-17T21:22:09.000Z</updated>
+        <summary type="html"><![CDATA[入院中のころぞ🍅2yと36w @koro_mata 帝王切開もんもんとしてたら ラブな友が窓の外で横断幕？してくれてワロタ 車で２時間半ぐらいかけてきてんだよ 面白すぎて笑い堪えられなかった🤣 pic.twitter.com/V2xVTw4NKY 2021-07-17 15:01:59]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,41 +276,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[オープンでフラットな組織が突然「閉鎖的」と言われるとき｜柴田史郎｜note]]></title>
+        <id>https://note.com/4bata/n/n4c1653fe39ac</id>
+        <link href="https://note.com/4bata/n/n4c1653fe39ac"/>
+        <updated>2021-07-17T09:12:49.000Z</updated>
+        <summary type="html"><![CDATA[柴田(@4bata)です。「それぐらいわかるだろ･･･」が通じなくなるタイミングがあるんだなという発見です！最初にツイートでまとめ。 ・オープンでフラットな組織が突然「閉鎖的」と言われるとき ・社歴の長い人の理解：聞かれたら何でも答えるから、うちはオープンでフラットな会社 ・社歴が短い人の理解：情報がちゃんと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[組織委、小山田さん続投に理解を　いじめ告白問題で ｜ 共同通信]]></title>
         <id>https://nordot.app/789040374138093568</id>
         <link href="https://nordot.app/789040374138093568"/>
         <updated>2021-07-17T08:08:43.000Z</updated>
         <summary type="html"><![CDATA[東京五輪の開会式で楽曲制作を担当するミュージシャンの小山田圭吾さんが過去に雑誌のインタビューで学生時代のいじめについて告白していた問題を巡り、東京五輪・パラリンピック組織委員会の武藤敏郎事務総長は17日の記者会見で「十分に謝罪し、反省している。このタイミングでもあるので引き続き支え、貢献してもらい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[東京五輪] 小山田圭吾の代わりは誰がいい？]]></title>
-        <id>https://anond.hatelabo.jp/20210717162602</id>
-        <link href="https://anond.hatelabo.jp/20210717162602"/>
-        <updated>2021-07-17T07:26:57.000Z</updated>
-        <summary type="html"><![CDATA[日本には優秀なアーティストがたくさんいる。 わざわざ地雷を選んで全世界に日本の恥晒しをする必要はない。 小山田圭吾に代わって、五輪開会式で誰の音楽を聴きたいですか？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小山田圭吾を「謝ったから」と許す者は強姦魔も許さなければならない]]></title>
-        <id>https://anond.hatelabo.jp/20210717144651</id>
-        <link href="https://anond.hatelabo.jp/20210717144651"/>
-        <updated>2021-07-17T06:03:23.000Z</updated>
-        <summary type="html"><![CDATA[なぜならいじめは魂の殺人であるからだ。 ここ最近になって「いじめは犯罪行為」 という当然の認識は広く共有されるようになったが、 どうも万引きやスリなどの窃盗や器物損壊、 或いは不良同士の喧嘩のような「若気の至り」とされやすい類の犯罪と同一視されているような印象を受ける。 見当違いもいいところだ。 いじ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「京アニ事件」から2年　青葉真司の「呪われた」家系図　祖父、父、妹が揃って自殺（デイリー新潮） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/df1eccaa0f164cc1f5b1820e478807abca0c864b</id>
-        <link href="https://news.yahoo.co.jp/articles/df1eccaa0f164cc1f5b1820e478807abca0c864b"/>
-        <updated>2021-07-17T05:21:18.000Z</updated>
-        <summary type="html"><![CDATA[令和元年7月18日に起きた京都アニメーション放火殺傷事件。犯人である青葉真司の足跡を辿ると、祖父、父、そして妹が揃って自殺していたことが判明。「呪われた」としか言えない青葉家の歴史に迫る。令和元年に起こった象徴的な事件を追うノンフィクション『令和元年のテロリズム』（新潮社）を刊行したライターの磯部涼...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

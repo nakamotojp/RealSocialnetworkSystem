@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T10:12:40.457Z</id>
+    <id>urn:2021-07-18T11:09:28.186Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T10:12:40.457Z</updated>
+    <updated>2021-07-18T11:09:28.186Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[米紙、東京五輪「完全な失敗」　熱気から敵意に ｜ 共同通信]]></title>
+        <id>https://nordot.app/789425486668316672</id>
+        <link href="https://nordot.app/789425486668316672"/>
+        <updated>2021-07-18T09:37:26.000Z</updated>
+        <summary type="html"><![CDATA[【ワシントン共同】米紙ワシントン・ポスト電子版は17日、開幕を23日に控えた東京五輪について、これまでのところ「完全な失敗に見える」と指摘し、1964年の東京五輪のように日本に誇りをもたらすことは期待できないと伝えた。新型コロナウイルス流行の影響で国民に懐疑論が広がり、当初の五輪への熱気は敵意にすら変わ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾には2004年に謝ってほしかった]]></title>
         <id>https://anond.hatelabo.jp/20210718165938</id>
@@ -46,6 +56,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[武田鉄矢　IOCバッハ会長への批判一蹴「金メダルの話題が2つか3つ重なれば、みんな忘れます」（スポニチアネックス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/adcb38fc8e0a9e3b13a194d749ecc3aa765b5b40</id>
+        <link href="https://news.yahoo.co.jp/articles/adcb38fc8e0a9e3b13a194d749ecc3aa765b5b40"/>
+        <updated>2021-07-18T05:00:09.000Z</updated>
+        <summary type="html"><![CDATA[俳優でタレントの武田鉄矢（72）が18日放送のフジテレビ「ワイドナショー」（日曜前10・00）に出演。開幕が間近に迫った東京五輪について言及した。 番組では、新型コロナウイルス禍での開催となる東京五輪に合わせて来日中の国際オリンピック委員会（IOC）トーマス・バッハ会長（67＝ドイツ）について取り上げた。組織...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[太田光「いじめ告白」小山田圭吾氏に「その時代の価値観知り評価しないと」（日刊スポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/4db68592dafbeb4c0274d6d1cf4566b87b637e79</id>
         <link href="https://news.yahoo.co.jp/articles/4db68592dafbeb4c0274d6d1cf4566b87b637e79"/>
@@ -71,6 +91,16 @@
         <link href="https://twitter.com/poe1985/status/1416068064026583045"/>
         <updated>2021-07-18T03:43:17.000Z</updated>
         <summary type="html"><![CDATA[本当そうだよね。まあ民事の場合、裁判を起こすには頭とお金がいるから。。。 https://t.co/PXRnjF8Url]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「センチメンタル・ジャーニー」（♪伊代はまだ16だから～）以外に、歌い手..]]></title>
+        <id>https://anond.hatelabo.jp/20210717145658</id>
+        <link href="https://anond.hatelabo.jp/20210717145658"/>
+        <updated>2021-07-18T03:21:28.000Z</updated>
+        <summary type="html"><![CDATA[「センチメンタル・ジャーニー」（♪伊代はまだ16だから～）以外に、歌い手自体が歌詞に登場するというメタ要素のある歌謡曲って、他にあるのだろうか？]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【コメント全文】吉田麻也「何のための五輪なのか」有観客再検討を訴え - サッカー - 東京オリンピック2020 : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/olympic/tokyo2020/soccer/news/202107170001323.html</id>
-        <link href="https://www.nikkansports.com/olympic/tokyo2020/soccer/news/202107170001323.html"/>
-        <updated>2021-07-17T17:10:30.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック（五輪）日本代表の主将、DF吉田麻也（32＝サンプドリア）が、17日のスペイン戦後、オリンピックの有観客開催を再検討して欲しいと強く訴えた。以下、吉田のコメント。 ◇　　　◇　　　◇ 五輪をやるにあたって、国民の税金がたくさん使われていると思うんです。なのに国民が見に行けないのは、じゃあいっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【東京五輪】韓国が今度は遠泳会場を批判「東京湾は汚物のにおい」「競技継続困難」（東スポWeb） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/3f62ffea65039c2349304c28d3062fe1e06c12f9</id>
         <link href="https://news.yahoo.co.jp/articles/3f62ffea65039c2349304c28d3062fe1e06c12f9"/>
@@ -251,26 +271,6 @@
         <link href="https://anond.hatelabo.jp/20210718002636"/>
         <updated>2021-07-17T15:29:47.000Z</updated>
         <summary type="html"><![CDATA[中村佑介のブログが炎上して「サンプリング文化を貶めている」って批判されているけど、渋谷系がやっていたことって今手法として定着しているサンプリングとはまったく違って、洋楽のメロディを無断で使って日本語歌詞を乗せるだけの本当にただの無断使用だよ。 たとえば「渋谷系の王子様」と言われた小沢健二のヒット曲...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料でオープンソースのメディアプレイヤー「VLC」で簡単にPCの画面を録画する方法 - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210717-record-screen-with-vlc/</id>
-        <link href="https://gigazine.net/news/20210717-record-screen-with-vlc/"/>
-        <updated>2021-07-17T15:11:20.000Z</updated>
-        <summary type="html"><![CDATA[PCでの作業を記録したり、ソフトウェアの使い方を説明したり、PCの画面を録画できるとお役立ちなケースはよくあります。PCの画面を録画するにはWindowsの標準搭載されている「ゲームバー」機能や、オープンソースの配信ソフト「OBS」を利用する方法がありますが、このほかに「メディアプレイヤーソフト『VLC』で録画する...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉田麻也が五輪無観客開催に覚悟の訴え「もう一度真剣に検討してほしい」「選手も毎日命をかけて…」 | ゲキサカ]]></title>
-        <id>https://web.gekisaka.jp/news/detail/?336869-336869-fl</id>
-        <link href="https://web.gekisaka.jp/news/detail/?336869-336869-fl"/>
-        <updated>2021-07-17T14:49:08.000Z</updated>
-        <summary type="html"><![CDATA[[7.17 キリンチャレンジ杯 U-24日本 1-1 U-24スペイン ノエスタ] U-24日本代表の主将DF吉田麻也(サンプドリア)が東京五輪の無観客開催についてアスリートとして思いの丈を語り、「真剣にもう一度検討していただきたいと心から思っています」と有観客の再検討を訴えた。 この日、神戸で行われたスペイン戦はサポーターが...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

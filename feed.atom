@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T20:11:56.727Z</id>
+    <id>urn:2021-07-19T21:11:21.805Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T20:11:56.727Z</updated>
+    <updated>2021-07-19T21:11:21.805Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[岡崎体育 on Twitter: "俺にやらせてくれ"]]></title>
+        <id>https://twitter.com/okazaki_taiiku/status/1417149290821013506</id>
+        <link href="https://twitter.com/okazaki_taiiku/status/1417149290821013506"/>
+        <updated>2021-07-19T15:53:09.000Z</updated>
+        <summary type="html"><![CDATA[俺にやらせてくれ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[藤本タツキ先生の「ルックバック」について、統合失調症の当事者が感じたこと - 蟹の話]]></title>
         <id>https://mmkanimm.hatenablog.com/entry/2021/07/19/235630</id>
@@ -186,11 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京 新型コロナ 1人死亡 727人感染確認 7日間平均1100人超に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210719/k10013147441000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210719/k10013147441000.html"/>
-        <updated>2021-07-19T07:50:14.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では19日、新たに727人が新型コロナウイルスに感染していることが確認されました。19日までの7日間平均は1100人を超え感染の急拡大が続いていて、都の担当者は「今週は20日以降も先週と同様かそれ以上に増える可能性が高い」と危機感を示しています。 東京都は19日、都内で新たに10歳未満から90代までの男女合わ...]]></summary>
+        <title type="html"><![CDATA[入国後“15分以内なら外出自由” 五輪関係者に不適切な周知 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210719/k10013148051000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210719/k10013148051000.html"/>
+        <updated>2021-07-19T09:17:51.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの感染対策をめぐり政府は、大会関係者が宿泊するホテルで、入国後14日間が経過していなくても15分以内なら自由に外出できると受け止められる不適切な周知が行われていたとして、組織委員会に対応の見直しを求めたことを明らかにしました。 大会の感染防止に必要なルールを定めた「プレーブック」では、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -211,16 +221,6 @@
         <link href="https://anond.hatelabo.jp/20210719125034"/>
         <updated>2021-07-19T06:27:01.000Z</updated>
         <summary type="html"><![CDATA[ルックバックよーわからんかった これは完全に俺の理解力不足なんだけど後半は、もしこうだったらよかったのにっていう理想なのか 夏だからオカルト要素を入れましたなのか SF要素で時間を巻き戻したのか そのへんでわけわかんなくなった おじさんも若い頃は漫画家になりたくて何度か応募したけどまったくダメで諦めたの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これは政治的事件である――立憲民主党の本多議員をめぐる調査報告書の問題について｜三春充希(はる) ⭐みらい選挙プロジェクト｜note]]></title>
-        <id>https://note.com/miraisyakai/n/nd5639f04d87e</id>
-        <link href="https://note.com/miraisyakai/n/nd5639f04d87e"/>
-        <updated>2021-07-19T06:11:53.000Z</updated>
-        <summary type="html"><![CDATA[性犯罪刑法改正の議論の場で本多平直氏が行ったとされる不適切発言に関して、7月12日、立憲民主党ハラスメント防止対策委員会から調査報告書（以下、報告書）の提出がなされました。 報告書全文ダウンロード この報告書からただちに明らかなのは、検証すべき事実関係が執筆者の持論と切り分けられておらず、肝心の事実関...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

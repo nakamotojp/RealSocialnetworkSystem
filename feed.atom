@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T07:10:51.914Z</id>
+    <id>urn:2021-07-19T08:13:56.012Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T07:10:51.914Z</updated>
+    <updated>2021-07-19T08:13:56.012Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾氏の留任　組織委があらためて強調「貢献は大きなもの」 - 東京オリンピック2020 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107190000418.html</id>
+        <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107190000418.html"/>
+        <updated>2021-07-19T06:12:30.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック（五輪）・パラリンピック組織委員会の高谷正哲スポークスパーソン（SP）が19日、メインプレスセンター（MPC）で会見し、過去に「いじめ告白」した開閉会式の音楽制作を手掛ける小山田圭吾氏（52）は留任するとあらためて強調した。 国内外から小山田氏について「適任ではないのでは」と批判が相次いで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気コメント算出アルゴリズムの一部にYahoo! JAPANの「建設的コメント順位付けモデルAPI」を導入しました - はてなブックマーク開発ブログ]]></title>
+        <id>https://bookmark.hatenastaff.com/entry/yahoo_comment_api</id>
+        <link href="https://bookmark.hatenastaff.com/entry/yahoo_comment_api"/>
+        <updated>2021-07-19T06:05:11.000Z</updated>
+        <summary type="html"><![CDATA[コメント表示改善の一環として、Yahoo! JAPANの「建設的コメント順位付けモデルAPI」を導入し、攻撃的であったり不謹慎であるなど穏当でないコメントが人気コメントに掲載される問題を抑制する取り組みを開始しました。 今回の施策の意図と今後の方針 はてなブックマークでは「より豊かで多様な価値観が集まるプラットフ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾氏の留任　組織委があらためて強調「貢献は大きなもの」（日刊スポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/b4e4e3d2c6ffe2798f060409602ebfc621c5f059</id>
@@ -81,6 +101,16 @@
         <link href="https://nordot.app/789674124020121600"/>
         <updated>2021-07-19T02:22:28.000Z</updated>
         <summary type="html"><![CDATA[河野太郎行政改革担当相は19日の日本テレビ番組で、新型コロナウイルスワクチンの供給減を補うための追加調達はしない考えを示した。「世界的にワクチンの需要が高まり、全く打てていない国もある。日本だけ『よこせ』と言うわけにはいかない」と述べた。高齢者向けの接種は、7月末までに「終わる」と語り、政府が掲げた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遊んでるわけではありません : 中国嫁日記 Powered by ライブドアブログ]]></title>
+        <id>http://blog.livedoor.jp/keumaya-china/archives/51822929.html</id>
+        <link href="http://blog.livedoor.jp/keumaya-china/archives/51822929.html"/>
+        <updated>2021-07-19T02:01:34.000Z</updated>
+        <summary type="html"><![CDATA[許して下さい。 これを改札前でやります。 本当です。 →→→次の更新は7月23日ぐらいです]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,31 +216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[感染急拡大のイングランド 19日規制ほぼ撤廃 不安や批判広がる | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210719/k10013146841000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210719/k10013146841000.html"/>
-        <updated>2021-07-18T21:24:48.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染が急速に拡大するイギリスのイングランドで、19日、感染対策として続けられてきた規制がほぼすべて撤廃されます。ジョンソン首相が濃厚接触者になり政権運営に影響が出る中で、社会には不安や批判の声が広がっています。 イギリスでは、新型コロナウイルスの変異ウイルスによる感染が急速に拡大...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[セブン＆アイがエンジニアを大量採用、「DXの内製化」に注力する理由 | 日経クロステック（xTECH）]]></title>
         <id>https://xtech.nikkei.com/atcl/nxt/column/18/01682/071300008/</id>
         <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01682/071300008/"/>
         <updated>2021-07-18T20:07:46.000Z</updated>
         <summary type="html"><![CDATA[経済産業省と東京証券取引所が2021年6月に発表した「デジタルトランスフォーメーション（DX）銘柄 2021」。「日本の先進DX」といえる選定企業の事例を厳選して取り上げ、DX推進の勘所を探る。セブン＆アイ・ホールディングスはエンジニアを大量に中途採用して内製化を推し進め、DXに挑んでいる。 「セブンイレブン事業を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[篝里嶺家の令嬢／2021年5月期JUMP新世界漫画賞 - 銀堂智 | 少年ジャンプ＋]]></title>
-        <id>https://shonenjumpplus.com/episode/3269754496401369340</id>
-        <link href="https://shonenjumpplus.com/episode/3269754496401369340"/>
-        <updated>2021-07-18T15:31:44.000Z</updated>
-        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://anond.hatelabo.jp/20210718190345"/>
         <updated>2021-07-18T10:10:32.000Z</updated>
         <summary type="html"><![CDATA[炎上には謝罪しない方が得、という事にならないように、どこかで批判の区切りはつけるべきと思い増田を書こうと思いたった。 そして、できればこういう基準を社会的に共有できれば無限のキャンセル社会や謝罪しない社会は回避できるのではないか、と思ったのでみんなも自分の基準を公開して共有してみてほしい。 オレ自...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小山田圭吾氏の「赦す赦さない」を決めることができるのは被害当事者だけだが、氏に対する個人的な嫌悪度／好感度は私が決める - 自意識高い系男子]]></title>
-        <id>https://ta-nishi.hatenablog.com/entry/2021/07/18/160219</id>
-        <link href="https://ta-nishi.hatenablog.com/entry/2021/07/18/160219"/>
-        <updated>2021-07-18T08:50:10.000Z</updated>
-        <summary type="html"><![CDATA[今後、小山田氏が責任をはたす為に最低限必要と思われること news.livedoor.com 小山田氏から謝罪文が出た。この事について私は非常に高く評価している。私が小山田氏に対して本当に醜悪だと思っていたのは、この件が20年以上に渡りネットで批判を受けていたにもかかわらずガン無視を決め込み、無視していれば収まるだろ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T17:19:01.219Z</id>
+    <id>urn:2021-07-19T18:14:36.204Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T17:19:01.219Z</updated>
+    <updated>2021-07-19T18:14:36.204Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://mainichi.jp/articles/20210719/k00/00m/050/351000c"/>
         <updated>2021-07-19T13:49:05.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック・パラリンピック組織委員会は19日、五輪開会式で楽曲を担当するミュージシャンの小山田圭吾氏（52）の辞任を発表した。組織委の武藤敏郎事務総長は記者会見で、「小山田氏の楽曲は使用しない」と説明。小山田氏の担当は冒頭の4分程度と明らかにした上で「3、4月ごろにお願いしたと承っている。開会式ま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO事務局長来日へ　首相と五輪感染対策を協議 ｜ 共同通信]]></title>
+        <id>https://nordot.app/789818826638393344</id>
+        <link href="https://nordot.app/789818826638393344"/>
+        <updated>2021-07-19T13:06:15.000Z</updated>
+        <summary type="html"><![CDATA[世界保健機関（WHO）のテドロス事務局長が東京五輪に合わせて来日する方向で調整していることが分かった。菅義偉首相がテドロス氏と会談し、東京五輪・パラリンピックでの新型コロナウイルスの感染防止対策を巡り協議する。複数の政府関係者が19日、明らかにした。 テドロス事務局長の来日が実現すれば、2019年6月の20カ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -111,6 +121,16 @@
         <link href="https://anond.hatelabo.jp/20210719192035"/>
         <updated>2021-07-19T10:23:21.000Z</updated>
         <summary type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (6月21日版) から (7月12日版) に至る記事の続き。まえがきは初回(6月21日版)の記事でご覧ください。 先週の予測は、日曜までの週単位で 9642人(6月21日版)、10151人(6月28日版)、8038人(7月5日版)、6461人(7月12日版) でしたが、現実は 7478人 となりました。 重症者数の予測をする...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾と津田大介 - Togetter]]></title>
+        <id>https://togetter.com/li/1747071</id>
+        <link href="https://togetter.com/li/1747071"/>
+        <updated>2021-07-19T10:21:38.000Z</updated>
+        <summary type="html"><![CDATA[suudon @suudon_s 昔、コーネリアスのいじめに激怒する東浩紀氏をなだめつつ小山田圭吾を擁護していたことを憶えているので津田大介氏の「弱者に寄り添う」姿勢は今も信用していない。 2021-07-15 15:32:19 keiyos @_keiyos_ @tsudaさん、小山田圭吾氏の件について触れないのかな…。ネットの誹謗中傷に反対のスタンスだ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,31 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社会的制裁のなにがよくないのか - 道徳的動物日記]]></title>
-        <id>https://davitrice.hatenadiary.jp/entry/2021/07/19/085229</id>
-        <link href="https://davitrice.hatenadiary.jp/entry/2021/07/19/085229"/>
-        <updated>2021-07-18T23:52:57.000Z</updated>
-        <summary type="html"><![CDATA[anond.hatelabo.jp 普段ははてな匿名ダイアリーの投稿にはあまり反応しないのだけれど、最近の事例についてはいろいろと思うところがあるので、昨日にTwitterに下記のような投稿をした。 社会的制裁を生み出すような道徳感情は集団や社会の秩序を維持したりするうえでは不可欠なはずであり、社会的制裁が望ましい結果を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[プロジェクトを計画しすぎてダメにする方法 : タイム・コンサルタントの日誌から]]></title>
         <id>https://brevis.exblog.jp/29599208/</id>
         <link href="https://brevis.exblog.jp/29599208/"/>
         <updated>2021-07-18T23:11:31.000Z</updated>
         <summary type="html"><![CDATA[「日本企業は、計画しすぎなんです。」——最近、ある外資系戦略コンサルタントから、こんなセリフを聞いた。いわゆるDXに関する話題の時だ。「計画して、それも細かく緻密な計画を立てて、石橋をたたくようにリスクを全て洗い出してから、はじめようとします。そして動き出したら、すぐ進捗率を問題にする。でも、そんな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリンピックにそぐわない言動で森氏・佐々木氏が辞任したように、障がい者を虐待していた小山田氏を組織委はすぐに解任したほうがいい - 斗比主閲子の姑日記]]></title>
-        <id>https://topisyu.hatenablog.com/entry/2021/07/19/073000</id>
-        <link href="https://topisyu.hatenablog.com/entry/2021/07/19/073000"/>
-        <updated>2021-07-18T22:33:10.000Z</updated>
-        <summary type="html"><![CDATA[私は、キャンセルカルチャーは行き過ぎるとよくないし（だって私が見る限り90%以上の人は一貫性がないから）、過去の過失で敗者復活ができないのは社会が脆弱になると思っています。 私の好きな『ちはやふる』と末次由紀 - 斗比主閲子の姑日記 でも、今回の小山田さんの件は、前から分かっていたことなのに謝罪をしたの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

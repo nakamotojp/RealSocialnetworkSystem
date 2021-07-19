@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T08:13:56.012Z</id>
+    <id>urn:2021-07-19T09:12:49.998Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T08:13:56.012Z</updated>
+    <updated>2021-07-19T09:12:49.998Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 727人感染確認 7日間の平均は1100人に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210719/k10013147441000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210719/k10013147441000.html"/>
+        <updated>2021-07-19T07:50:14.000Z</updated>
+        <summary type="html"><![CDATA[東京都は19日、都内で新たに727人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の月曜日より225人増えました。 前の週の同じ曜日を上回るのは30日連続です。 都内では18日までの5日連続で1000人を超えていました。 19日までの7日間平均は1100.4人となり、感染の急拡大が続いています。 一...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾氏の留任　組織委があらためて強調「貢献は大きなもの」 - 東京オリンピック2020 : 日刊スポーツ]]></title>
         <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107190000418.html</id>
@@ -241,16 +251,6 @@
         <link href="https://note.com/dmadoy/n/nba5b1452dfbb"/>
         <updated>2021-07-18T13:00:48.000Z</updated>
         <summary type="html"><![CDATA[和光学園は昔から障碍者を受け入れ、健常者と同じ学級に編入し、分け隔てなく接する。 和光学園真光寺キャンパス（町田市）には、「翼の木」と呼ばれるアメリカハナミズキが植えられている。教職員の中には、毎朝この木に一礼する人もいるのを見たことがある。 この木にまつわるエピソードは和光学園にとって象徴的なも...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小山田圭吾と和光学園のインクルーシブ教育　１｜藤井大地｜note]]></title>
-        <id>https://note.com/dmadoy/n/nfc00d5f9402d</id>
-        <link href="https://note.com/dmadoy/n/nfc00d5f9402d"/>
-        <updated>2021-07-18T13:00:43.000Z</updated>
-        <summary type="html"><![CDATA[オリンピック開会を一週間後に控えた２０２１年７月１５日、僕はあるニュース記事を見て目を疑った。 それはミュージシャンの小山田圭吾（５２）が、東京五輪の開会式で楽曲製作を担当する、というもの。 僕は「何かの冗談ではないか」と思った。が、そんなことはない。確かに小山田圭吾が楽曲製作を担当するのだという...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

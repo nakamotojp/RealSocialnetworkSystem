@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T03:13:43.123Z</id>
+    <id>urn:2021-07-19T04:15:57.657Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T03:13:43.123Z</updated>
+    <updated>2021-07-19T04:15:57.657Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[トヨタ、五輪関連CM見送り　社長は開会式出席せず ｜ 共同通信]]></title>
+        <id>https://nordot.app/789694784567967744</id>
+        <link href="https://nordot.app/789694784567967744"/>
+        <updated>2021-07-19T03:29:29.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・パラリンピックの最高位スポンサーのトヨタ自動車は19日、五輪に関するテレビCMを国内では見送る方針を明らかにした。また、豊田章男社長ら関係者は五輪・パラの開会式出席を見送ると明らかにした。企業イメージの低下につながると判断した可能性がある。広報担当の長田准執行役員がオンラインで報道陣の取材...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてブの「人気コメント」に Yahoo! の「建設的コメント順位付けモデルAPI」を導入]]></title>
+        <id>https://anond.hatelabo.jp/20210719114552</id>
+        <link href="https://anond.hatelabo.jp/20210719114552"/>
+        <updated>2021-07-19T02:54:54.000Z</updated>
+        <summary type="html"><![CDATA[ⓘ人気コメント算出アルゴリズムの一部にヤフー株式会社の「建設的コメント順位付けモデルAPI」を使用しています さっきまでは無かったのでここ１時間～数十分くらいで変更されたのか 「建設的コメント順位付けモデルAPI」ってのはこれか Yahoo!ニュース、不適切コメントへの対策として導入している深層学習を用いた自然...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】南ア・サッカー選手感染でチームの２１人濃厚接触者判定｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4317941.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4317941.html"/>
+        <updated>2021-07-19T02:23:44.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの選手村で選手ら３人の新型コロナへの感染が判明した南アフリカのサッカーの選手団について、その後、調査で同じチームの２１人が濃厚接触者と判定されたことがわかりました。 南アフリカのオリンピック委員会はきのう、東京・中央区晴海の選手村に滞在する男子サッカー選手２人と関係者１人が新型コロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大江千里さんの「手放す勇気」。40代で日本での成功を捨て、60歳で固定観念を捨てた｜tayorini by LIFULL介護]]></title>
+        <id>https://kaigo.homes.co.jp/tayorini/interview/senri_oe/</id>
+        <link href="https://kaigo.homes.co.jp/tayorini/interview/senri_oe/"/>
+        <updated>2021-07-19T02:00:16.000Z</updated>
+        <summary type="html"><![CDATA[大江千里さんの「手放す勇気」。40代で日本での成功を捨て、60歳で固定観念を捨てた 公開日 | 2021/07/19 更新日 | 2021/07/19 1980年代～1990年代に「十人十色」や「格好悪いふられ方」など数々のヒット曲を生み出し、シンガーソングライターとして一世を風靡した大江千里さん。 日本のポップス界での成功を捨て、ジャ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パイロットに育成費返還義務　自衛官の早期退職防止―防衛省検討：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021071800217&amp;g=pol</id>
@@ -166,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小山田圭吾、いじめ問題を謝罪するも炎上止まらず…ソニーがページ削除、息子のSNSも炎上（SmartFLASH） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/be27b316a41119fa0e452d955380ded58868fa77</id>
-        <link href="https://news.yahoo.co.jp/articles/be27b316a41119fa0e452d955380ded58868fa77"/>
-        <updated>2021-07-18T12:24:42.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック・パラリンピック大会の開会式で音楽を担当するコーネリアス・小山田圭吾が、学生時代に障害者に対するいじめをおこなっていたという過去のインタビューについて波紋が広がっている。 【写真あり】東京オリンピック・パラリンピック大会開会式の作曲を担当する小山田圭吾氏 7月14日に起用が発表された小...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[復興五輪、看板倒れ…選手食堂での被災地食材アピール見送り　「一部の国から拒否の声」に抵抗できず：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/117584</id>
         <link href="https://www.tokyo-np.co.jp/article/117584"/>
@@ -186,41 +216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[関西弁の否定表現「～へん」が消えるかもしれない？という話]]></title>
-        <id>https://anond.hatelabo.jp/20210718201139</id>
-        <link href="https://anond.hatelabo.jp/20210718201139"/>
-        <updated>2021-07-18T11:18:12.000Z</updated>
-        <summary type="html"><![CDATA[突然だが、「～しない」「～できない」のことを「～しやん」「～できやん」と表現する方言をご存知だろうか。 昔から三重県・和歌山県・奈良県南部・大阪府南部で使われている方言らしい。俺は大学時代の三重出身の友達がやたらとやんやん言ってたので、三重県の方言のイメージだ。 実は最近、関西の若者全体にこの方言...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[立憲民主党は立憲主義と民主主義を放棄するのか、あるいは本多議員をめぐる報告書の致命的欠陥について｜馬の眼　ishtarist｜note]]></title>
         <id>https://note.com/ishtarist/n/n1c8c036e7c2c</id>
         <link href="https://note.com/ishtarist/n/n1c8c036e7c2c"/>
         <updated>2021-07-18T11:16:18.000Z</updated>
         <summary type="html"><![CDATA[緊急案件につき、立憲民主党の報告書についてnoteを挙げます。 こちらの方が遙かに緊急性が高く深刻な案件ですので、まことに勝手ながら（大袈裟太郎氏らへの諸々の）応答については後回しとさせていただきたく存じます。 はじめに立憲民主党の「性犯罪刑法改正に関するワーキングチーム」で、「５０歳近くの自分が１４...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[めいろまさんの語る、小山田圭吾氏の話に絡んだ、昭和の終わりのサブカル界隈の空気について - Togetter]]></title>
-        <id>https://togetter.com/li/1746618</id>
-        <link href="https://togetter.com/li/1746618"/>
-        <updated>2021-07-18T10:58:10.000Z</updated>
-        <summary type="html"><![CDATA[めいろま @May_Roma 小山田圭吾の件をああいう時代だという話があるが、当時若かった自分は実際体験してるが、確かにそう言う空気感はあった。テレビは虐待まがいなイジメコンテンツだらけだった。ただしBurrn!やミュージックライフには虐待をネタにする話は「一切」載らなかった。サブカル界隈や渋谷系は特に鬼畜だった...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京都アニメーションの性暴力について]]></title>
-        <id>https://anond.hatelabo.jp/20210718192945</id>
-        <link href="https://anond.hatelabo.jp/20210718192945"/>
-        <updated>2021-07-18T10:31:51.000Z</updated>
-        <summary type="html"><![CDATA[京アニの放火殺人の報道を知った時、アニメに興味が無い私でも当初は恐怖したし、悲惨な事件だと思った。 その後色んな所で「京アニは素晴らしい会社だ、作るアニメはどれも素晴らしいアニメばかりだ」というような報道の仕方をされ、自分も少しだけ興味を持った 比較的アニメが好きな知人にどれを見たらいいか聞いたら...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

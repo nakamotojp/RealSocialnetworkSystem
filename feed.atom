@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T12:19:14.897Z</id>
+    <id>urn:2021-07-19T13:19:10.545Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T12:19:14.897Z</updated>
+    <updated>2021-07-19T13:19:10.545Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「持ち込み飲料はコカ・コーラ社」　学校観戦で通知、苦情殺到（毎日新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/0ebf62db6b93220b6eb769f5fd8b850bec22a651</id>
+        <link href="https://news.yahoo.co.jp/articles/0ebf62db6b93220b6eb769f5fd8b850bec22a651"/>
+        <updated>2021-07-19T11:19:53.000Z</updated>
+        <summary type="html"><![CDATA[23日に開幕する東京オリンピックで、地元の小中学生限定でサッカーを観戦する茨城県鹿嶋市の市立学校が、会場であるカシマスタジアムに持ち込む飲み物について「コカ・コーラ社製の飲料でお願いします」と保護者に通知していたことが判明した。市教育委員会は大会組織委員会の意向を受けた文書と説明しているものの、市...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小山田圭吾さん 東京五輪作曲陣から辞任の意向 大会関係者 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210719/k10013148301000.html</id>
@@ -26,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (7月19日版)]]></title>
+        <id>https://anond.hatelabo.jp/20210719192035</id>
+        <link href="https://anond.hatelabo.jp/20210719192035"/>
+        <updated>2021-07-19T10:23:21.000Z</updated>
+        <summary type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (6月21日版) から (7月12日版) に至る記事の続き。まえがきは初回(6月21日版)の記事でご覧ください。 先週の予測は、日曜までの週単位で 9642人(6月21日版)、10151人(6月28日版)、8038人(7月5日版)、6461人(7月12日版) でしたが、現実は 7478人 となりました。 重症者数の予測をする...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cornelius on Twitter: "東京2020オリンピック・パラリンピック大会における楽曲制作への参加につきまして https://t.co/p91zE94s1t"]]></title>
         <id>https://twitter.com/corneliusjapan/status/1417064399303413762</id>
         <link href="https://twitter.com/corneliusjapan/status/1417064399303413762"/>
@@ -40,7 +60,7 @@
         <id>https://mainichi.jp/articles/20210719/k00/00m/050/255000c</id>
         <link href="https://mainichi.jp/articles/20210719/k00/00m/050/255000c"/>
         <updated>2021-07-19T10:14:42.000Z</updated>
-        <summary type="html"><![CDATA[23日に行われる東京オリンピックの開会式で楽曲を担当するミュージシャンの小山田圭吾さん（52）が同級生をいじめていたことの責任を取って辞任する。 過去の雑誌のインタビューで告白し、ネット交流サービス（SNS）で炎上していた。19日に関係者が明らかにした。【円谷美晶】]]></summary>
+        <summary type="html"><![CDATA[23日に行われる東京オリンピックの開会式で楽曲を担当するミュージシャンの小山田圭吾さん（52）が、同級生をいじめていたとする過去のインタビューなどを巡る一連の騒動を受けて辞任する。ネット交流サービス（SNS）で炎上していた。19日に関係者が明らかにした。【円谷美晶】 辞任を明らかにしたミュージシャンの小山...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,16 +101,6 @@
         <link href="https://anond.hatelabo.jp/20210719125034"/>
         <updated>2021-07-19T06:27:01.000Z</updated>
         <summary type="html"><![CDATA[ルックバックよーわからんかった これは完全に俺の理解力不足なんだけど後半は、もしこうだったらよかったのにっていう理想なのか 夏だからオカルト要素を入れましたなのか SF要素で時間を巻き戻したのか そのへんでわけわかんなくなった おじさんも若い頃は漫画家になりたくて何度か応募したけどまったくダメで諦めたの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小山田圭吾氏の留任　組織委があらためて強調「貢献は大きなもの」 - 東京オリンピック2020 : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107190000418.html</id>
-        <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107190000418.html"/>
-        <updated>2021-07-19T06:12:30.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック（五輪）・パラリンピック組織委員会の高谷正哲スポークスパーソン（SP）が19日、メインプレスセンター（MPC）で会見し、過去に「いじめ告白」した開閉会式の音楽制作を手掛ける小山田圭吾氏（52）は留任するとあらためて強調した。 国内外から小山田氏について「適任ではないのでは」と批判が相次いで...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://nordot.app/789674124020121600"/>
         <updated>2021-07-19T02:22:28.000Z</updated>
         <summary type="html"><![CDATA[河野太郎行政改革担当相は19日の日本テレビ番組で、新型コロナウイルスワクチンの供給減を補うための追加調達はしない考えを示した。「世界的にワクチンの需要が高まり、全く打てていない国もある。日本だけ『よこせ』と言うわけにはいかない」と述べた。高齢者向けの接種は、7月末までに「終わる」と語り、政府が掲げた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遊んでるわけではありません : 中国嫁日記 Powered by ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/keumaya-china/archives/51822929.html</id>
-        <link href="http://blog.livedoor.jp/keumaya-china/archives/51822929.html"/>
-        <updated>2021-07-19T02:01:34.000Z</updated>
-        <summary type="html"><![CDATA[許して下さい。 これを改札前でやります。 本当です。 →→→次の更新は7月23日ぐらいです]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

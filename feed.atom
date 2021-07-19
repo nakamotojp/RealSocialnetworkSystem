@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T16:18:11.566Z</id>
+    <id>urn:2021-07-19T17:19:01.219Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T16:18:11.566Z</updated>
+    <updated>2021-07-19T17:19:01.219Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://news.yahoo.co.jp/articles/3101dbdbe76ee72f314b634965908214afe34ef3"/>
         <updated>2021-07-19T11:41:32.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの開会式に作曲担当として参加している小山田圭吾氏が、辞任する意向を明らかにしました。背景には、政権幹部の強い危機感がありました。 小山田氏が過去に同級生や障害者をいじめていたなどと、雑誌のインタビューで発言していたことを政権幹部らが把握したのは、数日前のことでした。 ある政権幹部は...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与党幹部「世論がおかしい」　40人出席 バッハ会長歓迎会が波紋]]></title>
+        <id>https://www.fnn.jp/articles/-/212676</id>
+        <link href="https://www.fnn.jp/articles/-/212676"/>
+        <updated>2021-07-19T11:26:42.000Z</updated>
+        <summary type="html"><![CDATA[東京都では19日、新たに727人の感染が確認された。 先週月曜から225人の増加。 新型コロナウイルスの感染が拡大する中で迎えた、週末の18日。 東京・赤坂の迎賓館で開かれたIOC(国際オリンピック委員会)・バッハ会長の歓迎会が、物議を醸している。 大会組織委員会の橋本会長が主催した歓迎会は、撮影が許されず、公開さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://news.yahoo.co.jp/articles/b4e4e3d2c6ffe2798f060409602ebfc621c5f059"/>
         <updated>2021-07-19T05:33:28.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック（五輪）・パラリンピック組織委員会の高谷正哲スポークスパーソン（SP）が19日、メインプレスセンター（MPC）で会見し、過去に「いじめ告白」した開閉会式の音楽制作を手掛ける小山田圭吾氏（52）は留任するとあらためて強調した。 【写真】問題の発言が掲載された95年8月号の「クイック・ジャパン」 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加藤官房長官、組織委に「適切な対応」求める　小山田さんの発言巡り | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210719/k00/00m/010/105000c</id>
-        <link href="https://mainichi.jp/articles/20210719/k00/00m/010/105000c"/>
-        <updated>2021-07-19T04:10:20.000Z</updated>
-        <summary type="html"><![CDATA[加藤勝信官房長官は19日午前の記者会見で、東京オリンピックの開会式の楽曲を担当するミュージシャンの小山田圭吾さんが過去に雑誌のインタビューで長年にわたって同級生をいじめていたと告白していたことを巡り「主催者である組織委員会で適切に対応していただきたいし、対応を取っていくことが必要だ」と述べた。 加藤...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

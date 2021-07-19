@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T04:15:57.657Z</id>
+    <id>urn:2021-07-19T05:10:42.077Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T04:15:57.657Z</updated>
+    <updated>2021-07-19T05:10:42.077Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[かたこりマシーン on Twitter: "やー、 すんごい点数のテストが返ってきた。 １００点満点中５０点だわ。 https://t.co/TYM4xUZKXA"]]></title>
+        <id>https://twitter.com/kotoi1205/status/1415615212602810369</id>
+        <link href="https://twitter.com/kotoi1205/status/1415615212602810369"/>
+        <updated>2021-07-19T02:40:47.000Z</updated>
+        <summary type="html"><![CDATA[やー、 すんごい点数のテストが返ってきた。 １００点満点中５０点だわ。 https://t.co/TYM4xUZKXA]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【独自】南ア・サッカー選手感染でチームの２１人濃厚接触者判定｜TBS NEWS]]></title>
         <id>https://news.tbs.co.jp/newseye/tbs_newseye4317941.html</id>
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4317941.html"/>
@@ -36,11 +46,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[政府、ワクチン追加調達せず　河野氏「打てない国もある」 ｜ 共同通信]]></title>
+        <id>https://nordot.app/789674124020121600</id>
+        <link href="https://nordot.app/789674124020121600"/>
+        <updated>2021-07-19T02:22:28.000Z</updated>
+        <summary type="html"><![CDATA[河野太郎行政改革担当相は19日の日本テレビ番組で、新型コロナウイルスワクチンの供給減を補うための追加調達はしない考えを示した。「世界的にワクチンの需要が高まり、全く打てていない国もある。日本だけ『よこせ』と言うわけにはいかない」と述べた。高齢者向けの接種は、7月末までに「終わる」と語り、政府が掲げた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[大江千里さんの「手放す勇気」。40代で日本での成功を捨て、60歳で固定観念を捨てた｜tayorini by LIFULL介護]]></title>
         <id>https://kaigo.homes.co.jp/tayorini/interview/senri_oe/</id>
         <link href="https://kaigo.homes.co.jp/tayorini/interview/senri_oe/"/>
         <updated>2021-07-19T02:00:16.000Z</updated>
         <summary type="html"><![CDATA[大江千里さんの「手放す勇気」。40代で日本での成功を捨て、60歳で固定観念を捨てた 公開日 | 2021/07/19 更新日 | 2021/07/19 1980年代～1990年代に「十人十色」や「格好悪いふられ方」など数々のヒット曲を生み出し、シンガーソングライターとして一世を風靡した大江千里さん。 日本のポップス界での成功を捨て、ジャ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橋下徹氏、小山田圭吾いじめ問題で「この楽曲を世界に発信したら、日本の恥」（スポーツ報知） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/6538596cf8431f21abfc9e24f2c0826463427601</id>
+        <link href="https://news.yahoo.co.jp/articles/6538596cf8431f21abfc9e24f2c0826463427601"/>
+        <updated>2021-07-19T01:58:32.000Z</updated>
+        <summary type="html"><![CDATA[元大阪府知事で弁護士の橋下徹氏が１９日、フジテレビ系「めざまし８」（月～金曜・午前８時）に生出演した。 番組では、２３日に迫った東京五輪開会式で楽曲を担当するチームの一員に任命されたミュージシャン小山田圭吾が、過去に雑誌などで障害者へのいじめを告白していたとして問題視されていることについて報じた。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ会長ら40人招待　迎賓館で歓迎会　菅首相、森喜朗氏ら参加 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210718/k00/00m/040/171000c</id>
-        <link href="https://mainichi.jp/articles/20210718/k00/00m/040/171000c"/>
-        <updated>2021-07-18T12:47:39.000Z</updated>
-        <summary type="html"><![CDATA[歓迎会であいさつを交わす菅義偉首相（左）とIOCのトーマス・バッハ会長＝東京都の迎賓館で2021年7月18日午後6時13分（大会組織委員会提供） 東京オリンピック・パラリンピック組織委員会は18日夜、東京都港区の迎賓館で国際オリンピック委員会（IOC）のトーマス・バッハ会長ら関係者約40人を招き、歓迎会を開いた。橋本...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[復興五輪、看板倒れ…選手食堂での被災地食材アピール見送り　「一部の国から拒否の声」に抵抗できず：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/117584</id>
         <link href="https://www.tokyo-np.co.jp/article/117584"/>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[米紙、東京五輪「完全な失敗」　熱気から敵意に ｜ 共同通信]]></title>
-        <id>https://nordot.app/789425486668316672</id>
-        <link href="https://nordot.app/789425486668316672"/>
-        <updated>2021-07-18T09:37:26.000Z</updated>
-        <summary type="html"><![CDATA[【ワシントン共同】米紙ワシントン・ポスト電子版は17日、開幕を23日に控えた東京五輪について、これまでのところ「完全な失敗に見える」と指摘し、1964年の東京五輪のように日本に誇りをもたらすことは期待できないと伝えた。新型コロナウイルス流行の影響で国民に懐疑論が広がり、当初の五輪への熱気は敵意にすら変わ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小山田圭吾氏の「赦す赦さない」を決めることができるのは被害当事者だけだが、氏に対する個人的な嫌悪度／好感度は私が決める - 自意識高い系男子]]></title>
         <id>https://ta-nishi.hatenablog.com/entry/2021/07/18/160219</id>
         <link href="https://ta-nishi.hatenablog.com/entry/2021/07/18/160219"/>
@@ -271,16 +281,6 @@
         <link href="https://news.yahoo.co.jp/byline/takayamayoshihiro/20210718-00248467"/>
         <updated>2021-07-18T04:29:34.000Z</updated>
         <summary type="html"><![CDATA[外来に通われている８０代の女性が、診察室で嬉しそうにこう言いました。 「先生、ワクチン終わったよ。２回とも！」 １０年ほど前に夫に先立たれましたが、いくつかの慢性疾患を抱えながらも、元気に独居で暮らされています。 「良かったですね。きついことなかったですか？」と私は聞きました 「う～ん、ちょっと腕が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[退去費用戦争、大勝利！155,000円が3,300円で決着！決め手は国交省の原状回復ガイドラインを引用して低姿勢で相談 - Togetter]]></title>
-        <id>https://togetter.com/li/1746002</id>
-        <link href="https://togetter.com/li/1746002"/>
-        <updated>2021-07-17T11:00:41.000Z</updated>
-        <summary type="html"><![CDATA[ツェソ @tczesso @TMT40130674 国交省の原状回復ガイドラインを引き合いに出して、この項目は借主に支払い義務ないですよね？って一個一個低姿勢でメールで相談しました☺️ 2021-07-16 19:36:13]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

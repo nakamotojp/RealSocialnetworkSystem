@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T02:01:50.942Z</id>
+    <id>urn:2021-07-20T03:13:50.340Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T02:01:50.942Z</updated>
+    <updated>2021-07-20T03:13:50.340Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eテレ『デザインあ』放送見合わせ　小山田圭吾が楽曲制作 | ORICON NEWS]]></title>
+        <id>https://www.oricon.co.jp/news/2200854/full/</id>
+        <link href="https://www.oricon.co.jp/news/2200854/full/"/>
+        <updated>2021-07-20T01:33:35.000Z</updated>
+        <summary type="html"><![CDATA[過去のいじめ問題で東京2020オリンピック・パラリンピック開会式の音楽担当を辞任したミュージシャン・小山田圭吾（52）が、「コーネリアス」名義で楽曲を手掛けるEテレ『デザインあ』（月～水　前8：35、土曜　前7：25）が、20日の放送を見合わせた。 NHKの広報局によると、「小山田圭吾氏の過去の雑誌記事や、一連の報...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ会長ＩＯＣ総会「日本人の忍耐強さを示す大会。日本も輝く時だ」 - 東京オリンピック2020 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107200000197.html</id>
+        <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107200000197.html"/>
+        <updated>2021-07-20T01:27:34.000Z</updated>
+        <summary type="html"><![CDATA[国際オリンピック委員会（IOC）の第138次総会が20日、都内ホテルで始まり、トーマス・バッハ会長（67）が登壇した。 冒頭「ついにここまで来ました。東京で結束し、リアルでお目にかかれている」と述べ、オンラインではなくオンサイトで終結した委員らにあいさつ。3日後の東京オリンピック（五輪）開幕に向けて「開催で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エヴァンゲリオン公式 on Twitter: "既に海外配信は発表されておりますが、ほどなく劇場での上映を終える『シン・エヴァンゲリオン劇場版』は、日本でも8月13日（金）よりAmazonPrimeVideoにて配信されることが決定しました。各所より国内配信のご要望多くいただき… https://t.co/G0W2r7g16V"]]></title>
         <id>https://twitter.com/evangelion_co/status/1417288675369521164</id>
@@ -16,11 +36,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021年のエンジニア新人研修の講義資料を公開しました - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+        <id>https://blog.cybozu.io/entry/2021/07/20/100000</id>
+        <link href="https://blog.cybozu.io/entry/2021/07/20/100000"/>
+        <updated>2021-07-20T01:06:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。開発本部 オンボーディングチームの酒井（@sakay_y）です。社内のオンボーディングコンテンツを、どんどん社外へ公開することを夢見ています。 2021年もエンジニア新人研修を行いましたので、軽い紹介と、講義資料および一部講義動画（New!）を公開いたします。 2021年のエンジニア研修について 講義資料公...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「物語」から疎外されるものについて（「ルックバック」の感想のような、そうでないような） - あままこのブログ]]></title>
+        <id>https://amamako.hateblo.jp/entry/2021/07/20/041031</id>
+        <link href="https://amamako.hateblo.jp/entry/2021/07/20/041031"/>
+        <updated>2021-07-19T23:49:17.000Z</updated>
+        <summary type="html"><![CDATA[ルックバック - 藤本タツキ | 少年ジャンプ＋ 話題になっていますね、「ルックバック」 blog.hatenablog.com www.j-cast.com 僕も無料ということで読んでみたんですが、「まあ、良いとは思うけど、そこまで絶賛されるものか？」という感じの感想でした。 ただ一方で、下記のような批判もなんか違うように感じるんですね...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[五輪応援職員に都「2回目接種は大会後」　副反応が理由 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7M66NRP7HUTIL05P.html</id>
         <link href="https://www.asahi.com/articles/ASP7M66NRP7HUTIL05P.html"/>
         <updated>2021-07-19T22:49:19.000Z</updated>
         <summary type="html"><![CDATA[東京都が6月下旬、東京オリンピック（五輪）・パラリンピックで仕事の応援業務に従事する職員に対し、新型コロナウイルスワクチンの接種希望を募った際、大会期間と重なることを理由に2回目を大会後として通知していたことがわかった。都は「大会中の接種や、発熱などの副反応で応援業務に支障があるおそれがあるため」...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岡田育 / 『我は、おばさん』発売中 on Twitter: "男性作家が自己を投影したかのような物語を少女二人で描くのはジェンダーの横奪ではないか、みたいな話が見えたけど、「脇目もふらず好きなものに打ち込む」人物像に今や少年よりも少女のほうがしっくり来るというのは、これは20世紀の女性たちが… https://t.co/hsoVIpNcs7"]]></title>
+        <id>https://twitter.com/okadaic/status/1417143984636502022</id>
+        <link href="https://twitter.com/okadaic/status/1417143984636502022"/>
+        <updated>2021-07-19T22:25:28.000Z</updated>
+        <summary type="html"><![CDATA[男性作家が自己を投影したかのような物語を少女二人で描くのはジェンダーの横奪ではないか、みたいな話が見えたけど、「脇目もふらず好きなものに打ち込む」人物像に今や少年よりも少女のほうがしっくり来るというのは、これは20世紀の女性たちが… https://t.co/hsoVIpNcs7]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,16 +131,6 @@
         <link href="https://mmkanimm.hatenablog.com/entry/2021/07/19/235630"/>
         <updated>2021-07-19T15:25:52.000Z</updated>
         <summary type="html"><![CDATA[shonenjumpplus.com 遺伝子は運命ではない 藤本タツキ先生の「ルックバック」は、喪失と再生の物語だ。漫画という技法を最大限に活かした構造が素晴らしい。私個人も藤本タツキ先生と同じく美術大学を卒業したので、親近感もあってか氏の漫画が好きだ。特に「ファイアパンチ」などは、手塚治氏以来の「火の鳥」のような...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[第16話]ダンダダン - 龍幸伸 | 少年ジャンプ＋]]></title>
-        <id>https://shonenjumpplus.com/episode/3269754496406900733</id>
-        <link href="https://shonenjumpplus.com/episode/3269754496406900733"/>
-        <updated>2021-07-19T15:06:19.000Z</updated>
-        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ会長が野球の始球式 ｜ 共同通信]]></title>
-        <id>https://nordot.app/789842195681853440</id>
-        <link href="https://nordot.app/789842195681853440"/>
-        <updated>2021-07-19T13:22:13.000Z</updated>
-        <summary type="html"><![CDATA[国際オリンピック委員会のバッハ会長が東京五輪の野球の始球式を務める見通しであることが19日、分かった。28日の開幕戦、日本―ドミニカ共和国で調整している。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WHO事務局長来日へ　首相と五輪感染対策を協議 ｜ 共同通信]]></title>
         <id>https://nordot.app/789818826638393344</id>
         <link href="https://nordot.app/789818826638393344"/>
@@ -266,41 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『Quick Japan　第3号』掲載の小山田圭吾氏記事についてのお詫び - 太田出版]]></title>
-        <id>https://www.ohtabooks.com/press/2021/07/19191000.html</id>
-        <link href="https://www.ohtabooks.com/press/2021/07/19191000.html"/>
-        <updated>2021-07-19T10:29:43.000Z</updated>
-        <summary type="html"><![CDATA[1995年刊『Quick Japan 第3号』は「いじめ紀行」というシリーズの第一弾として小山田圭吾氏へのインタビューをもとにした記事を掲載しました。この記事が、表現方法、記事の影響についての思慮そして配慮が足らないままに世に出たことにより被害者の方をはじめ多くの方を傷つけたことを深くお詫びします。 「いじめ紀行...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (7月19日版)]]></title>
         <id>https://anond.hatelabo.jp/20210719192035</id>
         <link href="https://anond.hatelabo.jp/20210719192035"/>
         <updated>2021-07-19T10:23:21.000Z</updated>
         <summary type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (6月21日版) から (7月12日版) に至る記事の続き。まえがきは初回(6月21日版)の記事でご覧ください。 先週の予測は、日曜までの週単位で 9642人(6月21日版)、10151人(6月28日版)、8038人(7月5日版)、6461人(7月12日版) でしたが、現実は 7478人 となりました。 重症者数の予測をする...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小山田圭吾と津田大介 - Togetter]]></title>
-        <id>https://togetter.com/li/1747071</id>
-        <link href="https://togetter.com/li/1747071"/>
-        <updated>2021-07-19T10:21:38.000Z</updated>
-        <summary type="html"><![CDATA[suudon @suudon_s 昔、コーネリアスのいじめに激怒する東浩紀氏をなだめつつ小山田圭吾を擁護していたことを憶えているので津田大介氏の「弱者に寄り添う」姿勢は今も信用していない。 2021-07-15 15:32:19 keiyos @_keiyos_ @tsudaさん、小山田圭吾氏の件について触れないのかな…。ネットの誹謗中傷に反対のスタンスだ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪開会式作曲担当の小山田圭吾氏　辞任へ（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/16e28d2248fef4a2f2a5ef9afe42f90d4125f533</id>
-        <link href="https://news.yahoo.co.jp/articles/16e28d2248fef4a2f2a5ef9afe42f90d4125f533"/>
-        <updated>2021-07-19T10:11:24.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックの開会式に作曲担当として参加している小山田圭吾さんが、辞任する意向を関係者に伝えたことが分かりました。 東京オリンピック・パラリンピック関係者によりますと、開会式に作曲担当として参加している小山田圭吾さんが１９日、関係者に対し担当を辞任する意向を伝えたということです。 小山田氏をめ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

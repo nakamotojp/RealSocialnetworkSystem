@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T19:09:35.282Z</id>
+    <id>urn:2021-07-20T20:12:44.753Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T19:09:35.282Z</updated>
+    <updated>2021-07-20T20:12:44.753Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[丸川五輪相　当初の小山田氏続投「理解できませんと申し上げた」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/117914</id>
+        <link href="https://www.tokyo-np.co.jp/article/117914"/>
+        <updated>2021-07-20T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪開会式の楽曲を担当するミュージシャンの小山田圭吾さんが過去の雑誌インタビューで告白した学生時代のいじめを理由に辞任した問題で、丸川珠代五輪相は20日の記者会見で、小山田氏の辞任前に東京五輪・パラリンピック組織委員会とやり取りしたことを明かした。組織委員会は当初、小山田氏を続投させる考えを示...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五輪開催中の中止や延期「そういう状況が出てきた時に考える」武藤事務総長 - 東京オリンピック2020 : 日刊スポーツ]]></title>
         <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107200000855.html</id>
@@ -76,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[いじめ紀行を再読して考えたこと　01-イントロダクション | 百万年書房LIVE!]]></title>
+        <id>http://live.millionyearsbookstore.com/dokoheittemo/2865/</id>
+        <link href="http://live.millionyearsbookstore.com/dokoheittemo/2865/"/>
+        <updated>2021-07-20T09:23:18.000Z</updated>
+        <summary type="html"><![CDATA[※本原稿は、小山田圭吾氏が過去に行ったとされるいじめ暴力行為を擁護するものではありません。 「いじめ紀行　小山田圭吾の回」（雑誌『Quick Japan』vol.3：太田出版発行）について、私から一言。 実はこの文章、前から書こう書こうと思っていたのですが、まずは当該記事の執筆者（M氏）や当時の『Quick Japan』編集長...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[『いじめは起きるもの』と認識して学校のシステムに反映されている例→日本のスタンスとの違いが話題に「初動がホント早い」 - Togetter]]></title>
         <id>https://togetter.com/li/1747516</id>
         <link href="https://togetter.com/li/1747516"/>
@@ -91,6 +111,16 @@
         <link href="https://nordot.app/790136577745698816"/>
         <updated>2021-07-20T08:43:31.000Z</updated>
         <summary type="html"><![CDATA[埼玉県は20日、さいたま市で実施中の新型コロナウイルスワクチン大規模接種を8月1～15日、休止すると発表した。同期間分のワクチンを配送できないと政府から連絡があったといい、大野元裕知事は記者会見で「国のガバナンスが失われている。あきれて言葉もない」と批判した。 県によると、休止するのはさいたま市の合同庁...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「障がい者イジメ」小山田圭吾“一派”を抜擢したのは「渡辺直美侮辱男」だった | 週刊文春 電子版]]></title>
+        <id>https://bunshun.jp/denshiban/articles/b1404</id>
+        <link href="https://bunshun.jp/denshiban/articles/b1404"/>
+        <updated>2021-07-20T08:25:06.000Z</updated>
+        <summary type="html"><![CDATA[〈全裸にしてグルグルに紐を巻いてオナニーさしてさ。ウンコを喰わしたりさ。ウンコ喰わした上にバックドロップしたりさ〉（「ロッキング・オン・ジャパン」94年1月号） 〈障害がある人とかって言うのは、なぜか図書室にたまる（略）きっと逃げ場所なんだけど〉（「クイック・ジャパンvol．3」95年7月刊） そう語ってい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hiroshi Nishiura on Twitter: "明日夕刻以降の羽田発の多くが満席ですね。学校が夏休みになり、連休が開始し、五輪を迎えて東京を脱出など。地域でそこから1－2週遅れて流行が拡大することが不可避だと考えています。厳しい。本当に厳しい。修羅の国と化した祭典の裏の分析現場に突入せざるを得ない。。本当に苦しい。"]]></title>
-        <id>https://twitter.com/nishiurah/status/1417305746753015808</id>
-        <link href="https://twitter.com/nishiurah/status/1417305746753015808"/>
-        <updated>2021-07-20T02:10:57.000Z</updated>
-        <summary type="html"><![CDATA[明日夕刻以降の羽田発の多くが満席ですね。学校が夏休みになり、連休が開始し、五輪を迎えて東京を脱出など。地域でそこから1－2週遅れて流行が拡大することが不可避だと考えています。厳しい。本当に厳しい。修羅の国と化した祭典の裏の分析現場に突入せざるを得ない。。本当に苦しい。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[デザイン盗作・「ルックバック」の藤本タツキは天才ではない。あるいは少年ジャンプの才能枯渇問題 - フロイドの狂気日記]]></title>
         <id>https://www.byosoku100.com/entry/2021/07/20/053000</id>
         <link href="https://www.byosoku100.com/entry/2021/07/20/053000"/>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小山田圭吾が楽曲制作、Eテレ『デザインあ』など放送見合わせ「一連の報道など総合的に判断」 | ORICON NEWS]]></title>
-        <id>https://www.oricon.co.jp/news/2200854/full/</id>
-        <link href="https://www.oricon.co.jp/news/2200854/full/"/>
-        <updated>2021-07-20T01:33:35.000Z</updated>
-        <summary type="html"><![CDATA[過去のいじめ問題で東京2020オリンピック・パラリンピック開会式の音楽担当を辞任したミュージシャン・小山田圭吾（52）が、「コーネリアス」名義で楽曲を手掛けるEテレ『デザインあ』（月～水　前8：35、土曜　前7：25）が、20日の放送を見合わせた。 NHKの広報局によると、「小山田圭吾氏が過去の雑誌記事の内容を認め...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年のエンジニア新人研修の講義資料を公開しました - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
         <id>https://blog.cybozu.io/entry/2021/07/20/100000</id>
         <link href="https://blog.cybozu.io/entry/2021/07/20/100000"/>
         <updated>2021-07-20T01:06:21.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。開発本部 オンボーディングチームの酒井（@sakay_y）です。社内のオンボーディングコンテンツを、どんどん社外へ公開することを夢見ています。 2021年もエンジニア新人研修を行いましたので、軽い紹介と、講義資料および一部講義動画（New!）を公開いたします。 2021年のエンジニア研修について 講義資料公...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇樹義子（そらき・よしこ）@ファイザー1回接種済 on Twitter: "私が小学生でクラスほぼ全員からいじめを受けてたとき。学級会で一度「あなたたちは私の人権を侵害しています。私は将来作家になってあなたたちが何をしたか実名を挙げて書くつもりです」と訴えたら、声を揃えて「ひどい、そこまでしなくたって」と非難された。泣き出す子もいたし、担任も彼らに加勢。"]]></title>
-        <id>https://twitter.com/decinormal1/status/1417082065032335363</id>
-        <link href="https://twitter.com/decinormal1/status/1417082065032335363"/>
-        <updated>2021-07-19T23:57:15.000Z</updated>
-        <summary type="html"><![CDATA[私が小学生でクラスほぼ全員からいじめを受けてたとき。学級会で一度「あなたたちは私の人権を侵害しています。私は将来作家になってあなたたちが何をしたか実名を挙げて書くつもりです」と訴えたら、声を揃えて「ひどい、そこまでしなくたって」と非難された。泣き出す子もいたし、担任も彼らに加勢。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

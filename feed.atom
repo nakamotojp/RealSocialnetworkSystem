@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T13:18:07.809Z</id>
+    <id>urn:2021-07-20T14:10:32.294Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T13:18:07.809Z</updated>
+    <updated>2021-07-20T14:10:32.294Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/20/news136.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/20/news136.html"/>
+        <updated>2021-07-20T10:42:18.000Z</updated>
+        <summary type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に 米Alphabet傘下の英DeepMindが、遺伝子配列情報からタンパク質の立体構造を解析するAI「AlphaFold2」をGitHub上で無償公開し、ネット上で注目を集めている。 米Alphabet傘下の英DeepMindが、遺伝子...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[組織委　小山田氏は「我々が選んだわけではない」　式典チームが「仲間を誘って」/東京五輪/デイリースポーツ online]]></title>
         <id>https://www.daily.co.jp/olympic/tokyo2020/2021/07/20/0014519260.shtml</id>
         <link href="https://www.daily.co.jp/olympic/tokyo2020/2021/07/20/0014519260.shtml"/>
         <updated>2021-07-20T10:26:55.000Z</updated>
         <summary type="html"><![CDATA[組織委　小山田氏は「我々が選んだわけではない」　式典チームが「仲間を誘って」 拡大 東京五輪・パラリンピック組織委員会の橋本聖子会長、武藤敏郎事務総長が２０日、国際オリンピック委員会（ＩＯＣ）の総会出席後にメーンプレスセンター（ＭＰＣ）で会見した。 前日に雑誌で障がい者とみられる同級生をいじめていた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「習近平のID番号でユーザー登録すると…」ダメ警官が指導者の個人情報を転売、中国“最強監視社会”のショボい裏側 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47249</id>
+        <link href="https://bunshun.jp/articles/-/47249"/>
+        <updated>2021-07-20T10:06:16.000Z</updated>
+        <summary type="html"><![CDATA[いっぽう、肖彦鋭は2018年から日本の関西地方で事実上の亡命生活を送っている。彼は続ける。 「習近平の戸籍登録地や誕生日・性別は公開情報だろ？　だから、実は18桁の身分証番号のうちで15桁までは外部の人間でも予測できる。不明なのは残りのたった3桁なんだ。ここまでは簡単で、実は手動でも番号を特定できてしまう...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[エヴァンゲリオン公式 on Twitter: "既に海外配信は発表されておりますが、ほどなく劇場での上映を終える『シン・エヴァンゲリオン劇場版』は、日本でも8月13日（金）よりAmazonPrimeVideoにて配信されることが決定しました。各所より国内配信のご要望多くいただき… https://t.co/G0W2r7g16V"]]></title>
-        <id>https://twitter.com/evangelion_co/status/1417288675369521164</id>
-        <link href="https://twitter.com/evangelion_co/status/1417288675369521164"/>
-        <updated>2021-07-20T01:10:24.000Z</updated>
-        <summary type="html"><![CDATA[既に海外配信は発表されておりますが、ほどなく劇場での上映を終える『シン・エヴァンゲリオン劇場版』は、日本でも8月13日（金）よりAmazonPrimeVideoにて配信されることが決定しました。各所より国内配信のご要望多くいただき… https://t.co/G0W2r7g16V]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年のエンジニア新人研修の講義資料を公開しました - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
         <id>https://blog.cybozu.io/entry/2021/07/20/100000</id>
         <link href="https://blog.cybozu.io/entry/2021/07/20/100000"/>
@@ -281,16 +291,6 @@
         <link href="http://blog.livedoor.jp/dqnplus/archives/2009343.html"/>
         <updated>2021-07-19T19:04:19.000Z</updated>
         <summary type="html"><![CDATA[【炎上】 東京五輪の文化プログラム担当 「絵本作家のぶみ」、教師いじめを自伝で自慢、「6歳の娘が犯し時」にいいね 1 名前：ネトウヨ ★：2021/07/20(火) 00:37:56.69 ID:vZ20hISH9 東京オリンピック・パラリンピック文化プログラム「MAZEKOZEアイランドツアー」に、絵本作家 #のぶみ が参加か。総合構成・キャスティン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安倍総理主催 総理と桜を見る会に出席させていただきました〜 | 田辺晋太郎オフィシャルブログ「Nice to MEAT you!!!」Powered by Ameba]]></title>
-        <id>https://ameblo.jp/shintaro-tanabe/entry-12266498945.html</id>
-        <link href="https://ameblo.jp/shintaro-tanabe/entry-12266498945.html"/>
-        <updated>2021-07-19T16:35:41.000Z</updated>
-        <summary type="html"><![CDATA[田辺晋太郎オフィシャルブログ「Nice to MEAT you!!!」Powered by Ameba 音楽家／MC，ラジオパーソナリティ／肉マイスター、肉王子／一般社団法人食のコンシェルジュ協会代表理事　など多彩な顔を持つ田辺晋太郎のブログ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

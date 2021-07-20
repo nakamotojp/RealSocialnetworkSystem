@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T20:12:44.753Z</id>
+    <id>urn:2021-07-20T21:11:08.305Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T20:12:44.753Z</updated>
+    <updated>2021-07-20T21:11:08.305Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アマゾン創業者ベゾス氏 宇宙旅行に成功 | IT・ネット | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013151071000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013151071000.html"/>
+        <updated>2021-07-20T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[IT大手アマゾンの創業者ジェフ・ベゾス氏が20日、みずから設立した宇宙開発企業の宇宙船に搭乗し宇宙への飛行に成功しました。 IT大手アマゾンの創業者ジェフ・ベゾス氏はみずから設立した宇宙開発企業「ブルーオリジン」が開発した宇宙船とロケットで商業ベースの宇宙旅行を提供することを目指しています。 20日、テキ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丸川五輪相　当初の小山田氏続投「理解できませんと申し上げた」：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/117914</id>
@@ -71,6 +81,16 @@
         <link href="https://www.daily.co.jp/olympic/tokyo2020/2021/07/20/0014519260.shtml"/>
         <updated>2021-07-20T10:26:55.000Z</updated>
         <summary type="html"><![CDATA[組織委　小山田氏は「我々が選んだわけではない」　式典チームが「仲間を誘って」 拡大 東京五輪・パラリンピック組織委員会の橋本聖子会長、武藤敏郎事務総長が２０日、国際オリンピック委員会（ＩＯＣ）の総会出席後にメーンプレスセンター（ＭＰＣ）で会見した。 前日に雑誌で障がい者とみられる同級生をいじめていた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[田村厚生労働相 モデルナ5000万回分追加契約“3回接種念頭に” | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013150681000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013150681000.html"/>
+        <updated>2021-07-20T10:25:06.000Z</updated>
+        <summary type="html"><![CDATA[モデルナのワクチンについて厚生労働省は、早ければ来年はじめから追加で5000万回分の供給を受ける契約を結びました。田村厚生労働大臣は、この5000万回分は2回の接種を終えた人向けに、3回目の接種に使うことも念頭に置いているという認識を示しました。 モデルナのワクチンは、自治体の大規模接種や職域接種などで使わ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「こういうのを求めてた」女性服専門店のスーツがカッコいい上に女性が服に求めることを叶えている - Togetter]]></title>
-        <id>https://togetter.com/li/1747427</id>
-        <link href="https://togetter.com/li/1747427"/>
-        <updated>2021-07-20T05:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Riho Matsue @punk_222 最高なのでTwitterでも見せちゃう〜😻ai STANDALONEさんという、レディース専門なんだけど、「レディース」という枠に囚われないスーツを扱ってるお店にて結婚式用のスーツを選んできた。自己肯定感ぶち上がった。おすすめッ pic.twitter.com/6xQ9PUPR4N 2021-07-19 00:37:10]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[町山智浩 on Twitter: "悪趣味カルチャーは80年代のオシャレやモテや電通文化に対する怒りだった。カーディガンを肩にかけ、ポロシャツの襟を立ててテニスやスキーしてホイチョイの「ヤレる店」読んでナンパして人を「ちゃん付けで呼ぶ」奴らにゲロや死体で嫌がらせしたかった。当時を知らない人にはわからないだろうけど。"]]></title>
         <id>https://twitter.com/TomoMachi/status/1417347576521629706</id>
         <link href="https://twitter.com/TomoMachi/status/1417347576521629706"/>
@@ -261,16 +271,6 @@
         <link href="https://togetter.com/li/1747389"/>
         <updated>2021-07-20T03:49:00.000Z</updated>
         <summary type="html"><![CDATA[七ノ日@たべあな連載中 @7daaays 先月真昼に駅のロータリーにおじさんが完全に横に倒れてるのを見かけて、顔真っ赤・異常な汗・意識多少の混濁で即救急車呼んでなんやかんやしたんですけど、今の時期は外で人倒れてたら躊躇せずに救急車呼んだ方が良いと思いました…救急車到着までの15分ほどで意識消える寸前まで行った...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辞任の小山田圭吾に〝極悪前科〟 今度は重病患者を嘲笑インタビュー | 東スポのニュースに関するニュースを掲載]]></title>
-        <id>https://www.tokyo-sports.co.jp/entame/news/3442014/</id>
-        <link href="https://www.tokyo-sports.co.jp/entame/news/3442014/"/>
-        <updated>2021-07-20T03:42:44.000Z</updated>
-        <summary type="html"><![CDATA[病室で爆音を轟かせていたという小山田 遅すぎた辞任…。東京五輪・パラリンピックの開会式の楽曲担当を務めていたミュージシャンの小山田圭吾（５２）が１９日に辞任したことに多くの国民が胸をなでおろしている。それだけ小山田が障がい者の同級生をいじめていたというインタビューはインパクトが大きかった。実はほか...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

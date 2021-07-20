@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T09:12:38.147Z</id>
+    <id>urn:2021-07-20T10:13:14.735Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T09:12:38.147Z</updated>
+    <updated>2021-07-20T10:13:14.735Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[大阪 泉佐野から行方不明のウガンダの選手 三重県内で見つかる | オリンピック・パラリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013150131000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013150131000.html"/>
+        <updated>2021-07-20T08:06:32.000Z</updated>
+        <summary type="html"><![CDATA[警察関係者によりますと、東京オリンピックの事前合宿で滞在していた大阪・泉佐野市のホテルからいなくなっていたウガンダのウエイトリフティングの選手が、20日、三重県内で見つかったということです。 現在、警察が、行方が分からなくなってからの詳しいいきさつについて話を聞いているということです。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[のぶみさん、五輪関連プログラムの出演辞退　発言にネットで批判 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210720/k00/00m/050/187000c</id>
@@ -251,16 +261,6 @@
         <link href="https://ameblo.jp/shintaro-tanabe/entry-12266498945.html"/>
         <updated>2021-07-19T16:35:41.000Z</updated>
         <summary type="html"><![CDATA[田辺晋太郎オフィシャルブログ「Nice to MEAT you!!!」Powered by Ameba 音楽家／MC，ラジオパーソナリティ／肉マイスター、肉王子／一般社団法人食のコンシェルジュ協会代表理事　など多彩な顔を持つ田辺晋太郎のブログ。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岡崎体育 on Twitter: "俺にやらせてくれ"]]></title>
-        <id>https://twitter.com/okazaki_taiiku/status/1417149290821013506</id>
-        <link href="https://twitter.com/okazaki_taiiku/status/1417149290821013506"/>
-        <updated>2021-07-19T15:53:09.000Z</updated>
-        <summary type="html"><![CDATA[俺にやらせてくれ]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

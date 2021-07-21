@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T07:10:58.149Z</id>
+    <id>urn:2021-07-21T08:14:15.659Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T07:10:58.149Z</updated>
+    <updated>2021-07-21T08:14:15.659Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 1832人感染確認 1週間前より683人増 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210721/k10013152271000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210721/k10013152271000.html"/>
+        <updated>2021-07-21T07:49:12.000Z</updated>
+        <summary type="html"><![CDATA[東京都は21日、都内で新たに1832人が新型コロナウイルスに感染していることを確認したと発表しました。 1800人を超えるのはことし1月16日以来で、水曜日としては最も多くなりました。 また、1週間前の水曜日より683人増え、感染の急拡大が続いています。 一方、都の基準で集計した21日時点の重症の患者は20日より4人増え...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相 “五輪 やめること簡単 挑戦が政府の役割” 米有力紙で | オリンピック・パラリンピック | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210721/k10013151771000.html</id>
@@ -216,11 +226,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[飴と無知 映画のワンシーンのような写真、絵のような写真、写真のような映..]]></title>
-        <id>https://anond.hatelabo.jp/20210720214518</id>
-        <link href="https://anond.hatelabo.jp/20210720214518"/>
-        <updated>2021-07-20T15:07:16.000Z</updated>
-        <summary type="html"><![CDATA[飴と無知 映画のワンシーンのような写真、絵のような写真、写真のような映画のワンシーン、写真のような絵、映画のワンシーンのような写真のような絵、写真のような絵のような写真、絵のような写真のような絵 汁なし坦々麺はレトロニム 米ソよりお世話になっております 失敗の非嫡出子 双子の赤字、一人っ子政策で解消へ...]]></summary>
+        <title type="html"><![CDATA[GoはいつGCするのか?]]></title>
+        <id>https://zenn.dev/koron/articles/b96cccfa82c0c1</id>
+        <link href="https://zenn.dev/koron/articles/b96cccfa82c0c1"/>
+        <updated>2021-07-20T15:13:11.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Go(のランタイム)は以下のタイミングで自動的にGCを実行する 前回のGC後に占有していたメモリと同量を新たに確保したとき 前回のGCから2分後 cgroupなどでメモリ制限しているとき(コンテナなど)は、メモリ使用量が制限の50%以上になったら1度以上はGCをするためにruntime.GC()を手動で呼び出すべきである 前置き: ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://anond.hatelabo.jp/20210720192107"/>
         <updated>2021-07-20T12:31:58.000Z</updated>
         <summary type="html"><![CDATA[幻覚と強い被害妄想ときたら、医者はまず統合失調症を疑う。京本を殺した犯人が作中で統合失調症として描かれていたことはほぼ間違いがないだろう。たとえ統合失調症でなかったとしても、絵から声が聞こえると言うのが精神疾患であることは確かだ。 anond:20210719195613 の言う通り、フィクションが差別を助長すること...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシア五輪委、選手村を酷評「中世の時代。選手かわいそう」　橋本会長「対応したい」：朝日新聞GLOBE＋]]></title>
-        <id>https://globe.asahi.com/article/14399681</id>
-        <link href="https://globe.asahi.com/article/14399681"/>
-        <updated>2021-07-20T12:12:57.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックの開幕を控え、続々と各国選手団が東京・晴海にある選手村に入村している。しかし、組織的なドーピング違反のため、国家としての参加ができないロシア・オリンピック委員会（ROC）のチーム幹部から、選手村の状況について酷評される事態が露呈した。 ロシア国営メディアによると、同幹部は選手村の状況...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

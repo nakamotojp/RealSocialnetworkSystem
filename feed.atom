@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T13:18:06.243Z</id>
+    <id>urn:2021-07-21T14:11:02.279Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T13:18:06.243Z</updated>
+    <updated>2021-07-21T14:11:02.279Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[首相、記者団の取材にいら立ち　立て続け質問、注意促す ｜ 共同通信]]></title>
+        <id>https://nordot.app/790560839146061824</id>
+        <link href="https://nordot.app/790560839146061824"/>
+        <updated>2021-07-21T12:51:01.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は21日、官邸で記者団の取材に応じた際、社名を名乗らず立て続けに質問しようとした記者を「ルールを守ってください」と遮り、後方で控えていた小野日子内閣広報官らに「はっきり言ってください」と注意を促すなど、いら立ちをあらわにした。 首相が就任して以降、質問のたびに社名と氏名を名乗るのが通例とな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪チケット購入者の情報流出（共同通信） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/3ea364a90a3a6d3ca126c42bd3dac423b63df7c0</id>
+        <link href="https://news.yahoo.co.jp/articles/3ea364a90a3a6d3ca126c42bd3dac423b63df7c0"/>
+        <updated>2021-07-21T12:24:35.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・パラリンピックのチケット購入者とボランティアのID、パスワードが盗まれ、インターネット上に流出していたことが21日、政府関係者への取材で分かった。大会組織委員会が調査している。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五輪チケット購入者の情報流出 ｜ 共同通信]]></title>
         <id>https://nordot.app/790552913157406720</id>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「第3波はるかに超える危機的状況も」東京都モニタリング会議 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210721/k10013151801000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210721/k10013151801000.html"/>
-        <updated>2021-07-21T05:58:17.000Z</updated>
-        <summary type="html"><![CDATA[東京都のモニタリング会議で、専門家は第3波を上回るペースで感染が急拡大していると指摘したうえで「増加比がさらに上昇すると2週間を待たずに第3波をはるかに超える危機的な感染状況になる」と述べ、強い懸念を示しました。 週に1度、開かれている都のモニタリング会議は21日が55回目で、東京オリンピックの開幕前、最...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国「日本には核攻撃する」]]></title>
         <id>https://anond.hatelabo.jp/20210721135023</id>
         <link href="https://anond.hatelabo.jp/20210721135023"/>
@@ -131,6 +141,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210721/k10013144481000.html"/>
         <updated>2021-07-21T03:37:15.000Z</updated>
         <summary type="html"><![CDATA[ことし6月13日、22歳の誕生日を迎えた佐藤和威さん。 プレゼントを開けるために家族がはさみを取り出すと、佐藤さんは、顔をそむけました。中学時代に受けたいじめの影響で、はさみを見ると恐怖を感じるのです。 佐藤さんは、医者からPTSDと診断されています。前触れもなくいじめられていた当時に引き戻され、自分のコン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪、2兆円規模の大失敗に - WSJ]]></title>
+        <id>https://jp.wsj.com/articles/the-2021-olympics-are-turning-into-a-20-billion-bust-for-japan-11626829079</id>
+        <link href="https://jp.wsj.com/articles/the-2021-olympics-are-turning-into-a-20-billion-bust-for-japan-11626829079"/>
+        <updated>2021-07-21T03:26:03.000Z</updated>
+        <summary type="html"><![CDATA[News Corp is a global, diversified media and information services company focused on creating and distributing authoritative and engaging content and other products and services.]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつ..]]></title>
-        <id>https://anond.hatelabo.jp/20210721041852</id>
-        <link href="https://anond.hatelabo.jp/20210721041852"/>
-        <updated>2021-07-20T21:39:24.000Z</updated>
-        <summary type="html"><![CDATA[はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつて行われた「歌舞伎町浄化作戦」みたいなものだよね ぶっちゃけ今のはてブって「５ちゃんねる@はてブ板」ってくらい閉鎖的で偏った傾向の人達のたまり場になってしまっていて、それでも板の中に籠もってよろしくやってるのならともかく、外部サイ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[id:lady_joker氏への手斧。あるいは天才・藤本タツキとエンブレム佐野の違いについて - フロイドの狂気日記]]></title>
         <id>https://www.byosoku100.com/entry/2021/07/21/060000</id>
         <link href="https://www.byosoku100.com/entry/2021/07/21/060000"/>
         <updated>2021-07-20T21:18:17.000Z</updated>
         <summary type="html"><![CDATA[気軽に手斧を 痛いニュース(ﾉ∀`) : 美人銭湯絵師・勝海麻衣さん 続々パクリが発掘される すげえ……作品批評の範囲を超えてツバを吐いてる……！？ デザイン盗作・「ルックバック」の藤本タツキは天才ではない。あるいは少年ジャンプの才能枯渇問題 - フロイドの狂気日記 やたらコメントつくし、俺を笑ってくれるし もしかし...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加藤郁美 on Twitter: "この大失敗フェス・ドキュメンタリーの何が今の東京にとってホラーかというと、これ広告屋フェスなんです。広告屋・企画屋・インスタインフルエンサーのモデルだけが居て、ロジスティクスわかってる人は誰もいないの。いないというか、ロジ方面の不… https://t.co/h5jldfaWl8"]]></title>
-        <id>https://twitter.com/katoikumi/status/1409200616501436417</id>
-        <link href="https://twitter.com/katoikumi/status/1409200616501436417"/>
-        <updated>2021-07-20T18:35:42.000Z</updated>
-        <summary type="html"><![CDATA[この大失敗フェス・ドキュメンタリーの何が今の東京にとってホラーかというと、これ広告屋フェスなんです。広告屋・企画屋・インスタインフルエンサーのモデルだけが居て、ロジスティクスわかってる人は誰もいないの。いないというか、ロジ方面の不… https://t.co/h5jldfaWl8]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

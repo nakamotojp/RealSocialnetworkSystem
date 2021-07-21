@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T03:13:49.671Z</id>
+    <id>urn:2021-07-21T04:15:47.739Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T03:13:49.671Z</updated>
+    <updated>2021-07-21T04:15:47.739Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[太田光が小山田圭吾に関する発言で反省の弁「大勢の人を傷つけた」（日刊スポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/89915388bfcc803fd84ce2ce0e13c334be156878</id>
+        <link href="https://news.yahoo.co.jp/articles/89915388bfcc803fd84ce2ce0e13c334be156878"/>
+        <updated>2021-07-21T01:42:45.000Z</updated>
+        <summary type="html"><![CDATA[爆笑問題の太田光（56）が、ミュージシャン小山田圭吾（52）のいじめ問題に関する自身の発言で、所属事務所などにクレームが多数寄せられたと明かし、あらためて発言の真意を説明した。 【写真】会見する爆笑問題の太田光 太田は20日深夜放送のラジオ番組「爆笑問題カーボーイ」で、小山田の一連の騒動に言及。「この間...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荻上です。ラジオのOPで、2、3分ほどのフリートークの時間があります。僕は..]]></title>
         <id>https://anond.hatelabo.jp/20210721090214</id>
@@ -61,6 +71,16 @@
         <link href="https://anond.hatelabo.jp/20210720231145"/>
         <updated>2021-07-20T21:20:23.000Z</updated>
         <summary type="html"><![CDATA[アジフライ、メンチカツ、後は？ ただの茄子フライは手抜きだが、チーズを挟んだアイツはソースどっぼどぼかけて食うと白米が2杯イケる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[id:lady_joker氏への手斧。あるいは天才・藤本タツキとエンブレム佐野の違いについて - フロイドの狂気日記]]></title>
+        <id>https://www.byosoku100.com/entry/2021/07/21/060000</id>
+        <link href="https://www.byosoku100.com/entry/2021/07/21/060000"/>
+        <updated>2021-07-20T21:18:17.000Z</updated>
+        <summary type="html"><![CDATA[気軽に手斧を 痛いニュース(ﾉ∀`) : 美人銭湯絵師・勝海麻衣さん 続々パクリが発掘される すげえ……作品批評の範囲を超えてツバを吐いてる……！？ デザイン盗作・「ルックバック」の藤本タツキは天才ではない。あるいは少年ジャンプの才能枯渇問題 - フロイドの狂気日記 やたらコメントつくし、俺を笑ってくれるし もしかし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[コロナ嗅覚異常“20代30代の7割” 改善に1～2年かかる可能性も | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210720/k10013150951000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013150951000.html"/>
-        <updated>2021-07-20T14:21:06.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスに感染し、嗅覚に異常を感じた人の割合は20代と30代でおよそ7割にのぼり、若い世代ほどその割合が高かったことが国の研究班の調査で分かりました。 それによりますと、ことし2月から5月にかけて無症状から中等症までの患者251人にアンケートを行ったところ、嗅覚に異常があると答えたのは20代と30代で...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「もう選手来ちゃっている」バブル方式の不備を野党追及も丸川五輪相応じず（日刊スポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48</id>
         <link href="https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48"/>
@@ -261,16 +271,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2107/20/news136.html"/>
         <updated>2021-07-20T10:42:18.000Z</updated>
         <summary type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に 米Alphabet傘下の英DeepMindが、遺伝子配列情報からタンパク質の立体構造を解析するAI「AlphaFold2」をGitHub上で無償公開し、ネット上で注目を集めている。 米Alphabet傘下の英DeepMindが、遺伝子...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織委　小山田氏は「我々が選んだわけではない」　式典チームが「仲間を誘って」/東京五輪/デイリースポーツ online]]></title>
-        <id>https://www.daily.co.jp/olympic/tokyo2020/2021/07/20/0014519260.shtml</id>
-        <link href="https://www.daily.co.jp/olympic/tokyo2020/2021/07/20/0014519260.shtml"/>
-        <updated>2021-07-20T10:26:55.000Z</updated>
-        <summary type="html"><![CDATA[組織委　小山田氏は「我々が選んだわけではない」　式典チームが「仲間を誘って」 拡大 東京五輪・パラリンピック組織委員会の橋本聖子会長、武藤敏郎事務総長が２０日、国際オリンピック委員会（ＩＯＣ）の総会出席後にメーンプレスセンター（ＭＰＣ）で会見した。 前日に雑誌で障がい者とみられる同級生をいじめていた...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

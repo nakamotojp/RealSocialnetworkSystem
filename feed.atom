@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T10:13:13.330Z</id>
+    <id>urn:2021-07-21T11:09:52.108Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T10:13:13.330Z</updated>
+    <updated>2021-07-21T11:09:52.108Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[韓国“放射能フリー弁当”五輪選手団に提供｜日テレNEWS24]]></title>
+        <id>https://www.news24.jp/articles/2021/07/21/10909660.html</id>
+        <link href="https://www.news24.jp/articles/2021/07/21/10909660.html"/>
+        <updated>2021-07-21T06:31:11.000Z</updated>
+        <summary type="html"><![CDATA[見出し、記事、写真、動画、図表などの無断転載を禁じます。 当サイトにおけるクッキーの扱いについてはこちら 『日テレNEWS24 ライブ配信』の推奨環境はこちら]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[アメリカ女子体操チーム、選手村を「脱出」しホテル宿泊へ。「選手の安全を管理」 | ハフポスト]]></title>
         <id>https://www.huffingtonpost.jp/entry/story_jp_60f798a6e4b07c153fba29a6</id>
         <link href="https://www.huffingtonpost.jp/entry/story_jp_60f798a6e4b07c153fba29a6"/>
@@ -36,11 +46,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zepp Tokyo、2022年1月1日で営業終了 - 音楽ナタリー]]></title>
+        <id>https://natalie.mu/music/news/437833</id>
+        <link href="https://natalie.mu/music/news/437833"/>
+        <updated>2021-07-21T06:23:28.000Z</updated>
+        <summary type="html"><![CDATA[東京都江東区のライブハウス、Zepp Tokyoが2022年1月1日をもって営業を終了することが発表された。 Zepp Tokyoが入居する複合商業施設、パレットタウン内の各施設運営会社からなる臨海副都心パレットタウン運営協議会は本日7月21日、事業区域における開発事業の一部進捗に伴い今年12月より各施設の営業を順次終了すると...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[菅首相 “五輪 やめること簡単 挑戦が政府の役割” 米有力紙で | オリンピック・パラリンピック | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210721/k10013151771000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210721/k10013151771000.html"/>
         <updated>2021-07-21T06:14:25.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの開催をめぐって、菅総理大臣はアメリカの有力紙ウォール・ストリート・ジャーナルのインタビューで「やめることは、いちばん簡単なこと、楽なことだ」としたうえで「挑戦するのが政府の役割だ」と強調しました。 この中で、菅総理大臣は、東京オリンピックの開催をめぐって「新型コロナウイルスの感染...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国「日本には核攻撃する」]]></title>
+        <id>https://anond.hatelabo.jp/20210721135023</id>
+        <link href="https://anond.hatelabo.jp/20210721135023"/>
+        <updated>2021-07-21T04:50:33.000Z</updated>
+        <summary type="html"><![CDATA[https://www.dailymail.co.uk/news/article-9803237/Chinese-officials-repost-threat-NUKE-Japan-amid-tensions-Taiwan.html?ico=embedded シーレーン防衛のためにも台湾防衛は日本の防衛と同義で、台湾が陥落すれば次は沖縄になるのは必然という事情から日本は台湾は守ると断言している訳だが それに対する中国の反応...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[コロナ感染から回復した人の抗体 ”時間経つほど効果高く” | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210721/k10013151001000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210721/k10013151001000.html"/>
-        <updated>2021-07-20T20:30:04.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスに感染して回復した人の抗体を国立感染症研究所などのグループが長期間にわたって調べたところ、回復してからの期間が長いほど感染を防ぐ効果の高い抗体が増えていることが分かりました。グループでは質のいい抗体ができる仕組みが解明できればワクチンの開発などに役立つとしています。 これは国立感...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[孤立する首相　「五輪中止」再三の進言、取り合わず [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7M4SHXP7HUTFK01Z.html</id>
         <link href="https://www.asahi.com/articles/ASP7M4SHXP7HUTFK01Z.html"/>
@@ -256,31 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[62歳の宮崎美子、マクドナルトCMで初々しい中学生少女を見事に演じる　「暖かい目でぜひ見てください」 - ねとらぼ]]></title>
-        <id>https://nlab.itmedia.co.jp/nl/articles/2107/20/news152.html</id>
-        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/20/news152.html"/>
-        <updated>2021-07-20T14:49:27.000Z</updated>
-        <summary type="html"><![CDATA[俳優の宮崎美子さんが7月20日から放送開始されたマクドナルドのCMに出演。“50年前”と“現在”の2役を演じています。50年前バージョンの宮崎さん、初々しいなあ……。 家族といっしょに。「僕がここにいる理由」篇 60秒 50年前の7月20日にオープンしたマクドナルド銀座1号店。CMでは50年前の同店舗を再現し、宮崎さんは“50年...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ビキニ拒否し短パンで競技 ノルウェーの女子ビーチハンド、 罰金も　写真4枚　国際ニュース：AFPBB News]]></title>
         <id>https://www.afpbb.com/articles/-/3357508</id>
         <link href="https://www.afpbb.com/articles/-/3357508"/>
         <updated>2021-07-20T12:45:43.000Z</updated>
         <summary type="html"><![CDATA[ビーチハンドボールの試合の様子。写真はアルゼンチン・ブエノスアイレスで開催された第3回ユースオリンピックのオランダ対ハンガリー戦（2018年10月12日撮影、資料写真）。(c)AFP PHOTO / OIS/IOC / LUKAS SCHULZE 【7月20日 AFP】ノルウェーハンドボール連盟（NHF）は19日、ビーチハンドボール女子の同国代表が国際ハ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「習近平のID番号でユーザー登録すると…」ダメ警官が指導者の個人情報を転売、中国“最強監視社会”のショボい裏側 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47249</id>
-        <link href="https://bunshun.jp/articles/-/47249"/>
-        <updated>2021-07-20T10:06:16.000Z</updated>
-        <summary type="html"><![CDATA[いっぽう、肖彦鋭は2018年から日本の関西地方で事実上の亡命生活を送っている。彼は続ける。 「習近平の戸籍登録地や誕生日・性別は公開情報だろ？　だから、実は18桁の身分証番号のうちで15桁までは外部の人間でも予測できる。不明なのは残りのたった3桁なんだ。ここまでは簡単で、実は手動でも番号を特定できてしまう...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

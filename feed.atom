@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T05:10:25.996Z</id>
+    <id>urn:2021-07-21T06:15:10.047Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T05:10:25.996Z</updated>
+    <updated>2021-07-21T06:15:10.047Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[建設的ブコメ文字数判定]]></title>
+        <id>https://anond.hatelabo.jp/20210721121831</id>
+        <link href="https://anond.hatelabo.jp/20210721121831"/>
+        <updated>2021-07-21T03:20:45.000Z</updated>
+        <summary type="html"><![CDATA[あああああああああああああ aaaaaaaaaaaaaaa bbbbbbbbbbbbb とかで水増ししてもだめだった 意味ある文章じゃないとだめっぽい でも「ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ」はカウントに入るんだよな、謎 元の文章にもよるけど合計30文字くらいあれば人気コメに入る感じだと思う]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロが教える！噛んでしまったファスナーを動かすための緊急対処法 | REFINE]]></title>
         <id>https://www.refine.tokyo/refinebook/fastener_stuck/</id>
@@ -31,6 +41,16 @@
         <link href="https://twitter.com/kawauchihiroshi/status/1417628358188306437"/>
         <updated>2021-07-21T01:40:34.000Z</updated>
         <summary type="html"><![CDATA[陛下が開会式で「大会の中止」を宣言されるしか、最早止める手立ては無い。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「スタディサプリ」が React Native から卒業するまで、あるいは技術的負債への感謝と敬意 - Quipper Product Team Blog]]></title>
+        <id>https://quipper.hatenablog.com/entry/2021/07/21/080000</id>
+        <link href="https://quipper.hatenablog.com/entry/2021/07/21/080000"/>
+        <updated>2021-07-21T01:28:07.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Quipper iOS エンジニアの @manicmaniac です。 現在スタディサプリ iOS アプリ開発チームのエンジニアリングマネージャをしています。 今回はスタディサプリで長らく使われていた React Native のコードを Swift に書き換えた話をします。 実は React Native から Swift への置き換え自体は半年ほど前に完...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +101,16 @@
         <link href="https://togetter.com/li/1747630"/>
         <updated>2021-07-20T23:00:00.000Z</updated>
         <summary type="html"><![CDATA[大事な情報がギュッと詰まったお手紙に愛を感じます。多くの人に知ってもらって少しでも楽になる人が増えますように。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪ソフトボール会場にクマ…体長１メートル、県警が会場くまなく大捜索も発見できず（スポーツ報知） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/ea5da7ed3909d7270ff2f2876fd2e7edd0faf953</id>
+        <link href="https://news.yahoo.co.jp/articles/ea5da7ed3909d7270ff2f2876fd2e7edd0faf953"/>
+        <updated>2021-07-20T22:56:43.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪のソフトボール会場「福島県営あづま球場」がある福島市のあづま総合運動公園内で２０日午前７時半頃、巡回中の男性警備員が体長約１メートルのツキノワグマとみられるクマを目撃し、県警福島署に通報した。同球場では２１日午前９時に１次リーグ・日本対オーストラリア戦がプレーボールとなるだけに、県警は夜...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,36 +221,6 @@
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/20/news152.html"/>
         <updated>2021-07-20T14:49:27.000Z</updated>
         <summary type="html"><![CDATA[俳優の宮崎美子さんが7月20日から放送開始されたマクドナルドのCMに出演。“50年前”と“現在”の2役を演じています。50年前バージョンの宮崎さん、初々しいなあ……。 家族といっしょに。「僕がここにいる理由」篇 60秒 50年前の7月20日にオープンしたマクドナルド銀座1号店。CMでは50年前の同店舗を再現し、宮崎さんは“50年...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「もう選手来ちゃっている」バブル方式の不備を野党追及も丸川五輪相応じず（日刊スポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48</id>
-        <link href="https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48"/>
-        <updated>2021-07-20T13:31:10.000Z</updated>
-        <summary type="html"><![CDATA[立憲民主党は20日、丸川珠代五輪担当相に東京オリンピック（五輪）・パラリンピックで新型コロナ対策の「バブル方式」や、水際対策の不備を指摘した要望書を手渡した。 【写真】閣議後会見を行った丸川珠代五輪相 逢坂誠二氏は「政府から虚偽の説明が繰り返されてきた」とした上で大会関係者の外出が事実上、野放しの実...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪開催中の中止や延期「そういう状況が出てきた時に考える」武藤事務総長 - 東京オリンピック2020 : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107200000855.html</id>
-        <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107200000855.html"/>
-        <updated>2021-07-20T13:28:12.000Z</updated>
-        <summary type="html"><![CDATA[国際オリンピック委員会（IOC）の第138次総会が20日、都内のホテルで行われ、終了後に大会組織委員会の橋本聖子会長（56）と武藤敏郎事務総長（78）がメインプレスセンター（MPC）で会見した。 海外メディアから今後、新型コロナウイルス感染拡大で、開催中での中止や延期の可能性について質問があった。武藤氏は「今の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyeong Uk, Han on Twitter: "オリンピック選手村のエアコンボタンが日本語しかなくて外人がみんな死んでるって話を聞いて笑ってる OMOTENA死 https://t.co/xGvFQKSmwR"]]></title>
-        <id>https://twitter.com/haaan_co/status/1417365376988377088</id>
-        <link href="https://twitter.com/haaan_co/status/1417365376988377088"/>
-        <updated>2021-07-20T12:56:01.000Z</updated>
-        <summary type="html"><![CDATA[オリンピック選手村のエアコンボタンが日本語しかなくて外人がみんな死んでるって話を聞いて笑ってる OMOTENA死 https://t.co/xGvFQKSmwR]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

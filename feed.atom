@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T01:58:40.998Z</id>
+    <id>urn:2021-07-21T02:31:11.210Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T01:58:40.998Z</updated>
+    <updated>2021-07-21T02:31:11.210Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://anond.hatelabo.jp/20210721090214"/>
         <updated>2021-07-21T00:09:47.000Z</updated>
         <summary type="html"><![CDATA[荻上です。ラジオのOPで、2、3分ほどのフリートークの時間があります。僕はそこで、『ルックバック』現象について簡単に触れました。 https://shonenjumpplus.com/episode/3269754496401369355 内容は、「『ルックバック』というすごく良い漫画が話題になっていた。漫画家クラスターなどを含めてさまざまな反響があった...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「分厚い育児本よりリアル」「産後の辛さは知られていない」里帰り・手伝いなしで出産する友達に宛てた手紙 - Togetter]]></title>
+        <id>https://togetter.com/li/1747630</id>
+        <link href="https://togetter.com/li/1747630"/>
+        <updated>2021-07-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大事な情報がギュッと詰まったお手紙に愛を感じます。多くの人に知ってもらって少しでも楽になる人が増えますように。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[丸川五輪相　当初の小山田氏続投「理解できませんと申し上げた」：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/117914</id>
-        <link href="https://www.tokyo-np.co.jp/article/117914"/>
-        <updated>2021-07-20T13:35:40.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪開会式の楽曲を担当するミュージシャンの小山田圭吾さんが過去の雑誌インタビューで告白した学生時代のいじめを理由に辞任した問題で、丸川珠代五輪相は20日の記者会見で、小山田氏の辞任前に東京五輪・パラリンピック組織委員会とやり取りしたことを明かした。組織委員会は当初、小山田氏を続投させる考えを示...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「もう選手来ちゃっている」バブル方式の不備を野党追及も丸川五輪相応じず（日刊スポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48</id>
         <link href="https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48"/>
@@ -220,7 +220,7 @@
         <id>https://globe.asahi.com/article/14399681</id>
         <link href="https://globe.asahi.com/article/14399681"/>
         <updated>2021-07-20T12:12:57.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックの開幕を控え、続々と各国選手団が晴海にある選手村に入っている。しかし、組織的なドーピング違反のため、国家としての参加ができないロシア・オリンピック委員会（ROC）幹部から、選手村の状況について酷評される事態が露呈した。 ロシア国営メディアによると、同幹部は選手村の状況について「風呂が...]]></summary>
+        <summary type="html"><![CDATA[東京オリンピックの開幕を控え、続々と各国選手団が東京・晴海にある選手村に入村している。しかし、組織的なドーピング違反のため、国家としての参加ができないロシア・オリンピック委員会（ROC）のチーム幹部から、選手村の状況について酷評される事態が露呈した。 ロシア国営メディアによると、同幹部は選手村の状況...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -276,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[埼玉の大規模接種休止へ　知事、国を痛烈に批判 ｜ 共同通信]]></title>
-        <id>https://nordot.app/790136577745698816</id>
-        <link href="https://nordot.app/790136577745698816"/>
-        <updated>2021-07-20T08:43:31.000Z</updated>
-        <summary type="html"><![CDATA[埼玉県は20日、さいたま市で実施中の新型コロナウイルスワクチン大規模接種を8月1～15日、休止すると発表した。同期間分のワクチンを配送できないと政府から連絡があったといい、大野元裕知事は記者会見で「国のガバナンスが失われている。あきれて言葉もない」と批判した。 県によると、休止するのはさいたま市の合同庁...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「アジア人差別」をしたフランス人が「差別じゃない」と本気で否定する理由（田中 晴子） | FRaU]]></title>
         <id>https://gendai.ismedia.jp/articles/-/85321</id>
         <link href="https://gendai.ismedia.jp/articles/-/85321"/>
@@ -301,6 +291,16 @@
         <link href="https://www.byosoku100.com/entry/2021/07/20/053000"/>
         <updated>2021-07-20T01:58:45.000Z</updated>
         <summary type="html"><![CDATA[ルックバック - 藤本タツキ | 少年ジャンプ＋ 内容は楽しく読めたんだけど、これに対しての大絶賛コメと天才大合唱が不気味すぎる。それにプロ漫画家(超一線級のSクラスではない)までがTwitterで心を動かされたとか言っている。だいたいそういう人らのヒロイックな自虐と謙遜は見るに耐えない。そもそもなんだけど、この...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニア・プログラマにしか使えないSNSを作ってみた話 - Qiita]]></title>
+        <id>https://qiita.com/HawkClaws/items/599d7666f55e79ef7f56</id>
+        <link href="https://qiita.com/HawkClaws/items/599d7666f55e79ef7f56"/>
+        <updated>2021-07-19T04:12:12.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 通常のSNSで胡散臭い人が多いと感じてしまいました プログラミングスクールが流行り、エンジニアになって億稼いでます！みたいな・・・ そこで、本当のエンジニア・プログラマしか使えないSNSを作ってみました！ つまり、WebApi提供のみのSNSです 一般ピープルが使うようなフロントエンドなんてありません！！ ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

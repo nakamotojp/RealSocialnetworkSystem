@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T08:14:15.659Z</id>
+    <id>urn:2021-07-21T09:12:46.892Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T08:14:15.659Z</updated>
+    <updated>2021-07-21T09:12:46.892Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210721/k10013151771000.html"/>
         <updated>2021-07-21T06:14:25.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの開催をめぐって、菅総理大臣はアメリカの有力紙ウォール・ストリート・ジャーナルのインタビューで「やめることは、いちばん簡単なこと、楽なことだ」としたうえで「挑戦するのが政府の役割だ」と強調しました。 この中で、菅総理大臣は、東京オリンピックの開催をめぐって「新型コロナウイルスの感染...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB特集 悪質いじめ「僕は“実名・顔出し”で闘う」 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210721/k10013144481000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210721/k10013144481000.html"/>
+        <updated>2021-07-21T03:37:15.000Z</updated>
+        <summary type="html"><![CDATA[ことし6月13日、22歳の誕生日を迎えた佐藤和威さん。 プレゼントを開けるために家族がはさみを取り出すと、佐藤さんは、顔をそむけました。中学時代に受けたいじめの影響で、はさみを見ると恐怖を感じるのです。 佐藤さんは、医者からPTSDと診断されています。前触れもなくいじめられていた当時に引き戻され、自分のコン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -61,6 +71,16 @@
         <link href="https://twitter.com/kawauchihiroshi/status/1417628358188306437"/>
         <updated>2021-07-21T01:40:34.000Z</updated>
         <summary type="html"><![CDATA[陛下が開会式で「大会の中止」を宣言されるしか、最早止める手立ては無い。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社会人1年目です。アドバイスを下さい。助けてください。]]></title>
+        <id>https://anond.hatelabo.jp/20210721103350</id>
+        <link href="https://anond.hatelabo.jp/20210721103350"/>
+        <updated>2021-07-21T01:39:38.000Z</updated>
+        <summary type="html"><![CDATA[先月配属されて、主に先輩や上司から突発的に頼まれた雑用をやっているんですが、指示が必ず完全に意味不明で毎日毎回困り果てています。 状況が正しく伝わるよう、なるべくそのまま指示を出す周りの人と私とのやり取りを書き記します。 先輩｢増田ぁ～、△△（会社内でのみ通じるオフィシャルでない略称）やっといてほしい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoはいつGCするのか?]]></title>
-        <id>https://zenn.dev/koron/articles/b96cccfa82c0c1</id>
-        <link href="https://zenn.dev/koron/articles/b96cccfa82c0c1"/>
-        <updated>2021-07-20T15:13:11.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR Go(のランタイム)は以下のタイミングで自動的にGCを実行する 前回のGC後に占有していたメモリと同量を新たに確保したとき 前回のGCから2分後 cgroupなどでメモリ制限しているとき(コンテナなど)は、メモリ使用量が制限の50%以上になったら1度以上はGCをするためにruntime.GC()を手動で呼び出すべきである 前置き: ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[62歳の宮崎美子、マクドナルトCMで初々しい中学生少女を見事に演じる　「暖かい目でぜひ見てください」 - ねとらぼ]]></title>
         <id>https://nlab.itmedia.co.jp/nl/articles/2107/20/news152.html</id>
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/20/news152.html"/>
@@ -261,16 +271,6 @@
         <link href="https://anond.hatelabo.jp/20210720192107"/>
         <updated>2021-07-20T12:31:58.000Z</updated>
         <summary type="html"><![CDATA[幻覚と強い被害妄想ときたら、医者はまず統合失調症を疑う。京本を殺した犯人が作中で統合失調症として描かれていたことはほぼ間違いがないだろう。たとえ統合失調症でなかったとしても、絵から声が聞こえると言うのが精神疾患であることは確かだ。 anond:20210719195613 の言う通り、フィクションが差別を助長すること...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2107/20/news136.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2107/20/news136.html"/>
-        <updated>2021-07-20T10:42:18.000Z</updated>
-        <summary type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に 米Alphabet傘下の英DeepMindが、遺伝子配列情報からタンパク質の立体構造を解析するAI「AlphaFold2」をGitHub上で無償公開し、ネット上で注目を集めている。 米Alphabet傘下の英DeepMindが、遺伝子...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

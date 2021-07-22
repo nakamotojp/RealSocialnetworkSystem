@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-22T14:11:30.551Z</id>
+    <id>urn:2021-07-22T15:14:25.845Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T14:11:30.551Z</updated>
+    <updated>2021-07-22T15:14:25.845Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ソフト米代表監督「福島の桃、デリシャス」　ホテルで6個：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/118577</id>
+        <link href="https://www.tokyo-np.co.jp/article/118577"/>
+        <updated>2021-07-22T13:24:41.000Z</updated>
+        <summary type="html"><![CDATA[主催者の情けないニュースばかりが話題になるが、五輪の理念を感じさせる出来事があった。「福島の人々がファーストクラスの運営をしてくれた」。ソフトボール米国代表のエリクセン監督の言葉だ。 ２２日、福島あづま球場での日程を終了。会見で「復興五輪」の意義について私が聞くと、回答は熱を帯びた。「コロナ対策で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最初は野村萬斎さんだった…解散・辞任相次ぐ演出チーム - 東京オリンピック：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7Q5K4DP7QUTIL02V.html</id>
@@ -21,6 +31,16 @@
         <link href="https://gigazine.net/news/20210722-isoflow/"/>
         <updated>2021-07-22T09:35:49.000Z</updated>
         <summary type="html"><![CDATA[ネットワークの構成を視覚的に把握しやすいアイソメトリック図で表現でき、作成した図面を共有して相手に見せることができるオンラインサービスが「Isoflow」です。 Isoflow https://isoflow.io/ まずはお試しですぐに図面の作成画面に行くことができます。「CREATE A DIAGRAM」をクリック。 表示されたキャンバス上の好...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[児童文学作家 那須正幹さん死去 79歳「ズッコケ三人組」など | おくやみ | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210722/k10013154321000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210722/k10013154321000.html"/>
+        <updated>2021-07-22T08:24:08.000Z</updated>
+        <summary type="html"><![CDATA[「ズッコケ三人組」シリーズや、みずからの被爆体験を踏まえた作品などで知られる児童文学作家の那須正幹さんが亡くなりました。79歳でした。 1942年に広島市で生まれた那須さんは、3歳のときに爆心地から3キロほどのところにあった自宅で被爆しました。 東京でサラリーマン生活を経験したあと広島に戻って児童文学を書...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,21 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[米競泳金メダリスト、介助者帯同認められず東京パラ辞退 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <title type="html"><![CDATA[米競泳金メダリスト、介助者帯同認められず東京パラ辞退：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7Q2GQQP7QUHBI002.html</id>
         <link href="https://www.asahi.com/articles/ASP7Q2GQQP7QUHBI002.html"/>
         <updated>2021-07-21T23:43:33.000Z</updated>
         <summary type="html"><![CDATA[リオデジャネイロ・パラリンピックの競泳で三つの金メダルを獲得した盲ろうの水泳選手、ベッカ・メイヤーズさん（26）が、東京大会の辞退を決めた。「パラリンピックはすごく特別な場所。私らしくいられる機会を与えてくれる」。ではなぜ、出場しないのか。21日、朝日新聞のオンライン取材に思いを語った。 メイヤーズさ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】東京都、都市ボランティア3万人放置　「新たな活動」連絡せず　五輪開幕に間に合うか「分からない」と準備局：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/118368</id>
-        <link href="https://www.tokyo-np.co.jp/article/118368"/>
-        <updated>2021-07-21T22:49:18.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪の無観客開催で、街頭での道案内など従来の役割がなくなった約３万人の都市ボランティアに対し、都が示すとしていた「新たな活動」について、大会開幕２日前になっても連絡が行われていないことが分かった。都オリンピック・パラリンピック準備局は「できるだけ早くお伝えしたい」としているものの、五輪の開幕...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://pc.watch.impress.co.jp/docs/news/1338703.html"/>
         <updated>2021-07-21T21:16:50.000Z</updated>
         <summary type="html"><![CDATA[PC Watch編集長の若杉です。おかげさまでPC Watchは2021年7月をもって25周年を迎えることとなりました。これまでPC Watchを支えてくださった読者の方、メーカーの方、ライターさん、その他大勢の関係者の皆様にこの場を借りて厚く御礼申し上げます。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作品を褒める感想は別に要らない。身の程を知ってくれ]]></title>
-        <id>https://anond.hatelabo.jp/20210721220919</id>
-        <link href="https://anond.hatelabo.jp/20210721220919"/>
-        <updated>2021-07-21T20:38:32.000Z</updated>
-        <summary type="html"><![CDATA[私達が欲しいのは「金」と「数字」であって、感想は別に求めてません。 それを理解していない消費者が多すぎるから苦言を呈させていただきたい。 何でこんな日記を書こうとしたのかというと、某匿名掲示板で「コンテンツについて不特定多数の人と楽しみを分かち合うことは普通に価値あることでは？」と言われて あまりに...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

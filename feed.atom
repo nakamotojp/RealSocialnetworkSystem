@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-22T17:20:04.201Z</id>
+    <id>urn:2021-07-22T18:14:36.937Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T17:20:04.201Z</updated>
+    <updated>2021-07-22T18:14:36.937Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://gigazine.net/news/20210722-isoflow/"/>
         <updated>2021-07-22T09:35:49.000Z</updated>
         <summary type="html"><![CDATA[ネットワークの構成を視覚的に把握しやすいアイソメトリック図で表現でき、作成した図面を共有して相手に見せることができるオンラインサービスが「Isoflow」です。 Isoflow https://isoflow.io/ まずはお試しですぐに図面の作成画面に行くことができます。「CREATE A DIAGRAM」をクリック。 表示されたキャンバス上の好...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「安心安全」って何？　仏紙記者が見た五輪開幕直前の日本 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210721/k00/00m/040/360000c</id>
+        <link href="https://mainichi.jp/articles/20210721/k00/00m/040/360000c"/>
+        <updated>2021-07-22T09:00:49.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染拡大による史上初の延期を経て、23日に開幕する東京オリンピック。だが足元では感染がおさまらず、開催都市の東京には4回目の緊急事態宣言が発令されている。祭典を迎える高揚感にはほど遠く、大会への賛否も真っ二つに割れたままだ。この状況を、海外メディアの記者はどう見ているのだろうか。「...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://twitter.com/hazuma/status/1417996354681413636"/>
         <updated>2021-07-22T01:11:26.000Z</updated>
         <summary type="html"><![CDATA[いま話題の件だが、ことの是非以前に、深夜に速攻でサイモンヴィーゼンタールセンターに通報し、非難声明を出させたのが日本の防衛副大臣であることに大きな衝撃を受けている。政府の人間なら、国外の団体に通報するまえに、まず五輪組織委員会に調査と対応を指示するべきではないのか。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熱中症で救急車に運ばれた]]></title>
-        <id>https://anond.hatelabo.jp/20210722080302</id>
-        <link href="https://anond.hatelabo.jp/20210722080302"/>
-        <updated>2021-07-22T01:03:57.000Z</updated>
-        <summary type="html"><![CDATA[概要朝起きたら水分が足りなくて1L以上水を飲んで塩飴をなめたのに、まだ水分が不足していたらしく、電車の中で頭痛と吐き気がした。さすがにおかしいと思ったので最寄り駅で下りて駅員さんに救急車を呼んでもらったが、車中で嘔吐。診察後、少し休んでから退院して無事帰宅した。 前日の晩久し振りに後輩とオンラインで...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-22T18:14:36.937Z</id>
+    <id>urn:2021-07-22T19:09:41.614Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T18:14:36.937Z</updated>
+    <updated>2021-07-22T19:09:41.614Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://note.com/yubais/n/n50c8297ec3fc"/>
         <updated>2021-07-22T11:23:11.000Z</updated>
         <summary type="html"><![CDATA[昆布、ワカメ、そして海苔といった食材は和食において不可欠なものだ。古くは柿本人麻呂が海苔についての和歌を読んでおり、その利用は先史時代に遡るという。だが海藻を食べる文化は西洋人から見ると奇異に映ったようで、民族ジョークにもなっている。 レストランであるフランス人が言った。 「日本は物が豊かだと聞い...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホロコーストに関して報じられた東京オリンピック・パラリンピック競技大会関係者による極めて不適切な発言について（外務大臣談話）｜外務省]]></title>
+        <id>https://www.mofa.go.jp/mofaj/page3_003088.html</id>
+        <link href="https://www.mofa.go.jp/mofaj/page3_003088.html"/>
+        <updated>2021-07-22T10:55:32.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック・パラリンピック競技大会の関係者であった小林賢太郎氏が、過去にホロコーストを揶揄する発言をしていたことが明らかになりました。 ホロコーストの悲劇は人類史の中でも類を見ない残虐行為でした。小林氏の発言は、いかなる文脈や状況で行われたにせよ、極めて不適切であり、受け入れられるものではあ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a"/>
         <updated>2021-07-22T04:33:53.000Z</updated>
         <summary type="html"><![CDATA[sinukato-omotta-yo.md モデルナ2回目接種の副反応の記録 勢いで書いたこともあり、語尾が断定口調で強くなってしまっていますが、あくまでも個人の体験の記録ということを加味して読んでいただければと思います。 全員が全員このような症状が出ることはないと思いますが、もし不安を覚えているのでしたらここに書いたこ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファクトチェック：竹中平蔵氏「医学部、獣医学部を持った大学はない」発言は誤り | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210717/k00/00m/010/083000c</id>
-        <link href="https://mainichi.jp/articles/20210717/k00/00m/010/083000c"/>
-        <updated>2021-07-22T03:23:37.000Z</updated>
-        <summary type="html"><![CDATA[パソナグループ会長の竹中平蔵元総務相が6月26日、自身のユーチューブチャンネルで、「医学部と獣医学部を両方持った大学は今のところない」と発言し、その動画が2万回以上再生されている。しかし、複数の大学が医学部と獣医学部をいずれも設置しており、竹中氏の発言は誤りだ（ファクトチェックの基準　）。【木許はる...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

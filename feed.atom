@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-22T05:08:45.676Z</id>
+    <id>urn:2021-07-22T06:15:55.862Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T05:08:45.677Z</updated>
+    <updated>2021-07-22T06:15:55.863Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[緊急請願：菅首相、今日中に五輪のショーディレクター小林氏の処分を。東京五輪が永遠の汚名となる前に（今井佐緒里） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/saorii/20210722-00249208</id>
+        <link href="https://news.yahoo.co.jp/byline/saorii/20210722-00249208"/>
+        <updated>2021-07-22T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[1945年アウシュビッツ死の収容所を生き延びた囚人達。ソ連軍による解放直後の写真（写真:ロイター/アフロ） いよいよ２３日、明日は五輪の開会式だ。 でも、びっくりするニュースが入ってきた。 東京五輪開会式・閉会式のショーディレクターを務める小林賢太郎氏が、かつてお笑いコンビ「ラーメンズ」で活躍していた時代...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中山泰秀 Yasuhide NAKAYAMA やっちゃん on Twitter: "@Tomo20309138 Tomo さん、ご連絡頂きありがとうございました。早速サイモンウィーゼンタールセンターと連絡を取り合い、お話をしました。センターを代表されるクーパー師から、以下のコメントがありましたので、ご報告します。"]]></title>
         <id>https://twitter.com/iloveyatchan/status/1417896461262483457</id>
         <link href="https://twitter.com/iloveyatchan/status/1417896461262483457"/>
@@ -121,6 +131,16 @@
         <link href="https://mainichi.jp/articles/20210722/k00/00m/040/014000c"/>
         <updated>2021-07-21T23:42:35.000Z</updated>
         <summary type="html"><![CDATA[政府の有識者会議「新型コロナウイルス感染症対策分科会」の尾身茂会長が理事長を務める独立行政法人「地域医療機能推進機構」（東京都港区高輪3）で21日、入り口のガラスが割られてスコップが突き刺さっているのが見つかった。警視庁高輪署への取材で判明した。同署は尾身会長への悪質な嫌がらせの可能性もあるとみて]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】菅首相 ファイザーCEOと直接交渉へ　未納入ワクチン前倒しを（フジテレビ系（FNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/acedd77dbc797d66c81e49ddd051bdcc251ecee5</id>
+        <link href="https://news.yahoo.co.jp/articles/acedd77dbc797d66c81e49ddd051bdcc251ecee5"/>
+        <updated>2021-07-21T23:13:01.000Z</updated>
+        <summary type="html"><![CDATA[菅首相は、新型コロナウイルスワクチンの早期供給に向け、週内にも、アメリカの製薬大手ファイザー社のCEOとの会談を調整していることがわかった。 複数の政府関係者によると、会談は東京都内で、対面で行うことで調整が進められていて、菅首相はブーラCEOに対し、10月から12月に日本への供給が予定されている、2,000万...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -181,16 +201,6 @@
         <link href="https://news.yahoo.co.jp/byline/takahashikosuke/20210722-00249199"/>
         <updated>2021-07-21T19:47:55.000Z</updated>
         <summary type="html"><![CDATA[東京五輪の開会まであと1日と迫る中、新たな問題が起きている。東京五輪開会式・閉会式のショーディレクターを務める小林賢太郎氏（48）がお笑いコンビ「ラーメンズ」時代に、ナチス・ドイツによるホロコースト（ユダヤ人大虐殺）をお笑いコントのネタにしていたことが分かった。動画がSNSなどでも拡散され、ネット上が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWC Condemns Anti-Semitic Remarks by Director of Opening Ceremony of Tokyo Olympics]]></title>
-        <id>https://www.wiesenthal.com/about/news/swc-condemns-anti-semitic-1.html</id>
-        <link href="https://www.wiesenthal.com/about/news/swc-condemns-anti-semitic-1.html"/>
-        <updated>2021-07-21T19:22:20.000Z</updated>
-        <summary type="html"><![CDATA[www.wiesenthal.com > About > News > SWC Condemns Anti-Semitic Remarks by Director of Opening Ceremony of Tokyo Olympics SWC Condemns Anti-Semitic Remarks by Director of Opening Ceremony of Tokyo Olympics July 21, 2021 The Simon Wiesenthal Center condemns past anti-Semitic jokes as well as reporte...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://shonenjumpplus.com/episode/3269754496408856138"/>
         <updated>2021-07-21T15:08:49.000Z</updated>
         <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実話BUNKAタブー編集部 on Twitter: "五輪開会式ディレクターのラーメンズ・小林賢太郎さんが、「ユダヤ人大量虐殺ごっこをやろう」とホロコーストをネタにしてる動画です。 https://t.co/dkDSArte0r https://t.co/KJx02obaC7"]]></title>
-        <id>https://twitter.com/BUNKA_taboo/status/1417843244013023237</id>
-        <link href="https://twitter.com/BUNKA_taboo/status/1417843244013023237"/>
-        <updated>2021-07-21T15:02:46.000Z</updated>
-        <summary type="html"><![CDATA[五輪開会式ディレクターのラーメンズ・小林賢太郎さんが、「ユダヤ人大量虐殺ごっこをやろう」とホロコーストをネタにしてる動画です。 https://t.co/dkDSArte0r https://t.co/KJx02obaC7]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

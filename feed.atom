@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T01:57:56.753Z</id>
+    <id>urn:2021-07-23T02:28:48.015Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T01:57:56.753Z</updated>
+    <updated>2021-07-23T02:28:48.015Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.tokyo-np.co.jp/article/118610"/>
         <updated>2021-07-22T22:43:54.000Z</updated>
         <summary type="html"><![CDATA[「ＶＩＰ（要人の）姿だけ映し出される、ひどい開会式になってしまう」。２３日の東京五輪開会式で制作を担当した組織委員会関係者が本紙の取材に応じ、本番を前にした複雑な思いを語った。制作段階から「政治」に翻弄されたあげく、異例の無観客開催に。さらに式典目前になり、演出を担当する著名人の過去の問題発言が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メンツにこだわり1年延期、スキャンダルで多様性の欠如露呈…迷走続きの東京五輪開幕へ　：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/118597</id>
+        <link href="https://www.tokyo-np.co.jp/article/118597"/>
+        <updated>2021-07-22T22:26:40.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪は２２日、開閉会式の演出担当の小林賢太郎氏（４８）が解任され、開幕直前まで混乱を露呈した。２０１３年の開催決定以来、政財界一体となった「オールジャパン」体制は迷走を続け、皮肉にも多様性の欠如や「事なかれ主義」など、日本社会の問題点が浮き彫りになった。新型コロナウイルス禍で無観客開催に追い...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[高級料亭のひつまぶしより牛丼チェーン店のうなぎの方がうまい]]></title>
-        <id>https://anond.hatelabo.jp/20210722204741</id>
-        <link href="https://anond.hatelabo.jp/20210722204741"/>
-        <updated>2021-07-22T11:53:03.000Z</updated>
-        <summary type="html"><![CDATA[うなぎは高級であるほどうまいと思っていたが間違いだった。牛丼チェーン店のうなぎは高級料亭以上だった。 具体的な店名やメニュー名を述べると、ステマだと思われてしまうので伏せることにする。目的は宣伝ではなく、うなぎの美味しさに値段は関係ないことの主張だ。 私は名古屋人だから、うなぎ屋ではせっかくだから...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[海苔（のり）を消化できるのは日本人だけという論文を読んでみた｜柞刈湯葉 Yuba Isukari｜note]]></title>
         <id>https://note.com/yubais/n/n50c8297ec3fc</id>
         <link href="https://note.com/yubais/n/n50c8297ec3fc"/>
@@ -246,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《どうか本校をお助けください》京都のミッション系伝統校「平安女学院」からSOS　校長が“学院出禁”の異常事態発生（文春オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/c772a33635943c89bdd9936fde220b6ef6a93502</id>
-        <link href="https://news.yahoo.co.jp/articles/c772a33635943c89bdd9936fde220b6ef6a93502"/>
-        <updated>2021-07-22T10:55:33.000Z</updated>
-        <summary type="html"><![CDATA[《どうか本校をお助けください。現在、理事長の理不尽な命令で中学校・高等学校の校長が校内への立ち入りを禁じられており、自宅待機処分となっております。理事長に異論を唱えた副校長、教頭ら4人も役職を解任されました。これは理事長の職権乱用です》 【画像】理事長の“問題発言”を糾弾する「質問状」 7月上旬、差し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[立体的な表現で見やすいネットワーク図がブラウザ上で作成できる「Isoflow」 - GIGAZINE]]></title>
         <id>https://gigazine.net/news/20210722-isoflow/</id>
         <link href="https://gigazine.net/news/20210722-isoflow/"/>
@@ -271,6 +261,16 @@
         <link href="https://twitter.com/GokuakuR/status/1418119399148449792"/>
         <updated>2021-07-22T09:34:25.000Z</updated>
         <summary type="html"><![CDATA[熱が38度超えたからヤバいと思って横浜市のコロナ相談窓口に連絡したら、自力で病院探してくださいって言われたんだけど…え、もしこれで検査しないで放置して周りに知らせないでいたら感染知らないままで広がりませんか？って言ったら、もうコロ… https://t.co/s6VDQ9sYYl]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小林氏は解任なのに…「ナチスに学べ」発言も続投の麻生大臣に再批判 | 女性自身]]></title>
+        <id>https://jisin.jp/domestic/2002870/</id>
+        <link href="https://jisin.jp/domestic/2002870/"/>
+        <updated>2021-07-22T09:05:31.000Z</updated>
+        <summary type="html"><![CDATA[「人を楽しませる仕事の自分が、人に不快な思いをさせることは、あってはならないことです。当時の自分の愚かな言葉選びが間違いだったということを理解し、反省しています」 こうコメントしたのは、東京五輪・パラリンピックの開閉会式で演出を担当することになっていた小林賢太郎氏（48）だ。 過去にコントで「ユダヤ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

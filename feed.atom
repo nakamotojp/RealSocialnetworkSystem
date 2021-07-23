@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T19:09:36.660Z</id>
+    <id>urn:2021-07-23T20:12:16.182Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T19:09:36.660Z</updated>
+    <updated>2021-07-23T20:12:16.182Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://www.irasutoya.com/2021/07/blog-post_23.html"/>
         <updated>2021-07-23T12:57:08.000Z</updated>
         <summary type="html"><![CDATA[「マスクを付けた〇〇」というイラストが無い場合はマスク単体と既存のイラストを組み合わせてください。 検索の仕方については「検索のコツ」をご覧ください。 写真とイラストを載せているインスタのアカウントです いらすとやが更新されたらお知らせするツイッターアカウントです いらすとやのLINEスタンプに関する情...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「あいうえお順」で入場行進なのに米国が最終盤になったワケとは | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210723/k00/00m/050/185000c</id>
+        <link href="https://mainichi.jp/articles/20210723/k00/00m/050/185000c"/>
+        <updated>2021-07-23T11:51:25.000Z</updated>
+        <summary type="html"><![CDATA[23日に国立競技場で開催される東京オリンピック開会式で、入場行進は最初に五輪発祥国のギリシャ、最後を開催国の日本とし、その間の行進順は開催国の言語表記とする慣例に従って「50音順」となる。アイスランド、アイルランド、アゼルバイジャン――。ところが、「あ」から始まる米国は序盤ではなく最終盤で登場する。ど...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://togetter.com/li/1748612"/>
         <updated>2021-07-23T03:04:24.000Z</updated>
         <summary type="html"><![CDATA[Podoro @podoron ガザ地区の自由の為、武器を携え国旗を翻して戦うパレスチナ人 完全にドラクロワの『民衆を導く自由の女神』。　すごい写真だ。 pic.twitter.com/V1XWs9paq0 2018-10-26 12:03:00]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相次ぐ辞任、白紙撤回… あなたは覚えていますか？不祥事ばかりの東京五輪の歩みを振り返る（BuzzFeed Japan） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/c4ead878edbca8f4244d23ba2a47458a24edc0ba</id>
-        <link href="https://news.yahoo.co.jp/articles/c4ead878edbca8f4244d23ba2a47458a24edc0ba"/>
-        <updated>2021-07-23T02:57:25.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪開会式が、いよいよ7月23日に行われる。2020年の五輪開催地が東京に決まってから8年。新国立競技場の設計見直しをはじめ、さまざまな問題が起きた。開会式前日の7月22日には、開会式と閉幕式の演出を担当する小林賢太郎氏が、かつてユダヤ人の虐殺をコントのネタにしていたとして、解任された。この8年を振り返...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

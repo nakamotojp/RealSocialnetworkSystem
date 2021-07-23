@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T21:11:34.077Z</id>
+    <id>urn:2021-07-23T22:11:37.095Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T21:11:34.077Z</updated>
+    <updated>2021-07-23T22:11:37.095Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[憲法学者の南野森氏が差別的なツイート「トンガヌルヌルでAV男優かと思ったら民族衣装だった」 - Togetter]]></title>
+        <id>https://togetter.com/li/1748972</id>
+        <link href="https://togetter.com/li/1748972"/>
+        <updated>2021-07-23T15:48:28.000Z</updated>
+        <summary type="html"><![CDATA[ライブドアニュース @livedoornews 3000RT：【五輪開会式】トンガ旗手、今回も上半身裸の民族衣装姿で行進 news.livedoor.com/article/detail… リオ五輪にはテコンドーで出場したピタ・タウファトフア。「新しい挑戦が必要」と完全に初心者だったスキー距離に転向して平昌五輪に出場した経歴を持つ。 pic.twitter.com/0r...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokyo2020 聖火台 | nendo]]></title>
         <id>https://nendo.jp/jp/works/tokyo2020-olympic-cauldron/</id>
@@ -146,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[本多平直議員からの事情説明まとめ・立憲民主党内部で何が起こっているか - Togetter]]></title>
+        <id>https://togetter.com/li/1748840</id>
+        <link href="https://togetter.com/li/1748840"/>
+        <updated>2021-07-23T09:56:30.000Z</updated>
+        <summary type="html"><![CDATA[本多平直 @pontapiranao 本日、私について倫理委員会に諮問されることが決定しました。倫理委員会で私に説明の機会をいただけることを期待しています。党内議論の決定を待って、皆さんには一日も早くご説明の場を設けたいと思っています。 2021-07-13 19:01:00 本多平直 @pontapiranao 7月13日、常任幹事会にて「党員資...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[やまぬ救急要請「無理だ」　五輪会場隣の大会指定病院で - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7R5QJVP7RULBJ001.html</id>
         <link href="https://www.asahi.com/articles/ASP7R5QJVP7RULBJ001.html"/>
@@ -176,21 +196,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本多平直 on Twitter: "7月13日、常任幹事会にて「党員資格停止一年」の処分が提起され、倫理委員会に諮ることが決定されました。選挙直前でもあり政党政治家として政治生命を絶つに等しい重い処分であり、本件の経緯に鑑み、とても承服できません。1/18"]]></title>
-        <id>https://twitter.com/pontapiranao/status/1418485232219557891</id>
-        <link href="https://twitter.com/pontapiranao/status/1418485232219557891"/>
-        <updated>2021-07-23T08:28:06.000Z</updated>
-        <summary type="html"><![CDATA[7月13日、常任幹事会にて「党員資格停止一年」の処分が提起され、倫理委員会に諮ることが決定されました。選挙直前でもあり政党政治家として政治生命を絶つに等しい重い処分であり、本件の経緯に鑑み、とても承服できません。1/18]]></summary>
+        <title type="html"><![CDATA[日本人、現金好きすぎでは？]]></title>
+        <id>https://anond.hatelabo.jp/20210723171936</id>
+        <link href="https://anond.hatelabo.jp/20210723171936"/>
+        <updated>2021-07-23T09:02:15.000Z</updated>
+        <summary type="html"><![CDATA[野村総合研究所の「キャッシュレス化推進に向けた国内外の現状認識」の調査によると、 キャッシュレス普及率 韓国 96.4% イギリス 68.7% シンガポール 58.8% アメリカ 46.0% 日本 19.8% https://www.meti.go.jp/committee/kenkyukai/shoryu/credit_carddata/pdf/009_03_00.pdf 何この日本の低さ？]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 1359人感染確認 4日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210723/k10013155331000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210723/k10013155331000.html"/>
-        <updated>2021-07-23T07:50:26.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では23日、新たに1359人が新型コロナウイルスに感染していることが確認されました。 1日に1000人を超えるのはこれで4日連続です。 また、都は、感染が確認された1人が死亡したことを明らかにしました。 東京都は、23日都内で新たに10歳未満から90代までの男女合わせて1359人が新型コロナウイルスに感染している...]]></summary>
+        <title type="html"><![CDATA[本多平直 on Twitter: "7月13日、常任幹事会にて「党員資格停止一年」の処分が提起され、倫理委員会に諮ることが決定されました。選挙直前でもあり政党政治家として政治生命を絶つに等しい重い処分であり、本件の経緯に鑑み、とても承服できません。1/18"]]></title>
+        <id>https://twitter.com/pontapiranao/status/1418485232219557891</id>
+        <link href="https://twitter.com/pontapiranao/status/1418485232219557891"/>
+        <updated>2021-07-23T08:28:06.000Z</updated>
+        <summary type="html"><![CDATA[7月13日、常任幹事会にて「党員資格停止一年」の処分が提起され、倫理委員会に諮ることが決定されました。選挙直前でもあり政党政治家として政治生命を絶つに等しい重い処分であり、本件の経緯に鑑み、とても承服できません。1/18]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,26 +301,6 @@
         <link href="https://www.jcp.or.jp/akahata/aik21/2021-07-23/2021072313_01_0.html"/>
         <updated>2021-07-23T01:10:55.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピックで屋外業務を行うアルバイトに、大会公式スポンサーのコカ・コーラ社以外の飲料の持ち込みを禁じていたことが２２日、本紙が入手した資料で分かりました。持ち込み量も７５０ミリリットル以下のもの１本に限定。大会期間は真夏であり、熱中症対策としても疑問の声が上がっています。（新井水和...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『「無能」なんてまだマシ』…真に脅威なのは暇さと頭の悪さ故に「しごと」を作って、生産性や士気を下げビジネスを妨害してくる - Togetter]]></title>
-        <id>https://togetter.com/li/1748633</id>
-        <link href="https://togetter.com/li/1748633"/>
-        <updated>2021-07-23T00:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Miyahan @miyahancom 大企業において「無能」＝存在価値ゼロなんてまだマシなんですよ。年間リース料800万円の出来の悪い置物みたいなもんなんだから。 真に害悪で脅威なのはあまりの暇さと頭の悪さ故に自分で「しごと」を作って周りのまともな人間を巻き込み、生産性や士気を下げビジネスを妨害してくる「負能」人間 20...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユダヤ虐殺ごっこのアメリカ人やイギリス人の反応が思ってたのと違った]]></title>
-        <id>https://anond.hatelabo.jp/20210723003923</id>
-        <link href="https://anond.hatelabo.jp/20210723003923"/>
-        <updated>2021-07-22T16:12:06.000Z</updated>
-        <summary type="html"><![CDATA[海外メディアのコメント欄の反応 ちょっと翻訳間違ってるかもだけど上の方に載ってたの要約↓ 1998年のことを昨日言ったかのように扱うのっておかしいだろ日本もなんか我が国みたいになってきてんなブラックジョークならフランキーボイルやジミーカーみたいな大物コメディアンはもっと際どいのやってるけど未来永劫公的な...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T20:12:16.182Z</id>
+    <id>urn:2021-07-23T21:11:34.077Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T20:12:16.182Z</updated>
+    <updated>2021-07-23T21:11:34.077Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://www.irasutoya.com/2021/07/blog-post_23.html"/>
         <updated>2021-07-23T12:57:08.000Z</updated>
         <summary type="html"><![CDATA[「マスクを付けた〇〇」というイラストが無い場合はマスク単体と既存のイラストを組み合わせてください。 検索の仕方については「検索のコツ」をご覧ください。 写真とイラストを載せているインスタのアカウントです いらすとやが更新されたらお知らせするツイッターアカウントです いらすとやのLINEスタンプに関する情...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戦国時代だったテキストエディタ界をVisual Studio Codeが天下統一しつつある - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210723-the-era-of-visual-studio-code/</id>
+        <link href="https://gigazine.net/news/20210723-the-era-of-visual-studio-code/"/>
+        <updated>2021-07-23T12:36:11.000Z</updated>
+        <summary type="html"><![CDATA[テキスト編集だけでなく、表計算やイラスト作成など、何かの目的を達成しようとした際には「どのツールを選ぶのか」が問題になってきます。テキストエディタの世界でVisual Studio Codeがその地位を不動のものにしつつある点について、ロビン・クリーンさんがデータをまとめています。 The Era of Visual Studio Code | ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://www.tokyo-sports.co.jp/sports/3452607/"/>
         <updated>2021-07-23T05:50:05.000Z</updated>
         <summary type="html"><![CDATA[本紙に送られてきた東京五輪に関してのメールの一部（一部加工） 大逆風の船出だ。新型コロナウイルス禍で史上初の１年延期となった東京五輪が２３日に国立競技場で開幕。招致決定からさまざまなトラブルが尽きず、開幕前日も開会式の演出を担当した元お笑い芸人の小林賢太郎氏（４８）が過去にユダヤ人大虐殺をコントに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCのアーチェリー女子選手が熱中症でダウン　競技終了後に意識を失う― スポニチ Sponichi Annex スポーツ]]></title>
-        <id>https://www.sponichi.co.jp/sports/news/2021/07/23/kiji/20210723s00048000358000c.html</id>
-        <link href="https://www.sponichi.co.jp/sports/news/2021/07/23/kiji/20210723s00048000358000c.html"/>
-        <updated>2021-07-23T05:42:07.000Z</updated>
-        <summary type="html"><![CDATA[ROCのアーチェリー女子選手が熱中症でダウン　競技終了後に意識を失う]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

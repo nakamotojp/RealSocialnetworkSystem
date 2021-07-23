@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T08:13:53.261Z</id>
+    <id>urn:2021-07-23T09:12:51.624Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T08:13:53.261Z</updated>
+    <updated>2021-07-23T09:12:51.624Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 1359人感染確認 4日連続1000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210723/k10013155331000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210723/k10013155331000.html"/>
+        <updated>2021-07-23T07:50:26.000Z</updated>
+        <summary type="html"><![CDATA[東京都は23日、都内で新たに1359人が新型コロナウイルスに感染していることを確認したと発表しました。 1日に1000人を超えるのはこれで4日連続です。1週間前の金曜日より88人増え、前の週の同じ曜日を34日連続で上回りました。 23日までの7日間平均は、1386.0人で、前の週の146.5％となり、感染の急拡大が続いています。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROCのアーチェリー女子選手が熱中症でダウン　競技終了後に意識を失う― スポニチ Sponichi Annex スポーツ]]></title>
         <id>https://www.sponichi.co.jp/sports/news/2021/07/23/kiji/20210723s00048000358000c.html</id>
@@ -21,6 +31,16 @@
         <link href="http://live.millionyearsbookstore.com/dokoheittemo/ijime/2874/"/>
         <updated>2021-07-23T04:14:08.000Z</updated>
         <summary type="html"><![CDATA[※本原稿は、小山田圭吾氏が過去に行ったとされるいじめ暴力行為を擁護するものではありません。 前回、書き洩らしていたことがありました。 小山田圭吾さんが「いじめ紀行　小山田圭吾の回」（雑誌『Quick Japan』vol.3）はじめ、さまざまな雑誌記事内で語っているいじめ暴力行為。これが事実だとするならば、オリンピッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偶然コスプレ - Togetter]]></title>
+        <id>https://togetter.com/li/1748612</id>
+        <link href="https://togetter.com/li/1748612"/>
+        <updated>2021-07-23T03:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Podoro @podoron ガザ地区の自由の為、武器を携え国旗を翻して戦うパレスチナ人 完全にドラクロワの『民衆を導く自由の女神』。　すごい写真だ。 pic.twitter.com/V1XWs9paq0 2018-10-26 12:03:00]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +71,16 @@
         <link href="https://www.bbc.com/japanese/57938353"/>
         <updated>2021-07-23T02:46:59.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスに対する米ファイザー／独ビオンテック製のワクチンは1回目と2回目の接種の間隔を4週以上空けた方が抗体が増えると、英研究者たちが発表した。1回目と2回目の間を8週間空けることが、デルタ変異株に対して最適かもしれないという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福島・浪江のハチミツから基準超えるセシウム　製造元が自主回収へ | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210723/k00/00m/040/049000c</id>
+        <link href="https://mainichi.jp/articles/20210723/k00/00m/040/049000c"/>
+        <updated>2021-07-23T02:37:43.000Z</updated>
+        <summary type="html"><![CDATA[福島県は22日、浪江町の道の駅なみえなどで販売していたハチミツ「はまっと～・極密」から国の基準（1キロ当たり100ベクレル）を超える放射性セシウムが検出されたと発表した。製造元の沢上管理耕作組合が自主回収を呼びかけている。 県によると、国の研究機関が検査した結果、1キロ当たり130～160ベクレルを検出した。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[太田雄貴 on Twitter: "今日選手村で本人に確認したら、 到着した時にシャワーのヘッドが故障して困ったとジャーナリストに伝えたが、それ以外は脚色だと。 選手村は快適で素晴らしい。日本のスタッフの親切さにも感謝していると。 書いてることと全然違った。 https://t.co/1jf4dqd3yT"]]></title>
-        <id>https://twitter.com/yuking1125/status/1418221116846350343</id>
-        <link href="https://twitter.com/yuking1125/status/1418221116846350343"/>
-        <updated>2021-07-22T18:08:40.000Z</updated>
-        <summary type="html"><![CDATA[今日選手村で本人に確認したら、 到着した時にシャワーのヘッドが故障して困ったとジャーナリストに伝えたが、それ以外は脚色だと。 選手村は快適で素晴らしい。日本のスタッフの親切さにも感謝していると。 書いてることと全然違った。 https://t.co/1jf4dqd3yT]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : インパルス板倉、小林賢太郎解任に「全コントに問題ないか調べて発注しなきゃいけないの？」「問題行動せずに生きてきた人なんている？」 - ライブドアブログ]]></title>
         <id>http://blog.livedoor.jp/dqnplus/archives/2009393.html</id>
         <link href="http://blog.livedoor.jp/dqnplus/archives/2009393.html"/>
@@ -211,26 +231,6 @@
         <link href="https://ima.hatenablog.jp/entry/2021/07/22/174500"/>
         <updated>2021-07-22T15:15:27.000Z</updated>
         <summary type="html"><![CDATA[藤本タツキの読み切り「ルックバック」が公開されたのは19日。まだ3日しか経っていないのにものすごい反響である。 ルックバック - 藤本タツキ | 少年ジャンプ＋（https://shonenjumpplus.com/episode/3269754496401369355） 「ネタバレあり」なのでこのあと作品の内容に触れていきますよ。見出しだけでは全体像が見えな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリンピック開催してくれてありがとう]]></title>
-        <id>https://anond.hatelabo.jp/20210722222528</id>
-        <link href="https://anond.hatelabo.jp/20210722222528"/>
-        <updated>2021-07-22T13:25:43.000Z</updated>
-        <summary type="html"><![CDATA[4連休初日は、ずっとサッカーの試合を見ていたよ フランスがメキシコに大敗した試合 韓国がNZに敗れた試合 ブラジルドイツの極熱の強豪同士の一戦 そして日本の緒戦勝利 この連休は男女の世界のサッカーを観戦しまくるんだって決めて、ビールもたくさん買ってきて、ステーキ肉も大量に買い込んで来た 本当はバーで見れた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフト米代表監督「福島の桃、デリシャス」　ホテルで6個：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/118577</id>
-        <link href="https://www.tokyo-np.co.jp/article/118577"/>
-        <updated>2021-07-22T13:24:41.000Z</updated>
-        <summary type="html"><![CDATA[主催者の情けないニュースばかりが話題になるが、五輪の理念を感じさせる出来事があった。「福島の人々がファーストクラスの運営をしてくれた」。ソフトボール米国代表のエリクセン監督の言葉だ。 ２２日、福島あづま球場での日程を終了。会見で「復興五輪」の意義について私が聞くと、回答は熱を帯びた。「コロナ対策で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

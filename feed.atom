@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T14:11:01.204Z</id>
+    <id>urn:2021-07-23T15:14:06.152Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T14:11:01.204Z</updated>
+    <updated>2021-07-23T15:14:06.152Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.irasutoya.com/2021/07/blog-post_23.html"/>
         <updated>2021-07-23T12:57:08.000Z</updated>
         <summary type="html"><![CDATA[「マスクを付けた〇〇」というイラストが無い場合はマスク単体と既存のイラストを組み合わせてください。 検索の仕方については「検索のコツ」をご覧ください。 写真とイラストを載せているインスタのアカウントです いらすとやが更新されたらお知らせするツイッターアカウントです いらすとやのLINEスタンプに関する情...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小山田圭吾氏辞任で差し替えた開会式冒頭部分は田中知之氏が４日間で作成 - 東京オリンピック2020 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107230000915.html</id>
+        <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107230000915.html"/>
+        <updated>2021-07-23T11:43:25.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪開会式が23日夜、東京・国立競技場で行われた。音楽制作チームのメンバーだった小山田圭吾氏（52）が過去の障がい者いじめ告白で国内外から批判を受け、開会式4日前の19日に辞任。小山田氏が手掛けていた約5分間のオープニング部分は急きょ差し替えとなり、音楽監督を務める音楽プロデューサーでDJの田中知之氏...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +61,26 @@
         <link href="https://zenn.dev/qnighy/articles/b39ff132777758"/>
         <updated>2021-07-23T09:12:40.000Z</updated>
         <summary type="html"><![CDATA[「公式ドキュメントを読め」というのが急に話題になっていたので自分なりに整理してみました。 注意: そんなに真面目に推敲していません。フィーリングで書いているので実態に即してない部分もあるかも…… 公式ドキュメントとは何か あなたが使おうとしている道具 (ライブラリ、フレームワーク、プログラミング言語、ミド...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小学生に読書感想文の書き方教えるテンプレが最高にわかりやすい　学生時代に「欲しかった」と2万“いいね”（1/2 ページ） - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/23/news050.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/23/news050.html"/>
+        <updated>2021-07-23T09:11:43.000Z</updated>
+        <summary type="html"><![CDATA[学校で配布された「どくしょかんそう文のかきかた」というプリントが、「私の学生時代もこんなのが欲しかった」「読書感想文ってこういうこと書けばよかったのか」と話題を呼んでいます。 話題になっているのは小学1・2年生向けに配られているプリント。 話題のプリント 冒頭では「よみたい本をえらぼう」と読書感想文の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本多平直 on Twitter: "7月13日、常任幹事会にて「党員資格停止一年」の処分が提起され、倫理委員会に諮ることが決定されました。選挙直前でもあり政党政治家として政治生命を絶つに等しい重い処分であり、本件の経緯に鑑み、とても承服できません。1/18"]]></title>
+        <id>https://twitter.com/pontapiranao/status/1418485232219557891</id>
+        <link href="https://twitter.com/pontapiranao/status/1418485232219557891"/>
+        <updated>2021-07-23T08:28:06.000Z</updated>
+        <summary type="html"><![CDATA[7月13日、常任幹事会にて「党員資格停止一年」の処分が提起され、倫理委員会に諮ることが決定されました。選挙直前でもあり政党政治家として政治生命を絶つに等しい重い処分であり、本件の経緯に鑑み、とても承服できません。1/18]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : インパルス板倉、小林賢太郎解任に「全コントに問題ないか調べて発注しなきゃいけないの？」「問題行動せずに生きてきた人なんている？」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009393.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009393.html"/>
-        <updated>2021-07-22T17:32:27.000Z</updated>
-        <summary type="html"><![CDATA[インパルス板倉、小林賢太郎解任に「全コントに問題ないか調べて発注しなきゃいけないの？」「問題行動せずに生きてきた人なんている？」 1 名前：Stargazer ★：2021/07/22(木) 23:02:43.89 ID:Pthwa5CM9 お笑いコンビ「インパルス」の板倉俊之が２２日、ニュース番組「ＡＢＥＭＡ　Ｐｒｉｍｅ」（ＡＢＥＭＡ　ＴＶ）に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ユダヤ虐殺ごっこのアメリカ人やイギリス人の反応が思ってたのと違った]]></title>
         <id>https://anond.hatelabo.jp/20210723003923</id>
         <link href="https://anond.hatelabo.jp/20210723003923"/>
@@ -281,26 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210722191747"/>
         <updated>2021-07-22T11:05:51.000Z</updated>
         <summary type="html"><![CDATA[五輪開会式と、『ルックバック』についてをむりやり結び付けた話です 「サイモン・ウィーゼンタール・センター」（SWC）の副代表のコメントが朝日新聞に出ており、とても驚いた。 東京五輪で開閉会式のディレクターを務める小林賢太郎氏（48）が解任されたことを受け、米国の有力ユダヤ人人権団体「サイモン・ウィーゼン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホームベーカリーをなぜみんなが続けなくなってしまうのかの考察とその対策 - 勝間和代が徹底的にマニアックな話をアップするブログ]]></title>
-        <id>https://katsumakazuyo.hatenablog.com/entry/2021/07/22/153427</id>
-        <link href="https://katsumakazuyo.hatenablog.com/entry/2021/07/22/153427"/>
-        <updated>2021-07-22T06:44:36.000Z</updated>
-        <summary type="html"><![CDATA[私は割とホームベーカリーよく使っていて、２日に１回は稼働させています。ところがホームベーカリーを買った人の大半はだいたい最初のうちは使うものもそのうちつかなくなってしまいます。 その理由は私は下記のように考えています。 その１ 焼きたてはおいしいけれども冷めると普通の味 その２ 洗い物とかの手間暇が意...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファーウェイの天才少年が開発をした自律走行する自転車。一人で4ヶ月で開発 - 中華IT最新事情]]></title>
-        <id>https://tamakino.hatenablog.com/entry/2021/07/21/080000</id>
-        <link href="https://tamakino.hatenablog.com/entry/2021/07/21/080000"/>
-        <updated>2021-07-21T13:07:35.000Z</updated>
-        <summary type="html"><![CDATA[ビリビリの配信主「稚暉君」が公開した動画が話題になっている。自律走行をする自転車を週末の空き時間を利用して、わずか4ヶ月で開発したというものだ。稚暉君はビリビリの人気配信主であるだけでなく、ファーウェイの天才少年プロジェクトにも選ばれた人。すでに商品化してほしいという声が相次いでいる。 自律走行自...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

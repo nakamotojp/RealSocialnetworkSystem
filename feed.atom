@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T17:19:16.028Z</id>
+    <id>urn:2021-07-23T18:14:31.763Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T17:19:16.028Z</updated>
+    <updated>2021-07-23T18:14:31.763Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tokyo2020 聖火台 | nendo]]></title>
+        <id>https://nendo.jp/jp/works/tokyo2020-olympic-cauldron/</id>
+        <link href="https://nendo.jp/jp/works/tokyo2020-olympic-cauldron/"/>
+        <updated>2021-07-23T15:35:38.000Z</updated>
+        <summary type="html"><![CDATA[東京2020オリンピック・パラリンピックの開・閉会式演出企画チーム統括であった野村萬斎氏の 「太陽の下に皆が集い、皆が平等の存在であり、皆がエネルギーを得る」というコンセプトに基づいてデザインされた聖火台。 求められた「太陽らしさ」を表現するために、耐熱ガラスの球体に炎を閉じ込めたり、 炎を回転させて球...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開会式スマホ禁止ルール守られず　日本選手団 ｜ 共同通信]]></title>
         <id>https://nordot.app/791315695450472448</id>
@@ -131,16 +141,6 @@
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/23/news050.html"/>
         <updated>2021-07-23T09:11:43.000Z</updated>
         <summary type="html"><![CDATA[学校で配布された「どくしょかんそう文のかきかた」というプリントが、「私の学生時代もこんなのが欲しかった」「読書感想文ってこういうこと書けばよかったのか」と話題を呼んでいます。 話題になっているのは小学1・2年生向けに配られているプリント。 話題のプリント 冒頭では「よみたい本をえらぼう」と読書感想文の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[竹中平蔵会長　開会式不参加を非難もパソナは欠席でブーメラン（女性自身） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/8f8afc7383dd82b8a6553c0f8c13191c1b86bbff</id>
-        <link href="https://news.yahoo.co.jp/articles/8f8afc7383dd82b8a6553c0f8c13191c1b86bbff"/>
-        <updated>2021-07-23T08:41:52.000Z</updated>
-        <summary type="html"><![CDATA[《かつて「日和見主義」という言葉が使われた。自分は関わりたくない、見て見ぬ振りをするという意味。経済3団体のトップが五輪開会式に出ないのは納得できない。経済界を代表して、世界に歓迎の意を表するべきだ》 《騒がしいネット世論を気にした日和見主義ではないか！　せっかくの五輪を盛り下げている》 こう息巻い...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

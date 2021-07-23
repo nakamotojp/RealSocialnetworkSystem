@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T06:15:20.264Z</id>
+    <id>urn:2021-07-23T07:10:51.357Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T06:15:20.264Z</updated>
+    <updated>2021-07-23T07:10:51.357Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.bbc.com/japanese/57938353"/>
         <updated>2021-07-23T02:46:59.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスに対する米ファイザー／独ビオンテック製のワクチンは1回目と2回目の接種の間隔を4週以上空けた方が抗体が増えると、英研究者たちが発表した。1回目と2回目の間を8週間空けることが、デルタ変異株に対して最適かもしれないという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB特集 蛇口はなぜ消えた？ 追いかけた先には… | 事件 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210723/k10013150011000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210723/k10013150011000.html"/>
+        <updated>2021-07-23T02:32:24.000Z</updated>
+        <summary type="html"><![CDATA[事件の現場は、滋賀県長浜市にある文化財の収蔵庫です。 博物館のように展示を見に来る人がいる施設ではありません。 保管されているのは、縄文時代から江戸時代までの土器や石器など。 滋賀県内で出土した文化財の1割にのぼります。 ことし5月。 定期点検に訪れた担当職員が、出入り口が壊されているのを見つけます。 ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -71,6 +81,16 @@
         <link href="https://www.tokyo-np.co.jp/article/118597"/>
         <updated>2021-07-22T22:26:40.000Z</updated>
         <summary type="html"><![CDATA[東京五輪は２２日、開閉会式の演出担当の小林賢太郎氏（４８）が解任され、開幕直前まで混乱を露呈した。２０１３年の開催決定以来、政財界一体となった「オールジャパン」体制は迷走を続け、皮肉にも多様性の欠如や「事なかれ主義」など、日本社会の問題点が浮き彫りになった。新型コロナウイルス禍で無観客開催に追い...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇多丸 小林賢太郎・東京五輪開会式演出担当解任問題を語る]]></title>
+        <id>https://miyearnzzlabo.com/archives/75488</id>
+        <link href="https://miyearnzzlabo.com/archives/75488"/>
+        <updated>2021-07-22T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[宇多丸さんが2021年7月19日放送のTBSラジオ『アフター6ジャンクション』の中で東京五輪の開会式の音楽制作担当である小山田圭吾さんの過去のインタビュー記事が問題視されている件について話していました。 （宇多丸）で、火曜日に、これは放送上じゃなくて、宇垣さんと普通に合間合間で話している時に「いやー、あと何...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[電通、東京オリンピック2020炎上聖火リレーのサポートランナーとして大暴れ : 市況かぶ全力２階建]]></title>
-        <id>https://kabumatome.doorblog.jp/archives/65983104.html</id>
-        <link href="https://kabumatome.doorblog.jp/archives/65983104.html"/>
-        <updated>2021-07-22T15:56:10.000Z</updated>
-        <summary type="html"><![CDATA[西川伸司@Shinji Nishikawa@MASH_nishikawaオリンピック開催が直前に迫ったこのドキドキ感、これまでのと違って、どちらかというとアニメの最終回前の「これホントにこの状態からあと１話で収拾つくの？」という感覚に近い。 2021/07/22 03:05:10 マキロン一気飲み@manpukumakiron関係者が次々炎上していくの、ひょっと...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[旦那がピザ配達員を見て「ピザいいな」というから「ピザ注文するか」と聞いたら「それは違う。概念」と言われた話 - Togetter]]></title>
         <id>https://togetter.com/li/1748519</id>
         <link href="https://togetter.com/li/1748519"/>
@@ -191,16 +201,6 @@
         <link href="https://www.asahi.com/articles/ASP7Q7FJ5P7QUTFK00W.html"/>
         <updated>2021-07-22T13:56:49.000Z</updated>
         <summary type="html"><![CDATA[東京五輪で開閉会式のディレクターを務める劇作家の小林賢太郎氏がナチスによるホロコースト（ユダヤ人大虐殺）を揶揄（やゆ）する表現をしていたことをめぐり、中山泰秀防衛副大臣は22日未明、米国のユダヤ人人権団体「サイモン・ウィーゼンタール・センター」側と連絡をとったことを自身のツイッターで明かした。 小林...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織委理事約２０人　開会式の中止か簡素化を要望していた…武藤事務総長に会見求めるも開かれず（スポーツ報知） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/32c15506044f8e7cd019bb6bb779a3bf00da42bb</id>
-        <link href="https://news.yahoo.co.jp/articles/32c15506044f8e7cd019bb6bb779a3bf00da42bb"/>
-        <updated>2021-07-22T13:52:20.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会の理事約２０人が、２３日に行われる東京五輪開会式の中止か、簡素化への変更を同組織委・武藤敏郎事務総長に申し入れていたことが２２日、分かった。同理事らは２１日に五輪・パラリンピックの開閉会式の楽曲を担当する小山田圭吾氏のいじめ問題について、２２日には開閉会式の制作...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

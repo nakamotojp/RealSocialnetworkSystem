@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T04:15:47.934Z</id>
+    <id>urn:2021-07-23T05:10:24.568Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T04:15:47.934Z</updated>
+    <updated>2021-07-23T05:10:24.568Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[組織委参与の夏野剛氏が「アホな国民感情」発言を謝罪「雰囲気に甘え極めて不適切だった」（デイリースポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/ad9b8aabf6b82017d937cf3784a245ecd2d3c044</id>
+        <link href="https://news.yahoo.co.jp/articles/ad9b8aabf6b82017d937cf3784a245ecd2d3c044"/>
+        <updated>2021-07-23T02:59:15.000Z</updated>
+        <summary type="html"><![CDATA[実業家で東京五輪・パラリンピック組織委員会の参与も務める夏野剛氏が２３日、自身のツイッターを更新し、２１日のＡＢＥＭＡ　ＴＶのニュース番組「ＡＢＥＭＡ　Ｐｒｉｍｅ」での発言について謝罪した。 番組内では緊急事態宣言下での東京大会の開催を巡る国民に渦巻く不公平感について「そんなクソなピアノの発表会な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『「無能」なんてまだマシ』…真に脅威なのは暇さと頭の悪さ故に「しごと」を作って、生産性や士気を下げビジネスを妨害してくる - Togetter]]></title>
         <id>https://togetter.com/li/1748633</id>
@@ -111,16 +121,6 @@
         <link href="http://blog.livedoor.jp/dqnplus/archives/2009393.html"/>
         <updated>2021-07-22T17:32:27.000Z</updated>
         <summary type="html"><![CDATA[インパルス板倉、小林賢太郎解任に「全コントに問題ないか調べて発注しなきゃいけないの？」「問題行動せずに生きてきた人なんている？」 1 名前：Stargazer ★：2021/07/22(木) 23:02:43.89 ID:Pthwa5CM9 お笑いコンビ「インパルス」の板倉俊之が２２日、ニュース番組「ＡＢＥＭＡ　Ｐｒｉｍｅ」（ＡＢＥＭＡ　ＴＶ）に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界規模のDNS障害が発生中 ～Akamaiを採用の企業に影響か - 窓の杜]]></title>
-        <id>https://forest.watch.impress.co.jp/docs/news/1339912.html</id>
-        <link href="https://forest.watch.impress.co.jp/docs/news/1339912.html"/>
-        <updated>2021-07-22T16:26:30.000Z</updated>
-        <summary type="html"><![CDATA[日本時間7月23日午前1時頃より、多くのWebサーバーでDNSエラーが発生している。米Akamaiが「Edge DNS」サービスの障害をアナウンスしており、同社のサービスを採用している企業が影響を受けているようだ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

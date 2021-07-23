@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T18:14:31.763Z</id>
+    <id>urn:2021-07-23T19:09:36.660Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T18:14:31.763Z</updated>
+    <updated>2021-07-23T19:09:36.660Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107230000915.html"/>
         <updated>2021-07-23T11:43:25.000Z</updated>
         <summary type="html"><![CDATA[東京五輪開会式が23日夜、東京・国立競技場で行われた。音楽制作チームのメンバーだった小山田圭吾氏（52）が過去の障がい者いじめ告白で国内外から批判を受け、開会式4日前の19日に辞任。小山田氏が手掛けていた約5分間のオープニング部分は急きょ差し替えとなり、音楽監督を務める音楽プロデューサーでDJの田中知之氏...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看護師「五輪のニュースは見たくない」　開会式当日も外出せず「自分たちは何なんだろう。腹立たしい」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/118802</id>
+        <link href="https://www.tokyo-np.co.jp/article/118802"/>
+        <updated>2021-07-23T11:23:33.000Z</updated>
+        <summary type="html"><![CDATA[東京都内の総合病院の呼吸器内科に勤める４０代女性看護師は、２３日は休みで、朝から自宅を出ずに過ごした。「選手は悪くないけれど、正直、五輪のニュースは見たくない」とテレビも付けていない。 この約１年半、コロナ患者の対応や感染防止対策に神経をすり減らしてきた。外食は一度もしていない。「医療従事者として...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://togetter.com/li/1748654"/>
         <updated>2021-07-23T02:51:53.000Z</updated>
         <summary type="html"><![CDATA[るろうにゆーき @RINDOH_YMclub 家の鍵の通りがイマイチ良くなくて、鍵穴にクレ556吹きかけたら毎回感動するレベルで鍵の通りが良くなったので、是非みんなにやってもらいたい 2018-10-05 00:49:49 masklieon @masklieon 鍵をさすとガリガリいってた玄関の鍵穴。クレ556スプレーを鍵穴に吹きまくったら音もしないくらい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福島・浪江のハチミツから基準超えるセシウム　製造元が自主回収へ | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210723/k00/00m/040/049000c</id>
-        <link href="https://mainichi.jp/articles/20210723/k00/00m/040/049000c"/>
-        <updated>2021-07-23T02:37:43.000Z</updated>
-        <summary type="html"><![CDATA[福島県は22日、浪江町の道の駅なみえなどで販売していたハチミツ「はまっと～・極密」から国の基準（1キロ当たり100ベクレル）を超える放射性セシウムが検出されたと発表した。製造元の沢上管理耕作組合が自主回収を呼びかけている。 県によると、国の研究機関が検査した結果、1キロ当たり130～160ベクレルを検出した。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

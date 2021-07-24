@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-24T06:14:51.068Z</id>
+    <id>urn:2021-07-24T07:10:42.528Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T06:14:51.068Z</updated>
+    <updated>2021-07-24T07:10:42.528Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -101,6 +101,16 @@
         <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1339890.html"/>
         <updated>2021-07-23T22:09:03.000Z</updated>
         <summary type="html"><![CDATA[初代からUSB 2.0、USB 3.0へと明解な名称でバージョンアップされていったUSBだが、USB 3.1で採用された「Gen」表記をきっかけに、さっぱり理解できなくなったという声は少なくない。USB対応の機器を取り扱うメーカー、さらにメディアによっても表記には揺れがあり、ユーザーが混乱する原因になっている。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ会長“長過ぎスピーチ”で…テレビが映さなかった「たまらずゴロ寝」選手続々（SmartFLASH） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/9b519b3e9d675f66ad45bbabfecaa84918c35b74</id>
+        <link href="https://news.yahoo.co.jp/articles/9b519b3e9d675f66ad45bbabfecaa84918c35b74"/>
+        <updated>2021-07-23T22:02:46.000Z</updated>
+        <summary type="html"><![CDATA[7月23日、国立競技場でついに開催された東京五輪の開会式。相次ぐスタッフの辞任劇で開催を危ぶむ声が広がっていたが、大きなトラブルに見舞われることなく無事に聖火が灯された。 【写真あり】ゴロ寝してしまったのも、無観客ゆえ!?（別カット写真） ウェブ上では、開会式について＜何が伝えたいかわからず、しょぼい＞...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://karapaia.com/archives/52304299.html"/>
         <updated>2021-07-23T13:11:03.000Z</updated>
         <summary type="html"><![CDATA[アメリカでは、インドで見つかったデルタ変異株により、コロナ感染者数が再び増加中だ。そんな中、アラバマ州の病院に勤める女性医師が治療に当たっている重症の感染者たちとのやり取りをFacebookに投稿し注目を集めた。 アラバマ州では、ワクチン接種者の割合が国内で最も低く、若い世代の感染者が急増している。その背...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戦国時代だったテキストエディタ界をVisual Studio Codeが天下統一しつつある - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210723-the-era-of-visual-studio-code/</id>
-        <link href="https://gigazine.net/news/20210723-the-era-of-visual-studio-code/"/>
-        <updated>2021-07-23T12:36:11.000Z</updated>
-        <summary type="html"><![CDATA[テキスト編集だけでなく、表計算やイラスト作成など、何かの目的を達成しようとした際には「どのツールを選ぶのか」が問題になってきます。テキストエディタの世界でVisual Studio Codeがその地位を不動のものにしつつある点について、ロビン・クリーンさんがデータをまとめています。 The Era of Visual Studio Code | ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

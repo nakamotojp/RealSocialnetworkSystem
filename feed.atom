@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-24T12:17:52.359Z</id>
+    <id>urn:2021-07-24T13:16:07.134Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T12:17:52.359Z</updated>
+    <updated>2021-07-24T13:16:07.134Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[React ステート管理 比較考察 - uhyo/blog]]></title>
+        <id>https://blog.uhy.ooo/entry/2021-07-24/react-state-management/</id>
+        <link href="https://blog.uhy.ooo/entry/2021-07-24/react-state-management/"/>
+        <updated>2021-07-24T11:34:49.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。Reactの話題の中でもかなりの部分を占めるのがステート管理、さらに言えば各種のステート管理ライブラリです。今さらながら、Reactにおけるステート管理の手法やいくつかのステート管理ライブラリを比較考察して記事にまとめました。 useState + バケツリレーReactにおける基本的なステート管理はuseStateで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 1128人感染確認 重症患者は6人増えて74人に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210724/k10013157291000.html</id>
@@ -71,6 +81,16 @@
         <link href="https://mainichi.jp/articles/20210724/k00/00m/040/152000c"/>
         <updated>2021-07-24T04:06:59.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの開会式で入場行進後にマスクを外してくつろぐ選手や関係者ら＝国立競技場で2021年7月23日午後9時33分、佐々木順一撮影 23日夜に国立競技場で行われた東京オリンピックの開会式で、一部の国の選手団が入場行進時に規則に従わずマスクを着用しなかったことについて、大会組織委員会は個別に注意しないこ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック自転車ロード 沿道 自粛呼びかけも多くの人観戦に | 自転車競技 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210724/k10013156701000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210724/k10013156701000.html"/>
+        <updated>2021-07-24T03:16:44.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックは2日目の24日、自転車の男子個人ロードレースの決勝が行われ、コースとなっている東京都多摩市の沿道では、沿道での観戦自粛が呼びかけられているものの、競技を一目見ようと多くの人が訪れていました。 「一生に一度」「実際来てみて悩ましい」 自転車の男子個人ロードレースは、東京都府中市の「武蔵...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,31 +226,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ会長“長過ぎスピーチ”で…テレビが映さなかった「たまらずゴロ寝」選手続々（SmartFLASH） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/9b519b3e9d675f66ad45bbabfecaa84918c35b74</id>
-        <link href="https://news.yahoo.co.jp/articles/9b519b3e9d675f66ad45bbabfecaa84918c35b74"/>
-        <updated>2021-07-23T22:02:46.000Z</updated>
-        <summary type="html"><![CDATA[7月23日、国立競技場でついに開催された東京五輪の開会式。相次ぐスタッフの辞任劇で開催を危ぶむ声が広がっていたが、大きなトラブルに見舞われることなく無事に聖火が灯された。 【写真あり】ゴロ寝してしまったのも、無観客ゆえ!?（別カット写真） ウェブ上では、開会式について＜何が伝えたいかわからず、しょぼい＞...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ファイザー製ワクチン感染予防効果３９％に低下 重症予防は９１％｜TBS NEWS]]></title>
         <id>https://news.tbs.co.jp/newseye/tbs_newseye4322177.html</id>
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4322177.html"/>
         <updated>2021-07-23T20:19:04.000Z</updated>
         <summary type="html"><![CDATA[イスラエル保健省は、ファイザー製の新型コロナワクチンについて、感染予防効果が６４％から３９％に低下したと発表しました。一方、重症化の予防効果は９１％とし、依然として高い水準を保っています。 イスラエル保健省は２２日、ファイザー製の新型コロナワクチンについて、感染予防効果が６４％から３９％に低下した...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相、小池都知事に非難殺到！　天皇陛下の開会宣言中に慌てて起立（東スポWeb） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/44fa1d6e7e8adea1aa94ac11afd0311a4b77d46b</id>
-        <link href="https://news.yahoo.co.jp/articles/44fa1d6e7e8adea1aa94ac11afd0311a4b77d46b"/>
-        <updated>2021-07-23T19:34:18.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相、小池百合子都知事が２３日の東京五輪開会式で、そろって“大失態”だ。 問題のシーンは、大会名誉総裁を務められる天皇陛下がご起立して開会宣言をされている時。陛下と並んでいた２人は、ともに椅子に座って聞いていたのだ。途中でこれはまずいと気付いたか、まずは小池都知事、間髪おかず菅首相が立ち上がっ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

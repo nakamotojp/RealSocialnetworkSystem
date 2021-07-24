@@ -6,6 +6,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/b5ebea2edf6a7ca496573a8981528bf381df34da",
+          "author": null,
+          "description": "7月23日夜に国立競技場で行われた東京オリンピックの開会式。ネット上では、“ある演出”に賛否の声が上がっている。 23時過ぎに行われた聖火リレーでは、宮城・福島・岩手の東北3県の中高生たち6人が最終ランナーの大坂なおみ（23）に聖火を繋いだ。 この演出にネットでは《被災地の子供たちの聖火リレーは胸熱だった》《...",
+          "link": "https://news.yahoo.co.jp/articles/b5ebea2edf6a7ca496573a8981528bf381df34da",
+          "publishedOn": "2021-07-24T13:25:30.000Z",
+          "wordCount": 90,
+          "title": "五輪開会式 深夜の子ども出演が波紋…橋本聖子が4日前に任命（女性自身） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://twitter.com/manaka_555/status/1418876995446874112",
+          "author": null,
+          "description": "胡椒と唐辛子、どちらがアナルに塗り付けたとき痛いのかを検証した。比較のため同程度に挽いてある商品を使用した。 胡椒は刃物の痛み、唐辛子は灼ける痛み。質の差があるので一概には言えないが、何度も確認した結果、忍耐可能な時間で言うと唐辛… https://t.co/BRbMxUXFTV",
+          "link": "https://twitter.com/manaka_555/status/1418876995446874112",
+          "publishedOn": "2021-07-24T11:59:04.000Z",
+          "wordCount": 196,
+          "title": "まなか牛乳 on Twitter: \"胡椒と唐辛子、どちらがアナルに塗り付けたとき痛いのかを検証した。比較のため同程度に挽いてある商品を使用した。 胡椒は刃物の痛み、唐辛子は灼ける痛み。質の差があるので一概には言えないが、何度も確認した結果、忍耐可能な時間で言うと唐辛… https://t.co/BRbMxUXFTV\""
+        },
+        {
           "id": "https://blog.uhy.ooo/entry/2021-07-24/react-state-management/",
           "author": null,
           "description": "こんにちは。Reactの話題の中でもかなりの部分を占めるのがステート管理、さらに言えば各種のステート管理ライブラリです。今さらながら、Reactにおけるステート管理の手法やいくつかのステート管理ライブラリを比較考察して記事にまとめました。 useState + バケツリレーReactにおける基本的なステート管理はuseStateで...",
@@ -20,7 +38,7 @@
           "description": "他の所より治安悪くね？",
           "link": "https://anond.hatelabo.jp/20210724202104",
           "publishedOn": "2021-07-24T11:28:04.000Z",
-          "wordCount": 97,
+          "wordCount": 145,
           "title": "ブクマカ「はてブは治安がいい方」←これなんなん？"
         },
         {
@@ -29,7 +47,7 @@
           "description": "スキャンダルが続きのなか、東京五輪は開幕した　Photo： Dylan Martinez / Pool / Getty Images スキャンダル続きで開幕した東京五輪だが、発覚した数々の問題は、問題を根本的に解決しようとせず、表面的に対応してやり過ごそうとする日本の姿勢が現れただけだとドイツ紙は指摘する。さらに、本大会の強硬な実施は、五...",
           "link": "https://news.yahoo.co.jp/articles/c0de521411b24fa06e0a4564684d444a9cebc8f7",
           "publishedOn": "2021-07-24T11:05:52.000Z",
-          "wordCount": 76,
+          "wordCount": 75,
           "title": "ドイツ紙が指摘「五輪によって、普段は気づかれない日本の問題が明らかになった」（クーリエ・ジャポン） - Yahoo!ニュース"
         },
         {
@@ -47,8 +65,17 @@
           "description": "このシステム、ヤフコメでは確かに効果が出ていて、導入後はかなりコメント欄の治安が良くなった。今のヤフコメが優れた言論空間になってるかと言われたらなかなか首肯しがたいところもあるが、それでも、NGワードが平気で横行していた頃を考えれば雲泥の差だ。 それでは、何故はてブであんまりうまく行っていない感じな...",
           "link": "https://anond.hatelabo.jp/20210724190609",
           "publishedOn": "2021-07-24T10:07:54.000Z",
-          "wordCount": 114,
+          "wordCount": 122,
           "title": "はてブのヤフコメAPI導入の件"
+        },
+        {
+          "id": "https://bunshun.jp/articles/-/47337",
+          "author": null,
+          "description": "これまで22年間にわたり、約250冊の絵本を執筆した人気絵本作家・のぶみ氏（43）。代表作「ママがおばけになっちゃった！」（講談社）は累計発行部数61万部を突破。人気絵本作家として「情熱大陸」（TBS系）をはじめ複数のメディアに出演してきた。 NHKとの縁は特に深く、Eテレの人気子供向け番組「みいつけた!」の『お...",
+          "link": "https://bunshun.jp/articles/-/47337",
+          "publishedOn": "2021-07-24T09:30:09.000Z",
+          "wordCount": 196,
+          "title": "《相手女性が告発》絵本作家・のぶみ氏が“復興ボランティア不倫”「NHKの仕事の後はきまって私の家にきました」 | 文春オンライン"
         },
         {
           "id": "https://twitter.com/abbey_road9696/status/1418756481063677955",
@@ -92,7 +119,7 @@
           "description": "東京オリンピック（五輪）は24日、体操の男子予選があり、個人枠で鉄棒に出場した内村航平（32）が落下し、決勝に進めなかった。4大会連続の五輪が終わった。 内村は冒頭の三つの手放し技を成功させたものの、直後のひねり技で落下した。21日の本番会場での練習でも失敗した箇所だった。13・866点でこの時点で、上位8人...",
           "link": "https://www.asahi.com/articles/ASP7S53V4P7SUTQP01P.html",
           "publishedOn": "2021-07-24T07:26:02.000Z",
-          "wordCount": 205,
+          "wordCount": 203,
           "title": "内村航平の五輪終わる　体操予選の鉄棒で落下、決勝に進めず - 一般スポーツ,テニス,バスケット,ラグビー,アメフット,格闘技,陸上 [体操]：朝日新聞デジタル"
         },
         {
@@ -110,7 +137,7 @@
           "description": "東京オリンピック（五輪）は24日、競技が本格的に始まり、日本オリンピック委員会（JOC）の山下泰裕会長は柔道女子48キロ級、男子60キロ級の行われている日本武道館（東京都千代田区）を訪れた。 日本武道館に来場した山下会長はマスクを外して関係者に顔を近づけて話し込んでいた。また、関係者席では、来賓と抱き合っ...",
           "link": "https://www.asahi.com/articles/ASP7S4V2DP7SDQIA01X.html",
           "publishedOn": "2021-07-24T06:06:02.000Z",
-          "wordCount": 205,
+          "wordCount": 203,
           "title": "JOC山下泰裕会長、柔道の会場でマスク無しの会話 - 東京オリンピック：朝日新聞デジタル"
         },
         {
@@ -128,7 +155,7 @@
           "description": "2021年7月23日に国立競技場でおこなわれた東京五輪開会式。テニスの大坂なおみが聖火の最終点火者となり、会場上空に地球をかたどったドローンが躍った。しかし、本番4日前に音楽制作チームのメンバーだった小山田圭吾氏が辞任し、前日には開閉会式のショーディレクターを務めていた小林賢太郎氏が解任と、舞台裏は混迷...",
           "link": "https://bunshun.jp/articles/-/47353",
           "publishedOn": "2021-07-24T04:21:28.000Z",
-          "wordCount": 197,
+          "wordCount": 201,
           "title": "《幻の東京五輪開会式案》『AKIRA』のバイクが駆け抜け、スーパーマリオが競技紹介… 渡辺直美も絶賛した「MIKIKOチーム案」の“全貌” | 文春オンライン"
         },
         {
@@ -164,7 +191,7 @@
           "description": "Coldcut and Hexstatic - Timber https://youtu.be/5-wl7Xk5FoY Coldcut and Hexstatic - Natural Rhythm https://youtu.be/BhXp-Wemn3I The Chemical Brothers - Star Guitar https://youtu.be/0S43IwBF0uM Daft Punk – Around the World https://youtu.be/LKYPYj2XX80 こーゆーの好きなんだけど、増田のお勧めがあった...",
           "link": "https://anond.hatelabo.jp/20210724093416",
           "publishedOn": "2021-07-24T00:38:01.000Z",
-          "wordCount": 160,
+          "wordCount": 161,
           "title": "ひたすら音と映像がシンクロしてるだけのPV"
         },
         {
@@ -173,7 +200,7 @@
           "description": "反コロナ渦系コロナ禍でやっていることに反対している集団。 通常時のオリンピックであれば歓迎するという態度を取っている。 実際には他の系統のものが論拠の補足としてこの集団を利用している節もある。 今回の反オリンピックにおける最も主要な系統。 反スポーツ系スポーツそのものを憎んでいる。 個々人により様々な...",
           "link": "https://anond.hatelabo.jp/20210724093254",
           "publishedOn": "2021-07-24T00:34:22.000Z",
-          "wordCount": 252,
+          "wordCount": 253,
           "title": "反オリンピックが一枚岩だと思ってる奴らはせめて６系統ぐらい把握し"
         },
         {
@@ -209,7 +236,7 @@
           "description": "・終始、学芸会のようなしょぼい演出に共感性羞恥心が刺激される ・参加国入場時に流れるゲームBGMの数々に沸き立つちょろいオタクたち ・あいうえお順による参加国入場で本来チャイニーズ・タイペイの「ち行」とすべき所を台湾の「た行」にぶっこみギリギリのラインを攻める →台湾人大喜び、Weiboで中国人大発狂 ・予定...",
           "link": "https://anond.hatelabo.jp/20210724074919",
           "publishedOn": "2021-07-23T23:40:11.000Z",
-          "wordCount": 146,
+          "wordCount": 147,
           "title": "東京五輪2020開会式のまとめ"
         },
         {
@@ -231,40 +258,13 @@
           "title": "開会式で地球をかたどったドローンは1824台のIntel製「Shooting Star」 - ITmedia NEWS"
         },
         {
-          "id": "https://news.tbs.co.jp/newseye/tbs_newseye4322177.html",
-          "author": null,
-          "description": "イスラエル保健省は、ファイザー製の新型コロナワクチンについて、感染予防効果が６４％から３９％に低下したと発表しました。一方、重症化の予防効果は９１％とし、依然として高い水準を保っています。 イスラエル保健省は２２日、ファイザー製の新型コロナワクチンについて、感染予防効果が６４％から３９％に低下した...",
-          "link": "https://news.tbs.co.jp/newseye/tbs_newseye4322177.html",
-          "publishedOn": "2021-07-23T20:19:04.000Z",
-          "wordCount": 1067,
-          "title": "ファイザー製ワクチン感染予防効果３９％に低下 重症予防は９１％｜TBS NEWS"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5a6c518da24c9b3b40880605355a6227103ccf61",
-          "author": null,
-          "description": "7月23日午後8時、無観客による東京五輪の開会式が始まった。コロナ禍での開催となり、世界中から注目を集めたが、ネット上には開会式を見た人からのネガティブな感想も散見される。オリンピック出場経験者はどう見たのか。元メダリストの池谷幸雄氏に聞いた。 【写真】「居酒屋のユニホーム」と酷評された東京五輪表彰式...",
-          "link": "https://news.yahoo.co.jp/articles/5a6c518da24c9b3b40880605355a6227103ccf61",
-          "publishedOn": "2021-07-23T19:14:16.000Z",
-          "wordCount": 80,
-          "title": "「ダサい」「しょぼい」と五輪開会式に批判続出　元銀メダリストの池谷幸雄は「寂しいが、選手は幸せ」〈dot.〉（AERA dot.） - Yahoo!ニュース"
-        },
-        {
           "id": "https://sports.nhk.or.jp/olympic/highlights/content/64babae0-86f4-4f65-8653-d31821177fde/",
           "author": null,
           "description": "開会式で話題を呼んだ「ピクトグラム５０個の連続パフォーマンス」をもう一度！最初から最後まで、一度見たら目を離せない極上パフォーマンスをじっくり堪能してください。",
           "link": "https://sports.nhk.or.jp/olympic/highlights/content/64babae0-86f4-4f65-8653-d31821177fde/",
           "publishedOn": "2021-07-23T19:04:35.000Z",
-          "wordCount": 39,
+          "wordCount": 30,
           "title": "開会式 ピクトグラム５０個パフォーマンス！ ｜ 東京オリンピック  | 東京2020オリンピック | NHK"
-        },
-        {
-          "id": "https://www.buzzfeed.com/jp/yuikashima/mayushinjo",
-          "author": null,
-          "description": "月100ページ執筆、睡眠時間は3時間以下。人気マンガ家はこうして働き方を変えた90年代、少女たちの心臓を撃ち抜いた『快感・フレーズ』。性描写を含めた過激な恋愛を描いた本作は、少女コミックで連載され、全世界で1000万部を売り上げた人気作だ。作者、新條まゆの現在とは──",
-          "link": "https://www.buzzfeed.com/jp/yuikashima/mayushinjo",
-          "publishedOn": "2021-07-23T18:32:48.000Z",
-          "wordCount": 205,
-          "title": "月100ページ執筆、睡眠時間は3時間以下。人気マンガ家はこうして働き方を変えた"
         },
         {
           "id": "https://twitter.com/HeizoTakenaka/status/1418607687466553346",

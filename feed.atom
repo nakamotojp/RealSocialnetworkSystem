@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-24T13:16:07.134Z</id>
+    <id>urn:2021-07-24T14:10:37.669Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T13:16:07.134Z</updated>
+    <updated>2021-07-24T14:10:37.669Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,46 @@
         <link href="https://blog.uhy.ooo/entry/2021-07-24/react-state-management/"/>
         <updated>2021-07-24T11:34:49.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。Reactの話題の中でもかなりの部分を占めるのがステート管理、さらに言えば各種のステート管理ライブラリです。今さらながら、Reactにおけるステート管理の手法やいくつかのステート管理ライブラリを比較考察して記事にまとめました。 useState + バケツリレーReactにおける基本的なステート管理はuseStateで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドイツ紙が指摘「五輪によって、普段は気づかれない日本の問題が明らかになった」（クーリエ・ジャポン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c0de521411b24fa06e0a4564684d444a9cebc8f7</id>
+        <link href="https://news.yahoo.co.jp/articles/c0de521411b24fa06e0a4564684d444a9cebc8f7"/>
+        <updated>2021-07-24T11:05:52.000Z</updated>
+        <summary type="html"><![CDATA[スキャンダルが続きのなか、東京五輪は開幕した　Photo： Dylan Martinez / Pool / Getty Images スキャンダル続きで開幕した東京五輪だが、発覚した数々の問題は、問題を根本的に解決しようとせず、表面的に対応してやり過ごそうとする日本の姿勢が現れただけだとドイツ紙は指摘する。さらに、本大会の強硬な実施は、五...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モヤッとする翌日、東京オリンピック2020開会式が露呈したもの、僕たちはそれらを噛み締めて前を向いていかないといけない｜安川新一郎　(インパクト投資家、未来思考「構造と文脈で世界とその未来はシンプルに理解できる」）]]></title>
+        <id>https://comemo.nikkei.com/n/n54decf0a0380</id>
+        <link href="https://comemo.nikkei.com/n/n54decf0a0380"/>
+        <updated>2021-07-24T10:21:37.000Z</updated>
+        <summary type="html"><![CDATA[「とにかく始まったんだから、純粋にアスリートのパフォーマンスを楽しんで勇気をもらおうよ」「現場で汗をかいて頑張って開催にこぎつけた人達を今批判してどうするの？」 その気持ちは、僕の中にもあり、書く手が止まる。ネット情報も錯綜する中、オリンピックや政権批判を書く事に、炎上や偉い人を怒らせるリスクこそ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてブのヤフコメAPI導入の件]]></title>
+        <id>https://anond.hatelabo.jp/20210724190609</id>
+        <link href="https://anond.hatelabo.jp/20210724190609"/>
+        <updated>2021-07-24T10:07:54.000Z</updated>
+        <summary type="html"><![CDATA[このシステム、ヤフコメでは確かに効果が出ていて、導入後はかなりコメント欄の治安が良くなった。今のヤフコメが優れた言論空間になってるかと言われたらなかなか首肯しがたいところもあるが、それでも、NGワードが平気で横行していた頃を考えれば雲泥の差だ。 それでは、何故はてブであんまりうまく行っていない感じな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪の報道拠点、ムスリムに不評　礼拝室、ハラル料理もなく ｜ 共同通信]]></title>
+        <id>https://nordot.app/791573286711459840</id>
+        <link href="https://nordot.app/791573286711459840"/>
+        <updated>2021-07-24T08:01:08.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪を取材する国内外のメディアの拠点、メインプレスセンター（MPC）に、イスラム教の礼拝室や戒律に従った「ハラル」料理が準備されておらず、ムスリム（イスラム教徒）から不評を買っている。大会コンセプトの一つは「多様性と調和」だが、五輪招致時のスピーチでアピールした日本の「おもてなし」に疑問符が付き...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,16 +121,6 @@
         <link href="https://mainichi.jp/articles/20210724/k00/00m/040/152000c"/>
         <updated>2021-07-24T04:06:59.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの開会式で入場行進後にマスクを外してくつろぐ選手や関係者ら＝国立競技場で2021年7月23日午後9時33分、佐々木順一撮影 23日夜に国立競技場で行われた東京オリンピックの開会式で、一部の国の選手団が入場行進時に規則に従わずマスクを着用しなかったことについて、大会組織委員会は個別に注意しないこ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリンピック自転車ロード 沿道 自粛呼びかけも多くの人観戦に | 自転車競技 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210724/k10013156701000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210724/k10013156701000.html"/>
-        <updated>2021-07-24T03:16:44.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックは2日目の24日、自転車の男子個人ロードレースの決勝が行われ、コースとなっている東京都多摩市の沿道では、沿道での観戦自粛が呼びかけられているものの、競技を一目見ようと多くの人が訪れていました。 「一生に一度」「実際来てみて悩ましい」 自転車の男子個人ロードレースは、東京都府中市の「武蔵...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【特集】「USB 3.0」＝「USB 3.1 Gen 1」＝「USB 3.2 Gen 1」？ すぐ分かるUSBの「Gen」表記ルール - PC Watch]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/topic/feature/1339890.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1339890.html"/>
-        <updated>2021-07-23T22:09:03.000Z</updated>
-        <summary type="html"><![CDATA[初代からUSB 2.0、USB 3.0へと明解な名称でバージョンアップされていったUSBだが、USB 3.1で採用された「Gen」表記をきっかけに、さっぱり理解できなくなったという声は少なくない。USB対応の機器を取り扱うメーカー、さらにメディアによっても表記には揺れがあり、ユーザーが混乱する原因になっている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ファイザー製ワクチン感染予防効果３９％に低下 重症予防は９１％｜TBS NEWS]]></title>
         <id>https://news.tbs.co.jp/newseye/tbs_newseye4322177.html</id>
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4322177.html"/>
@@ -281,26 +301,6 @@
         <link href="https://twitter.com/HeizoTakenaka/status/1418607687466553346"/>
         <updated>2021-07-23T16:48:25.000Z</updated>
         <summary type="html"><![CDATA[故堺屋太一さんは、祭りのような「非日常」があって初めて、社会は面白くなり発展すると述べられた。五輪は最高の「非日常」だ。だから色んなことも起こりうる。それを政治的に、姑息に目くじら立てて批判するのは寛容・平和の五輪精神に反する。心からこの五輪を応援しよう、それが心ある国民の声だ。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[競技のピクトグラム、大会のエンブレムなどを演出した約1800機のドローンの制御がすごい「GPSだけじゃできない」 - Togetter]]></title>
-        <id>https://togetter.com/li/1749031</id>
-        <link href="https://togetter.com/li/1749031"/>
-        <updated>2021-07-23T16:43:13.000Z</updated>
-        <summary type="html"><![CDATA[橋口和奈 @kznhsgc 神宮球場あたりで。最初真っ赤な物体が大量に浮かんでいて、謎の生命体に襲われる映画の世界に入り込んだよう感覚に。開会式関連？ドローン…？ pic.twitter.com/qSbq0fua46 2021-07-19 21:17:12]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「意思疎通できない殺人鬼」はどこにいるのか？｜斎藤環（精神科医）｜note]]></title>
-        <id>https://note.com/tamakisaito/n/nbeac7a25626b</id>
-        <link href="https://note.com/tamakisaito/n/nbeac7a25626b"/>
-        <updated>2021-07-23T14:42:05.000Z</updated>
-        <summary type="html"><![CDATA[7月19日に公開された藤本タツキの漫画「ルックバック」は傑作だった。CSM以来の藤本ファンとしては、この作家の底知れない引き出しの多さに驚愕したし、予告されているCSM第二部への期待感がいやがうえにも高まった。とはいえ、私は自分がこの作品のほんとうの素晴らしさを理解できているとは思わない。本作は「漫画家に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

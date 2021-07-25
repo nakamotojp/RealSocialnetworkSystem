@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T07:10:58.147Z</id>
+    <id>urn:2021-07-25T08:13:27.454Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T07:10:58.148Z</updated>
+    <updated>2021-07-25T08:13:27.454Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 1763人感染確認 日曜日では過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210725/k10013158941000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210725/k10013158941000.html"/>
+        <updated>2021-07-25T07:48:14.000Z</updated>
+        <summary type="html"><![CDATA[東京都は25日、都内で新たに1763人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の日曜日より755人増え、日曜日としてはこれまでで最も多くなりました。 また、1日の感染確認が1000人を超えるのは、これで6日連続です。 一方、都の基準で集計した25日時点の重症の患者は24日より2人減って7...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 中国、鄭州の長さ4kmのトンネルが5分で冠水、6000人死亡か　深夜に何台ものトレーラーが遺体を運び出す - ライブドアブログ]]></title>
         <id>http://blog.livedoor.jp/dqnplus/archives/2009435.html</id>
@@ -46,16 +56,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[テニス選手から東京の猛暑に不満続出　男子世界ランク2位・メドベージェフ「信じられない」― スポニチ Sponichi Annex スポーツ]]></title>
-        <id>https://www.sponichi.co.jp/sports/news/2021/07/25/kiji/20210725s00028000005000c.html</id>
-        <link href="https://www.sponichi.co.jp/sports/news/2021/07/25/kiji/20210725s00028000005000c.html"/>
-        <updated>2021-07-25T02:12:45.000Z</updated>
-        <summary type="html"><![CDATA[テニス選手から東京の猛暑に不満続出　男子世界ランク2位・メドベージェフ「信じられない」]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[テニス選手から東京の猛暑に不満続出　男子世界ランク2位・メドベージェフ「信じられない」（スポニチアネックス） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/b053dd3808277cc6de94bc9b07ae3c58b9bbec7c</id>
         <link href="https://news.yahoo.co.jp/articles/b053dd3808277cc6de94bc9b07ae3c58b9bbec7c"/>
@@ -91,6 +91,16 @@
         <link href="https://www.jiji.com/jc/article?k=2021072200423&amp;g=soc"/>
         <updated>2021-07-25T00:26:21.000Z</updated>
         <summary type="html"><![CDATA[「ネコのおやつ」で腎臓病予防も　「機能しない」ＡＩＭを活性化する成分発見　東大大学院・宮崎徹教授インタビュー 2021年07月25日08時00分 食事をする１１歳のネコ。この年齢になると慢性腎臓病に注意する必要がある 「ネコの宿命」とされる腎臓病にタンパク質「ＡＩＭ」を利用する治療法を開発した東京大学大学院医学...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[都内の医療逼迫　病院院長「五輪どころじゃない」｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_society/articles/000223600.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_society/articles/000223600.html"/>
+        <updated>2021-07-24T22:56:21.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックが開幕しましたが、都内では医療提供体制が逼迫（ひっぱく）し始めています。ANNの取材に応じた病院の院長は「現場は非常に厳しい状況でオリンピックどころではない」と危機感を示しました。 昭和大学病院・相良博典病院長：「医療現場でもオリンピックを楽しみたいが、なかなか現場では非常に厳しい状...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://twitter.com/wanpakuten/status/1418871561172443139"/>
         <updated>2021-07-24T12:14:47.000Z</updated>
         <summary type="html"><![CDATA[#報道特集 “国立競技場で弁当大量廃棄” これは酷い‼️ 無観客でボランティアの人数が減ったため、大量の弁当が廃棄されているという。 捌ききれないので、賞味期限前に捨てろ、という指示が！ 弁当廃棄の状況を見た人は…「生産者… https://t.co/Xi8nWJ9aeb]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React ステート管理 比較考察 - uhyo/blog]]></title>
-        <id>https://blog.uhy.ooo/entry/2021-07-24/react-state-management/</id>
-        <link href="https://blog.uhy.ooo/entry/2021-07-24/react-state-management/"/>
-        <updated>2021-07-24T11:34:49.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。Reactの話題の中でもかなりの部分を占めるのがステート管理、さらに言えば各種のステート管理ライブラリです。今さらながら、Reactにおけるステート管理の手法やいくつかのステート管理ライブラリを比較考察して記事にまとめました。 useState + バケツリレーReactにおける基本的なステート管理はuseStateで...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

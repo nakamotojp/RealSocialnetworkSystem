@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T22:11:16.753Z</id>
+    <id>urn:2021-07-25T23:11:27.877Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T22:11:16.753Z</updated>
+    <updated>2021-07-25T23:11:27.877Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[（社説）技能実習は速やかに廃止を: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGKKZO74163610V20C21A7PE8000/</id>
+        <link href="https://www.nikkei.com/article/DGKKZO74163610V20C21A7PE8000/"/>
+        <updated>2021-07-25T21:56:06.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 人手不足を補うため海外から人材を受け入れるだけ受け入れ、劣悪な労働環境は放置というのでは無責任のそしりを免れない。外国人技能実習制度のことだ。 いっこうに改...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソニーのカメラに乗り替えるプロカメラマン、東京2020五輪でも如実に : 市況かぶ全力２階建]]></title>
         <id>https://kabumatome.doorblog.jp/archives/65983227.html</id>
@@ -41,6 +51,16 @@
         <link href="https://tvod.hatenablog.com/entry/2021/07/25/225836"/>
         <updated>2021-07-25T14:04:58.000Z</updated>
         <summary type="html"><![CDATA[コメカ　小山田圭吾のことについて話したいと思います。正直言ってぼくはまだ非常に混乱していて、自分でも整理がついていません。ただ、これまで自分なりにサブカルチャー批評をやってきて、コーネリアスやフリッパーズ・ギターにも何度も言及し、肯定的に評価もしてきた。TVODの『ポスト・サブカル焼け跡派』でも、フ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「大人に囲まれ、やらなきゃいけない空気に」「現場から走って逃げてしまった」ネットに“写真”が”半永久”に残る時代、撮影を後悔するグラビアアイドルを生まないためには 【ABEMA TIMES】]]></title>
+        <id>https://times.abema.tv/news-article/8667595</id>
+        <link href="https://times.abema.tv/news-article/8667595"/>
+        <updated>2021-07-25T13:57:58.000Z</updated>
+        <summary type="html"><![CDATA[「大人に囲まれ、やらなきゃいけない空気に」「現場から走って逃げてしまった」ネットに“写真”が”半永久”に残る時代、撮影を後悔するグラビアアイドルを生まないためには。ABEMA TIMES[アベマタイムズ]は「見たい！」がみつかる情報ニュースサイトです。ABEMAの番組を中心に、ニュース映像や面白動画の紹介、著名人のイ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,6 +206,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[本多議員意見書による深刻な告発、あるいは立憲民主党を存亡の危機から救う唯一の方法について｜馬の眼　ishtarist｜note]]></title>
+        <id>https://note.com/ishtarist/n/na1ffe70feb6a</id>
+        <link href="https://note.com/ishtarist/n/na1ffe70feb6a"/>
+        <updated>2021-07-25T06:52:58.000Z</updated>
+        <summary type="html"><![CDATA[立憲民主党の「性犯罪刑法改正に関するワーキングチーム」で、「５０歳近くの自分が１４歳の子と性交したら、たとえ同意があっても捕まることになる。それはおかしい」と本多平直衆院議員が発言したとされる問題についての続報です。 ご存じの方も多いと思いますが、7月23日、本多議員から反論とも言うべき、意見書（PDF...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[オリンピックではてブ民が嫌いになった]]></title>
         <id>https://anond.hatelabo.jp/20210725153418</id>
         <link href="https://anond.hatelabo.jp/20210725153418"/>
@@ -211,26 +241,6 @@
         <link href="https://note.com/nishi19/n/nfc27019a0d3d"/>
         <updated>2021-07-25T05:49:44.000Z</updated>
         <summary type="html"><![CDATA[オリンピック2日目に予想外の盛り上がりをみせた競技があります。それは男子自転車ロード。 10時過ぎに武蔵野の森公園をスタートし、17時過ぎに富士スピードウェイまで走る長丁場のレースは、TVでは放送されず、gorin.jpで英語実況のみで放送。日本人選手にメダル獲得もなかったのですが、Twitterでは大きな盛り上がりを...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海老澤美幸 ebisawa_miyuki on Twitter: "人気ゲーム「シャニマス」のキャラクターが着用する衣装が実際の服のデザインを盗用したとして炎上した事件。 イラストレーターさんで、実際の服のデザインを無断で真似してイラストを描いてもいいのか？ という疑問をお持ちの方もいらっしゃるか… https://t.co/PCWkPepAMv"]]></title>
-        <id>https://twitter.com/ebisawa_miyuki/status/1419123767096143876</id>
-        <link href="https://twitter.com/ebisawa_miyuki/status/1419123767096143876"/>
-        <updated>2021-07-25T05:32:24.000Z</updated>
-        <summary type="html"><![CDATA[人気ゲーム「シャニマス」のキャラクターが着用する衣装が実際の服のデザインを盗用したとして炎上した事件。 イラストレーターさんで、実際の服のデザインを無断で真似してイラストを描いてもいいのか？ という疑問をお持ちの方もいらっしゃるか… https://t.co/PCWkPepAMv]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 中国、鄭州の長さ4kmのトンネルが5分で冠水、6000人死亡か　深夜に何台ものトレーラーが遺体を運び出す - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009435.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009435.html"/>
-        <updated>2021-07-25T04:54:18.000Z</updated>
-        <summary type="html"><![CDATA[中国、鄭州の長さ4kmのトンネルが5分で冠水、6000人死亡か　深夜に何台ものトレーラーが遺体を運び出す 1 名前：お断り ★：2021/07/25(日) 02:51:52.71 ID:EtUB/zLU9 画像 動画 https://video.twimg.com/ext_tw_video/1418541304338780166/pu/vid/476x270/LmnM2lESfhcfZ2uI.mp4 深夜になると何台ものトレーラーが遺体を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://github.com/IBM/plex/releases/tag/v5.2.1"/>
         <updated>2021-07-25T00:51:59.000Z</updated>
         <summary type="html"><![CDATA[IBM Plex Sans JP Added CSS stylesheets: css/ibm-plex-sans-jp.css and css/ibm-plex-sans-jp.min.css Sass entrypoint: scss/sans-jp/index.scss The upcoming major release will make chosing specific font-weights and languages easier for developers. Until then, enjoy IBM Plex Sans JP!]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都内の医療逼迫　病院院長「五輪どころじゃない」｜テレ朝news-テレビ朝日のニュースサイト]]></title>
-        <id>https://news.tv-asahi.co.jp/news_society/articles/000223600.html</id>
-        <link href="https://news.tv-asahi.co.jp/news_society/articles/000223600.html"/>
-        <updated>2021-07-24T22:56:21.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックが開幕しましたが、都内では医療提供体制が逼迫（ひっぱく）し始めています。ANNの取材に応じた病院の院長は「現場は非常に厳しい状況でオリンピックどころではない」と危機感を示しました。 昭和大学病院・相良博典病院長：「医療現場でもオリンピックを楽しみたいが、なかなか現場では非常に厳しい状...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

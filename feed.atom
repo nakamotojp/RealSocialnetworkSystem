@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T16:17:18.855Z</id>
+    <id>urn:2021-07-25T17:16:52.816Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T16:17:18.855Z</updated>
+    <updated>2021-07-25T17:16:52.816Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,26 @@
         <link href="https://twitter.com/akira_you/status/1419228947766644736"/>
         <updated>2021-07-25T12:54:35.000Z</updated>
         <summary type="html"><![CDATA[ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dai Tamesue 爲末大 on Twitter: "このあたりも選手への負担が大きすぎます。 外国選手ら悩ます連日の猛暑　「試合を夜に」と訴え | 2021/7/25 - 共同通信 https://t.co/EioDe7SGmQ"]]></title>
+        <id>https://twitter.com/daijapan/status/1419214638068035585</id>
+        <link href="https://twitter.com/daijapan/status/1419214638068035585"/>
+        <updated>2021-07-25T12:13:12.000Z</updated>
+        <summary type="html"><![CDATA[このあたりも選手への負担が大きすぎます。 外国選手ら悩ます連日の猛暑　「試合を夜に」と訴え | 2021/7/25 - 共同通信 https://t.co/EioDe7SGmQ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪選手への誹謗中傷　警視庁「被害届出れば対応」（テレビ朝日系（ANN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/e05747c42d199ee66e5e5760f9044c1c2dc11856</id>
+        <link href="https://news.yahoo.co.jp/articles/e05747c42d199ee66e5e5760f9044c1c2dc11856"/>
+        <updated>2021-07-25T12:01:05.000Z</updated>
+        <summary type="html"><![CDATA[オリンピックの選手に対する誹謗（ひぼう）中傷について、警視庁は被害届が出れば対応する方針を示しました。 東京オリンピックが始まり、主に敗退した選手らを誹謗中傷するような書き込みがインターネットやSNS上に増えています。 警視庁はこうした誹謗中傷について、本人から被害届が出れば警察として真摯に対応する方...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,31 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「ネコのおやつ」で腎臓病予防も　「機能しない」ＡＩＭを活性化する成分発見　東大大学院・宮崎徹教授インタビュー：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021072200423&amp;g=soc</id>
-        <link href="https://www.jiji.com/jc/article?k=2021072200423&amp;g=soc"/>
-        <updated>2021-07-25T00:26:21.000Z</updated>
-        <summary type="html"><![CDATA[「ネコのおやつ」で腎臓病予防も　「機能しない」ＡＩＭを活性化する成分発見　東大大学院・宮崎徹教授インタビュー 2021年07月25日08時00分 食事をする１１歳のネコ。この年齢になると慢性腎臓病に注意する必要がある 「ネコの宿命」とされる腎臓病にタンパク質「ＡＩＭ」を利用する治療法を開発した東京大学大学院医学...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[都内の医療逼迫　病院院長「五輪どころじゃない」｜テレ朝news-テレビ朝日のニュースサイト]]></title>
         <id>https://news.tv-asahi.co.jp/news_society/articles/000223600.html</id>
         <link href="https://news.tv-asahi.co.jp/news_society/articles/000223600.html"/>
         <updated>2021-07-24T22:56:21.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックが開幕しましたが、都内では医療提供体制が逼迫（ひっぱく）し始めています。ANNの取材に応じた病院の院長は「現場は非常に厳しい状況でオリンピックどころではない」と危機感を示しました。 昭和大学病院・相良博典病院長：「医療現場でもオリンピックを楽しみたいが、なかなか現場では非常に厳しい状...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モデルナのワクチン 2回目接種後に4人に3人が発熱 厚労省 | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210725/k10013157961000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210725/k10013157961000.html"/>
-        <updated>2021-07-24T21:30:54.000Z</updated>
-        <summary type="html"><![CDATA[モデルナの新型コロナウイルスのワクチンについて、2回目の接種後は1回目より発熱や頭痛などの症状が多く見られたことが分かりました。4人に3人が発熱していたということで、国の研究班は症状がおさまるまで安静にしてほしいと呼びかけています。 厚生労働省の研究班は、モデルナのワクチンの接種を受けた自衛隊員のうち...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

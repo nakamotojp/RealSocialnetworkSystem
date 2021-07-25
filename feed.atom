@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T05:10:14.071Z</id>
+    <id>urn:2021-07-25T06:14:51.706Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T05:10:14.071Z</updated>
+    <updated>2021-07-25T06:14:51.706Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[オリンピック スケートボード ストリート 堀米雄斗 金メダル | スケートボード | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210725/k10013158431000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210725/k10013158431000.html"/>
+        <updated>2021-07-25T04:42:54.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの新競技、スケートボードの男子ストリートで22歳の堀米雄斗選手が金メダルを獲得しました。新競技のスケートボードで日本選手が初めてのメダル獲得です。 新競技のスケートボードで、金メダルを獲得した堀米雄斗選手。 地元 江東区の会場で、日本のスケートボード界で初のメダル獲得を成し遂げました。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好きな娘がSNSにブルーインパルスの写真を無邪気に上げててガッカリした]]></title>
         <id>https://anond.hatelabo.jp/20210725112545</id>
@@ -41,6 +51,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210725/k10013158281000.html"/>
         <updated>2021-07-25T01:17:49.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックのテニスの競技に出場する世界ランキング上位の選手らが、暑さへの対策のため試合時間をずらすよう相次いで求めたと、各国のメディアが報じるなど、オリンピック期間中の厳しい暑さへの懸念の声も出ています。 東京オリンピックのテニスの競技は24日に始まりました。 アメリカのCNNテレビなどによります...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ネコのおやつ」で腎臓病予防も　「機能しない」ＡＩＭを活性化する成分発見　東大大学院・宮崎徹教授インタビュー：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021072200423&amp;g=soc</id>
+        <link href="https://www.jiji.com/jc/article?k=2021072200423&amp;g=soc"/>
+        <updated>2021-07-25T00:26:21.000Z</updated>
+        <summary type="html"><![CDATA[「ネコのおやつ」で腎臓病予防も　「機能しない」ＡＩＭを活性化する成分発見　東大大学院・宮崎徹教授インタビュー 2021年07月25日08時00分 食事をする１１歳のネコ。この年齢になると慢性腎臓病に注意する必要がある 「ネコの宿命」とされる腎臓病にタンパク質「ＡＩＭ」を利用する治療法を開発した東京大学大学院医学...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪開会式 深夜の子ども出演が波紋…橋本聖子が4日前に任命 | 女性自身]]></title>
-        <id>https://jisin.jp/domestic/2003569/</id>
-        <link href="https://jisin.jp/domestic/2003569/"/>
-        <updated>2021-07-24T14:10:18.000Z</updated>
-        <summary type="html"><![CDATA[7月23日夜に国立競技場で行われた東京オリンピックの開会式。ネット上では、“ある演出”に賛否の声が上がっている。 23時過ぎに行われた聖火リレーでは、宮城・福島・岩手の東北3県の中高生たち6人が最終ランナーの大坂なおみ（23）に聖火を繋いだ。 この演出にネットでは《被災地の子供たちの聖火リレーは胸熱だった》《...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【五輪開会式】ビートたけしが痛烈批判「金返してほしい」 | ORICON NEWS]]></title>
         <id>https://www.oricon.co.jp/news/2201342/full/</id>
         <link href="https://www.oricon.co.jp/news/2201342/full/"/>
@@ -266,11 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《相手女性が告発》絵本作家・のぶみ氏が“復興ボランティア不倫”「NHKの仕事の後はきまって私の家にきました」 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47337</id>
-        <link href="https://bunshun.jp/articles/-/47337"/>
-        <updated>2021-07-24T09:30:09.000Z</updated>
-        <summary type="html"><![CDATA[これまで22年間にわたり、約250冊の絵本を執筆した人気絵本作家・のぶみ氏（43）。代表作「ママがおばけになっちゃった！」（講談社）は累計発行部数61万部を突破。人気絵本作家として「情熱大陸」（TBS系）をはじめ複数のメディアに出演してきた。 NHKとの縁は特に深く、Eテレの人気子供向け番組「みいつけた!」の『お...]]></summary>
+        <title type="html"><![CDATA[気温50度の猛暑を克服する為、ドローンで人工雨を降らせたドバイ。効きすぎて大雨警報発令 : カラパイア]]></title>
+        <id>https://karapaia.com/archives/52304318.html</id>
+        <link href="https://karapaia.com/archives/52304318.html"/>
+        <updated>2021-07-24T08:21:34.000Z</updated>
+        <summary type="html"><![CDATA[日本でも連日猛暑が続くが、アラブ首長国連邦（UAE）は50度もの超猛暑に見舞われており、その上雨がほとんど降らない過酷な状況にある。 そこで登場したのが、ドローンを利用した人工降雨だ。その効果はテキメンで、人工雨が作られたドバイの一部地域では効きすぎて警報まで発令されてしまったようだ。 広告 ドローンの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://newspicks.com/news/5817227/body/"/>
         <updated>2021-07-24T04:28:01.000Z</updated>
         <summary type="html"><![CDATA[ビジネス資料に必須の要素は「わかりやすさ」です。どんなに美しく、クールな見た目でも、わかりにくい資料に価値はありません。そして、わかりやすい資料のデザインに必要なのは、「センス」じゃなくて「ロジック」です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鍋に弾丸を受けながら 第３話「オレンジジュース」｜コミックNewtype]]></title>
-        <id>https://comic.webnewtype.com/contents/nabetama/30/</id>
-        <link href="https://comic.webnewtype.com/contents/nabetama/30/"/>
-        <updated>2021-07-23T04:35:16.000Z</updated>
-        <summary type="html"><![CDATA[鍋に弾丸を受けながら 第３話「オレンジジュース」を配信中（無料）。コミックNewtypeで漫画を読もう]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

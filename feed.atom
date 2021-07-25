@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T11:09:40.332Z</id>
+    <id>urn:2021-07-25T12:18:14.110Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T11:09:40.332Z</updated>
+    <updated>2021-07-25T12:18:14.110Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京オリンピック開会式への怒りと絶望…ゲームへのリスペクトがない演出とそれをありがたがる人々が許しがたい【コラム】 | Game*Spark - 国内・海外ゲーム情報サイト]]></title>
+        <id>https://www.gamespark.jp/article/2021/07/25/110634.html</id>
+        <link href="https://www.gamespark.jp/article/2021/07/25/110634.html"/>
+        <updated>2021-07-25T10:31:56.000Z</updated>
+        <summary type="html"><![CDATA[問題だらけの東京オリンピック。ゲーム文化に興味も関心もない人たちによって、ゲーム音楽が「使われた」と感じざるを得ない。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 1763人感染確認 日曜日では過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210725/k10013158941000.html</id>
@@ -81,6 +91,16 @@
         <link href="https://nlab.itmedia.co.jp/nl/articles/2107/25/news017.html"/>
         <updated>2021-07-25T03:47:17.000Z</updated>
         <summary type="html"><![CDATA[「竜とそばかすの姫」を見た後、はらわたが煮えくりかえっていた。 仮想テクノロジーによる没入型SNSという「サマーウォーズ」のアップデート、家庭内、社会内で孤立する若者を描いた「おおかみこどもの雨と雪」の延長線、何より「時をかける少女」との演出的な相似性。これまで氏の作品を見続けてきた者として、本作を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ on Twitter: "やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk"]]></title>
+        <id>https://twitter.com/t0kri/status/1419077029643755522</id>
+        <link href="https://twitter.com/t0kri/status/1419077029643755522"/>
+        <updated>2021-07-25T03:26:13.000Z</updated>
+        <summary type="html"><![CDATA[やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[西川貴教 on Twitter: "音楽４団体の職域接種でしたが、会場はほぼ空席でした。エンタテインメント業界の嘆きを聞くわりに、ワクチン接種に消極的な気がします。ワクチンを接種しても感染はしますが、重篤化を防ぎ医療従事者の皆さんの負担を軽減させ、イベントの実現に向… https://t.co/4psPGJSdl5"]]></title>
-        <id>https://twitter.com/TMR15/status/1418824539509829641</id>
-        <link href="https://twitter.com/TMR15/status/1418824539509829641"/>
-        <updated>2021-07-24T14:59:42.000Z</updated>
-        <summary type="html"><![CDATA[音楽４団体の職域接種でしたが、会場はほぼ空席でした。エンタテインメント業界の嘆きを聞くわりに、ワクチン接種に消極的な気がします。ワクチンを接種しても感染はしますが、重篤化を防ぎ医療従事者の皆さんの負担を軽減させ、イベントの実現に向… https://t.co/4psPGJSdl5]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自転車競技、自粛求めたが沿道は密に　橋本会長「ルール徹底を」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210724/k00/00m/050/301000c</id>
         <link href="https://mainichi.jp/articles/20210724/k00/00m/050/301000c"/>
@@ -291,16 +301,6 @@
         <link href="https://karapaia.com/archives/52304318.html"/>
         <updated>2021-07-24T08:21:34.000Z</updated>
         <summary type="html"><![CDATA[日本でも連日猛暑が続くが、アラブ首長国連邦（UAE）は50度もの超猛暑に見舞われており、その上雨がほとんど降らない過酷な状況にある。 そこで登場したのが、ドローンを利用した人工降雨だ。その効果はテキメンで、人工雨が作られたドバイの一部地域では効きすぎて警報まで発令されてしまったようだ。 広告 ドローンの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【入門】非デザイナーのための「デザインのルール」]]></title>
-        <id>https://newspicks.com/news/5817227/body/</id>
-        <link href="https://newspicks.com/news/5817227/body/"/>
-        <updated>2021-07-24T04:28:01.000Z</updated>
-        <summary type="html"><![CDATA[ビジネス資料に必須の要素は「わかりやすさ」です。どんなに美しく、クールな見た目でも、わかりにくい資料に価値はありません。そして、わかりやすい資料のデザインに必要なのは、「センス」じゃなくて「ロジック」です。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

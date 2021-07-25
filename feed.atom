@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T08:13:27.454Z</id>
+    <id>urn:2021-07-25T09:12:34.108Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T08:13:27.454Z</updated>
+    <updated>2021-07-25T09:12:34.108Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210725/k10013158941000.html"/>
         <updated>2021-07-25T07:48:14.000Z</updated>
         <summary type="html"><![CDATA[東京都は25日、都内で新たに1763人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の日曜日より755人増え、日曜日としてはこれまでで最も多くなりました。 また、1日の感染確認が1000人を超えるのは、これで6日連続です。 一方、都の基準で集計した25日時点の重症の患者は24日より2人減って7...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピックではてブ民が嫌いになった]]></title>
+        <id>https://anond.hatelabo.jp/20210725153418</id>
+        <link href="https://anond.hatelabo.jp/20210725153418"/>
+        <updated>2021-07-25T06:41:29.000Z</updated>
+        <summary type="html"><![CDATA[オリンピックは開催されて嬉しい方の人間です。 今は家族で家で楽しく応援しています。 無観客だから懸念されるような事態もなく、選手も頑張ってる。 それなのにブコメを見ればネガコメばかり。 前に、「選手に石投げたい気分」とか言ってるブコメに★がついてるの見て一気に不快になった。 こんなコメント書くやつも★い...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://mainichi.jp/articles/20210724/k00/00m/010/304000c"/>
         <updated>2021-07-24T13:30:39.000Z</updated>
         <summary type="html"><![CDATA[共産党の志位和夫委員長は23日、菅義偉首相が米NBCテレビのインタビューで「新型コロナウイルスを克服し、（東京オリンピックを）開催することに真の価値がある」と述べたことに対して、ツイッターに「意味不明の発言」と投稿した。 志位氏は東京都に緊急事態宣言が発令中で感染が収束していないことも念頭に、「（首相...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪開会式 深夜の子ども出演が波紋…橋本聖子が4日前に任命（女性自身） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/b5ebea2edf6a7ca496573a8981528bf381df34da</id>
-        <link href="https://news.yahoo.co.jp/articles/b5ebea2edf6a7ca496573a8981528bf381df34da"/>
-        <updated>2021-07-24T13:25:30.000Z</updated>
-        <summary type="html"><![CDATA[7月23日夜に国立競技場で行われた東京オリンピックの開会式。ネット上では、“ある演出”に賛否の声が上がっている。 23時過ぎに行われた聖火リレーでは、宮城・福島・岩手の東北3県の中高生たち6人が最終ランナーの大坂なおみ（23）に聖火を繋いだ。 この演出にネットでは《被災地の子供たちの聖火リレーは胸熱だった》《...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

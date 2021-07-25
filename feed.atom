@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T19:09:24.763Z</id>
+    <id>urn:2021-07-25T20:11:46.088Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T19:09:24.763Z</updated>
+    <updated>2021-07-25T20:11:46.088Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210725/k10013159581000.html"/>
         <updated>2021-07-25T10:31:38.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック、柔道男子66キロ級で、阿部一二三選手が金メダルを獲得しました。女子52キロ級、妹の阿部詩選手と柔道では史上初めて、同じ大会できょうだいでの金メダル獲得です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪開会式の米国での視聴者数、ソウル五輪以降で最低とNBCが公表：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/119226</id>
+        <link href="https://www.tokyo-np.co.jp/article/119226"/>
+        <updated>2021-07-25T10:31:10.000Z</updated>
+        <summary type="html"><![CDATA[【ワシントン＝吉田通夫】東京五輪の米国向け放送権を持つＮＢＣは２４日、開会式の視聴者数は速報値で約１７００万人だったと明らかにした。夏季五輪の開会式の米国内の視聴者数としては、日本と同様に厳しい時差のあった１９８８年のソウル五輪を下回り、少なくとも過去３３年で最低だった。 ドイツのデータ会社スタテ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://twitter.com/t0kri/status/1419077029643755522"/>
         <updated>2021-07-25T03:26:13.000Z</updated>
         <summary type="html"><![CDATA[やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好きな娘がSNSにブルーインパルスの写真を無邪気に上げててガッカリした]]></title>
-        <id>https://anond.hatelabo.jp/20210725112545</id>
-        <link href="https://anond.hatelabo.jp/20210725112545"/>
-        <updated>2021-07-25T02:26:41.000Z</updated>
-        <summary type="html"><![CDATA[ああ頭はそんなによくないのね…と。 万が一どうにかなったとしても結婚はできんな…と。本当に今回の五輪、リトマス試験紙としての機能優秀だわ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

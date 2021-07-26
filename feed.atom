@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T20:11:59.358Z</id>
+    <id>urn:2021-07-26T21:11:12.289Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T20:11:59.358Z</updated>
+    <updated>2021-07-26T21:11:12.289Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://news.denfaminicogamer.jp/kikakuthetower/210726z"/>
         <updated>2021-07-26T10:36:04.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック開会式でのゲーム音楽の使用にまつわる議論から、現代における社会の分断について考える──インターネットは民主主義の敵なのか？ 東京オリンピックの開会式の入場曲に、『ドラゴンクエスト』や『ファイナルファンタジー』をはじめとするゲーム音楽が使用されたことについて、ネットではその是非を巡って...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ「中等症」の入院患者 数日後重症に転じるケース相次ぐ｜NHK 首都圏のニュース]]></title>
+        <id>https://www3.nhk.or.jp/shutoken-news/20210726/1000067878.html</id>
+        <link href="https://www3.nhk.or.jp/shutoken-news/20210726/1000067878.html"/>
+        <updated>2021-07-26T09:44:50.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大に歯止めがかからず、首都圏の患者の治療にあたる大学病院では、中等症で入院した患者が数日後、重症に転じるケースが相次いでいます。 医師は「重症はこれまでと比べて少ないと言われるが、実は重症という氷山の下に中等症が大勢いていつ悪化するか分からず、警戒を緩められない」と訴えて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -131,16 +141,6 @@
         <link href="https://togetter.com/li/1750270"/>
         <updated>2021-07-26T07:17:06.000Z</updated>
         <summary type="html"><![CDATA[真乃宮@いつか君の盾となろう @manomiya37 愛する妻と息子たち。読書に救われてきた人生。報いのない物語でこそ伝えられる情動があると信じています。（Twitterは呟きが主です） 真乃宮@いつか君の盾となろう @manomiya37 昔『わらび餅の移動販売』を短編小説に取り上げたとき、ある読者から「衛生上の問題」「保健所の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公文書管理デジタル化 事後変更や廃棄できないシステム構築を | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210726/k10013160721000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210726/k10013160721000.html"/>
-        <updated>2021-07-26T06:44:05.000Z</updated>
-        <summary type="html"><![CDATA[公文書管理のデジタル化に向けて、政府の公文書管理委員会の作業部会は、事後に修正できない仕組みが導入されている決裁文書以外の文書についても、変更や廃棄ができないシステムを構築するなどとした報告書をまとめました。 報告書では、効率的に公文書を管理するため、保存期間や廃棄などの一時的な判断はAI＝人工知能...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

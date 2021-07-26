@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210726/k10013160781000.html",
+          "author": null,
+          "description": "東京都内では、26日新たに1429人が新型コロナウイルスに感染していることが確認されました。1週間前の月曜日の倍近くに増え、月曜日としてはこれまでで最も多くなりました。 東京都は、26日都内で新たに10歳未満から90代までの男女合わせて1429人が新型コロナウイルスに感染していることを確認したと発表しました。 1週...",
+          "link": "https://www3.nhk.or.jp/news/html/20210726/k10013160781000.html",
+          "publishedOn": "2021-07-26T07:53:10.000Z",
+          "wordCount": 28,
+          "title": "東京都 新型コロナ 新たに1429人感染確認 月曜日では過去最多 | 新型コロナ 国内感染者数 | NHKニュース"
+        },
+        {
           "id": "http://hobbyjapan.co.jp/news_release/detail.html?id=6",
           "author": null,
           "description": "株式会社ホビージャパンの重要なお知らせを掲載しています。",
@@ -29,7 +38,7 @@
           "description": "東京オリンピックの新競技、スケートボードの女子ストリートで、13歳の西矢椛選手が金メダルを獲得しました。13歳10か月での金メダル獲得で、1992年のバルセロナ大会で金メダルを獲得した競泳の岩崎恭子さんの14歳0か月を抜いて、日本選手で史上最年少のメダル獲得となりました。 また、16歳の中山楓奈選手が銅メダルを...",
           "link": "https://www3.nhk.or.jp/news/html/20210726/k10013160511000.html",
           "publishedOn": "2021-07-26T04:35:44.000Z",
-          "wordCount": 36,
+          "wordCount": 37,
           "title": "オリンピック スケートボード 西矢が最年少13歳で金 中山が銅 | スケートボード | NHKニュース"
         },
         {
@@ -38,7 +47,7 @@
           "description": "俺♂21、相手♀23。 婚約した直後にソシャゲのガチャ中毒で貯金ないのが発覚した。 結婚を機に治ればと思ったがまた翌月に同じことやったから婚約解消を相手両親に告げたらひたすら頭下げてくれたので「じゃあまた翌月の状況次第で」という話になったものの、またやった。 さっき相手両親に婚約解消する旨を告げてきた。 ...",
           "link": "https://anond.hatelabo.jp/20210726131835",
           "publishedOn": "2021-07-26T04:24:14.000Z",
-          "wordCount": 254,
+          "wordCount": 272,
           "title": "婚約者がガチャ中毒だったから婚約解消した"
         },
         {
@@ -47,7 +56,7 @@
           "description": "TOKYO — The finish line of the men’s triathlon Monday morning looked something like a battlefield scene, bodies sprawled out on ground, trainers coming to the aid of overheated athletes, even a few being helped off with their arms draped over shoulders. This despite the Olympics moving the start ...",
           "link": "https://sports.yahoo.com/japan-lied-about-the-weather-and-now-olympians-are-paying-the-price-010612634.html",
           "publishedOn": "2021-07-26T03:47:00.000Z",
-          "wordCount": 2478,
+          "wordCount": 2499,
           "title": "Olympics: Japan lied about the weather in its Olympic bid"
         },
         {
@@ -56,7 +65,7 @@
           "description": "東証一部社長 @tokumei_banzai 近所が揺れている。高齢化した町内会の廃止。若者が起案した。賛成2割で反対が8割。皆現状は変えたくない。しばらく議論を見守ってから折衷案を出す「廃止はしない」「でも脱退は自由にする」。みんな納得する。実は私は隠れ廃止派だ。もうこの町に子供は殆どいない。これで…普通に滅びて...",
           "link": "https://togetter.com/li/1750205",
           "publishedOn": "2021-07-26T03:35:58.000Z",
-          "wordCount": 1091,
+          "wordCount": 1168,
           "title": "ある街にて若者が起案した「高齢化した町内会の廃止」から考える、町内会は役割を終え滅びを受け入れるしかない？という話 - Togetter"
         },
         {
@@ -65,7 +74,7 @@
           "description": "7月23日に開幕した東京五輪。相次ぐ関係者の辞任劇もあり波乱の中の幕開けとなったが、開会式にも新たな問題が浮上している。それは、作曲家・すぎやまこういち氏（90）の制作した楽曲が使用されたためだ。 すぎやま氏の楽曲が使用されたのは、開会式冒頭部でのこと。そこで彼の手がけた『ドラゴンクエスト』のテーマ曲...",
           "link": "https://news.yahoo.co.jp/articles/754c82b7be69567c8ae3b14eb9be07c7b706f076",
           "publishedOn": "2021-07-26T03:27:31.000Z",
-          "wordCount": 76,
+          "wordCount": 75,
           "title": "作曲家がLGBT差別の杉田水脈氏を肯定…開会式のドラクエ起用に疑問続出（女性自身） - Yahoo!ニュース"
         },
         {
@@ -101,7 +110,7 @@
           "description": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる 2021.07.26 Updated by Ryo Shimizu on July 26, 2021, 07:12 am JST 最近のプログラミングの新しい波は微分可能プログラミング(differentiable programming)である。 微分可能プログラミングとは、簡単...",
           "link": "https://wirelesswire.jp/2021/07/80265/",
           "publishedOn": "2021-07-26T01:45:38.000Z",
-          "wordCount": 176,
+          "wordCount": 197,
           "title": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる - WirelessWire News（ワイヤレスワイヤーニュース）"
         },
         {
@@ -119,7 +128,7 @@
           "description": "23日夜にNHK総合で生中継された「東京五輪開会式」（後7・56〜11・51、235分）の平均世帯視聴率は56・4％（ビデオリサーチ調べ、関東地区）だったことが26日、分かった。同じくゴールデン帯（午後7〜10時）で放送がスタートした2008年北京五輪の37・3％（8月8日後8・55、255分、NHK総合）を大きく上回り、前回1964年東京...",
           "link": "https://news.livedoor.com/article/detail/20590732/",
           "publishedOn": "2021-07-26T00:37:43.000Z",
-          "wordCount": 925,
+          "wordCount": 919,
           "title": "東京五輪開会式　56・4％の高視聴率！64年東京五輪の61・2％に迫る　瞬間最高は61・0％ - ライブドアニュース"
         },
         {
@@ -146,7 +155,7 @@
           "description": "7月23日から東京五輪が開幕した。連日の日本選手の活躍に、筆者も大きな感動をもらっている。 ちなみに、本コラムにおいて、筆者は、2ヶ月前、今の五輪時に「もし新たな波が来ても、100万人当たり25～38人程度（全国で3000～4500人程度）だろう」と書いている〈コロナ感染は「あと1ヵ月」でピークアウトする…「波」はワ...",
           "link": "https://gendai.ismedia.jp/articles/-/85559",
           "publishedOn": "2021-07-25T23:41:34.000Z",
-          "wordCount": 167,
+          "wordCount": 166,
           "title": "東京五輪、やはり開催してよかった…「中止」を訴えてきた野党とマスコミの「今後」（髙橋 洋一） | 現代ビジネス | 講談社（1/4）"
         },
         {
@@ -200,7 +209,7 @@
           "description": "うまく説明とか言語化ができないんだけどさ なんか「計算でヒット作品つくってます感」みたいなのが鼻につく感じ、ない？ パプリカとか日常のOP曲とか特にそんな感じがする 漫画で言ったらバクマン。とドクターストーンも同じような匂いを感じる ヒットするのは当然、すべて計算の内ですよ、みたいな 100日後に死ぬワニ...",
           "link": "https://anond.hatelabo.jp/20200603181732",
           "publishedOn": "2021-07-25T20:58:12.000Z",
-          "wordCount": 204,
+          "wordCount": 211,
           "title": "米津玄師とヒャダインが苦手"
         },
         {
@@ -218,7 +227,7 @@
           "description": "Олимпиада. Мой друг Киврин pic.twitter.com/UsgCoRZTyw — SMIRNOVTАSS (@SMI_TASS) July 24, 2021 🦊源九郎狐@cute_fox_earsうわぁ。 しかもR5。オリンピックのために新調したであろうものが。 2021/07/25 20:32:39 ローレイ@RaleighProスポーツ撮影のプロもミラーレス使う時代よなー 2021/07/25 22:31:30 偽職@purple...",
           "link": "https://kabumatome.doorblog.jp/archives/65983227.html",
           "publishedOn": "2021-07-25T18:01:41.000Z",
-          "wordCount": 998,
+          "wordCount": 1001,
           "title": "ソニーのカメラに乗り替えるプロカメラマン、東京2020五輪でも如実に : 市況かぶ全力２階建"
         },
         {
@@ -227,7 +236,7 @@
           "description": "7月24日・土曜日、体操男子や柔道など人気競技が一斉に始まる中、テレビ中継がなかったにもかかわらず、ネット配信で自転車ファンを熱狂させてSNSのトレンドに入った「自転車男子ロードレース」。でも、素人にはそのすごさがよくわからない…？そんな人のために、レースを振り返りながらすごさを解説します！ 決着の瞬間...",
           "link": "https://www3.nhk.or.jp/sports/story/18670/index.html?cid=2020hk-tw-sports-text-0725",
           "publishedOn": "2021-07-25T16:35:51.000Z",
-          "wordCount": 284,
+          "wordCount": 285,
           "title": "トレンド席巻！自転車ロードレースのすごさ！ 東京オリンピック | NHKスポーツ"
         },
         {
@@ -245,7 +254,7 @@
           "description": "自転車競技のロードレースの放送で再認識させてくれた日本の美しい景色や，ツール・ド・フランスで活躍した有名選手達が日本開催のレースでガチに疾走する様子などに感動する呟きをまとめてみました． 選手名とかルールとかは一旦置いておいて，ロードレースの空撮の魅力などが伝わったら嬉しいです．今なら見逃し配信も...",
           "link": "https://togetter.com/li/1749895",
           "publishedOn": "2021-07-25T14:08:41.000Z",
-          "wordCount": 988,
+          "wordCount": 999,
           "title": "東京五輪2020・ロードレースの向こうに映し出された日本の景色 - Togetter"
         },
         {
@@ -256,15 +265,6 @@
           "publishedOn": "2021-07-25T12:12:24.000Z",
           "wordCount": 45,
           "title": "『会社内での自分の存在価値を可能な限り低く保っていたい』という若手｜よんてんごP｜note"
-        },
-        {
-          "id": "https://www.gamespark.jp/article/2021/07/25/110634.html",
-          "author": null,
-          "description": "問題だらけの東京オリンピック。ゲーム文化に興味も関心もない人たちによって、ゲーム音楽が「使われた」と感じざるを得ない。",
-          "link": "https://www.gamespark.jp/article/2021/07/25/110634.html",
-          "publishedOn": "2021-07-25T10:31:56.000Z",
-          "wordCount": 199,
-          "title": "東京オリンピック開会式への怒りと絶望…ゲームへのリスペクトがない演出とそれをありがたがる人々が許しがたい【コラム】 | Game*Spark - 国内・海外ゲーム情報サイト"
         },
         {
           "id": "https://note.com/ishtarist/n/na1ffe70feb6a",

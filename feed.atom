@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T08:14:02.415Z</id>
+    <id>urn:2021-07-26T09:18:28.847Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T08:14:02.415Z</updated>
+    <updated>2021-07-26T09:18:28.847Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 新たに1429人感染確認 月曜日では過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210726/k10013160781000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210726/k10013160781000.html"/>
+        <updated>2021-07-26T07:53:10.000Z</updated>
+        <summary type="html"><![CDATA[東京都内では、26日新たに1429人が新型コロナウイルスに感染していることが確認されました。1週間前の月曜日の倍近くに増え、月曜日としてはこれまでで最も多くなりました。 東京都は、26日都内で新たに10歳未満から90代までの男女合わせて1429人が新型コロナウイルスに感染していることを確認したと発表しました。 1週...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要なお知らせ ｜ 株式会社ホビージャパン]]></title>
         <id>http://hobbyjapan.co.jp/news_release/detail.html?id=6</id>
@@ -281,16 +291,6 @@
         <link href="https://note.com/yontengop/n/ne3db96c946d0"/>
         <updated>2021-07-25T12:12:24.000Z</updated>
         <summary type="html"><![CDATA[「えぇーッ!?」である。 先日とある機会があって、お仕事現場の20代の若手社員さんとお話する機会があったのだが、何かの折に、このnoteのタイトルにある発言が出てきた。 「ホント、可能な限り僕らは社内での存在価値？みたいのを低くしておきたいんですよ」 思わず真顔で聞いてしまった。 「な、なんで…？？」 存在価...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京オリンピック開会式への怒りと絶望…ゲームへのリスペクトがない演出とそれをありがたがる人々が許しがたい【コラム】 | Game*Spark - 国内・海外ゲーム情報サイト]]></title>
-        <id>https://www.gamespark.jp/article/2021/07/25/110634.html</id>
-        <link href="https://www.gamespark.jp/article/2021/07/25/110634.html"/>
-        <updated>2021-07-25T10:31:56.000Z</updated>
-        <summary type="html"><![CDATA[問題だらけの東京オリンピック。ゲーム文化に興味も関心もない人たちによって、ゲーム音楽が「使われた」と感じざるを得ない。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

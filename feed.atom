@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T09:18:28.847Z</id>
+    <id>urn:2021-07-26T10:27:18.911Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T09:18:28.847Z</updated>
+    <updated>2021-07-26T10:27:18.911Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[立民・本多氏「１２歳と２１歳だってないとはいえない」　ＷＴ寺田座長が意見書 - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210726-4Y7OO6URJVOPFDAVVL42XNE73I/</id>
+        <link href="https://www.sankei.com/article/20210726-4Y7OO6URJVOPFDAVVL42XNE73I/"/>
+        <updated>2021-07-26T08:42:13.000Z</updated>
+        <summary type="html"><![CDATA[党会合での自身の発言について、報道陣の取材に応じる立憲民主党の本多平直衆院議員＝６月８日午後、国会立憲民主党の本多平直衆院議員が性交同意年齢に関する議論で「５０代が１４歳と恋愛し同意があった場合に罰せられるのはおかしい」などと発言した問題をめぐり、本多氏が発言の場となった党性犯罪刑法改正ワーキン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 新たに1429人感染確認 月曜日では過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210726/k10013160781000.html</id>
@@ -21,6 +31,16 @@
         <link href="http://hobbyjapan.co.jp/news_release/detail.html?id=6"/>
         <updated>2021-07-26T07:34:22.000Z</updated>
         <summary type="html"><![CDATA[株式会社ホビージャパンの重要なお知らせを掲載しています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪で一日数千食の弁当廃棄　組織委員会の答えは？5月には「キャンセルか転用して無駄を出さない」と回答（井出留美） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/iderumi/20210726-00249844</id>
+        <link href="https://news.yahoo.co.jp/byline/iderumi/20210726-00249844"/>
+        <updated>2021-07-26T06:01:58.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月24日に放送されたTBS「報道特集」 （1）では、国立競技場の中にいる関係者から、「一日数千食分の弁当が廃棄されている」と、映像と共に証言が報じられた。 2021年7月24日放送TBS「報道特集」（Tverより筆者スクリーンショット） 理由は「無観客になり、ボランティアの人数が減ったため」だという。 2021年7月2...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +101,16 @@
         <link href="https://news.yahoo.co.jp/articles/754c82b7be69567c8ae3b14eb9be07c7b706f076"/>
         <updated>2021-07-26T03:27:31.000Z</updated>
         <summary type="html"><![CDATA[7月23日に開幕した東京五輪。相次ぐ関係者の辞任劇もあり波乱の中の幕開けとなったが、開会式にも新たな問題が浮上している。それは、作曲家・すぎやまこういち氏（90）の制作した楽曲が使用されたためだ。 すぎやま氏の楽曲が使用されたのは、開会式冒頭部でのこと。そこで彼の手がけた『ドラゴンクエスト』のテーマ曲...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首相、憲法改正「挑戦したい」　コロナ収束後に、月刊誌で強調 ｜ 共同通信]]></title>
+        <id>https://nordot.app/792220151704469504</id>
+        <link href="https://nordot.app/792220151704469504"/>
+        <updated>2021-07-26T03:17:56.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は26日発売の月刊誌「Hanada」9月号のインタビューで、憲法改正を巡り、自民党が党是として掲げる自主憲法制定の方針に変更はないと強調した。自衛隊の明記や緊急事態条項の新設など、同党の改憲4項目に言及しながら「新型コロナウイルスに打ち勝った後、国民的な議論と理解が深まるよう環境を整備し、しっか...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[（社説）現役世代からの医療費召し上げは限界だ: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGKKZO74163590V20C21A7PE8000/</id>
-        <link href="https://www.nikkei.com/article/DGKKZO74163590V20C21A7PE8000/"/>
-        <updated>2021-07-25T21:53:27.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 75歳以上の後期高齢者が入る医療制度（後期制度）に対し、現役世代の加入者を中心とする企業の健康保険組合などが負担する支援金が一段と膨張した。 今後、団塊世代の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ガソリンと同じ成分作る植物プランクトン発見 | 環境 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html"/>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪＝自転車女子ロード、オーストリアの数学研究者が金メダル | ロイター]]></title>
-        <id>https://jp.reuters.com/article/tokyo-2020-cycling-idJPKBN2EV0ES</id>
-        <link href="https://jp.reuters.com/article/tokyo-2020-cycling-idJPKBN2EV0ES"/>
-        <updated>2021-07-25T15:28:46.000Z</updated>
-        <summary type="html"><![CDATA[［小山町（静岡県）　２５日　ロイター］ - 東京五輪は２５日の女子自転車ロードレースで、数学の研究を本職とするオーストリアのアナ・キーゼンホファーが初めての出場で金メダルを獲得した。プロの自転車選手ではないキーゼンホファーはコーチやスタッフをつけず、自身でトレーニングや食事を管理している。 キーゼン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京五輪2020・ロードレースの向こうに映し出された日本の景色 - Togetter]]></title>
         <id>https://togetter.com/li/1749895</id>
         <link href="https://togetter.com/li/1749895"/>
@@ -291,16 +301,6 @@
         <link href="https://note.com/yontengop/n/ne3db96c946d0"/>
         <updated>2021-07-25T12:12:24.000Z</updated>
         <summary type="html"><![CDATA[「えぇーッ!?」である。 先日とある機会があって、お仕事現場の20代の若手社員さんとお話する機会があったのだが、何かの折に、このnoteのタイトルにある発言が出てきた。 「ホント、可能な限り僕らは社内での存在価値？みたいのを低くしておきたいんですよ」 思わず真顔で聞いてしまった。 「な、なんで…？？」 存在価...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本多議員意見書による深刻な告発、あるいは立憲民主党を存亡の危機から救う唯一の方法について｜馬の眼　ishtarist｜note]]></title>
-        <id>https://note.com/ishtarist/n/na1ffe70feb6a</id>
-        <link href="https://note.com/ishtarist/n/na1ffe70feb6a"/>
-        <updated>2021-07-25T06:52:58.000Z</updated>
-        <summary type="html"><![CDATA[立憲民主党の「性犯罪刑法改正に関するワーキングチーム」で、「５０歳近くの自分が１４歳の子と性交したら、たとえ同意があっても捕まることになる。それはおかしい」と本多平直衆院議員が発言したとされる問題についての続報です。 ご存じの方も多いと思いますが、7月23日、本多議員から反論とも言うべき、意見書（PDF...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

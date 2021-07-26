@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T14:11:08.368Z</id>
+    <id>urn:2021-07-26T15:13:58.867Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T14:11:08.368Z</updated>
+    <updated>2021-07-26T15:13:58.867Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[オリンピック 水谷・伊藤ぺア 卓球で初の金メダル | 卓球 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html"/>
+        <updated>2021-07-26T13:28:21.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック、卓球の新種目、混合ダブルスの決勝で水谷隼選手と伊藤美誠選手のペアが中国のペアに勝って金メダルを獲得しました。 日本が卓球で金メダルを獲得したのは初めてです。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「日本の組織委員会は嘘をついた」猛暑下での五輪開催を米メディアが厳しく糾弾！「アスリートが代償を支払っている」【東京五輪】（THE DIGEST） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/b89225daea76a27a34468122172b31ec5384b840</id>
@@ -41,6 +51,16 @@
         <link href="https://note.com/meirojin/n/n75ce098a2b7b"/>
         <updated>2021-07-26T08:57:15.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヘミングウェー いちばん似ているのは誰 米でコンテスト | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210726/k10013160821000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210726/k10013160821000.html"/>
+        <updated>2021-07-26T08:47:07.000Z</updated>
+        <summary type="html"><![CDATA[文豪・ヘミングウェーのそっくりさんを決める、毎年恒例のコンテストがアメリカ・フロリダ州で開かれ、白髭を蓄えた男性130人余りが参加しました。 ことしで40周年を迎えるこのコンテストは「老人と海」などで知られる文豪・ヘミングウェーが、1930年代にアメリカ南部フロリダ州のキーウェストに住んでいたことを記念し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京五輪、やはり開催してよかった…「中止」を訴えてきた野党とマスコミの「今後」（髙橋 洋一） | 現代ビジネス | 講談社（1/4）]]></title>
-        <id>https://gendai.ismedia.jp/articles/-/85559</id>
-        <link href="https://gendai.ismedia.jp/articles/-/85559"/>
-        <updated>2021-07-25T23:41:34.000Z</updated>
-        <summary type="html"><![CDATA[7月23日から東京五輪が開幕した。連日の日本選手の活躍に、筆者も大きな感動をもらっている。 ちなみに、本コラムにおいて、筆者は、2ヶ月前、今の五輪時に「もし新たな波が来ても、100万人当たり25～38人程度（全国で3000～4500人程度）だろう」と書いている〈コロナ感染は「あと1ヵ月」でピークアウトする…「波」はワ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[（社説）技能実習は速やかに廃止を: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGKKZO74163610V20C21A7PE8000/</id>
         <link href="https://www.nikkei.com/article/DGKKZO74163610V20C21A7PE8000/"/>
@@ -281,16 +291,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html"/>
         <updated>2021-07-25T21:04:27.000Z</updated>
         <summary type="html"><![CDATA[ガソリンと同じ成分を体内で作る植物プランクトンを海洋研究開発機構の研究グループが北極海で発見し、新たなバイオ燃料の開発につなげられないか注目されています。 海洋研究開発機構の研究船「みらい」が8年前（2013年）に北極海で行った調査で、採取した植物プランクトンを培養して詳しく調べたところ、体内にガソリ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワニウエイブ(@waniwave)とかいうゴミカスの言ってることが的はずれすぎて100日後に五輪が閉幕するレベル - 今日も得る物なしZ]]></title>
-        <id>https://kyoumoe.hatenablog.com/entry/20210726/1627236567</id>
-        <link href="https://kyoumoe.hatenablog.com/entry/20210726/1627236567"/>
-        <updated>2021-07-25T18:26:39.000Z</updated>
-        <summary type="html"><![CDATA[カスと言ってるのは個人攻撃をされたからです。 おそらく読まれてないか文字が苦手だと思うのですが、僕、自分が政治的でないという主張をしてないので……— ワニウエイブ (@waniwave) 2021年7月25日 なので俺もやります、そっちがそういう戦いを選んだんだから受けますよ。 だいたい俺が文字が苦手なんじゃなくてお前が文...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

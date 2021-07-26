@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T06:15:17.407Z</id>
+    <id>urn:2021-07-26T07:10:59.600Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T06:15:17.407Z</updated>
+    <updated>2021-07-26T07:10:59.600Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[オリンピック スケートボード女子 西矢が金 中山が銅 | スケートボード | NHKニュース]]></title>
+        <title type="html"><![CDATA[五輪＝ＩＯＣが日程変更を許可、酷暑と湿度対策で | ロイター]]></title>
+        <id>https://jp.reuters.com/article/sport-tokyo-olympics-heat-idJPKBN2EW0AJ</id>
+        <link href="https://jp.reuters.com/article/sport-tokyo-olympics-heat-idJPKBN2EW0AJ"/>
+        <updated>2021-07-26T04:49:42.000Z</updated>
+        <summary type="html"><![CDATA[ＩＯＣは２５日、酷暑と湿度対策のために、必要であれば東京五輪の競技日程変更を認める意向を示した。写真は試合中にクールダウンする女子テニスのオンス・ジャブール（２０２１年　ロイター） ［東京　２５日　ロイター］ - 国際オリンピック委員会（ＩＯＣ）は２５日、酷暑と湿度対策のために、必要であれば東京五輪...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック スケートボード 西矢が最年少13歳で金 中山が銅 | スケートボード | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210726/k10013160511000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210726/k10013160511000.html"/>
         <updated>2021-07-26T04:35:44.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックの新競技、スケートボードの女子ストリートで13歳の西矢椛選手が金メダルを獲得しました。また16歳の中山楓奈選手が銅メダルを獲得しました。 西矢選手は13歳11か月でのメダル獲得で、1992年のバルセロナ大会で金メダルを獲得した競泳の岩崎恭子さんの14歳0か月を抜いて、日本選手で史上最年少となりま...]]></summary>
+        <summary type="html"><![CDATA[東京オリンピックの新競技、スケートボードの女子ストリートで、13歳の西矢椛選手が金メダルを獲得しました。13歳10か月での金メダル獲得で、1992年のバルセロナ大会で金メダルを獲得した競泳の岩崎恭子さんの14歳0か月を抜いて、日本選手で史上最年少のメダル獲得となりました。 また、16歳の中山楓奈選手が銅メダルを...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olympics: Japan lied about the weather in its Olympic bid]]></title>
+        <id>https://sports.yahoo.com/japan-lied-about-the-weather-and-now-olympians-are-paying-the-price-010612634.html</id>
+        <link href="https://sports.yahoo.com/japan-lied-about-the-weather-and-now-olympians-are-paying-the-price-010612634.html"/>
+        <updated>2021-07-26T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[TOKYO — The finish line of the men’s triathlon Monday morning looked something like a battlefield scene, bodies sprawled out on ground, trainers coming to the aid of overheated athletes, even a few being helped off with their arms draped over shoulders. This despite the Olympics moving the start ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ある街にて若者が起案した「高齢化した町内会の廃止」から考える、町内会は役割を終え滅びを受け入れるしかない？という話 - Togetter]]></title>
+        <id>https://togetter.com/li/1750205</id>
+        <link href="https://togetter.com/li/1750205"/>
+        <updated>2021-07-26T03:35:58.000Z</updated>
+        <summary type="html"><![CDATA[東証一部社長 @tokumei_banzai 近所が揺れている。高齢化した町内会の廃止。若者が起案した。賛成2割で反対が8割。皆現状は変えたくない。しばらく議論を見守ってから折衷案を出す「廃止はしない」「でも脱退は自由にする」。みんな納得する。実は私は隠れ廃止派だ。もうこの町に子供は殆どいない。これで…普通に滅びて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,33 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“愛国芸人”ほんこんが「デマツイート」で訴えられた！ 原告代理人・米山隆一氏が怒り「テレビでは立派なことを言っておられるが…」（SmartFLASH） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/5e669fda86a99c2fd56170b5d5175b3177f78f5b</id>
-        <link href="https://news.yahoo.co.jp/articles/5e669fda86a99c2fd56170b5d5175b3177f78f5b"/>
-        <updated>2021-07-25T21:28:51.000Z</updated>
-        <summary type="html"><![CDATA[「テレビ番組のコメンテーターとして、たいそう立派なことを言っておられるのに……がっかりしました」
-
-　本誌が取材を申し込むと、このように心境を打ち明けたのは、前新潟県知事で弁護士の米山隆一氏（53）]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ガソリンと同じ成分作る植物プランクトン発見 | 環境 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html"/>
         <updated>2021-07-25T21:04:27.000Z</updated>
         <summary type="html"><![CDATA[ガソリンと同じ成分を体内で作る植物プランクトンを海洋研究開発機構の研究グループが北極海で発見し、新たなバイオ燃料の開発につなげられないか注目されています。 海洋研究開発機構の研究船「みらい」が8年前（2013年）に北極海で行った調査で、採取した植物プランクトンを培養して詳しく調べたところ、体内にガソリ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koichi Nakano on Twitter: "だってすでにマスコミは完全に共犯関係じゃないですか。それで市民もオリンピックで盛り上がったねー、ってなって、終わった後に死者数が増えても、政府としては緊急事態宣言出してご協力願ってたんですがどうも皆さんの我慢が足りなくて、って、一億総懺悔の無責任決着狙いますよ。"]]></title>
-        <id>https://twitter.com/knakano1970/status/1419222486718193669</id>
-        <link href="https://twitter.com/knakano1970/status/1419222486718193669"/>
-        <updated>2021-07-25T21:01:07.000Z</updated>
-        <summary type="html"><![CDATA[だってすでにマスコミは完全に共犯関係じゃないですか。それで市民もオリンピックで盛り上がったねー、ってなって、終わった後に死者数が増えても、政府としては緊急事態宣言出してご協力願ってたんですがどうも皆さんの我慢が足りなくて、って、一億総懺悔の無責任決着狙いますよ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -293,16 +301,6 @@
         <link href="https://note.com/ishtarist/n/na1ffe70feb6a"/>
         <updated>2021-07-25T06:52:58.000Z</updated>
         <summary type="html"><![CDATA[立憲民主党の「性犯罪刑法改正に関するワーキングチーム」で、「５０歳近くの自分が１４歳の子と性交したら、たとえ同意があっても捕まることになる。それはおかしい」と本多平直衆院議員が発言したとされる問題についての続報です。 ご存じの方も多いと思いますが、7月23日、本多議員から反論とも言うべき、意見書（PDF...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ on Twitter: "やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk"]]></title>
-        <id>https://twitter.com/t0kri/status/1419077029643755522</id>
-        <link href="https://twitter.com/t0kri/status/1419077029643755522"/>
-        <updated>2021-07-25T03:26:13.000Z</updated>
-        <summary type="html"><![CDATA[やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

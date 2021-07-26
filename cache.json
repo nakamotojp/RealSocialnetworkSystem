@@ -6,13 +6,40 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://jp.reuters.com/article/sport-tokyo-olympics-heat-idJPKBN2EW0AJ",
+          "author": null,
+          "description": "ＩＯＣは２５日、酷暑と湿度対策のために、必要であれば東京五輪の競技日程変更を認める意向を示した。写真は試合中にクールダウンする女子テニスのオンス・ジャブール（２０２１年　ロイター） ［東京　２５日　ロイター］ - 国際オリンピック委員会（ＩＯＣ）は２５日、酷暑と湿度対策のために、必要であれば東京五輪...",
+          "link": "https://jp.reuters.com/article/sport-tokyo-olympics-heat-idJPKBN2EW0AJ",
+          "publishedOn": "2021-07-26T04:49:42.000Z",
+          "wordCount": 24,
+          "title": "五輪＝ＩＯＣが日程変更を許可、酷暑と湿度対策で | ロイター"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210726/k10013160511000.html",
           "author": null,
-          "description": "東京オリンピックの新競技、スケートボードの女子ストリートで13歳の西矢椛選手が金メダルを獲得しました。また16歳の中山楓奈選手が銅メダルを獲得しました。 西矢選手は13歳11か月でのメダル獲得で、1992年のバルセロナ大会で金メダルを獲得した競泳の岩崎恭子さんの14歳0か月を抜いて、日本選手で史上最年少となりま...",
+          "description": "東京オリンピックの新競技、スケートボードの女子ストリートで、13歳の西矢椛選手が金メダルを獲得しました。13歳10か月での金メダル獲得で、1992年のバルセロナ大会で金メダルを獲得した競泳の岩崎恭子さんの14歳0か月を抜いて、日本選手で史上最年少のメダル獲得となりました。 また、16歳の中山楓奈選手が銅メダルを...",
           "link": "https://www3.nhk.or.jp/news/html/20210726/k10013160511000.html",
           "publishedOn": "2021-07-26T04:35:44.000Z",
           "wordCount": 36,
-          "title": "オリンピック スケートボード女子 西矢が金 中山が銅 | スケートボード | NHKニュース"
+          "title": "オリンピック スケートボード 西矢が最年少13歳で金 中山が銅 | スケートボード | NHKニュース"
+        },
+        {
+          "id": "https://sports.yahoo.com/japan-lied-about-the-weather-and-now-olympians-are-paying-the-price-010612634.html",
+          "author": null,
+          "description": "TOKYO — The finish line of the men’s triathlon Monday morning looked something like a battlefield scene, bodies sprawled out on ground, trainers coming to the aid of overheated athletes, even a few being helped off with their arms draped over shoulders. This despite the Olympics moving the start ...",
+          "link": "https://sports.yahoo.com/japan-lied-about-the-weather-and-now-olympians-are-paying-the-price-010612634.html",
+          "publishedOn": "2021-07-26T03:47:00.000Z",
+          "wordCount": 2396,
+          "title": "Olympics: Japan lied about the weather in its Olympic bid"
+        },
+        {
+          "id": "https://togetter.com/li/1750205",
+          "author": null,
+          "description": "東証一部社長 @tokumei_banzai 近所が揺れている。高齢化した町内会の廃止。若者が起案した。賛成2割で反対が8割。皆現状は変えたくない。しばらく議論を見守ってから折衷案を出す「廃止はしない」「でも脱退は自由にする」。みんな納得する。実は私は隠れ廃止派だ。もうこの町に子供は殆どいない。これで…普通に滅びて...",
+          "link": "https://togetter.com/li/1750205",
+          "publishedOn": "2021-07-26T03:35:58.000Z",
+          "wordCount": 954,
+          "title": "ある街にて若者が起案した「高齢化した町内会の廃止」から考える、町内会は役割を終え滅びを受け入れるしかない？という話 - Togetter"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/754c82b7be69567c8ae3b14eb9be07c7b706f076",
@@ -47,7 +74,7 @@
           "description": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる 2021.07.26 Updated by Ryo Shimizu on July 26, 2021, 07:12 am JST 最近のプログラミングの新しい波は微分可能プログラミング(differentiable programming)である。 微分可能プログラミングとは、簡単...",
           "link": "https://wirelesswire.jp/2021/07/80265/",
           "publishedOn": "2021-07-26T01:45:38.000Z",
-          "wordCount": 175,
+          "wordCount": 176,
           "title": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる - WirelessWire News（ワイヤレスワイヤーニュース）"
         },
         {
@@ -65,7 +92,7 @@
           "description": "23日夜にNHK総合で生中継された「東京五輪開会式」（後7・56〜11・51、235分）の平均世帯視聴率は56・4％（ビデオリサーチ調べ、関東地区）だったことが26日、分かった。同じくゴールデン帯（午後7〜10時）で放送がスタートした2008年北京五輪の37・3％（8月8日後8・55、255分、NHK総合）を大きく上回り、前回1964年東京...",
           "link": "https://news.livedoor.com/article/detail/20590732/",
           "publishedOn": "2021-07-26T00:37:43.000Z",
-          "wordCount": 920,
+          "wordCount": 923,
           "title": "東京五輪開会式　56・4％の高視聴率！64年東京五輪の61・2％に迫る　瞬間最高は61・0％ - ライブドアニュース"
         },
         {
@@ -132,15 +159,6 @@
           "title": "（社説）現役世代からの医療費召し上げは限界だ: 日本経済新聞"
         },
         {
-          "id": "https://news.yahoo.co.jp/articles/5e669fda86a99c2fd56170b5d5175b3177f78f5b",
-          "author": null,
-          "description": "「テレビ番組のコメンテーターとして、たいそう立派なことを言っておられるのに……がっかりしました」\n\n　本誌が取材を申し込むと、このように心境を打ち明けたのは、前新潟県知事で弁護士の米山隆一氏（53）",
-          "link": "https://news.yahoo.co.jp/articles/5e669fda86a99c2fd56170b5d5175b3177f78f5b",
-          "publishedOn": "2021-07-25T21:28:51.000Z",
-          "wordCount": 82,
-          "title": "“愛国芸人”ほんこんが「デマツイート」で訴えられた！ 原告代理人・米山隆一氏が怒り「テレビでは立派なことを言っておられるが…」（SmartFLASH） - Yahoo!ニュース"
-        },
-        {
           "id": "https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html",
           "author": null,
           "description": "ガソリンと同じ成分を体内で作る植物プランクトンを海洋研究開発機構の研究グループが北極海で発見し、新たなバイオ燃料の開発につなげられないか注目されています。 海洋研究開発機構の研究船「みらい」が8年前（2013年）に北極海で行った調査で、採取した植物プランクトンを培養して詳しく調べたところ、体内にガソリ...",
@@ -150,21 +168,12 @@
           "title": "ガソリンと同じ成分作る植物プランクトン発見 | 環境 | NHKニュース"
         },
         {
-          "id": "https://twitter.com/knakano1970/status/1419222486718193669",
-          "author": null,
-          "description": "だってすでにマスコミは完全に共犯関係じゃないですか。それで市民もオリンピックで盛り上がったねー、ってなって、終わった後に死者数が増えても、政府としては緊急事態宣言出してご協力願ってたんですがどうも皆さんの我慢が足りなくて、って、一億総懺悔の無責任決着狙いますよ。",
-          "link": "https://twitter.com/knakano1970/status/1419222486718193669",
-          "publishedOn": "2021-07-25T21:01:07.000Z",
-          "wordCount": 196,
-          "title": "Koichi Nakano on Twitter: \"だってすでにマスコミは完全に共犯関係じゃないですか。それで市民もオリンピックで盛り上がったねー、ってなって、終わった後に死者数が増えても、政府としては緊急事態宣言出してご協力願ってたんですがどうも皆さんの我慢が足りなくて、って、一億総懺悔の無責任決着狙いますよ。\""
-        },
-        {
           "id": "https://anond.hatelabo.jp/20200603181732",
           "author": null,
           "description": "うまく説明とか言語化ができないんだけどさ なんか「計算でヒット作品つくってます感」みたいなのが鼻につく感じ、ない？ パプリカとか日常のOP曲とか特にそんな感じがする 漫画で言ったらバクマン。とドクターストーンも同じような匂いを感じる ヒットするのは当然、すべて計算の内ですよ、みたいな 100日後に死ぬワニ...",
           "link": "https://anond.hatelabo.jp/20200603181732",
           "publishedOn": "2021-07-25T20:58:12.000Z",
-          "wordCount": 176,
+          "wordCount": 196,
           "title": "米津玄師とヒャダインが苦手"
         },
         {
@@ -173,7 +182,7 @@
           "description": "カスと言ってるのは個人攻撃をされたからです。 おそらく読まれてないか文字が苦手だと思うのですが、僕、自分が政治的でないという主張をしてないので……— ワニウエイブ (@waniwave) 2021年7月25日 なので俺もやります、そっちがそういう戦いを選んだんだから受けますよ。 だいたい俺が文字が苦手なんじゃなくてお前が文...",
           "link": "https://kyoumoe.hatenablog.com/entry/20210726/1627236567",
           "publishedOn": "2021-07-25T18:26:39.000Z",
-          "wordCount": 300,
+          "wordCount": 306,
           "title": "ワニウエイブ(@waniwave)とかいうゴミカスの言ってることが的はずれすぎて100日後に五輪が閉幕するレベル - 今日も得る物なしZ"
         },
         {
@@ -182,7 +191,7 @@
           "description": "Олимпиада. Мой друг Киврин pic.twitter.com/UsgCoRZTyw — SMIRNOVTАSS (@SMI_TASS) July 24, 2021 🦊源九郎狐@cute_fox_earsうわぁ。 しかもR5。オリンピックのために新調したであろうものが。 2021/07/25 20:32:39 ローレイ@RaleighProスポーツ撮影のプロもミラーレス使う時代よなー 2021/07/25 22:31:30 偽職@purple...",
           "link": "https://kabumatome.doorblog.jp/archives/65983227.html",
           "publishedOn": "2021-07-25T18:01:41.000Z",
-          "wordCount": 941,
+          "wordCount": 998,
           "title": "ソニーのカメラに乗り替えるプロカメラマン、東京2020五輪でも如実に : 市況かぶ全力２階建"
         },
         {
@@ -209,7 +218,7 @@
           "description": "自転車競技のロードレースの放送で再認識させてくれた日本の美しい景色や，ツール・ド・フランスで活躍した有名選手達が日本開催のレースでガチに疾走する様子などに感動する呟きをまとめてみました． 選手名とかルールとかは一旦置いておいて，ロードレースの空撮の魅力などが伝わったら嬉しいです．今なら見逃し配信も...",
           "link": "https://togetter.com/li/1749895",
           "publishedOn": "2021-07-25T14:08:41.000Z",
-          "wordCount": 910,
+          "wordCount": 948,
           "title": "東京五輪2020・ロードレースの向こうに映し出された日本の景色 - Togetter"
         },
         {
@@ -254,7 +263,7 @@
           "description": "問題だらけの東京オリンピック。ゲーム文化に興味も関心もない人たちによって、ゲーム音楽が「使われた」と感じざるを得ない。",
           "link": "https://www.gamespark.jp/article/2021/07/25/110634.html",
           "publishedOn": "2021-07-25T10:31:56.000Z",
-          "wordCount": 199,
+          "wordCount": 200,
           "title": "東京オリンピック開会式への怒りと絶望…ゲームへのリスペクトがない演出とそれをありがたがる人々が許しがたい【コラム】 | Game*Spark - 国内・海外ゲーム情報サイト"
         },
         {
@@ -265,15 +274,6 @@
           "publishedOn": "2021-07-25T06:52:58.000Z",
           "wordCount": 51,
           "title": "本多議員意見書による深刻な告発、あるいは立憲民主党を存亡の危機から救う唯一の方法について｜馬の眼　ishtarist｜note"
-        },
-        {
-          "id": "https://twitter.com/t0kri/status/1419077029643755522",
-          "author": null,
-          "description": "やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk",
-          "link": "https://twitter.com/t0kri/status/1419077029643755522",
-          "publishedOn": "2021-07-25T03:26:13.000Z",
-          "wordCount": 196,
-          "title": "トランプ on Twitter: \"やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk\""
         }
       ]
     }

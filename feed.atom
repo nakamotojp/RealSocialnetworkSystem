@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T15:13:58.867Z</id>
+    <id>urn:2021-07-26T16:18:32.215Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T15:13:58.867Z</updated>
+    <updated>2021-07-26T16:18:32.215Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,17 @@
         <id>https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html"/>
         <updated>2021-07-26T13:28:21.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック、卓球の新種目、混合ダブルスの決勝で水谷隼選手と伊藤美誠選手のペアが中国のペアに勝って金メダルを獲得しました。 日本が卓球で金メダルを獲得したのは初めてです。]]></summary>
+        <summary type="html"><![CDATA[東京オリンピック、卓球の新種目、混合ダブルスの決勝で日本の水谷隼選手と伊藤美誠選手のペアが中国のペアにゲームカウント4対3で勝って金メダルを獲得しました。日本が卓球で金メダルを獲得したのは初めてです。 水谷選手と伊藤選手のペアが26日夜、東京体育館で行われた決勝で対戦したのは、おととしの世界選手権で金...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【特別企画】なぜホビーメディアは「転売」を容認してはいけないのか 転売行為はユーザーとメーカーの幸せな関係を破壊してしまう - HOBBY Watch]]></title>
+        <id>https://hobby.watch.impress.co.jp/docs/special/1340233.html</id>
+        <link href="https://hobby.watch.impress.co.jp/docs/special/1340233.html"/>
+        <updated>2021-07-26T12:36:56.000Z</updated>
+        <summary type="html"><![CDATA[老舗のホビーメディア「ホビージャパン」編集者のSNSでの発言について、株式会社ホビージャパンが、該当者の退職処分をはじめ、担当取締役や編集長も降格処分とするかなり重い処分を行なった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://note.com/kozo_tx/n/nadf615c75414"/>
         <updated>2021-07-26T01:04:15.000Z</updated>
         <summary type="html"><![CDATA[2021年のビットコインの最高値である約700万円から、現在は半値程度にまで落ちました。 2017年12月の最高値から2、3年は下落相場が続き「暗号通貨の冬の時代（クリプト・ウィンター）」と呼ばれましたが、再び「冬の時代」がやってきたのでしょうか？ そんな向かい風を一気に吹き飛ばしたのがNFTゲーム「Axie Infinity（...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京五輪開会式　56・4％の高視聴率！64年東京五輪の61・2％に迫る　瞬間最高は61・0％ - ライブドアニュース]]></title>
-        <id>https://news.livedoor.com/article/detail/20590732/</id>
-        <link href="https://news.livedoor.com/article/detail/20590732/"/>
-        <updated>2021-07-26T00:37:43.000Z</updated>
-        <summary type="html"><![CDATA[23日夜にNHK総合で生中継された「東京五輪開会式」（後7・56〜11・51、235分）の平均世帯視聴率は56・4％（ビデオリサーチ調べ、関東地区）だったことが26日、分かった。同じくゴールデン帯（午後7〜10時）で放送がスタートした2008年北京五輪の37・3％（8月8日後8・55、255分、NHK総合）を大きく上回り、前回1964年東京...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

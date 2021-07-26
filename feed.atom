@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T07:10:59.600Z</id>
+    <id>urn:2021-07-26T08:14:02.415Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T07:10:59.600Z</updated>
+    <updated>2021-07-26T08:14:02.415Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[重要なお知らせ ｜ 株式会社ホビージャパン]]></title>
+        <id>http://hobbyjapan.co.jp/news_release/detail.html?id=6</id>
+        <link href="http://hobbyjapan.co.jp/news_release/detail.html?id=6"/>
+        <updated>2021-07-26T07:34:22.000Z</updated>
+        <summary type="html"><![CDATA[株式会社ホビージャパンの重要なお知らせを掲載しています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五輪＝ＩＯＣが日程変更を許可、酷暑と湿度対策で | ロイター]]></title>
         <id>https://jp.reuters.com/article/sport-tokyo-olympics-heat-idJPKBN2EW0AJ</id>
@@ -21,6 +31,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210726/k10013160511000.html"/>
         <updated>2021-07-26T04:35:44.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの新競技、スケートボードの女子ストリートで、13歳の西矢椛選手が金メダルを獲得しました。13歳10か月での金メダル獲得で、1992年のバルセロナ大会で金メダルを獲得した競泳の岩崎恭子さんの14歳0か月を抜いて、日本選手で史上最年少のメダル獲得となりました。 また、16歳の中山楓奈選手が銅メダルを...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[婚約者がガチャ中毒だったから婚約解消した]]></title>
+        <id>https://anond.hatelabo.jp/20210726131835</id>
+        <link href="https://anond.hatelabo.jp/20210726131835"/>
+        <updated>2021-07-26T04:24:14.000Z</updated>
+        <summary type="html"><![CDATA[俺♂21、相手♀23。 婚約した直後にソシャゲのガチャ中毒で貯金ないのが発覚した。 結婚を機に治ればと思ったがまた翌月に同じことやったから婚約解消を相手両親に告げたらひたすら頭下げてくれたので「じゃあまた翌月の状況次第で」という話になったものの、またやった。 さっき相手両親に婚約解消する旨を告げてきた。 ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +71,16 @@
         <link href="https://news.yahoo.co.jp/articles/754c82b7be69567c8ae3b14eb9be07c7b706f076"/>
         <updated>2021-07-26T03:27:31.000Z</updated>
         <summary type="html"><![CDATA[7月23日に開幕した東京五輪。相次ぐ関係者の辞任劇もあり波乱の中の幕開けとなったが、開会式にも新たな問題が浮上している。それは、作曲家・すぎやまこういち氏（90）の制作した楽曲が使用されたためだ。 すぎやま氏の楽曲が使用されたのは、開会式冒頭部でのこと。そこで彼の手がけた『ドラゴンクエスト』のテーマ曲...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS とAndroidの違い クロスプラットフォームのアプリデザインで特に気をつけるべき点｜marin｜note]]></title>
+        <id>https://note.com/ku_marin/n/n60ebdb19ebd0</id>
+        <link href="https://note.com/ku_marin/n/n60ebdb19ebd0"/>
+        <updated>2021-07-26T02:05:12.000Z</updated>
+        <summary type="html"><![CDATA[私が一番最初にAndroid アプリをデザインしたのが2016年の初夏頃で、その頃はまだiOS・Android とデザインが違うのが主流でしたが、2021年現在のアプリはiOS もAndroid もプラットフォームごとの細かな違いはあれどほぼ同じデザインが主流となっています。 これは2016年の10月にAndroid APIがBottomNavigationView に対...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,36 +271,6 @@
         <link href="https://togetter.com/li/1749895"/>
         <updated>2021-07-25T14:08:41.000Z</updated>
         <summary type="html"><![CDATA[自転車競技のロードレースの放送で再認識させてくれた日本の美しい景色や，ツール・ド・フランスで活躍した有名選手達が日本開催のレースでガチに疾走する様子などに感動する呟きをまとめてみました． 選手名とかルールとかは一旦置いておいて，ロードレースの空撮の魅力などが伝わったら嬉しいです．今なら見逃し配信も...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大人に囲まれ、やらなきゃいけない空気に」「現場から走って逃げてしまった」ネットに“写真”が”半永久”に残る時代、撮影を後悔するグラビアアイドルを生まないためには 【ABEMA TIMES】]]></title>
-        <id>https://times.abema.tv/news-article/8667595</id>
-        <link href="https://times.abema.tv/news-article/8667595"/>
-        <updated>2021-07-25T13:57:58.000Z</updated>
-        <summary type="html"><![CDATA[「大人に囲まれ、やらなきゃいけない空気に」「現場から走って逃げてしまった」ネットに“写真”が”半永久”に残る時代、撮影を後悔するグラビアアイドルを生まないためには。ABEMA TIMES[アベマタイムズ]は「見たい！」がみつかる情報ニュースサイトです。ABEMAの番組を中心に、ニュース映像や面白動画の紹介、著名人のイ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[結局政府が思い描いた未来になってそう]]></title>
-        <id>https://anond.hatelabo.jp/20210725225651</id>
-        <link href="https://anond.hatelabo.jp/20210725225651"/>
-        <updated>2021-07-25T13:57:05.000Z</updated>
-        <summary type="html"><![CDATA[オリンピック興味ない派が、いざ始まったら肯定派に変わってきて、やっぱアホだなって思う。 さっそくどの報道機関もオリンピックを最優先で報道し、コロナは二の次になってきて、洗脳モード入ってきました。 政府が思い描いた通りに、オリンピックが盛り上がった状態が続いて、衆院選もそもまま自民に票が入るんやろ？ ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[akira_you on Twitter: "ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2"]]></title>
-        <id>https://twitter.com/akira_you/status/1419228947766644736</id>
-        <link href="https://twitter.com/akira_you/status/1419228947766644736"/>
-        <updated>2021-07-25T12:54:35.000Z</updated>
-        <summary type="html"><![CDATA[ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

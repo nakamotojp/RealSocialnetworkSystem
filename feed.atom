@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T23:11:27.877Z</id>
+    <id>urn:2021-07-26T00:38:50.760Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T23:11:27.877Z</updated>
+    <updated>2021-07-26T00:38:50.760Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://www.nikkei.com/article/DGKKZO74163610V20C21A7PE8000/"/>
         <updated>2021-07-25T21:56:06.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 人手不足を補うため海外から人材を受け入れるだけ受け入れ、劣悪な労働環境は放置というのでは無責任のそしりを免れない。外国人技能実習制度のことだ。 いっこうに改...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガソリンと同じ成分作る植物プランクトン発見 | 環境 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html"/>
+        <updated>2021-07-25T21:04:27.000Z</updated>
+        <summary type="html"><![CDATA[ガソリンと同じ成分を体内で作る植物プランクトンを海洋研究開発機構の研究グループが北極海で発見し、新たなバイオ燃料の開発につなげられないか注目されています。 海洋研究開発機構の研究船「みらい」が8年前（2013年）に北極海で行った調査で、採取した植物プランクトンを培養して詳しく調べたところ、体内にガソリ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米津玄師とヒャダインが苦手]]></title>
+        <id>https://anond.hatelabo.jp/20200603181732</id>
+        <link href="https://anond.hatelabo.jp/20200603181732"/>
+        <updated>2021-07-25T20:58:12.000Z</updated>
+        <summary type="html"><![CDATA[うまく説明とか言語化ができないんだけどさ なんか「計算でヒット作品つくってます感」みたいなのが鼻につく感じ、ない？ パプリカとか日常のOP曲とか特にそんな感じがする 漫画で言ったらバクマン。とドクターストーンも同じような匂いを感じる ヒットするのは当然、すべて計算の内ですよ、みたいな 100日後に死ぬワニ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -36,11 +56,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[五輪＝自転車女子ロード、オーストリアの数学研究者が金メダル | ロイター]]></title>
+        <id>https://jp.reuters.com/article/tokyo-2020-cycling-idJPKBN2EV0ES</id>
+        <link href="https://jp.reuters.com/article/tokyo-2020-cycling-idJPKBN2EV0ES"/>
+        <updated>2021-07-25T15:28:46.000Z</updated>
+        <summary type="html"><![CDATA[［小山町（静岡県）　２５日　ロイター］ - 東京五輪は２５日の女子自転車ロードレースで、数学の研究を本職とするオーストリアのアナ・キーゼンホファーが初めての出場で金メダルを獲得した。プロの自転車選手ではないキーゼンホファーはコーチやスタッフをつけず、自身でトレーニングや食事を管理している。 キーゼン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京五輪2020・ロードレースの向こうに映し出された日本の景色 - Togetter]]></title>
         <id>https://togetter.com/li/1749895</id>
         <link href="https://togetter.com/li/1749895"/>
         <updated>2021-07-25T14:08:41.000Z</updated>
-        <summary type="html"><![CDATA[自転車競技のロードレースの放送で再認識させてくれた日本の美しい景色やら，ツール・ド・フランスで活躍した有名選手達が日本開催のレースでガチに疾走する様子などに感動する呟きなどをまとめてみました． 選手名とかルールとかは一旦置いておいて，ロードレースの空撮の魅力などが伝わったら嬉しいです．今なら見逃し...]]></summary>
+        <summary type="html"><![CDATA[自転車競技のロードレースの放送で再認識させてくれた日本の美しい景色や，ツール・ド・フランスで活躍した有名選手達が日本開催のレースでガチに疾走する様子などに感動する呟きをまとめてみました． 選手名とかルールとかは一旦置いておいて，ロードレースの空撮の魅力などが伝わったら嬉しいです．今なら見逃し配信も...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -70,7 +100,7 @@
         <id>https://anond.hatelabo.jp/20210725225651</id>
         <link href="https://anond.hatelabo.jp/20210725225651"/>
         <updated>2021-07-25T13:57:05.000Z</updated>
-        <summary type="html"><![CDATA[オリンピック興味ない派が、いざ始まったら肯定派に変わってきて、やっぱアホだなって思う。 さっそくどの報道機関もオリンピックを最優先で報道し、コロナは二の次になってきて、洗脳モード入ってきました。 政府が思い描いた通りに、オリンピックが盛り上がった状態が続いて、衆院選もそもまま自民に票が入るんやろ？]]></summary>
+        <summary type="html"><![CDATA[オリンピック興味ない派が、いざ始まったら肯定派に変わってきて、やっぱアホだなって思う。 さっそくどの報道機関もオリンピックを最優先で報道し、コロナは二の次になってきて、洗脳モード入ってきました。 政府が思い描いた通りに、オリンピックが盛り上がった状態が続いて、衆院選もそもまま自民に票が入るんやろ？ ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -96,11 +126,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[生活困窮者「東京五輪は遠い世界」　食料支援に長い列　東京・豊島＜ルポ コロナ禍のオリンピック＞：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/119239</id>
+        <link href="https://www.tokyo-np.co.jp/article/119239"/>
+        <updated>2021-07-25T12:16:50.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス禍で仕事や住まいを失った人にとって、東京五輪は「遠い世界」だ。開会式翌日の２４日の夜、東京都豊島区の公園では、困窮者を支援するＮＰＯ法人「ＴＥＮＯＨＡＳＩ」が行った食料配布に、４００人近くが列を作った。同法人によると、派遣切りなどが相次いだリーマン・ショック後の２００９年に次ぐ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dai Tamesue 爲末大 on Twitter: "このあたりも選手への負担が大きすぎます。 外国選手ら悩ます連日の猛暑　「試合を夜に」と訴え | 2021/7/25 - 共同通信 https://t.co/EioDe7SGmQ"]]></title>
         <id>https://twitter.com/daijapan/status/1419214638068035585</id>
         <link href="https://twitter.com/daijapan/status/1419214638068035585"/>
         <updated>2021-07-25T12:13:12.000Z</updated>
         <summary type="html"><![CDATA[このあたりも選手への負担が大きすぎます。 外国選手ら悩ます連日の猛暑　「試合を夜に」と訴え | 2021/7/25 - 共同通信 https://t.co/EioDe7SGmQ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『会社内での自分の存在価値を可能な限り低く保っていたい』という若手｜よんてんごP｜note]]></title>
+        <id>https://note.com/yontengop/n/ne3db96c946d0</id>
+        <link href="https://note.com/yontengop/n/ne3db96c946d0"/>
+        <updated>2021-07-25T12:12:24.000Z</updated>
+        <summary type="html"><![CDATA[「えぇーッ!?」である。 先日とある機会があって、お仕事現場の20代の若手社員さんとお話する機会があったのだが、何かの折に、このnoteのタイトルにある発言が出てきた。 「ホント、可能な限り僕らは社内での存在価値？みたいのを低くしておきたいんですよ」 思わず真顔で聞いてしまった。 「な、なんで…？？」 存在価...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,6 +176,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[クソデカ羅生門 on Twitter: "かつて玩具屋さんで働いてた身から言わせてもらえば、確かに売上的には問題無いんだよ。例えば10人に売る商品を1人だけに全部売って、その1人から10人分のお代を頂いてるんだから。 でも、この場合店舗は1人のお客さんにしか満足を与えら… https://t.co/dE4sGttu5l"]]></title>
+        <id>https://twitter.com/superweapon782/status/1419149116651671559</id>
+        <link href="https://twitter.com/superweapon782/status/1419149116651671559"/>
+        <updated>2021-07-25T11:06:12.000Z</updated>
+        <summary type="html"><![CDATA[かつて玩具屋さんで働いてた身から言わせてもらえば、確かに売上的には問題無いんだよ。例えば10人に売る商品を1人だけに全部売って、その1人から10人分のお代を頂いてるんだから。 でも、この場合店舗は1人のお客さんにしか満足を与えら… https://t.co/dE4sGttu5l]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京オリンピック開会式への怒りと絶望…ゲームへのリスペクトがない演出とそれをありがたがる人々が許しがたい【コラム】 | Game*Spark - 国内・海外ゲーム情報サイト]]></title>
         <id>https://www.gamespark.jp/article/2021/07/25/110634.html</id>
         <link href="https://www.gamespark.jp/article/2021/07/25/110634.html"/>
@@ -136,31 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[オリンピック 柔道 阿部一二三が金メダル きょうだいで金は初 | 柔道 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210725/k10013159581000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210725/k10013159581000.html"/>
-        <updated>2021-07-25T10:31:38.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック、柔道男子66キロ級で、阿部一二三選手が金メダルを獲得しました。女子52キロ級、妹の阿部詩選手と柔道では史上初めて、同じ大会できょうだいでの金メダル獲得です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京五輪開会式の米国での視聴者数、ソウル五輪以降で最低とNBCが公表：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/119226</id>
-        <link href="https://www.tokyo-np.co.jp/article/119226"/>
-        <updated>2021-07-25T10:31:10.000Z</updated>
-        <summary type="html"><![CDATA[【ワシントン＝吉田通夫】東京五輪の米国向け放送権を持つＮＢＣは２４日、開会式の視聴者数は速報値で約１７００万人だったと明らかにした。夏季五輪の開会式の米国内の視聴者数としては、日本と同様に厳しい時差のあった１９８８年のソウル五輪を下回り、少なくとも過去３３年で最低だった。 ドイツのデータ会社スタテ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 蓮舫 「五輪参加選手への応援と五輪辞めろは別です！今すぐ五輪やめろ！」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009439.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009439.html"/>
-        <updated>2021-07-25T09:55:35.000Z</updated>
-        <summary type="html"><![CDATA[蓮舫 「五輪参加選手への応援と五輪辞めろは別です！今すぐ五輪やめろ！」 1 名前：サビイロネコ(茸) [US]：2021/07/25(日) 16:15:24.17 ID:/E76iRmp0 五輪で健闘された選手へのTweetに「反対してたのに」と言う反応がありますが、選手への応援と政府の危機管理体制への姿勢は別です。 感染拡大の最中、今でもこの東京五...]]></summary>
+        <title type="html"><![CDATA[簡単操作で自分専用Wikiを構築できるMarkdownエディタ「Obsidian」のモバイル版を使ってみた - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210725-obsidian-mobile/</id>
+        <link href="https://gigazine.net/news/20210725-obsidian-mobile/"/>
+        <updated>2021-07-25T10:10:17.000Z</updated>
+        <summary type="html"><![CDATA[基本無料のMarkdownエディタ「Obsidian」では、Markdown形式で見やすいノートを記述し、ノート同士にリンクを張ることで自分専用のWikiを構築することができます。そんなObsidianのモバイル版が2021年7月12日に登場したので、実際に使って機能を確かめてみました。 Mobile apps - Obsidian https://obsidian.md/mobile O...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,26 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ロージナ茶会 / 旭霜 on Twitter: "若い人たちの答案の件。言論表現の自由は十分達成されており、現在は過度な言論表現の自由のために害悪すら発生しているので、法律にしたがって言論を適正な範囲に規制するべきだ。という答案があり、私の講義の無力さを痛感している。"]]></title>
-        <id>https://twitter.com/RodinaTP/status/1419187120292339716</id>
-        <link href="https://twitter.com/RodinaTP/status/1419187120292339716"/>
-        <updated>2021-07-25T08:35:52.000Z</updated>
-        <summary type="html"><![CDATA[若い人たちの答案の件。言論表現の自由は十分達成されており、現在は過度な言論表現の自由のために害悪すら発生しているので、法律にしたがって言論を適正な範囲に規制するべきだ。という答案があり、私の講義の無力さを痛感している。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 1763人感染確認 日曜日では過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210725/k10013158941000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210725/k10013158941000.html"/>
-        <updated>2021-07-25T07:48:14.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では25日、10歳未満から100歳以上までの男女1763人が新たに新型コロナウイルスに感染していることが確認されました。1週間前の日曜日（18日）より755人増え、日曜日としてはこれまでで最も多くなりました。1日の感染確認が1000人を超えるのはこれで6日連続です。 25日までの7日間平均は1453.6人で、前週の136.1...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[本多議員意見書による深刻な告発、あるいは立憲民主党を存亡の危機から救う唯一の方法について｜馬の眼　ishtarist｜note]]></title>
         <id>https://note.com/ishtarist/n/na1ffe70feb6a</id>
         <link href="https://note.com/ishtarist/n/na1ffe70feb6a"/>
@@ -221,16 +241,6 @@
         <link href="https://anond.hatelabo.jp/20210725153418"/>
         <updated>2021-07-25T06:41:29.000Z</updated>
         <summary type="html"><![CDATA[オリンピックは開催されて嬉しい方の人間です。 今は家族で家で楽しく応援しています。 無観客だから懸念されるような事態もなく、選手も頑張ってる。 それなのにブコメを見ればネガコメばかり。 前に、「選手に石投げたい気分」とか言ってるブコメに★がついてるの見て一気に不快になった。 こんなコメント書くやつも★い...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相が国賓級のおもてなしでワクチン前倒し要請もファイザーは“スルー”「野党のせい」と恨み節〈dot.〉（AERA dot.） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/a1c2721a61d57c1b4154fbe4c2fec902d576b112</id>
-        <link href="https://news.yahoo.co.jp/articles/a1c2721a61d57c1b4154fbe4c2fec902d576b112"/>
-        <updated>2021-07-25T05:54:38.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は東京オリンピックの開会式（7月23日）にあわせて来日した10を超える国や機関、企業のトップらと会談し、3日間のマラソン外交を終えた。 【写真】二階幹事長が推すポスト菅の大穴はこの人 中でも東京・元赤坂の迎賓館に招くという国賓級のおもてなしで迎えたのは、新型コロナウイルスワクチンを世界に供給す...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://note.com/makaibito/n/n9c582564b5ab"/>
         <updated>2021-07-25T01:08:56.000Z</updated>
         <summary type="html"><![CDATA[これまで未経験エンジニアに関する包囲網についてお話をしてきました。このお話は非常によく読んで頂いておりまして、本noteでも2番目のPVになっております。 未経験エンジニア、世間的には駆け出しエンジニアなどとも呼ばれていますが、こちらの状況が徐々に変わってきました。それが今回お話をする未経験フリーランス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release v5.2.1 · IBM/plex · GitHub]]></title>
-        <id>https://github.com/IBM/plex/releases/tag/v5.2.1</id>
-        <link href="https://github.com/IBM/plex/releases/tag/v5.2.1"/>
-        <updated>2021-07-25T00:51:59.000Z</updated>
-        <summary type="html"><![CDATA[IBM Plex Sans JP Added CSS stylesheets: css/ibm-plex-sans-jp.css and css/ibm-plex-sans-jp.min.css Sass entrypoint: scss/sans-jp/index.scss The upcoming major release will make chosing specific font-weights and languages easier for developers. Until then, enjoy IBM Plex Sans JP!]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

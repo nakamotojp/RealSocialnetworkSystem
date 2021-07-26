@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T04:16:33.285Z</id>
+    <id>urn:2021-07-26T05:10:22.952Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T04:16:33.285Z</updated>
+    <updated>2021-07-26T05:10:22.952Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://card-media.money.rakuten.co.jp/articles/2021/07/26/01/"/>
         <updated>2021-07-26T02:00:09.000Z</updated>
         <summary type="html"><![CDATA[楽天カードをお得に使いこなすコツを紹介する記事です。コツをつかめば楽天カードで楽天ポイントを効率的に貯められます。楽天のサービスやキャンペーンを活用するのはもちろん、さまざまな支払いに楽天カードを利用してポイントを上手く貯めましょう。 こんにちは。ライターの斎藤充博です。みなさんは楽天カードを持っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現役ＦＰの私がおすすめするお金の勉強ができるおすすめ本30冊]]></title>
+        <id>https://fpbank.co.jp/column/financialplanner-recommended-studymoney</id>
+        <link href="https://fpbank.co.jp/column/financialplanner-recommended-studymoney"/>
+        <updated>2021-07-26T02:00:09.000Z</updated>
+        <summary type="html"><![CDATA[あなたは「お金の勉強をしたい」と思ってこちらの記事をご覧いただいていると思います。とはいえ、いざ勉強しようにも「どれから手をつけたらいいの」となって、結局は手つかずになってしまったり、「なんかめんどくさいなあ」と思って後回しにしがちになってしまって・・という方も多いのではないでしょうか。また最近...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる - WirelessWire News（ワイヤレスワイヤーニュース）]]></title>
+        <id>https://wirelesswire.jp/2021/07/80265/</id>
+        <link href="https://wirelesswire.jp/2021/07/80265/"/>
+        <updated>2021-07-26T01:45:38.000Z</updated>
+        <summary type="html"><![CDATA[「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる 2021.07.26 Updated by Ryo Shimizu on July 26, 2021, 07:12 am JST 最近のプログラミングの新しい波は微分可能プログラミング(differentiable programming)である。 微分可能プログラミングとは、簡単...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,6 +111,18 @@
         <link href="https://www.nikkei.com/article/DGKKZO74163590V20C21A7PE8000/"/>
         <updated>2021-07-25T21:53:27.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 75歳以上の後期高齢者が入る医療制度（後期制度）に対し、現役世代の加入者を中心とする企業の健康保険組合などが負担する支援金が一段と膨張した。 今後、団塊世代の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“愛国芸人”ほんこんが「デマツイート」で訴えられた！ 原告代理人・米山隆一氏が怒り「テレビでは立派なことを言っておられるが…」（SmartFLASH） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/5e669fda86a99c2fd56170b5d5175b3177f78f5b</id>
+        <link href="https://news.yahoo.co.jp/articles/5e669fda86a99c2fd56170b5d5175b3177f78f5b"/>
+        <updated>2021-07-25T21:28:51.000Z</updated>
+        <summary type="html"><![CDATA[「テレビ番組のコメンテーターとして、たいそう立派なことを言っておられるのに……がっかりしました」
+
+　本誌が取材を申し込むと、このように心境を打ち明けたのは、前新潟県知事で弁護士の米山隆一氏（53）]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +218,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小山田圭吾氏を起点とする一連の出来事について / TVOD - TVOD]]></title>
-        <id>https://tvod.hatenablog.com/entry/2021/07/25/225836</id>
-        <link href="https://tvod.hatenablog.com/entry/2021/07/25/225836"/>
-        <updated>2021-07-25T14:04:58.000Z</updated>
-        <summary type="html"><![CDATA[コメカ　小山田圭吾のことについて話したいと思います。正直言ってぼくはまだ非常に混乱していて、自分でも整理がついていません。ただ、これまで自分なりにサブカルチャー批評をやってきて、コーネリアスやフリッパーズ・ギターにも何度も言及し、肯定的に評価もしてきた。TVODの『ポスト・サブカル焼け跡派』でも、フ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「大人に囲まれ、やらなきゃいけない空気に」「現場から走って逃げてしまった」ネットに“写真”が”半永久”に残る時代、撮影を後悔するグラビアアイドルを生まないためには 【ABEMA TIMES】]]></title>
         <id>https://times.abema.tv/news-article/8667595</id>
         <link href="https://times.abema.tv/news-article/8667595"/>
@@ -216,31 +238,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[会社員やることで「社会のルールを知れること」の良さはもっときちんと広められるべきだ｜TAKASU Masakazu｜note]]></title>
-        <id>https://note.com/takasu/n/nd94c48c0b26a</id>
-        <link href="https://note.com/takasu/n/nd94c48c0b26a"/>
-        <updated>2021-07-25T13:10:55.000Z</updated>
-        <summary type="html"><![CDATA[僕の友達は　@ochyai @GOROman @etsuko_ichihara 等やりたいことを仕事にしてる人も多いけど、ほぼ全員が会社員やプロ研究者からの独立組。 楽してたくさん稼ぐ話、マジ騙された話以外まったく聞かないので、会社大事 未経験フリーランスを席捲する「カジュアルな情報商材」https://t.co/eHkJYRlsH8 — 高須正和@NT深圳コ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[akira_you on Twitter: "ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2"]]></title>
         <id>https://twitter.com/akira_you/status/1419228947766644736</id>
         <link href="https://twitter.com/akira_you/status/1419228947766644736"/>
         <updated>2021-07-25T12:54:35.000Z</updated>
         <summary type="html"><![CDATA[ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dai Tamesue 爲末大 on Twitter: "このあたりも選手への負担が大きすぎます。 外国選手ら悩ます連日の猛暑　「試合を夜に」と訴え | 2021/7/25 - 共同通信 https://t.co/EioDe7SGmQ"]]></title>
-        <id>https://twitter.com/daijapan/status/1419214638068035585</id>
-        <link href="https://twitter.com/daijapan/status/1419214638068035585"/>
-        <updated>2021-07-25T12:13:12.000Z</updated>
-        <summary type="html"><![CDATA[このあたりも選手への負担が大きすぎます。 外国選手ら悩ます連日の猛暑　「試合を夜に」と訴え | 2021/7/25 - 共同通信 https://t.co/EioDe7SGmQ]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

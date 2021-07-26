@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T19:09:28.102Z</id>
+    <id>urn:2021-07-26T20:11:59.358Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T19:09:28.102Z</updated>
+    <updated>2021-07-26T20:11:59.358Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://news.denfaminicogamer.jp/kikakuthetower/210726z"/>
         <updated>2021-07-26T10:36:04.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック開会式でのゲーム音楽の使用にまつわる議論から、現代における社会の分断について考える──インターネットは民主主義の敵なのか？ 東京オリンピックの開会式の入場曲に、『ドラゴンクエスト』や『ファイナルファンタジー』をはじめとするゲーム音楽が使用されたことについて、ネットではその是非を巡って...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[おっさんたちってどのくらい体ボロボロ？]]></title>
+        <id>https://anond.hatelabo.jp/20210705132234</id>
+        <link href="https://anond.hatelabo.jp/20210705132234"/>
+        <updated>2021-07-26T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[アラフィフにもなると体のガタで病院の世話になるんだけど、 ・胸が痛い→筋肉痛やで ・頭が痛い→ただの肩こりやん みたいなのが続いて、多少のアレコレあっても病院に行かなくて良いんじゃないか？って気がしてきた ３日前から血便だけど、前もこんな事あったし、また勝手に治るだろう そんな感じで今日も頭痛と血便とも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,16 +241,6 @@
         <link href="https://note.com/ku_marin/n/n60ebdb19ebd0"/>
         <updated>2021-07-26T02:05:12.000Z</updated>
         <summary type="html"><![CDATA[私が一番最初にAndroid アプリをデザインしたのが2016年の初夏頃で、その頃はまだiOS・Android とデザインが違うのが主流でしたが、2021年現在のアプリはiOS もAndroid もプラットフォームごとの細かな違いはあれどほぼ同じデザインが主流となっています。 これは2016年の10月にAndroid APIがBottomNavigationView に対...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“なんとなく”楽天カードを使っている僕が、ポイ活のプロに疑問をぶつけてきた話（斎藤充博）]]></title>
-        <id>https://card-media.money.rakuten.co.jp/articles/2021/07/26/01/</id>
-        <link href="https://card-media.money.rakuten.co.jp/articles/2021/07/26/01/"/>
-        <updated>2021-07-26T02:00:09.000Z</updated>
-        <summary type="html"><![CDATA[楽天カードをお得に使いこなすコツを紹介する記事です。コツをつかめば楽天カードで楽天ポイントを効率的に貯められます。楽天のサービスやキャンペーンを活用するのはもちろん、さまざまな支払いに楽天カードを利用してポイントを上手く貯めましょう。 こんにちは。ライターの斎藤充博です。みなさんは楽天カードを持っ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

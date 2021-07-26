@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T01:58:31.207Z</id>
+    <id>urn:2021-07-26T02:31:06.158Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T01:58:31.207Z</updated>
+    <updated>2021-07-26T02:31:06.158Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京五輪開会式　56・4％の高視聴率！64年東京五輪の61・2％に迫る　瞬間最高は61・0％ - ライブドアニュース]]></title>
+        <id>https://news.livedoor.com/article/detail/20590732/</id>
+        <link href="https://news.livedoor.com/article/detail/20590732/"/>
+        <updated>2021-07-26T00:37:43.000Z</updated>
+        <summary type="html"><![CDATA[23日夜にNHK総合で生中継された「東京五輪開会式」（後7・56〜11・51、235分）の平均世帯視聴率は56・4％（ビデオリサーチ調べ、関東地区）だったことが26日、分かった。同じくゴールデン帯（午後7〜10時）で放送がスタートした2008年北京五輪の37・3％（8月8日後8・55、255分、NHK総合）を大きく上回り、前回1964年東京...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソフトウェアエンジニア、家を買う - hichihara note]]></title>
         <id>https://hichihara.hatenablog.com/entry/2021/07/26/070000</id>
         <link href="https://hichihara.hatenablog.com/entry/2021/07/26/070000"/>
         <updated>2021-07-25T23:55:41.000Z</updated>
         <summary type="html"><![CDATA[最高の夏を迎える中庭 前回の記事投稿からだいぶあいていますが、あいかわらずGAFAではない会社でソフトウェアエンジニアをしています。今回は最近の個人的な大仕事であった家を買った話を書きます。ちなみにこの記事にソフトウェアエンジニア要素はほぼないので釣りタイトルになります、ただプロダクト設計やプロジェク...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪、やはり開催してよかった…「中止」を訴えてきた野党とマスコミの「今後」（髙橋 洋一） | 現代ビジネス | 講談社（1/4）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/85559</id>
+        <link href="https://gendai.ismedia.jp/articles/-/85559"/>
+        <updated>2021-07-25T23:41:34.000Z</updated>
+        <summary type="html"><![CDATA[7月23日から東京五輪が開幕した。連日の日本選手の活躍に、筆者も大きな感動をもらっている。 ちなみに、本コラムにおいて、筆者は、2ヶ月前、今の五輪時に「もし新たな波が来ても、100万人当たり25～38人程度（全国で3000～4500人程度）だろう」と書いている〈コロナ感染は「あと1ヵ月」でピークアウトする…「波」はワ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孫正義を「孫ちゃん」と呼ぶ…ソフトバンク取締役「72歳天才女性投資家」のスゴすぎる正体（週刊現代） | マネー現代 | 講談社（1/8）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/85435</id>
+        <link href="https://gendai.ismedia.jp/articles/-/85435"/>
+        <updated>2021-07-25T22:44:15.000Z</updated>
+        <summary type="html"><![CDATA[孫正義を「ちゃん」付け 「孫さんは20代から神童や天才と呼ばれていましたけど、とても緻密なところと幼いところを合わせ持った人。だから可愛いと思っていて『孫ちゃん』と呼んでいました」 今年72歳になるその女性は、みなとみらいの一等地に建つ自社ビルの応接室に早足で入るなり、身振りを交えながらやや早口で語り...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪選手への誹謗中傷　警視庁「被害届出れば対応」（テレビ朝日系（ANN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/e05747c42d199ee66e5e5760f9044c1c2dc11856</id>
-        <link href="https://news.yahoo.co.jp/articles/e05747c42d199ee66e5e5760f9044c1c2dc11856"/>
-        <updated>2021-07-25T12:01:05.000Z</updated>
-        <summary type="html"><![CDATA[オリンピックの選手に対する誹謗（ひぼう）中傷について、警視庁は被害届が出れば対応する方針を示しました。 東京オリンピックが始まり、主に敗退した選手らを誹謗中傷するような書き込みがインターネットやSNS上に増えています。 警視庁はこうした誹謗中傷について、本人から被害届が出れば警察として真摯に対応する方...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[内閣支持率、最低の34%　接種計画「順調でない」65%: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUA202MF0Q1A720C2000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOUA202MF0Q1A720C2000000/"/>
@@ -256,31 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[オリンピックではてブ民が嫌いになった]]></title>
-        <id>https://anond.hatelabo.jp/20210725153418</id>
-        <link href="https://anond.hatelabo.jp/20210725153418"/>
-        <updated>2021-07-25T06:41:29.000Z</updated>
-        <summary type="html"><![CDATA[オリンピックは開催されて嬉しい方の人間です。 今は家族で家で楽しく応援しています。 無観客だから懸念されるような事態もなく、選手も頑張ってる。 それなのにブコメを見ればネガコメばかり。 前に、「選手に石投げたい気分」とか言ってるブコメに★がついてるの見て一気に不快になった。 こんなコメント書くやつも★い...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#オリンピック 2日目 #自転車ロード が教えてくれた #TOKYO2020 は「SNS五輪」｜西原雄一｜note]]></title>
         <id>https://note.com/nishi19/n/nfc27019a0d3d</id>
         <link href="https://note.com/nishi19/n/nfc27019a0d3d"/>
         <updated>2021-07-25T05:49:44.000Z</updated>
         <summary type="html"><![CDATA[オリンピック2日目に予想外の盛り上がりをみせた競技があります。それは男子自転車ロード。 10時過ぎに武蔵野の森公園をスタートし、17時過ぎに富士スピードウェイまで走る長丁場のレースは、TVでは放送されず、gorin.jpで英語実況のみで放送。日本人選手にメダル獲得もなかったのですが、Twitterでは大きな盛り上がりを...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流れで言えば「Dr.STONE」も連載中止にするべき]]></title>
-        <id>https://anond.hatelabo.jp/20210725130430</id>
-        <link href="https://anond.hatelabo.jp/20210725130430"/>
-        <updated>2021-07-25T04:09:45.000Z</updated>
-        <summary type="html"><![CDATA[「Dr.STONE」といえば科学監修の名目で毎回名前がクレジットされている「くられ」氏ですが、この「くられ」氏も90年代は鬼畜系カルチャーでならした人物です。 しかしこの「くられ」氏はいじめや差別ネタなんてレベルじゃございませんでした。 実際にこの人が作った本で本物の爆弾テロリストを生んでるんですよ。 「くら...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

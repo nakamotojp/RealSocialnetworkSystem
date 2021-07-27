@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T04:18:06.406Z</id>
+    <id>urn:2021-07-27T05:10:45.896Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T04:18:06.406Z</updated>
+    <updated>2021-07-27T05:10:45.896Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://twitter.com/inosenaoki/status/1189945892570140674"/>
         <updated>2021-07-27T03:26:46.000Z</updated>
         <summary type="html"><![CDATA[⑦東京大会の立候補ファイルに「温暖でアスリートに最適」などとなぜ書いたのか、と。 　あたりまえではないか。日本の気候は熱帯ではなく温帯なのだから。事情はイスタンブールもマドリードも変わりない。温帯で気温は同程度、招致を競っているときわざわざ東京のみ不利な表現を入れるわけがない。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相 雑誌インタビュー「五輪で感染拡大との懸念あたらない」｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4323986.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4323986.html"/>
+        <updated>2021-07-27T02:54:05.000Z</updated>
+        <summary type="html"><![CDATA[菅総理は、２６日に発売された月刊誌のインタビューで、新型コロナワクチンの接種が順調に進んでいるとして、東京オリンピックの成功に改めて自信をのぞかせました。 菅総理は月刊誌「Ｈａｎａｄａ」のインタビューの中で、オリンピック開催について、「専門家の意見や客観的な数値を見て、国民の命と健康を守りながら開...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +41,16 @@
         <link href="https://news.yahoo.co.jp/articles/df9f83665820407b6d1cb14db3a89d34e8beeced"/>
         <updated>2021-07-27T02:06:36.000Z</updated>
         <summary type="html"><![CDATA[【ロンドン時事】讃岐うどんチェーンを展開する丸亀製麺は26日、ロンドン中心部に英国1号店をオープンした。 【写真】株式会社TOKIOは丸亀製麺と共創型の提携 出店済みのロシアを除き、欧州では初の店舗。今後は英国を足掛かりに欧州各地で「UDON（うどん）」の浸透を図る。新型コロナウイルス流行の影響で当初予定して...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30社以上のDXを推進した私が厳選！今、読んで欲しい”DX本”5冊]]></title>
+        <id>https://hiasa.co.jp/godx/dx-book/</id>
+        <link href="https://hiasa.co.jp/godx/dx-book/"/>
+        <updated>2021-07-27T02:00:13.000Z</updated>
+        <summary type="html"><![CDATA[DXコンサルタントの日淺と言います。2019年からDX専門のコンサルティングファームを経営し、これまで30社以上の大小様々なDXプロジェクトを支援しています。 DXという言葉、企業の中で使われだしたのは、2019年頃からでした。それが、コロナショックを経て、テレビCMやネット広告などでも、多くの人が目に触れる機会も増...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[オリンピック 水谷・伊藤ぺア 卓球で初の金メダル | 卓球 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html"/>
-        <updated>2021-07-26T13:28:21.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック、卓球の新種目、混合ダブルスの決勝で日本の水谷隼選手と伊藤美誠選手のペアが中国のペアにゲームカウント4対3で勝って金メダルを獲得しました。日本が卓球で金メダルを獲得したのは初めてです。 水谷選手と伊藤選手のペアが26日夜、東京体育館で行われた決勝で対戦したのは、おととしの世界選手権で金...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[トライアスロン後に嘔吐　暑さや水質…心配の声 - 産経ニュース]]></title>
         <id>https://www.sankei.com/article/20210726-H4D6LLVF75L4XDYA5RHUJTHLMY/</id>
         <link href="https://www.sankei.com/article/20210726-H4D6LLVF75L4XDYA5RHUJTHLMY/"/>
@@ -251,16 +261,6 @@
         <link href="https://www.tokyo-np.co.jp/article/119459"/>
         <updated>2021-07-26T10:54:58.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会が待機期間中の大会関係者に宿泊先から１５分以内の外出を認めていた問題で、批判を受けて「１５分以内」の表示を削除した後も、監督者の帯同なしで外出できる状態にあることが分かった。２６日の野党会合で、内閣官房が公表した外出に関する新たな文面の問題点を野党側が指摘した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10のプロダクトキーを確認する方法 | マイナビニュース]]></title>
-        <id>https://news.mynavi.jp/article/20210726-1930922/</id>
-        <link href="https://news.mynavi.jp/article/20210726-1930922/"/>
-        <updated>2021-07-26T09:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Windows 10のライセンス認証に必要となる「プロダクトキー」は、PCのパッケージや付属するカードに記載されています。こうしたラベルを確認できない場合でも、コマンドプロンプトやPowerShellでプロダクトキーを表示することが可能です。自作PCの場合はフリーソフトの「Windows Product Key View」を使うことで確認でき...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

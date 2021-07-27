@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T12:18:45.475Z</id>
+    <id>urn:2021-07-27T13:18:13.763Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T12:18:45.475Z</updated>
+    <updated>2021-07-27T13:18:13.763Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7月25日掲載のオリンピックに関するコラムにつきまして | Game*Spark - 国内・海外ゲーム情報サイト]]></title>
+        <id>https://www.gamespark.jp/article/2021/07/27/110661.html</id>
+        <link href="https://www.gamespark.jp/article/2021/07/27/110661.html"/>
+        <updated>2021-07-27T11:35:45.000Z</updated>
+        <summary type="html"><![CDATA[日頃よりGame*Sparkをご愛読いただきありがとうございます。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相　東京五輪「人流減っている。中止しない。テレビ観戦を」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210727/k00/00m/010/315000c</id>
@@ -16,11 +26,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪中止「心配ない」　菅首相：時事ドットコム]]></title>
+        <title type="html"><![CDATA[五輪中止「心配ない」　新治療薬、積極活用を確認―菅首相：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021072701071&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021072701071&amp;g=pol"/>
         <updated>2021-07-27T10:02:19.000Z</updated>
-        <summary type="html"><![CDATA[五輪中止「心配ない」　菅首相 2021年07月27日18時42分 菅義偉首相＝２６日、首相官邸 菅義偉首相は２７日、東京都の新型コロナウイルスの新規感染者数が過去最多の２８４８人となる中で東京五輪を中止する選択肢について「人流は減少している。そうした心配はない」と述べ、否定した。 【特集】東京五輪、迷走の８年　...]]></summary>
+        <summary type="html"><![CDATA[五輪中止「心配ない」　新治療薬、積極活用を確認―菅首相 2021年07月27日20時13分 東京都で新型コロナウイルス感染者が２８４８人と過去最多を更新し、記者団の質問に答える菅義偉首相＝２７日午後、首相官邸 菅義偉首相は２７日夕、東京都の新型コロナウイルスの新規感染者数が過去最多の２８４８人となる中、東京五輪...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +51,16 @@
         <link href="https://nordot.app/792684443922792448"/>
         <updated>2021-07-27T09:29:43.000Z</updated>
         <summary type="html"><![CDATA[菅首相は、新型コロナウイルスの感染拡大を受けて東京五輪の中止可能性があるかと問われ、人の流れが減っているとして中止可能性を否定した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立民離党の本多平直衆院議員が議員辞職の意向表明 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210727/k10013163611000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013163611000.html"/>
+        <updated>2021-07-27T08:35:26.000Z</updated>
+        <summary type="html"><![CDATA[性行為への同意を判断できるとみなす年齢に関する発言をめぐって、立憲民主党の本多平直衆議院議員は27日、離党したあと記者会見し、議員辞職する意向を明らかにしました。 立憲民主党の本多議員は、性行為への同意を判断できるとみなす年齢の引き上げを議論していた党の会合で、「50歳近くの自分が14歳の子と性交したら...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -76,11 +96,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都の“発熱相談” 爆発的に感染拡大した第3波を超え最多に | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210727/k10013162771000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013162771000.html"/>
-        <updated>2021-07-27T06:46:12.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染の疑いがある人に医療機関を紹介する東京都の「発熱相談センター」への相談が、これまでで最も多かった第3波を上回りました。相談が増えると感染確認も増える傾向があることから、都は警戒を強めています。 東京都は、かかりつけ医がいない人で発熱など新型コロナウイルスの感染の疑いがある人...]]></summary>
+        <title type="html"><![CDATA[連れていった公園も水族館も遊園地も、今や子どもは覚えていない「夏休みの日々は親の記憶のためにあった」という話 - Togetter]]></title>
+        <id>https://togetter.com/li/1750665</id>
+        <link href="https://togetter.com/li/1750665"/>
+        <updated>2021-07-27T07:03:16.000Z</updated>
+        <summary type="html"><![CDATA[ヲノサトル @wonosatoru 作曲家/音楽家/多摩美術大学教授/明和電機「経理のヲノさん」/ブラックベルベッツ鍵盤奏者など。ご連絡はこちらからどうぞ wonosatoru.com/mail wonosatoru.com ヲノサトル @wonosatoru あれほど連れて行った公園も水族館も遊園地も息子氏は全くおぼえていない。子供のためだから仕方ないやと出...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[これなら払う気になれるはてなブックマークプレミアムプランを考えて]]></title>
-        <id>https://anond.hatelabo.jp/20210727032939</id>
-        <link href="https://anond.hatelabo.jp/20210727032939"/>
-        <updated>2021-07-26T20:25:50.000Z</updated>
-        <summary type="html"><![CDATA[非表示ユーザーがつけたスターを非表示にする 連打対策はされてるが､スター稼ぎっぽい複垢とかは素通りするの消し去りたい お気に入りユーザーのタグで分類できるリスト この人はどういう傾向の記事をブクマしているのか､どういう経緯でお気に入り登録したか知りたい時がある 後で読むの日時付きスヌーズ 〇〇は何日何時...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[池田信夫 on Twitter: "転売屋がまとめて買えば、それは最終的に消費者に売れるんだから同じこと。プラモやってるガキは、この程度の初歩的な論理もわからないのか？ https://t.co/z46szbl27w"]]></title>
         <id>https://twitter.com/ikedanob/status/1419608766849314816</id>
         <link href="https://twitter.com/ikedanob/status/1419608766849314816"/>
@@ -291,16 +301,6 @@
         <link href="https://www.tokyo-np.co.jp/article/119459"/>
         <updated>2021-07-26T10:54:58.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会が待機期間中の大会関係者に宿泊先から１５分以内の外出を認めていた問題で、批判を受けて「１５分以内」の表示を削除した後も、監督者の帯同なしで外出できる状態にあることが分かった。２６日の野党会合で、内閣官房が公表した外出に関する新たな文面の問題点を野党側が指摘した。 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユダヤ人から見た小林賢太郎氏のホロコーストコント(JPN Editon) - Unseen Japan]]></title>
-        <id>https://unseenjapan.com/kobayashi-scandal-jpn-edition/</id>
-        <link href="https://unseenjapan.com/kobayashi-scandal-jpn-edition/"/>
-        <updated>2021-07-25T18:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Articles on Unseen Japan may contain affiliate links from which we earn a commission if you make a purchase. This is a special Japanese-language edition of our news article entitled “Holocaust Joke Lands Olympics Opening Director in Hot Water.” The original English version can be found here. 追記...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

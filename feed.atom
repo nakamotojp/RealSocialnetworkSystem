@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T05:10:45.896Z</id>
+    <id>urn:2021-07-27T06:15:19.090Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T05:10:45.896Z</updated>
+    <updated>2021-07-27T06:15:19.090Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4323986.html"/>
         <updated>2021-07-27T02:54:05.000Z</updated>
         <summary type="html"><![CDATA[菅総理は、２６日に発売された月刊誌のインタビューで、新型コロナワクチンの接種が順調に進んでいるとして、東京オリンピックの成功に改めて自信をのぞかせました。 菅総理は月刊誌「Ｈａｎａｄａ」のインタビューの中で、オリンピック開催について、「専門家の意見や客観的な数値を見て、国民の命と健康を守りながら開...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪＝競泳女子エフィモワ「東京大会はアンフェア」 | ロイター]]></title>
+        <id>https://jp.reuters.com/article/oly-efimova-idJPKBN2EX01Z</id>
+        <link href="https://jp.reuters.com/article/oly-efimova-idJPKBN2EX01Z"/>
+        <updated>2021-07-27T02:52:30.000Z</updated>
+        <summary type="html"><![CDATA[競泳女子のユリア・エフィモワは、複数の選手が棄権を余儀なくされていることを受け、東京五輪はアンフェアな大会だと批判した。２５日に東京で撮影（２０２１年　ロイター/Rob Schumacher-USA TODAY Sports） ［東京　２７日　ロイター］ - 競泳女子のユリア・エフィモワ（２９）は、複数の選手が棄権を余儀なくされて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -111,16 +121,6 @@
         <link href="https://news.yahoo.co.jp/articles/b447c6233ec76d5066f3f22ded2b64f7759682c4"/>
         <updated>2021-07-26T20:56:34.000Z</updated>
         <summary type="html"><![CDATA[無観客での東京オリンピックは早くも中盤戦へ。招致を推進し、リオではマリオに扮した安倍晋三前首相は、開会式への出席を見送り、いっさい姿を見せなかった。 「2020年3月に新型コロナの感染拡大を踏まえ、五輪の1年延期を提案したのは安倍前首相。最後まで見届けるべきという世論も無視した形です」（夕刊紙記者） 五...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ ワクチン配分量 来月後半に1割削減方針 国が撤回 | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210727/k10013161931000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013161931000.html"/>
-        <updated>2021-07-26T20:55:55.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスのワクチンをめぐり、国は一定量の在庫があると見なした自治体に対しては人口に応じて来月後半に配分する量を1割削減する方針でしたが、自治体の反対を受け撤回しました。 国は来月16日からの2週間で全国に供給する1万箱＝1170万回分のファイザーのワクチンのうち8割を人口に応じて割り当てる「基本計...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

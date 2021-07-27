@@ -1,26 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T08:13:44.805Z</id>
+    <id>urn:2021-07-27T09:12:38.191Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T08:13:44.805Z</updated>
+    <updated>2021-07-27T09:12:38.191Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 2848人の感染確認 過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html"/>
-        <updated>2021-07-27T07:15:28.000Z</updated>
-        <summary type="html"><![CDATA[東京都は、27日都内で新たに2848人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の火曜日より1461人増え、過去最多となりました。1日に2000人を超えるのは、第3波のことし1月15日以来で、感染の急拡大に歯止めがかかりません。 一方、都の基準で集計した27日時点の重症の患者は26日より4人...]]></summary>
+        <title type="html"><![CDATA[東京感染者、3000人超見通し　過去最多を更新　新型コロナ（時事通信） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/73bf296eeab28227bcb383e456ad89db547cd5e0</id>
+        <link href="https://news.yahoo.co.jp/articles/73bf296eeab28227bcb383e456ad89db547cd5e0"/>
+        <updated>2021-07-27T07:16:18.000Z</updated>
+        <summary type="html"><![CDATA[東京都内の27日の新型コロナウイルス新規感染者が3000人を超え、過去最多となる見通しとなったことが、関係者の話で分かった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京感染者、３０００人超見通し　過去最多を更新―新型コロナ：時事ドットコム]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 2848人の感染確認 過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html"/>
+        <updated>2021-07-27T07:15:28.000Z</updated>
+        <summary type="html"><![CDATA[東京都は27日、都内で新たに2848人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の火曜日より1461人増え過去最多となりました。1日に2000人を超えるのは第3波のことし1月15日以来で、感染の急拡大に歯止めがかかりません。 一方、都の基準で集計した27日時点の重症の患者は26日より4人増え...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京、新たに２８４８人感染　過去最多を更新―新型コロナ：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021072700854&amp;g=soc</id>
         <link href="https://www.jiji.com/jc/article?k=2021072700854&amp;g=soc"/>
         <updated>2021-07-27T07:07:57.000Z</updated>
-        <summary type="html"><![CDATA[東京感染者、３０００人超見通し　過去最多を更新―新型コロナ 2021年07月27日16時00分 東京都内の２７日の新型コロナウイルス新規感染者が３０００人を超え、過去最多となる見通しとなったことが、関係者の話で分かった。 社会 新型コロナ最新情報 熱海土石流 動物 コメントをする]]></summary>
+        <summary type="html"><![CDATA[東京、新たに２８４８人感染　過去最多を更新―新型コロナ 2021年07月27日17時07分 無観客で行われた東京五輪の開会式当日、国立競技場周辺で記念撮影する人たち＝２３日、東京都新宿区 東京都は２７日、新たに２８４８人の新型コロナウイルスの感染を確認したと発表した。これまでは１月７日の２５２０人が最多だった。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック テニス 大坂なおみ ストレートで敗れ3回戦敗退 | テニス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210727/k10013162811000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013162811000.html"/>
+        <updated>2021-07-27T05:09:09.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック、テニスの女子シングルスは27日、3回戦が行われ、大坂なおみ選手が、ストレート負けでベスト8進出を逃しました。 世界ランキング2位の大坂選手は、ここまでの2試合は相手にサービスゲームをブレークされることなくいずれもストレート勝ちで勝ち上がってきました。 東京 江東区の有明テニスの森で行われ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,21 +156,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[西矢椛＆中山楓奈　「ラスカル」の謎解明「『あらいぐまラスカル』の歌です」― スポニチ Sponichi Annex 芸能]]></title>
-        <id>https://www.sponichi.co.jp/entertainment/news/2021/07/27/kiji/20210727s00041000197000c.html</id>
-        <link href="https://www.sponichi.co.jp/entertainment/news/2021/07/27/kiji/20210727s00041000197000c.html"/>
-        <updated>2021-07-27T00:48:26.000Z</updated>
-        <summary type="html"><![CDATA[西矢椛＆中山楓奈　「ラスカル」の謎解明「『あらいぐまラスカル』の歌です」]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[オリンピック コロナ不安で組織委用意宿泊先変更のバス会社も | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210727/k10013161921000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210727/k10013161921000.html"/>
         <updated>2021-07-26T22:57:09.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックでは選手や関係者を輸送するため全国のバス会社から運転手が集まり、多くが大会組織委員会が用意した施設に宿泊していますが、施設の新型コロナウイルス対策に不安があるという声を受けて宿泊先を変えたバス会社があることが分かりました。 今回の大会では選手や関係者を競技場などに輸送するため、全国...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Python」と「Google Colaboratory」で株価データ分析に挑戦：「Python」×「株価データ」で学ぶデータ分析のいろは（1） - ＠IT]]></title>
+        <id>https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html</id>
+        <link href="https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html"/>
+        <updated>2021-07-26T22:37:15.000Z</updated>
+        <summary type="html"><![CDATA[「Python」と「Google Colaboratory」で株価データ分析に挑戦：「Python」×「株価データ」で学ぶデータ分析のいろは（1） 日々変動する株価データを題材にPythonにおけるデータ分析のいろはを学んでいく本連載。第1回はPythonを実行する環境とデータの前準備について。 はじめに 連載第1回は「Google Colaboratory」でサ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,31 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「日本の組織委員会は嘘をついた」猛暑下での五輪開催を米メディアが厳しく糾弾！「アスリートが代償を支払っている」【東京五輪】（THE DIGEST） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/b89225daea76a27a34468122172b31ec5384b840</id>
-        <link href="https://news.yahoo.co.jp/articles/b89225daea76a27a34468122172b31ec5384b840"/>
-        <updated>2021-07-26T11:43:24.000Z</updated>
-        <summary type="html"><![CDATA[連日熱戦が繰り広げられている東京オリンピックだが、あまりの猛暑に不満を訴えるアスリートが続出している。７月24日には、アーチェリー女子の予選でロシアのスヴェトラーナ・ゴムボエワが暑さで気を失い、2]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[15分以内の外出容認、見直したら「時間が無制限に」　五輪関係者の特例巡り野党が批判：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/119459</id>
         <link href="https://www.tokyo-np.co.jp/article/119459"/>
         <updated>2021-07-26T10:54:58.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会が待機期間中の大会関係者に宿泊先から１５分以内の外出を認めていた問題で、批判を受けて「１５分以内」の表示を削除した後も、監督者の帯同なしで外出できる状態にあることが分かった。２６日の野党会合で、内閣官房が公表した外出に関する新たな文面の問題点を野党側が指摘した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運動が嫌いな私がどうしても東京五輪を許せないわけ｜安田峰俊｜note]]></title>
-        <id>https://note.com/meirojin/n/n75ce098a2b7b</id>
-        <link href="https://note.com/meirojin/n/n75ce098a2b7b"/>
-        <updated>2021-07-26T08:57:15.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T06:15:19.090Z</id>
+    <id>urn:2021-07-27T07:10:51.627Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T06:15:19.090Z</updated>
+    <updated>2021-07-27T07:10:51.627Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://twitter.com/inosenaoki/status/1189945892570140674"/>
         <updated>2021-07-27T03:26:46.000Z</updated>
         <summary type="html"><![CDATA[⑦東京大会の立候補ファイルに「温暖でアスリートに最適」などとなぜ書いたのか、と。 　あたりまえではないか。日本の気候は熱帯ではなく温帯なのだから。事情はイスタンブールもマドリードも変わりない。温帯で気温は同程度、招致を競っているときわざわざ東京のみ不利な表現を入れるわけがない。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】感染急拡大で都がコロナ病床確保を要請 通常診療制限も｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4324097.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4324097.html"/>
+        <updated>2021-07-27T03:09:28.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの新規感染者数が連日１０００人を超え、感染が急拡大していることを受け、東京都が都内の医療機関に対し、通常診療の制限も視野にコロナ病床を確保するよう要請したことがわかりました。 東京都では、７日間平均の新規感染者数がきのう時点で１５００人を超え、入院患者数も、この１か月で倍増するな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック女子ロードレースの奇跡を素人にも分かるよう解説する]]></title>
+        <id>https://anond.hatelabo.jp/20210727115101</id>
+        <link href="https://anond.hatelabo.jp/20210727115101"/>
+        <updated>2021-07-27T02:55:27.000Z</updated>
+        <summary type="html"><![CDATA[7/25(日) 13:00から行われた東京オリンピック 女子ロードレースで奇跡が起こりましたので普段、自転車ロードレースに関心の無い方でも分かるよう解説してみました。 何が起こったのかオーストリアから単独で参加していたプロではない博士号持ちの数学研究者アンナ・キーセンホーファー選手がスタート直後から飛び出し、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html</id>
-        <link href="https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html"/>
-        <updated>2021-07-26T15:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 大手CDNベンダのFastlyは、CDNエッジで提供しているサーバレスコンピューティング環境「Compute@Edge」で、JavaScriptのサポートを発表しました。 JavaScript on Compute@Edge is here. https://t...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[水槽の中の君 - 梅園満 | 少年ジャンプ＋]]></title>
         <id>https://shonenjumpplus.com/episode/3269754496410782544</id>
         <link href="https://shonenjumpplus.com/episode/3269754496410782544"/>
@@ -281,16 +291,6 @@
         <link href="https://twitter.com/hmakihara/status/1419439901548843008"/>
         <updated>2021-07-26T07:01:33.000Z</updated>
         <summary type="html"><![CDATA[高橋洋一先生のコラム。私もオリンピックは開催して良かったと心から思っています。 中止を声高に主張されていた方は今どういうお気持ちなのでしょうか、と少し気になります。 あ、朝日新聞社主催の夏の甲子園大会もやって下さって感謝しています。 https://t.co/H9M6Wudgn2]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22社、52人のデータサイエンティストに聞いてみた！「どんなお仕事してますか？」 | Da-nce]]></title>
-        <id>https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/</id>
-        <link href="https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/"/>
-        <updated>2021-07-26T05:58:12.000Z</updated>
-        <summary type="html"><![CDATA[データ分析とビジネス活用のプロとして、さまざまな業界フィールドで活躍する「データサイエンティスト」。 スキルセットや必要な知識などが語られることはあるものの、まだはっきりとした定義がなく、いったいどんな人たちなのか？と疑問を持つ人も少なくないのでは。 そこで本企画では、企業で働くデータサイエンティ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T16:18:27.145Z</id>
+    <id>urn:2021-07-27T17:18:58.636Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T16:18:27.145Z</updated>
+    <updated>2021-07-27T17:18:58.636Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://www.gamespark.jp/article/2021/07/27/110661.html"/>
         <updated>2021-07-27T11:35:45.000Z</updated>
         <summary type="html"><![CDATA[日頃よりGame*Sparkをご愛読いただきありがとうございます。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪開会式出演依頼をキャンセル…セネガル人音楽家「差別されるとは」　組織委側に抗議：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/119772</id>
+        <link href="https://www.tokyo-np.co.jp/article/119772"/>
+        <updated>2021-07-27T11:32:46.000Z</updated>
+        <summary type="html"><![CDATA[石川県加賀市での大田楽と狂言の公演で、歌と共にパーカッションの演奏を披露したラティールさん＝２０１６年７月（本人提供） 東京五輪の開会式に出演が決まっていた西アフリカ・セネガル出身の打楽器奏者ラティール・シーさん（４８）が今年５月、式典の企画・運営を担った広告代理店から出演を断られていたことが分か...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,6 +266,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[デザインに活かせるフレームワーク20｜金 成奎｜note]]></title>
+        <id>https://note.com/seikei_kin/n/nd26d58dec7ac</id>
+        <link href="https://note.com/seikei_kin/n/nd26d58dec7ac"/>
+        <updated>2021-07-27T02:01:22.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりのnote投稿です。今回は自分の勉強がてら、UX・情報設計・アジャイル開発など、デザインに関わる様々な局面で知っておくと役立つフレームワークを集めてみました。 有名なものからデザイン以外にも使えそうなものまで幅広く選んでいますので、気になるものがあれば改めて実作業に生かすなり、掘り下げて研究する...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[30社以上のDXを推進した私が厳選！今、読んで欲しい”DX本”5冊]]></title>
         <id>https://hiasa.co.jp/godx/dx-book/</id>
         <link href="https://hiasa.co.jp/godx/dx-book/"/>
@@ -271,26 +291,6 @@
         <link href="https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html"/>
         <updated>2021-07-26T22:37:15.000Z</updated>
         <summary type="html"><![CDATA[「Python」と「Google Colaboratory」で株価データ分析に挑戦：「Python」×「株価データ」で学ぶデータ分析のいろは（1） 日々変動する株価データを題材にPythonにおけるデータ分析のいろはを学んでいく本連載。第1回はPythonを実行する環境とデータの前準備について。 はじめに 連載第1回は「Google Colaboratory」でサ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再検証性がある数理モデルが公開されてない 毎週計算方法を変えている ..]]></title>
-        <id>https://anond.hatelabo.jp/20210727071811</id>
-        <link href="https://anond.hatelabo.jp/20210727071811"/>
-        <updated>2021-07-26T22:19:04.000Z</updated>
-        <summary type="html"><![CDATA[再検証性がある数理モデルが公開されてない 毎週計算方法を変えているパラメータは人力抽出この3点はヤバさのハッピーセットなんやが、未だにknoaを有難がろうとしてる連中は、それが分からんのやろなーって思ったわ。 こんなもんをそこそこの理系大学で卒業研究として出そうとしても、担当教授に卒業可能な研究成果とし...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“森案件”の市川海老蔵、小池の“火消しと木遣り”…東京五輪の開会式は「政治利用」の答え合わせがたまらなかった！ | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47374</id>
-        <link href="https://bunshun.jp/articles/-/47374"/>
-        <updated>2021-07-26T21:04:44.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪開会式の当日、こちらの記事が話題を集めていた。 『五輪の闇 想像以上』（東京新聞7月23日） オーバーだなぁ。五輪の闇？　開会式で制作を担当した組織委員会関係者が取材を受けた？　どれどれ。 《現場で1つの演目のストーリーと出演者を固めた後、組織委や都の有力な関係者やJOC（日本オリンピック委員会）サ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

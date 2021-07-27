@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T14:11:01.209Z</id>
+    <id>urn:2021-07-27T15:13:55.456Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T14:11:01.209Z</updated>
+    <updated>2021-07-27T15:13:55.456Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「救急搬送困難事案」が大幅増　コロナ疑いは1.6倍 ｜ 共同通信]]></title>
+        <id>https://nordot.app/792719111059390464</id>
+        <link href="https://nordot.app/792719111059390464"/>
+        <updated>2021-07-27T11:46:08.000Z</updated>
+        <summary type="html"><![CDATA[総務省消防庁は27日、患者の搬送先がすぐに決まらない「救急搬送困難事案」が、19～25日の1週間に全国52の消防で2202件あったと発表した。前週より43％多く、3週連続の増加。このうち37度以上の発熱や呼吸困難などの症状があり、新型コロナウイルス感染が疑われる事案は698件で、前週の1.6倍と大幅に増えた。 東京、大阪...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7月25日掲載のオリンピックに関するコラムにつきまして | Game*Spark - 国内・海外ゲーム情報サイト]]></title>
         <id>https://www.gamespark.jp/article/2021/07/27/110661.html</id>
         <link href="https://www.gamespark.jp/article/2021/07/27/110661.html"/>
         <updated>2021-07-27T11:35:45.000Z</updated>
         <summary type="html"><![CDATA[日頃よりGame*Sparkをご愛読いただきありがとうございます。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相「不要不急の外出控えて」五輪開催継続は“心配ない” | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210727/k10013163971000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013163971000.html"/>
+        <updated>2021-07-27T10:33:35.000Z</updated>
+        <summary type="html"><![CDATA[東京都で過去最多の新型コロナウイルスの感染者が確認される中、菅総理大臣は、強い警戒感をもって、感染防止にあたっていくとして、国民に対し不要不急の外出を控えるよう呼びかけました。東京オリンピックの開催を続けることについて、人の流れは減っており、心配はないという認識を示しました。 東京都内で27日、過去...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -90,7 +110,7 @@
         <id>https://www.jiji.com/jc/article?k=2021072700854&amp;g=soc</id>
         <link href="https://www.jiji.com/jc/article?k=2021072700854&amp;g=soc"/>
         <updated>2021-07-27T07:07:57.000Z</updated>
-        <summary type="html"><![CDATA[東京、新たに２８４８人感染　過去最多を更新―新型コロナ 2021年07月27日17時07分 無観客で行われた東京五輪の開会式当日、国立競技場周辺で記念撮影する人たち＝２３日、東京都新宿区 東京都は２７日、新たに２８４８人の新型コロナウイルスの感染を確認したと発表した。これまでは１月７日の２５２０人が最多だった。 ...]]></summary>
+        <summary type="html"><![CDATA[東京、過去最多２８４８人感染　国内７６２９人、１月以来―新型コロナ 2021年07月27日21時29分 【図解】東京都の新型コロナウイルス新規感染者数 東京都は２７日、新たに２８４８人の新型コロナウイルス感染を確認したと発表した。これまでの最多だった１月７日の２５２０人を３００人超上回った。国内では７６２９人の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安倍晋三前首相、あんなにハシャいでたのに「五輪ツイート」いまだにゼロ（SmartFLASH） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/b447c6233ec76d5066f3f22ded2b64f7759682c4</id>
-        <link href="https://news.yahoo.co.jp/articles/b447c6233ec76d5066f3f22ded2b64f7759682c4"/>
-        <updated>2021-07-26T20:56:34.000Z</updated>
-        <summary type="html"><![CDATA[無観客での東京オリンピックは早くも中盤戦へ。招致を推進し、リオではマリオに扮した安倍晋三前首相は、開会式への出席を見送り、いっさい姿を見せなかった。 「2020年3月に新型コロナの感染拡大を踏まえ、五輪の1年延期を提案したのは安倍前首相。最後まで見届けるべきという世論も無視した形です」（夕刊紙記者） 五...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[池田信夫 on Twitter: "転売屋がまとめて買えば、それは最終的に消費者に売れるんだから同じこと。プラモやってるガキは、この程度の初歩的な論理もわからないのか？ https://t.co/z46szbl27w"]]></title>
         <id>https://twitter.com/ikedanob/status/1419608766849314816</id>
         <link href="https://twitter.com/ikedanob/status/1419608766849314816"/>
@@ -291,16 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210727011453"/>
         <updated>2021-07-26T16:17:22.000Z</updated>
         <summary type="html"><![CDATA[十ーーーーーー分エロいですからーーーーーーーーーーーー！！！！！！！！！！！残念！！！！！！！！！！！！！！！！！ ていうかユニフォームにしたって学校指定水着にしたって丈が長いから全身覆ってるから性的に見られなくなると思ってるの、女ってそこまで単純な生き物なの？ 逆にこっちがナメられてるようで腹立...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15分以内の外出容認、見直したら「時間が無制限に」　五輪関係者の特例巡り野党が批判：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/119459</id>
-        <link href="https://www.tokyo-np.co.jp/article/119459"/>
-        <updated>2021-07-26T10:54:58.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会が待機期間中の大会関係者に宿泊先から１５分以内の外出を認めていた問題で、批判を受けて「１５分以内」の表示を削除した後も、監督者の帯同なしで外出できる状態にあることが分かった。２６日の野党会合で、内閣官房が公表した外出に関する新たな文面の問題点を野党側が指摘した。 ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

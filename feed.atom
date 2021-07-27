@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T11:09:47.236Z</id>
+    <id>urn:2021-07-27T12:18:45.475Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T11:09:47.236Z</updated>
+    <updated>2021-07-27T12:18:45.475Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[菅首相　東京五輪「人流減っている。中止しない。テレビ観戦を」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210727/k00/00m/010/315000c</id>
+        <link href="https://mainichi.jp/articles/20210727/k00/00m/010/315000c"/>
+        <updated>2021-07-27T10:05:51.000Z</updated>
+        <summary type="html"><![CDATA[東京都の新型コロナウイルス新規感染者が2848人で過去最多となったことについて、菅義偉首相は27日、首相官邸で開いた関係閣僚会合後、記者団に「30代以下が約7割を占めている。40代、50代の中で入院が増え、デルタ株の割合も急速に増加している。まずは4連休含め現状分析をしていく。さらに各自治体と連携しながら強い...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪中止「心配ない」　菅首相：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021072701071&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021072701071&amp;g=pol"/>
+        <updated>2021-07-27T10:02:19.000Z</updated>
+        <summary type="html"><![CDATA[五輪中止「心配ない」　菅首相 2021年07月27日18時42分 菅義偉首相＝２６日、首相官邸 菅義偉首相は２７日、東京都の新型コロナウイルスの新規感染者数が過去最多の２８４８人となる中で東京五輪を中止する選択肢について「人流は減少している。そうした心配はない」と述べ、否定した。 【特集】東京五輪、迷走の８年　...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相　五輪「中止の選択肢ない」　東京のコロナ感染、最多の2848人も：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/119736</id>
@@ -60,7 +80,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210727/k10013162771000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210727/k10013162771000.html"/>
         <updated>2021-07-27T06:46:12.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染の疑いがある人に医療機関を紹介する、東京都の「発熱相談センター」への相談が、これまでで最も多かった第3波を上回りました。相談が増えると、感染確認も増える傾向があることから、都は警戒を強めています。 東京都は、かかりつけ医がいない人で発熱など、新型コロナウイルスの感染の疑いが...]]></summary>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染の疑いがある人に医療機関を紹介する東京都の「発熱相談センター」への相談が、これまでで最も多かった第3波を上回りました。相談が増えると感染確認も増える傾向があることから、都は警戒を強めています。 東京都は、かかりつけ医がいない人で発熱など新型コロナウイルスの感染の疑いがある人...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +101,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210727/k10013162571000.html"/>
         <updated>2021-07-27T05:08:00.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックのサーフィンは、台風が接近する中、27日も競技が行われています。大会の運営に関わる地元のサーフィンの経験者は「高くていい波がきている」と前向きにとらえている一方、運営関係者の中からは「中止になると思っていた」と驚きの声も上がっています。 台風8号が東北や関東甲信に接近している中、国際...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レシピ投稿している料理家さんたちが「これ入れたらもっとおいしい」けど「持ってない人多いし代替品でレシピ書いとこ」となっている調味料の話 - Togetter]]></title>
+        <id>https://togetter.com/li/1750650</id>
+        <link href="https://togetter.com/li/1750650"/>
+        <updated>2021-07-27T04:53:35.000Z</updated>
+        <summary type="html"><![CDATA[ジョーさん。(料理研究家) @syokojiro ふだん簡単レシピを投稿してる料理家は、「実はこれ入れたらもっとおいしいんだけどなー」と思いつつ、「持ってない人も多いし、代替品でレシピ書いとこ」ってなってる調味料がけっこうあるので そういう調味料をランキングにして、1位のものを普及させるべくTwitterの料理家みんな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[西矢椛＆中山楓奈　「ラスカル」の謎解明「『あらいぐまラスカル』の歌です」― スポニチ Sponichi Annex 芸能]]></title>
-        <id>https://www.sponichi.co.jp/entertainment/news/2021/07/27/kiji/20210727s00041000197000c.html</id>
-        <link href="https://www.sponichi.co.jp/entertainment/news/2021/07/27/kiji/20210727s00041000197000c.html"/>
-        <updated>2021-07-27T00:48:26.000Z</updated>
-        <summary type="html"><![CDATA[西矢椛＆中山楓奈　「ラスカル」の謎解明「『あらいぐまラスカル』の歌です」]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「Python」と「Google Colaboratory」で株価データ分析に挑戦：「Python」×「株価データ」で学ぶデータ分析のいろは（1） - ＠IT]]></title>
         <id>https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html</id>
         <link href="https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html"/>
@@ -236,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「MPCに礼拝室とハラールフードがない？」について、東京オリンピック・パラリンピック競技大会組織委員会へ事実確認を行いました | Food Diversity.today]]></title>
-        <id>https://fooddiversity.today/article_95626.html</id>
-        <link href="https://fooddiversity.today/article_95626.html"/>
-        <updated>2021-07-26T20:39:47.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック・パラリンピック競技大会組織委員会にご回答頂きました 2021年7月24日に共同通信社から『東京五輪を取材する国内外のメディアの拠点、メインプレスセンター（MPC）に、イスラム教の礼拝室や戒律に従った「ハラル」料理が準備されておらず、ムスリム（イスラム教徒）から不評を買っている。』というニュ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[これなら払う気になれるはてなブックマークプレミアムプランを考えて]]></title>
         <id>https://anond.hatelabo.jp/20210727032939</id>
         <link href="https://anond.hatelabo.jp/20210727032939"/>
         <updated>2021-07-26T20:25:50.000Z</updated>
         <summary type="html"><![CDATA[非表示ユーザーがつけたスターを非表示にする 連打対策はされてるが､スター稼ぎっぽい複垢とかは素通りするの消し去りたい お気に入りユーザーのタグで分類できるリスト この人はどういう傾向の記事をブクマしているのか､どういう経緯でお気に入り登録したか知りたい時がある 後で読むの日時付きスヌーズ 〇〇は何日何時...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ベネチア国際映画祭」湯浅政明監督の「犬王」ノミネート | エンタメ | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210727/k10013161951000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013161951000.html"/>
-        <updated>2021-07-26T20:25:04.000Z</updated>
-        <summary type="html"><![CDATA[ことし9月にイタリアで開幕する世界3大映画祭の1つ「ベネチア国際映画祭」で革新的な作品を集めた「オリゾンティ部門」に湯浅政明監督のアニメ映画「犬王」がノミネートされました。 ベネチア国際映画祭はカンヌ、ベルリンと並ぶ世界3大映画祭の1つで、日本時間の26日夜、主要な部門のノミネート作品が発表されました。 ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

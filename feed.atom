@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T15:13:55.456Z</id>
+    <id>urn:2021-07-27T16:18:27.145Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T15:13:55.456Z</updated>
+    <updated>2021-07-27T16:18:27.145Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,11 +116,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[サイボウズの“駆け出しエンジニア”向け研修資料が話題　Webアプリ開発やIT文化の基礎を無償公開 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/27/news115.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news115.html"/>
+        <updated>2021-07-27T07:04:22.000Z</updated>
+        <summary type="html"><![CDATA[サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の基礎知識などが学べるといい、「初心者（エンジニア）の指針になる」などの声が出ている。 サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[連れていった公園も水族館も遊園地も、今や子どもは覚えていない「夏休みの日々は親の記憶のためにあった」という話 - Togetter]]></title>
         <id>https://togetter.com/li/1750665</id>
         <link href="https://togetter.com/li/1750665"/>
         <updated>2021-07-27T07:03:16.000Z</updated>
         <summary type="html"><![CDATA[ヲノサトル @wonosatoru 作曲家/音楽家/多摩美術大学教授/明和電機「経理のヲノさん」/ブラックベルベッツ鍵盤奏者など。ご連絡はこちらからどうぞ wonosatoru.com/mail wonosatoru.com ヲノサトル @wonosatoru あれほど連れて行った公園も水族館も遊園地も息子氏は全くおぼえていない。子供のためだから仕方ないやと出...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天皇陛下宣言中の菅首相ら不起立問題で組織委が謝罪（日刊スポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c3bfeb6ae2a0383ebf04f45b5b6b2b5515a23198</id>
+        <link href="https://news.yahoo.co.jp/articles/c3bfeb6ae2a0383ebf04f45b5b6b2b5515a23198"/>
+        <updated>2021-07-27T06:43:46.000Z</updated>
+        <summary type="html"><![CDATA[開会式に出席する、右から橋本聖子東京五輪・パラリンピック組織委員会会長、小池百合子東京都知事、菅義偉首相、天皇陛下、IOCトーマス・バッハ会長（21年7月23日撮影） 23日に行われた東京オリンピック（五輪）の開会式で、大会名誉総裁を務める天皇陛下が開会宣言を述べられた際、隣に座っていた菅義偉首相や小池百合...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FS.COMジャパン on Twitter: "@soralis_0912 平素より大変お世話になっております。 お問い合わせありがとうございます。 ソースコードの公開に関しまして、残念ですが、差し控えさせていただきます。 何卒、ご了承いただきますようお願い申し上げます。 https://t.co/JO8xiFYUE3"]]></title>
-        <id>https://twitter.com/FSCOMJapan/status/1419840987107512320</id>
-        <link href="https://twitter.com/FSCOMJapan/status/1419840987107512320"/>
-        <updated>2021-07-27T02:11:55.000Z</updated>
-        <summary type="html"><![CDATA[@soralis_0912 平素より大変お世話になっております。 お問い合わせありがとうございます。 ソースコードの公開に関しまして、残念ですが、差し控えさせていただきます。 何卒、ご了承いただきますようお願い申し上げます。 https://t.co/JO8xiFYUE3]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[丸亀製麺、ロンドン進出　行列100人超、うどん浸透図る（時事通信） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/df9f83665820407b6d1cb14db3a89d34e8beeced</id>
         <link href="https://news.yahoo.co.jp/articles/df9f83665820407b6d1cb14db3a89d34e8beeced"/>
@@ -291,16 +301,6 @@
         <link href="https://twitter.com/ikedanob/status/1419608766849314816"/>
         <updated>2021-07-26T18:18:44.000Z</updated>
         <summary type="html"><![CDATA[転売屋がまとめて買えば、それは最終的に消費者に売れるんだから同じこと。プラモやってるガキは、この程度の初歩的な論理もわからないのか？ https://t.co/z46szbl27w]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女「露出の無い衣装だから性的に見られなくて安心〜〜〜」]]></title>
-        <id>https://anond.hatelabo.jp/20210727011453</id>
-        <link href="https://anond.hatelabo.jp/20210727011453"/>
-        <updated>2021-07-26T16:17:22.000Z</updated>
-        <summary type="html"><![CDATA[十ーーーーーー分エロいですからーーーーーーーーーーーー！！！！！！！！！！！残念！！！！！！！！！！！！！！！！！ ていうかユニフォームにしたって学校指定水着にしたって丈が長いから全身覆ってるから性的に見られなくなると思ってるの、女ってそこまで単純な生き物なの？ 逆にこっちがナメられてるようで腹立...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

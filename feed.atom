@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T03:13:43.468Z</id>
+    <id>urn:2021-07-27T04:18:06.406Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T03:13:43.468Z</updated>
+    <updated>2021-07-27T04:18:06.406Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[猪瀬直樹/inosenaoki on Twitter: "⑦東京大会の立候補ファイルに「温暖でアスリートに最適」などとなぜ書いたのか、と。 　あたりまえではないか。日本の気候は熱帯ではなく温帯なのだから。事情はイスタンブールもマドリードも変わりない。温帯で気温は同程度、招致を競っているときわざわざ東京のみ不利な表現を入れるわけがない。"]]></title>
+        <id>https://twitter.com/inosenaoki/status/1189945892570140674</id>
+        <link href="https://twitter.com/inosenaoki/status/1189945892570140674"/>
+        <updated>2021-07-27T03:26:46.000Z</updated>
+        <summary type="html"><![CDATA[⑦東京大会の立候補ファイルに「温暖でアスリートに最適」などとなぜ書いたのか、と。 　あたりまえではないか。日本の気候は熱帯ではなく温帯なのだから。事情はイスタンブールもマドリードも変わりない。温帯で気温は同程度、招致を競っているときわざわざ東京のみ不利な表現を入れるわけがない。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FS.COMジャパン on Twitter: "@soralis_0912 平素より大変お世話になっております。 お問い合わせありがとうございます。 ソースコードの公開に関しまして、残念ですが、差し控えさせていただきます。 何卒、ご了承いただきますようお願い申し上げます。 https://t.co/JO8xiFYUE3"]]></title>
+        <id>https://twitter.com/FSCOMJapan/status/1419840987107512320</id>
+        <link href="https://twitter.com/FSCOMJapan/status/1419840987107512320"/>
+        <updated>2021-07-27T02:11:55.000Z</updated>
+        <summary type="html"><![CDATA[@soralis_0912 平素より大変お世話になっております。 お問い合わせありがとうございます。 ソースコードの公開に関しまして、残念ですが、差し控えさせていただきます。 何卒、ご了承いただきますようお願い申し上げます。 https://t.co/JO8xiFYUE3]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丸亀製麺、ロンドン進出　行列100人超、うどん浸透図る（時事通信） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/df9f83665820407b6d1cb14db3a89d34e8beeced</id>
+        <link href="https://news.yahoo.co.jp/articles/df9f83665820407b6d1cb14db3a89d34e8beeced"/>
+        <updated>2021-07-27T02:06:36.000Z</updated>
+        <summary type="html"><![CDATA[【ロンドン時事】讃岐うどんチェーンを展開する丸亀製麺は26日、ロンドン中心部に英国1号店をオープンした。 【写真】株式会社TOKIOは丸亀製麺と共創型の提携 出店済みのロシアを除き、欧州では初の店舗。今後は英国を足掛かりに欧州各地で「UDON（うどん）」の浸透を図る。新型コロナウイルス流行の影響で当初予定して...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[僕の心のヤバイやつ 【最新5巻7月8日発売!】 | 桜井のりお | Karte.76 僕は放課後誘った]]></title>
         <id>https://mangacross.jp/comics/yabai/81</id>
@@ -31,6 +61,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210727/k10013161921000.html"/>
         <updated>2021-07-26T22:57:09.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックでは選手や関係者を輸送するため全国のバス会社から運転手が集まり、多くが大会組織委員会が用意した施設に宿泊していますが、施設の新型コロナウイルス対策に不安があるという声を受けて宿泊先を変えたバス会社があることが分かりました。 今回の大会では選手や関係者を競技場などに輸送するため、全国...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再検証性がある数理モデルが公開されてない 毎週計算方法を変えている ..]]></title>
+        <id>https://anond.hatelabo.jp/20210727071811</id>
+        <link href="https://anond.hatelabo.jp/20210727071811"/>
+        <updated>2021-07-26T22:19:04.000Z</updated>
+        <summary type="html"><![CDATA[再検証性がある数理モデルが公開されてない 毎週計算方法を変えているパラメータは人力抽出この3点はヤバさのハッピーセットなんやが、未だにknoaを有難がろうとしてる連中は、それが分からんのやろなーって思ったわ。 こんなもんをそこそこの理系大学で卒業研究として出そうとしても、担当教授に卒業可能な研究成果とし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,6 +131,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210727/k10013161951000.html"/>
         <updated>2021-07-26T20:25:04.000Z</updated>
         <summary type="html"><![CDATA[ことし9月にイタリアで開幕する世界3大映画祭の1つ「ベネチア国際映画祭」で革新的な作品を集めた「オリゾンティ部門」に湯浅政明監督のアニメ映画「犬王」がノミネートされました。 ベネチア国際映画祭はカンヌ、ベルリンと並ぶ世界3大映画祭の1つで、日本時間の26日夜、主要な部門のノミネート作品が発表されました。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[池田信夫 on Twitter: "転売屋がまとめて買えば、それは最終的に消費者に売れるんだから同じこと。プラモやってるガキは、この程度の初歩的な論理もわからないのか？ https://t.co/z46szbl27w"]]></title>
+        <id>https://twitter.com/ikedanob/status/1419608766849314816</id>
+        <link href="https://twitter.com/ikedanob/status/1419608766849314816"/>
+        <updated>2021-07-26T18:18:44.000Z</updated>
+        <summary type="html"><![CDATA[転売屋がまとめて買えば、それは最終的に消費者に売れるんだから同じこと。プラモやってるガキは、この程度の初歩的な論理もわからないのか？ https://t.co/z46szbl27w]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,26 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国連の井本氏、女性選手の報じられ方に異議「容姿の話題多い」（朝日新聞デジタル） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/a4105959cc526c62bb56449e1b71e01fcced6aca</id>
-        <link href="https://news.yahoo.co.jp/articles/a4105959cc526c62bb56449e1b71e01fcced6aca"/>
-        <updated>2021-07-26T12:27:34.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック（五輪）大会組織委員会のジェンダー平等推進チームのアドバイザーを務めている井本直歩子さんは26日、五輪メインプレスセンターで記者会見して、大会後に日本オリンピック委員会（JOC）などと女性アスリートの報じられ方について協議したいとの意向を示した。 【写真】東京五輪の開会式。木製の五輪マ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国連の井本氏、女性選手の報じられ方に異議「容姿の話題多い」 - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7V6T4VP7VUTQP045.html</id>
-        <link href="https://www.asahi.com/articles/ASP7V6T4VP7VUTQP045.html"/>
-        <updated>2021-07-26T12:25:16.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック（五輪）大会組織委員会のジェンダー平等推進チームのアドバイザーを務めている井本直歩子さんは26日、五輪メインプレスセンターで記者会見して、大会後に日本オリンピック委員会（JOC）などと女性アスリートの報じられ方について協議したいとの意向を示した。 井本さんは国連児童基金の教育専門官（休...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「日本の組織委員会は嘘をついた」猛暑下での五輪開催を米メディアが厳しく糾弾！「アスリートが代償を支払っている」【東京五輪】（THE DIGEST） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/b89225daea76a27a34468122172b31ec5384b840</id>
         <link href="https://news.yahoo.co.jp/articles/b89225daea76a27a34468122172b31ec5384b840"/>
@@ -216,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (7月26日版)]]></title>
-        <id>https://anond.hatelabo.jp/20210726195557</id>
-        <link href="https://anond.hatelabo.jp/20210726195557"/>
-        <updated>2021-07-26T10:57:36.000Z</updated>
-        <summary type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (6月21日版) から (7月19日版) に至る記事の続き。まえがきは初回(6月21日版)の記事でご覧ください。 まず、最初の6月21日の予測から5週が経過したので、全体を振り返っておきます。6月21日版予測 現実 差 ～6月27日 3,368 3,342 -0.8% ～7月04日 4,679 4,074 -12.9% ～7月11日 6,642...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[15分以内の外出容認、見直したら「時間が無制限に」　五輪関係者の特例巡り野党が批判：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/119459</id>
         <link href="https://www.tokyo-np.co.jp/article/119459"/>
         <updated>2021-07-26T10:54:58.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会が待機期間中の大会関係者に宿泊先から１５分以内の外出を認めていた問題で、批判を受けて「１５分以内」の表示を削除した後も、監督者の帯同なしで外出できる状態にあることが分かった。２６日の野党会合で、内閣官房が公表した外出に関する新たな文面の問題点を野党側が指摘した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京オリンピック開会式でのゲーム音楽の使用にまつわる議論から、現代における社会の分断について考える──インターネットは民主主義の敵なのか？]]></title>
-        <id>https://news.denfaminicogamer.jp/kikakuthetower/210726z</id>
-        <link href="https://news.denfaminicogamer.jp/kikakuthetower/210726z"/>
-        <updated>2021-07-26T10:36:04.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック開会式でのゲーム音楽の使用にまつわる議論から、現代における社会の分断について考える──インターネットは民主主義の敵なのか？ 東京オリンピックの開会式の入場曲に、『ドラゴンクエスト』や『ファイナルファンタジー』をはじめとするゲーム音楽が使用されたことについて、ネットではその是非を巡って...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://note.com/meirojin/n/n75ce098a2b7b"/>
         <updated>2021-07-26T08:57:15.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロマネジメントは悪か？よりよい組織をつくるためのマネジメント形態についての考察 - クックパッド開発者ブログ]]></title>
-        <id>https://techlife.cookpad.com/entry/2021/07/26/160000</id>
-        <link href="https://techlife.cookpad.com/entry/2021/07/26/160000"/>
-        <updated>2021-07-26T07:04:41.000Z</updated>
-        <summary type="html"><![CDATA[レシピ事業サービス基盤部で部長をやっています、新井(@SpicyCoffee66)です。引越しを機に MtG のカードをほとんど売ったはずなのに、そのときは存在しなかったポケモンカードのデッキが手元にあります。なぜ？ 私は 2017 卒のエンジニアとしてクックパッドに入社し、様々な業務を経験した後に 2020 年の 8 月から部長と...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

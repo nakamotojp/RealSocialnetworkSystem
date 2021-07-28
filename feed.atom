@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-28T05:11:07.597Z</id>
+    <id>urn:2021-07-28T06:15:48.505Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T05:11:07.597Z</updated>
+    <updated>2021-07-28T06:15:48.505Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://news.yahoo.co.jp/byline/mochizukihiroki/20210728-00250180"/>
         <updated>2021-07-27T23:37:58.000Z</updated>
         <summary type="html"><![CDATA[「被告人を懲役8月に処する。この裁判確定の日から3年間、その刑の執行を猶予する」 2021年7月20日火曜日。熊本地裁の101号法廷で、杉原崇夫裁判官が有罪判決を宣告した。刑法190条、死体遺棄罪。被告人は熊本県南部の農家で働いていたベトナム人技能実習生のレー・ティ・トゥイ・リンさん、22歳。 約150万円にものぼる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪後の「巨額赤字」誰がどう返済していくのか | 熊野英生の「けいざい新発見」 | 熊野英生 | 毎日新聞「経済プレミア」]]></title>
+        <id>https://mainichi.jp/premier/business/articles/20210727/biz/00m/020/005000c</id>
+        <link href="https://mainichi.jp/premier/business/articles/20210727/biz/00m/020/005000c"/>
+        <updated>2021-07-27T23:34:37.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックが始まると、日本選手の活躍を応援したくなる。開催期間を通じて、何人ものヒーロー、ヒロインが誕生して、スポーツの歴史に新たな1ページが書き加えられるだろう。私たちにとっては無形の資産となる。 これは歓迎されることだが、五輪開催の厳しい課題がパラリンピックも終わった全日程終了後に残され...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,16 +241,6 @@
         <link href="https://www.gamespark.jp/article/2021/07/27/110661.html"/>
         <updated>2021-07-27T11:35:45.000Z</updated>
         <summary type="html"><![CDATA[日頃よりGame*Sparkをご愛読いただきありがとうございます。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪開会式出演依頼をキャンセル…セネガル人音楽家「差別されるとは」　組織委側に抗議：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/119772</id>
-        <link href="https://www.tokyo-np.co.jp/article/119772"/>
-        <updated>2021-07-27T11:32:46.000Z</updated>
-        <summary type="html"><![CDATA[石川県加賀市での大田楽と狂言の公演で、歌と共にパーカッションの演奏を披露したラティールさん＝２０１６年７月（本人提供） 東京五輪の開会式に出演が決まっていた西アフリカ・セネガル出身の打楽器奏者ラティール・シーさん（４８）が今年５月、式典の企画・運営を担った広告代理店から出演を断られていたことが分か...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

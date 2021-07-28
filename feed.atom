@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-28T18:14:45.942Z</id>
+    <id>urn:2021-07-28T19:09:47.525Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T18:14:45.942Z</updated>
+    <updated>2021-07-28T19:09:47.525Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://www.asahi.com/articles/ASP7X5QNVP7XULBJ00H.html"/>
         <updated>2021-07-28T10:46:57.000Z</updated>
         <summary type="html"><![CDATA[東京都内の新型コロナウイルスの新規感染者が28日に3千人を超え、2日連続で過去最多を更新した。緊急事態宣言が出た後も、都内の人出は大きく減っていない。28日午後、宣言下でも酒を提供する店がある上野・アメ横の周辺を歩いた。 「90分飲み放題」「通常通り営業」。ガード下に並ぶ居酒屋の入り口には、酒が飲めること...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/28/news160.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/28/news160.html"/>
+        <updated>2021-07-28T10:42:11.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 東京大学などが、Webブラウザから使えるオープンソースの地理情報システム「Re:Earth」を公開した。地理空間上への情報のマッピングや、3D情報の付加などがマウス操作のみで行え、ユーザーが独自のWebアプリとし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://anond.hatelabo.jp/20210728113443"/>
         <updated>2021-07-28T02:39:36.000Z</updated>
         <summary type="html"><![CDATA[昔、同棲中にいつも俺が先に飯食い終わるから自分で食器下げて洗ってたんだけど 別れる時にいつも自分の食器だけ洗うの嫌だったって言われた でも、お前が洗わずに置いといた食器も気づいたら俺が洗ってたんやが 俺が自分の食器洗わずに彼女に洗わせてたんだったら文句言われてもしょうがないけど 自分の食器自分で洗っ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チューブ入り「大根おろし」　ハウスが発売　開発に5年以上 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2107/28/news091.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2107/28/news091.html"/>
-        <updated>2021-07-28T02:18:02.000Z</updated>
-        <summary type="html"><![CDATA[ハウス食品は、チューブ入り調味料の新製品として、「大根おろし」を8月9日に発売する。大根のシャキシャキとした食感と、すだち香料のさわやかな風味が特徴という。オープン価格で、税別の実売予想価格は125円（40g入り）。 常温流通でも美味しく品質を保つ技術の開発に5年以上かけたという。一部の技術は特許を出願し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

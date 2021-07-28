@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-28T15:14:03.464Z</id>
+    <id>urn:2021-07-28T16:19:01.781Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T15:14:03.464Z</updated>
+    <updated>2021-07-28T16:19:01.781Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -121,6 +121,16 @@
         <link href="https://bunshun.jp/denshiban/articles/b1436"/>
         <updated>2021-07-28T07:38:08.000Z</updated>
         <summary type="html"><![CDATA[演出責任者の相次ぐ交代など迷走を重ねた五輪開会式。今回入手した11冊にも及ぶ台本には、その過程が詳らかに記されていた。なぜ、どのようにして、開会式は“崩壊”していったのか。小誌だけが書ける全内幕――。 そのセレモニーは、新国立競技場に1台のバイクが颯爽と走ってくるシーンから幕を開けるはずだった。大友克洋...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川県 新型コロナ 1051人感染確認 初の1000人超 過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210728/k10013165541000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210728/k10013165541000.html"/>
+        <updated>2021-07-28T07:29:48.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県内では合わせて1051人が新たに新型コロナウイルスに感染したことが確認されたと28日、発表がありました。 神奈川県内で一日に発表される感染者の数としてはことし1月9日の995人を上回り、初めて1000人を超えました。 神奈川県内の28日の新規感染者数が初めて1000人を超えたことについて、黒岩知事は「まさに緊急...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,26 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DoGA on Twitter: "東京の方に、“医療崩壊するとどうなるのか”を大阪からお伝えします。 ある日、知人から連絡が入ります。 「感染した。君も濃厚接触者だと思う」 その次の日、発熱します。 でも、知人の連絡が行っているはずの、保健所からは何の連絡もあ… https://t.co/z4RqWqOhG7"]]></title>
-        <id>https://twitter.com/DoGA_CGanime/status/1419984606724382725</id>
-        <link href="https://twitter.com/DoGA_CGanime/status/1419984606724382725"/>
-        <updated>2021-07-28T00:17:16.000Z</updated>
-        <summary type="html"><![CDATA[東京の方に、“医療崩壊するとどうなるのか”を大阪からお伝えします。 ある日、知人から連絡が入ります。 「感染した。君も濃厚接触者だと思う」 その次の日、発熱します。 でも、知人の連絡が行っているはずの、保健所からは何の連絡もあ… https://t.co/z4RqWqOhG7]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 福祉保健局長「いたずらに不安あおらないで」｜NHK 首都圏のニュース]]></title>
-        <id>https://www3.nhk.or.jp/shutoken-news/20210728/1000067937.html</id>
-        <link href="https://www3.nhk.or.jp/shutoken-news/20210728/1000067937.html"/>
-        <updated>2021-07-27T23:44:18.000Z</updated>
-        <summary type="html"><![CDATA[東京都内で過去最多となる２８４８人の感染が確認されたことについて、都福祉保健局の吉村憲彦局長は、重症化のリスクの高い高齢者の割合は少なくなり、病床の確保も進んでいるとして、「年明けの第３波のときとは本質的に異なっているので、医療に与える圧迫は変わっている。いたずらに不安をあおることはしていただき...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「国民の一般的な宗教的感情」を害したので有罪。孤立出産で死産したベトナム人技能実習生、地裁判決の中身（望月優大） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/mochizukihiroki/20210728-00250180</id>
         <link href="https://news.yahoo.co.jp/byline/mochizukihiroki/20210728-00250180"/>
@@ -301,6 +291,16 @@
         <link href="https://www.tokyo-np.co.jp/article/119747"/>
         <updated>2021-07-27T21:46:08.000Z</updated>
         <summary type="html"><![CDATA[１９６４年の東京五輪の開会式を見て、当時の国内の著名作家たちは、さまざまな文章をつづり、記録し、表現した。そして２０２１年の東京五輪は―。作家の中村文則さん（４３）に、２３日夜の開会式を見た後で、寄稿してもらった。 なかむら・ふみのり　作家。１９７７年、愛知県生まれ。福島大卒。２００２年に「銃」で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixivメッセージで受けた巧妙な嫌がらせについて｜幸坊｜note]]></title>
+        <id>https://note.com/yukinbo78/n/n60ac0f23dd2d</id>
+        <link href="https://note.com/yukinbo78/n/n60ac0f23dd2d"/>
+        <updated>2021-07-27T08:07:44.000Z</updated>
+        <summary type="html"><![CDATA[昨今、ネットでの誹謗中傷や嫌がらせによるトラブルが頻繁に発生しています。 今回、しがない一絵描きである私自身がPixivメッセージにて 『あからさまではないが、確実にクリエイターを攻撃してくる』 事案に遭遇しましたので、 今後、もしくは今までに同様のことに遭遇した方向けの注意喚起として、その紹介と『やりと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

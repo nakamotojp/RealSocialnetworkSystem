@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-28T07:10:49.493Z</id>
+    <id>urn:2021-07-28T08:13:24.501Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T07:10:49.493Z</updated>
+    <updated>2021-07-28T08:13:24.501Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 感染確認 初の3000人超 過去最多の見通し | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[「コロナはエボラとエイズを混ぜた人工ウイルス」タマホーム社長の社内向け動画 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47425</id>
+        <link href="https://bunshun.jp/articles/-/47425"/>
+        <updated>2021-07-28T07:11:36.000Z</updated>
+        <summary type="html"><![CDATA[当該記事についてタマホームは7月22日付けで「事実と異なる内容が含まれており（略）誤った印象を与える」とするリリースを公表。だがその後も、複数の同社社員から情報提供が相次いだ。そのうちの一人、社員のA氏より、「ネット上の真偽不明な説に飛びついてはコロナについて不可解なアドバイスを連発する社長の実態を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 3177人感染確認 2日連続で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210728/k10013165311000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210728/k10013165311000.html"/>
         <updated>2021-07-28T06:36:33.000Z</updated>
-        <summary type="html"><![CDATA[東京都内で28日、新たに新型コロナウイルスの感染が確認された人は初めて3000人を超え、過去最多となる見通しであることが関係者への取材でわかりました。都内では27日に2848人の感染が確認され1日としては最も多くなりましたが、2日連続で最多を更新することになります。 都の関係者によりますと、都内で28日、新たに感...]]></summary>
+        <summary type="html"><![CDATA[東京都は28日、都内で新型コロナウイルスの感染が確認された人は初めて3000人を超えて3177人だったと発表しました。都内では27日、それまでで最も多い2848人の感染が確認されていて、これで2日連続で過去最多を更新しました。 3177人は1週間前の水曜日より1345人増えていて、感染の急速な拡大が止まらない事態になってい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「特に１人暮らしの方は自宅を病床のような形で」都内の新規感染者数過去最多で小池知事＜新型コロナ＞：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/119947</id>
+        <link href="https://www.tokyo-np.co.jp/article/119947"/>
+        <updated>2021-07-28T05:24:22.000Z</updated>
+        <summary type="html"><![CDATA[東京都の小池百合子知事は２８日、都庁で報道陣の取材に応じ、新型コロナウイルスの新規感染者数が２７日に過去最多の２８４８人となり、増加傾向に歯止めがかからないことについて「ワクチンを、ぜひ若い方も打っていただきたい」と接種を呼び掛けた。 小池知事は、ワクチンを受けた高齢者が感染し重症になる割合が大幅...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +241,6 @@
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4324657.html"/>
         <updated>2021-07-27T15:45:45.000Z</updated>
         <summary type="html"><![CDATA[電子決済サービス「ＰａｙＰａｙ」のアプリを悪用し、決済が完了したように見せかけて商品をだまし取ったとして、飲食店経営者の男が逮捕されました。 「ペイペイ！」 この音を利用して、今回の事件は起きました。詐欺の疑いで逮捕された飲食店経営者の高橋拓也容疑者（３１）は去年８月、埼玉県三郷市内のディスカウン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4連休、18万人が首都圏脱出　意外な施設で人出増 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7W6VMFP7WULEI006.html</id>
-        <link href="https://www.asahi.com/articles/ASP7W6VMFP7WULEI006.html"/>
-        <updated>2021-07-27T13:49:30.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪が開幕した22～25日の4連休。東京都の小池百合子都知事は「不要不急の外出、都県境を越える移動は控えて」と呼びかけていたものの、都外に「脱出」する動きが目立った。 NTTドコモの携帯電話の位置情報から推定したデータをもとに、東京都内に住む人たちが連休の初日の22日、どこへ移動したかを調べた。同日正午...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

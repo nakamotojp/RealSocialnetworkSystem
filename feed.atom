@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-28T04:15:36.846Z</id>
+    <id>urn:2021-07-28T05:11:07.597Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T04:15:36.846Z</updated>
+    <updated>2021-07-28T05:11:07.597Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[結局どの子が好きなんだ！あずまんが大王ダービー2021 | オモコロ]]></title>
+        <id>https://omocoro.jp/kiji/271078/</id>
+        <link href="https://omocoro.jp/kiji/271078/"/>
+        <updated>2021-07-28T03:19:14.000Z</updated>
+        <summary type="html"><![CDATA[あずまきよひこ作、女子高生の3年間の学校生活を描いた4コマ漫画。『月刊コミック電撃大王』に1999年から2002年まで連載され「日常系萌え4コマ」という新ジャンルを切り開いたパイオニア的作品。 プレイヤー紹介 ダ・ヴィンチ・恐山 オタク。あずまんが大王で一番好きなのは大阪。 ヤスミノ オタク。あずまんが大王で一...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「土用の丑の日」やめません？ウナギ７割が違法疑い！メディアが報じない有効な対策とは？？？（志葉玲） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/shivarei/20210728-00250177</id>
+        <link href="https://news.yahoo.co.jp/byline/shivarei/20210728-00250177"/>
+        <updated>2021-07-28T02:53:41.000Z</updated>
+        <summary type="html"><![CDATA[今年も「土用の丑の日」がやってきた。ニホンウナギは乱獲や生息環境の悪化から、その数を激減させ、2014年にIUCN（国際自然保護連合）が絶滅危惧種に指定したにもかかわらず、スーパーやコンビニ等は「土用の丑の日」のキャンペーンを毎年行い、メディアも「恒例ネタ」としてとりあげている。だが、日本の市場に出回っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チューブ入り「大根おろし」　ハウスが発売　開発に5年以上 - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2107/28/news091.html</id>
@@ -126,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【独自】五輪の弁当大量廃棄 組織委「改善する」（TBS系（JNN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/39f8b4c37b6d4ec751240e4d356449dfa0c8305a</id>
-        <link href="https://news.yahoo.co.jp/articles/39f8b4c37b6d4ec751240e4d356449dfa0c8305a"/>
-        <updated>2021-07-27T17:44:13.000Z</updated>
-        <summary type="html"><![CDATA[カメラが捉えたのは、オリンピック会場で次々と捨てられる弁当やパンです。ＪＮＮの取材で明らかになったオリンピック関係者向けの弁当が大量に廃棄されている問題。政府が事実関係を認めました。 カメラが捉えたのは、国立競技場に到着したトラック。運び込まれたのは、大量のおにぎりや弁当です。会場運営にあたるボラ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[卓球・水谷隼　金メダルの陰で戦い続けた「中国卓球の不正ラバー問題」（ニッポン放送） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/7a2e64e31ea00735807668d279903d9206e0a486</id>
         <link href="https://news.yahoo.co.jp/articles/7a2e64e31ea00735807668d279903d9206e0a486"/>
@@ -206,31 +216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebRTC配信システムをAWSからオンプレミスに切り替えている話 - Speaker Deck]]></title>
-        <id>https://speakerdeck.com/bateleurx/webrtcpei-xin-sisutemuwoawskaraonpuremisuniqie-riti-eteiruhua</id>
-        <link href="https://speakerdeck.com/bateleurx/webrtcpei-xin-sisutemuwoawskaraonpuremisuniqie-riti-eteiruhua"/>
-        <updated>2021-07-27T13:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Transcript © DMM.com WebRTC഑৴γεςϜΛ AWS͔ΒΦϯϓϨϛεʹ ੾Γସ͍͑ͯΔ࿩ DMM meetup #31 DMM.com ITΠϯϑϥຊ෦SRE෦ দӜ༱հ 2021೥7݄27೔ © DMM.com ࣗݾ঺հ দӜ ༱հ 2020೥5݄ೖࣾ ITΠϯϑϥຊ෦ SRE෦ॴଐ WebRTCϦΞϧλΠϜ഑৴γεςϜͷ։ൃӡ༻Λ୲౰ © DMM.com WebRTC഑৴γεςϜΛ AWS͔ΒΦϯϓϨϛεʹ ੾Γସ͍͑ͯΔ࿩ DMM meetup #31 © DMM.com WebRTC഑৴γεςϜΛ AWS͔ΒΦϯϓϨϛεʹ ੾Γସ͍͑ͯΔ࿩ DMM meetup #31 © DMM.co...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[都局長「不安あおらないで」　コロナ過去最高、小池氏対応せず ｜ 共同通信]]></title>
         <id>https://nordot.app/792743738642399232</id>
         <link href="https://nordot.app/792743738642399232"/>
         <updated>2021-07-27T13:30:13.000Z</updated>
         <summary type="html"><![CDATA[東京都内で新型コロナウイルスの感染者数が過去最多の2848人となった27日、都は吉村憲彦福祉保健局長が報道各社に現状を説明した。年末年始の2千人台とは医療提供体制やワクチン接種などで状況が違い、死者が急増することはないと強調。「いたずらに不安をあおることはしていただきたくない」と要望した。都が従来呼び掛...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 厚労省「こうなる事を想定し国民にお願いしていたが､国民は政府を信頼してないのでどんなメッセージ出しても共感してもらえない」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009479.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009479.html"/>
-        <updated>2021-07-27T12:18:41.000Z</updated>
-        <summary type="html"><![CDATA[厚労省「こうなる事を想定し国民にお願いしていたが､国民は政府を信頼してないのでどんなメッセージ出しても共感してもらえない」 1 名前：potato ★：2021/07/27(火) 19:20:58.62 ID:ntrLaIwz9 厚労省 幹部「感染者の増加 想定より早い」 厚生労働省の幹部の1人は「インドで確認された変異ウイルスの『デルタ株』の感染...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

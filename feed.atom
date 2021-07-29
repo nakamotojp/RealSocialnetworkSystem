@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T09:12:43.166Z</id>
+    <id>urn:2021-07-29T10:12:53.849Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T09:12:43.166Z</updated>
+    <updated>2021-07-29T10:12:53.849Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[米選手がコロナ陽性、豪陸上選手63人全員が自己隔離　東京五輪 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210729/k00/00m/050/200000c</id>
+        <link href="https://mainichi.jp/articles/20210729/k00/00m/050/200000c"/>
+        <updated>2021-07-29T08:04:19.000Z</updated>
+        <summary type="html"><![CDATA[複数の米国とオーストラリアの報道機関によると、東京オリンピックのため来日している米国の棒高跳び選手が新型コロナウイルスの定期検査で陽性と判定された。この選手と濃厚接触した可能性がある選手を含め、豪五輪選手団陸上競技メンバー63人全員が宿泊先の自室で自己隔離に入った。 陽性反応が出たのは2016年リオデジ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 3人死亡 3865人感染 3日連続過去最多更新 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210729/k10013167581000.html</id>
@@ -26,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[プラモ転売問題への経済学者の考え「均衡価格で販売すれば良い」に違和感を覚えてしまうのは何故？→大阪大学准教授の分析が分かりやすい - Togetter]]></title>
+        <title type="html"><![CDATA[プラモ転売問題に対して多くの経済学者が考える「均衡価格で販売すれば良い」に違和感を覚えてしまうのは何故？→大阪大学准教授の分析が分かりやすい - Togetter]]></title>
         <id>https://togetter.com/li/1751517</id>
         <link href="https://togetter.com/li/1751517"/>
         <updated>2021-07-29T06:36:02.000Z</updated>
@@ -131,16 +141,6 @@
         <link href="https://mainichi.jp/articles/20210729/k00/00m/010/037000c"/>
         <updated>2021-07-29T00:54:13.000Z</updated>
         <summary type="html"><![CDATA[菅義偉首相は29日午前、首相官邸に入る際、新型コロナウイルスの感染拡大に関し、記者団から「国民にメッセージはないか」と問われ「今日（感染状況を）確認してから説明する」と答えた。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINE、台湾要人の情報流出: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGKKZO74274580Z20C21A7EA1000/</id>
-        <link href="https://www.nikkei.com/article/DGKKZO74274580Z20C21A7EA1000/"/>
-        <updated>2021-07-29T00:36:06.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【台北=中村裕】台湾当局や政党、軍の要人など100人以上が、対話アプリのLINEを通じてハッキングされていたことが28日、分かった。台湾ではスマートフォンでLINEを利用...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

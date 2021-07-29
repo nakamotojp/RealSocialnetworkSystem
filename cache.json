@@ -6,6 +6,33 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0",
+          "author": null,
+          "description": "Photo by Chris Ried on Unsplash研修資料・動画一覧git研修（動画、スライド）データベース研修（動画、スライド、SQL演習環境）設計・テスト研修（動画、スライド）iOSアプリ開発研修（動画、スライド、リポジトリ）Androidアプリ開発研修（動画、スライド、リポジトリ）フロントエンド研修（動画、スライド、リポジト...",
+          "link": "https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0",
+          "publishedOn": "2021-07-29T02:23:20.000Z",
+          "wordCount": 89,
+          "title": "ミクシィの21新卒技術研修の資料と動画を公開します！ - mixi developers"
+        },
+        {
+          "id": "https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210728-3",
+          "author": null,
+          "description": "「自宅でオリンピック観戦」では減らない　少し先の未来に怯える理論疫学者が再び東京五輪中断を訴えるわけデルタ株によって感染拡大が加速し、医療崩壊が差し迫る中、理論疫学者の西浦博さんは改めて東京五輪の中断を訴えます。「もうダメかもしれない」と怯えつつ、それでも次の一手を考える理由とは？ BuzzFeed Japan...",
+          "link": "https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210728-3",
+          "publishedOn": "2021-07-29T02:13:40.000Z",
+          "wordCount": 113,
+          "title": "「自宅でオリンピック観戦」では減らない　少し先の未来に怯える理論疫学者が再び東京五輪中断を訴えるわけ"
+        },
+        {
+          "id": "https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00544",
+          "author": null,
+          "description": "自宅で本格的な中華料理をつくってみたい人のために ご本人初のレシピ集『四川料理のスゴい人 自宅でつくる本格中華レシピ』（三才ブックス）も発売となり、さまざまなメディアにも出演するなど、ますます絶好調な人長さん。 『メシ通』ではお馴染みの料理人さんですよね。 www.hotpepper.jp www.hotpepper.jp 今回は本...",
+          "link": "https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00544",
+          "publishedOn": "2021-07-29T01:52:17.000Z",
+          "wordCount": 220,
+          "title": "永久保存版・はじめての四川料理──趣味にするとこんなにハマる本格中華の世界【四川料理のスゴい人】 - メシ通 | ホットペッパーグルメ"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210729/k00/00m/010/037000c",
           "author": null,
           "description": "菅義偉首相は29日午前、首相官邸に入る際、新型コロナウイルスの感染拡大に関し、記者団から「国民にメッセージはないか」と問われ「今日（感染状況を）確認してから説明する」と答えた。",
@@ -20,8 +47,17 @@
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【台北=中村裕】台湾当局や政党、軍の要人など100人以上が、対話アプリのLINEを通じてハッキングされていたことが28日、分かった。台湾ではスマートフォンでLINEを利用...",
           "link": "https://www.nikkei.com/article/DGKKZO74274580Z20C21A7EA1000/",
           "publishedOn": "2021-07-29T00:36:06.000Z",
-          "wordCount": 111,
+          "wordCount": 110,
           "title": "LINE、台湾要人の情報流出: 日本経済新聞"
+        },
+        {
+          "id": "https://togetter.com/li/1751346",
+          "author": null,
+          "description": "くまねこ @kuma_neko_ これは印刷所務めの知人が言ってたことですが 「締め切り遅れには追加料金とすれば締め切りを守るだろうと思っていたが、あいつら追加料金を払えば締め切りが延ばせると思ってやがる」 2021-07-28 13:50:30",
+          "link": "https://togetter.com/li/1751346",
+          "publishedOn": "2021-07-28T23:43:51.000Z",
+          "wordCount": 755,
+          "title": "印刷所勤めの知人「締切遅れには追加料金をとれば締切を守るだろうと思っていたが、お金を払えば締切が延ばせると思っている人がいる」 - Togetter"
         },
         {
           "id": "https://www.moneypost.jp/815781",
@@ -38,7 +74,7 @@
           "description": "アメリカのIT大手、グーグルとフェイスブックは、変異した新型コロナウイルスの感染拡大を受けて、オフィスで勤務するすべての従業員にワクチンの接種を義務づける方針を示しました。 これは、グーグルとフェイスブックが28日、それぞれ明らかにしました。 このうちグーグルは、当初、ことし9月1日にアメリカ国内のオフ...",
           "link": "https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html",
           "publishedOn": "2021-07-28T22:19:46.000Z",
-          "wordCount": 21,
+          "wordCount": 24,
           "title": "米グーグル・フェイスブック 全従業員ワクチン接種義務化へ | 新型コロナウイルス | NHKニュース"
         },
         {
@@ -56,7 +92,7 @@
           "description": "最後まで全力を尽くす伊藤のスタイルは、日本のファンには好意的に受け取られた。しかし、中国では快く思われなかったようだ。(C)Getty Images 7月28日に行なわれた東京五輪の卓球競技女子シングルス準々決勝で、日本の伊藤美誠はチョン・ジヒと激突。韓国のエースを相手に力の差を見せつけ、ゲームカウント4－0とストレ...",
           "link": "https://news.yahoo.co.jp/articles/edc6ff88cc74e2eb554be5fb19f45bbe02bb59fe",
           "publishedOn": "2021-07-28T20:53:54.000Z",
-          "wordCount": 77,
+          "wordCount": 76,
           "title": "「クレイジーだ」中国メディアが伊藤美誠の“ラブゲーム未遂”を批判「人間らしさがまるでない」【東京五輪】（THE DIGEST） - Yahoo!ニュース"
         },
         {
@@ -65,7 +101,7 @@
           "description": "くぼた・まさき／テレビ情報番組制作、週刊誌記者、新聞記者、月刊誌編集者を経て現在はノンフィクションライターとして週刊誌や月刊誌へ寄稿する傍ら、報道対策アドバイザーとしても活動。これまで200件以上の広報コンサルティングやメディアトレーニング（取材対応トレーニング）を行う。 著書は日本の政治や企業の広...",
           "link": "https://diamond.jp/articles/-/277978",
           "publishedOn": "2021-07-28T20:19:33.000Z",
-          "wordCount": 175,
+          "wordCount": 174,
           "title": "「メダルラッシュで日本の世論はコロッと変わる」という予言が的中した理由 | 情報戦の裏側 | ダイヤモンド・オンライン"
         },
         {
@@ -83,8 +119,17 @@
           "description": "英アストラゼネカ製の新型コロナウイルスワクチンについて、厚生労働省が、40歳以上を予防接種法上の「臨時接種」の対象として位置付ける方向で検討していることが28日、分かった。30日の同省のワクチン分科会で専門家の意見を聞く。 感染の第5波では、特に40～50代の重症者が増えている。臨時接種の対象として認められ...",
           "link": "https://news.yahoo.co.jp/articles/8c7f2a3bd8d8ff8a34825c423a6d1302ae1e2b93",
           "publishedOn": "2021-07-28T17:56:56.000Z",
-          "wordCount": 70,
+          "wordCount": 67,
           "title": "アストラ製、40歳以上で検討　厚労省、「臨時接種」対象（共同通信） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210729010023",
+          "author": null,
+          "description": "最近転売関係の話題を見た関係でメモ書き 転売屋の存在は市場の効率性を改善しない（なので「これが資本主義の自由市場だ！」みたいな論は無効です） 小売り価格と需給の均衡価格にギャップが存在しなくても転売屋は利潤を得ることができる（つまり販売価格を上げても転売屋がもっと高く売るだけだ論は成立します）転売...",
+          "link": "https://anond.hatelabo.jp/20210729010023",
+          "publishedOn": "2021-07-28T17:46:40.000Z",
+          "wordCount": 245,
+          "title": "転売関係の備忘録"
         },
         {
           "id": "https://note.com/miz_kushida/n/n103a7da460c5",
@@ -92,17 +137,8 @@
           "description": "・不確実性パフォーマンス・ドメインについて加筆しました ・テーラリングについて加筆しましたPMBOKといえば、PMIが世界中のプロマネの実務家から意見を集めてプロジェクトマネジメントについて知識体系化している分厚い本、というイメージです。 いや、でした。。。以前の第6版までは（7版からはすごく薄い）。 2021年...",
           "link": "https://note.com/miz_kushida/n/n103a7da460c5",
           "publishedOn": "2021-07-28T16:16:56.000Z",
-          "wordCount": 78,
+          "wordCount": 95,
           "title": "界隈がざわつくほど超進化したPMBOK第7版の解説【プロジェクトマネジメント】｜Mizuho Kushida｜note"
-        },
-        {
-          "id": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
-          "author": null,
-          "description": "Transcript 1 Conﬁdential メルカリにおけるA/Bテスト標準化への取り組み 柳沼 慎哉（@yaginuuun） 2021/7/28, Retty ✕ Mercari Analyst Talk Night! 2 Conﬁdential 自己紹介 • 前職ではe-learning serviceのData Scientist • メルカリではData Analystとして主にA/Bテスト周り、 推薦システムの改善を担当 • 個人でPodc...",
-          "link": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
-          "publishedOn": "2021-07-28T15:28:55.000Z",
-          "wordCount": 1246,
-          "title": "メルカリにおけるA/Bテスト標準化への取り組み - Speaker Deck"
         },
         {
           "id": "https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php",
@@ -110,7 +146,7 @@
           "description": "世界では『女性・高齢・低学歴の者ほど幸福度が低い』が、日本人はこれにすべて反しているという。Ranta Images - iStockphoto 「幸福度」を国別・男女別にみると、先進国や発展途上国を含むほとんどの国は女性のほうが男性より低い。一方、日本は逆に男性のほうが低い。統計データ分析家の本川裕氏は「OECDの統計を分析...",
           "link": "https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php",
           "publishedOn": "2021-07-28T14:49:53.000Z",
-          "wordCount": 282,
+          "wordCount": 280,
           "title": "なぜ日本男子は世界で唯一､女性より幸福度が低くなるのか？｜ニューズウィーク日本版 オフィシャルサイト"
         },
         {
@@ -141,21 +177,12 @@
           "title": "レビューがヤバすぎるラーメン屋に行った日の話｜マキヤ｜note"
         },
         {
-          "id": "https://www3.nhk.or.jp/news/html/20210728/k10013166581000.html",
-          "author": null,
-          "description": "東京オリンピックのために来日している海外メディア関係者が宿泊先の都内のホテルでグループで飲酒や飲食をし、大声をあげるなどの騒ぎを起こしていたことが大会関係者への取材でわかりました。大会組織委員会もこの情報を把握しており、新型コロナウイルスの感染対策をまとめた「プレーブック」という指針に違反した疑...",
-          "link": "https://www3.nhk.or.jp/news/html/20210728/k10013166581000.html",
-          "publishedOn": "2021-07-28T13:56:38.000Z",
-          "wordCount": 27,
-          "title": "オリンピック 海外メディア関係者が集団飲食 組織委は処分検討 | オリンピック・パラリンピック | NHKニュース"
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210728222334",
           "author": null,
           "description": "[B! 司法] 「国民の一般的な宗教的感情」を害したので有罪。孤立出産で死産したベトナム人技能実習生、地裁判決の中身（望月優大） - 個人 - Yahoo!ニュース この件、既にブコメでも言われてるから敢えて書く必要はないかもしれないが、「国民の一般的な宗教的感情」が持ち出されるのは仕方ないと思う。 誤解無いように...",
           "link": "https://anond.hatelabo.jp/20210728222334",
           "publishedOn": "2021-07-28T13:37:44.000Z",
-          "wordCount": 170,
+          "wordCount": 176,
           "title": "「国民の一般的な宗教的感情」はしゃーない"
         },
         {
@@ -173,17 +200,8 @@
           "description": "メール越しだった。 「したがって、今回のメールにあった喪女さんの想いに応じることはできません。」 絶望と悲しみで死ぬかと思った。 相手は同じ大学の教授。50代独身。 大学の勉強とは別に私が教授のことを好き過ぎて、暇さえあれば研究室に足を運ぶようになった。 勿論向こうから誘ったとかではなく私から。 けどそ...",
           "link": "https://anond.hatelabo.jp/20210727232827",
           "publishedOn": "2021-07-28T12:38:18.000Z",
-          "wordCount": 918,
+          "wordCount": 922,
           "title": "女子大生だけど50代の独身教授に告白した（悲）"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/120086",
-          "author": null,
-          "description": "東京五輪・パラリンピック組織委員会の環境への取り組みは、選手村の備品を巡っても懸念が残る。各居室には合計でエアコン１万３０００台、トイレ５０００基、給湯器４０００台が設置された。すべて新品だが、パラリンピック終了後は分譲マンションへの改修工事をするため、全て撤去されるという。 組織委の北島隆ビレッ...",
-          "link": "https://www.tokyo-np.co.jp/article/120086",
-          "publishedOn": "2021-07-28T12:22:54.000Z",
-          "wordCount": 300,
-          "title": "弁当に続き、選手村のエアコン1万3000台も廃棄？　大会後の再利用は未定 ：東京新聞 TOKYO Web"
         },
         {
           "id": "https://www.tokyo-np.co.jp/article/120094",
@@ -191,7 +209,7 @@
           "description": "新型コロナウイルスの東京都内の新規感染者数が２日連続で最多を更新し、初めて３０００人を超えた２８日夕、小池百合子知事は報道陣に対し、「不要不急の外出を控えて。皆さんの力を得て抑え込んでいきたい」などと述べるにとどまり、約３０秒で取材対応を打ち切った。 正式発表前ながら、３０００人超の見通しが報じら...",
           "link": "https://www.tokyo-np.co.jp/article/120094",
           "publishedOn": "2021-07-28T12:21:10.000Z",
-          "wordCount": 308,
+          "wordCount": 310,
           "title": "小池知事　人差し指立て「質問は１問だけ」　東京、最多更新の3000人超も取材に素っ気なし：東京新聞 TOKYO Web"
         },
         {
@@ -213,15 +231,6 @@
           "title": "菅首相、東京で最多更新の3000人感染にも「お答えする内容がない」と取材拒否：東京新聞 TOKYO Web"
         },
         {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/28/news160.html",
-          "author": null,
-          "description": "オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 東京大学などが、Webブラウザから使えるオープンソースの地理情報システム「Re:Earth」を公開した。地理空間上への情報のマッピングや、3D情報の付加などがマウス操作のみで行え、ユーザーが独自のWebアプリとし...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/28/news160.html",
-          "publishedOn": "2021-07-28T10:42:11.000Z",
-          "wordCount": 154,
-          "title": "オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 - ITmedia NEWS"
-        },
-        {
           "id": "https://www3.nhk.or.jp/news/html/20210728/k10013161181000.html",
           "author": null,
           "description": "ことし10月5日で、亡くなってから10年になるスティーブ・ジョブズ。 マッキントッシュ・コンピューターからiPhoneまで、IT分野のフロントランナーとして世界を変えたジョブズは、禅や和食などの日本文化に深い関心を持っていた。 そして、時折、家族と古都の京都を訪れていた。 ジョブズに京都はどう映っていたのか。そ...",
@@ -231,21 +240,12 @@
           "title": "WEB特集 スティーブ・ジョブズ in 京都 | IT・ネット | NHKニュース"
         },
         {
-          "id": "https://jp.sputniknews.com/tokyo-2020/202107288576930/",
-          "author": null,
-          "description": "東京五輪は28日、テニス男子シングルス3回戦が行われ、大会第2シードのロシアのダニール・メドベージェフが、第15シードのイタリアのファビオ・フォニーニを6-2、3-6、2-6で下し、準々決勝進出を決めた。",
-          "link": "https://jp.sputniknews.com/tokyo-2020/202107288576930/",
-          "publishedOn": "2021-07-28T08:36:02.000Z",
-          "wordCount": 156,
-          "title": "東京五輪テニス　メドベージェフ「もし私が死んだら、誰が責任をとるんだ？」　暑さに苦言 - Sputnik 日本"
-        },
-        {
           "id": "https://www.newsweekjapan.jp/mochizuki/2021/07/post-8.php",
           "author": null,
           "description": "＜「誤解を与えたのであれば申し訳ない」とは、形を変えて加害を繰り返しているとすら言える言葉だ。ホテルから保健所、政治家、首相まで、そんな「謝らない謝罪」が多過ぎる＞ この原稿を書いているのは東京五輪開会式の前日。今朝は開閉会式の演出担当である小林賢太郎氏が解任されたという速報で目が覚めた。 森喜朗...",
           "link": "https://www.newsweekjapan.jp/mochizuki/2021/07/post-8.php",
           "publishedOn": "2021-07-28T08:24:22.000Z",
-          "wordCount": 276,
+          "wordCount": 274,
           "title": "「謝らない謝罪」が日本で蔓延している｜ニューズウィーク日本版 オフィシャルサイト"
         },
         {
@@ -254,7 +254,7 @@
           "description": "演出責任者の相次ぐ交代など迷走を重ねた五輪開会式。今回入手した11冊にも及ぶ台本には、その過程が詳らかに記されていた。なぜ、どのようにして、開会式は“崩壊”していったのか。小誌だけが書ける全内幕――。 そのセレモニーは、新国立競技場に1台のバイクが颯爽と走ってくるシーンから幕を開けるはずだった。大友克洋...",
           "link": "https://bunshun.jp/denshiban/articles/b1436",
           "publishedOn": "2021-07-28T07:38:08.000Z",
-          "wordCount": 382,
+          "wordCount": 381,
           "title": "台本11冊を入手　五輪開会式“崩壊”　全内幕　計1199ページにすべての変遷が | 週刊文春 電子版"
         },
         {

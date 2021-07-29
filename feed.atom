@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T07:10:59.373Z</id>
+    <id>urn:2021-07-29T08:13:43.832Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T07:10:59.373Z</updated>
+    <updated>2021-07-29T08:13:43.832Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 新たに3865人感染確認 3日連続過去最多更新 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013167581000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013167581000.html"/>
+        <updated>2021-07-29T07:47:57.000Z</updated>
+        <summary type="html"><![CDATA[東京都は、29日、都内で過去最多となる3865人が新型コロナウイルスに感染していることを新たに確認したと発表しました。 都内では、28日、はじめて3000人を超え、3177人の感染が確認されましたが、29日はさらに688人多くなりました。 これで、3日連続で過去最多を更新しました。 また、29日の3865人は、1週間前の木曜日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尾身会長「“コロナ対策全力で”五輪開催決めた政府・組織委員会に責任」｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4325816.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4325816.html"/>
+        <updated>2021-07-29T05:24:37.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が続く中、政府分科会の尾身会長は、オリンピックの期間中にコロナ対策を全力で行うことが大会の開催を決めた政府や組織委員会の責任だと訴えました。 「政府・組織委員会はオリンピックをやると決定したわけですから、オリンピックの期間中に何とかして感染拡大、医療ひっ迫を防ぐためにす...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[この一年の話（前編）｜小野マトペ｜note]]></title>
         <id>https://note.com/ono_matope/n/n8919af73eb68</id>
         <link href="https://note.com/ono_matope/n/n8919af73eb68"/>
         <updated>2021-07-29T05:10:13.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染最多の首相取材「答える状況になかった」長官が説明 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Y4FLTP7YULFA00K.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Y4FLTP7YULFA00K.html"/>
+        <updated>2021-07-29T05:03:40.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの国内感染者数が過去最多となった28日に、菅義偉首相が記者団の取材に応じなかったことについて、加藤勝信官房長官は29日の会見で「（記者団からの）『緊急事態宣言をどうするか』との質問に、その時点で申し上げる状況になってないので『お答えする内容はない』となった」などと説明した。 全国での...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[システム会社の一台のWebサーバー（Nginx）でのSSL証明書の更新作業の見積もりが20万円でした。ファイルをアップロードして再起動するだけですよね？ぼったくりだと思いますか？ - Quora]]></title>
-        <id>https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0</id>
-        <link href="https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0"/>
-        <updated>2021-07-28T12:55:51.000Z</updated>
-        <summary type="html"><![CDATA[問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小池知事　人差し指立て「質問は１問だけ」　東京、最多更新の3000人超も取材に素っ気なし：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/120094</id>
         <link href="https://www.tokyo-np.co.jp/article/120094"/>
@@ -266,31 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相、東京で最多更新の3000人感染にも「お答えする内容がない」と取材拒否：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/120085</id>
-        <link href="https://www.tokyo-np.co.jp/article/120085"/>
-        <updated>2021-07-28T11:39:27.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は２８日、新型コロナウイルスの全国的な感染急拡大を受けて、西村康稔経済再生担当相、田村憲久厚生労働相ら関係閣僚と行った協議内容について、記者団に説明しなかった。この日は、東京都で確認された新規感染者が初めて３０００人を超えたが、官邸側は「本日はお答えする内容がない」（首相秘書官）として...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WEB特集 スティーブ・ジョブズ in 京都 | IT・ネット | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210728/k10013161181000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210728/k10013161181000.html"/>
         <updated>2021-07-28T09:20:27.000Z</updated>
         <summary type="html"><![CDATA[ことし10月5日で、亡くなってから10年になるスティーブ・ジョブズ。 マッキントッシュ・コンピューターからiPhoneまで、IT分野のフロントランナーとして世界を変えたジョブズは、禅や和食などの日本文化に深い関心を持っていた。 そして、時折、家族と古都の京都を訪れていた。 ジョブズに京都はどう映っていたのか。そ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「謝らない謝罪」が日本で蔓延している｜ニューズウィーク日本版 オフィシャルサイト]]></title>
-        <id>https://www.newsweekjapan.jp/mochizuki/2021/07/post-8.php</id>
-        <link href="https://www.newsweekjapan.jp/mochizuki/2021/07/post-8.php"/>
-        <updated>2021-07-28T08:24:22.000Z</updated>
-        <summary type="html"><![CDATA[＜「誤解を与えたのであれば申し訳ない」とは、形を変えて加害を繰り返しているとすら言える言葉だ。ホテルから保健所、政治家、首相まで、そんな「謝らない謝罪」が多過ぎる＞ この原稿を書いているのは東京五輪開会式の前日。今朝は開閉会式の演出担当である小林賢太郎氏が解任されたという速報で目が覚めた。 森喜朗...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

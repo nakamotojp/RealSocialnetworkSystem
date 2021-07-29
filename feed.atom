@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T16:19:01.728Z</id>
+    <id>urn:2021-07-29T17:29:27.499Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T16:19:01.728Z</updated>
+    <updated>2021-07-29T17:29:27.499Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[感染急拡大 お盆の帰省や旅行はどうする？ 忽那教授に聞く | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013168931000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013168931000.html"/>
+        <updated>2021-07-29T11:47:53.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染が急拡大しています。 29日に発表された感染者の数は全国で初めて1万人を超え、過去最多となりました。2週間後にはお盆の時期を迎えます。 「帰省先の両親はワクチン接種を終えているからことしこそは帰ろう」 このように考えている人もいるかも知れません。 ことしのお盆の帰省や旅行について...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【独自】五輪ボランティアのＰＣＲ検査“ずさん”な実態を証言 『事前』『毎日』が骨抜きか｜TBS NEWS]]></title>
         <id>https://news.tbs.co.jp/newseye/tbs_newseye4326018.html</id>
@@ -41,6 +51,16 @@
         <link href="https://www.sankei.com/article/20210729-QNKCRVB6EVLS7BMV332WIY7QZM/"/>
         <updated>2021-07-29T09:39:51.000Z</updated>
         <summary type="html"><![CDATA[立憲民主党の枝野幸男代表（春名中撮影）立憲民主党の枝野幸男代表は２９日の記者会見で、新型コロナウイルス感染拡大の中で開催されている東京五輪について、かえって混乱を招くとして中止を求めない考えを示した。立民は五輪開幕前、「再延期か中止」を主張していた。 枝野氏は、すでに五輪の日程が進んでおり、多くの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相、追加経済対策指示へ　衆院選アピール、３０兆円規模か：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021072901097&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021072901097&amp;g=pol"/>
+        <updated>2021-07-29T09:38:03.000Z</updated>
+        <summary type="html"><![CDATA[菅首相、追加経済対策指示へ　衆院選アピール、３０兆円規模か 2021年07月29日18時13分 菅義偉首相＝２８日、首相官邸 菅義偉首相は緊急事態宣言の拡大など新型コロナウイルスの感染防止策の強化に合わせ、国民生活を下支えする追加経済対策の取りまとめを近く政府・自民党に指示する方針だ。同党は公明党との協議を経て...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -141,6 +161,16 @@
         <link href="https://togetter.com/li/1751517"/>
         <updated>2021-07-29T06:36:02.000Z</updated>
         <summary type="html"><![CDATA[安田 洋祐 @yagena ＜転売備忘録＞ 多くの経済学者は、転売が起こるのは１次市場の価格が安すぎるからで A. 均衡価格p*で販売すれば（超過需要が発生しないので）転売はそもそも起こらない と考えます。ただ、これは B. 均衡価格p*で販売すれば転売屋による転売はそもそも起こらない ことを意味しません。A≠B。なぜか？ ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファイザー　3回でデルタ株への中和抗体量が100倍か｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_international/articles/000224017.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_international/articles/000224017.html"/>
+        <updated>2021-07-29T06:21:44.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのファイザーは新型コロナワクチンを3回接種することで、デルタ株に対する中和抗体の量が2回の接種に比べて、最大で100倍になるという想定を発表しました。 ファイザーは28日、今年のワクチンの売上高予想を335億ドル、約3兆7000億円と従来の260億ドルの予想から大幅に上方修正しました。 また、3回目の追加接種...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,41 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京五輪の国民1人あたりの負担額「都民10万3929円」「国民1万408円」 | マネーポストWEB]]></title>
-        <id>https://www.moneypost.jp/815781</id>
-        <link href="https://www.moneypost.jp/815781"/>
-        <updated>2021-07-28T23:05:36.000Z</updated>
-        <summary type="html"><![CDATA[大会終了後には五輪費用の“精算”が待っている（写真／代表撮影・雑誌協会） “暗雲の開幕”となった東京五輪。コロナの感染急拡大に加えて開会式の楽曲担当ミュージシャンや演出担当が直前に辞任、解任に追い込まれる異常事態が続き、大会最上位スポンサーのトヨタ、パナソニックの社長らは開会式出席を見送った。 さらに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「メダルラッシュで日本の世論はコロッと変わる」という予言が的中した理由 | 情報戦の裏側 | ダイヤモンド・オンライン]]></title>
-        <id>https://diamond.jp/articles/-/277978</id>
-        <link href="https://diamond.jp/articles/-/277978"/>
-        <updated>2021-07-28T20:19:33.000Z</updated>
-        <summary type="html"><![CDATA[くぼた・まさき／テレビ情報番組制作、週刊誌記者、新聞記者、月刊誌編集者を経て現在はノンフィクションライターとして週刊誌や月刊誌へ寄稿する傍ら、報道対策アドバイザーとしても活動。これまで200件以上の広報コンサルティングやメディアトレーニング（取材対応トレーニング）を行う。 著書は日本の政治や企業の広...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[界隈がざわつくほど超進化したPMBOK第7版の解説【プロジェクトマネジメント】｜Mizuho Kushida｜note]]></title>
         <id>https://note.com/miz_kushida/n/n103a7da460c5</id>
         <link href="https://note.com/miz_kushida/n/n103a7da460c5"/>
         <updated>2021-07-28T16:16:56.000Z</updated>
         <summary type="html"><![CDATA[・不確実性パフォーマンス・ドメインについて加筆しました ・テーラリングについて加筆しましたPMBOKといえば、PMIが世界中のプロマネの実務家から意見を集めてプロジェクトマネジメントについて知識体系化している分厚い本、というイメージです。 いや、でした。。。以前の第6版までは（7版からはすごく薄い）。 2021年...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜ日本男子は世界で唯一､女性より幸福度が低くなるのか？｜ニューズウィーク日本版 オフィシャルサイト]]></title>
-        <id>https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php</id>
-        <link href="https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php"/>
-        <updated>2021-07-28T14:49:53.000Z</updated>
-        <summary type="html"><![CDATA[世界では『女性・高齢・低学歴の者ほど幸福度が低い』が、日本人はこれにすべて反しているという。Ranta Images - iStockphoto 「幸福度」を国別・男女別にみると、先進国や発展途上国を含むほとんどの国は女性のほうが男性より低い。一方、日本は逆に男性のほうが低い。統計データ分析家の本川裕氏は「OECDの統計を分析...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

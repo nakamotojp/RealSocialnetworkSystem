@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T11:09:44.934Z</id>
+    <id>urn:2021-07-29T12:19:05.302Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T11:09:44.934Z</updated>
+    <updated>2021-07-29T12:19:05.302Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[菅首相　感染急拡大　五輪開催の影響を否定「そこはない」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/120343</id>
+        <link href="https://www.tokyo-np.co.jp/article/120343"/>
+        <updated>2021-07-29T10:21:39.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は２９日、新型コロナウイルスの感染急拡大と東京五輪の因果関係について官邸で記者団に「ないと思っている」と否定した。記者が「五輪の開催が今回の感染者数に影響を与えていない、因果関係がないという論拠を聞かせてほしい」と尋ねたのに答えた。 首相は「五輪で人流が増えたり、外国の方から感染が広がっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京の感染者 2週間後に一日5000人超か 来月末には1万人超も… | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013167321000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013167321000.html"/>
+        <updated>2021-07-29T09:37:23.000Z</updated>
+        <summary type="html"><![CDATA[29日は3865人の感染が確認され、3日連続で過去最多を更新した東京都。今後の感染状況はどうなるのか…？ 専門家がシミュレーションしたところ、今のペースで感染が拡大し続けた場合、新規感染者の数は約2週間後の来月中旬には一日5000人を超えるという結果となりました。 東京都では29日、過去最多となる3865人が新型コロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナ 全国の感染発表 初の1万人超 1日としては過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210729/k10013167811000.html</id>
@@ -21,6 +41,16 @@
         <link href="https://mainichi.jp/articles/20210729/k00/00m/050/200000c"/>
         <updated>2021-07-29T08:04:19.000Z</updated>
         <summary type="html"><![CDATA[複数の米国とオーストラリアの報道機関によると、東京オリンピックのため来日している米国の棒高跳び選手が新型コロナウイルスの定期検査で陽性と判定された。この選手と濃厚接触した可能性がある選手を含め、豪五輪選手団陸上競技メンバー63人全員が宿泊先の自室で自己隔離に入った。 陽性反応が出たのは2016年リオデジ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お盆休みの国内便予約 去年の1.4倍に おととしの4割以上に回復 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013167981000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013167981000.html"/>
+        <updated>2021-07-29T07:52:19.000Z</updated>
+        <summary type="html"><![CDATA[お盆休みの期間中、国内の空の便の予約は、去年の同じ時期と比べおよそ1.4倍に増えています。高齢者を中心にワクチンの接種が進み、祖父母のいる地方を訪れる家族連れが多いことなどが主な要因とみられます。 国内の主な航空会社11社のまとめによりますと、お盆期間の来月6日から15日までの10日間に、国内の空の便を予約...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -46,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【東京五輪】だまされた！猛暑で「東京のうそに世界が謝罪を求める」と海外から糾弾 | 東スポのスポーツ総合に関するニュースを掲載]]></title>
+        <id>https://www.tokyo-sports.co.jp/sports/3480952/</id>
+        <link href="https://www.tokyo-sports.co.jp/sports/3480952/"/>
+        <updated>2021-07-29T07:07:57.000Z</updated>
+        <summary type="html"><![CDATA[ゴール後に倒れこんでしまったクリスティアン・ブルンメンフェルト（ロイター） 猛暑で〝死〟をも訴える選手が出現する東京五輪に対し、海外メディアが〝虚偽申告〟を猛批判。謝罪要求が飛び出した。 オーストラリアの「ニュースドットコム」は２９日、「東京の虚偽主張に世界は謝罪が欲しい」と報道。東京五輪が招致に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[趣味で作ったソフトウェアが海外企業に買われ分野世界一になるまでの話 - knqyf263's blog]]></title>
         <id>https://knqyf263.hatenablog.com/entry/2021/07/29/143500</id>
         <link href="https://knqyf263.hatenablog.com/entry/2021/07/29/143500"/>
@@ -61,6 +101,16 @@
         <link href="https://togetter.com/li/1751517"/>
         <updated>2021-07-29T06:36:02.000Z</updated>
         <summary type="html"><![CDATA[安田 洋祐 @yagena ＜転売備忘録＞ 多くの経済学者は、転売が起こるのは１次市場の価格が安すぎるからで A. 均衡価格p*で販売すれば（超過需要が発生しないので）転売はそもそも起こらない と考えます。ただ、これは B. 均衡価格p*で販売すれば転売屋による転売はそもそも起こらない ことを意味しません。A≠B。なぜか？ ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ “ジワジワくる” 神奈川県の注意呼びかけ文が話題 | オリンピック・パラリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013166301000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013166301000.html"/>
+        <updated>2021-07-29T05:51:53.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県がLINEやツイッターで送っている新型コロナウイルスへの注意の呼びかけ文が、「短文小説のようだ」「ジワジワくる」などとネット上で話題になっています。神奈川県にはオリンピックの競技会場があり担当者は「外に出ず家のテレビなどで観戦するよう配信していきたい」と話しています。 話題になっているのは、神...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,7 +156,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大企業から仕事の依頼、何十時間もかけて提案資料を作ったけどポシャン→ここまでの分の精算を求めたら「一円も払えません」と言われた… - Togetter]]></title>
+        <title type="html"><![CDATA[大企業から仕事の依頼、何十時間もかけて提案資料を作ったけどポシャる→ここまでの分の精算を求めたら「一円も払えません」と言われた… - Togetter]]></title>
         <id>https://togetter.com/li/1751456</id>
         <link href="https://togetter.com/li/1751456"/>
         <updated>2021-07-29T03:26:11.000Z</updated>
@@ -166,31 +216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[印刷所勤めの知人「締切遅れには追加料金をとれば締切を守るだろうと思っていたが、お金を払えば締切が延ばせると思っている人がいる」 - Togetter]]></title>
-        <id>https://togetter.com/li/1751346</id>
-        <link href="https://togetter.com/li/1751346"/>
-        <updated>2021-07-28T23:43:51.000Z</updated>
-        <summary type="html"><![CDATA[くまねこ @kuma_neko_ これは印刷所務めの知人が言ってたことですが 「締め切り遅れには追加料金とすれば締め切りを守るだろうと思っていたが、あいつら追加料金を払えば締め切りが延ばせると思ってやがる」 2021-07-28 13:50:30]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京五輪の国民1人あたりの負担額「都民10万3929円」「国民1万408円」 | マネーポストWEB]]></title>
         <id>https://www.moneypost.jp/815781</id>
         <link href="https://www.moneypost.jp/815781"/>
         <updated>2021-07-28T23:05:36.000Z</updated>
         <summary type="html"><![CDATA[大会終了後には五輪費用の“精算”が待っている（写真／代表撮影・雑誌協会） “暗雲の開幕”となった東京五輪。コロナの感染急拡大に加えて開会式の楽曲担当ミュージシャンや演出担当が直前に辞任、解任に追い込まれる異常事態が続き、大会最上位スポンサーのトヨタ、パナソニックの社長らは開会式出席を見送った。 さらに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米グーグル・フェイスブック 全従業員ワクチン接種義務化へ | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html"/>
-        <updated>2021-07-28T22:19:46.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのIT大手、グーグルとフェイスブックは、変異した新型コロナウイルスの感染拡大を受けて、オフィスで勤務するすべての従業員にワクチンの接種を義務づける方針を示しました。 これは、グーグルとフェイスブックが28日、それぞれ明らかにしました。 このうちグーグルは、当初、ことし9月1日にアメリカ国内のオフ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +251,6 @@
         <link href="https://diamond.jp/articles/-/277978"/>
         <updated>2021-07-28T20:19:33.000Z</updated>
         <summary type="html"><![CDATA[くぼた・まさき／テレビ情報番組制作、週刊誌記者、新聞記者、月刊誌編集者を経て現在はノンフィクションライターとして週刊誌や月刊誌へ寄稿する傍ら、報道対策アドバイザーとしても活動。これまで200件以上の広報コンサルティングやメディアトレーニング（取材対応トレーニング）を行う。 著書は日本の政治や企業の広...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アストラ製、40歳以上で検討　厚労省、「臨時接種」対象（共同通信） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/8c7f2a3bd8d8ff8a34825c423a6d1302ae1e2b93</id>
-        <link href="https://news.yahoo.co.jp/articles/8c7f2a3bd8d8ff8a34825c423a6d1302ae1e2b93"/>
-        <updated>2021-07-28T17:56:56.000Z</updated>
-        <summary type="html"><![CDATA[英アストラゼネカ製の新型コロナウイルスワクチンについて、厚生労働省が、40歳以上を予防接種法上の「臨時接種」の対象として位置付ける方向で検討していることが28日、分かった。30日の同省のワクチン分科会で専門家の意見を聞く。 感染の第5波では、特に40～50代の重症者が増えている。臨時接種の対象として認められ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「国民の一般的な宗教的感情」はしゃーない]]></title>
-        <id>https://anond.hatelabo.jp/20210728222334</id>
-        <link href="https://anond.hatelabo.jp/20210728222334"/>
-        <updated>2021-07-28T13:37:44.000Z</updated>
-        <summary type="html"><![CDATA[[B! 司法] 「国民の一般的な宗教的感情」を害したので有罪。孤立出産で死産したベトナム人技能実習生、地裁判決の中身（望月優大） - 個人 - Yahoo!ニュース この件、既にブコメでも言われてるから敢えて書く必要はないかもしれないが、「国民の一般的な宗教的感情」が持ち出されるのは仕方ないと思う。 誤解無いように...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[個人開発した賃貸物件検索サービスのシステム構成と使用技術]]></title>
         <id>https://zenn.dev/choo/articles/84f41ad249c1dd</id>
         <link href="https://zenn.dev/choo/articles/84f41ad249c1dd"/>
         <updated>2021-07-28T10:05:58.000Z</updated>
         <summary type="html"><![CDATA[個人開発で 賃貸物件検索サービス Comfy を作りました。 先週、リリース後の告知ツイートをしたのですが、幸いなことに多くの人にリツイート・いいねの反響を頂きました（リアクションして頂いた方、本当にありがとうございます…!!!） この記事では、Comfy のシステム構成及び使用した技術・サービスを紹介します。 シス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[発売中止となった開会式公式プログラムが拡散？東京オリンピック《ピクトグラム誕生秘話》と《予算5分の1削減の真相》｜のやまやの｜note]]></title>
-        <id>https://note.com/noyamaayon/n/n98c35152ebb3</id>
-        <link href="https://note.com/noyamaayon/n/n98c35152ebb3"/>
-        <updated>2021-07-27T09:52:24.000Z</updated>
-        <summary type="html"><![CDATA[ショーディレクター解任報道により、急きょ発売中止となった、幻の「開会式プログラム」。その中の、演出・小林賢太郎氏のインタビューを読んだ私は、この記事を書かねばならないと思った。インタビュー内容は後述するが、とにかく、私が知りうる限りの事実を、正確に、わかりやすく、順を追って、ここに記そうと思う。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

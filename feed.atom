@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T04:15:52.028Z</id>
+    <id>urn:2021-07-29T05:10:25.978Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T04:15:52.028Z</updated>
+    <updated>2021-07-29T05:10:25.978Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0</id>
         <link href="https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0"/>
         <updated>2021-07-29T02:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Chris Ried on Unsplash研修資料・動画一覧git研修（動画、スライド）データベース研修（動画、スライド、SQL演習環境）設計・テスト研修（動画、スライド）iOSアプリ開発研修（動画、スライド、リポジトリ）Androidアプリ開発研修（動画、スライド、リポジトリ）フロントエンド研修（動画、スライド、リポジト...]]></summary>
+        <summary type="html"><![CDATA[ミクシィの21新卒技術研修の講義資料や『動画』を公開します！ 研修資料・動画一覧git研修（動画、スライド）データベース研修（動画、スライド、SQL演習環境）設計・テスト研修（動画、スライド）iOSアプリ開発研修（動画、スライド、リポジトリ）Androidアプリ開発研修（動画、スライド、リポジトリ）フロントエンド研...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[メルカリにおけるA/Bテスト標準化への取り組み - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi</id>
+        <link href="https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi"/>
+        <updated>2021-07-28T15:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 1 Conﬁdential メルカリにおけるA/Bテスト標準化への取り組み 柳沼 慎哉（@yaginuuun） 2021/7/28, Retty ✕ Mercari Analyst Talk Night! 2 Conﬁdential 自己紹介 • 前職ではe-learning serviceのData Scientist • メルカリではData Analystとして主にA/Bテスト周り、 推薦システムの改善を担当 • 個人でPodc...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[なぜ日本男子は世界で唯一､女性より幸福度が低くなるのか？｜ニューズウィーク日本版 オフィシャルサイト]]></title>
         <id>https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php</id>
         <link href="https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php"/>
@@ -211,16 +221,6 @@
         <link href="https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0"/>
         <updated>2021-07-28T12:55:51.000Z</updated>
         <summary type="html"><![CDATA[問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女子大生だけど50代の独身教授に告白した（悲）]]></title>
-        <id>https://anond.hatelabo.jp/20210727232827</id>
-        <link href="https://anond.hatelabo.jp/20210727232827"/>
-        <updated>2021-07-28T12:38:18.000Z</updated>
-        <summary type="html"><![CDATA[メール越しだった。 「したがって、今回のメールにあった喪女さんの想いに応じることはできません。」 絶望と悲しみで死ぬかと思った。 相手は同じ大学の教授。50代独身。 大学の勉強とは別に私が教授のことを好き過ぎて、暇さえあれば研究室に足を運ぶようになった。 勿論向こうから誘ったとかではなく私から。 けどそ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -286,7 +286,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[発売中止となった開会式公式プログラムが拡散？東京オリンピック《演出・小林賢太郎》の真相～沸いたピクトグラム～｜のやまやの｜note]]></title>
+        <title type="html"><![CDATA[発売中止となった開会式公式プログラムが拡散？東京オリンピック《ピクトグラム誕生秘話》と《予算5分の1削減の真相》｜のやまやの｜note]]></title>
         <id>https://note.com/noyamaayon/n/n98c35152ebb3</id>
         <link href="https://note.com/noyamaayon/n/n98c35152ebb3"/>
         <updated>2021-07-27T09:52:24.000Z</updated>

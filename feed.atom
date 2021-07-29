@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T02:28:46.279Z</id>
+    <id>urn:2021-07-29T03:13:37.000Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T02:28:46.279Z</updated>
+    <updated>2021-07-29T03:13:37.000Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[菅首相　コロナ感染拡大「きょう説明する」　官邸で記者団に | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210729/k00/00m/010/037000c</id>
+        <link href="https://mainichi.jp/articles/20210729/k00/00m/010/037000c"/>
+        <updated>2021-07-29T00:54:13.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は29日午前、首相官邸に入る際、新型コロナウイルスの感染拡大に関し、記者団から「国民にメッセージはないか」と問われ「今日（感染状況を）確認してから説明する」と答えた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LINE、台湾要人の情報流出: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGKKZO74274580Z20C21A7EA1000/</id>
@@ -96,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[メルカリにおけるA/Bテスト標準化への取り組み - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi</id>
+        <link href="https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi"/>
+        <updated>2021-07-28T15:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 1 Conﬁdential メルカリにおけるA/Bテスト標準化への取り組み 柳沼 慎哉（@yaginuuun） 2021/7/28, Retty ✕ Mercari Analyst Talk Night! 2 Conﬁdential 自己紹介 • 前職ではe-learning serviceのData Scientist • メルカリではData Analystとして主にA/Bテスト周り、 推薦システムの改善を担当 • 個人でPodc...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[なぜ日本男子は世界で唯一､女性より幸福度が低くなるのか？｜ニューズウィーク日本版 オフィシャルサイト]]></title>
         <id>https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php</id>
         <link href="https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php"/>
@@ -176,11 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[弁当に続き、選手村のエアコン1万3000台も廃棄？　大会後に撤去 ：東京新聞 TOKYO Web]]></title>
+        <title type="html"><![CDATA[弁当に続き、選手村のエアコン1万3000台も廃棄？　大会後の再利用は未定 ：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/120086</id>
         <link href="https://www.tokyo-np.co.jp/article/120086"/>
         <updated>2021-07-28T12:22:54.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会の環境への取り組みは、選手村の備品を巡っても懸念が残る。各居室には合計でエアコン１万３０００台、トイレ５０００基、給湯器４０００器が設置された。すべて新品だが、パラリンピック終了後は分譲マンションへの改修工事をするため、全て撤去されるという。 組織委の北島隆ビレッ...]]></summary>
+        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会の環境への取り組みは、選手村の備品を巡っても懸念が残る。各居室には合計でエアコン１万３０００台、トイレ５０００基、給湯器４０００台が設置された。すべて新品だが、パラリンピック終了後は分譲マンションへの改修工事をするため、全て撤去されるという。 組織委の北島隆ビレッ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,31 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《話題の開会式記事全文を無料公開》森・菅・小池の五輪開会式“口利きリスト”　白鵬、海老蔵、後援者… | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47427</id>
-        <link href="https://bunshun.jp/articles/-/47427"/>
-        <updated>2021-07-28T07:50:08.000Z</updated>
-        <summary type="html"><![CDATA[開会式をきっかけに、一つの記事が注目を集めている。「週刊文春」2021年4月8日号で報じた五輪開会式を巡る記事に対して、東京五輪組織委員会が発売直後、異例の発売中止と雑誌の回収を求めた。そして、迎えた7月23日の開会式。この記事の内容が正確だったことがネット上で話題となり、拡散されたのだ。演出責任者だった...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[台本11冊を入手　五輪開会式“崩壊”　全内幕　計1199ページにすべての変遷が | 週刊文春 電子版]]></title>
         <id>https://bunshun.jp/denshiban/articles/b1436</id>
         <link href="https://bunshun.jp/denshiban/articles/b1436"/>
         <updated>2021-07-28T07:38:08.000Z</updated>
         <summary type="html"><![CDATA[演出責任者の相次ぐ交代など迷走を重ねた五輪開会式。今回入手した11冊にも及ぶ台本には、その過程が詳らかに記されていた。なぜ、どのようにして、開会式は“崩壊”していったのか。小誌だけが書ける全内幕――。 そのセレモニーは、新国立競技場に1台のバイクが颯爽と走ってくるシーンから幕を開けるはずだった。大友克洋...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キリン、全工場で見学有料化　適正飲酒促す: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUC283V20Y1A720C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUC283V20Y1A720C2000000/"/>
-        <updated>2021-07-28T06:48:42.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら キリンビールは28日、全国の9工場で10月から工場見学を有料化すると発表した。これまではビールを無料で試飲できたが、アルコールの過剰な摂取につながるといった批判...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

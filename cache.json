@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210729/k00/00m/010/037000c",
+          "author": null,
+          "description": "菅義偉首相は29日午前、首相官邸に入る際、新型コロナウイルスの感染拡大に関し、記者団から「国民にメッセージはないか」と問われ「今日（感染状況を）確認してから説明する」と答えた。",
+          "link": "https://mainichi.jp/articles/20210729/k00/00m/010/037000c",
+          "publishedOn": "2021-07-29T00:54:13.000Z",
+          "wordCount": 550,
+          "title": "菅首相　コロナ感染拡大「きょう説明する」　官邸で記者団に | 毎日新聞"
+        },
+        {
           "id": "https://www.nikkei.com/article/DGKKZO74274580Z20C21A7EA1000/",
           "author": null,
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【台北=中村裕】台湾当局や政党、軍の要人など100人以上が、対話アプリのLINEを通じてハッキングされていたことが28日、分かった。台湾ではスマートフォンでLINEを利用...",
@@ -47,7 +56,7 @@
           "description": "最後まで全力を尽くす伊藤のスタイルは、日本のファンには好意的に受け取られた。しかし、中国では快く思われなかったようだ。(C)Getty Images 7月28日に行なわれた東京五輪の卓球競技女子シングルス準々決勝で、日本の伊藤美誠はチョン・ジヒと激突。韓国のエースを相手に力の差を見せつけ、ゲームカウント4－0とストレ...",
           "link": "https://news.yahoo.co.jp/articles/edc6ff88cc74e2eb554be5fb19f45bbe02bb59fe",
           "publishedOn": "2021-07-28T20:53:54.000Z",
-          "wordCount": 80,
+          "wordCount": 77,
           "title": "「クレイジーだ」中国メディアが伊藤美誠の“ラブゲーム未遂”を批判「人間らしさがまるでない」【東京五輪】（THE DIGEST） - Yahoo!ニュース"
         },
         {
@@ -74,7 +83,7 @@
           "description": "英アストラゼネカ製の新型コロナウイルスワクチンについて、厚生労働省が、40歳以上を予防接種法上の「臨時接種」の対象として位置付ける方向で検討していることが28日、分かった。30日の同省のワクチン分科会で専門家の意見を聞く。 感染の第5波では、特に40～50代の重症者が増えている。臨時接種の対象として認められ...",
           "link": "https://news.yahoo.co.jp/articles/8c7f2a3bd8d8ff8a34825c423a6d1302ae1e2b93",
           "publishedOn": "2021-07-28T17:56:56.000Z",
-          "wordCount": 69,
+          "wordCount": 70,
           "title": "アストラ製、40歳以上で検討　厚労省、「臨時接種」対象（共同通信） - Yahoo!ニュース"
         },
         {
@@ -85,6 +94,15 @@
           "publishedOn": "2021-07-28T16:16:56.000Z",
           "wordCount": 78,
           "title": "界隈がざわつくほど超進化したPMBOK第7版の解説【プロジェクトマネジメント】｜Mizuho Kushida｜note"
+        },
+        {
+          "id": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
+          "author": null,
+          "description": "Transcript 1 Conﬁdential メルカリにおけるA/Bテスト標準化への取り組み 柳沼 慎哉（@yaginuuun） 2021/7/28, Retty ✕ Mercari Analyst Talk Night! 2 Conﬁdential 自己紹介 • 前職ではe-learning serviceのData Scientist • メルカリではData Analystとして主にA/Bテスト周り、 推薦システムの改善を担当 • 個人でPodc...",
+          "link": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
+          "publishedOn": "2021-07-28T15:28:55.000Z",
+          "wordCount": 1246,
+          "title": "メルカリにおけるA/Bテスト標準化への取り組み - Speaker Deck"
         },
         {
           "id": "https://www.newsweekjapan.jp/stories/world/2021/07/post-96774.php",
@@ -137,7 +155,7 @@
           "description": "[B! 司法] 「国民の一般的な宗教的感情」を害したので有罪。孤立出産で死産したベトナム人技能実習生、地裁判決の中身（望月優大） - 個人 - Yahoo!ニュース この件、既にブコメでも言われてるから敢えて書く必要はないかもしれないが、「国民の一般的な宗教的感情」が持ち出されるのは仕方ないと思う。 誤解無いように...",
           "link": "https://anond.hatelabo.jp/20210728222334",
           "publishedOn": "2021-07-28T13:37:44.000Z",
-          "wordCount": 163,
+          "wordCount": 170,
           "title": "「国民の一般的な宗教的感情」はしゃーない"
         },
         {
@@ -161,11 +179,11 @@
         {
           "id": "https://www.tokyo-np.co.jp/article/120086",
           "author": null,
-          "description": "東京五輪・パラリンピック組織委員会の環境への取り組みは、選手村の備品を巡っても懸念が残る。各居室には合計でエアコン１万３０００台、トイレ５０００基、給湯器４０００器が設置された。すべて新品だが、パラリンピック終了後は分譲マンションへの改修工事をするため、全て撤去されるという。 組織委の北島隆ビレッ...",
+          "description": "東京五輪・パラリンピック組織委員会の環境への取り組みは、選手村の備品を巡っても懸念が残る。各居室には合計でエアコン１万３０００台、トイレ５０００基、給湯器４０００台が設置された。すべて新品だが、パラリンピック終了後は分譲マンションへの改修工事をするため、全て撤去されるという。 組織委の北島隆ビレッ...",
           "link": "https://www.tokyo-np.co.jp/article/120086",
           "publishedOn": "2021-07-28T12:22:54.000Z",
-          "wordCount": 301,
-          "title": "弁当に続き、選手村のエアコン1万3000台も廃棄？　大会後に撤去 ：東京新聞 TOKYO Web"
+          "wordCount": 300,
+          "title": "弁当に続き、選手村のエアコン1万3000台も廃棄？　大会後の再利用は未定 ：東京新聞 TOKYO Web"
         },
         {
           "id": "https://www.tokyo-np.co.jp/article/120094",
@@ -231,31 +249,13 @@
           "title": "「謝らない謝罪」が日本で蔓延している｜ニューズウィーク日本版 オフィシャルサイト"
         },
         {
-          "id": "https://bunshun.jp/articles/-/47427",
-          "author": null,
-          "description": "開会式をきっかけに、一つの記事が注目を集めている。「週刊文春」2021年4月8日号で報じた五輪開会式を巡る記事に対して、東京五輪組織委員会が発売直後、異例の発売中止と雑誌の回収を求めた。そして、迎えた7月23日の開会式。この記事の内容が正確だったことがネット上で話題となり、拡散されたのだ。演出責任者だった...",
-          "link": "https://bunshun.jp/articles/-/47427",
-          "publishedOn": "2021-07-28T07:50:08.000Z",
-          "wordCount": 215,
-          "title": "《話題の開会式記事全文を無料公開》森・菅・小池の五輪開会式“口利きリスト”　白鵬、海老蔵、後援者… | 文春オンライン"
-        },
-        {
           "id": "https://bunshun.jp/denshiban/articles/b1436",
           "author": null,
           "description": "演出責任者の相次ぐ交代など迷走を重ねた五輪開会式。今回入手した11冊にも及ぶ台本には、その過程が詳らかに記されていた。なぜ、どのようにして、開会式は“崩壊”していったのか。小誌だけが書ける全内幕――。 そのセレモニーは、新国立競技場に1台のバイクが颯爽と走ってくるシーンから幕を開けるはずだった。大友克洋...",
           "link": "https://bunshun.jp/denshiban/articles/b1436",
           "publishedOn": "2021-07-28T07:38:08.000Z",
-          "wordCount": 381,
+          "wordCount": 382,
           "title": "台本11冊を入手　五輪開会式“崩壊”　全内幕　計1199ページにすべての変遷が | 週刊文春 電子版"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOUC283V20Y1A720C2000000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら キリンビールは28日、全国の9工場で10月から工場見学を有料化すると発表した。これまではビールを無料で試飲できたが、アルコールの過剰な摂取につながるといった批判...",
-          "link": "https://www.nikkei.com/article/DGXZQOUC283V20Y1A720C2000000/",
-          "publishedOn": "2021-07-28T06:48:42.000Z",
-          "wordCount": 109,
-          "title": "キリン、全工場で見学有料化　適正飲酒促す: 日本経済新聞"
         },
         {
           "id": "https://note.com/noyamaayon/n/n98c35152ebb3",

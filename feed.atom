@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T12:19:05.302Z</id>
+    <id>urn:2021-07-29T13:19:22.100Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T12:19:05.302Z</updated>
+    <updated>2021-07-29T13:19:22.100Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ “ジワジワくる” 神奈川県の注意呼びかけ文が話題 | オリンピック・パラリンピック | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210729/k10013166301000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013166301000.html"/>
-        <updated>2021-07-29T05:51:53.000Z</updated>
-        <summary type="html"><![CDATA[神奈川県がLINEやツイッターで送っている新型コロナウイルスへの注意の呼びかけ文が、「短文小説のようだ」「ジワジワくる」などとネット上で話題になっています。神奈川県にはオリンピックの競技会場があり担当者は「外に出ず家のテレビなどで観戦するよう配信していきたい」と話しています。 話題になっているのは、神...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[尾身会長「“コロナ対策全力で”五輪開催決めた政府・組織委員会に責任」｜TBS NEWS]]></title>
         <id>https://news.tbs.co.jp/newseye/tbs_newseye4325816.html</id>
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4325816.html"/>
@@ -151,6 +141,16 @@
         <link href="https://mainichi.jp/articles/20210729/k00/00m/050/117000c"/>
         <updated>2021-07-29T04:41:36.000Z</updated>
         <summary type="html"><![CDATA[国際オリンピック委員会（IOC）のマーク・アダムス広報部長は29日の定例記者会見で、東京で新型コロナウイルスの感染者が急拡大していることについて「パラレルワールド（並行世界）みたいなものだ。私たちから東京で感染を広げていることはない」と五輪開催と東京の感染再拡大は無関係との認識を示した。 記者会見でア...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【東京オリンピック開会式について】｜乗越たかお｜note]]></title>
+        <id>https://note.com/nori54takao/n/n72a90c76b050</id>
+        <link href="https://note.com/nori54takao/n/n72a90c76b050"/>
+        <updated>2021-07-29T04:15:02.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

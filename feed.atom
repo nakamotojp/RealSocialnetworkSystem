@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T06:15:09.476Z</id>
+    <id>urn:2021-07-29T07:10:59.373Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T06:15:09.476Z</updated>
+    <updated>2021-07-29T07:10:59.373Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,11 +26,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大企業から仕事の依頼、何十時間もかけて提案資料を作ったけどポシャン→ここまでの分の精算を求めたら「一円も払えません」と言われた… - Togetter]]></title>
+        <id>https://togetter.com/li/1751456</id>
+        <link href="https://togetter.com/li/1751456"/>
+        <updated>2021-07-29T03:26:11.000Z</updated>
+        <summary type="html"><![CDATA[チャーリー @tetsurokondoh 某大企業から仕事の相談が ↓ 予算承認これからなので承認のための提案資料つくりたい ↓ 何回も打ち合わせし数十時間かけて図解&資料つくる ↓ 予算降りませんでしたごめんなさい 別件で前向きに進められないか ↓ じゃあここまでの分一旦精算させてください ↓ 一円も払えません ↓ え？ ← ｲﾏｺｺ 2...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[尾身氏「大阪のように亡くなる人が出ることも想定を」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7Y3SV4P7YUTFK004.html</id>
         <link href="https://www.asahi.com/articles/ASP7Y3SV4P7YUTFK004.html"/>
         <updated>2021-07-29T02:54:53.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの首都圏を中心とした感染急拡大について、政府対策分科会の尾身茂会長は29日午前、この春の感染拡大で医療が逼迫（ひっぱく）し、十分な治療を受けられずに命が失われる「医療崩壊」を招いた関西地域と、同様の状況になる可能性があるとの認識を示した。「亡くなる人が出てくることも想定して対策が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「危機感 共有なければ医療ひっ迫深刻に」政府分科会 尾身会長 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013167231000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013167231000.html"/>
+        <updated>2021-07-29T02:53:06.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対応で政府の分科会の尾身会長は、参議院内閣委員会で、現状では、感染を減少させる要素がほとんどないとして、社会全体で危機感が共有されなければ、早晩医療のひっ迫が深刻になると強い危機感を示しました。 この中で、尾身会長は、感染状況について「今、この感染を下げる要素があまりないが、上げ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[のもっちゃん on Twitter: "立憲 玄葉光一郎 これを国会でしゃべったのか。許せない。 「韓国っていう国は私も色々と向き合ったことがありますけれども、色んな評価とか指摘があります。まあどうしても感情が優先するとかですね、科学的・合理的思考が不得手ではないかとい… https://t.co/v6vJTolEat"]]></title>
-        <id>https://twitter.com/papdnoy/status/1420323328229707776</id>
-        <link href="https://twitter.com/papdnoy/status/1420323328229707776"/>
-        <updated>2021-07-28T14:48:58.000Z</updated>
-        <summary type="html"><![CDATA[立憲 玄葉光一郎 これを国会でしゃべったのか。許せない。 「韓国っていう国は私も色々と向き合ったことがありますけれども、色んな評価とか指摘があります。まあどうしても感情が優先するとかですね、科学的・合理的思考が不得手ではないかとい… https://t.co/v6vJTolEat]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[令和にタクティクスオウガを遊んだ｜ジスロマック｜note]]></title>
         <id>https://note.com/yomooog/n/n7f3a3477e593</id>
         <link href="https://note.com/yomooog/n/n7f3a3477e593"/>
@@ -291,16 +301,6 @@
         <link href="https://note.com/noyamaayon/n/n98c35152ebb3"/>
         <updated>2021-07-27T09:52:24.000Z</updated>
         <summary type="html"><![CDATA[ショーディレクター解任報道により、急きょ発売中止となった、幻の「開会式プログラム」。その中の、演出・小林賢太郎氏のインタビューを読んだ私は、この記事を書かねばならないと思った。インタビュー内容は後述するが、とにかく、私が知りうる限りの事実を、正確に、わかりやすく、順を追って、ここに記そうと思う。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixivメッセージで受けた巧妙な嫌がらせについて｜幸坊｜note]]></title>
-        <id>https://note.com/yukinbo78/n/n60ac0f23dd2d</id>
-        <link href="https://note.com/yukinbo78/n/n60ac0f23dd2d"/>
-        <updated>2021-07-27T08:07:44.000Z</updated>
-        <summary type="html"><![CDATA[昨今、ネットでの誹謗中傷や嫌がらせによるトラブルが頻繁に発生しています。 今回、しがない一絵描きである私自身がPixivメッセージにて 『あからさまではないが、確実にクリエイターを攻撃してくる』 事案に遭遇しましたので、 今後、もしくは今までに同様のことに遭遇した方向けの注意喚起として、その紹介と『やりと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

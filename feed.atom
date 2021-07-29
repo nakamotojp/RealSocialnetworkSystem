@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T20:21:25.681Z</id>
+    <id>urn:2021-07-29T21:21:32.207Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T20:21:25.681Z</updated>
+    <updated>2021-07-29T21:21:32.207Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[キャンセル・カルチャーをキャンセルせよ]]></title>
+        <id>https://youkoseki.com/f/canceling_cancel_culture</id>
+        <link href="https://youkoseki.com/f/canceling_cancel_culture"/>
+        <updated>2021-07-29T14:14:55.000Z</updated>
+        <summary type="html"><![CDATA[youkoseki.com キャンセル・カルチャーをキャンセルせよ 毎日なにかが炎上している。 ミュージシャンの小山田圭吾はオリンピックの開会式に関わるというニュースが流れると、昔のいじめ自慢が話題になって炎上し、開会式への参加を辞退することになった。同じオリンピック開会式の演出を行っていた小林賢太郎は、過去の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kenji Shiraishi on Twitter: "うおー、これはすごい。ニューヨーク市は、ワクチン未接種者の感染と死亡が急増していることを受け、ワクチン接種をすれば全員100ドルもらえるキャンペーンを開始すると発表した。明後日スタート。これは流石に効果あるんじゃないか。 https://t.co/uE19BjFK1e"]]></title>
         <id>https://twitter.com/Knjshiraishi/status/1420433763733950464</id>
@@ -196,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ “ジワジワくる” 神奈川県の注意呼びかけ文が話題 | オリンピック・パラリンピック | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210729/k10013166301000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013166301000.html"/>
-        <updated>2021-07-29T05:51:53.000Z</updated>
-        <summary type="html"><![CDATA[神奈川県がLINEやツイッターで送っている新型コロナウイルスへの注意の呼びかけ文が、「短文小説のようだ」「ジワジワくる」などとネット上で話題になっています。神奈川県にはオリンピックの競技会場があり担当者は「外に出ず家のテレビなどで観戦するよう配信していきたい」と話しています。 話題になっているのは、神...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[尾身会長「“コロナ対策全力で”五輪開催決めた政府・組織委員会に責任」｜TBS NEWS]]></title>
         <id>https://news.tbs.co.jp/newseye/tbs_newseye4325816.html</id>
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4325816.html"/>
@@ -221,6 +221,16 @@
         <link href="https://note.com/ono_matope/n/n8919af73eb68"/>
         <updated>2021-07-29T05:10:13.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染最多の首相取材「答える状況になかった」長官が説明 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Y4FLTP7YULFA00K.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Y4FLTP7YULFA00K.html"/>
+        <updated>2021-07-29T05:03:40.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの国内感染者数が過去最多となった28日に、菅義偉首相が記者団の取材に応じなかったことについて、加藤勝信官房長官は29日の会見で「（記者団からの）『緊急事態宣言をどうするか』との質問に、その時点で申し上げる状況になっていないので『お答えする内容はない』となった」などと説明した。 全国で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0"/>
         <updated>2021-07-29T02:23:20.000Z</updated>
         <summary type="html"><![CDATA[ミクシィの21新卒技術研修の講義資料や『動画』を公開します！ 研修資料・動画一覧git研修（動画、スライド）データベース研修（動画、スライド、SQL演習環境）設計・テスト研修（動画、スライド）iOSアプリ開発研修（動画、スライド、リポジトリ）Androidアプリ開発研修（動画、スライド、リポジトリ）フロントエンド研...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「自宅でオリンピック観戦」では減らない　少し先の未来に怯える理論疫学者が再び東京五輪中断を訴えるわけ]]></title>
-        <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210728-3</id>
-        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210728-3"/>
-        <updated>2021-07-29T02:13:40.000Z</updated>
-        <summary type="html"><![CDATA[「自宅でオリンピック観戦」では減らない　少し先の未来に怯える理論疫学者が再び東京五輪中断を訴えるわけデルタ株によって感染拡大が加速し、医療崩壊が差し迫る中、理論疫学者の西浦博さんは改めて東京五輪の中断を訴えます。「もうダメかもしれない」と怯えつつ、それでも次の一手を考える理由とは？ BuzzFeed Japan...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

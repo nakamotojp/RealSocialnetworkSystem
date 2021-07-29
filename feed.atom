@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T14:11:07.892Z</id>
+    <id>urn:2021-07-29T15:13:41.783Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T14:11:07.892Z</updated>
+    <updated>2021-07-29T15:13:41.784Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【独自】五輪ボランティアのＰＣＲ検査“ずさん”な実態を証言 『事前』『毎日』が骨抜きか｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4326018.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4326018.html"/>
+        <updated>2021-07-29T10:39:00.000Z</updated>
+        <summary type="html"><![CDATA[政府が「安全安心」をアピールする東京オリンピックで、選手らと接触するボランティアの人たちに義務づけられている新型コロナのＰＣＲ検査について、ずさんな運用の実態がＪＮＮの取材で分かりました。 「選手村にはきょうも、続々とボランティアの方々が入っていきます」（記者） オリンピックの選手村などで活動する...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相　感染急拡大　五輪開催の影響を否定「そこはない」：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/120343</id>
         <link href="https://www.tokyo-np.co.jp/article/120343"/>
         <updated>2021-07-29T10:21:39.000Z</updated>
         <summary type="html"><![CDATA[菅義偉首相は２９日、新型コロナウイルスの感染急拡大と東京五輪の因果関係について官邸で記者団に「ないと思っている」と否定した。記者が「五輪の開催が今回の感染者数に影響を与えていない、因果関係がないという論拠を聞かせてほしい」と尋ねたのに答えた。 首相は「五輪で人流が増えたり、外国の方から感染が広がっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緊急事態宣言 4府県追加 東京 沖縄も来月31日まで 政府方針 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013168711000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013168711000.html"/>
+        <updated>2021-07-29T10:13:44.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策で、政府は、東京都と沖縄県に出されている緊急事態宣言について埼玉、千葉、神奈川、大阪の4府県を追加する方針を固め、与党側に伝えました。期間は来月2日から31日までとし、東京と沖縄の宣言の期限もこれにあわせて延長する方針です。 今月12日から4回目の緊急事態宣言の期間に入っている東京...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立民・枝野代表、五輪中止求めず「かえって混乱」 - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210729-QNKCRVB6EVLS7BMV332WIY7QZM/</id>
+        <link href="https://www.sankei.com/article/20210729-QNKCRVB6EVLS7BMV332WIY7QZM/"/>
+        <updated>2021-07-29T09:39:51.000Z</updated>
+        <summary type="html"><![CDATA[立憲民主党の枝野幸男代表（春名中撮影）立憲民主党の枝野幸男代表は２９日の記者会見で、新型コロナウイルス感染拡大の中で開催されている東京五輪について、かえって混乱を招くとして中止を求めない考えを示した。立民は五輪開幕前、「再延期か中止」を主張していた。 枝野氏は、すでに五輪の日程が進んでおり、多くの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -30,7 +60,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210729/k10013167811000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210729/k10013167811000.html"/>
         <updated>2021-07-29T09:06:12.000Z</updated>
-        <summary type="html"><![CDATA[29日は、これまでに全国で1万305人の感染が発表されています。 1日の発表としては初めて1万人を超えて過去最多となりました。 また、東京都で3人、大阪府で2人、沖縄県で2人、神奈川県で2人、兵庫県で1人、千葉県で1人、埼玉県で1人、石川県で1人の合わせて13人の死亡の発表がありました。 国内で感染が確認された人は、...]]></summary>
+        <summary type="html"><![CDATA[29日は、これまでに全国で1万699人の感染が発表されています。 1日の発表としては初めて1万人を超えて過去最多となりました。 また、東京都で3人、大阪府で2人、沖縄県で2人、神奈川県で2人、兵庫県で1人、千葉県で1人、埼玉県で1人、愛知県で1人、石川県で1人の合わせて14人の死亡の発表がありました。 国内で感染が確...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,6 +121,16 @@
         <link href="https://knqyf263.hatenablog.com/entry/2021/07/29/143500"/>
         <updated>2021-07-29T06:38:47.000Z</updated>
         <summary type="html"><![CDATA[2年前の2019年8月に以下のブログを書きました。 knqyf263.hatenablog.com 今回はその続きです。前回のブログは多くの人に読んでもらうことを意識して書きましたが、今回はそうではないです。特に得た学びを書くわけでもなく何で作り始めたのか？とかどんなことがあったのか？とか思い出話を書いているだけなので、言って...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHK、「映像の世紀」全11作を8月3日から再放送 - AV Watch]]></title>
+        <id>https://av.watch.impress.co.jp/docs/news/1340922.html</id>
+        <link href="https://av.watch.impress.co.jp/docs/news/1340922.html"/>
+        <updated>2021-07-29T06:38:21.000Z</updated>
+        <summary type="html"><![CDATA[NHKは、1995年に放送した「映像の世紀」全11作を、最新のデジタル技術で鮮やかな映像にしつつ、NHK総合で8月3日深夜0時11分(2日月曜深夜)から2週にわたって再放送する。20世紀は人類が初めて歴史を「動く映像」として見ることができた最初の世紀である事から、“映像は20世紀をいかに記録してきたのか”を、世界中の映像記録を発掘・収集し、再構成したドキュメンタリー。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,26 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[永久保存版・はじめての四川料理──趣味にするとこんなにハマる本格中華の世界【四川料理のスゴい人】 - メシ通 | ホットペッパーグルメ]]></title>
-        <id>https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00544</id>
-        <link href="https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00544"/>
-        <updated>2021-07-29T01:52:17.000Z</updated>
-        <summary type="html"><![CDATA[自宅で本格的な中華料理をつくってみたい人のために ご本人初のレシピ集『四川料理のスゴい人 自宅でつくる本格中華レシピ』（三才ブックス）も発売となり、さまざまなメディアにも出演するなど、ますます絶好調な人長さん。 『メシ通』ではお馴染みの料理人さんですよね。 www.hotpepper.jp www.hotpepper.jp 今回は本...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相　コロナ感染拡大「きょう説明する」　首都圏3県宣言で調整 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210729/k00/00m/010/037000c</id>
-        <link href="https://mainichi.jp/articles/20210729/k00/00m/010/037000c"/>
-        <updated>2021-07-29T00:54:13.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は29日午前、首相官邸に入る際に記者団から、新型コロナウイルスの感染拡大に関し「国民にメッセージはないか」と問われ、「今日（感染状況を）確認してから説明する」と答えた。 西村康稔経済再生担当相は29日の参院内閣委員会の閉会中審査で、感染拡大地域の知事から緊急事態宣言発令やまん延防止等重点措置...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京五輪の国民1人あたりの負担額「都民10万3929円」「国民1万408円」 | マネーポストWEB]]></title>
         <id>https://www.moneypost.jp/815781</id>
         <link href="https://www.moneypost.jp/815781"/>
@@ -246,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「クレイジーだ」中国メディアが伊藤美誠の“ラブゲーム未遂”を批判「人間らしさがまるでない」【東京五輪】（THE DIGEST） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/edc6ff88cc74e2eb554be5fb19f45bbe02bb59fe</id>
-        <link href="https://news.yahoo.co.jp/articles/edc6ff88cc74e2eb554be5fb19f45bbe02bb59fe"/>
-        <updated>2021-07-28T20:53:54.000Z</updated>
-        <summary type="html"><![CDATA[最後まで全力を尽くす伊藤のスタイルは、日本のファンには好意的に受け取られた。しかし、中国では快く思われなかったようだ。(C)Getty Images 7月28日に行なわれた東京五輪の卓球競技女子シングルス準々決勝で、日本の伊藤美誠はチョン・ジヒと激突。韓国のエースを相手に力の差を見せつけ、ゲームカウント4－0とストレ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「メダルラッシュで日本の世論はコロッと変わる」という予言が的中した理由 | 情報戦の裏側 | ダイヤモンド・オンライン]]></title>
         <id>https://diamond.jp/articles/-/277978</id>
         <link href="https://diamond.jp/articles/-/277978"/>
         <updated>2021-07-28T20:19:33.000Z</updated>
         <summary type="html"><![CDATA[くぼた・まさき／テレビ情報番組制作、週刊誌記者、新聞記者、月刊誌編集者を経て現在はノンフィクションライターとして週刊誌や月刊誌へ寄稿する傍ら、報道対策アドバイザーとしても活動。これまで200件以上の広報コンサルティングやメディアトレーニング（取材対応トレーニング）を行う。 著書は日本の政治や企業の広...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[転売関係の備忘録]]></title>
-        <id>https://anond.hatelabo.jp/20210729010023</id>
-        <link href="https://anond.hatelabo.jp/20210729010023"/>
-        <updated>2021-07-28T17:46:40.000Z</updated>
-        <summary type="html"><![CDATA[最近転売関係の話題を見た関係でメモ書き 転売屋の存在は市場の効率性を改善しない（なので「これが資本主義の自由市場だ！」みたいな論は無効です） 小売り価格と需給の均衡価格にギャップが存在しなくても転売屋は利潤を得ることができる（つまり販売価格を上げても転売屋がもっと高く売るだけだ論は成立します）転売...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

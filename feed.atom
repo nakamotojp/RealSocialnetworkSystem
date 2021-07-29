@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T15:13:41.783Z</id>
+    <id>urn:2021-07-29T16:19:01.728Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T15:13:41.784Z</updated>
+    <updated>2021-07-29T16:19:01.728Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -206,6 +206,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[超万能！Notionをまったく別のツールに大変身させるWebサービスを厳選してみた！ - paiza開発日誌]]></title>
+        <id>https://paiza.hatenablog.com/entry/2021/07/29/130000</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/29/130000"/>
+        <updated>2021-07-29T04:01:04.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！ 今回は、万能なドキュメントサービスとして人気の「Notion」を、さらにパワーアップさせて別の用途に活用できるWebサービスを厳選してご紹介します！ すべて無料で利用できる（もしくは無料プランありの）サービスであり、機能的に優れていて誰でも扱える簡単な操作のものを厳選し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[大企業から仕事の依頼、何十時間もかけて提案資料を作ったけどポシャる→ここまでの分の精算を求めたら「一円も払えません」と言われた… - Togetter]]></title>
         <id>https://togetter.com/li/1751456</id>
         <link href="https://togetter.com/li/1751456"/>
@@ -251,16 +261,6 @@
         <link href="https://www.moneypost.jp/815781"/>
         <updated>2021-07-28T23:05:36.000Z</updated>
         <summary type="html"><![CDATA[大会終了後には五輪費用の“精算”が待っている（写真／代表撮影・雑誌協会） “暗雲の開幕”となった東京五輪。コロナの感染急拡大に加えて開会式の楽曲担当ミュージシャンや演出担当が直前に辞任、解任に追い込まれる異常事態が続き、大会最上位スポンサーのトヨタ、パナソニックの社長らは開会式出席を見送った。 さらに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西浦博さんが断言「間違いなくこれまでで一番厳しい状態」　デルタ株の強い感染性で加速化する感染拡大]]></title>
-        <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210728-1</id>
-        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura-20210728-1"/>
-        <updated>2021-07-28T22:17:41.000Z</updated>
-        <summary type="html"><![CDATA[西浦博さんが断言「間違いなくこれまでで一番厳しい状態」　デルタ株の強い感染性で加速化する感染拡大東京で新規感染者数が過去最多を記録しましたが、理論疫学者の西浦博さんは「さらに感染拡大は加速する可能性がある」と厳しい予測に頭を抱えます。最新のデータ分析を伝えます。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

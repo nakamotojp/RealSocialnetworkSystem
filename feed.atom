@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T13:28:24.629Z</id>
+    <id>urn:2021-07-30T14:11:02.709Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T13:28:24.629Z</updated>
+    <updated>2021-07-30T14:11:02.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東大病院ICU 新型コロナ以外の患者受け入れ制限 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210730/k10013171361000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171361000.html"/>
+        <updated>2021-07-30T11:13:33.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染の急拡大に伴って治療態勢がひっ迫しているとして、東京大学医学部附属病院では新型コロナ以外の患者についてのICU＝集中治療室での受け入れを制限し始めたことを明らかにしました。 東京大学医学部附属病院のICUでは、このところ新型コロナウイルスの重症患者の治療に追われ病院内の中等症の病...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【詳細】菅首相会見「今回の宣言が最後となるような覚悟で」 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210730/k10013171341000.html</id>
@@ -271,16 +281,6 @@
         <link href="https://www.huffingtonpost.jp/entry/ibusuki-technical-intern-trainee_jp_60f59c28e4b0b2214fb665d0"/>
         <updated>2021-07-29T23:04:57.000Z</updated>
         <summary type="html"><![CDATA[女性蔑視発言、障害者への凄惨ないじめ、ホロコーストを揶揄したコント――。 東京オリンピックは招致決定から開会直前まで、関係者の問題発言が次々と発覚し、日本の人権意識の未熟さが世界に露呈した。 批判を浴びているのは、個人の言動だけではない。 国連の人種差別撤廃委員会が「虐待的かつ搾取的な慣行」と非難する...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ダチョウのように走る下半身だけの二足歩行ロボット」が5kmを53分台で走破、軽快に走るムービーも公開中 - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/</id>
-        <link href="https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/"/>
-        <updated>2021-07-29T21:27:20.000Z</updated>
-        <summary type="html"><![CDATA[膝関節の向きが人間と逆でダチョウのように走る二足歩行ロボット「Cassie」は、アメリカ・オレゴン州立大学発のスタートアップであるAgility Roboticsによって開発されたロボットです。二足歩行ロボットは人間用に設計された場所を通過しやすい一方、バランスを取るのが難しいのが課題ですが、研究チームがCassieをディ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

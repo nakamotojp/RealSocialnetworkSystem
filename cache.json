@@ -11,7 +11,7 @@
           "description": "阪急阪神百貨店を傘下に持つエイチ・ツー・オー（H2O）リテイリングは30日、大阪市北区の阪神梅田本店で新型コロナウイルスのクラスター（感染者集団）が発生したため、31日と8月1日を全館臨時休業にすると発表した。 H2Oによると、同店では今月26～29日に従業員53人の感染が確認されたという。8月2日以降の営業は、緊急...",
           "link": "https://www.asahi.com/articles/ASP7Z74VJP7ZPLFA00H.html",
           "publishedOn": "2021-07-30T12:44:21.000Z",
-          "wordCount": 208,
+          "wordCount": 211,
           "title": "阪神梅田本店、53人のクラスター発生で土日に全館休業：朝日新聞デジタル"
         },
         {
@@ -42,6 +42,15 @@
           "title": "WEB特集 なぜ何もかもうまくいかない？ わたしは「境界知能」でした | NHKニュース"
         },
         {
+          "id": "https://www.tokyo-np.co.jp/article/120556",
+          "author": null,
+          "description": "政府は３０日夕、新型コロナウイルスの感染が急拡大する埼玉、千葉、神奈川、大阪４府県への緊急事態宣言発令を決定する。いずれも８月２日からで、期限は同３１日。東京都と沖縄県の期限も同３１日まで延長する。菅義偉首相は３０日午後７時から記者会見を開く。東京五輪の開催中に宣言の対象地域や期間を拡大する異例...",
+          "link": "https://www.tokyo-np.co.jp/article/120556",
+          "publishedOn": "2021-07-30T11:22:30.000Z",
+          "wordCount": 343,
+          "title": "【首相会見】辞職の覚悟あるのかと迫る記者に、菅首相「感染対策、私はできる」：東京新聞 TOKYO Web"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210730/k10013171361000.html",
           "author": null,
           "description": "新型コロナウイルスの感染の急拡大に伴って治療態勢がひっ迫しているとして、東京大学医学部附属病院では新型コロナ以外の患者についてのICU＝集中治療室での受け入れを制限し始めたことを明らかにしました。 東京大学医学部附属病院のICUでは、このところ新型コロナウイルスの重症患者の治療に追われ病院内の中等症の病...",
@@ -60,12 +69,21 @@
           "title": "【詳細】菅首相会見「今回の宣言が最後となるような覚悟で」 | 新型コロナウイルス | NHKニュース"
         },
         {
+          "id": "https://anond.hatelabo.jp/20110730214428",
+          "author": null,
+          "description": "そうめんを心からおいしいと思って食べてるやつっているの？",
+          "link": "https://anond.hatelabo.jp/20110730214428",
+          "publishedOn": "2021-07-30T09:59:33.000Z",
+          "wordCount": 139,
+          "title": "そうめんを心からおいしいと思って食べてるやつっているの？"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP7Z5T2JP7ZPTIL02N.html",
           "author": null,
           "description": "大阪市の松井一郎市長は30日の記者会見で、大阪府などに新型コロナ対応の緊急事態宣言が出されても、8月に予定されている市立中学校4校の修学旅行は実施すると表明した。出発前に生徒全員にPCR検査を行い、陰性が確認された人が参加する仕組みとする。「感染者がいなければオリンピックもやっている。一生の思い出に残る...",
           "link": "https://www.asahi.com/articles/ASP7Z5T2JP7ZPTIL02N.html",
           "publishedOn": "2021-07-30T09:11:56.000Z",
-          "wordCount": 214,
+          "wordCount": 217,
           "title": "緊急事態でも修学旅行実施　大阪市長「五輪やっている」 [新型コロナウイルス]：朝日新聞デジタル"
         },
         {
@@ -76,6 +94,15 @@
           "publishedOn": "2021-07-30T09:11:02.000Z",
           "wordCount": 26,
           "title": "コロナ感染の五輪関係者 宿泊療養施設から外出 “説得応じず” | オリンピック・パラリンピック　大会運営 | NHKニュース"
+        },
+        {
+          "id": "https://nlab.itmedia.co.jp/nl/articles/2107/30/news023.html",
+          "author": null,
+          "description": "7月30日の「Annapurna Interactive Showcase 2021」の中で、追加DLC「Echoes of the Eye」が発表された「Outer Wilds」（関連記事） ライター：hamatsu 某ゲーム会社勤務のゲーム開発者。ブログ「枯れた知識の水平思考」「色々水平思考」の執筆者。 ゲームというメディアにしかなしえない「面白さ」について日々考えてま...",
+          "link": "https://nlab.itmedia.co.jp/nl/articles/2107/30/news023.html",
+          "publishedOn": "2021-07-30T09:03:41.000Z",
+          "wordCount": 339,
+          "title": "【ネタバレなし】なぜ「Outer Wilds」は「記憶を消してもう一度遊びたい傑作」と言われるのか：水平思考（ねとらぼ出張版） - ねとらぼ"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210730/k10013171151000.html",
@@ -137,7 +164,7 @@
           "description": "安倍晋三前首相の後援会が「桜を見る会」の前日に開いた夕食会の費用をめぐる問題で、安倍前首相を不起訴とした東京地検特捜部の処分の一部を「不起訴不当」とした東京第一検察審査会の議決書が30日午後、公表された。議決書は、安倍氏について「総理大臣であった者が秘書がやったことだとして関知しない姿勢は国民感情...",
           "link": "https://www.asahi.com/articles/ASP7Z51F9P7ZUTIL026.html",
           "publishedOn": "2021-07-30T07:27:38.000Z",
-          "wordCount": 218,
+          "wordCount": 221,
           "title": "安倍氏に「自覚持ち説明責任果たすべき」と注文　検審：朝日新聞デジタル"
         },
         {
@@ -164,7 +191,7 @@
           "description": "丸川珠代五輪担当相が30日、首相官邸で午前10時に始まった閣議に5分ほど遅刻した。東京五輪対応の交通規制で都内の高速道路の入り口が封鎖されたことによる、一般道の渋滞が原因だったという。 丸川氏は閣議後の記者会見で遅刻の理由を問われ、「高速の入り口がオリンピック対応で封鎖され、途中、渋滞していた。さらに...",
           "link": "https://www.asahi.com/articles/ASP7Z4FHGP7ZULFA011.html",
           "publishedOn": "2021-07-30T04:58:03.000Z",
-          "wordCount": 217,
+          "wordCount": 220,
           "title": "丸川五輪相が閣議に遅刻「高速が封鎖され渋滞していた」 - 東京オリンピック：朝日新聞デジタル"
         },
         {
@@ -204,15 +231,6 @@
           "title": "登園後、バスに置き去りか　泣き崩れる母「返して」福岡5歳児死亡 | 毎日新聞"
         },
         {
-          "id": "https://news.tv-asahi.co.jp/news_society/articles/000224099.html",
-          "author": null,
-          "description": "東京オリンピック・パラリンピック組織委員会でコロナ対策を検討する専門家会議の岡部信彦座長が取材に応じ、「一般医療にしわ寄せがいくような状況になれば大会の中止も検討するべき」という考えを示しました。 コロナ対策専門家会議・岡部信彦座長：「一般の医療そのものに、しわ寄せがくるっていうのは、これはタイミ...",
-          "link": "https://news.tv-asahi.co.jp/news_society/articles/000224099.html",
-          "publishedOn": "2021-07-30T03:27:17.000Z",
-          "wordCount": 19,
-          "title": "「大会中止も検討を」組織委専門家会議座長が懸念｜テレ朝news-テレビ朝日のニュースサイト"
-        },
-        {
           "id": "https://news.denfaminicogamer.jp/kikakuthetower/210730b",
           "author": null,
           "description": "藤本タツキは『ルックバック』を“描かずにはいられなかった”のではないか？──「受け手に湧き上がる衝動によって駆動する物語」としての『ルックバック』を考える 2021年7月19日の0時に「少年ジャンプ+」にて公開されるやいなや大反響を呼び、次々と熱のこもった批評、感想がネット上に次々アップされ、すでにひとつの「...",
@@ -245,17 +263,8 @@
           "description": "モリコロス(区切りはロス) @molicoross 掌底？アゴ？顔のキワとかどうするの？という疑問をお見かけしたので私のやり方を補足しておきますね。 タオルで顔を拭く前に手指ワイパーで水切るといいっすよ。 pic.twitter.com/yNFySik8fm 2021-07-29 16:43:38",
           "link": "https://togetter.com/li/1751834",
           "publishedOn": "2021-07-30T01:23:06.000Z",
-          "wordCount": 1288,
+          "wordCount": 1298,
           "title": "「顔洗うと胸元も肘もビシャビシャになるじゃん？」『ならんよ！？』この世にはビシャらない洗顔方法があるらしい - Togetter"
-        },
-        {
-          "id": "https://togetter.com/li/1751843",
-          "author": null,
-          "description": "イシゲスズコ @suminotiger オットスキー部員。 小学生から高校まで子が４人、あとイシガメとすっぽんとサワガニと川魚。最近老いた黒柴が仲間入りしました。 楽天ルーム→room.rakuten.co.jp/room_61fcbb051… 欲しいものリスト→amazon.jp/hz/wishlist/ls… suminotiger.hatenadiary.jp イシゲスズコ @suminotiger 今、小...",
-          "link": "https://togetter.com/li/1751843",
-          "publishedOn": "2021-07-30T01:21:14.000Z",
-          "wordCount": 616,
-          "title": "今、小さいお子さんをお育ての親御さんたちに伝えたい事『子供たちのためにプールを用意し、かき氷をせっせと作ってあげる夏は、ある時突然終わります』 - Togetter"
         },
         {
           "id": "https://twitter.com/hazuma/status/1420768437060599808",
@@ -265,15 +274,6 @@
           "publishedOn": "2021-07-29T23:33:53.000Z",
           "wordCount": 196,
           "title": "東浩紀 Hiroki Azuma on Twitter: \"感染者数が増えると医療逼迫するというなら、がん患者が増えても医療逼迫するし、肥満が増えても医療逼迫するし、交通事故が増えても医療逼迫する。というかそもそも高齢者が増えれば当然医療逼迫する。医療逼迫しないことを目的にするという言説自体がぼくはどうも受け付けないんですよね。\""
-        },
-        {
-          "id": "https://www.huffingtonpost.jp/entry/ibusuki-technical-intern-trainee_jp_60f59c28e4b0b2214fb665d0",
-          "author": null,
-          "description": "女性蔑視発言、障害者への凄惨ないじめ、ホロコーストを揶揄したコント――。 東京オリンピックは招致決定から開会直前まで、関係者の問題発言が次々と発覚し、日本の人権意識の未熟さが世界に露呈した。 批判を浴びているのは、個人の言動だけではない。 国連の人種差別撤廃委員会が「虐待的かつ搾取的な慣行」と非難する...",
-          "link": "https://www.huffingtonpost.jp/entry/ibusuki-technical-intern-trainee_jp_60f59c28e4b0b2214fb665d0",
-          "publishedOn": "2021-07-29T23:04:57.000Z",
-          "wordCount": 257,
-          "title": "「この制度は危なすぎる」 五輪でも露呈した日本の人権意識の低さ、“ヒーロー” 弁護士が指摘する問題とは | ハフポスト"
         }
       ]
     }

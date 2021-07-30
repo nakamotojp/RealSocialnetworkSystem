@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210730/k10013171791000.html",
+          "author": null,
+          "description": "政府の分科会の尾身茂会長は、30日夜、西村経済再生担当大臣とともに行った記者会見で「今、感染が非常に大きく拡大し、多くの人が大変な事態になったと思い始めている。この機会を逃せば増加する感染に歯止めを掛けることが難しくなる。今、対策をしないと手遅れになる」と述べ、強い危機感を示して、対策を徹底する必...",
+          "link": "https://www3.nhk.or.jp/news/html/20210730/k10013171791000.html",
+          "publishedOn": "2021-07-30T13:40:11.000Z",
+          "wordCount": 22,
+          "title": "分科会 尾身会長「今 対策をしないと手遅れに」 | 新型コロナウイルス | NHKニュース"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP7Z74VJP7ZPLFA00H.html",
           "author": null,
           "description": "阪急阪神百貨店を傘下に持つエイチ・ツー・オー（H2O）リテイリングは30日、大阪市北区の阪神梅田本店で新型コロナウイルスのクラスター（感染者集団）が発生したため、31日と8月1日を全館臨時休業にすると発表した。 H2Oによると、同店では今月26～29日に従業員53人の感染が確認されたという。8月2日以降の営業は、緊急...",
@@ -24,13 +33,31 @@
           "title": "東京都 繁華街で予約不要のワクチン接種を検討 若い世代向けに | 新型コロナウイルス | NHKニュース"
         },
         {
+          "id": "https://www.asahi.com/articles/ASP7Z6W86P7ZULFA022.html",
+          "author": null,
+          "description": "「モンスーンカフェ」などの飲食店を展開するグローバルダイニングが30日発表した2021年1～6月期決算は、売上高が前年同期比92・3%増の47億円、純利益が5億円の黒字（前年同期は9億円の赤字）だった。記者会見で中尾慎太郎CFO（最高財務責任者）は、「（緊急事態）宣言下、まん延防止等重点措置の中でも営業を続けた結果...",
+          "link": "https://www.asahi.com/articles/ASP7Z6W86P7ZULFA022.html",
+          "publishedOn": "2021-07-30T12:40:13.000Z",
+          "wordCount": 211,
+          "title": "「要請」応じず売上高9割増　グローバルダイニング：朝日新聞デジタル"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/223f1ec1b6dec4565bff59cf1e4fdd17fc8a8352",
           "author": null,
           "description": "発令中の緊急事態宣言などの期間延長と区域変更が決定し会見で国民へさらなる協力を求める菅義偉首相＝３０日午後、首相官邸（春名中撮影） 菅義偉（すが・よしひで）首相は３０日の記者会見で、新型コロナウイルスへの対応に失敗した場合、引責辞任する考えがあるかを問われ、「対応することが私の責任で、私はできると...",
           "link": "https://news.yahoo.co.jp/articles/223f1ec1b6dec4565bff59cf1e4fdd17fc8a8352",
           "publishedOn": "2021-07-30T12:27:58.000Z",
-          "wordCount": 67,
+          "wordCount": 66,
           "title": "菅首相記者会見　コロナへの対応「私はできる」（産経新聞） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://speakerdeck.com/joker1007/ruby-on-rails-on-lambda",
+          "author": null,
+          "description": "Transcript Ruby on Rails on AWS Lambda @joker1007 銀座Rails #35 Self-intro @joker1007 Repro inc. ex-CTO -> Chief Architect Ruby/Rails fluentd/embulk RDB Docker/ECS Kafka Bigquery/EMR/Hive/Presto/Cassandra Agenda Rails をLambda で動作動作させる方法とユースケース これからの非同期処理のあり方とマイ...",
+          "link": "https://speakerdeck.com/joker1007/ruby-on-rails-on-lambda",
+          "publishedOn": "2021-07-30T11:58:25.000Z",
+          "wordCount": 592,
+          "title": "Ruby on Rails on Lambda - Speaker Deck"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210730/k10013164861000.html",
@@ -83,8 +110,17 @@
           "description": "そうめんを心からおいしいと思って食べてるやつっているの？",
           "link": "https://anond.hatelabo.jp/20110730214428",
           "publishedOn": "2021-07-30T09:59:33.000Z",
-          "wordCount": 139,
+          "wordCount": 142,
           "title": "そうめんを心からおいしいと思って食べてるやつっているの？"
+        },
+        {
+          "id": "https://togetter.com/li/1751977",
+          "author": null,
+          "description": "づかちゃんです @zukachanchan さかなクンちゃんねる、魚の紹介みたいなさかなクンらしいことから始まって今じゃどう森でフータ君の魚解説を正してたり初代マリオのゲッソー見たさに1面から大苦戦してたりポケモンスナップやってたりサカナクションの山口さんとシーバス釣りに行ってたりするので面白いから皆みて欲しい…...",
+          "link": "https://togetter.com/li/1751977",
+          "publishedOn": "2021-07-30T09:26:21.000Z",
+          "wordCount": 497,
+          "title": "さかなクンがYouTubeでどうぶつの森をやり、フータの解説の間違いを正している→「素人質問で恐縮ですが…」「圧倒的知識」 - Togetter"
         },
         {
           "id": "https://www.asahi.com/articles/ASP7Z5T2JP7ZPTIL02N.html",
@@ -112,15 +148,6 @@
           "publishedOn": "2021-07-30T09:03:41.000Z",
           "wordCount": 339,
           "title": "【ネタバレなし】なぜ「Outer Wilds」は「記憶を消してもう一度遊びたい傑作」と言われるのか：水平思考（ねとらぼ出張版） - ねとらぼ"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210730/k10013171151000.html",
-          "author": null,
-          "description": "神奈川県内ではあわせて1418人が新型コロナウイルスに感染したことが確認されたと30日、発表がありました。 神奈川県内で1日に発表される感染者の数は、3日連続で1000人を超え、過去最多を更新しました。 1週間前の金曜日に比べても766人増加していて、感染が急拡大しています。 一方、横浜市内の50代の男性の死亡が発表...",
-          "link": "https://www3.nhk.or.jp/news/html/20210730/k10013171151000.html",
-          "publishedOn": "2021-07-30T08:46:22.000Z",
-          "wordCount": 27,
-          "title": "神奈川県 新型コロナ 1人死亡 1418人感染確認 過去最多 | 新型コロナ 国内感染者数 | NHKニュース"
         },
         {
           "id": "https://twitter.com/doddododosukoi/status/1420717289830289413",
@@ -155,7 +182,7 @@
           "description": "多くのファンの祝福を受け鈴木達央と結婚 2019年、テレビアニメ「鬼滅の刃」の放送が開始されて以降、飛ぶ鳥を落とす勢いの歌姫・LiSA。19年7月にリリースされたテレビアニメ版の主題歌「紅蓮華」は平成最後のオリコンランク1位を達成した。また、歴代興行収入1位となる400億円を突破した「劇場版『鬼滅の刃』無限列車編...",
           "link": "https://bunshun.jp/articles/-/47515",
           "publishedOn": "2021-07-30T07:56:55.000Z",
-          "wordCount": 197,
+          "wordCount": 194,
           "title": "《裏切りの紅蓮華》「鬼滅の刃」歌姫LiSAの夫・鈴木達央がファン女性とホテル不倫「彼女の誕生日を夜景でお祝い…」 | 文春オンライン"
         },
         {
@@ -182,7 +209,7 @@
           "description": "五輪をめぐっては、政府の新型コロナウイルス感染症対策分科会の尾身茂会長が２９日の国会で、感染拡大を進める要因として「夏休み、お盆、さらにオリンピック」と列挙し、東京五輪の開催が人出の増加に影響しているとの懸念を指摘している。 会見では、記者が、尾身氏の発言や実際に競技場周辺に人が集まっていることへ...",
           "link": "https://www.tokyo-np.co.jp/article/120567",
           "publishedOn": "2021-07-30T07:01:55.000Z",
-          "wordCount": 310,
+          "wordCount": 314,
           "title": "小池知事「ですから、五輪はステイホームに一役買っている」　尾身会長の懸念を否定　：東京新聞 TOKYO Web"
         },
         {
@@ -193,24 +220,6 @@
           "publishedOn": "2021-07-30T05:01:37.000Z",
           "wordCount": 170,
           "title": "「動画で助かる」「IT基礎知識が一通り学べる」──各社が公開した新人エンジニア向けの研修資料が話題に　人気資料まとめ - ITmedia NEWS"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP7Z4FHGP7ZULFA011.html",
-          "author": null,
-          "description": "丸川珠代五輪担当相が30日、首相官邸で午前10時に始まった閣議に5分ほど遅刻した。東京五輪対応の交通規制で都内の高速道路の入り口が封鎖されたことによる、一般道の渋滞が原因だったという。 丸川氏は閣議後の記者会見で遅刻の理由を問われ、「高速の入り口がオリンピック対応で封鎖され、途中、渋滞していた。さらに...",
-          "link": "https://www.asahi.com/articles/ASP7Z4FHGP7ZULFA011.html",
-          "publishedOn": "2021-07-30T04:58:03.000Z",
-          "wordCount": 219,
-          "title": "丸川五輪相が閣議に遅刻「高速が封鎖され渋滞していた」 - 東京オリンピック：朝日新聞デジタル"
-        },
-        {
-          "id": "https://togetter.com/li/1751853",
-          "author": null,
-          "description": "Nishino Wataru @xiyegen 通勤の悪いところ ・臭い ・濡れた傘を押し付けられてパンツが濡れる ・他人の汗がつく ・痴漢冤罪のリスクがある ・風邪を引く ・アルコールを帯びた他人の呼気を吸うはめになる ・昼休みにベッドで昼寝できない ・自宅より狭い机とモニタで、品質の悪い椅子で仕事をしなければならない ・洗濯...",
-          "link": "https://togetter.com/li/1751853",
-          "publishedOn": "2021-07-30T04:38:57.000Z",
-          "wordCount": 927,
-          "title": "フルリモート勤務で1.5年が経過した今振り返ると、通勤時間に賃金が発生しないのはおかしいのでは？と思う「通勤時間も含めて勤務やとホンマ思う」 - Togetter"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210730/k10013170101000.html",
@@ -236,7 +245,7 @@
           "description": "倉掛冬生ちゃんの死亡から一夜明けた双葉保育園＝福岡県中間市で2021年7月30日午前9時55分、奥田伸一撮影 福岡県中間市の私立双葉保育園で送迎バス内にいた園児の倉掛冬生（とうま）ちゃん（5）＝同市＝が死亡した問題で、一夜明けた30日朝、自宅で取材に応じた母親（37）は「冬生を返してほしい」と泣き崩れた。園は30...",
           "link": "https://mainichi.jp/articles/20210730/k00/00m/040/130000c",
           "publishedOn": "2021-07-30T04:17:31.000Z",
-          "wordCount": 472,
+          "wordCount": 473,
           "title": "登園後、バスに置き去りか　泣き崩れる母「返して」福岡5歳児死亡 | 毎日新聞"
         },
         {
@@ -249,21 +258,12 @@
           "title": "藤本タツキは『ルックバック』を“描かずにはいられなかった”のではないか？──「受け手に湧き上がる衝動によって駆動する物語」としての『ルックバック』を考える"
         },
         {
-          "id": "https://www.jiji.com/jc/article?k=2021073000567&g=pol",
-          "author": null,
-          "description": "「ロックダウンの法整備検討を」　政府分科会で求める声 2021年07月30日12時32分 ロックダウンの中、利用者が減ったオーストラリアの路面電車の駅＝１９日、豪シドニー（ＡＦＰ時事） ３０日に開かれた新型コロナウイルス対策を協議する基本的対処方針分科会で、出席者から将来的にロックダウン（都市封鎖）を可能とする...",
-          "link": "https://www.jiji.com/jc/article?k=2021073000567&g=pol",
-          "publishedOn": "2021-07-30T03:03:28.000Z",
-          "wordCount": 341,
-          "title": "「ロックダウンの法整備検討を」　政府分科会で求める声：時事ドットコム"
-        },
-        {
           "id": "https://news.yahoo.co.jp/articles/5f93f7e5d38f50f42e64dc94b46d1c509e7e14b5",
           "author": null,
           "description": "「東京五輪・体操女子個人総合・決勝」（２９日、有明体操競技場） 女子個人総合決勝で、日本女子のエース、村上茉愛（２４）＝日体ク＝は４種目合計５６・０３２点で５位に入り、日本勢で１９６０年ローマ、６４年東京両五輪で６位の池田敬子を上回る最高順位となった。床運動で全体トップの１４・０００点をマークした...",
           "link": "https://news.yahoo.co.jp/articles/5f93f7e5d38f50f42e64dc94b46d1c509e7e14b5",
           "publishedOn": "2021-07-30T01:27:53.000Z",
-          "wordCount": 79,
+          "wordCount": 76,
           "title": "村上茉愛　団体戦後にＳＮＳへの中傷コメントに３分間涙で訴え（デイリースポーツ） - Yahoo!ニュース"
         },
         {

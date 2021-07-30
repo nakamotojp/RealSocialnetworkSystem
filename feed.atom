@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T12:28:29.113Z</id>
+    <id>urn:2021-07-30T13:28:24.629Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T12:28:29.113Z</updated>
+    <updated>2021-07-30T13:28:24.629Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【随時更新】菅首相会見「今回の宣言が最後となる覚悟で」 | 新型コロナウイルス | NHKニュース]]></title>
+        <title type="html"><![CDATA[【詳細】菅首相会見「今回の宣言が最後となるような覚悟で」 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210730/k10013171341000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171341000.html"/>
         <updated>2021-07-30T10:38:37.000Z</updated>
@@ -26,11 +26,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[コロナ感染の五輪関係者 宿泊療養施設から外出 “説得応じず” | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210730/k10013171081000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171081000.html"/>
+        <updated>2021-07-30T09:11:02.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに感染したオリンピックの関係者2人が「検査を受けるため」と主張して、入所していた東京都の宿泊療養施設から外出していたことが、都への取材で分かりました。 検査を受けるための外出は認められておらず、都は「重ねて説得したが、納得してもらなかったので、やむをえず認めた」としています。 都に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[どすこい on Twitter: "コロナ病棟で働いているけど、今日は辛いことがあったんだ。病棟は毎日出ては入るの満床で、連日2、3件の入院依頼を断っている状況だよ。入院が決まった人には、入院時に必要な持ち物を伝えるために電話するんだけど、ご本人は息が苦しくて喋るのがツラいってことで"]]></title>
         <id>https://twitter.com/doddododosukoi/status/1420717289830289413</id>
         <link href="https://twitter.com/doddododosukoi/status/1420717289830289413"/>
         <updated>2021-07-30T08:15:21.000Z</updated>
         <summary type="html"><![CDATA[コロナ病棟で働いているけど、今日は辛いことがあったんだ。病棟は毎日出ては入るの満床で、連日2、3件の入院依頼を断っている状況だよ。入院が決まった人には、入院時に必要な持ち物を伝えるために電話するんだけど、ご本人は息が苦しくて喋るのがツラいってことで]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日より販売開始！はてなブックマーク新作Tシャツできました - はてなブックマーク開発ブログ]]></title>
+        <id>https://bookmark.hatenastaff.com/entry/2021/07/30/170000</id>
+        <link href="https://bookmark.hatenastaff.com/entry/2021/07/30/170000"/>
+        <updated>2021-07-30T08:11:59.000Z</updated>
+        <summary type="html"><![CDATA[2021年版のはてなブックマークTシャツを作りました（約3年ぶりの新作です）。はてな公式ストア（SUZURI）にて、本日より販売開始いたします。 新しいデザインはこちら。 はてなブックマークは、一人ひとりの興味＝ブックマークした情報が集まってできています こちらのTシャツを、現在開催中のはてなインターネット文学...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -150,7 +170,7 @@
         <id>https://www.jiji.com/jc/article?k=2021073000143&amp;g=soc</id>
         <link href="https://www.jiji.com/jc/article?k=2021073000143&amp;g=soc"/>
         <updated>2021-07-30T03:17:54.000Z</updated>
-        <summary type="html"><![CDATA[アストラ製４０歳以上に使用　ワクチン接種、公費負担に―厚労省 2021年07月30日13時17分 アストラゼネカ製ワクチン（ＡＦＰ時事） 厚生労働省は３０日、英アストラゼネカ製の新型コロナウイルスワクチンの接種対象を原則４０歳以上とすることを決めた。同日の専門部会に諮り、了承された。専門部会は予防接種法上の「臨...]]></summary>
+        <summary type="html"><![CDATA[アストラ製４０歳以上に使用　ワクチン接種、公費負担に―厚労省 2021年07月30日16時11分 アストラゼネカ製ワクチン（ＡＦＰ時事） 厚生労働省は３０日、英アストラゼネカ製の新型コロナウイルスワクチンの接種対象を原則４０歳以上とすることを決めた。同日の専門部会に諮り、了承された。専門部会は予防接種法上の「臨...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[イスラエル 3回目のワクチン接種実施へ 感染再拡大で | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210730/k10013169361000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013169361000.html"/>
-        <updated>2021-07-29T21:40:46.000Z</updated>
-        <summary type="html"><![CDATA[中東のイスラエルでは、インドで確認された変異ウイルスの影響で新型コロナウイルスの感染者が再び増加し、高齢者が重症化するケースも目立っています。 このためイスラエル政府は、2回のワクチン接種を終えている60歳以上の人に対し、来月から3回目の接種を行うことを決めました。 イスラエルでは、16歳以上の8割以上が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「ダチョウのように走る下半身だけの二足歩行ロボット」が5kmを53分台で走破、軽快に走るムービーも公開中 - GIGAZINE]]></title>
         <id>https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/</id>
         <link href="https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/"/>
@@ -291,16 +301,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210729/k10013141941000.html"/>
         <updated>2021-07-29T14:41:51.000Z</updated>
         <summary type="html"><![CDATA[男子高校生は毎週のように薬局に通い、アルバイトで稼いだお金で化粧品を買いました。自分の肌の色を隠すためです。高校の入学試験の時には「キモイ」「将来、犯罪者になりそう」という声が耳に飛び込んできました。そこで、少しでも、自分の個性を隠したいと思ってきました。これまで自分を苦しめてきたさまざまな境遇...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナ禍でメダル量産の日本　「アンフェア」の声、振るわぬ米国勢 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210729/k00/00m/050/317000c</id>
-        <link href="https://mainichi.jp/articles/20210729/k00/00m/050/317000c"/>
-        <updated>2021-07-29T12:31:15.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックは東京都の新型コロナウイルスの新規感染者が3日連続で過去最多を更新した29日、開幕1週間を迎えた。史上初の延期と無観客に加え、連日の猛暑も重なって「最高の舞台」とはほど遠い。そのなかで、開催国の日本は異例のペースでメダルを量産している。 「私たちは最も検査が行われているコミュニティー。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

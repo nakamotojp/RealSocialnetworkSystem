@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T07:15:57.162Z</id>
+    <id>urn:2021-07-30T08:23:25.274Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T07:15:57.162Z</updated>
+    <updated>2021-07-30T08:23:25.274Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 3300人感染確認 3日連続で3000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210730/k10013169911000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013169911000.html"/>
+        <updated>2021-07-30T07:48:15.000Z</updated>
+        <summary type="html"><![CDATA[東京都は30日、都内で新たに3300人が新型コロナウイルスに感染していることを確認したと発表しました。1日の感染確認が3000人を超えるのは3日連続です。29日の3865人に次いでこれまでで2番目に多くなりました。1週間前の金曜日より1941人増え、感染の急激な拡大が続いています。 一方、都の基準で集計した30日時点の重症...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丸川五輪相が閣議に遅刻「高速が封鎖され渋滞していた」 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Z4FHGP7ZULFA011.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Z4FHGP7ZULFA011.html"/>
+        <updated>2021-07-30T04:58:03.000Z</updated>
+        <summary type="html"><![CDATA[丸川珠代五輪担当相が30日、首相官邸で午前10時に始まった閣議に5分ほど遅刻した。東京五輪対応の交通規制で都内の高速道路の入り口が封鎖されたことによる、一般道の渋滞が原因だったという。 丸川氏は閣議後の記者会見で遅刻の理由を問われ、「高速の入り口がオリンピック対応で封鎖され、途中、渋滞していた。さらに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安倍前首相「不起訴不当」検察審査会 「桜を見る会」懇親会で | 桜を見る会 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210730/k10013170101000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210730/k10013170101000.html"/>
         <updated>2021-07-30T04:36:25.000Z</updated>
-        <summary type="html"><![CDATA[「桜を見る会」の前日夜に開催された懇親会をめぐり、安倍前総理大臣側が費用の一部を負担したのは有権者への違法な寄付で公職選挙法に違反する疑いがあるなどとして、安倍氏が告発され不起訴になったことについて、東京の検察審査会は十分な捜査が尽くされていないなどとして、「不起訴は不当」と議決したことが関係者...]]></summary>
+        <summary type="html"><![CDATA[「桜を見る会」の前日夜に開催された懇親会をめぐり、安倍前総理大臣側が費用の一部を負担したのは有権者への違法な寄付で公職選挙法に違反する疑いがあるなどとして安倍氏が告発され不起訴になったことについて、東京の検察審査会は十分な捜査が尽くされていないなどとして「不起訴は不当」と議決し30日、公表しました...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -50,7 +70,7 @@
         <id>https://www.jiji.com/jc/article?k=2021073000567&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021073000567&amp;g=pol"/>
         <updated>2021-07-30T03:03:28.000Z</updated>
-        <summary type="html"><![CDATA[「ロックダウンの法整備検討を」　政府分科会で求める声 2021年07月30日12時32分 ３０日に開かれた新型コロナウイルス対策を協議する基本的対処方針分科会で、出席者から将来的にロックダウン（都市封鎖）を可能とする法整備の検討を求める意見が出された。 感染急増、見えぬ菅首相の危機感　専門家が警鐘、溝拡大―新型...]]></summary>
+        <summary type="html"><![CDATA[「ロックダウンの法整備検討を」　政府分科会で求める声 2021年07月30日12時32分 ロックダウンの中、利用者が減ったオーストラリアの路面電車の駅＝１９日、豪シドニー（ＡＦＰ時事） ３０日に開かれた新型コロナウイルス対策を協議する基本的対処方針分科会で、出席者から将来的にロックダウン（都市封鎖）を可能とする...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -131,16 +151,6 @@
         <link href="https://twitter.com/hazuma/status/1420768437060599808"/>
         <updated>2021-07-29T23:33:53.000Z</updated>
         <summary type="html"><![CDATA[感染者数が増えると医療逼迫するというなら、がん患者が増えても医療逼迫するし、肥満が増えても医療逼迫するし、交通事故が増えても医療逼迫する。というかそもそも高齢者が増えれば当然医療逼迫する。医療逼迫しないことを目的にするという言説自体がぼくはどうも受け付けないんですよね。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 中高年へのワクチン接種加速などで医療提供体制維持へ | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210730/k10013169221000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013169221000.html"/>
-        <updated>2021-07-29T23:31:41.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では29日、過去最多の3865人の感染が確認されたほか、入院患者はことし1月以来、3000人を超えました。都は重症患者の中心となっている中高年へのワクチン接種を加速させるとともに、自宅で療養する人たちへの支援を強化するなどして医療提供体制を維持したい考えです。 都内では29日、3日連続で過去最多を更新す...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,16 +241,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210729/k10013141941000.html"/>
         <updated>2021-07-29T14:41:51.000Z</updated>
         <summary type="html"><![CDATA[男子高校生は毎週のように薬局に通い、アルバイトで稼いだお金で化粧品を買いました。自分の肌の色を隠すためです。高校の入学試験の時には「キモイ」「将来、犯罪者になりそう」という声が耳に飛び込んできました。そこで、少しでも、自分の個性を隠したいと思ってきました。これまで自分を苦しめてきたさまざまな境遇...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャンセル・カルチャーをキャンセルせよ]]></title>
-        <id>https://youkoseki.com/f/canceling_cancel_culture</id>
-        <link href="https://youkoseki.com/f/canceling_cancel_culture"/>
-        <updated>2021-07-29T14:14:55.000Z</updated>
-        <summary type="html"><![CDATA[youkoseki.com キャンセル・カルチャーをキャンセルせよ 毎日なにかが炎上している。 ミュージシャンの小山田圭吾はオリンピックの開会式に関わるというニュースが流れると、昔のいじめ自慢が話題になって炎上し、開会式への参加を辞退することになった。同じオリンピック開会式の演出を行っていた小林賢太郎は、過去の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

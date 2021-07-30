@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T16:18:04.984Z</id>
+    <id>urn:2021-07-30T17:18:07.097Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T16:18:04.984Z</updated>
+    <updated>2021-07-30T17:18:07.097Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[阪神梅田本店、53人のクラスター発生で土日に全館休業：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Z74VJP7ZPLFA00H.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Z74VJP7ZPLFA00H.html"/>
+        <updated>2021-07-30T12:44:21.000Z</updated>
+        <summary type="html"><![CDATA[阪急阪神百貨店を傘下に持つエイチ・ツー・オー（H2O）リテイリングは30日、大阪市北区の阪神梅田本店で新型コロナウイルスのクラスター（感染者集団）が発生したため、31日と8月1日を全館臨時休業にすると発表した。 H2Oによると、同店では今月26～29日に従業員53人の感染が確認されたという。8月2日以降の営業は、緊急...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 繁華街で予約不要のワクチン接種を検討 若い世代向けに | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210730/k10013171671000.html</id>
@@ -71,6 +81,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171081000.html"/>
         <updated>2021-07-30T09:11:02.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスに感染したオリンピックの関係者2人が「検査を受けるため」と主張して、入所していた東京都の宿泊療養施設から外出していたことが、都への取材で分かりました。 検査を受けるための外出は認められておらず、都は「重ねて説得したが、納得してもらなかったので、やむをえず認めた」としています。 都に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川県 新型コロナ 1人死亡 1418人感染確認 過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210730/k10013171151000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171151000.html"/>
+        <updated>2021-07-30T08:46:22.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県内ではあわせて1418人が新型コロナウイルスに感染したことが確認されたと30日、発表がありました。 神奈川県内で1日に発表される感染者の数は、3日連続で1000人を超え、過去最多を更新しました。 1週間前の金曜日に比べても766人増加していて、感染が急拡大しています。 一方、横浜市内の50代の男性の死亡が発表...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【独自】陽性の五輪審判員2人　ホテルから無断外出｜テレ朝news-テレビ朝日のニュースサイト]]></title>
-        <id>https://news.tv-asahi.co.jp/news_society/articles/000224096.html</id>
-        <link href="https://news.tv-asahi.co.jp/news_society/articles/000224096.html"/>
-        <updated>2021-07-30T02:36:15.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックに参加している審判員2人が新型コロナの陽性が判明した後、宿泊療養施設から無断で外出していたことが大会関係者への取材で分かりました。 関係者によりますと、東京大会のボートの審判員を務める男性2人は26日に新型コロナの陽性が確認されました。1人は日本人でした。 2人は都内の宿泊療養施設のホテ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[村上茉愛　団体戦後にＳＮＳへの中傷コメントに３分間涙で訴え（デイリースポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/5f93f7e5d38f50f42e64dc94b46d1c509e7e14b5</id>
         <link href="https://news.yahoo.co.jp/articles/5f93f7e5d38f50f42e64dc94b46d1c509e7e14b5"/>
@@ -266,11 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[サイバーパンクな街を猫として探検するADV『Stray』ゲームプレイ映像公開。とくに意味のない“ただ、猫らしい”アクションもあり | AUTOMATON]]></title>
-        <id>https://automaton-media.com/articles/newsjp/20210730-170738/</id>
-        <link href="https://automaton-media.com/articles/newsjp/20210730-170738/"/>
-        <updated>2021-07-30T00:56:09.000Z</updated>
-        <summary type="html"><![CDATA[パブリッシャーのAnnapurna Interactiveは7月30日、猫が主人公の三人称視点アドベンチャーゲーム『Stray』のゲームプレイ映像を新たに公開した。同映像では、街の探索を進めるためのアクションだけでなく、ゲームの攻略とは関わらなさそうな“ただ、猫らしい”アクションなども紹介されている。本作は、PC（Steam）/PlaySt...]]></summary>
+        <title type="html"><![CDATA[今、小さいお子さんをお育ての親御さんたちに伝えたい事『子供たちのためにプールを用意し、かき氷をせっせと作ってあげる夏は、ある時突然終わります』 - Togetter]]></title>
+        <id>https://togetter.com/li/1751843</id>
+        <link href="https://togetter.com/li/1751843"/>
+        <updated>2021-07-30T01:21:14.000Z</updated>
+        <summary type="html"><![CDATA[イシゲスズコ @suminotiger オットスキー部員。 小学生から高校まで子が４人、あとイシガメとすっぽんとサワガニと川魚。最近老いた黒柴が仲間入りしました。 楽天ルーム→room.rakuten.co.jp/room_61fcbb051… 欲しいものリスト→amazon.jp/hz/wishlist/ls… suminotiger.hatenadiary.jp イシゲスズコ @suminotiger 今、小...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://www.huffingtonpost.jp/entry/ibusuki-technical-intern-trainee_jp_60f59c28e4b0b2214fb665d0"/>
         <updated>2021-07-29T23:04:57.000Z</updated>
         <summary type="html"><![CDATA[女性蔑視発言、障害者への凄惨ないじめ、ホロコーストを揶揄したコント――。 東京オリンピックは招致決定から開会直前まで、関係者の問題発言が次々と発覚し、日本の人権意識の未熟さが世界に露呈した。 批判を浴びているのは、個人の言動だけではない。 国連の人種差別撤廃委員会が「虐待的かつ搾取的な慣行」と非難する...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おれはオリンピックをなめていました - 関内関外日記]]></title>
-        <id>https://goldhead.hatenablog.com/entry/2021/07/30/000211</id>
-        <link href="https://goldhead.hatenablog.com/entry/2021/07/30/000211"/>
-        <updated>2021-07-29T15:43:30.000Z</updated>
-        <summary type="html"><![CDATA[会場になっている横浜スタジアム周辺 blog.tinect.jp また寄稿いたしました。 読んでいただければ幸いです。 幸いですが、読む前に、「これが書かれたのは小山田問題が起こる前だ」ということを念頭に置いていただければ幸いです。 「小山田問題が起こる前ってどんなんだっけ？」というと、自分ももうあまりはっきりと覚...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T06:24:24.715Z</id>
+    <id>urn:2021-07-30T07:15:57.162Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T06:24:24.715Z</updated>
+    <updated>2021-07-30T07:15:57.162Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CNN.co.jp : デルタ株、水痘に匹敵する感染力　ＣＤＣの内部資料が警告]]></title>
+        <id>https://www.cnn.co.jp/usa/35174591.html</id>
+        <link href="https://www.cnn.co.jp/usa/35174591.html"/>
+        <updated>2021-07-30T04:29:27.000Z</updated>
+        <summary type="html"><![CDATA[ＣＤＣのワレンスキー所長がデルタ株の感染力の強さについて警鐘を鳴らした/Greg Nash/Pool/AFP/Getty Images ワシントン（ＣＮＮ） 全米で感染が急拡大している新型コロナウイルスの変異株「デルタ株」はより重篤な症状を引き起こし、水痘と同じくらい容易に蔓延（まんえん）するとみられる。米疾病対策センター（ＣＤ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「大会中止も検討を」組織委専門家会議座長が懸念｜テレ朝news-テレビ朝日のニュースサイト]]></title>
         <id>https://news.tv-asahi.co.jp/news_society/articles/000224099.html</id>
         <link href="https://news.tv-asahi.co.jp/news_society/articles/000224099.html"/>
         <updated>2021-07-30T03:27:17.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック・パラリンピック組織委員会でコロナ対策を検討する専門家会議の岡部信彦座長が取材に応じ、「一般医療にしわ寄せがいくような状況になれば大会の中止も検討するべき」という考えを示しました。 コロナ対策専門家会議・岡部信彦座長：「一般の医療そのものに、しわ寄せがくるっていうのは、これはタイミ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アストラ製４０歳以上に使用　ワクチン接種、公費負担に―厚労省：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021073000143&amp;g=soc</id>
+        <link href="https://www.jiji.com/jc/article?k=2021073000143&amp;g=soc"/>
+        <updated>2021-07-30T03:17:54.000Z</updated>
+        <summary type="html"><![CDATA[アストラ製４０歳以上に使用　ワクチン接種、公費負担に―厚労省 2021年07月30日13時17分 アストラゼネカ製ワクチン（ＡＦＰ時事） 厚生労働省は３０日、英アストラゼネカ製の新型コロナウイルスワクチンの接種対象を原則４０歳以上とすることを決めた。同日の専門部会に諮り、了承された。専門部会は予防接種法上の「臨...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,31 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相、追加経済対策指示へ　衆院選アピール、３０兆円規模か：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021072901097&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021072901097&amp;g=pol"/>
-        <updated>2021-07-29T09:38:03.000Z</updated>
-        <summary type="html"><![CDATA[菅首相、追加経済対策指示へ　衆院選アピール、３０兆円規模か 2021年07月29日18時13分 菅義偉首相＝２８日、首相官邸 菅義偉首相は緊急事態宣言の拡大など新型コロナウイルスの感染防止策の強化に合わせ、国民生活を下支えする追加経済対策の取りまとめを近く政府・自民党に指示する方針だ。同党は公明党との協議を経て...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[写真を「アニメの背景」に変換するAI　30秒で“水彩風”など4種類の背景を生成 - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2107/29/news121.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2107/29/news121.html"/>
         <updated>2021-07-29T08:01:38.000Z</updated>
         <summary type="html"><![CDATA[AIベンチャーのラディウス・ファイブは、AIでアニメ用の美術背景を生成するサービス「Anime Art Painter」を始めた。写真をアップロードするだけで、アニメ風の美術背景を30秒程度で4種類生成する。 AIベンチャーのラディウス・ファイブ（東京都新宿区）は7月29日、AIを使って写真からアニメ用の美術背景を生成するサー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「捨てる弁当は子どもに配って」弁当4000食分廃棄問題でNPOが組織委員会に異例の要望]]></title>
-        <id>https://www.fnn.jp/articles/-/216600</id>
-        <link href="https://www.fnn.jp/articles/-/216600"/>
-        <updated>2021-07-29T07:17:49.000Z</updated>
-        <summary type="html"><![CDATA[「国立競技場の運営ボランティア向け弁当が消費期限前に大量に廃棄されている」との一部報道が波紋を広げている。大会組織委員会は28日の会見で「余剰により多くの会場で食品ロスが生じていたことを確認した」と事実を認めた一方で、「余剰は廃棄ではなくリサイクルだ」と強調した。日本では7人に1人の子どもが貧困家庭...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

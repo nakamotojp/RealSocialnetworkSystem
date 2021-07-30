@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T11:09:59.411Z</id>
+    <id>urn:2021-07-30T12:28:29.113Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T11:09:59.411Z</updated>
+    <updated>2021-07-30T12:28:29.113Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【随時更新】菅首相会見「今回の宣言が最後となる覚悟で」 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210730/k10013171341000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171341000.html"/>
+        <updated>2021-07-30T10:38:37.000Z</updated>
+        <summary type="html"><![CDATA[政府は、緊急事態宣言の対象地域に埼玉、千葉、神奈川、大阪の4府県を追加するほか、北海道、石川、兵庫、京都、福岡の5道府県に、まん延防止等重点措置の適用を決めました。 菅首相の記者会見の詳細を随時更新でお伝えします。 4府県に「宣言」 5道府県に「まん延防止」を決定 菅総理大臣は記者会見で「先ほど、新型コ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[緊急事態でも修学旅行実施　大阪市長「五輪やっている」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7Z5T2JP7ZPTIL02N.html</id>
@@ -16,11 +26,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[どすこい on Twitter: "コロナ病棟で働いているけど、今日は辛いことがあったんだ。病棟は毎日出ては入るの満床で、連日2、3件の入院依頼を断っている状況だよ。入院が決まった人には、入院時に必要な持ち物を伝えるために電話するんだけど、ご本人は息が苦しくて喋るのがツラいってことで"]]></title>
+        <id>https://twitter.com/doddododosukoi/status/1420717289830289413</id>
+        <link href="https://twitter.com/doddododosukoi/status/1420717289830289413"/>
+        <updated>2021-07-30T08:15:21.000Z</updated>
+        <summary type="html"><![CDATA[コロナ病棟で働いているけど、今日は辛いことがあったんだ。病棟は毎日出ては入るの満床で、連日2、3件の入院依頼を断っている状況だよ。入院が決まった人には、入院時に必要な持ち物を伝えるために電話するんだけど、ご本人は息が苦しくて喋るのがツラいってことで]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《裏切りの紅蓮華》「鬼滅の刃」歌姫LiSAの夫・鈴木達央がファン女性とホテル不倫「彼女の誕生日を夜景でお祝い…」 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47515</id>
+        <link href="https://bunshun.jp/articles/-/47515"/>
+        <updated>2021-07-30T07:56:55.000Z</updated>
+        <summary type="html"><![CDATA[多くのファンの祝福を受け鈴木達央と結婚 2019年、テレビアニメ「鬼滅の刃」の放送が開始されて以降、飛ぶ鳥を落とす勢いの歌姫・LiSA。19年7月にリリースされたテレビアニメ版の主題歌「紅蓮華」は平成最後のオリコンランク1位を達成した。また、歴代興行収入1位となる400億円を突破した「劇場版『鬼滅の刃』無限列車編...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 2人死亡 3300人感染確認 3日連続で3000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210730/k10013169911000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210730/k10013169911000.html"/>
         <updated>2021-07-30T07:48:15.000Z</updated>
         <summary type="html"><![CDATA[東京都は30日、都内で新たに3300人が新型コロナウイルスに感染していることを確認したと発表しました。3日連続で3000人を超えたほか、7日間平均の増加比は29日より上昇して180％を超え、これまでにないスピードで感染が拡大しています。また、都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は30日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安倍氏に「自覚持ち説明責任果たすべき」と注文　検審：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Z51F9P7ZUTIL026.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Z51F9P7ZUTIL026.html"/>
+        <updated>2021-07-30T07:27:38.000Z</updated>
+        <summary type="html"><![CDATA[安倍晋三前首相の後援会が「桜を見る会」の前日に開いた夕食会の費用をめぐる問題で、安倍前首相を不起訴とした東京地検特捜部の処分の一部を「不起訴不当」とした東京第一検察審査会の議決書が30日午後、公表された。議決書は、安倍氏について「総理大臣であった者が秘書がやったことだとして関知しない姿勢は国民感情...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ある社長が社員同士の不倫を目撃してしまう！二人を呼び出した所更なる衝撃の事実が！ - Togetter]]></title>
-        <id>https://togetter.com/li/1751804</id>
-        <link href="https://togetter.com/li/1751804"/>
-        <updated>2021-07-29T23:37:17.000Z</updated>
-        <summary type="html"><![CDATA[元麻布に住んでる年収5億の美人妻 @motoazabuchan 会社の帰りに用事があり、いつもと違う道を通ったら、社員の不倫現場をバッチリ目撃してしまったおじさん、無事死亡 2021-07-27 22:02:22]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東浩紀 Hiroki Azuma on Twitter: "感染者数が増えると医療逼迫するというなら、がん患者が増えても医療逼迫するし、肥満が増えても医療逼迫するし、交通事故が増えても医療逼迫する。というかそもそも高齢者が増えれば当然医療逼迫する。医療逼迫しないことを目的にするという言説自体がぼくはどうも受け付けないんですよね。"]]></title>
         <id>https://twitter.com/hazuma/status/1420768437060599808</id>
         <link href="https://twitter.com/hazuma/status/1420768437060599808"/>
@@ -246,26 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[喧嘩する業者さん]]></title>
-        <id>https://anond.hatelabo.jp/20210729233526</id>
-        <link href="https://anond.hatelabo.jp/20210729233526"/>
-        <updated>2021-07-29T21:10:11.000Z</updated>
-        <summary type="html"><![CDATA[20年くらい前の話。 田舎から上京した貧乏学生で、 格安の木造アパートに住んでいて。 でっかいエアコンがあったんだけど、 電源をオフにする度に、「ブフゥ～！！」と、音を立ててた。 おじさんが息を吸い込むような音だった。ブフゥ～！！ ある時、そのエアコンが壊れてしまって、 大家さんに相談したら、 すぐに取り...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国女子金メダリスト、短髪への中傷相次ぐ 女性が一斉に援護　写真13枚　国際ニュース：AFPBB News]]></title>
-        <id>https://www.afpbb.com/articles/-/3359210</id>
-        <link href="https://www.afpbb.com/articles/-/3359210"/>
-        <updated>2021-07-29T19:38:56.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪、アーチェリー女子個人の競技に臨む韓国の安山（2021年7月29日撮影）。(c)ADEK BERRY / AFP 【7月30日 AFP】東京五輪で2個の金メダルを獲得した韓国女子アーチェリーの安山（アン・サン、An San）に対し、髪が短いことを理由にインターネット上で男性からの中傷が相次いでいる。29日には、女性からの応援メッセ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[おれはオリンピックをなめていました - 関内関外日記]]></title>
         <id>https://goldhead.hatenablog.com/entry/2021/07/30/000211</id>
         <link href="https://goldhead.hatenablog.com/entry/2021/07/30/000211"/>
@@ -281,16 +291,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210729/k10013141941000.html"/>
         <updated>2021-07-29T14:41:51.000Z</updated>
         <summary type="html"><![CDATA[男子高校生は毎週のように薬局に通い、アルバイトで稼いだお金で化粧品を買いました。自分の肌の色を隠すためです。高校の入学試験の時には「キモイ」「将来、犯罪者になりそう」という声が耳に飛び込んできました。そこで、少しでも、自分の個性を隠したいと思ってきました。これまで自分を苦しめてきたさまざまな境遇...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「五輪開催を批判したのならテレビを見る資格なし！」鈴木宗男氏が蓮舫氏に怒りあらわ（東スポWeb） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/8e674f2aab7876eb4a120b14bf0b504e2487c0d3</id>
-        <link href="https://news.yahoo.co.jp/articles/8e674f2aab7876eb4a120b14bf0b504e2487c0d3"/>
-        <updated>2021-07-29T13:02:13.000Z</updated>
-        <summary type="html"><![CDATA[「五輪開催を批判したのならテレビを見る資格なし！」と日本維新の会の鈴木宗男参院議員（７３）２９日、立憲民主党の蓮舫代表代行（５３）を念頭に宗男節をさく裂させた。 【写真】カッコイイ！　さっそうとスポーツカーを駆る蓮舫議員 政府は、神奈川・千葉・埼玉・大阪に緊急事態宣言を出す方針を固めて近く正式に決...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

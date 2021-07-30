@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T09:22:26.342Z</id>
+    <id>urn:2021-07-30T10:22:29.023Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T09:22:26.342Z</updated>
+    <updated>2021-07-30T10:22:29.023Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[緊急事態でも修学旅行実施　大阪市長「五輪やっている」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Z5T2JP7ZPTIL02N.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Z5T2JP7ZPTIL02N.html"/>
+        <updated>2021-07-30T09:11:56.000Z</updated>
+        <summary type="html"><![CDATA[大阪市の松井一郎市長は30日の記者会見で、大阪府などに新型コロナ対応の緊急事態宣言が出されても、8月に予定されている市立中学校4校の修学旅行は実施すると表明した。出発前に生徒全員にPCR検査を行い、陰性が確認された人が参加する仕組みとする。「感染者がいなければオリンピックもやっている。一生の思い出に残る...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 2人死亡 3300人感染確認 3日連続で3000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210730/k10013169911000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210730/k10013169911000.html"/>
         <updated>2021-07-30T07:48:15.000Z</updated>
-        <summary type="html"><![CDATA[東京都は30日、都内で新たに3300人が新型コロナウイルスに感染していることを確認したと発表しました。 3日連続で3000人を超えたほか、7日間平均の増加比は29日より上昇して180％を超え、これまでにないスピードで感染が拡大しています。 また、都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は30...]]></summary>
+        <summary type="html"><![CDATA[東京都は30日、都内で新たに3300人が新型コロナウイルスに感染していることを確認したと発表しました。3日連続で3000人を超えたほか、7日間平均の増加比は29日より上昇して180％を超え、これまでにないスピードで感染が拡大しています。また、都は、感染が確認された2人が死亡したことを明らかにしました。 東京都は30日...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2107/29/news121.html"/>
         <updated>2021-07-29T08:01:38.000Z</updated>
         <summary type="html"><![CDATA[AIベンチャーのラディウス・ファイブは、AIでアニメ用の美術背景を生成するサービス「Anime Art Painter」を始めた。写真をアップロードするだけで、アニメ風の美術背景を30秒程度で4種類生成する。 AIベンチャーのラディウス・ファイブ（東京都新宿区）は7月29日、AIを使って写真からアニメ用の美術背景を生成するサー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHK、「映像の世紀」全11作を8月3日から再放送 - AV Watch]]></title>
-        <id>https://av.watch.impress.co.jp/docs/news/1340922.html</id>
-        <link href="https://av.watch.impress.co.jp/docs/news/1340922.html"/>
-        <updated>2021-07-29T06:38:21.000Z</updated>
-        <summary type="html"><![CDATA[NHKは、1995年に放送した「映像の世紀」全11作を、最新のデジタル技術で鮮やかな映像にしつつ、NHK総合で8月3日深夜0時11分(2日月曜深夜)から2週にわたって再放送する。20世紀は人類が初めて歴史を「動く映像」として見ることができた最初の世紀である事から、“映像は20世紀をいかに記録してきたのか”を、世界中の映像記録を発掘・収集し、再構成したドキュメンタリー。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

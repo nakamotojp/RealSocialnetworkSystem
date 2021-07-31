@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T07:10:50.406Z</id>
+    <id>urn:2021-07-31T08:13:09.914Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T07:10:50.406Z</updated>
+    <updated>2021-07-31T08:13:09.914Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 4058人感染確認 過去最多 初の4000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172931000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172931000.html"/>
+        <updated>2021-07-31T07:51:15.000Z</updated>
+        <summary type="html"><![CDATA[東京都は31日、都内で新型コロナウイルスの感染が確認された人が初めて4000人を超えて4058人だったと発表しました。 都内では、今月28日に初めて3000人を超え、30日までの3日連続で3000人以上が確認されていて、これまでにないスピードで感染の急激な拡大が進んでいます。 一方、都の基準で集計した31日時点の重症の患者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[職域接種の供給遅れ 健保組合でキャンセル料4000万円負担も | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html"/>
+        <updated>2021-07-31T06:23:57.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスワクチンの職域接種をめぐり、大企業の従業員らが加入する6つの健康保険組合が、ワクチン供給の遅れをうけて接種計画を見直した結果、医師らへのキャンセル料などとして、合わせておよそ4000万円かかることがわかりました。 ワクチンの職域接種について、政府は先月下旬から新規の申請受け付けを一時...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第5波の感染者に占める重症者の割合が少なくても、医療体制の逼迫が起こりうる理由（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705</id>
+        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705"/>
+        <updated>2021-07-31T04:27:18.000Z</updated>
+        <summary type="html"><![CDATA[全国で新型コロナの第5波に見舞われており、特に関東ではこれまでで最大規模の流行となっています。 第5波の特徴として感染者数に占める重症者の割合が少ないことが挙げられますが、だからといって決して安心できるものではありません。 東京都の新規感染者数は第3波のピークを超えさらに増加東京都の新型コロナ新規感染...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「法律以前に日本人は発狂しますよ。」日本でのロックダウンは不可能と、数カ月ロックダウンを経験したマレーシア在住社長が考える理由 - Togetter]]></title>
         <id>https://togetter.com/li/1752381</id>
@@ -176,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大学に「私足軽だからｗ」っていう女がいるんだけど]]></title>
-        <id>https://anond.hatelabo.jp/20210728153635</id>
-        <link href="https://anond.hatelabo.jp/20210728153635"/>
-        <updated>2021-07-30T14:59:22.000Z</updated>
-        <summary type="html"><![CDATA[尻軽の間違いではないでしょうか。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[２８年前の音楽業界でも小山田圭吾に自省を促す声「覚悟がいる発言」だったが苦言は届かず…（東スポWeb） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/503ac9832fcf36747f9f777248159525cf3e36cd</id>
         <link href="https://news.yahoo.co.jp/articles/503ac9832fcf36747f9f777248159525cf3e36cd"/>
@@ -211,16 +231,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171791000.html"/>
         <updated>2021-07-30T13:40:11.000Z</updated>
         <summary type="html"><![CDATA[政府の分科会の尾身茂会長は、30日夜、西村経済再生担当大臣とともに行った記者会見で「今、感染が非常に大きく拡大し、多くの人が大変な事態になったと思い始めている。この機会を逃せば増加する感染に歯止めを掛けることが難しくなる。今、対策をしないと手遅れになる」と述べ、強い危機感を示して、対策を徹底する必...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いまだに大事なことはハガキで届くんだよな。 ワクチンの接種券とか年金の..]]></title>
-        <id>https://anond.hatelabo.jp/20210728214639</id>
-        <link href="https://anond.hatelabo.jp/20210728214639"/>
-        <updated>2021-07-30T13:30:37.000Z</updated>
-        <summary type="html"><![CDATA[いまだに大事なことはハガキで届くんだよな。 ワクチンの接種券とか年金のなんたらかんたらのお知らせとか。 この部分って不動なのか？ 郵便に変わるようなオフィシャルな電子的な仕組みというのは出来ないものなのだろうか？]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://twitter.com/Knjshiraishi/status/1420926990480117764"/>
         <updated>2021-07-30T11:07:27.000Z</updated>
         <summary type="html"><![CDATA[これは凄まじい。テキサス州では、すでにマスク着用義務を自治体が課すのを禁じているが、それに加えて、自治体や州政府の資金を受け取る大学等がワクチン接種義務を課すことも禁止した。全米の多くの州政府、自治体、大学では従業員や教職員、学生… https://t.co/WhOzIg6HzS]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレビを楽しめない人間はヒトとしての重大な資質を欠いた欠陥人間であり、「テレビ観てない」発言は自慢ではなくそのことを自嘲した自虐発言であるという話 - 自意識高い系男子]]></title>
-        <id>https://ta-nishi.hatenablog.com/entry/2021/07/30/193115</id>
-        <link href="https://ta-nishi.hatenablog.com/entry/2021/07/30/193115"/>
-        <updated>2021-07-30T10:34:02.000Z</updated>
-        <summary type="html"><![CDATA[体調が悪いので、今日は軽い話題でも。 b.hatena.ne.jp ↑のブクマでも散見されるが、「テレビを観ていない」ことを「自慢」と受け取る方の存在が、昔からわからない。というか、不快である。 私は小学生の頃からテレビにほとんど興味が沸かず*1、これまでの人生のほぼすべてをテレビと無関係に歩んできたが、それでよい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

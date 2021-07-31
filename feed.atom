@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T12:18:43.902Z</id>
+    <id>urn:2021-07-31T13:16:39.103Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T12:18:43.902Z</updated>
+    <updated>2021-07-31T13:16:39.103Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナウイルス感染症　自宅療養中の方へ　東京都福祉保健局]]></title>
+        <id>https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.html</id>
+        <link href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.html"/>
+        <updated>2021-07-31T10:15:54.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症と診断され、一定の条件を満たした方については、ご自宅での療養を行っていただいております。 都は、昨年11月に「自宅療養者フォローアップセンター」を開設し、LINEを活用した健康観察や、自宅療養中に必要な食料品・パルスオキシメーターの配送などの自宅療養の支援を行っております。 （新...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[選手の活躍「政権に力」　自民・河村氏「五輪なければ不満は政権へ」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210731/k00/00m/010/281000c</id>
         <link href="https://mainichi.jp/articles/20210731/k00/00m/010/281000c"/>
         <updated>2021-07-31T10:14:52.000Z</updated>
         <summary type="html"><![CDATA[自民党の河村建夫元官房長官は31日、東京五輪で日本代表選手が活躍すれば、秋までにある次期衆院選に向けて政権与党に追い風となるとの認識を示した。山口県萩市の会合で「五輪で日本選手が頑張っていることは、われわれにとっても大きな力になる」と述べた。 新型コロナウイルスが感染再拡大する中での五輪開催に批判的...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柔道男子ジョージア２選手　参加資格はく奪（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/5a571028fd61a0b03b19bf2f206488b4d018feee</id>
+        <link href="https://news.yahoo.co.jp/articles/5a571028fd61a0b03b19bf2f206488b4d018feee"/>
+        <updated>2021-07-31T09:14:23.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの柔道男子ジョージア代表で銀メダルを獲得した２人の選手が観光目的で選手村を抜けだし、大会参加資格をはく奪されたことがわかりました。 組織委員会・広報担当「選手村から観光目的で外出するというのはあってはならんということで、この事例に関してはアクレディテーションをはく奪した」 組織委員...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,7 +136,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第5波の感染者に占める重症者の割合が少なくても、医療体制の逼迫が起こりうる理由（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
+        <title type="html"><![CDATA[新型コロナ第5波の感染者に占める重症者の割合が少なくても、医療体制の逼迫が起こりうる理由（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705"/>
         <updated>2021-07-31T04:27:18.000Z</updated>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[欧州当局、Amazonに罰金970億円　GDPR違反で過去最大: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOGN30F340Q1A730C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOGN30F340Q1A730C2000000/"/>
-        <updated>2021-07-30T21:22:03.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【シリコンバレー=白石武志】米アマゾン・ドット・コムが消費者への広告表示をめぐって欧州連合（EU）の包括的な個人情報保護ルールである一般データ保護規則（GDPR）...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新型コロナ: 米東部クラスター、ワクチン接種者が74%　当局分析　: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOGN30FFC0Q1A730C2000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOGN30FFC0Q1A730C2000000/"/>
@@ -281,16 +291,6 @@
         <link href="https://www.asahi.com/articles/ASP7X5Q56P7KUTIL039.html"/>
         <updated>2021-07-30T12:13:26.000Z</updated>
         <summary type="html"><![CDATA[教育系ユーチューバーとして4年前から活動し、登録者が75万人に達したヨビノリたくみさん（28）。動画投稿を始めたきっかけと、それまでの進路選択について聞きました。「誰もやっていないこと」に挑戦する。そんな大きな目標があるそうです。 「誰もやっていないことを」　ヨビノリたくみの夢　ユーチューブチャンネル...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB特集 なぜ何もかもうまくいかない？ わたしは「境界知能」でした | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210730/k10013164861000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013164861000.html"/>
-        <updated>2021-07-30T11:53:50.000Z</updated>
-        <summary type="html"><![CDATA[「勉強も仕事も結婚もすべてうまくいかず、気づいたら20年ひとりぼっちで過ごしていました」 及川奈穂さん、57歳。 これまでの人生は、苦労の連続でした。 勉強は小学校低学年からついていけず。 仕事の覚えが悪く何度も職場から解雇される。 人間関係もうまくいかず、結婚生活も長く続かなかった－ なぜ何もかもうまく...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

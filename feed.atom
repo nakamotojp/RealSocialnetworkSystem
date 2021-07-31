@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T08:13:09.914Z</id>
+    <id>urn:2021-07-31T09:12:19.229Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T08:13:09.914Z</updated>
+    <updated>2021-07-31T09:12:19.229Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172931000.html"/>
         <updated>2021-07-31T07:51:15.000Z</updated>
         <summary type="html"><![CDATA[東京都は31日、都内で新型コロナウイルスの感染が確認された人が初めて4000人を超えて4058人だったと発表しました。 都内では、今月28日に初めて3000人を超え、30日までの3日連続で3000人以上が確認されていて、これまでにないスピードで感染の急激な拡大が進んでいます。 一方、都の基準で集計した31日時点の重症の患者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[選手村で感染26人に 川淵三郎村長「拡大している印象はない」 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172681000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172681000.html"/>
+        <updated>2021-07-31T07:16:36.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックに出場する選手などが生活の拠点とする東京 中央区の選手村で、31日までに新型コロナウイルスに感染した人が26人に上っていることについて、選手村の川淵三郎村長は記者会見で「感染が拡大している印象はない」と述べ、選手村内では感染を押さえ込めているという考えを強調しました。 東京オリンピック...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -26,11 +36,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[chocolat. on Twitter: "【注意喚起】 作家の竹田恒泰氏が当アカウントを名指しし、氏名や居住地域とされる情報を繰り返しツイートし拡散を呼びかけるという事案が発生しました。 公開に同意していない他者の氏名・住所・セクシュアリティ等を暴露するような行為は重大… https://t.co/02hN3AykrG"]]></title>
+        <id>https://twitter.com/chocolat_psyder/status/1421325311598202881</id>
+        <link href="https://twitter.com/chocolat_psyder/status/1421325311598202881"/>
+        <updated>2021-07-31T05:20:46.000Z</updated>
+        <summary type="html"><![CDATA[【注意喚起】 作家の竹田恒泰氏が当アカウントを名指しし、氏名や居住地域とされる情報を繰り返しツイートし拡散を呼びかけるという事案が発生しました。 公開に同意していない他者の氏名・住所・セクシュアリティ等を暴露するような行為は重大… https://t.co/02hN3AykrG]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第5波の感染者に占める重症者の割合が少なくても、医療体制の逼迫が起こりうる理由（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705"/>
         <updated>2021-07-31T04:27:18.000Z</updated>
         <summary type="html"><![CDATA[全国で新型コロナの第5波に見舞われており、特に関東ではこれまでで最大規模の流行となっています。 第5波の特徴として感染者数に占める重症者の割合が少ないことが挙げられますが、だからといって決して安心できるものではありません。 東京都の新規感染者数は第3波のピークを超えさらに増加東京都の新型コロナ新規感染...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染者急増で保健所の業務ひっ迫「命と健康を守る行動を」東京 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172181000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172181000.html"/>
+        <updated>2021-07-31T02:50:07.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染者が急増している東京都では、入院先がすぐに決まらない人や自宅で療養する人が増えています。都内の保健所では、入院調整などの業務がひっ迫してきていて、ウェブページで「命と健康を守る行動を」と呼びかける保健所も出てきています。 東京・中央区保健所によりますと、今月上旬は感染者数は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,26 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“来年3回目の接種 行うことになるのでは” 河野大臣 | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210731/k10013171921000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013171921000.html"/>
-        <updated>2021-07-30T16:29:12.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの2回のワクチン接種を終えた人について、河野規制改革担当大臣は、来年、3回目の接種を行うことになるのではないかとの見方を示しました。 河野規制改革担当大臣は、若い世代のワクチン接種を促そうと、30日夜、ロックバンド「X JAPAN」のYOSHIKIさんとツイッターの音声機能を活用して対談しました。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5歳園児の死因は熱中症　園長1人で送迎「自分がバスの鍵かけた」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210730/k00/00m/040/460000c</id>
-        <link href="https://mainichi.jp/articles/20210730/k00/00m/040/460000c"/>
-        <updated>2021-07-30T15:18:56.000Z</updated>
-        <summary type="html"><![CDATA[福岡県中間市にある認可保育園の私立双葉保育園で送迎バス内にいた園児の倉掛冬生（とうま）ちゃん（5）＝同市＝が死亡した事件で、県警折尾署は30日、死因が熱中症だったと発表した。冬生ちゃんは29日朝に園の迎えのバスに乗り、炎天下の駐車場の車内に約9時間閉じ込められていた可能性があり、同署は業務上過失致]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[第1話]神食の料理人 - 鈴木小波 | 少年ジャンプ＋]]></title>
         <id>https://shonenjumpplus.com/episode/3269754496421073063</id>
         <link href="https://shonenjumpplus.com/episode/3269754496421073063"/>
@@ -221,16 +231,6 @@
         <link href="https://twitter.com/wanpakuten/status/1421064347212685314"/>
         <updated>2021-07-30T14:11:33.000Z</updated>
         <summary type="html"><![CDATA[首相会見 江川紹子氏 「人流を減らすには具体的にはどれぐらいの人を減らす、人と人との接触の機会を減らすということが、 目標としてあるのか。具体的に何をしていくのか」 菅「車の乗り入れ3割減とテレワークだ。大会に集中する人の、そ… https://t.co/ZoqkLV0V9q]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分科会 尾身会長「今 対策をしないと手遅れに」 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210730/k10013171791000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171791000.html"/>
-        <updated>2021-07-30T13:40:11.000Z</updated>
-        <summary type="html"><![CDATA[政府の分科会の尾身茂会長は、30日夜、西村経済再生担当大臣とともに行った記者会見で「今、感染が非常に大きく拡大し、多くの人が大変な事態になったと思い始めている。この機会を逃せば増加する感染に歯止めを掛けることが難しくなる。今、対策をしないと手遅れになる」と述べ、強い危機感を示して、対策を徹底する必...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

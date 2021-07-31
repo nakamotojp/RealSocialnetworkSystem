@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T06:14:38.483Z</id>
+    <id>urn:2021-07-31T07:10:50.406Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T06:14:38.483Z</updated>
+    <updated>2021-07-31T07:10:50.406Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://togetter.com/li/1752381"/>
         <updated>2021-07-31T02:14:26.000Z</updated>
         <summary type="html"><![CDATA[リンク 時事ドットコム 「ロックダウンの法整備検討を」 政府分科会で求める声：時事ドットコム ３０日に開かれた新型コロナウイルス対策を協議する基本的対処方針分科会で、出席者から将来的にロックダウン（都市封鎖）を可能とする法整備の検討を求める意見が出された。 381 users 746 時事ドットコム（時事通信ニュー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to heredocs in Dockerfiles - Docker Blog]]></title>
+        <id>https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/</id>
+        <link href="https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/"/>
+        <updated>2021-07-31T01:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Guest post by Docker Community Member Justin Chadell. This post originally appeared here. As of a couple weeks ago, Docker’s BuildKit tool for building Dockerfiles now supports heredoc syntax! With these new improvements, we can do all sorts of things that were difficult before, like multiline RU...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 繁華街で予約不要のワクチン接種を検討 若い世代向けに | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210730/k10013171671000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171671000.html"/>
-        <updated>2021-07-30T12:43:57.000Z</updated>
-        <summary type="html"><![CDATA[東京都は若い世代がワクチン接種を受けやすい環境をつくるため、接種券を持っていれば予約なしで受けられる機会を都内の繁華街に設ける方向で検討しています。 これは30日、小池知事が対策本部会議のあと、記者団に明らかにしました。 小池知事は「ワクチン接種を受けることは、みずからを守るだけではない。社会全体で...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「要請」応じず売上高9割増　グローバルダイニング：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7Z6W86P7ZULFA022.html</id>
         <link href="https://www.asahi.com/articles/ASP7Z6W86P7ZULFA022.html"/>
@@ -266,6 +266,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kenji Shiraishi on Twitter: "これは凄まじい。テキサス州では、すでにマスク着用義務を自治体が課すのを禁じているが、それに加えて、自治体や州政府の資金を受け取る大学等がワクチン接種義務を課すことも禁止した。全米の多くの州政府、自治体、大学では従業員や教職員、学生… https://t.co/WhOzIg6HzS"]]></title>
+        <id>https://twitter.com/Knjshiraishi/status/1420926990480117764</id>
+        <link href="https://twitter.com/Knjshiraishi/status/1420926990480117764"/>
+        <updated>2021-07-30T11:07:27.000Z</updated>
+        <summary type="html"><![CDATA[これは凄まじい。テキサス州では、すでにマスク着用義務を自治体が課すのを禁じているが、それに加えて、自治体や州政府の資金を受け取る大学等がワクチン接種義務を課すことも禁止した。全米の多くの州政府、自治体、大学では従業員や教職員、学生… https://t.co/WhOzIg6HzS]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[テレビを楽しめない人間はヒトとしての重大な資質を欠いた欠陥人間であり、「テレビ観てない」発言は自慢ではなくそのことを自嘲した自虐発言であるという話 - 自意識高い系男子]]></title>
         <id>https://ta-nishi.hatenablog.com/entry/2021/07/30/193115</id>
         <link href="https://ta-nishi.hatenablog.com/entry/2021/07/30/193115"/>
@@ -281,16 +291,6 @@
         <link href="https://www.buzzfeed.com/jp/kotahatachi/oriental-witches"/>
         <updated>2021-07-30T08:58:39.000Z</updated>
         <summary type="html"><![CDATA[1964年の東京五輪で金メダルを取り、伝説的な存在として、いまだ語り継がれている女子バレー日本代表「東洋の魔女」。 菅義偉首相もたびたび思い出話を披露するなど、日本中を熱狂の渦に巻き込んだ彼女たちは、かつて「非国民」という誹謗中傷に晒されたことがあった。 「鬼」とも呼ばれた大松博文監督も、そして選手た...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どすこい on Twitter: "コロナ病棟で働いているけど、今日は辛いことがあったんだ。病棟は毎日出ては入るの満床で、連日2、3件の入院依頼を断っている状況だよ。入院が決まった人には、入院時に必要な持ち物を伝えるために電話するんだけど、ご本人は息が苦しくて喋るのがツラいってことで"]]></title>
-        <id>https://twitter.com/doddododosukoi/status/1420717289830289413</id>
-        <link href="https://twitter.com/doddododosukoi/status/1420717289830289413"/>
-        <updated>2021-07-30T08:15:21.000Z</updated>
-        <summary type="html"><![CDATA[コロナ病棟で働いているけど、今日は辛いことがあったんだ。病棟は毎日出ては入るの満床で、連日2、3件の入院依頼を断っている状況だよ。入院が決まった人には、入院時に必要な持ち物を伝えるために電話するんだけど、ご本人は息が苦しくて喋るのがツラいってことで]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

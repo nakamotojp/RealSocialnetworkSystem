@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T02:25:51.834Z</id>
+    <id>urn:2021-07-31T03:13:24.700Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T02:25:51.834Z</updated>
+    <updated>2021-07-31T03:13:24.700Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://news.yahoo.co.jp/articles/67aa655eb9e723968b9cccf6bd0ab253adfca496"/>
         <updated>2021-07-31T00:13:22.000Z</updated>
         <summary type="html"><![CDATA[「英国の状況を見ると、デルタ株はむしろ弱毒化しているのではないかと思う」 と、京都大学ウイルス・再生医科学研究所の宮沢孝幸准教授は言う。一つは、 【写真3枚】この記事の写真を見る 「味覚障害や嗅覚障害という症状が減り、普通の風邪のような症状が増えているといいます」 事実、現地の研究者たちの調査でも、最...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小池知事「この夏を最後のステイホームに」　東京の緊急事態を延長、新たな対策はなし：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/120694</id>
+        <link href="https://www.tokyo-np.co.jp/article/120694"/>
+        <updated>2021-07-30T22:01:33.000Z</updated>
+        <summary type="html"><![CDATA[東京都は３０日、新型コロナウイルス対策の緊急事態宣言が８月末まで延長されるのに伴い、対策本部会議を開き、延長後も引き続き飲食店に酒類提供停止を要請する感染防止策を決定した。小池百合子知事は「これ以上の感染拡大を食い止めなければならない」と強調。一方で、当面の感染急増を抑えるための新たな措置は盛り...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,16 +91,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210731/k10013171921000.html"/>
         <updated>2021-07-30T16:29:12.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの2回のワクチン接種を終えた人について、河野規制改革担当大臣は、来年、3回目の接種を行うことになるのではないかとの見方を示しました。 河野規制改革担当大臣は、若い世代のワクチン接種を促そうと、30日夜、ロックバンド「X JAPAN」のYOSHIKIさんとツイッターの音声機能を活用して対談しました。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本企業所有のタンカー “オマーン沖で攻撃受け 2人死亡” | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210731/k10013171911000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013171911000.html"/>
-        <updated>2021-07-30T16:14:28.000Z</updated>
-        <summary type="html"><![CDATA[中東オマーンの沖合を航行していた日本企業が所有するタンカーが何者かの攻撃を受け船員2人が死亡したと、船の運航会社などが明らかにしました。 現地の海域で警戒にあたっているイギリス軍などが詳しい状況を調べています。 イギリスのロンドンに拠点を置く船の運航会社「ゾディアック・マリタイム」が明らかにしたとこ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,6 +186,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[高田ゆうき on Twitter: "ワクチン接種でアナフィラキシーになってICUに入った友達の話。 職域が職域なので描いていて、😃！ そんな私は今日が2回目です。 こんなレポート漫画やら「一人暮らし老後どーすんの委員会」漫画やらを月額100円で毎月10枚描いてま… https://t.co/lztqTgRSJJ"]]></title>
+        <id>https://twitter.com/yuhkitakada/status/1420951249428516873</id>
+        <link href="https://twitter.com/yuhkitakada/status/1420951249428516873"/>
+        <updated>2021-07-30T12:25:01.000Z</updated>
+        <summary type="html"><![CDATA[ワクチン接種でアナフィラキシーになってICUに入った友達の話。 職域が職域なので描いていて、😃！ そんな私は今日が2回目です。 こんなレポート漫画やら「一人暮らし老後どーすんの委員会」漫画やらを月額100円で毎月10枚描いてま… https://t.co/lztqTgRSJJ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[75万人登録のユーチューバー　物理研究から転身のわけ：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7X5Q56P7KUTIL039.html</id>
         <link href="https://www.asahi.com/articles/ASP7X5Q56P7KUTIL039.html"/>
@@ -221,16 +231,6 @@
         <link href="https://www.tokyo-np.co.jp/article/120556"/>
         <updated>2021-07-30T11:22:30.000Z</updated>
         <summary type="html"><![CDATA[政府は３０日夕、新型コロナウイルスの感染が急拡大する埼玉、千葉、神奈川、大阪４府県への緊急事態宣言発令を決定する。いずれも８月２日からで、期限は同３１日。東京都と沖縄県の期限も同３１日まで延長する。菅義偉首相は３０日午後７時から記者会見を開く。東京五輪の開催中に宣言の対象地域や期間を拡大する異例...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東大病院ICU 新型コロナ以外の患者受け入れ制限 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210730/k10013171361000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210730/k10013171361000.html"/>
-        <updated>2021-07-30T11:13:33.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染の急拡大に伴って治療態勢がひっ迫しているとして、東京大学医学部附属病院では新型コロナ以外の患者についてのICU＝集中治療室での受け入れを制限し始めたことを明らかにしました。 東京大学医学部附属病院のICUでは、このところ新型コロナウイルスの重症患者の治療に追われ病院内の中等症の病...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

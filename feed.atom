@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T14:10:33.794Z</id>
+    <id>urn:2021-07-31T15:12:53.416Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T14:10:33.794Z</updated>
+    <updated>2021-07-31T15:12:53.416Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://twitter.com/Mizutani__Jun/status/1421374435219558406"/>
         <updated>2021-07-31T08:50:29.000Z</updated>
         <summary type="html"><![CDATA[言いたいことだけ言ってアカウントを消したみたいですが、あまりにも悪質な誹謗中傷は全てスクショしていますし、関係各所に連絡を行い然るべき措置を取ります。 https://t.co/ZreTH3YRmv]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CORSの仕様はなぜ複雑なのか]]></title>
+        <id>https://zenn.dev/qnighy/articles/6ff23c47018380</id>
+        <link href="https://zenn.dev/qnighy/articles/6ff23c47018380"/>
+        <updated>2021-07-31T08:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Webアプリケーションを実装していると高確率で CORS の問題にぶつかります。CORSがどのようなものかはリンクしたMDNなど既存の解説を読むのが手っ取り早いと思いますが、「なぜそのように設計されたのか」という観点での説明はあまり見ないため、昔の資料の記述や現在の仕様からの推測をもとに整理してみました。 CORSと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://www.buzzfeed.com/jp/kotahatachi/oriental-witches"/>
         <updated>2021-07-30T08:58:39.000Z</updated>
         <summary type="html"><![CDATA[1964年の東京五輪で金メダルを取り、伝説的な存在として、いまだ語り継がれている女子バレー日本代表「東洋の魔女」。 菅義偉首相もたびたび思い出話を披露するなど、日本中を熱狂の渦に巻き込んだ彼女たちは、かつて「非国民」という誹謗中傷に晒されたことがあった。 「鬼」とも呼ばれた大松博文監督も、そして選手た...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Composeの環境変数ではなくsecretsで秘密情報を扱う - Qiita]]></title>
-        <id>https://qiita.com/myabu/items/89797cddfa7225ff2b5d</id>
-        <link href="https://qiita.com/myabu/items/89797cddfa7225ff2b5d"/>
-        <updated>2021-07-19T13:13:54.000Z</updated>
-        <summary type="html"><![CDATA[しかし、Dockerのドキュメントhttps://docs.docker.com/get-started/07_multi_container/ には While using env vars to set connection settings is generally ok for development, it is HIGHLY DISCOURAGED when running applications in production. Diogo Monica, the former lead of security at Docker, wrote a ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

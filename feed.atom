@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T17:17:29.040Z</id>
+    <id>urn:2021-07-31T18:14:19.887Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T17:17:29.040Z</updated>
+    <updated>2021-07-31T18:14:19.887Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -156,6 +156,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[青木　俊 on Twitter: "「日本の記者会見は中国よりも統制されていて」↓ 中国にいたが、同感。更問い禁止もないし、一応どんな記者でも挙手すれば当てられる。欧米記者からは辛辣な質問も飛ぶが、政府側は一応ちゃんと答えている。第一、記者クラブなんかない。 https://t.co/ThgtEFD2Dy"]]></title>
+        <id>https://twitter.com/AokiTonko/status/1421105999683866627</id>
+        <link href="https://twitter.com/AokiTonko/status/1421105999683866627"/>
+        <updated>2021-07-31T07:07:53.000Z</updated>
+        <summary type="html"><![CDATA[「日本の記者会見は中国よりも統制されていて」↓ 中国にいたが、同感。更問い禁止もないし、一応どんな記者でも挙手すれば当てられる。欧米記者からは辛辣な質問も飛ぶが、政府側は一応ちゃんと答えている。第一、記者クラブなんかない。 https://t.co/ThgtEFD2Dy]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[茂木健一郎 on Twitter: "あっ、黒瀬さん、ご活躍はいつも拝見してます。先日東浩紀さんとやりとりしているのも拝見しました。 https://t.co/GiwiO0jdIw"]]></title>
+        <id>https://twitter.com/kenichiromogi/status/1421354357371510787</id>
+        <link href="https://twitter.com/kenichiromogi/status/1421354357371510787"/>
+        <updated>2021-07-31T07:05:56.000Z</updated>
+        <summary type="html"><![CDATA[あっ、黒瀬さん、ご活躍はいつも拝見してます。先日東浩紀さんとやりとりしているのも拝見しました。 https://t.co/GiwiO0jdIw]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[職域接種の供給遅れ 健保組合でキャンセル料4000万円負担も | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html"/>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to heredocs in Dockerfiles - Docker Blog]]></title>
-        <id>https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/</id>
-        <link href="https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/"/>
-        <updated>2021-07-31T01:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Guest post by Docker Community Member Justin Chadell. This post originally appeared here. As of a couple weeks ago, Docker’s BuildKit tool for building Dockerfiles now supports heredoc syntax! With these new improvements, we can do all sorts of things that were difficult before, like multiline RU...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一度の不祥事で、人生を「全否定」される…東京五輪で見えてきた「末恐ろしい風潮」（トイアンナ） | マネー現代 | 講談社（1/5）]]></title>
         <id>https://gendai.ismedia.jp/articles/-/85666</id>
         <link href="https://gendai.ismedia.jp/articles/-/85666"/>
@@ -261,16 +271,6 @@
         <link href="https://news.yahoo.co.jp/byline/shinoharashuji/20210731-00250717"/>
         <updated>2021-07-31T00:47:18.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの体操女子個人総合に出場した村上茉愛（まい）選手が試合後のインタビューで、「五輪を反対している人を見返したい。そういう人たちに思い知ったかと思ってもらいたい」と答えたとして批判されています。 本当にそのようなことを言ったのでしょうか？ 発端はデイリースポーツの記事　批判が起きる原因...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ: 米東部クラスター、ワクチン接種者が74%　当局分析　: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOGN30FFC0Q1A730C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOGN30FFC0Q1A730C2000000/"/>
-        <updated>2021-07-30T21:13:03.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=野村優子】米疾病対策センター（CDC）は30日、東部マサチューセッツ州で発生した新型コロナウイルスのクラスター（感染者集団）について、感染者の4分...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

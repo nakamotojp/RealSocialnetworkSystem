@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T18:14:19.887Z</id>
+    <id>urn:2021-07-31T19:09:24.906Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T18:14:19.887Z</updated>
+    <updated>2021-07-31T19:09:24.906Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,26 @@
         <link href="https://www.tokyo-np.co.jp/article/120914"/>
         <updated>2021-07-31T12:06:53.000Z</updated>
         <summary type="html"><![CDATA[東京五輪での日本選手の活躍に沸く都内で、新型コロナウイルスの感染拡大が止まらない。東京の新規感染者は３１日、４０５８人で最多を更新。都は感染者の半数を占める２０代や３０代、重症者が多い５０代を中心に外出自粛などの呼び掛けを強める。しかし、週末夜の新橋ではサラリーマンらが五輪中継を見ながらグラスに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都内で自宅療養者が初めて1万人超える ｜ 共同通信]]></title>
+        <id>https://nordot.app/794159550702534656</id>
+        <link href="https://nordot.app/794159550702534656"/>
+        <updated>2021-07-31T11:41:53.000Z</updated>
+        <summary type="html"><![CDATA[閲覧を続けるには、ノアドット株式会社が「プライバシーポリシー」に定める「アクセスデータ」を取得することを含む「nor.利用規約」に同意する必要があります。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都の新型コロナ感染者「実数」から見えてきた本当の危機（石田雅彦） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/ishidamasahiko/20210731-00250834</id>
+        <link href="https://news.yahoo.co.jp/byline/ishidamasahiko/20210731-00250834"/>
+        <updated>2021-07-31T11:20:25.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックが敢行される中、全国的に新型コロナの新規患者が激増している。高齢者の割合が少なく重症者や死者が少ないことから楽観視する意見も出始めているが、この状態を放置し続けて大丈夫なのだろうか。 すでに70代、80代も第4波なみ この7月31日、新型コロナの新規患者は、首都圏の1都3県の全てで過去最多と...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[茂木健一郎 on Twitter: "あっ、黒瀬さん、ご活躍はいつも拝見してます。先日東浩紀さんとやりとりしているのも拝見しました。 https://t.co/GiwiO0jdIw"]]></title>
-        <id>https://twitter.com/kenichiromogi/status/1421354357371510787</id>
-        <link href="https://twitter.com/kenichiromogi/status/1421354357371510787"/>
-        <updated>2021-07-31T07:05:56.000Z</updated>
-        <summary type="html"><![CDATA[あっ、黒瀬さん、ご活躍はいつも拝見してます。先日東浩紀さんとやりとりしているのも拝見しました。 https://t.co/GiwiO0jdIw]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[職域接種の供給遅れ 健保組合でキャンセル料4000万円負担も | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html"/>
@@ -271,16 +281,6 @@
         <link href="https://news.yahoo.co.jp/byline/shinoharashuji/20210731-00250717"/>
         <updated>2021-07-31T00:47:18.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックの体操女子個人総合に出場した村上茉愛（まい）選手が試合後のインタビューで、「五輪を反対している人を見返したい。そういう人たちに思い知ったかと思ってもらいたい」と答えたとして批判されています。 本当にそのようなことを言ったのでしょうか？ 発端はデイリースポーツの記事　批判が起きる原因...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相、開催基準示さぬまま五輪に突入した責任に言及せず　本紙の質問はぐらかし続ける：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/120710</id>
-        <link href="https://www.tokyo-np.co.jp/article/120710"/>
-        <updated>2021-07-30T15:02:47.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は３０日の記者会見で、東京五輪を中止しない考えをあらためて示した。だが、本紙が開幕前の４月以降、首相の会見で繰り返し質問した感染拡大につながるリスクへの認識や、開催の可否を判断する基準は一度も正面から説明していない。国民の不安と疑問に向き合わず、感染拡大を抑えることもできず、自ら「異例...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

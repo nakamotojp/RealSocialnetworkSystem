@@ -6,6 +6,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.dtmstation.com/archives/41014.html",
+          "author": null,
+          "description": "本日8月1日、音声合成技術の世界に、また画期的な動きがありました。「Seiren Voice」や「Yukarinライブラリ」の開発者としても知られるヒロシバ（@hiho_karuta）さんが、ITAコーパスを利用した商用利用も可能なAI音声合成システム、VOICEVOXなるソフトウェアをオープンソースのとして無料でリリースしたのです。具体的...",
+          "link": "https://www.dtmstation.com/archives/41014.html",
+          "publishedOn": "2021-08-01T01:07:36.000Z",
+          "wordCount": 505,
+          "title": "商用でも利用可能なAI音声合成ソフトウェア『VOICEVOX』がオープンソースとして無料でリリース |DTMステーション"
+        },
+        {
+          "id": "https://twitter.com/BarberSeidan/status/1421501481828585472",
+          "author": null,
+          "description": "これまでは冬にインフルで病院パンクしようが救急たらい回しになろうがお構いなしに宴会やX'masやってましたが それでも医療は（大変だったかもしれないが）回ってたわけでしょ そういうことを考えれば なんで逼迫逼迫崩壊崩壊言ってるのか 素人なのでよく分からないですね",
+          "link": "https://twitter.com/BarberSeidan/status/1421501481828585472",
+          "publishedOn": "2021-08-01T00:19:09.000Z",
+          "wordCount": 196,
+          "title": "居酒屋ダンギ on Twitter: \"これまでは冬にインフルで病院パンクしようが救急たらい回しになろうがお構いなしに宴会やX'masやってましたが それでも医療は（大変だったかもしれないが）回ってたわけでしょ そういうことを考えれば なんで逼迫逼迫崩壊崩壊言ってるのか 素人なのでよく分からないですね\""
+        },
+        {
           "id": "https://news.yahoo.co.jp/byline/kutsunasatoshi/20210801-00249724",
           "author": null,
           "description": "ペルーで最初に見つかった「ラムダ型」と呼ばれる変異ウイルスが南米を中心に徐々に拡大しています。 ラムダ型変異ウイルスについて現時点でどんなことが分かっているのでしょうか。 ラムダ型変異ウイルスの検出状況は？それぞれの変異ウイルスの検出状況（2021年7月31日現在の情報に基づき筆者作成） ラムダ型変異ウイ...",
@@ -33,12 +51,21 @@
           "title": "小泉進次郎、記者発表でナゾの寸劇を披露　「会場は静まり返っていた」（デイリー新潮） - Yahoo!ニュース"
         },
         {
+          "id": "https://ameblo.jp/ayapipipiii/entry-12689531807.html",
+          "author": null,
+          "description": "躊躇してたおハゲ写真を公開してみようと思います！！ お前の写真に興味ないねん！！！🤦‍♀️ って人も多いかと思いますが、抜け毛多いなって思い始めた頃にこんな記事書いてる人居ないかすごーーく探しました。 けど検索では厚生労働省のサイトばっかり出てくるし、他にそんな人居ないのかと思うと心細いし、、 今は他にも...",
+          "link": "https://ameblo.jp/ayapipipiii/entry-12689531807.html",
+          "publishedOn": "2021-07-31T21:14:54.000Z",
+          "wordCount": 95,
+          "title": "コロナワクチン後から始まったおハゲの軌跡〜 | ワクチン打ったら脱毛症になりました〜おハゲ記録〜"
+        },
+        {
           "id": "https://mainichi.jp/articles/20210731/k00/00m/040/383000c",
           "author": null,
           "description": "倉掛冬生ちゃんが取り残されていた双葉保育園の送迎バス＝北九州市八幡西区の福岡県警折尾署で2021年7月31日午後3時4分、成松秋穂撮影 福岡県中間市にある認可保育園の私立双葉保育園で送迎バス内にいた園児の倉掛冬生（とうま）ちゃん（5）＝同市＝が熱中症で死亡した事件で、園が園児の出欠確認や点呼をしなかったため...",
           "link": "https://mainichi.jp/articles/20210731/k00/00m/040/383000c",
           "publishedOn": "2021-07-31T20:12:01.000Z",
-          "wordCount": 470,
+          "wordCount": 471,
           "title": "送迎バス死亡　園長、後部確認せず「泣く子もいて徹底できなかった」 | 毎日新聞"
         },
         {
@@ -47,7 +74,7 @@
           "description": "米国の有名経済学者が、東京五輪の収支は３兆３０００億円の赤字になると驚がくの分析を行った。 【写真】タワマンから見たら大炎上していた国立競技場 米紙「ニューヨーク・ポスト」は、コロナ禍で強行された東京五輪は巨額な損失が出ると予測。「損失を取り戻す方法がなく、３００億ドル（約３兆３０００億円）を失う...",
           "link": "https://news.yahoo.co.jp/articles/1d74abe8b5dfd7ae4fff8bb5db1254ad79228fa6",
           "publishedOn": "2021-07-31T20:07:40.000Z",
-          "wordCount": 80,
+          "wordCount": 81,
           "title": "東京五輪は３兆３０００億円の大赤字！ 米経済学者が収支を発表（東スポWeb） - Yahoo!ニュース"
         },
         {
@@ -56,8 +83,17 @@
           "description": "うじにぃ@ujiny三菱総研…無惨だな 2021/07/31 02:35:29 カミーユ美談@GUNDAM_20211日1万人感染って聞いてもどこか自分は感染しないだろうって気になってるけど『毎日必ず1万名様に当たるキャンペーン実施中！』って言われたらめちゃくちゃ当たる気しかしないな。 2021/07/30 07:34:44 今のところ第5波では重症者が少なく...",
           "link": "https://kabumatome.doorblog.jp/archives/65983499.html",
           "publishedOn": "2021-07-31T18:19:29.000Z",
-          "wordCount": 1028,
+          "wordCount": 1021,
           "title": "新型コロナワクチン自治体ガチャ、東京23区の大当たり「墨田区」大ハズレ「世田谷区」 : 市況かぶ全力２階建"
+        },
+        {
+          "id": "https://toyokeizai.net/articles/-/444307",
+          "author": null,
+          "description": "暑い夏に食べたくなる蕎麦は腸活にぴったりの食材ですが、食べるときにやりがちな4つのNGがあるそうです……（写真：jazzman／PIXTA） 世界的に著名な自然療法士でオステオパシストのフランク・ラポルト＝アダムスキー氏。1992年に発表された「アダムスキー式腸活メソッド」は、Google.itの食事法（ダイエット）部門（2017...",
+          "link": "https://toyokeizai.net/articles/-/444307",
+          "publishedOn": "2021-07-31T16:14:07.000Z",
+          "wordCount": 317,
+          "title": "日本人に多い｢腸を汚す蕎麦の食べ方｣､残念4大NG | 健康 | 東洋経済オンライン | 社会をよくする経済ニュース"
         },
         {
           "id": "https://katsumakazuyo.hatenablog.com/entry/2021/08/01/003951",
@@ -78,6 +114,15 @@
           "title": "VOICEVOX"
         },
         {
+          "id": "https://twitter.com/qqdoctor18/status/1421485456907071493",
+          "author": null,
+          "description": "今の私から言えること① 自宅療養の指示を守らずに、普通に外出している人たちが何人もいます。なんなら陽性であることを隠して、複数人で飲みに行ったり旅行に行ってる人さえいます。保健所の管理も追いついていません。なぜ今の法律ではこれを取り締まれないのでしょうか。。。",
+          "link": "https://twitter.com/qqdoctor18/status/1421485456907071493",
+          "publishedOn": "2021-07-31T15:07:51.000Z",
+          "wordCount": 196,
+          "title": "qqdoctor @ COVID-19対応中 on Twitter: \"今の私から言えること① 自宅療養の指示を守らずに、普通に外出している人たちが何人もいます。なんなら陽性であることを隠して、複数人で飲みに行ったり旅行に行ってる人さえいます。保健所の管理も追いついていません。なぜ今の法律ではこれを取り締まれないのでしょうか。。。\""
+        },
+        {
           "id": "https://nordot.app/794204601417744384",
           "author": null,
           "description": "河野太郎行政改革担当相は31日夜のインターネット番組で、新型コロナウイルスのデルタ株による感染拡大について、ワクチン接種だけでは抑止困難との認識を示した。「ワクチンだけでどうにかするのは、なかなか厳しい」と述べ、マスクや手洗いなどの基本的な感染対策の徹底を改めて呼び掛けた。 20代、30代の感染者が増え...",
@@ -87,24 +132,6 @@
           "title": "ワクチンのみで抑止困難と行革相　デルタ株拡大、対策徹底を ｜ 共同通信"
         },
         {
-          "id": "https://twitter.com/takeuchikumiffy/status/1421015252968247298",
-          "author": null,
-          "description": "これですよ！ほんとにこれなんです。 https://t.co/1mejhFU3x9",
-          "link": "https://twitter.com/takeuchikumiffy/status/1421015252968247298",
-          "publishedOn": "2021-07-31T13:32:17.000Z",
-          "wordCount": 196,
-          "title": "竹内久美子 on Twitter: \"これですよ！ほんとにこれなんです。 https://t.co/1mejhFU3x9\""
-        },
-        {
-          "id": "https://twitter.com/myhlee/status/1421426956420014086",
-          "author": null,
-          "description": "Leaving the restaurant at 8pm per guidelines under Tokyo state of emergency, and yet … still a full house. Some peo… https://t.co/emMo4DUmCz",
-          "link": "https://twitter.com/myhlee/status/1421426956420014086",
-          "publishedOn": "2021-07-31T13:30:07.000Z",
-          "wordCount": 196,
-          "title": "Michelle Ye Hee Lee on Twitter: \"Leaving the restaurant at 8pm per guidelines under Tokyo state of emergency, and yet … still a full house. Some peo… https://t.co/emMo4DUmCz\""
-        },
-        {
           "id": "https://twitter.com/Ichiro_leadoff/status/1421442166316945412",
           "author": null,
           "description": "忘れられがちなことですが、2020東京オリンピック誘致の政府支援を閣議決定したのは2012年の旧民主党・野田佳彦政権だったんですよね。 https://t.co/zMNqhA6D8P https://t.co/T5z2D9ubZ9",
@@ -112,15 +139,6 @@
           "publishedOn": "2021-07-31T12:58:31.000Z",
           "wordCount": 196,
           "title": "山本一郎（Ichiro Yamamoto）🐱 on Twitter: \"忘れられがちなことですが、2020東京オリンピック誘致の政府支援を閣議決定したのは2012年の旧民主党・野田佳彦政権だったんですよね。 https://t.co/zMNqhA6D8P https://t.co/T5z2D9ubZ9\""
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b532353e4b6ce9cd5d6d0f005dae440a031a0ada",
-          "author": null,
-          "description": "東京五輪、テニス男子3位決定戦。ネットポストにラケットを打ちつけるセルビアのノバク・ジョコビッチ（2021年7月31日撮影）。【翻訳編集】 AFPBB News 【AFP＝時事】東京五輪は31日、テニス男子シングルス3位決定戦が行われ、大会第1シードのノバク・ジョコビッチ（Novak Djokovic、セルビア）は4-6、7-6（8-6）、3-6で...",
-          "link": "https://news.yahoo.co.jp/articles/b532353e4b6ce9cd5d6d0f005dae440a031a0ada",
-          "publishedOn": "2021-07-31T12:53:14.000Z",
-          "wordCount": 87,
-          "title": "ジョコビッチ五輪メダル獲得ならず、怒り募らせラケット破壊（ＡＦＰ＝時事） - Yahoo!ニュース"
         },
         {
           "id": "https://twitter.com/nakatsuma/status/1421434033007824899",
@@ -146,7 +164,7 @@
           "description": "とびしき @tobi4ki 妊婦「先生、来月臨月だけどハワイでマタニティ写真撮ってくるね🤗」 わし「わしの患者に海外旅行中に産まれちゃって今家2軒分の借金返済してる夫婦いるけどなんか質問ある？」 妊婦「旅行ってキャンセル効くの何日前までだっけ🤗」 実話です 2021-07-31 12:29:54",
           "link": "https://togetter.com/li/1752661",
           "publishedOn": "2021-07-31T12:16:04.000Z",
-          "wordCount": 1044,
+          "wordCount": 1093,
           "title": "医者「妊娠中や臨月の時に海外旅行に行きたがる方がいるが、私の患者には旅行中に生まれて家２軒分の借金返済してる夫婦がいる」 - Togetter"
         },
         {
@@ -155,7 +173,7 @@
           "description": "福岡県中間市の私立の認可保育園「双葉保育園」で、倉掛冬生（とうま）ちゃん（5）が送迎バスに閉じ込められて死亡した事故で、園長が登園した園児たちをバスから降ろした際、「他の子に気をとられた」と市に説明していることがわかった。園長は普段職員に降車後の忘れ物確認を指示していたが、今回その手順を守らなかっ...",
           "link": "https://www.asahi.com/articles/ASP706K81P70TIPE009.html",
           "publishedOn": "2021-07-31T12:09:27.000Z",
-          "wordCount": 214,
+          "wordCount": 213,
           "title": "「泣いてる子に気をとられ」確認の手順守らず　園児死亡：朝日新聞デジタル"
         },
         {
@@ -164,7 +182,7 @@
           "description": "東京五輪で日本選手の活躍が続く中、都内での新型コロナウイルスの感染拡大が止まらない。東京の新規感染者は３１日、４０５８人で最多を更新。都は感染者の半数を占める２０代や３０代、重症者が多い５０代を中心に外出自粛などの呼び掛けを強める。しかし、週末夜の新橋ではサラリーマンらが五輪中継を見ながらグラス...",
           "link": "https://www.tokyo-np.co.jp/article/120914",
           "publishedOn": "2021-07-31T12:06:53.000Z",
-          "wordCount": 314,
+          "wordCount": 313,
           "title": "東京の感染4000人台突入も…「コロナ収束待ってたら、学生生活終わっちゃう」原宿は人波が途切れず：東京新聞 TOKYO Web"
         },
         {
@@ -182,17 +200,8 @@
           "description": "新型コロナウイルスの感染者の確認が全国で連日1万人を超え、東京都では31日、4000人を上回る新規感染者が確認された。国立国際医療研究センターの大曲貴夫国際感染症センター長は「1年前に比べ感染のリスクは高まっている。屋外屋内を問わず、マスクを外して会話することは絶対に避けてほしい」と呼びかける。押し寄せ...",
           "link": "https://mainichi.jp/articles/20210731/k00/00m/040/321000c",
           "publishedOn": "2021-07-31T11:36:43.000Z",
-          "wordCount": 545,
+          "wordCount": 544,
           "title": "1年前とは違う“重症”の現実　感染症専門医が第5波に警鐘 | 毎日新聞"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e69f36208479ca0dbf3b59f40830ac7e96d65531",
-          "author": null,
-          "description": "新型コロナウイルスのワクチン接種が進んでいる。重症化や発症を防ぐ効果があるのは間違いないが、一方では深刻な副反応を危惧する声があるのも事実。ワクチン投与によって作られる「スパイクタンパク質」が副反応で表れるさまざまな症状に関係している可能性が報告されていることからも、とりわけ子供への接種は慎重に...",
-          "link": "https://news.yahoo.co.jp/articles/e69f36208479ca0dbf3b59f40830ac7e96d65531",
-          "publishedOn": "2021-07-31T11:22:12.000Z",
-          "wordCount": 76,
-          "title": "ワクチンでも作られるスパイクタンパク質が単独で体にダメージを与える可能性（日刊ゲンダイDIGITAL） - Yahoo!ニュース"
         },
         {
           "id": "https://anond.hatelabo.jp/20210731195223",
@@ -200,7 +209,7 @@
           "description": "もうプロのコンテンツもアマチュアのコンテンツもぜんぶごちゃまぜに横並びにされちゃうでしょ？ 最初のしばらくは金にならないからとかそういう理由でプロの参入は少なかったわけじゃん。 だからネット独自のアマチュアリズムが発達してブログもニコニコ動画も面白かったわけだけどさ。 今みたいにハリウッド映画もネッ...",
           "link": "https://anond.hatelabo.jp/20210731195223",
           "publishedOn": "2021-07-31T11:03:22.000Z",
-          "wordCount": 177,
+          "wordCount": 181,
           "title": "ネットのコンテンツが全部横並びになってつまんねえなって思わない？"
         },
         {
@@ -218,17 +227,8 @@
           "description": "医師や障害者家族は、 よく「知的障害者の犯罪率は低いです！差別しないでください！」と主張する。 その主張は正しい。 犯罪率をIQ70未満とIQ70以上で比較すると、IQ70未満のほうが低い。 ポリコレ的にも、いい感じのデータである。 しかし「健常者こそ危険！」という主張に対しては反論したい。 IQ70以上を全部健常者...",
           "link": "https://anond.hatelabo.jp/20210731183707",
           "publishedOn": "2021-07-31T09:51:07.000Z",
-          "wordCount": 294,
+          "wordCount": 314,
           "title": "犯罪者は「IQが\"中の下\"の男性」に集中している"
-        },
-        {
-          "id": "https://dot.asahi.com/dot/2021073100017.html",
-          "author": null,
-          "description": "新型コロナウイルス緊急事態宣言の対象地域拡大決定後の7月30日夜、記者会見した菅義偉首相の評判がすこぶる悪い。首相会見は同日午後7時のNHKニュースで生中継されたのだが、官邸からため息と嘆きの声が相次いだという。 【写真】会見直前、菅首相に苦言を呈した尾身会長らとの面会の様子はこちら 「会見は想定どおり厳...",
-          "link": "https://dot.asahi.com/dot/2021073100017.html",
-          "publishedOn": "2021-07-31T09:14:47.000Z",
-          "wordCount": 213,
-          "title": "菅首相会見がNHK中継されると「支持率下がる」官邸で嘆きの声　1日5千人の感染者でも五輪続行 (1/2) 〈dot.〉｜AERA dot. (アエラドット)"
         },
         {
           "id": "https://nordot.app/794127489839874048",

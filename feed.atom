@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T18:13:57.494Z</id>
+    <id>urn:2021-08-01T19:09:19.663Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T18:13:57.494Z</updated>
+    <updated>2021-08-01T19:09:19.663Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bbc.com/japanese/58049344</id>
         <link href="https://www.bbc.com/japanese/58049344"/>
         <updated>2021-08-01T14:34:41.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックに出場した東欧ベラルーシの女子陸上選手が1日、代表チームの運営について公に不満を表明した後、コーチ陣に東京の羽田空港に連れられたものの、「ベラルーシには帰らない」と主張している。]]></summary>
+        <summary type="html"><![CDATA[東京オリンピックに出場した東欧ベラルーシの女子陸上選手が1日、代表チームの運営について不満を公言した後、コーチ陣に東京の羽田空港に連れられたものの、「ベラルーシには帰らない」と主張している。搭乗予約のあったトルコ・イスタンブール行きの便には乗らず、空港警察署にいるという情報がある。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

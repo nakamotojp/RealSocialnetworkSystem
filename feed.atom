@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T03:14:11.750Z</id>
+    <id>urn:2021-08-01T04:15:20.945Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T03:14:11.750Z</updated>
+    <updated>2021-08-01T04:15:20.945Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shungo Y@冬眠 on Twitter: "新型コロナの抗体カクテル療法（ロナプリーブ®）ですが，今のところ入院を減らす（重症化を減らす）効果しか示されていないのに，入院患者にしか使えなくなっています。 しかも土日の配送，患者登録ができないため，今日適応の人が発生しても月曜に登録，最短で火曜に配送です。"]]></title>
+        <id>https://twitter.com/bizarreID/status/1421402179508654084</id>
+        <link href="https://twitter.com/bizarreID/status/1421402179508654084"/>
+        <updated>2021-07-31T20:32:44.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナの抗体カクテル療法（ロナプリーブ®）ですが，今のところ入院を減らす（重症化を減らす）効果しか示されていないのに，入院患者にしか使えなくなっています。 しかも土日の配送，患者登録ができないため，今日適応の人が発生しても月曜に登録，最短で火曜に配送です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[送迎バス死亡　園長、後部確認せず「泣く子もいて徹底できなかった」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210731/k00/00m/040/383000c</id>
         <link href="https://mainichi.jp/articles/20210731/k00/00m/040/383000c"/>
@@ -121,16 +131,6 @@
         <link href="https://voicevox.hiroshiba.jp/"/>
         <updated>2021-07-31T15:19:56.000Z</updated>
         <summary type="html"><![CDATA[無料で使える中品質なテキスト読み上げソフトウェア]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qqdoctor @ COVID-19対応中 on Twitter: "今の私から言えること① 自宅療養の指示を守らずに、普通に外出している人たちが何人もいます。なんなら陽性であることを隠して、複数人で飲みに行ったり旅行に行ってる人さえいます。保健所の管理も追いついていません。なぜ今の法律ではこれを取り締まれないのでしょうか。。。"]]></title>
-        <id>https://twitter.com/qqdoctor18/status/1421485456907071493</id>
-        <link href="https://twitter.com/qqdoctor18/status/1421485456907071493"/>
-        <updated>2021-07-31T15:07:51.000Z</updated>
-        <summary type="html"><![CDATA[今の私から言えること① 自宅療養の指示を守らずに、普通に外出している人たちが何人もいます。なんなら陽性であることを隠して、複数人で飲みに行ったり旅行に行ってる人さえいます。保健所の管理も追いついていません。なぜ今の法律ではこれを取り締まれないのでしょうか。。。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

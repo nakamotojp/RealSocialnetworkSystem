@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T07:10:39.241Z</id>
+    <id>urn:2021-08-01T08:13:13.230Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T07:10:39.241Z</updated>
+    <updated>2021-08-01T08:13:13.230Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://www.asahi.com/articles/ASP814D4ZP81UTQP00P.html"/>
         <updated>2021-08-01T04:50:09.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック（五輪）大会組織委員会の武藤敏郎事務総長は1日の記者会見で、新型コロナウイルス対策について、「今まで想定内のレベルで対処できている」と述べた。 武藤氏は、その見解の理由について、「海外から来日した関係者の入院者は1人で、地域医療に負担をかけずに（大会期間の）中間点を迎えることができた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノンアルコールビール沼に引きずり込む :: デイリーポータルZ]]></title>
+        <id>https://dailyportalz.jp/kiji/non-alcoholic-numa</id>
+        <link href="https://dailyportalz.jp/kiji/non-alcoholic-numa"/>
+        <updated>2021-08-01T03:36:54.000Z</updated>
+        <summary type="html"><![CDATA[1971年東京生まれ。デイリーポータルZウェブマスター。主にインターネットと世田谷区で活動。 編著書は「死ぬかと思った」（アスペクト）など。イカの沖漬けが世界一うまい食べものだと思ってる。（動画インタビュー） 前の記事：コレクション自慢の会～酒屋看板とトイレに咲く花 ＞ 個人サイト webやぎの目 今回のメン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://www.tokyo-np.co.jp/article/120914"/>
         <updated>2021-07-31T12:06:53.000Z</updated>
         <summary type="html"><![CDATA[東京五輪で日本選手の活躍が続く中、都内での新型コロナウイルスの感染拡大が止まらない。東京の新規感染者は３１日、４０５８人で最多を更新。都は感染者の半数を占める２０代や３０代、重症者が多い５０代を中心に外出自粛などの呼び掛けを強める。しかし、週末夜の新橋ではサラリーマンらが五輪中継を見ながらグラス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1年前とは違う“重症”の現実　感染症専門医が第5波に警鐘 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210731/k00/00m/040/321000c</id>
-        <link href="https://mainichi.jp/articles/20210731/k00/00m/040/321000c"/>
-        <updated>2021-07-31T11:36:43.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染者の確認が全国で連日1万人を超え、東京都では31日、4000人を上回る新規感染者が確認された。国立国際医療研究センターの大曲貴夫国際感染症センター長は「1年前に比べ感染のリスクは高まっている。屋外屋内を問わず、マスクを外して会話することは絶対に避けてほしい」と呼びかける。押し寄せ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

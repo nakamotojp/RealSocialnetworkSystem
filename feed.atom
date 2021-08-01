@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T17:17:28.320Z</id>
+    <id>urn:2021-08-01T18:13:57.494Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T17:17:28.320Z</updated>
+    <updated>2021-08-01T18:13:57.494Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,11 +56,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[文学を使えば、暴動レベルの危機を5〜7年前から予測できる─ドイツ「プロジェクト・カサンドラ」の成果 | 文学作品が示す「分裂のシグナル」 | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/255421/</id>
+        <link href="https://courrier.jp/news/archives/255421/"/>
+        <updated>2021-08-01T09:46:01.000Z</updated>
+        <summary type="html"><![CDATA[「馬鹿げたプロジェクトだと思いましたね」 2018年、二人のドイツ軍将校がテュービンゲン大学を訪れてから数週間後のこと、ベルリンのドイツ国防省で、ヴェルトハイマーは最初の研究成果発表を行った。 彼は、第二次大戦期クロアチアのファシスト政党ウスタシャによるセルビア人大虐殺を扱った、作家ヨヴァン・ラデュロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新型コロナ デルタ型変異ウイルス 感染力、重症化リスク、ワクチンの効果など　現時点で分かっていること（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210801-00250999</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210801-00250999"/>
         <updated>2021-08-01T09:16:30.000Z</updated>
         <summary type="html"><![CDATA[日本国内でもデルタ型と呼ばれる変異ウイルスが広がってきています。 このデルタ型変異ウイルスの特徴について、感染力、重症化リスク、ワクチンの効果など、現時点で分かっていることをまとめました。 東京都ではデルタ型が主流に東京都におけるL452R（デルタ型）陽性率の推移（第56回東京都新型コロナウイルス感染症モ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ 在宅で酸素吸入行う「酸素濃縮装置」確保の自治体増 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210801/k10013174271000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210801/k10013174271000.html"/>
+        <updated>2021-08-01T08:46:19.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに感染し自宅で療養する人が増える中、在宅で酸素吸入を行う「酸素濃縮装置」を確保する自治体が増えていて、装置の製造会社は増産を行って対応しています。 「酸素濃縮装置」は、周辺の空気を取り込んで酸素を濃縮し患者が鼻や口からチューブで吸入するもので、医師の処方の下で在宅で使用されます。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[脱ピンク　異色のプリキュアが投げかけるメッセージ：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7X41HSP7VDIFI008.html</id>
-        <link href="https://www.asahi.com/articles/ASP7X41HSP7VDIFI008.html"/>
-        <updated>2021-08-01T00:40:42.000Z</updated>
-        <summary type="html"><![CDATA[記者の娘（4）は大のテレビっ子。しかし、女の子をターゲットとしたアニメに、親としては少し警戒感を抱いてきました。ピンク色の衣装や、ミニスカートに長い髪――といったステレオタイプに、憧れの対象が限られないかという懸念からです。ところが、毎週日曜日に放送中の「トロピカル～ジュ！プリキュア」（主にABCテレ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[メン獄さん on Twitter: "昨日の総理の会見を観てからずっと暗い気持ちになっていたんだけど、国のトップが質問の意図を捉えて回答できない&amp;謎回答なのに次の質問にスライドするカオスな進行&amp;それが特にマスコミであんまり問題視されない、という所に自分のドンヨリポイントがあるとさっき気付いた"]]></title>
         <id>https://twitter.com/uudaiy/status/1421508669603139593</id>
         <link href="https://twitter.com/uudaiy/status/1421508669603139593"/>
         <updated>2021-08-01T00:17:46.000Z</updated>
         <summary type="html"><![CDATA[昨日の総理の会見を観てからずっと暗い気持ちになっていたんだけど、国のトップが質問の意図を捉えて回答できない&謎回答なのに次の質問にスライドするカオスな進行&それが特にマスコミであんまり問題視されない、という所に自分のドンヨリポイントがあるとさっき気付いた]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ 南米で拡大しているラムダ型変異ウイルス 現時点で分かっていることは？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210801-00249724</id>
-        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210801-00249724"/>
-        <updated>2021-08-01T00:13:02.000Z</updated>
-        <summary type="html"><![CDATA[ペルーで最初に見つかった「ラムダ型」と呼ばれる変異ウイルスが南米を中心に徐々に拡大しています。 ラムダ型変異ウイルスについて現時点でどんなことが分かっているのでしょうか。 ラムダ型変異ウイルスの検出状況は？それぞれの変異ウイルスの検出状況（2021年7月31日現在の情報に基づき筆者作成） ラムダ型変異ウイ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

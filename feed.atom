@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T09:12:02.402Z</id>
+    <id>urn:2021-08-01T10:13:05.717Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T09:12:02.402Z</updated>
+    <updated>2021-08-01T10:13:05.717Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210801/k10013174601000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210801/k10013174601000.html"/>
         <updated>2021-08-01T07:48:22.000Z</updated>
-        <summary type="html"><![CDATA[東京都は1日、都内で新たに3058人が新型コロナウイルスに感染していることを確認したと発表しました。過去最多の4058人だった先月31日より1000人少なくなりましたが、1週間前の日曜日と比べると1295人増えました。一日の感染確認が3000人を超えるのはこれで5日連続で、これまでにないスピードで感染の急激な拡大が進んで...]]></summary>
+        <summary type="html"><![CDATA[東京都内では1日、新たに3058人が新型コロナウイルスに感染していることが確認され、日曜日としては初めて3000人を超えました。一日の感染確認が3000人を超えるのは5日連続です。また、1日時点の重症の患者は101人となり、100人を超えるのはことし2月以来です。 東京都は1日、都内で新たに10歳未満から100歳以上までの男...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -96,11 +96,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21年待ち「コロッケ」忘れた頃に届いたら？　お店は「キャンセル料いただきません」 - 弁護士ドットコム]]></title>
-        <id>https://www.bengo4.com/c_18/n_13360/</id>
-        <link href="https://www.bengo4.com/c_18/n_13360/"/>
-        <updated>2021-08-01T02:53:39.000Z</updated>
-        <summary type="html"><![CDATA[「みんなが思ってる以上の熱量でずっとコロッケを待ってる女」。投稿者の過去のツイートを集めた画像とともにつぶやかれた内容が、3万1000件以上リツイートされるなどツイッターで話題となっています。 女性は2013年9月に「7年半待ちのコロッケ注文した」とツイート。その後1～2年の間隔でコロッケのことをつぶやいてお...]]></summary>
+        <title type="html"><![CDATA[ピーター・ターチン「社会が不安定化するのは、高学歴者が増え過ぎたから」 | 権力を取れないエリートが反乱を起こす | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/255298/</id>
+        <link href="https://courrier.jp/news/archives/255298/"/>
+        <updated>2021-08-01T02:10:13.000Z</updated>
+        <summary type="html"><![CDATA[近年、世界中でポピュリスト政治家が台頭し、社会の不安定化が目立つ。進化人類学者のピーター・ターチンは、その不安定さの原因は社会に高学歴者が増え過ぎたことにあるという。英誌「エコノミスト」が、ターチンの理論について解説する。 高学歴者が増えすぎると社会は不安定化する？ 11年前、ピーター・ターチンとい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

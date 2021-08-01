@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-01T08:13:13.230Z</id>
+    <id>urn:2021-08-01T09:12:02.402Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T08:13:13.230Z</updated>
+    <updated>2021-08-01T09:12:02.402Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 新たに3058人感染確認 5日連続3000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210801/k10013174601000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210801/k10013174601000.html"/>
+        <updated>2021-08-01T07:48:22.000Z</updated>
+        <summary type="html"><![CDATA[東京都は1日、都内で新たに3058人が新型コロナウイルスに感染していることを確認したと発表しました。過去最多の4058人だった先月31日より1000人少なくなりましたが、1週間前の日曜日と比べると1295人増えました。一日の感染確認が3000人を超えるのはこれで5日連続で、これまでにないスピードで感染の急激な拡大が進んで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[都道府県境またぐ旅行・帰省は原則中止を ｜ 共同通信]]></title>
         <id>https://nordot.app/794445469040558080</id>
         <link href="https://nordot.app/794445469040558080"/>
         <updated>2021-08-01T06:24:44.000Z</updated>
         <summary type="html"><![CDATA[全国知事会は1日、夏休み中の都道府県境をまたいだ旅行や帰省を原則中止、または延期するよう求める国民向けのメッセージ案を示した。やむを得ず移動する場合は、事前にPCR検査を受けるよう訴えた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック BMX 会場近くの橋に多くの人 「密」状態に | 自転車競技 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210801/k10013174351000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210801/k10013174351000.html"/>
+        <updated>2021-08-01T06:09:36.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック、自転車のBMXが行われている東京 江東区の会場近くにある橋の上には、競技を一目見ようと多くの人が集まって、一時、人と人の距離がかなり近くなる「密」の状態となりました。 自転車競技のBMXの会場となっている有明アーバンスポーツパークから400メートルほど離れた河口にある橋の上からはコースの一...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一般人には理解されないITで飯食ってる人の部屋選び→インターネット使いたいのでインターネット無料の物件は除外します - Togetter]]></title>
+        <id>https://togetter.com/li/1753074</id>
+        <link href="https://togetter.com/li/1753074"/>
+        <updated>2021-08-01T05:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Miyahan @miyahancom ちなみにこれ、フレッツの「提供状況のご確認」ページで候補物件を検索し、そのまま申し込みに進んでプランに「ギガマンション」が出てくれば部屋まで光ファイバが来ている(1Gbps以上はGE-PON方式しかないため)と判断できるぞ。ギガじゃなかったり、詳しい状況確認が必要ですと出たらそっ閉じ。 202...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -36,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《韓国アーチェリー騒動》「ショートカットは“フェミ”の証、金メダル剥奪を」三冠の“女王”、前代未聞の批判のワケ | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47608</id>
+        <link href="https://bunshun.jp/articles/-/47608"/>
+        <updated>2021-08-01T03:29:44.000Z</updated>
+        <summary type="html"><![CDATA[小学生の時にたまたまできたアーチェリークラブに入り、アーチェリーの道へ。中学3年生の時には全国大会で全種目優勝を飾り、早々に頭角を現わした。高校時代には国家代表となり、2019年にはプレ東京オリンピック大会で優勝している。 幼い頃から高い集中力には定評があったが、弱冠20歳ながら、どんな場面でも顔色ひと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[コロナ想定内のレベルと武藤事務総長 ｜ 共同通信]]></title>
         <id>https://nordot.app/794391478839885824</id>
         <link href="https://nordot.app/794391478839885824"/>
@@ -56,11 +96,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ystk on Twitter: "性交同意年齢のTwitter上の議論は子どもの性的自己決定権と保護を調整する線引きの問題なのに ・「子どもの性的自己決定権を尊重しろ」と言えばいいと思ってる馬鹿 ・子どもの性的自己決定権とか言い出す時点で加害者側だみたいなこと抜… https://t.co/BBhnoz9GxZ"]]></title>
-        <id>https://twitter.com/lawkus/status/1421621782176428032</id>
-        <link href="https://twitter.com/lawkus/status/1421621782176428032"/>
-        <updated>2021-08-01T01:47:13.000Z</updated>
-        <summary type="html"><![CDATA[性交同意年齢のTwitter上の議論は子どもの性的自己決定権と保護を調整する線引きの問題なのに ・「子どもの性的自己決定権を尊重しろ」と言えばいいと思ってる馬鹿 ・子どもの性的自己決定権とか言い出す時点で加害者側だみたいなこと抜… https://t.co/BBhnoz9GxZ]]></summary>
+        <title type="html"><![CDATA[21年待ち「コロッケ」忘れた頃に届いたら？　お店は「キャンセル料いただきません」 - 弁護士ドットコム]]></title>
+        <id>https://www.bengo4.com/c_18/n_13360/</id>
+        <link href="https://www.bengo4.com/c_18/n_13360/"/>
+        <updated>2021-08-01T02:53:39.000Z</updated>
+        <summary type="html"><![CDATA[「みんなが思ってる以上の熱量でずっとコロッケを待ってる女」。投稿者の過去のツイートを集めた画像とともにつぶやかれた内容が、3万1000件以上リツイートされるなどツイッターで話題となっています。 女性は2013年9月に「7年半待ちのコロッケ注文した」とツイート。その後1～2年の間隔でコロッケのことをつぶやいてお...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,16 +131,6 @@
         <link href="https://www.asahi.com/articles/ASP7X41HSP7VDIFI008.html"/>
         <updated>2021-08-01T00:40:42.000Z</updated>
         <summary type="html"><![CDATA[記者の娘（4）は大のテレビっ子。しかし、女の子をターゲットとしたアニメに、親としては少し警戒感を抱いてきました。ピンク色の衣装や、ミニスカートに長い髪――といったステレオタイプに、憧れの対象が限られないかという懸念からです。ところが、毎週日曜日に放送中の「トロピカル～ジュ！プリキュア」（主にABCテレ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[居酒屋ダンギ on Twitter: "これまでは冬にインフルで病院パンクしようが救急たらい回しになろうがお構いなしに宴会やX'masやってましたが それでも医療は（大変だったかもしれないが）回ってたわけでしょ そういうことを考えれば なんで逼迫逼迫崩壊崩壊言ってるのか 素人なのでよく分からないですね"]]></title>
-        <id>https://twitter.com/BarberSeidan/status/1421501481828585472</id>
-        <link href="https://twitter.com/BarberSeidan/status/1421501481828585472"/>
-        <updated>2021-08-01T00:19:09.000Z</updated>
-        <summary type="html"><![CDATA[これまでは冬にインフルで病院パンクしようが救急たらい回しになろうがお構いなしに宴会やX'masやってましたが それでも医療は（大変だったかもしれないが）回ってたわけでしょ そういうことを考えれば なんで逼迫逼迫崩壊崩壊言ってるのか 素人なのでよく分からないですね]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -161,16 +191,6 @@
         <link href="https://ameblo.jp/ayapipipiii/entry-12689531807.html"/>
         <updated>2021-07-31T21:14:54.000Z</updated>
         <summary type="html"><![CDATA[躊躇してたおハゲ写真を公開してみようと思います！！ お前の写真に興味ないねん！！！🤦‍♀️ って人も多いかと思いますが、抜け毛多いなって思い始めた頃にこんな記事書いてる人居ないかすごーーく探しました。 けど検索では厚生労働省のサイトばっかり出てくるし、他にそんな人居ないのかと思うと心細いし、、 今は他にも...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[送迎バス死亡　園長、後部確認せず「泣く子もいて徹底できなかった」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210731/k00/00m/040/383000c</id>
-        <link href="https://mainichi.jp/articles/20210731/k00/00m/040/383000c"/>
-        <updated>2021-07-31T20:12:01.000Z</updated>
-        <summary type="html"><![CDATA[倉掛冬生ちゃんが取り残されていた双葉保育園の送迎バス＝北九州市八幡西区の福岡県警折尾署で2021年7月31日午後3時4分、成松秋穂撮影 福岡県中間市にある認可保育園の私立双葉保育園で送迎バス内にいた園児の倉掛冬生（とうま）ちゃん（5）＝同市＝が熱中症で死亡した事件で、園が園児の出欠確認や点呼をしなかったため...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「泣いてる子に気をとられ」確認の手順守らず　園児死亡：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP706K81P70TIPE009.html</id>
-        <link href="https://www.asahi.com/articles/ASP706K81P70TIPE009.html"/>
-        <updated>2021-07-31T12:09:27.000Z</updated>
-        <summary type="html"><![CDATA[福岡県中間市の私立の認可保育園「双葉保育園」で、倉掛冬生（とうま）ちゃん（5）が送迎バスに閉じ込められて死亡した事故で、園長が登園した園児たちをバスから降ろした際、「他の子に気をとられた」と市に説明していることがわかった。園長は普段職員に降車後の忘れ物確認を指示していたが、今回その手順を守らなかっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京の感染4000人台突入も…「コロナ収束待ってたら、学生生活終わっちゃう」原宿は人波が途切れず：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/120914</id>
         <link href="https://www.tokyo-np.co.jp/article/120914"/>
@@ -271,16 +281,6 @@
         <link href="https://anond.hatelabo.jp/20210731183707"/>
         <updated>2021-07-31T09:51:07.000Z</updated>
         <summary type="html"><![CDATA[医師や障害者家族は、 よく「知的障害者の犯罪率は低いです！差別しないでください！」と主張する。 その主張は正しい。 犯罪率をIQ70未満とIQ70以上で比較すると、IQ70未満のほうが低い。 ポリコレ的にも、いい感じのデータである。 しかし「健常者こそ危険！」という主張に対しては反論したい。 IQ70以上を全部健常者...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CORSの仕様はなぜ複雑なのか]]></title>
-        <id>https://zenn.dev/qnighy/articles/6ff23c47018380</id>
-        <link href="https://zenn.dev/qnighy/articles/6ff23c47018380"/>
-        <updated>2021-07-31T08:13:22.000Z</updated>
-        <summary type="html"><![CDATA[Webアプリケーションを実装していると高確率で CORS の問題にぶつかります。CORSがどのようなものかはリンクしたMDNなど既存の解説を読むのが手っ取り早いと思いますが、「なぜそのように設計されたのか」という観点での説明はあまり見ないため、昔の資料の記述や現在の仕様からの推測をもとに整理してみました。 CORSと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

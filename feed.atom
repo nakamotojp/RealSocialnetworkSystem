@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T12:19:31.070Z</id>
+    <id>urn:2021-08-02T13:19:01.900Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T12:19:31.070Z</updated>
+    <updated>2021-08-02T13:19:01.900Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[コロナ中等症の一部も自宅療養に方針転換 ｜ 共同通信]]></title>
+        <id>https://nordot.app/794873012341424128</id>
+        <link href="https://nordot.app/794873012341424128"/>
+        <updated>2021-08-02T10:28:15.000Z</updated>
+        <summary type="html"><![CDATA[政府は2日、新型コロナウイルス感染症の患者のうち、中等症の人の一部を自宅・宿泊療養とすることを決めた。これまでは入院が原則だったが、病床逼迫に対応するため事実上の方針転換となる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“重症患者やリスク高い人以外 自宅療養基本に体制整備” 首相 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176831000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176831000.html"/>
+        <updated>2021-08-02T10:21:33.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの医療提供体制をめぐり、菅総理大臣は、関係閣僚会議で、重症患者や重症化リスクの高い人には、必要な病床を確保するとともに、それ以外の人は、自宅療養を基本とし、症状が悪化すれば、すぐに入院できる体制を整備する考えを示しました。 2日夕方、総理大臣官邸で開かれた関係閣僚会議で、菅総理大...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陽性率19%、「異常」上回る東京　収束「予想つかず」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP825GVTP82UTIL01K.html</id>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[経堂龍之介の転職 - 秋谷弥潮 / 経堂龍之介の転職 | コミックDAYS]]></title>
-        <id>https://comic-days.com/episode/10834108156637582696</id>
-        <link href="https://comic-days.com/episode/10834108156637582696"/>
-        <updated>2021-08-01T18:04:50.000Z</updated>
-        <summary type="html"><![CDATA[経堂龍之介の転職 秋谷弥潮 「モーニング 2015年46号」に掲載された読み切り作品！※雑誌掲載当時のままの内容です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[少年犯罪を扱う弁護士「スポーツ推薦で進学した人が挫折を機に犯罪に手を染める例が後を絶たない」→成長期の子どもに相応しいスポーツのあり方を考える - Togetter]]></title>
         <id>https://togetter.com/li/1753449</id>
         <link href="https://togetter.com/li/1753449"/>
@@ -291,16 +301,6 @@
         <link href="https://amass.jp/149496/"/>
         <updated>2021-08-01T12:01:53.000Z</updated>
         <summary type="html"><![CDATA[30 Britney Spears, "…Baby One More Time" 29 The Carters, "Apeshit" 28 Unkle feat. Thom Yorke, "Rabbit in Your Headlights" 27 2Pac feat. Dr. Dre, "California Love" 26 Massive Attack, "Teardrop" 25 U2, "One" 24 Yeah Yeah Yeahs, "Maps" 23 Jay-Z, "99 Problems" 22 Young Thug, "Wyclef Jean" 21 Fatboy S...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 Mac ってなに？ ぼくにも使える？]]></title>
-        <id>https://zenn.dev/suzuki_hoge/books/2021-07-m1-mac-4ede8ceb81e13aef10cf</id>
-        <link href="https://zenn.dev/suzuki_hoge/books/2021-07-m1-mac-4ede8ceb81e13aef10cf"/>
-        <updated>2021-08-01T11:19:17.000Z</updated>
-        <summary type="html"><![CDATA[「x86 か x64 か選べって言われてもな...?? でかい方が強いのかい？」 「amd64 と arm64 の違い...?? 使ってる文字はだいたい一緒だね！」 くらいの知識の人が「強そうとか字面が似てるとかで判断するのはまずいかもしれない。ここはひとつ M1 Mac をいじりながらこんぴゅーたぁの勉強をしよう。」と思い調べたことをま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

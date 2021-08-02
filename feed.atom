@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T10:13:13.333Z</id>
+    <id>urn:2021-08-02T11:10:01.143Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T10:13:13.333Z</updated>
+    <updated>2021-08-02T11:10:01.143Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[重症リスクの高い人以外は自宅療養と首相 ｜ 共同通信]]></title>
+        <id>https://nordot.app/794852168470855680</id>
+        <link href="https://nordot.app/794852168470855680"/>
+        <updated>2021-08-02T09:02:50.000Z</updated>
+        <summary type="html"><![CDATA[菅首相は、新型コロナウイルス感染症の医療提供体制に関する閣僚会議で「重症患者や重症リスクの高い方以外は自宅での療養を基本とし、症状が悪くなれば入院できる体制を整備する」と述べた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川県 コロナ 5人死亡 1686人感染確認 感染者数過去最多に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176661000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176661000.html"/>
+        <updated>2021-08-02T08:56:57.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県内では2日、合わせて1686人が新型コロナウイルスに感染したことが確認されたと発表され、6日連続で1000人を超えて、過去最多となりました。 1週間前の月曜日に比べて3倍以上に増えていて、感染が急激に拡大しています。 また、神奈川県は、1日に発表した1人について、詳しい検査の結果、陰性が判明したとして、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子持ち40代女性コロナ禍での転職活動マジきつかった - インターネットの備忘録]]></title>
+        <id>https://hase0831.hatenablog.jp/entry/2021/08/02/173013</id>
+        <link href="https://hase0831.hatenablog.jp/entry/2021/08/02/173013"/>
+        <updated>2021-08-02T08:33:25.000Z</updated>
+        <summary type="html"><![CDATA[今日、内定承諾書にサインした。 9月1日から新しい会社で働くことになるのだけど、転職活動、マジできつかった。エージェント経由の応募では、書類選考で落ちまくった。たぶん30社くらい落ちた気がする。もっとかな。書類で落ちまくっていた数週間はネガティブ思考に陥り「今のキャリアを維持することは諦めたほうがいい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 2195人感染確認 月曜日としては過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210802/k10013176071000.html</id>
@@ -176,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社長が暴力団と食事したツケ…「会社は倒産します」突然の失業｜【西日本新聞me】]]></title>
-        <id>https://www.nishinippon.co.jp/item/n/779181/</id>
-        <link href="https://www.nishinippon.co.jp/item/n/779181/"/>
-        <updated>2021-08-01T23:36:19.000Z</updated>
-        <summary type="html"><![CDATA[「社長が暴力団関係者との食事会に参加していたと、警察から問題視されている」―。4月、地場大手の設備工事会社（大分市）が福岡市などの支店を結んで急きょ開いたテレビ会議。社員の男性は、会社側の説明に耳を疑った。 福岡県警は、同社を含む8社の代表者らが指定暴力団幹部と「密接交際」していたと公表。これに対し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[スマートロックが解除できず遂に締めだしにあってしまった話 - ケータイ Watch]]></title>
         <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html</id>
         <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html"/>
@@ -211,26 +231,6 @@
         <link href="https://news.yahoo.co.jp/articles/67df07be383231692f3ad2c683fbeab655eae4e5"/>
         <updated>2021-08-01T22:30:44.000Z</updated>
         <summary type="html"><![CDATA[２月に東京五輪・パラリンピック大会組織委員会会長を辞任したのは、良かったと思っています。これは皮肉でもなんでもなく、あのままやっていたら、死んでいたかもと思うほど、極度につらい時でした。今もですが、人工透析をしていると結構大変です。血液の隅々まで入れ替えるので時間がかかるし、終わった後、極度に疲...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/hashicorpcto.html</id>
-        <link href="https://www.publickey1.jp/blog/21/hashicorpcto.html"/>
-        <updated>2021-08-01T21:11:35.000Z</updated>
-        <summary type="html"><![CDATA[HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 HashiCorpの創業者の一人として知られるミッチェル・ハシモト氏は、同社のCTOおよび経営陣からの退任を発表。HashiCorpには残り、社員の立場でフルタイム開発者として貢献していくとのことです。 I've decided to beco...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精神疾患で仕事休む地方公務員が増加 対策取りまとめへ | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210802/k10013175161000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013175161000.html"/>
-        <updated>2021-08-01T20:24:31.000Z</updated>
-        <summary type="html"><![CDATA[うつ病などで仕事を休む地方公務員が増えていることから、総務省は、全国すべての自治体を対象に初めて実態調査を進めています。 結果を踏まえて、今年度中に対策を取りまとめる方針です。 うつ病などの精神疾患で仕事を休んだ地方公務員は、一部の自治体を抽出して総務省などが調べたところ、1999年度は10万人当たり327...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

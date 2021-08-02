@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T07:10:56.641Z</id>
+    <id>urn:2021-08-02T08:13:56.258Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T07:10:56.641Z</updated>
+    <updated>2021-08-02T08:13:56.258Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 2195人感染確認 月曜日としては過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176071000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176071000.html"/>
+        <updated>2021-08-02T07:50:15.000Z</updated>
+        <summary type="html"><![CDATA[東京都は2日、都内で新たに2195人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前より766人増えて、月曜日としてはこれまでで最も多くなり、感染の急激な拡大が続いています。 一方、都の基準で集計した2日時点の重症の患者は1日より13人増えて、114人でした。110人を超えるのはことし2月7日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コミックマーケット99の新日程とサークル申込について]]></title>
+        <id>https://www.comiket.co.jp/info-a/C99A/C99ANotice1.html</id>
+        <link href="https://www.comiket.co.jp/info-a/C99A/C99ANotice1.html"/>
+        <updated>2021-08-02T06:16:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 「はじめに」を閉じる 2020年GWのコミックマーケット98開催中止に続き、昨年12月・本年５月もコミックマーケット99の開催を延期せざるを得なかったことは皆さんご承知かと思います。昨年に続き、今年も度重なる緊急事態宣言やまん延防止等重点措置等に伴うイベント開催制限等により、様々な混乱がありました。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本でロックダウンはなじまないと首相 ｜ 共同通信]]></title>
         <id>https://nordot.app/793794154884546560</id>
         <link href="https://nordot.app/793794154884546560"/>
         <updated>2021-08-02T04:54:56.000Z</updated>
         <summary type="html"><![CDATA[菅首相は、コロナ感染拡大対策としてロックダウン（都市封鎖）を求める声があることについて、海外では都市封鎖をしても感染拡大が抑えられなかったとして「日本においてはロックダウンの手法はなじまない」と否定的な見解を示した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪関係車両が2台当て逃げ　ボランティア男性聴取「送迎優先」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210802/k00/00m/040/120000c</id>
+        <link href="https://mainichi.jp/articles/20210802/k00/00m/040/120000c"/>
+        <updated>2021-08-02T04:34:03.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの大会関係者を乗せた乗用車が1日夜、東京都内の首都高速道路で車両2台に相次いで追突する事故を起こし、そのまま走り去っていたことが警視庁への取材で判明した。女性2人が病院に搬送されたものの、けがの程度は不明。同庁は道交法違反（事故不申告）などの疑いで、大会ボランティアとして車を運転して...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -56,16 +86,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[少年ジャンプ＋ on Twitter: "『ルックバック』作品内に不適切な表現があるとの指摘を読者の方からいただきまし​た。 熟慮の結果、​作中の描写が偏見や差別の助長につながることは避けたいと考え、​一部修正しました。 少年ジャンプ＋編集部 https://t.co/Vag51clfJc"]]></title>
-        <id>https://twitter.com/shonenjump_plus/status/1422029631507427331</id>
-        <link href="https://twitter.com/shonenjump_plus/status/1422029631507427331"/>
-        <updated>2021-08-02T03:01:34.000Z</updated>
-        <summary type="html"><![CDATA[『ルックバック』作品内に不適切な表現があるとの指摘を読者の方からいただきまし​た。 熟慮の結果、​作中の描写が偏見や差別の助長につながることは避けたいと考え、​一部修正しました。 少年ジャンプ＋編集部 https://t.co/Vag51clfJc]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【独自】都内約１００病院が拒否 コロナ救急患者搬送に８時間｜TBS NEWS]]></title>
         <id>https://news.tbs.co.jp/newseye/tbs_newseye4327990.html</id>
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4327990.html"/>
@@ -86,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小山田圭吾のいじめ問題　誰も得しない“加害者インタビュー”を世に出してしまった「90年代サブカル」の空気 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47470</id>
+        <link href="https://bunshun.jp/articles/-/47470"/>
+        <updated>2021-08-02T02:34:51.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・パラリンピック開会式の楽曲担当を電撃辞任したミュージシャンの小山田圭吾氏。雑誌上で凄惨極まりない「いじめ体験」を大っぴらに告白する“異常事態”は、いかにして起きたのか――。 サブカルチャーに造詣が深いロマン優光氏は、2019年に上梓した『90年代サブカルの呪い』（コア新書）の中で、〈当時の空気、サ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[個人の感想なんですが、ある分野に触れたことがないと考えが偏りがちになることもある→「調べる癖つければ何でも対応できる」 - Togetter]]></title>
         <id>https://togetter.com/li/1753580</id>
         <link href="https://togetter.com/li/1753580"/>
@@ -101,16 +131,6 @@
         <link href="https://togetter.com/li/1753537"/>
         <updated>2021-08-02T01:17:27.000Z</updated>
         <summary type="html"><![CDATA[ALM-STA @alm_sta 今日バ先におった女4人組のお客さんに「お会計が15,690円です！」って言ったら、そのうちの1人が同伴者に「1人4,230円！」って言ってて、他3人が「すご〜い計算早い！！」とか褒めつつ4,230円払ってるなかその人だけ3,000円しか払ってなくて、思わずツッコミそうになった。 2021-07-31 23:14:13]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイドル事務所経営シム『アイドルマネージャー』最新アプデで、アイドルの給与が低すぎる場合にペナルティが入る調整実施。低賃金で働かせる手法が横行 | AUTOMATON]]></title>
-        <id>https://automaton-media.com/articles/newsjp/20210802-171022/</id>
-        <link href="https://automaton-media.com/articles/newsjp/20210802-171022/"/>
-        <updated>2021-08-02T00:54:36.000Z</updated>
-        <summary type="html"><![CDATA[PLAYISMは8月1日、『Idol Manager（アイドルマネージャー）』にてアップデートを配信した。アイドルの給料が低い場合の調整や、アイドルの給与が高すぎる状況にて発生するバグ修正などがおこなわれている。 アイドル事務所経営シム『アイドルマネージャー』最新アプデで、アイドルの給与が低すぎる場合にペナルティが入...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪組織委が繰り返す「ご飯論法」…弁当4000個「廃棄ではない」、無断外出「抜け出していない」：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/121125</id>
-        <link href="https://www.tokyo-np.co.jp/article/121125"/>
-        <updated>2021-08-01T12:52:31.000Z</updated>
-        <summary type="html"><![CDATA[無断で外出したが「抜け出してはいない」、食品ロスは生じているが、「廃棄ではない」―。東京五輪で運営の不備を追求する報道陣に対し、東京五輪・パラリンピック組織委員会が理解しづらい解釈や定義を用いて反論を繰り返している。インターネットでは論点をずらして逃げる、安倍晋三前首相の「ご飯論法」と重ね合わせる...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「史上最高のミュージックビデオ TOP100」　米ローリングストーン誌発表 - amass]]></title>
         <id>https://amass.jp/149496/</id>
         <link href="https://amass.jp/149496/"/>
@@ -291,16 +301,6 @@
         <link href="https://zenn.dev/suzuki_hoge/books/2021-07-m1-mac-4ede8ceb81e13aef10cf"/>
         <updated>2021-08-01T11:19:17.000Z</updated>
         <summary type="html"><![CDATA[「x86 か x64 か選べって言われてもな...?? でかい方が強いのかい？」 「amd64 と arm64 の違い...?? 使ってる文字はだいたい一緒だね！」 くらいの知識の人が「強そうとか字面が似てるとかで判断するのはまずいかもしれない。ここはひとつ M1 Mac をいじりながらこんぴゅーたぁの勉強をしよう。」と思い調べたことをま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安住紳一郎 東京五輪中継の舞台裏を語る]]></title>
-        <id>https://miyearnzzlabo.com/archives/75677</id>
-        <link href="https://miyearnzzlabo.com/archives/75677"/>
-        <updated>2021-08-01T06:33:59.000Z</updated>
-        <summary type="html"><![CDATA[安住紳一郎さんが2021年8月1日放送のTBSラジオ『日曜天国』の中で東京オリンピックのテレビ、ラジオ中継の舞台裏についてトーク。中継を行う体制やシステムなどについて、裏話を交えながら話していました。 #オリンピック#ラグビー#7人制ラグビー#TBS 安住さん。 負けたけど 最後のコメント ありがとうございました m(_ ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.niid.go.jp/niid/ja/others/10550-covid19-17.html",
+          "author": null,
+          "description": "新型コロナウイルス感染症（COVID-19）は、ウイルスゲノムの変異を繰り返しながら世界中に広がっています。日本国内でも数次に渡る流行を経験し、感染管理や行動自粛、ワクチンなど様々な対策が実施されているものの、2021年7月29日には1日当たりの国内のCOVID-19患者の報告数は過去最高を記録しました。 当所では、この...",
+          "link": "https://www.niid.go.jp/niid/ja/others/10550-covid19-17.html",
+          "publishedOn": "2021-08-02T15:29:42.000Z",
+          "wordCount": 38,
+          "title": "新型コロナウイルス感染症に関する国立感染症研究所ホームページの不適切な引用について"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/f8a1612a747f03dc176f00fe2e4fe768e50bf7fb",
           "author": null,
           "description": "首都圏の新型コロナ陽性者が連日過去最悪を更新しているのを受け、島根県は、医療体制のひっ迫で県民の近親者の命が危険にさらされるのを防ぐため、基礎疾患がある人の一時避難的な帰省を支援すると発表しました。 ２９日、県が公表した支援策によりますと、対象になるのは、東京都または埼玉・千葉・神奈川の３県に居住...",
@@ -15,12 +24,21 @@
           "title": "首都圏でのコロナ療養…島根県民近親者の帰省を支援へ　島根県知事「医療崩壊と理解するのが自然」（BSS山陰放送） - Yahoo!ニュース"
         },
         {
+          "id": "https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html",
+          "author": null,
+          "description": "オープンソースでMac/Winのクロスプラットフォームに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリースされています。詳細は以下から。 　MelissaはMasaki Onoさんが2 The post オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。 first app...",
+          "link": "https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html",
+          "publishedOn": "2021-08-02T12:49:56.000Z",
+          "wordCount": 154,
+          "title": "オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。"
+        },
+        {
           "id": "https://www.nikkansports.com/battle/sumo/news/202108020000898.html",
           "author": null,
           "description": "大相撲の横綱白鵬（36＝宮城野）が、東京オリンピック（五輪）の柔道会場に姿を見せたことをSNS上で露呈され、物議を醸している。 2日、報道陣の電話取材に応じた日本相撲協会の芝田山広報部長（元横綱大乃国）が「勘違いということじゃなくて常識、非常識が全く分かっていないということ。決められたルールを守ってない...",
           "link": "https://www.nikkansports.com/battle/sumo/news/202108020000898.html",
           "publishedOn": "2021-08-02T12:29:27.000Z",
-          "wordCount": 592,
+          "wordCount": 586,
           "title": "白鵬が柔道会場訪れていた　ＳＮＳで露呈「大きな問題だよ」芝田山広報部長 - 大相撲 : 日刊スポーツ"
         },
         {
@@ -69,6 +87,15 @@
           "title": "東京の感染者数を5週間ぶん予測した (8月2日版)"
         },
         {
+          "id": "https://www.jiji.com/jc/article?k=2021080200889&g=soc",
+          "author": null,
+          "description": "京アニ事件想起か、表現を修正　話題漫画「ルックバック」―集英社 2021年08月02日18時29分 藤本タツキさんの読み切り漫画「ルックバック」について、内容を一部修正したと発表した少年ジャンプ＋編集部の投稿（ツイッターより） 集英社の漫画アプリ「少年ジャンプ＋（プラス）」で無料公開され、インターネット交流サイ...",
+          "link": "https://www.jiji.com/jc/article?k=2021080200889&g=soc",
+          "publishedOn": "2021-08-02T10:32:32.000Z",
+          "wordCount": 346,
+          "title": "京アニ事件想起か、表現を修正　話題漫画「ルックバック」―集英社：時事ドットコム"
+        },
+        {
           "id": "https://nordot.app/794873012341424128",
           "author": null,
           "description": "政府は2日、新型コロナウイルス感染症の患者のうち、中等症の人の一部を自宅・宿泊療養とすることを決めた。これまでは入院が原則だったが、病床逼迫に対応するため事実上の方針転換となる。",
@@ -101,7 +128,7 @@
           "description": "東京都内での新型コロナウイルスの感染状況を示す指標が軒並み、異常とも言える数字に跳ね上がっている。1週間平均の新規感染者数は3千人を超え、市中での感染の広がりを示す陽性率は19・5%に達した。いずれも「疫学的に異常」と言われた年明けの数字をはるかに上回る。都は、至るところにウイルスが広がっている状態と...",
           "link": "https://www.asahi.com/articles/ASP825GVTP82UTIL01K.html",
           "publishedOn": "2021-08-02T09:18:33.000Z",
-          "wordCount": 235,
+          "wordCount": 234,
           "title": "陽性率19%、「異常」上回る東京　収束「予想つかず」 [新型コロナウイルス]：朝日新聞デジタル"
         },
         {
@@ -119,7 +146,7 @@
           "description": "宿泊予約はあるのに、人は来ず、キャンセルの連絡もない――。 東京五輪の大会関係者の宿泊先になっている東京・日本橋のホテルは、むなしさをかみしめている。予約は101人分入っていたが、実際に来たのは5人だけ。深夜になって来る可能性もあるため、用意してある朝食の食材も無駄になっているという。 東京・日本橋にあ...",
           "link": "https://www.asahi.com/articles/ASP825DZQP81ULEI008.html",
           "publishedOn": "2021-08-02T09:02:57.000Z",
-          "wordCount": 231,
+          "wordCount": 230,
           "title": "五輪関係の宿泊予約101人、来たのは5人　朝食も廃棄 - 東京オリンピック：朝日新聞デジタル"
         },
         {
@@ -182,17 +209,8 @@
           "description": "東京五輪が開催される中、全国では1日あたりの感染者数が1万人を超えるなど、新型コロナウイルスの感染が拡大している。医師の木村知さんは「医療現場で働く身からすると、五輪の熱狂が異次元の世界に見える。五輪に関する世論の手のひら返しが、戦時下と重なり恐怖さえ感じる」という――。 開会後に急速に変わった空気 ...",
           "link": "https://president.jp/articles/-/48419",
           "publishedOn": "2021-08-02T07:36:22.000Z",
-          "wordCount": 255,
+          "wordCount": 254,
           "title": "｢スポーツには人命を救う力はない｣医師が五輪礼賛ムードに抱く底知れぬ怒り 医療現場からはまるで異次元の世界 | PRESIDENT Online（プレジデントオンライン）"
-        },
-        {
-          "id": "https://www.comiket.co.jp/info-a/C99A/C99ANotice1.html",
-          "author": null,
-          "description": "はじめに 「はじめに」を閉じる 2020年GWのコミックマーケット98開催中止に続き、昨年12月・本年５月もコミックマーケット99の開催を延期せざるを得なかったことは皆さんご承知かと思います。昨年に続き、今年も度重なる緊急事態宣言やまん延防止等重点措置等に伴うイベント開催制限等により、様々な混乱がありました。...",
-          "link": "https://www.comiket.co.jp/info-a/C99A/C99ANotice1.html",
-          "publishedOn": "2021-08-02T06:16:04.000Z",
-          "wordCount": 136,
-          "title": "コミックマーケット99の新日程とサークル申込について"
         },
         {
           "id": "https://togetter.com/li/1753639",
@@ -200,7 +218,7 @@
           "description": "少年ジャンプ＋ @shonenjump_plus 『ルックバック』作品内に不適切な表現があるとの指摘を読者の方からいただきまし​た。 熟慮の結果、​作中の描写が偏見や差別の助長につながることは避けたいと考え、​一部修正しました。 少年ジャンプ＋編集部 shonenjumpplus.com/red/content/SH… 2021-08-02 12:00:58",
           "link": "https://togetter.com/li/1753639",
           "publishedOn": "2021-08-02T05:25:37.000Z",
-          "wordCount": 6594,
+          "wordCount": 6666,
           "title": "藤本タツキ先生の『ルックバック』作品内の表現を修正、主に凶行の犯人の言動が\"無敵の人\"となる - Togetter"
         },
         {
@@ -218,7 +236,7 @@
           "description": "全国知事会が１日に都道府県境をまたぐ旅行・帰省を「原則中止・延期」と呼び掛けたことに、一夜明けた２日もＳＮＳ上では不満の声が絶えない。「大運動会で盛り上がってるくせに」「何の為に高齢者のワクチン接種を」と国民の怒りがネット上に噴出。反発の声が表面化している。 全国知事会は１日に公表した取りまとめで...",
           "link": "https://news.yahoo.co.jp/articles/6e5e2fad2a6d769362f11208d7f04bfea7606a10",
           "publishedOn": "2021-08-02T03:55:35.000Z",
-          "wordCount": 69,
+          "wordCount": 71,
           "title": "「帰省原則中止」に国民の怒り爆発 「大運動会で盛り上がってるくせに」「いつまでも大人しく従うと思うな」（中日スポーツ） - Yahoo!ニュース"
         },
         {
@@ -231,21 +249,12 @@
           "title": "47JIMOTOフラペチーノを全て飲むために47都道府県のスタバに行ってきた | SPOT"
         },
         {
-          "id": "https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer",
-          "author": null,
-          "description": "Transcript ΞδϦςΟΛࢧ͑Δ� ඼࣭ಛੑ ࿨ా�୎ਓ� !U@XBEB #devsumiA +VM��� ������!�σϒαϛ����Ն t-wada t_wada twada 📷🙆 📹🙅 🙆 ࣗݾ঺հ #devsumiA ΑΖ͓͘͠ئ͍͠·͢ illustrated by @mty_mno #devsumiA Ϗδωεʹͱͬͯ*5͸ɺʮ͋Δͱศརʯ͔Βʮ༗ޮʯɺʮෆ ՄܽʯΛܦͯʮத֩ͦͷ΋ͷʯʹͳΓͭͭ͋Γɺॊೈ͔ͭढ़ හʹιϑτ΢ΣΞΤϯδχΞϦϯάΛਐΊΔྗ͸اۀͷڝ૪ ྗͷݯઘͱͳΓ·ͨ͠ɻ� ຊηογϣϯͰ͸ɺͦͷΑ͏ͳڝ૪ྗ͋Διϑτ΢ΣΞΛ։ ൃ͠ଓ͚ΔྗΛߏ੒͢ΔཁૉΛɺ඼࣭ಛੑ౳ͷଆ໘͔Β۷Γ Լ͍͖͍͛ͯͨͱߟ͍͑ͯ·͢ɻ ߨԋͷ֓ཁ IUUQT�...",
-          "link": "https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer",
-          "publishedOn": "2021-08-02T03:13:05.000Z",
-          "wordCount": 642,
-          "title": "アジリティを支える品質特性 / Agility and Quality Characteristics Developers Summit 2021 Summer - Speaker Deck"
-        },
-        {
           "id": "https://news.tbs.co.jp/newseye/tbs_newseye4327990.html",
           "author": null,
           "description": "新型コロナの感染者数が過去最多を更新し、医療体制のひっ迫が懸念されています。東京都内で先週、救急のコロナ重症患者がおよそ１００の病院から受け入れを拒否され、搬送に８時間を要したケースがあることが分かりました。 関係者によりますと、先週の夜、東京都内に住む５０代の男性から１１９番通報がありました。 ...",
           "link": "https://news.tbs.co.jp/newseye/tbs_newseye4327990.html",
           "publishedOn": "2021-08-02T02:54:47.000Z",
-          "wordCount": 1501,
+          "wordCount": 1500,
           "title": "【独自】都内約１００病院が拒否 コロナ救急患者搬送に８時間｜TBS NEWS"
         },
         {
@@ -256,15 +265,6 @@
           "publishedOn": "2021-08-02T02:19:40.000Z",
           "wordCount": 300,
           "title": "UIデザイン時にやってしまいがちな18の誤ち｜Mikio Kiura / ANKR DESIGN｜note"
-        },
-        {
-          "id": "https://yigarashi.hatenablog.com/entry/load-to-em",
-          "author": null,
-          "description": "企業でWebアプリケーションエンジニアとして働き始めて2年と4ヶ月ほど経ちました。様々な仕事を経て、自分が向いていることや楽しく感じることが徐々に明らかになり、数年後になりたい像がぼんやりと浮かび上がってきました。そして、その将来像が世間的には「エンジニアリングマネージャー」（以降EM）と呼ばれているこ...",
-          "link": "https://yigarashi.hatenablog.com/entry/load-to-em",
-          "publishedOn": "2021-08-02T00:42:05.000Z",
-          "wordCount": 118,
-          "title": "エンジニアリングマネージャーを目指す若者の戦略 - yigarashiのブログ"
         },
         {
           "id": "https://twitter.com/deendeen1506/status/1421765061593354245",

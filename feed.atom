@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T00:39:32.323Z</id>
+    <id>urn:2021-08-02T01:55:59.672Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T00:39:32.323Z</updated>
+    <updated>2021-08-02T01:55:59.672Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[横浜市長選「野党統一候補」がパワハラメール…学内から告発「この数年で15人以上辞めている」 | Smart FLASH/スマフラ[光文社週刊誌]]]></title>
+        <id>https://smart-flash.jp/sociopolitics/152646</id>
+        <link href="https://smart-flash.jp/sociopolitics/152646"/>
+        <updated>2021-08-01T23:56:21.000Z</updated>
+        <summary type="html"><![CDATA[横浜市長選「野党統一候補」がパワハラメール…学内から告発「この数年で15人以上辞めている」 社会・政治　投稿日：2021.08.02 06:00FLASH編集部 「山中先生におかれましては、これまで素晴らしい研究成果や学内のご実績により、横浜市立大学のプレゼンスを高めてくださりました。今後も感謝の意を学内外へ伝えて参る所...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマートロックが解除できず遂に締めだしにあってしまった話 - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html"/>
+        <updated>2021-08-01T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[1度使い始めると手放せない玄関ドアのスマートロック。筆者宅でも昨秋、ずっと気になっていた「Qrio Lock」を設置し便利に利用しています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/hashicorpcto.html</id>
+        <link href="https://www.publickey1.jp/blog/21/hashicorpcto.html"/>
+        <updated>2021-08-01T21:11:35.000Z</updated>
+        <summary type="html"><![CDATA[HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 HashiCorpの創業者の一人として知られるミッチェル・ハシモト氏は、同社のCTOおよび経営陣からの退任を発表。HashiCorpには残り、社員の立場でフルタイム開発者として貢献していくとのことです。 I've decided to beco...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五輪ボランティア辞退を検討する医師も 医療現場の対応ひっ迫 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210802/k10013175171000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210802/k10013175171000.html"/>
         <updated>2021-08-01T20:59:34.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染が拡大する中、東京オリンピックの競技会場で活動する予定だったボランティアの医師の中には、医療現場での患者の対応がひっ迫しているとして、辞退を検討する人も出ています。 東京 葛飾区の平成立石病院副院長の大桃丈知医師は、4日、東京 江東区の競技会場で、ボランティアとして大会関係者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隔離選手ら処遇不満　「窓閉鎖され非人道的」座り込み　五輪感染者264人に | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210802/ddm/002/050/113000c</id>
+        <link href="https://mainichi.jp/articles/20210802/ddm/002/050/113000c"/>
+        <updated>2021-08-01T20:35:33.000Z</updated>
+        <summary type="html"><![CDATA[スケートボードの女子ストリートに出場予定だったが、陽性となり隔離されたオランダのカンディ・ジェーコブス選手＝ブラジルのリオデジャネイロで2019年11月16日、AP 東京オリンピックの大会関連で新型コロナウイルスの検査により陽性と判明した人の累計は、集計を始めた7月1日以降、8月1日時点で264人に達した。隔離さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -61,16 +101,6 @@
         <link href="https://honeshabri.hatenablog.com/entry/ancient-olympic-games"/>
         <updated>2021-08-01T15:12:22.000Z</updated>
         <summary type="html"><![CDATA[猛暑、緊急事態、追放劇。 オリンピックの諸問題は2500年前も同じだった。 歴史を学んで危機を克服しよう。 伝統的灼熱のオリンピック オリンピックが暑い。 東京で開催すると決定された時から暑さが懸念されていたが、その問題は現実となった。アーチェリーでは選手が倒れ*1、 トライアスロンではゴール後に嘔吐し*2、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[第1話]腹腹先生 - 高口楊 | 少年ジャンプ＋]]></title>
-        <id>https://shonenjumpplus.com/episode/3269754496422246690</id>
-        <link href="https://shonenjumpplus.com/episode/3269754496422246690"/>
-        <updated>2021-08-01T15:08:48.000Z</updated>
-        <summary type="html"><![CDATA[腹腹先生 高口楊 金が全ての『極道』相手でも、妹を取り戻すため私はもう逃げない。学問の道で夢破れ、田舎で教師として生きる梓。生徒や同僚の先生からもつらく扱われる毎日を甘受していたが、ある日唯一の肉親である妹が東京でトラブルに巻き込まれた事を知る。怪しげな裏社会相手に、姉である梓は…!?ハ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,31 +236,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Economist:「クソな仕事 (ブルシット・ジョブ)」はクソ理論 - 山形浩生の「経済のトリセツ」]]></title>
-        <id>https://cruel.hatenablog.com/entry/2021/08/01/164203</id>
-        <link href="https://cruel.hatenablog.com/entry/2021/08/01/164203"/>
-        <updated>2021-08-01T07:45:52.000Z</updated>
-        <summary type="html"><![CDATA[デヴィッド・グレーバーは何やら一部の人にはえらく人気があって、お決まりのサヨク議論を何やらそれっぽい意匠で語ってみせるから、というのが普通の解釈だけれど、正直いってそれ以上のものだとは思わない。 で、彼のブルシット・ジョブ。ほとんどの人は読んでなくて、これが非正規のウーバー配達員とかそういう仕事の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[安住紳一郎 東京五輪中継の舞台裏を語る]]></title>
         <id>https://miyearnzzlabo.com/archives/75677</id>
         <link href="https://miyearnzzlabo.com/archives/75677"/>
         <updated>2021-08-01T06:33:59.000Z</updated>
         <summary type="html"><![CDATA[安住紳一郎さんが2021年8月1日放送のTBSラジオ『日曜天国』の中で東京オリンピックのテレビ、ラジオ中継の舞台裏についてトーク。中継を行う体制やシステムなどについて、裏話を交えながら話していました。 #オリンピック#ラグビー#7人制ラグビー#TBS 安住さん。 負けたけど 最後のコメント ありがとうございました m(_ ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都道府県境またぐ旅行・帰省は原則中止を ｜ 共同通信]]></title>
-        <id>https://nordot.app/794445469040558080</id>
-        <link href="https://nordot.app/794445469040558080"/>
-        <updated>2021-08-01T06:24:44.000Z</updated>
-        <summary type="html"><![CDATA[全国知事会は1日、夏休み中の都道府県境をまたいだ旅行や帰省を原則中止、または延期するよう求める国民向けのメッセージ案を示した。やむを得ず移動する場合は、事前にPCR検査を受けるよう訴えた。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://note.com/seyanote/n/nbf516aff2118"/>
         <updated>2021-08-01T03:38:41.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《誤った“五輪ファースト”》「富士山に行きたい」に従え!? 組織委がタクシー会社に「運転手枠」取り消しの横暴《バブル方式完全崩壊》 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47546</id>
-        <link href="https://bunshun.jp/articles/-/47546"/>
-        <updated>2021-08-01T02:45:44.000Z</updated>
-        <summary type="html"><![CDATA[ところが、五輪開催1カ月前の6月28日、日本交通や帝都自動車交通など、関係者の夜間送迎を行う大手タクシー会社6社を集めた説明会の質疑応答で、組織委からそんなバブル方式を無視するような、耳を疑う説明がなされたという。 「乗車した五輪関係者の指示が最優先」 説明会に参加した運転手が証言する。 「ある運転手が...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

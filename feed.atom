@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T06:15:07.524Z</id>
+    <id>urn:2021-08-02T07:10:56.641Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T06:15:07.524Z</updated>
+    <updated>2021-08-02T07:10:56.641Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[日本でロックダウンはなじまないと首相 ｜ 共同通信]]></title>
+        <id>https://nordot.app/793794154884546560</id>
+        <link href="https://nordot.app/793794154884546560"/>
+        <updated>2021-08-02T04:54:56.000Z</updated>
+        <summary type="html"><![CDATA[菅首相は、コロナ感染拡大対策としてロックダウン（都市封鎖）を求める声があることについて、海外では都市封鎖をしても感染拡大が抑えられなかったとして「日本においてはロックダウンの手法はなじまない」と否定的な見解を示した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[47JIMOTOフラペチーノを全て飲むために47都道府県のスタバに行ってきた | SPOT]]></title>
         <id>https://travel.spot-app.jp/jimoto_frappuccino/</id>
@@ -21,6 +31,16 @@
         <link href="https://nordot.app/794759592558870528"/>
         <updated>2021-08-02T03:24:54.000Z</updated>
         <summary type="html"><![CDATA[1日夕、東京五輪のボランティア男性が運転する大会関係車両が東京都内の首都高速道路で複数の車にぶつかる事故を起こし、立ち去ったことが2日、警視庁への取材で分かった。当て逃げとみて道交法違反容疑で調べている。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「絶対ワクチン接種したくない」20代〜30代の約1割｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_economy/articles/000224300.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_economy/articles/000224300.html"/>
+        <updated>2021-08-02T03:15:06.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスのワクチンについて、20代と30代の約1割が「絶対接種したくない」と考えていることが分かりました。 全国の20代から60代の約2500人を対象にした調査で、新型コロナのワクチンについて20代の12.7％、30代の10.1％が「絶対に接種したくない」と回答しました。 その理由として「副反応が心配だから」が51...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TVアニメ「ハコヅメ〜交番女子の逆襲〜」公式サイト]]></title>
-        <id>https://hakozume-anime.com/</id>
-        <link href="https://hakozume-anime.com/"/>
-        <updated>2021-08-01T15:14:20.000Z</updated>
-        <summary type="html"><![CDATA[シリーズ累計210万部突破！「モーニング」にて連載中の『ハコヅメ』が2022年にアニメ化決定！交番女子のやけにリアルな日常を描いた前代未聞の警察コメディー！]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京オリンピックという古代ギリシア復興の儀式 - 本しゃぶり]]></title>
         <id>https://honeshabri.hatenablog.com/entry/ancient-olympic-games</id>
         <link href="https://honeshabri.hatenablog.com/entry/ancient-olympic-games"/>
@@ -291,16 +301,6 @@
         <link href="https://miyearnzzlabo.com/archives/75677"/>
         <updated>2021-08-01T06:33:59.000Z</updated>
         <summary type="html"><![CDATA[安住紳一郎さんが2021年8月1日放送のTBSラジオ『日曜天国』の中で東京オリンピックのテレビ、ラジオ中継の舞台裏についてトーク。中継を行う体制やシステムなどについて、裏話を交えながら話していました。 #オリンピック#ラグビー#7人制ラグビー#TBS 安住さん。 負けたけど 最後のコメント ありがとうございました m(_ ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初の病理解剖から分かった事｜荒川央 (あらかわ ひろし)｜note]]></title>
-        <id>https://note.com/hiroshi_arakawa/n/na8399fa5fe4c</id>
-        <link href="https://note.com/hiroshi_arakawa/n/na8399fa5fe4c"/>
-        <updated>2021-08-01T05:37:47.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

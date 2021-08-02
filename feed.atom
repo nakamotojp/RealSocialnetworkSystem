@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T20:12:53.512Z</id>
+    <id>urn:2021-08-02T21:10:23.435Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T20:12:53.512Z</updated>
+    <updated>2021-08-02T21:10:23.435Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://news.yahoo.co.jp/articles/f8a1612a747f03dc176f00fe2e4fe768e50bf7fb"/>
         <updated>2021-08-02T13:08:04.000Z</updated>
         <summary type="html"><![CDATA[首都圏の新型コロナ陽性者が連日過去最悪を更新しているのを受け、島根県は、医療体制のひっ迫で県民の近親者の命が危険にさらされるのを防ぐため、基礎疾患がある人の一時避難的な帰省を支援すると発表しました。 ２９日、県が公表した支援策によりますと、対象になるのは、東京都または埼玉・千葉・神奈川の３県に居住...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白鵬が柔道会場訪れていた　ＳＮＳで露呈「大きな問題だよ」芝田山広報部長 - 大相撲 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/battle/sumo/news/202108020000898.html</id>
+        <link href="https://www.nikkansports.com/battle/sumo/news/202108020000898.html"/>
+        <updated>2021-08-02T12:29:27.000Z</updated>
+        <summary type="html"><![CDATA[大相撲の横綱白鵬（36＝宮城野）が、東京オリンピック（五輪）の柔道会場に姿を見せたことをSNS上で露呈され、物議を醸している。 2日、報道陣の電話取材に応じた日本相撲協会の芝田山広報部長（元横綱大乃国）が「勘違いということじゃなくて常識、非常識が全く分かっていないということ。決められたルールを守ってない...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +41,16 @@
         <link href="https://twitter.com/Invesdoctor/status/1422158678103187457"/>
         <updated>2021-08-02T11:53:39.000Z</updated>
         <summary type="html"><![CDATA[「中等症や軽症者は自宅療養を基本」は記者の曲解だと思います。政府インターネットでは首相はそのような発言はされておりません。「中等症が自宅!?」と過剰に反応した医療従事者も多かったと思いますが、我々も報道に惑わされないよう注意しまし… https://t.co/PlK6iAaqOj]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三菱電機 鉄道用に続き 業務用エアコンも検査不備 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176971000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176971000.html"/>
+        <updated>2021-08-02T11:13:34.000Z</updated>
+        <summary type="html"><![CDATA[鉄道用の空調装置などをめぐり検査の不正が明らかになった三菱電機は、あらたに和歌山市の工場で製造した業務用のエアコンなどで検査に不備があったことを明らかにしました。 工場にある検査装置1台が断線していたため正常に動かず、2014年から先月までの7年間にわたって製造された4万338台の製品で、漏電などに関する関...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪関係車両が当て逃げか　首都高速で複数に衝突 ｜ 共同通信]]></title>
-        <id>https://nordot.app/794759592558870528</id>
-        <link href="https://nordot.app/794759592558870528"/>
-        <updated>2021-08-02T03:24:54.000Z</updated>
-        <summary type="html"><![CDATA[1日夕、東京五輪のボランティア男性が運転する大会関係車両が東京都内の首都高速道路で複数の車にぶつかる事故を起こし、立ち去ったことが2日、警視庁への取材で分かった。当て逃げとみて道交法違反容疑で調べている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[アジリティを支える品質特性 / Agility and Quality Characteristics Developers Summit 2021 Summer - Speaker Deck]]></title>
         <id>https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer</id>
         <link href="https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer"/>
@@ -261,16 +271,6 @@
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4327990.html"/>
         <updated>2021-08-02T02:54:47.000Z</updated>
         <summary type="html"><![CDATA[新型コロナの感染者数が過去最多を更新し、医療体制のひっ迫が懸念されています。東京都内で先週、救急のコロナ重症患者がおよそ１００の病院から受け入れを拒否され、搬送に８時間を要したケースがあることが分かりました。 関係者によりますと、先週の夜、東京都内に住む５０代の男性から１１９番通報がありました。 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高収入エンジニアは「ラスト」に注目、ファインディ調査: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUC312180R30C21A7000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUC312180R30C21A7000000/"/>
-        <updated>2021-08-02T02:43:50.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら IT（情報技術）エンジニア採用支援のファインディ（東京・品川）はプログラミング言語についての調査を実施した。それによると高収入のエンジニアほど新世代言語の「Ru...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

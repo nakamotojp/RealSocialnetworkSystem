@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T18:14:26.480Z</id>
+    <id>urn:2021-08-02T19:08:59.913Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T18:14:26.480Z</updated>
+    <updated>2021-08-02T19:08:59.913Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://twitter.com/Invesdoctor/status/1422158678103187457"/>
         <updated>2021-08-02T11:53:39.000Z</updated>
         <summary type="html"><![CDATA[「中等症や軽症者は自宅療養を基本」は記者の曲解だと思います。政府インターネットでは首相はそのような発言はされておりません。「中等症が自宅!?」と過剰に反応した医療従事者も多かったと思いますが、我々も報道に惑わされないよう注意しまし… https://t.co/PlK6iAaqOj]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政府、コロナ中等症も自宅療養　病床逼迫で転換、入院は重症限定 ｜ 共同通信]]></title>
+        <id>https://nordot.app/794881306802929664</id>
+        <link href="https://nordot.app/794881306802929664"/>
+        <updated>2021-08-02T10:55:24.000Z</updated>
+        <summary type="html"><![CDATA[政府は2日、新型コロナウイルス感染症の患者のうち、中等症の人の一部を自宅療養とすることを決めた。自宅療養が難しい場合は宿泊療養も可能とする。全国の新規感染者が連日1万人を超え、病床逼迫への懸念が強まっており、これまでの原則入院から事実上の方針転換となる。 菅義偉首相は同日夕、新型コロナウイルス感染症...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,16 +241,6 @@
         <link href="https://nordot.app/794759592558870528"/>
         <updated>2021-08-02T03:24:54.000Z</updated>
         <summary type="html"><![CDATA[1日夕、東京五輪のボランティア男性が運転する大会関係車両が東京都内の首都高速道路で複数の車にぶつかる事故を起こし、立ち去ったことが2日、警視庁への取材で分かった。当て逃げとみて道交法違反容疑で調べている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「絶対ワクチン接種したくない」20代〜30代の約1割｜テレ朝news-テレビ朝日のニュースサイト]]></title>
-        <id>https://news.tv-asahi.co.jp/news_economy/articles/000224300.html</id>
-        <link href="https://news.tv-asahi.co.jp/news_economy/articles/000224300.html"/>
-        <updated>2021-08-02T03:15:06.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスのワクチンについて、20代と30代の約1割が「絶対接種したくない」と考えていることが分かりました。 全国の20代から60代の約2500人を対象にした調査で、新型コロナのワクチンについて20代の12.7％、30代の10.1％が「絶対に接種したくない」と回答しました。 その理由として「副反応が心配だから」が51...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T19:08:59.913Z</id>
+    <id>urn:2021-08-02T20:12:53.512Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T19:08:59.913Z</updated>
+    <updated>2021-08-02T20:12:53.512Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://news.yahoo.co.jp/articles/f8a1612a747f03dc176f00fe2e4fe768e50bf7fb"/>
         <updated>2021-08-02T13:08:04.000Z</updated>
         <summary type="html"><![CDATA[首都圏の新型コロナ陽性者が連日過去最悪を更新しているのを受け、島根県は、医療体制のひっ迫で県民の近親者の命が危険にさらされるのを防ぐため、基礎疾患がある人の一時避難的な帰省を支援すると発表しました。 ２９日、県が公表した支援策によりますと、対象になるのは、東京都または埼玉・千葉・神奈川の３県に居住...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチンの最新状況 | 衆議院議員 河野太郎公式サイト]]></title>
+        <id>https://www.taro.org/2021/08/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%81%AE%E6%9C%80%E6%96%B0%E7%8A%B6%E6%B3%81.php</id>
+        <link href="https://www.taro.org/2021/08/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%81%AE%E6%9C%80%E6%96%B0%E7%8A%B6%E6%B3%81.php"/>
+        <updated>2021-08-02T12:04:24.000Z</updated>
+        <summary type="html"><![CDATA[2021.08.02 若手もワクチン接種をしたいのだけど、なかなか予約が取れません、ワクチンが不足しているのでしょうかという質問が寄せられました。 ワクチン接種を希望する全ての国民が２回接種をするのに必要なワクチンは、９月末までに日本に入ってきます。 ワクチンは充分に足りています。 しかし、お待ちいただいてい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://nordot.app/793794154884546560"/>
         <updated>2021-08-02T04:54:56.000Z</updated>
         <summary type="html"><![CDATA[菅首相は、コロナ感染拡大対策としてロックダウン（都市封鎖）を求める声があることについて、海外では都市封鎖をしても感染拡大が抑えられなかったとして「日本においてはロックダウンの手法はなじまない」と否定的な見解を示した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪関係車両が2台当て逃げ　ボランティア男性聴取「送迎優先」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210802/k00/00m/040/120000c</id>
-        <link href="https://mainichi.jp/articles/20210802/k00/00m/040/120000c"/>
-        <updated>2021-08-02T04:34:03.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックの大会関係者を乗せた乗用車が1日夜、東京都内の首都高速道路で車両2台に相次いで追突する事故を起こし、そのまま走り去っていたことが警視庁への取材で判明した。女性2人が病院に搬送されたものの、けがの程度は不明。同庁は道交法違反（事故不申告）などの疑いで、大会ボランティアとして車を運転して...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

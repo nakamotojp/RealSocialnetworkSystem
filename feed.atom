@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T01:55:59.672Z</id>
+    <id>urn:2021-08-02T02:25:47.153Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T01:55:59.672Z</updated>
+    <updated>2021-08-02T02:25:47.153Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html"/>
         <updated>2021-08-01T22:55:00.000Z</updated>
         <summary type="html"><![CDATA[1度使い始めると手放せない玄関ドアのスマートロック。筆者宅でも昨秋、ずっと気になっていた「Qrio Lock」を設置し便利に利用しています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コロナでどん底」1年無収入のシングルマザー　子は食パンと水道水で空腹しのぐ　一斉休校の余波は今も：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/121114</id>
+        <link href="https://www.tokyo-np.co.jp/article/121114"/>
+        <updated>2021-08-01T22:40:35.000Z</updated>
+        <summary type="html"><![CDATA[日本が新型コロナウイルス禍に見舞われてから、約１年半。東京都内に住むひとり親の４０代女性は「コロナでどん底を見た。『ステイホーム』は地獄だった」と語る。今も生活は苦しい。（柚木まり） 女性の家族を直撃したのは昨年２月２７日、当時の安倍晋三首相が唐突に要請した小中高校の全国一斉休校だ。中学生の長男、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,6 +166,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[M1 Mac ってなに？ ぼくにも使える？]]></title>
+        <id>https://zenn.dev/suzuki_hoge/books/2021-07-m1-mac-4ede8ceb81e13aef10cf</id>
+        <link href="https://zenn.dev/suzuki_hoge/books/2021-07-m1-mac-4ede8ceb81e13aef10cf"/>
+        <updated>2021-08-01T11:19:17.000Z</updated>
+        <summary type="html"><![CDATA[「x86 か x64 か選べって言われてもな...?? でかい方が強いのかい？」 「amd64 と arm64 の違い...?? 使ってる文字はだいたい一緒だね！」 くらいの知識の人が「強そうとか字面が似てるとかで判断するのはまずいかもしれない。ここはひとつ M1 Mac をいじりながらこんぴゅーたぁの勉強をしよう。」と思い調べたことをま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「原作リスペクトなくオリジナルが通らないから自分の味を出そうとする脚本はやばい」原作ありアニメ化の闇を語る…特定作品名を浮かべる流れも - Togetter]]></title>
         <id>https://togetter.com/li/1753287</id>
         <link href="https://togetter.com/li/1753287"/>
@@ -211,26 +231,6 @@
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210801-00250999"/>
         <updated>2021-08-01T09:16:30.000Z</updated>
         <summary type="html"><![CDATA[日本国内でもデルタ型と呼ばれる変異ウイルスが広がってきています。 このデルタ型変異ウイルスの特徴について、感染力、重症化リスク、ワクチンの効果など、現時点で分かっていることをまとめました。 東京都ではデルタ型が主流に東京都におけるL452R（デルタ型）陽性率の推移（第56回東京都新型コロナウイルス感染症モ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本のワクチン死亡者は2万人｜中村　篤史/ナカムラクリニック｜note]]></title>
-        <id>https://note.com/nakamuraclinic/n/n30d1d5e3c747</id>
-        <link href="https://note.com/nakamuraclinic/n/n30d1d5e3c747"/>
-        <updated>2021-08-01T08:27:33.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[このまま五輪続けるのか…小池知事「はい、そうです」と即答　東京の感染者4000人台突入で：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/121048</id>
-        <link href="https://www.tokyo-np.co.jp/article/121048"/>
-        <updated>2021-08-01T08:03:53.000Z</updated>
-        <summary type="html"><![CDATA[記者は「新規感染者数が４０００人台に達したが、医療提供体制や感染状況だけでなくて、国民、都民の危機感の共有という観点も踏まえ五輪・パラリンピックを予定通り継続して大丈夫なのか」と尋ねた。 これに対し、小池氏は「オリ・パラについては、バブル形式など選手や関係者に苦労をかけているが、それをしっかり進め...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

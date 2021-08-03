@@ -29,7 +29,7 @@
           "description": "USB Type-Cは難解さゆえ、アレルギーを持っている人は多い。以下の関連記事で紹介した「USB 3.xのGen表記」の分かりにくさも相当なものだが、それでも速度まわりの話に終始しており、データ転送から給電、映像出力までカバーするUSB Type-C全体ともなると、その分かりにくさはケタ違いだ。USB Type-C周りの話題はなるべく避けて通っている人も、少なくないのではないだろうか。",
           "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html",
           "publishedOn": "2021-08-02T22:08:02.000Z",
-          "wordCount": 268,
+          "wordCount": 267,
           "title": "【特集】「USB Type-C」と「Thunderbolt」って同じもの？よく分かる最新コネクタ解説 - PC Watch"
         },
         {
@@ -47,8 +47,17 @@
           "description": "広島県の湯崎英彦知事は2日、赤羽一嘉国土交通相とオンラインで会談し、地方ローカル線の廃線手続きの見直しを提言した。コロナ禍でJR各社の業績が悪化するなか、JR側の届け出によって廃線できる現行手続きのあり方を問題視し、国や地方の関与をより強めるよう求めるものだ。 提言は湯崎氏が代表となり、東北や中・四国...",
           "link": "https://www.asahi.com/articles/ASP826GRLP82PITB010.html",
           "publishedOn": "2021-08-02T21:14:23.000Z",
-          "wordCount": 211,
+          "wordCount": 214,
           "title": "地方ローカル線「JRが容易に廃止」　広島知事が問題視：朝日新聞デジタル"
+        },
+        {
+          "id": "https://togetter.com/li/1753921",
+          "author": null,
+          "description": "flatgene @flatgene1 漫画の修正案件を見かけると、彼岸島のおにぎりの具が鮭からイクラに変わった訳の分からなさが燦然と輝いているからちくしょう！！ pic.twitter.com/LKcFp8tDTo 2021-08-02 13:49:47",
+          "link": "https://togetter.com/li/1753921",
+          "publishedOn": "2021-08-02T20:43:16.000Z",
+          "wordCount": 562,
+          "title": "漫画の「修正」が話題になっているが『彼岸島』の場合おにぎりの具が鮭からイクラに修正されており、理由を考察するも全く分からん - Togetter"
         },
         {
           "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html",
@@ -58,6 +67,15 @@
           "publishedOn": "2021-08-02T19:59:41.000Z",
           "wordCount": 192,
           "title": "「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など － Publickey"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210803/k10013176981000.html",
+          "author": null,
+          "description": "行政手続きなどのデジタル化に向けて、政府が戸籍の氏名に読みがなを付ける方向で検討を進めていることを受けて、有識者らによる研究会は5200万件に上る現在の戸籍の読みがなを新たに届け出てもらうことなどを盛り込んだ報告の案をまとめました。 戸籍の氏名には、漢字しか記載されておらず読みがながないため、デジタル...",
+          "link": "https://www3.nhk.or.jp/news/html/20210803/k10013176981000.html",
+          "publishedOn": "2021-08-02T19:40:32.000Z",
+          "wordCount": 19,
+          "title": "“戸籍氏名に読みがな 新たに届け出” デジタル化へ報告案 | NHKニュース"
         },
         {
           "id": "https://www.watch.impress.co.jp/docs/news/1341813.html",
@@ -83,7 +101,7 @@
           "description": "javascript:document.querySelectorAll(\".entry-comment-contents\").forEach(function(e){if(e.innerText.indexOf('🐻')!=-1||e.innerText.indexOf('ʕ•̫͡•ʔ')!=-1){e.remove()}})ブックマークレットのクリックが面倒な人は、GreasemonkeyかTampermonkeyで。 他のパターンのコメント削除したい人は『||e.innerText.indexOf(...",
           "link": "https://anond.hatelabo.jp/20210803012020",
           "publishedOn": "2021-08-02T16:21:13.000Z",
-          "wordCount": 116,
+          "wordCount": 119,
           "title": "ブコメの熊がウザいので、削除するブックマークレット作った"
         },
         {
@@ -92,7 +110,7 @@
           "description": "想い出に残る、懐かしのマイコン・パソコンを写真とともに振り返る本コーナー。今回は少し趣向を変えて、当時の周辺機器を取り上げる番外編その2「データレコーダ・NEC編」としました。",
           "link": "https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html",
           "publishedOn": "2021-08-02T15:33:17.000Z",
-          "wordCount": 109,
+          "wordCount": 110,
           "title": "1980年代前半にFDDよりも安くて手軽に使えた「データレコーダー」 ～NEC製品編～ - AKIBA PC Hotline!"
         },
         {
@@ -114,12 +132,21 @@
           "title": "カクテル療法在宅患者にもと表明　菅首相、厚労省は慎重姿勢 ｜ 共同通信"
         },
         {
+          "id": "https://anond.hatelabo.jp/20210801110936",
+          "author": null,
+          "description": "ボソボソ何を言ってるか分からない、テンポもずれてる、おっさんの愚痴を脈絡関係なくぶっこむだけの芸が面白いのか。 他の人より地位が高いから忖度せずに何でも言えるっていうのが評価されているのかもしれないけど、 かといってキレのあるセリフを言う訳でもなく、ツイッターの隅っこで呟かれてそうな品性も知性もな...",
+          "link": "https://anond.hatelabo.jp/20210801110936",
+          "publishedOn": "2021-08-02T14:16:45.000Z",
+          "wordCount": 197,
+          "title": "20代だが、ビートたけしを面白いと思ったことがない。"
+        },
+        {
           "id": "https://togetter.com/li/1753785",
           "author": null,
           "description": "Misa @MisaDisney 注意喚起！！ 先日コンビニでiTunesカードを購入して、少し経ったあとにスマホ読み込みしたのですが… 詐欺カードでした。 バーコードに別のバーコードシールが貼られていて、結果購入済扱いになっていなかった為です。購入の際に怪しいバーコードシールが貼られていないかチェックしてください！ pic.t...",
           "link": "https://togetter.com/li/1753785",
           "publishedOn": "2021-08-02T13:50:32.000Z",
-          "wordCount": 782,
+          "wordCount": 834,
           "title": "【注意喚起】コンビニでiTunesカードを購入してスマホで読み込んだらバーコードの上に別のバーコードシールを貼られていて詐欺カードだった - Togetter"
         },
         {
@@ -128,8 +155,17 @@
           "description": "新型コロナウイルスの感染拡大はいまだに終息の兆しが見えない。 シリーズ「名医のいる相談室」では、各分野の専門医が病気の予防法や対処法など健康に関する悩みをわかりやすく解説。 今回は、福岡県飯塚市にある、飯塚病院感染症科部長の的野多加志先生に、「ファイザー」「モデルナ」のmRNA（メッセンジャーRNA）ワク...",
           "link": "https://www.fnn.jp/articles/-/215557",
           "publishedOn": "2021-08-02T13:45:58.000Z",
-          "wordCount": 201,
+          "wordCount": 203,
           "title": "体の遺伝子を書き換えることはない…「ファイザー」「モデルナ」 “mRNAワクチン”の仕組みを感染症専門医が解説"
+        },
+        {
+          "id": "https://twitter.com/konishihiroyuki/status/1422183906682437636",
+          "author": null,
+          "description": "私のコロナ対策本部医療班の担当者への確認。 ・　厚労省基準で「酸素投与が必要」の「中等症Ⅱ」は「重症化リスク」として引き続き入院対象。 ・　厚労省基準で「呼吸困難・肺炎所見、入院の上で慎重に観察」の「中等症Ⅰ」以下は自宅療養に… https://t.co/YItqFrdmMI",
+          "link": "https://twitter.com/konishihiroyuki/status/1422183906682437636",
+          "publishedOn": "2021-08-02T13:22:42.000Z",
+          "wordCount": 196,
+          "title": "小西ひろゆき （参議院議員） on Twitter: \"私のコロナ対策本部医療班の担当者への確認。 ・　厚労省基準で「酸素投与が必要」の「中等症Ⅱ」は「重症化リスク」として引き続き入院対象。 ・　厚労省基準で「呼吸困難・肺炎所見、入院の上で慎重に観察」の「中等症Ⅰ」以下は自宅療養に… https://t.co/YItqFrdmMI\""
         },
         {
           "id": "https://news.yahoo.co.jp/articles/f8a1612a747f03dc176f00fe2e4fe768e50bf7fb",
@@ -146,7 +182,7 @@
           "description": "オープンソースでMac/Winのクロスプラットフォームに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリースされています。詳細は以下から。 　MelissaはMasaki Onoさんが2 The post オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。 first app...",
           "link": "https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html",
           "publishedOn": "2021-08-02T12:49:56.000Z",
-          "wordCount": 157,
+          "wordCount": 160,
           "title": "オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。"
         },
         {
@@ -182,7 +218,7 @@
           "description": "6月21日版(anond:20210726195557) から 7月26日版(anond:20210726195557) に至る記事の続き。まえがきは初回(6月21日版)の記事でご覧ください。 7月19日版(anond:20210719192035)に書いた懸念が半分当たり、半分外れました。感染者数の最大値 に応じて確かに人流は減っているものの、その減り方が非常に緩やかになってし...",
           "link": "https://anond.hatelabo.jp/20210802194616",
           "publishedOn": "2021-08-02T10:50:05.000Z",
-          "wordCount": 1815,
+          "wordCount": 1819,
           "title": "東京の感染者数を5週間ぶん予測した (8月2日版)"
         },
         {
@@ -202,24 +238,6 @@
           "publishedOn": "2021-08-02T10:22:18.000Z",
           "wordCount": 25,
           "title": "「友よ 歴史だ」五輪 男子走り高跳びで同記録の2人に金メダル | 陸上 | NHKニュース"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP825GVTP82UTIL01K.html",
-          "author": null,
-          "description": "東京都内での新型コロナウイルスの感染状況を示す指標が軒並み、異常とも言える数字に跳ね上がっている。1週間平均の新規感染者数は3千人を超え、市中での感染の広がりを示す陽性率は19・5%に達した。いずれも「疫学的に異常」と言われた年明けの数字をはるかに上回る。都は、至るところにウイルスが広がっている状態と...",
-          "link": "https://www.asahi.com/articles/ASP825GVTP82UTIL01K.html",
-          "publishedOn": "2021-08-02T09:18:33.000Z",
-          "wordCount": 229,
-          "title": "陽性率19%、「異常」上回る東京　収束「予想つかず」 [新型コロナウイルス]：朝日新聞デジタル"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP825DZQP81ULEI008.html",
-          "author": null,
-          "description": "宿泊予約はあるのに、人は来ず、キャンセルの連絡もない――。 東京五輪の大会関係者の宿泊先になっている東京・日本橋のホテルは、むなしさをかみしめている。予約は101人分入っていたが、実際に来たのは5人だけ。深夜になって来る可能性もあるため、用意してある朝食の食材も無駄になっているという。 東京・日本橋にあ...",
-          "link": "https://www.asahi.com/articles/ASP825DZQP81ULEI008.html",
-          "publishedOn": "2021-08-02T09:02:57.000Z",
-          "wordCount": 225,
-          "title": "五輪関係の宿泊予約101人、来たのは5人　朝食も廃棄 - 東京オリンピック：朝日新聞デジタル"
         },
         {
           "id": "https://nordot.app/794852168470855680",
@@ -247,24 +265,6 @@
           "publishedOn": "2021-08-02T08:17:37.000Z",
           "wordCount": 236,
           "title": "斎藤環氏の『ルックバック』批判に精神障害当事者として思うこと。 - Something Orange"
-        },
-        {
-          "id": "https://president.jp/articles/-/48419",
-          "author": null,
-          "description": "東京五輪が開催される中、全国では1日あたりの感染者数が1万人を超えるなど、新型コロナウイルスの感染が拡大している。医師の木村知さんは「医療現場で働く身からすると、五輪の熱狂が異次元の世界に見える。五輪に関する世論の手のひら返しが、戦時下と重なり恐怖さえ感じる」という――。 開会後に急速に変わった空気 ...",
-          "link": "https://president.jp/articles/-/48419",
-          "publishedOn": "2021-08-02T07:36:22.000Z",
-          "wordCount": 251,
-          "title": "｢スポーツには人命を救う力はない｣医師が五輪礼賛ムードに抱く底知れぬ怒り 医療現場からはまるで異次元の世界 | PRESIDENT Online（プレジデントオンライン）"
-        },
-        {
-          "id": "https://togetter.com/li/1753639",
-          "author": null,
-          "description": "少年ジャンプ＋ @shonenjump_plus 『ルックバック』作品内に不適切な表現があるとの指摘を読者の方からいただきまし​た。 熟慮の結果、​作中の描写が偏見や差別の助長につながることは避けたいと考え、​一部修正しました。 少年ジャンプ＋編集部 shonenjumpplus.com/red/content/SH… 2021-08-02 12:00:58",
-          "link": "https://togetter.com/li/1753639",
-          "publishedOn": "2021-08-02T05:25:37.000Z",
-          "wordCount": 7029,
-          "title": "藤本タツキ先生の『ルックバック』作品内の表現を修正、主に凶行の犯人の言動が\"無敵の人\"となる - Togetter"
         },
         {
           "id": "https://note.com/mikiok/n/n34cedf895e6b",

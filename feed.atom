@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T17:25:06.005Z</id>
+    <id>urn:2021-08-03T18:14:55.618Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T17:25:06.005Z</updated>
+    <updated>2021-08-03T18:14:55.618Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -131,6 +131,16 @@
         <link href="http://blog.livedoor.jp/dqnplus/archives/2009627.html"/>
         <updated>2021-08-03T06:43:49.000Z</updated>
         <summary type="html"><![CDATA[チョコモナカジャンボ、海外記者に見つかってしまう「最高のアイスを見つけた」 1 名前：マイコプラズマ(調整中) [US]：2021/08/02(月) 23:29:13.64 ID:iD29KIRf0 Matthew Mohan@MatthewMohanCNA Away from sports and #Tokyo2020, I discovered the best convenience store ice-cream last night… https://twitter.com/...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水ぼうそうと同じ感染力？ 感染爆発を招いているデルタ株にどこまで警戒を強めたらいいのか]]></title>
+        <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-sakamoto-2</id>
+        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-sakamoto-2"/>
+        <updated>2021-08-03T05:57:01.000Z</updated>
+        <summary type="html"><![CDATA[全国で感染拡大が止まらない。 東京、沖縄に加え、埼玉、千葉、神奈川の首都圏3県と大阪府に緊急事態宣言が出るほどまで感染者数を増やした大きな要因の一つが、変異ウイルス「デルタ株」の蔓延だ。東京でも8月半ば以降にほぼデルタ株に置き換わると見られる。 米国CDC（疾病管理予防センター）が「水ぼうそうと同程度」...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210801110936"/>
         <updated>2021-08-02T14:16:45.000Z</updated>
         <summary type="html"><![CDATA[ボソボソ何を言ってるか分からない、テンポもずれてる、おっさんの愚痴を脈絡関係なくぶっこむだけの芸が面白いのか。 他の人より地位が高いから忖度せずに何でも言えるっていうのが評価されているのかもしれないけど、 かといってキレのあるセリフを言う訳でもなく、ツイッターの隅っこで呟かれてそうな品性も知性もな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体の遺伝子を書き換えることはない…「ファイザー」「モデルナ」 “mRNAワクチン”の仕組みを感染症専門医が解説]]></title>
-        <id>https://www.fnn.jp/articles/-/215557</id>
-        <link href="https://www.fnn.jp/articles/-/215557"/>
-        <updated>2021-08-02T13:45:58.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大はいまだに終息の兆しが見えない。 シリーズ「名医のいる相談室」では、各分野の専門医が病気の予防法や対処法など健康に関する悩みをわかりやすく解説。 今回は、福岡県飯塚市にある、飯塚病院感染症科部長の的野多加志先生に、「ファイザー」「モデルナ」のmRNA（メッセンジャーRNA）ワク...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

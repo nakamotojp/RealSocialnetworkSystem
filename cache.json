@@ -6,12 +6,30 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://note.lapras.com/interview/dnobori/",
+          "author": null,
+          "description": "2020年4月、無償かつ即日利用可能なリモートデスクトップ環境が公開され話題を呼びました。 現在16万人を越えるユーザーを擁する「シン・テレワークシステム」です。 今回登場いただくのは、そのシン・テレワークシステムの開発者として知られる登大遊さん。 登さんは、多忙な業務の傍ら次世代の人材育成にも関心を寄せ...",
+          "link": "https://note.lapras.com/interview/dnobori/",
+          "publishedOn": "2021-08-03T05:21:01.000Z",
+          "wordCount": 212,
+          "title": "登さん、LAPRASをどう思いますか？そしてエンジニアは今後どうすべきですか？ - LAPRAS NOTE"
+        },
+        {
+          "id": "https://www.fnn.jp/articles/-/218926",
+          "author": null,
+          "description": "自民党の二階幹事長は3日、記者会見で菅首相の任期満了に伴う総裁選について「今すぐ菅首相を代える意義は私は見つからない」と述べ、続投支持を明言した。一方、二階氏は3日、2016年の幹事長就任から5年を迎え、幹事長在職日数は歴代最長を記録、異例の長さとなっている。 この記事の画像（3枚） 二階氏は会見で自民党...",
+          "link": "https://www.fnn.jp/articles/-/218926",
+          "publishedOn": "2021-08-03T04:42:18.000Z",
+          "wordCount": 132,
+          "title": "二階幹事長「菅首相は『続投してほしい』の声が国民の間にも強い」"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP83454PP83UTFK00B.html",
           "author": null,
           "description": "加藤勝信官房長官は3日午前の記者会見で、新型コロナウイルス対応のための「政府与党連絡会議」は「党が主催した会議だ」とし、「政府において、議事録や議事概要を作成することは考えていない」と述べた。公文書管理のガイドラインが定める作成基準には該当しないという。 政府は昨年3月、新型コロナの感染拡大を公文書...",
           "link": "https://www.asahi.com/articles/ASP83454PP83UTFK00B.html",
           "publishedOn": "2021-08-03T04:25:20.000Z",
-          "wordCount": 211,
+          "wordCount": 209,
           "title": "政府与党のコロナ会議「議事録作成、考えてない」加藤氏：朝日新聞デジタル"
         },
         {
@@ -20,7 +38,7 @@
           "description": "リュウジ@料理のおにいさんバズレシピ @ore825 料理研究家/株式会社バズレシピ代表取締役 YouTube登録215万人 Instagram登録117万人 公式LINE登録18万人 TikTok登録7万 総フォロワー約540万人 第7回レシピ本大賞受賞 世界一受けたい授業 ヒルナンデス出演 著書累計96万部 お仕事の依頼は→bazurecipe@gmail.com bazurecip...",
           "link": "https://togetter.com/li/1754019",
           "publishedOn": "2021-08-03T03:30:39.000Z",
-          "wordCount": 544,
+          "wordCount": 564,
           "title": "【完全保存版】リュウジお兄さんがレンジでできる料理100選を公開。レシピ本1冊分の無料公開にキッチン地獄から脱出できそうだ - Togetter"
         },
         {
@@ -51,6 +69,15 @@
           "title": "お茶とは“エンタメ”だ。この夏常備したい「水出し緑茶」の淹れ方＆アレンジ術を、鹿児島のお茶研究家に伝授してもらった - メシ通 | ホットペッパーグルメ"
         },
         {
+          "id": "https://twitter.com/utamaro_/status/1422357511139594251",
+          "author": null,
+          "description": "ヤフコメだけど上手いもんだ https://t.co/8JbJ8cMjRS https://t.co/i0RVrRczps",
+          "link": "https://twitter.com/utamaro_/status/1422357511139594251",
+          "publishedOn": "2021-08-03T01:38:28.000Z",
+          "wordCount": 196,
+          "title": "踊♥️ウタマロ on Twitter: \"ヤフコメだけど上手いもんだ https://t.co/8JbJ8cMjRS https://t.co/i0RVrRczps\""
+        },
+        {
           "id": "https://www.kanaloco.jp/news/government/electiondata/article-611136.html",
           "author": null,
           "description": "任期満了に伴う横浜市長選（８日告示、２２日投開票）を巡り、日本政治の中枢の永田町がにわかに騒然となってきた。 菅義偉首相（衆院神奈川２区）のお膝元での戦い。過去最多の９人が出馬を表明する中、首相が前国家公安委員長で元衆院議員・小此木八郎氏の支援を鮮明にしたからだ。 突然のカミングアウトに「首相がこ...",
@@ -74,7 +101,7 @@
           "description": "「夜の選手村はもはや無法地帯です。連日、深夜まで外国人選手たちは野外パーティーで大騒ぎ。いつクラスターが発生してもおかしくない状況なのに、組織委は彼らをまったく制御できていません」。こう告発するのは、ある大会関係者である。「デイリー新潮」が独自入手した動画には、警察が出動する飲酒トラブルが発生し...",
           "link": "https://news.yahoo.co.jp/articles/c8d345b0b70097999820569cd8bf5fd8a6ed72ad",
           "publishedOn": "2021-08-02T22:54:06.000Z",
-          "wordCount": 73,
+          "wordCount": 72,
           "title": "五輪選手村で連日“野外パーティ”の乱痴気騒ぎ動画　組織委も警察も制御不能の呆れた実態（デイリー新潮） - Yahoo!ニュース"
         },
         {
@@ -92,7 +119,7 @@
           "description": "USB Type-Cは難解さゆえ、アレルギーを持っている人は多い。以下の関連記事で紹介した「USB 3.xのGen表記」の分かりにくさも相当なものだが、それでも速度まわりの話に終始しており、データ転送から給電、映像出力までカバーするUSB Type-C全体ともなると、その分かりにくさはケタ違いだ。USB Type-C周りの話題はなるべく避けて通っている人も、少なくないのではないだろうか。",
           "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html",
           "publishedOn": "2021-08-02T22:08:02.000Z",
-          "wordCount": 267,
+          "wordCount": 266,
           "title": "【特集】「USB Type-C」と「Thunderbolt」って同じもの？よく分かる最新コネクタ解説 - PC Watch"
         },
         {
@@ -101,7 +128,7 @@
           "description": "４回目の緊急事態宣言が発令されている東京都で、都民が外出を控える程度を示す「自粛率」が、東京五輪の開幕後に上昇し、自粛傾向がみられることが、読売新聞と国立情報学研究所の水野貴之准教授（計算社会科学）の分析でわかった。「ステイホーム観戦」が進んでいた可能性がある。ただ、今年１月に比べると自粛の程度...",
           "link": "https://news.yahoo.co.jp/articles/3bd9d00b93b2a5cb992b46c2f87bec3e60fab328",
           "publishedOn": "2021-08-02T21:36:14.000Z",
-          "wordCount": 68,
+          "wordCount": 67,
           "title": "【独自】五輪開幕後「自粛率」上昇…「ステイホーム観戦」進んだ可能性（読売新聞オンライン） - Yahoo!ニュース"
         },
         {
@@ -110,7 +137,7 @@
           "description": "広島県の湯崎英彦知事は2日、赤羽一嘉国土交通相とオンラインで会談し、地方ローカル線の廃線手続きの見直しを提言した。コロナ禍でJR各社の業績が悪化するなか、JR側の届け出によって廃線できる現行手続きのあり方を問題視し、国や地方の関与をより強めるよう求めるものだ。 提言は湯崎氏が代表となり、東北や中・四国...",
           "link": "https://www.asahi.com/articles/ASP826GRLP82PITB010.html",
           "publishedOn": "2021-08-02T21:14:23.000Z",
-          "wordCount": 213,
+          "wordCount": 211,
           "title": "地方ローカル線「JRが容易に廃止」　広島知事が問題視：朝日新聞デジタル"
         },
         {
@@ -150,30 +177,12 @@
           "title": "「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など － Publickey"
         },
         {
-          "id": "https://www3.nhk.or.jp/news/html/20210803/k10013176981000.html",
-          "author": null,
-          "description": "行政手続きなどのデジタル化に向けて、政府が戸籍の氏名に読みがなを付ける方向で検討を進めていることを受けて、有識者らによる研究会は5200万件に上る現在の戸籍の読みがなを新たに届け出てもらうことなどを盛り込んだ報告の案をまとめました。 戸籍の氏名には、漢字しか記載されておらず読みがながないため、デジタル...",
-          "link": "https://www3.nhk.or.jp/news/html/20210803/k10013176981000.html",
-          "publishedOn": "2021-08-02T19:40:32.000Z",
-          "wordCount": 19,
-          "title": "“戸籍氏名に読みがな 新たに届け出” デジタル化へ報告案 | NHKニュース"
-        },
-        {
-          "id": "https://twitter.com/HironobuSUZUKI/status/1421968400574664704",
-          "author": null,
-          "description": "〈現役担当大臣〉が〈現在進んでいる政府事業の見解〉を〈個人の立場〉で、しかも〈これまでとは異なる見解〉を〈個人的な告知〉で流すとか、もう政府って何なのよ、内閣って何なのよ、ガバナンスはどこにあるのよ、アナーキスト（無政府主義）かっ！てなるでしょ、フツー。",
-          "link": "https://twitter.com/HironobuSUZUKI/status/1421968400574664704",
-          "publishedOn": "2021-08-02T17:16:47.000Z",
-          "wordCount": 196,
-          "title": "Hironobu SUZUKI on Twitter: \"〈現役担当大臣〉が〈現在進んでいる政府事業の見解〉を〈個人の立場〉で、しかも〈これまでとは異なる見解〉を〈個人的な告知〉で流すとか、もう政府って何なのよ、内閣って何なのよ、ガバナンスはどこにあるのよ、アナーキスト（無政府主義）かっ！てなるでしょ、フツー。\""
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210803012020",
           "author": null,
           "description": "javascript:document.querySelectorAll(\".entry-comment-contents\").forEach(function(e){if(e.innerText.indexOf('🐻')!=-1||e.innerText.indexOf('ʕ•̫͡•ʔ')!=-1){e.remove()}})ブックマークレットのクリックが面倒な人は、GreasemonkeyかTampermonkeyで。 他のパターンのコメント削除したい人は『||e.innerText.indexOf(...",
           "link": "https://anond.hatelabo.jp/20210803012020",
           "publishedOn": "2021-08-02T16:21:13.000Z",
-          "wordCount": 133,
+          "wordCount": 140,
           "title": "ブコメの熊がウザいので、削除するブックマークレット作った"
         },
         {
@@ -200,7 +209,7 @@
           "description": "ボソボソ何を言ってるか分からない、テンポもずれてる、おっさんの愚痴を脈絡関係なくぶっこむだけの芸が面白いのか。 他の人より地位が高いから忖度せずに何でも言えるっていうのが評価されているのかもしれないけど、 かといってキレのあるセリフを言う訳でもなく、ツイッターの隅っこで呟かれてそうな品性も知性もな...",
           "link": "https://anond.hatelabo.jp/20210801110936",
           "publishedOn": "2021-08-02T14:16:45.000Z",
-          "wordCount": 234,
+          "wordCount": 237,
           "title": "20代だが、ビートたけしを面白いと思ったことがない。"
         },
         {
@@ -209,7 +218,7 @@
           "description": "Misa @MisaDisney 注意喚起！！ 先日コンビニでiTunesカードを購入して、少し経ったあとにスマホ読み込みしたのですが… 詐欺カードでした。 バーコードに別のバーコードシールが貼られていて、結果購入済扱いになっていなかった為です。購入の際に怪しいバーコードシールが貼られていないかチェックしてください！ pic.t...",
           "link": "https://togetter.com/li/1753785",
           "publishedOn": "2021-08-02T13:50:32.000Z",
-          "wordCount": 906,
+          "wordCount": 934,
           "title": "【注意喚起】コンビニでiTunesカードを購入してスマホで読み込んだらバーコードの上に別のバーコードシールを貼られていて詐欺カードだった - Togetter"
         },
         {
@@ -218,7 +227,7 @@
           "description": "新型コロナウイルスの感染拡大はいまだに終息の兆しが見えない。 シリーズ「名医のいる相談室」では、各分野の専門医が病気の予防法や対処法など健康に関する悩みをわかりやすく解説。 今回は、福岡県飯塚市にある、飯塚病院感染症科部長の的野多加志先生に、「ファイザー」「モデルナ」のmRNA（メッセンジャーRNA）ワク...",
           "link": "https://www.fnn.jp/articles/-/215557",
           "publishedOn": "2021-08-02T13:45:58.000Z",
-          "wordCount": 201,
+          "wordCount": 203,
           "title": "体の遺伝子を書き換えることはない…「ファイザー」「モデルナ」 “mRNAワクチン”の仕組みを感染症専門医が解説"
         },
         {
@@ -236,7 +245,7 @@
           "description": "首都圏の新型コロナ陽性者が連日過去最悪を更新しているのを受け、島根県は、医療体制のひっ迫で県民の近親者の命が危険にさらされるのを防ぐため、基礎疾患がある人の一時避難的な帰省を支援すると発表しました。 ２９日、県が公表した支援策によりますと、対象になるのは、東京都または埼玉・千葉・神奈川の３県に居住...",
           "link": "https://news.yahoo.co.jp/articles/f8a1612a747f03dc176f00fe2e4fe768e50bf7fb",
           "publishedOn": "2021-08-02T13:08:04.000Z",
-          "wordCount": 66,
+          "wordCount": 67,
           "title": "首都圏でのコロナ療養…島根県民近親者の帰省を支援へ　島根県知事「医療崩壊と理解するのが自然」（BSS山陰放送） - Yahoo!ニュース"
         },
         {
@@ -245,17 +254,8 @@
           "description": "オープンソースでMac/Winのクロスプラットフォームに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリースされています。詳細は以下から。 　MelissaはMasaki Onoさんが2 The post オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。 first app...",
           "link": "https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html",
           "publishedOn": "2021-08-02T12:49:56.000Z",
-          "wordCount": 155,
+          "wordCount": 158,
           "title": "オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/121368",
-          "author": null,
-          "description": "新型コロナウイルス感染者の急増に伴い、東京都では自宅療養者がこの約１カ月で１２倍に増え、２日時点で過去最多を４日連続で更新し１２１６１人となった。比較的症状の軽い若い世代が中心だが、容体急変の恐れがあり、救急搬送される療養者もいる。保健所は健康観察に追われ、業務逼迫の要因になっている。（岡本太）",
-          "link": "https://www.tokyo-np.co.jp/article/121368",
-          "publishedOn": "2021-08-02T12:48:01.000Z",
-          "wordCount": 303,
-          "title": "東京の自宅療養1万2000人超、1カ月で12倍に急増、都の健康観察「限界に近い」：東京新聞 TOKYO Web"
         },
         {
           "id": "https://hase0831.hatenablog.jp/entry/2021/08/02/173013",

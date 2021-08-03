@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-02T23:11:45.611Z</id>
+    <id>urn:2021-08-03T00:44:35.794Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T23:11:45.611Z</updated>
+    <updated>2021-08-03T00:44:35.794Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[米国人の40％超が「東京五輪にまったく興味なし」NBCの視聴者数はガタ落ち | アスリートの感動物語はもうたくさん？ | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/255900/</id>
+        <link href="https://courrier.jp/news/archives/255900/"/>
+        <updated>2021-08-02T23:09:58.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の人気を見込んでIOCに巨額の放映権料を支払っている米NBCだが、視聴者数がリオやロンドン大会に比べて激減。アメリカでは五輪への関心が低いことに加え、アスリートの感動物語を押しつけようとする姿勢にも問題があると米紙が報じている。 過去33年間の開会式で最低 東京五輪が開幕する前、NBCの幹部らは記者会...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪選手村で連日“野外パーティ”の乱痴気騒ぎ動画　組織委も警察も制御不能の呆れた実態（デイリー新潮） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c8d345b0b70097999820569cd8bf5fd8a6ed72ad</id>
+        <link href="https://news.yahoo.co.jp/articles/c8d345b0b70097999820569cd8bf5fd8a6ed72ad"/>
+        <updated>2021-08-02T22:54:06.000Z</updated>
+        <summary type="html"><![CDATA[「夜の選手村はもはや無法地帯です。連日、深夜まで外国人選手たちは野外パーティーで大騒ぎ。いつクラスターが発生してもおかしくない状況なのに、組織委は彼らをまったく制御できていません」。こう告発するのは、ある大会関係者である。「デイリー新潮」が独自入手した動画には、警察が出動する飲酒トラブルが発生し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【特集】「USB Type-C」と「Thunderbolt」って同じもの？よく分かる最新コネクタ解説 - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html"/>
+        <updated>2021-08-02T22:08:02.000Z</updated>
+        <summary type="html"><![CDATA[USB Type-Cは難解さゆえ、アレルギーを持っている人は多い。以下の関連記事で紹介した「USB 3.xのGen表記」の分かりにくさも相当なものだが、それでも速度まわりの話に終始しており、データ転送から給電、映像出力までカバーするUSB Type-C全体ともなると、その分かりにくさはケタ違いだ。USB Type-C周りの話題はなるべく避けて通っている人も、少なくないのではないだろうか。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地方ローカル線「JRが容易に廃止」　広島知事が問題視：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP826GRLP82PITB010.html</id>
+        <link href="https://www.asahi.com/articles/ASP826GRLP82PITB010.html"/>
+        <updated>2021-08-02T21:14:23.000Z</updated>
+        <summary type="html"><![CDATA[広島県の湯崎英彦知事は2日、赤羽一嘉国土交通相とオンラインで会談し、地方ローカル線の廃線手続きの見直しを提言した。コロナ禍でJR各社の業績が悪化するなか、JR側の届け出によって廃線できる現行手続きのあり方を問題視し、国や地方の関与をより強めるよう求めるものだ。 提言は湯崎氏が代表となり、東北や中・四国...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など － Publickey]]></title>
         <id>https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html</id>
@@ -26,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1980年代前半にFDDよりも安くて手軽に使えた「データレコーダー」 ～NEC製品編～ - AKIBA PC Hotline!]]></title>
+        <id>https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html</id>
+        <link href="https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html"/>
+        <updated>2021-08-02T15:33:17.000Z</updated>
+        <summary type="html"><![CDATA[想い出に残る、懐かしのマイコン・パソコンを写真とともに振り返る本コーナー。今回は少し趣向を変えて、当時の周辺機器を取り上げる番外編その2「データレコーダ・NEC編」としました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新型コロナウイルス感染症に関する国立感染症研究所ホームページの不適切な引用について]]></title>
         <id>https://www.niid.go.jp/niid/ja/others/10550-covid19-17.html</id>
         <link href="https://www.niid.go.jp/niid/ja/others/10550-covid19-17.html"/>
@@ -36,11 +86,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[カクテル療法在宅患者にもと表明　菅首相、厚労省は慎重姿勢 ｜ 共同通信]]></title>
+        <id>https://nordot.app/794933025777123328</id>
+        <link href="https://nordot.app/794933025777123328"/>
+        <updated>2021-08-02T14:32:31.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は2日、重症化を防ぐ効果がある新治療薬の抗体カクテル療法について「50代以上や基礎疾患のある方に積極的に投与し、在宅患者も含めた取り組みを進める」と述べた。この治療法は、酸素投与は必要ないが、重症化リスクがある軽症や中等症の入院患者が対象。だが首相は、入院していない患者にも対象を広げる方針...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【注意喚起】コンビニでiTunesカードを購入してスマホで読み込んだらバーコードの上に別のバーコードシールを貼られていて詐欺カードだった - Togetter]]></title>
+        <id>https://togetter.com/li/1753785</id>
+        <link href="https://togetter.com/li/1753785"/>
+        <updated>2021-08-02T13:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Misa @MisaDisney 注意喚起！！ 先日コンビニでiTunesカードを購入して、少し経ったあとにスマホ読み込みしたのですが… 詐欺カードでした。 バーコードに別のバーコードシールが貼られていて、結果購入済扱いになっていなかった為です。購入の際に怪しいバーコードシールが貼られていないかチェックしてください！ pic.t...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[緊急事態宣言発令でも人の流れ活発化　航空、鉄道予約増（毎日新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/e7ef9903caf66ed657afe66da0443b1e60f93fe9</id>
         <link href="https://news.yahoo.co.jp/articles/e7ef9903caf66ed657afe66da0443b1e60f93fe9"/>
         <updated>2021-08-02T13:48:19.000Z</updated>
         <summary type="html"><![CDATA[政府は2日、新型コロナウイルスの感染者急増を受け、埼玉、千葉、神奈川、大阪の4府県に緊急事態宣言を発令した。感染拡大を防ぐため、政府は県境を越える不要不急の移動の自粛を呼びかけているが、お盆休みを控えて航空や鉄道の予約は前年より増えており、人の動きはむしろ活発化しつつある。 【世界の５つの変異株】感...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体の遺伝子を書き換えることはない…「ファイザー」「モデルナ」 “mRNAワクチン”の仕組みを感染症専門医が解説]]></title>
+        <id>https://www.fnn.jp/articles/-/215557</id>
+        <link href="https://www.fnn.jp/articles/-/215557"/>
+        <updated>2021-08-02T13:45:58.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大はいまだに終息の兆しが見えない。 シリーズ「名医のいる相談室」では、各分野の専門医が病気の予防法や対処法など健康に関する悩みをわかりやすく解説。 今回は、福岡県飯塚市にある、飯塚病院感染症科部長の的野多加志先生に、「ファイザー」「モデルナ」のmRNA（メッセンジャーRNA）ワク...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -66,21 +146,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[白鵬が柔道会場訪れていた　ＳＮＳで露呈「大きな問題だよ」芝田山広報部長 - 大相撲 : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/battle/sumo/news/202108020000898.html</id>
-        <link href="https://www.nikkansports.com/battle/sumo/news/202108020000898.html"/>
-        <updated>2021-08-02T12:29:27.000Z</updated>
-        <summary type="html"><![CDATA[大相撲の横綱白鵬（36＝宮城野）が、東京オリンピック（五輪）の柔道会場に姿を見せたことをSNS上で露呈され、物議を醸している。 2日、報道陣の電話取材に応じた日本相撲協会の芝田山広報部長（元横綱大乃国）が「勘違いということじゃなくて常識、非常識が全く分かっていないということ。決められたルールを守ってない...]]></summary>
+        <title type="html"><![CDATA[東京の自宅療養1万2000人超、1カ月で12倍に急増、都の健康観察「限界に近い」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/121368</id>
+        <link href="https://www.tokyo-np.co.jp/article/121368"/>
+        <updated>2021-08-02T12:48:01.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染者の急増に伴い、東京都では自宅療養者がこの約１カ月で１２倍に増え、２日時点で過去最多を４日連続で更新し１２１６１人となった。比較的症状の軽い若い世代が中心だが、容体急変の恐れがあり、救急搬送される療養者もいる。保健所は健康観察に追われ、業務逼迫の要因になっている。（岡本太）]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自宅療養者の半数以上が119番しても病院に搬送できず…都内の新型コロナ感染者急増]]></title>
-        <id>https://www.fnn.jp/articles/-/218763</id>
-        <link href="https://www.fnn.jp/articles/-/218763"/>
-        <updated>2021-08-02T12:21:20.000Z</updated>
-        <summary type="html"><![CDATA[東京都の新型コロナウイルスの感染状況が急激に悪化する中、自宅療養中の感染者が119番通報をしても、半数以上を病院に搬送できなかったことがFNNの取材でわかった。 関係者によると、8月1日、自宅療養している感染者が体調悪化などで119番通報したのは213件で、このうち病院に搬送できたのは91人、残りの122人は搬送先...]]></summary>
+        <title type="html"><![CDATA[白鵬が柔道会場訪れていた　ＳＮＳで露呈「大きな問題だよ」芝田山広報部長 - 大相撲 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/battle/sumo/news/202108020000898.html</id>
+        <link href="https://www.nikkansports.com/battle/sumo/news/202108020000898.html"/>
+        <updated>2021-08-02T12:29:27.000Z</updated>
+        <summary type="html"><![CDATA[大相撲の横綱白鵬（36＝宮城野）が、東京オリンピック（五輪）の柔道会場に姿を見せたことをSNS上で露呈され、物議を醸している。 2日、報道陣の電話取材に応じた日本相撲協会の芝田山広報部長（元横綱大乃国）が「勘違いということじゃなくて常識、非常識が全く分かっていないということ。決められたルールを守ってない...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,41 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三菱電機 鉄道用に続き 業務用エアコンも検査不備 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176971000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176971000.html"/>
-        <updated>2021-08-02T11:13:34.000Z</updated>
-        <summary type="html"><![CDATA[鉄道用の空調装置などをめぐり検査の不正が明らかになった三菱電機は、あらたに和歌山市の工場で製造した業務用のエアコンなどで検査に不備があったことを明らかにしました。 工場にある検査装置1台が断線していたため正常に動かず、2014年から先月までの7年間にわたって製造された4万338台の製品で、漏電などに関する関...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府、コロナ中等症も自宅療養　病床逼迫で転換、入院は重症限定 ｜ 共同通信]]></title>
-        <id>https://nordot.app/794881306802929664</id>
-        <link href="https://nordot.app/794881306802929664"/>
-        <updated>2021-08-02T10:55:24.000Z</updated>
-        <summary type="html"><![CDATA[政府は2日、新型コロナウイルス感染症の患者のうち、中等症の人の一部を自宅療養とすることを決めた。自宅療養が難しい場合は宿泊療養も可能とする。全国の新規感染者が連日1万人を超え、病床逼迫への懸念が強まっており、これまでの原則入院から事実上の方針転換となる。 菅義偉首相は同日夕、新型コロナウイルス感染症...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[東京の感染者数を5週間ぶん予測した (8月2日版)]]></title>
         <id>https://anond.hatelabo.jp/20210802194616</id>
         <link href="https://anond.hatelabo.jp/20210802194616"/>
         <updated>2021-08-02T10:50:05.000Z</updated>
         <summary type="html"><![CDATA[6月21日版(anond:20210726195557) から 7月26日版(anond:20210726195557) に至る記事の続き。まえがきは初回(6月21日版)の記事でご覧ください。 7月19日版(anond:20210719192035)に書いた懸念が半分当たり、半分外れました。感染者数の最大値 に応じて確かに人流は減っているものの、その減り方が非常に緩やかになってし...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京アニ事件想起か、表現を修正　話題漫画「ルックバック」―集英社：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021080200889&amp;g=soc</id>
-        <link href="https://www.jiji.com/jc/article?k=2021080200889&amp;g=soc"/>
-        <updated>2021-08-02T10:32:32.000Z</updated>
-        <summary type="html"><![CDATA[京アニ事件想起か、表現を修正　話題漫画「ルックバック」―集英社 2021年08月02日18時29分 藤本タツキさんの読み切り漫画「ルックバック」について、内容を一部修正したと発表した少年ジャンプ＋編集部の投稿（ツイッターより） 集英社の漫画アプリ「少年ジャンプ＋（プラス）」で無料公開され、インターネット交流サイ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[オリンピック 亡命希望ベラルーシ選手 ポーランドが受け入れへ | オリンピック・パラリンピック　競技・選手 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176541000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176541000.html"/>
-        <updated>2021-08-02T09:08:19.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックに出場するために来日し、1日に第三国への亡命を希望したベラルーシの陸上選手について、ポーランドが亡命を受け入れることが関係者への取材で分かりました。選手はNHKの取材に対し「SNSへの書き込みをめぐり政権批判だとして強制送還されそうになった」と話しています。 亡命を希望しているのは、陸上...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[五輪関係の宿泊予約101人、来たのは5人　朝食も廃棄 - 東京オリンピック：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP825DZQP81ULEI008.html</id>
         <link href="https://www.asahi.com/articles/ASP825DZQP81ULEI008.html"/>
@@ -226,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[神奈川県 コロナ 5人死亡 1686人感染確認 感染者数過去最多に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176661000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176661000.html"/>
-        <updated>2021-08-02T08:56:57.000Z</updated>
-        <summary type="html"><![CDATA[神奈川県内では2日、合わせて1686人が新型コロナウイルスに感染したことが確認されたと発表され、6日連続で1000人を超えて、過去最多となりました。 1週間前の月曜日に比べて3倍以上に増えていて、感染が急激に拡大しています。 また、神奈川県は、1日に発表した1人について、詳しい検査の結果、陰性が判明したとして、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[子持ち40代女性コロナ禍での転職活動マジきつかった - インターネットの備忘録]]></title>
         <id>https://hase0831.hatenablog.jp/entry/2021/08/02/173013</id>
         <link href="https://hase0831.hatenablog.jp/entry/2021/08/02/173013"/>
         <updated>2021-08-02T08:33:25.000Z</updated>
         <summary type="html"><![CDATA[今日、内定承諾書にサインした。 9月1日から新しい会社で働くことになるのだけど、転職活動、マジできつかった。エージェント経由の応募では、書類選考で落ちまくった。たぶん30社くらい落ちた気がする。もっとかな。書類で落ちまくっていた数週間はネガティブ思考に陥り「今のキャリアを維持することは諦めたほうがいい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNN.co.jp : ワクチン効かない変異株の出現は「ほぼ確実」、英科学者が予測]]></title>
-        <id>https://www.cnn.co.jp/world/35174670.html</id>
-        <link href="https://www.cnn.co.jp/world/35174670.html"/>
-        <updated>2021-08-02T08:05:49.000Z</updated>
-        <summary type="html"><![CDATA[ロンドン（ＣＮＮ） 新型コロナウイルスのワクチンが効かない変異株は「ほぼ確実に」出現するだろうと予測した英学会の研究論文が、英政府の緊急時科学助言グループ（ＳＡＧＥ）の公式サイトに掲載された。 この論文は査読を受けておらず、まだ初期段階の理論的な研究に基づくもので、そうした変異株が出回っていること...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,26 +291,6 @@
         <link href="https://togetter.com/li/1753639"/>
         <updated>2021-08-02T05:25:37.000Z</updated>
         <summary type="html"><![CDATA[少年ジャンプ＋ @shonenjump_plus 『ルックバック』作品内に不適切な表現があるとの指摘を読者の方からいただきまし​た。 熟慮の結果、​作中の描写が偏見や差別の助長につながることは避けたいと考え、​一部修正しました。 少年ジャンプ＋編集部 shonenjumpplus.com/red/content/SH… 2021-08-02 12:00:58]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本でロックダウンはなじまないと首相 ｜ 共同通信]]></title>
-        <id>https://nordot.app/793794154884546560</id>
-        <link href="https://nordot.app/793794154884546560"/>
-        <updated>2021-08-02T04:54:56.000Z</updated>
-        <summary type="html"><![CDATA[菅首相は、コロナ感染拡大対策としてロックダウン（都市封鎖）を求める声があることについて、海外では都市封鎖をしても感染拡大が抑えられなかったとして「日本においてはロックダウンの手法はなじまない」と否定的な見解を示した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[47JIMOTOフラペチーノを全て飲むために47都道府県のスタバに行ってきた | SPOT]]></title>
-        <id>https://travel.spot-app.jp/jimoto_frappuccino/</id>
-        <link href="https://travel.spot-app.jp/jimoto_frappuccino/"/>
-        <updated>2021-08-02T03:41:41.000Z</updated>
-        <summary type="html"><![CDATA[※この取材は東京都の緊急事態宣言が解除されたのち、十分な感染対策を施したうえで取材先の感染状況に十分配慮しながら実施いたしました。 ※この記事は株式会社おくりバントの提供でお送りいたします。 1日目　6:00 鹿児島県鹿児島市　鹿児島中央駅 梅雨の真っ只中でありながら見事に快晴な鹿児島よりこんにちは。青い空...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

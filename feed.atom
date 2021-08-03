@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T08:14:02.491Z</id>
+    <id>urn:2021-08-03T09:12:40.061Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T08:14:02.491Z</updated>
+    <updated>2021-08-03T09:12:40.061Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 7人死亡 3709人感染確認 過去3番目の多さ]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210803/k10013178171000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210803/k10013178171000.html"/>
+        <updated>2021-08-03T07:48:21.000Z</updated>
+        <summary type="html"><![CDATA[東京都は3日、都内で新たに3709人が新型コロナウイルスに感染していることを確認したと発表しました。1日に確認された人数としてはこれまでで3番目に多くなりました。 また、1週間前より861人増えて火曜日としてはこれまでで最も多くなり、感染の急激な拡大が続いています。 一方、都の基準で集計した3日時点の重症の患...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[登さん、LAPRASをどう思いますか？そしてエンジニアは今後どうすべきですか？ - LAPRAS NOTE]]></title>
         <id>https://note.lapras.com/interview/dnobori/</id>
@@ -26,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[娘がそうめんを大量に食べるので"揖保乃糸"から安いのに買えたら「幼稚な味がする」と言われた「山岡士郎みたい」 - Togetter]]></title>
+        <title type="html"><![CDATA[娘がそうめんを大量に食べるので"揖保乃糸"から安いのにかえたら「幼稚な味がする」と言われた「山岡士郎みたい」 - Togetter]]></title>
         <id>https://togetter.com/li/1754032</id>
         <link href="https://togetter.com/li/1754032"/>
         <updated>2021-08-03T04:32:00.000Z</updated>
@@ -41,6 +51,16 @@
         <link href="https://www.asahi.com/articles/ASP83454PP83UTFK00B.html"/>
         <updated>2021-08-03T04:25:20.000Z</updated>
         <summary type="html"><![CDATA[加藤勝信官房長官は3日午前の記者会見で、新型コロナウイルス対応のための「政府与党連絡会議」は「党が主催した会議だ」とし、「政府において、議事録や議事概要を作成することは考えていない」と述べた。公文書管理のガイドラインが定める作成基準には該当しないという。 政府は昨年3月、新型コロナの感染拡大を公文書...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナに感染し自宅療養→ホテル療養→入院となった人の記録「日に日に呼吸しにくくなる恐怖感やばいです」 - Togetter]]></title>
+        <id>https://togetter.com/li/1754038</id>
+        <link href="https://togetter.com/li/1754038"/>
+        <updated>2021-08-03T04:13:57.000Z</updated>
+        <summary type="html"><![CDATA[VER 🔔🅰️ @vercut 元証券マン🔔FP。相場歴17年目。国内外株式、不動産。ファンダで銘柄探してテクニカル、需給判断で売買。短期、中期、長期なんでもやります。 No attack No chance ! ※ツイはフィクションです！適当なコメント多々有り。参考にしないでね(￣(工)￣)🐇💩 🐃 VER 🔔🅰️ @vercut 朝、38.5度熱があったので発...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +101,16 @@
         <link href="https://www.hotpepper.jp/mesitsu/entry/chie-yokota/2021-00528"/>
         <updated>2021-08-03T01:55:45.000Z</updated>
         <summary type="html"><![CDATA[夏になると冷たい飲みものが欲しくなりますよね。ここ数年「水出し緑茶」のニーズが高まっており、ボトル容器で作る人が増えているようです。お湯でなく水で淹れた緑茶は甘みと爽やかさがあって、まさに夏にぴったりの味わいです。 水出し緑茶はそのままでもおいしいですが、アレンジ次第でもっと幅広い楽しみ方ができる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元「ラーメンズ」片桐仁の俳優活動が大ピンチ！ 劇場版「99.9 -刑事専門弁護士-」降板か（日刊ゲンダイDIGITAL） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/0f54c9513bc48dec8b0d32797fd079235f671790</id>
+        <link href="https://news.yahoo.co.jp/articles/0f54c9513bc48dec8b0d32797fd079235f671790"/>
+        <updated>2021-08-03T01:45:35.000Z</updated>
+        <summary type="html"><![CDATA[元「ラーメンズ」の小林賢太郎氏（48）が過去にホロコースト（ユダヤ人大量虐殺）を揶揄するネタを披露していたことを理由に、東京オリンピック開閉会式のショーディレクター職を解任。その影響をモロに食らっているのが「ラーメンズ」時代の相方の片桐仁（47）だ。片桐は７月24日深夜、TBSラジオ「エレ片のケツビ！」に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[漫画の「修正」が話題になっているが『彼岸島』の場合おにぎりの具が鮭からイクラに修正されており、理由を考察するも全く分からん - Togetter]]></title>
-        <id>https://togetter.com/li/1753921</id>
-        <link href="https://togetter.com/li/1753921"/>
-        <updated>2021-08-02T20:43:16.000Z</updated>
-        <summary type="html"><![CDATA[flatgene @flatgene1 漫画の修正案件を見かけると、彼岸島のおにぎりの具が鮭からイクラに変わった訳の分からなさが燦然と輝いているからちくしょう！！ pic.twitter.com/LKcFp8tDTo 2021-08-02 13:49:47]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[熱海土石流　盛り土、実体は産廃　安全対策なく基準も守られず | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210802/k00/00m/040/300000c</id>
         <link href="https://mainichi.jp/articles/20210802/k00/00m/040/300000c"/>
@@ -221,16 +241,6 @@
         <link href="https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html"/>
         <updated>2021-08-02T15:33:17.000Z</updated>
         <summary type="html"><![CDATA[想い出に残る、懐かしのマイコン・パソコンを写真とともに振り返る本コーナー。今回は少し趣向を変えて、当時の周辺機器を取り上げる番外編その2「データレコーダ・NEC編」としました。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カクテル療法在宅患者にもと表明　菅首相、厚労省は慎重姿勢 ｜ 共同通信]]></title>
-        <id>https://nordot.app/794933025777123328</id>
-        <link href="https://nordot.app/794933025777123328"/>
-        <updated>2021-08-02T14:32:31.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は2日、重症化を防ぐ効果がある新治療薬の抗体カクテル療法について「50代以上や基礎疾患のある方に積極的に投与し、在宅患者も含めた取り組みを進める」と述べた。この治療法は、酸素投与は必要ないが、重症化リスクがある軽症や中等症の入院患者が対象。だが首相は、入院していない患者にも対象を広げる方針...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html"/>
         <updated>2021-08-02T12:49:56.000Z</updated>
         <summary type="html"><![CDATA[オープンソースでMac/Winのクロスプラットフォームに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリースされています。詳細は以下から。 　MelissaはMasaki Onoさんが2 The post オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。 first app...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子持ち40代女性コロナ禍での転職活動マジきつかった - インターネットの備忘録]]></title>
-        <id>https://hase0831.hatenablog.jp/entry/2021/08/02/173013</id>
-        <link href="https://hase0831.hatenablog.jp/entry/2021/08/02/173013"/>
-        <updated>2021-08-02T08:33:25.000Z</updated>
-        <summary type="html"><![CDATA[今日、内定承諾書にサインした。 9月1日から新しい会社で働くことになるのだけど、転職活動、マジできつかった。エージェント経由の応募では、書類選考で落ちまくった。たぶん30社くらい落ちた気がする。もっとかな。書類で落ちまくっていた数週間はネガティブ思考に陥り「今のキャリアを維持することは諦めたほうがいい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

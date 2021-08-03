@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T22:11:45.103Z</id>
+    <id>urn:2021-08-03T23:11:58.606Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T22:11:45.103Z</updated>
+    <updated>2021-08-03T23:11:58.606Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[コロナに関係なく、私たちの働き方はとっくに「限界」だった　日本人が知らない、人口ボーナス期・オーナス期の「勝てるルール」の違い - ログミーBiz]]></title>
+        <id>https://logmi.jp/business/articles/324726</id>
+        <link href="https://logmi.jp/business/articles/324726"/>
+        <updated>2021-08-03T17:41:46.000Z</updated>
+        <summary type="html"><![CDATA[コロナに関係なく、私たちの働き方はとっくに「限界」だった 日本人が知らない、人口ボーナス期・オーナス期の「勝てるルール」の違い 小室淑恵と体験する心理的安全性の高いオンライン会議と、多様な意見があふれ出すオンライン会議のやりかた 株式会社ワーク・ライフバランスが主催したイベントに、代表取締役社長の小...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘-‘ という名前の、中身が無いのに70万回ダウンロードされてる謎のnpmパッケージ – 秋元@サイボウズラボ・プログラマー・ブログ]]></title>
         <id>https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/</id>
@@ -36,11 +46,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[豪選手ら帰国の日航機内で騒ぐ　着席やマスク着用指示を拒否（共同通信） - Yahoo!ニュース]]></title>
+        <title type="html"><![CDATA[豪選手ら帰国時、日航機で騒ぐ　トイレ汚し、会社側が苦情（共同通信） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/f9140aa5c2d6a62344ccd68bd0d41f9d2d9e3aa9</id>
         <link href="https://news.yahoo.co.jp/articles/f9140aa5c2d6a62344ccd68bd0d41f9d2d9e3aa9"/>
         <updated>2021-08-03T13:07:08.000Z</updated>
-        <summary type="html"><![CDATA[【シドニー共同】東京五輪に出場したオーストラリアのサッカーと7人制ラグビーの男子代表選手らが、帰国時に搭乗した日航機内で酔っぱらって歌うなどし、乗務員による着席やマスク着用の指示を拒否する騒ぎを起こしていたとオーストラリアン紙電子版が3日報じた。 日航はオーストラリア・オリンピック委員会に「極めて異...]]></summary>
+        <summary type="html"><![CDATA[【シドニー共同】東京五輪に出場したオーストラリアのサッカーと7人制ラグビーの男子代表選手らが、帰国時に搭乗した日航機内で酔っぱらって歌うなどして騒ぎ、乗務員による着席やマスク着用の指示を拒否したため日航が苦情を訴えたと複数のオーストラリアメディアが3日報じた。 オーストラリアン紙電子版によると、2人...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -76,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[次期首相、石破茂氏が最有力に浮上か、自民党内で菅首相“退陣論”強まる…11月・衆院解散が濃厚]]></title>
+        <id>https://biz-journal.jp/2021/08/post_241949.html</id>
+        <link href="https://biz-journal.jp/2021/08/post_241949.html"/>
+        <updated>2021-08-03T12:07:41.000Z</updated>
+        <summary type="html"><![CDATA[石破茂氏のインスタグラムより 東京オリンピックが８月８日に閉幕し、お盆が終わる頃には、政界は自民党総裁選と衆議院の解散総選挙の日程をめぐって騒がしくなりそうだ。 今秋の政治日程について菅義偉首相は、９月５日のパラリンピック閉幕の熱気が冷めやらぬなかで国会を召集、冒頭もしくは、そう日が経たぬうちに衆...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[田丁木寸 on Twitter: "笑いが止まらんが。 https://t.co/fXBhQyE5oU"]]></title>
         <id>https://twitter.com/matimura/status/1422510690040836098</id>
         <link href="https://twitter.com/matimura/status/1422510690040836098"/>
@@ -91,6 +111,16 @@
         <link href="https://news.yahoo.co.jp/articles/9c3ea75baecacc9011703ea377a1c01ef55ec105"/>
         <updated>2021-08-03T11:43:00.000Z</updated>
         <summary type="html"><![CDATA[3日夕に放送されたTBS系報道番組「Nスタ」で、インターパーク倉持呼吸器内科院長の倉持仁氏が、菅義偉首相と小池百合子都知事に「2人とも至急お辞めになった方がいい」と怒りの発言をし、「倉持先生」がツイッターのトレンド1位にランクインした。 コロナ患者の入院対象を重症者らに限定し、重症化リスクが低い中等症患...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『施策デザインのための機械学習入門』という本を技術評論社さんから出版します - Counterfactualを知りたい]]></title>
+        <id>https://usaito.hatenablog.com/entry/2021/08/03/191339</id>
+        <link href="https://usaito.hatenablog.com/entry/2021/08/03/191339"/>
+        <updated>2021-08-03T11:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Twitterでたびたび告知させていただいていますが、『施策デザインのための機械学習入門』という本を技術評論社さんから出させていただきます。紙版は8月4日発売（本記事公開の翌日）、電子版は7月30日にすでに発売されています。 gihyo.jp www.amazon.co.jp 本書の概要は次の通りです。 予測に基づいた広告配信や商品推...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「在宅で酸素吸入ありえる」　コロナ入院制限で厚労相 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8353JDP83UTFL00G.html</id>
-        <link href="https://www.asahi.com/articles/ASP8353JDP83UTFL00G.html"/>
-        <updated>2021-08-03T07:25:14.000Z</updated>
-        <summary type="html"><![CDATA[田村憲久厚生労働相は3日の閣議後会見で、新型コロナウイルスの感染拡大地域で入院できるのは重症者や重症化するリスクの高い患者に限定するとの政府方針について、中等症でも「比較的（症状が）軽い方は在宅（療養）をお願いしていく」と説明し、「場合によっては在宅で酸素吸入することもありえる」との認識を示した。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[登さん、LAPRASをどう思いますか？そしてエンジニアは今後どうすべきですか？ - LAPRAS NOTE]]></title>
         <id>https://note.lapras.com/interview/dnobori/</id>
         <link href="https://note.lapras.com/interview/dnobori/"/>
@@ -251,16 +271,6 @@
         <link href="https://www.fnn.jp/articles/-/218926"/>
         <updated>2021-08-03T04:42:18.000Z</updated>
         <summary type="html"><![CDATA[自民党の二階幹事長は3日、記者会見で菅首相の任期満了に伴う総裁選について「今すぐ菅首相を代える意義は私は見つからない」と述べ、続投支持を明言した。一方、二階氏は3日、2016年の幹事長就任から5年を迎え、幹事長在職日数は歴代最長を記録、異例の長さとなっている。 この記事の画像（3枚） 二階氏は会見で自民党...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[娘がそうめんを大量に食べるので"揖保乃糸"から安いのにかえたら「幼稚な味がする」と言われた「山岡士郎みたい」 - Togetter]]></title>
-        <id>https://togetter.com/li/1754032</id>
-        <link href="https://togetter.com/li/1754032"/>
-        <updated>2021-08-03T04:32:00.000Z</updated>
-        <summary type="html"><![CDATA[デスポカ @tea_cow_corn 娘のそうめん消費量が最近ハンパなくて食費を逼迫するレベルになってきたので、内容量が揖保乃糸よりも3束多くて揖保乃糸と同じ値段のそうめんを茹でて出したところ、「………このそうめん何？( ･з･ )」「幼稚な味がする」とか山岡士郎みたいな事を言われた。 2021-08-03 08:40:27 デスポカ @tea_co...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://togetter.com/li/1754019"/>
         <updated>2021-08-03T03:30:39.000Z</updated>
         <summary type="html"><![CDATA[リュウジ@料理のおにいさんバズレシピ @ore825 料理研究家/株式会社バズレシピ代表取締役 YouTube登録215万人 Instagram登録117万人 公式LINE登録18万人 TikTok登録7万 総フォロワー約540万人 第7回レシピ本大賞受賞 世界一受けたい授業 ヒルナンデス出演 著書累計96万部 お仕事の依頼は→bazurecipe@gmail.com bazurecip...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[田村厚労相「高齢者や基礎疾患ある人も自宅療養の可能性」　原則入院の方針転換＜新型コロナ＞：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/121509</id>
-        <link href="https://www.tokyo-np.co.jp/article/121509"/>
-        <updated>2021-08-03T03:22:51.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス患者の入院要件を厳格化した政府方針について、田村憲久厚生労働相は３日の記者会見で、高齢者や基礎疾患がある人が自宅療養となる可能性があるとの見解を示した。これまでは原則入院だったが「比較的症状が軽く、リスクがそれほど高くない人は在宅も含めて対応せざるを得ない」とした。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

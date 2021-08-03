@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T19:13:19.837Z</id>
+    <id>urn:2021-08-03T20:14:42.304Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T19:13:19.837Z</updated>
+    <updated>2021-08-03T20:14:42.304Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://note.com/toyamakoichi/n/n01bb51913d8e"/>
         <updated>2021-08-03T14:37:49.000Z</updated>
         <summary type="html"><![CDATA[──名探偵・外山恒一の冒険４ 「名探偵・外山恒一の冒険」シリーズ １．オフィスＶＡＤの秘密（98年） ２．「アナーキー・イン・ザ・UK」の秘密（04年） ３．『ファイト・クラブ』──“映像の乱れ”の謎（16年） １． さて皆さん。 北尾修一氏による勇気ある告発によって、〝コーネリアス〟こと小山田圭吾氏への今回の壮絶な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[塩野義製薬、コロナワクチン、製剤見直し　抗体価上がらず　年内実用化は困難に | 化学工業日報]]></title>
+        <id>https://www.chemicaldaily.co.jp/%E5%A1%A9%E9%87%8E%E7%BE%A9%E8%A3%BD%E8%96%AC%E3%80%81%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%80%81%E8%A3%BD%E5%89%A4%E8%A6%8B%E7%9B%B4%E3%81%97%E3%80%80%E6%8A%97%E4%BD%93/</id>
+        <link href="https://www.chemicaldaily.co.jp/%E5%A1%A9%E9%87%8E%E7%BE%A9%E8%A3%BD%E8%96%AC%E3%80%81%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%80%81%E8%A3%BD%E5%89%A4%E8%A6%8B%E7%9B%B4%E3%81%97%E3%80%80%E6%8A%97%E4%BD%93/"/>
+        <updated>2021-08-03T14:01:15.000Z</updated>
+        <summary type="html"><![CDATA[ホーム ＨＰ独自・先行 塩野義製薬、コロナワクチン、製剤見直し　抗体価上がらず　年内実用化は困難に 塩野義製薬は２日、開発中の新型コロナウイルスワクチンの製剤を変更したと発表した。従来の製剤では十分な抗体反応が見込めず、効果を高めるアジュバント（免疫増強剤）を変えて再開発する。今月、追加の臨床試験を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -76,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大江千里がアメリカで感じた東京五輪の空虚さと違和感｜ニューズウィーク日本版 オフィシャルサイト]]></title>
+        <id>https://www.newsweekjapan.jp/ooe/2021/08/post-12.php</id>
+        <link href="https://www.newsweekjapan.jp/ooe/2021/08/post-12.php"/>
+        <updated>2021-08-03T10:00:12.000Z</updated>
+        <summary type="html"><![CDATA[＜人々が自粛を強いられる不平等な状況下で金銀銅を決めるイベントをやる必要は本当にあるのか。ここまで犠牲を払って目くらましのようなイベントをやる意味を、世界は冷静に見ていると思う＞ アメリカに住んで13年になるが、オリンピックに夢中になる人を見掛けたことがない。そもそも今、東京五輪が開催されていること...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[超注目の怪作は、ある一言から生まれた。『ダンダダン』龍幸伸×林士平対談インタビュー | アル]]></title>
         <id>https://alu.jp/series/%E3%83%80%E3%83%B3%E3%83%80%E3%83%80%E3%83%B3/article/8lHp83LrAZwWvRFQPfEN</id>
         <link href="https://alu.jp/series/%E3%83%80%E3%83%B3%E3%83%80%E3%83%80%E3%83%B3/article/8lHp83LrAZwWvRFQPfEN"/>
@@ -91,6 +111,26 @@
         <link href="https://gendai.ismedia.jp/articles/-/85823"/>
         <updated>2021-08-03T08:22:57.000Z</updated>
         <summary type="html"><![CDATA[ここまでの疫学的状況は？ 8月2日(月)、首都圏の神奈川県、埼玉県、千葉県と大阪府を対象に緊急事態宣言が発令された。これまでの東京都と沖縄県に加えて、感染者数が過去最多を記録しながら増加を続けていることを受けての判断である。 緊急事態宣言の一方で、流行に対する危機感が薄れていることを強く感じるのは私だ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相 新型コロナ ”自宅療養を基本”で医療団体に協力要請 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210803/k10013178611000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210803/k10013178611000.html"/>
+        <updated>2021-08-03T08:21:19.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの医療提供体制をめぐり、菅総理大臣は日本医師会など医療関係団体の代表と会談し、重症患者などを除き、自宅療養を基本とするとした方針をまとめたことを受けて、必要な体制の整備に協力を求めました。 この中で菅総理大臣は、重症患者などを除き自宅療養を基本とするとした政府の方針について「ワク...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[しをはら@8/3生誕 on Twitter: "隣の席の人がどう考えても初アポ(※マッチングアプリで出逢った人たちが初めて実地で会うやつ)なんけど、最初から「オイオイ雲行きが怪しいぞ…………」と思って聞いてたら、二人が二人ともネットワークビジネス勧誘員だったみたいで、正真正銘のクロサギが始まってしまったので、手に汗を握ってる"]]></title>
+        <id>https://twitter.com/hakatano_shiwo/status/1422446932497113088</id>
+        <link href="https://twitter.com/hakatano_shiwo/status/1422446932497113088"/>
+        <updated>2021-08-03T08:07:01.000Z</updated>
+        <summary type="html"><![CDATA[隣の席の人がどう考えても初アポ(※マッチングアプリで出逢った人たちが初めて実地で会うやつ)なんけど、最初から「オイオイ雲行きが怪しいぞ…………」と思って聞いてたら、二人が二人ともネットワークビジネス勧誘員だったみたいで、正真正銘のクロサギが始まってしまったので、手に汗を握ってる]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,36 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[水ぼうそうと同じ感染力？ 感染爆発を招いているデルタ株にどこまで警戒を強めたらいいのか]]></title>
-        <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-sakamoto-2</id>
-        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-sakamoto-2"/>
-        <updated>2021-08-03T05:57:01.000Z</updated>
-        <summary type="html"><![CDATA[全国で感染拡大が止まらない。 東京、沖縄に加え、埼玉、千葉、神奈川の首都圏3県と大阪府に緊急事態宣言が出るほどまで感染者数を増やした大きな要因の一つが、変異ウイルス「デルタ株」の蔓延だ。東京でも8月半ば以降にほぼデルタ株に置き換わると見られる。 米国CDC（疾病管理予防センター）が「水ぼうそうと同程度」...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民 二階幹事長 総裁選で「菅総理代える意義見つからない」 | 菅内閣 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210803/k10013178041000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210803/k10013178041000.html"/>
-        <updated>2021-08-03T05:41:45.000Z</updated>
-        <summary type="html"><![CDATA[9月末に菅総理大臣の任期が満了することに伴う自民党の総裁選挙について、二階幹事長は「たんたんと進めていくことが大事だ」と指摘する一方、菅総理大臣を代える意義は見当たらないとして、続投を支持する考えを強調しました。 菅総理大臣の自民党総裁としての任期は、9月末までとなっていて、党の規程では、8月中に総...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初代デジタル相は「自分」　平井氏：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021080300656&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021080300656&amp;g=pol"/>
-        <updated>2021-08-03T05:24:02.000Z</updated>
-        <summary type="html"><![CDATA[初代デジタル相は「自分」　平井氏 2021年08月03日14時11分 平井卓也デジタル改革担当相（６月１８日） 平井卓也デジタル改革担当相は３日の記者会見で、９月１日発足のデジタル庁を所管する初代デジタル相について「おそらく（菅義偉首相から）任命してもらえると思う」と述べた。閣僚に任命される側が自らの人事に言及...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[登さん、LAPRASをどう思いますか？そしてエンジニアは今後どうすべきですか？ - LAPRAS NOTE]]></title>
         <id>https://note.lapras.com/interview/dnobori/</id>
         <link href="https://note.lapras.com/interview/dnobori/"/>
@@ -241,16 +251,6 @@
         <link href="https://twitter.com/kenn/status/1422373470168440835"/>
         <updated>2021-08-03T04:01:05.000Z</updated>
         <summary type="html"><![CDATA[トヨタの無人レンタカー「チョクノリ」、アプリのBluetoothで鍵の開閉をするのだが、飛騨の山奥まで来たところで突然どうやっても接続できなくなりドアが開かなくなって詰んだ。トヨタはこういう事態を想定してなかったらしいのだが、エンジニアとしては「まじかよ」というほかない。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原則自宅療養方針、枝野氏「放棄としか」　野党次々批判 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP833VLRP83UTFK003.html</id>
-        <link href="https://www.asahi.com/articles/ASP833VLRP83UTFK003.html"/>
-        <updated>2021-08-03T03:48:38.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染者の入院を制限し、中等症などの患者は原則自宅療養とする政府の方針転換に対し、野党側は3日、政府のコロナ対策の失敗の結果だとして批判を強めた。4日に衆院厚生労働委員会で開かれる閉会中審査でも追及する方針だ。 入院制限の方針は、政府が2日の関係閣僚会議で打ち出した。感染急増地域で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

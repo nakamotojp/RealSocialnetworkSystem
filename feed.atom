@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T13:20:12.368Z</id>
+    <id>urn:2021-08-03T14:10:55.901Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T13:20:12.368Z</updated>
+    <updated>2021-08-03T14:10:55.901Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ｎスタのキャスター固まらせた、怒りの発言「倉持先生」がトレンド１位 - 芸能 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/entertainment/news/202108030001186.html</id>
+        <link href="https://www.nikkansports.com/entertainment/news/202108030001186.html"/>
+        <updated>2021-08-03T12:28:36.000Z</updated>
+        <summary type="html"><![CDATA[3日夕に放送されたTBS系報道番組「Nスタ」で、インターパーク倉持呼吸器内科院長の倉持仁氏が、菅義偉首相と小池百合子都知事に「2人とも至急お辞めになった方がいい」と怒りの発言をし、「倉持先生」がツイッターのトレンド1位にランクインした。 コロナ患者の入院対象を重症者らに限定し、重症化リスクが低い中等症患...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゴールデンカムイを読んで絶望している]]></title>
         <id>https://anond.hatelabo.jp/20210803180420</id>
         <link href="https://anond.hatelabo.jp/20210803180420"/>
         <updated>2021-08-03T10:23:34.000Z</updated>
         <summary type="html"><![CDATA[趣味の延長くらいで文章を書いている。小説とも呼べないくらいの物語。 ちょっとした賞に入ったことはあるが出版とか仕事にするとかいったレベルじゃないのは自分でわかってる。 それでも最近、物語のヒントになればといろんな作品を読むようになった。 いま全話無料になってるよと勧められて読んだのが「ゴールデンカム...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ryota on Twitter: "Nスタ、中等症では入院できない？怒り心頭、倉持先生「抗体カクテル療法は軽症者の重症化を防ぐためのもので、入院しないと投与できない。言ってることが無茶苦茶。（菅と小池の）二人は国民にまっとうな医療は供給しないと言っている。彼らに国を… https://t.co/1Nm8FjckNz"]]></title>
+        <id>https://twitter.com/ggzhmru2/status/1422479791819681797</id>
+        <link href="https://twitter.com/ggzhmru2/status/1422479791819681797"/>
+        <updated>2021-08-03T10:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Nスタ、中等症では入院できない？怒り心頭、倉持先生「抗体カクテル療法は軽症者の重症化を防ぐためのもので、入院しないと投与できない。言ってることが無茶苦茶。（菅と小池の）二人は国民にまっとうな医療は供給しないと言っている。彼らに国を… https://t.co/1Nm8FjckNz]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超注目の怪作は、ある一言から生まれた。『ダンダダン』龍幸伸×林士平対談インタビュー | アル]]></title>
+        <id>https://alu.jp/series/%E3%83%80%E3%83%B3%E3%83%80%E3%83%80%E3%83%B3/article/8lHp83LrAZwWvRFQPfEN</id>
+        <link href="https://alu.jp/series/%E3%83%80%E3%83%B3%E3%83%80%E3%83%80%E3%83%B3/article/8lHp83LrAZwWvRFQPfEN"/>
+        <updated>2021-08-03T09:32:39.000Z</updated>
+        <summary type="html"><![CDATA[超注目の怪作は、ある一言から生まれた。『ダンダダン』龍幸伸×林士平対談インタビュー 2021/08/03 17:00 「少年ジャンプ＋」で1話が公開されると、瞬く間に大反響が集まった超注目作『ダンダダン』。 圧倒的な筆致で、バトルアクションとボーイミーツガールが描かれる待望の1巻発売を記念して、作者・龍幸伸先生と担当...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,16 +81,6 @@
         <link href="https://www.kyoto-np.co.jp/articles/-/611087"/>
         <updated>2021-08-03T07:29:34.000Z</updated>
         <summary type="html"><![CDATA[出会い系サイトで知り合った少女を乱暴したなどとして、京都府警伏見署は３日、強制性交や窃盗などの疑いで、自民党滋賀県支部連合会事務局長の男（４３）＝滋賀県栗東市＝を逮捕した。同署によると、「合意の上での出来事だった」と容疑を一部否認している。 逮捕容疑は２月３日午後９時４５分～同１０時半ごろ、京都市...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「在宅で酸素吸入ありえる」　コロナ入院制限で厚労相 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8353JDP83UTFL00G.html</id>
-        <link href="https://www.asahi.com/articles/ASP8353JDP83UTFL00G.html"/>
-        <updated>2021-08-03T07:25:14.000Z</updated>
-        <summary type="html"><![CDATA[田村憲久厚生労働相は3日の閣議後会見で、新型コロナウイルスの感染拡大地域で入院できるのは重症者や重症化するリスクの高い患者に限定するとの政府方針について、中等症でも「比較的（症状が）軽い方は在宅（療養）をお願いしていく」と説明し、「場合によっては在宅で酸素吸入することもありえる」との認識を示した。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[熱海土石流　盛り土、実体は産廃　安全対策なく基準も守られず | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210802/k00/00m/040/300000c</id>
-        <link href="https://mainichi.jp/articles/20210802/k00/00m/040/300000c"/>
-        <updated>2021-08-02T20:13:39.000Z</updated>
-        <summary type="html"><![CDATA[静岡県熱海市の土石流災害を巡り、県は、崩落した土砂の大半が起点周辺にあった盛り土だったとの見方を示した。盛り土はどういった経緯で造成されたのか。被害は防げなかったのか。関係者に投げかけられた問いは重い。 県、指導を繰り返したが… 「盛り土という表現はよくない。産廃捨て場だ」。起点周辺の土地を以前所有...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20代だが、ビートたけしを面白いと思ったことがない。]]></title>
         <id>https://anond.hatelabo.jp/20210801110936</id>
         <link href="https://anond.hatelabo.jp/20210801110936"/>
@@ -291,16 +301,6 @@
         <link href="https://www.fnn.jp/articles/-/215557"/>
         <updated>2021-08-02T13:45:58.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染拡大はいまだに終息の兆しが見えない。 シリーズ「名医のいる相談室」では、各分野の専門医が病気の予防法や対処法など健康に関する悩みをわかりやすく解説。 今回は、福岡県飯塚市にある、飯塚病院感染症科部長の的野多加志先生に、「ファイザー」「モデルナ」のmRNA（メッセンジャーRNA）ワク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斎藤環氏の『ルックバック』批判に精神障害当事者として思うこと。 - Something Orange]]></title>
-        <id>https://somethingorange.biz/archives/6967</id>
-        <link href="https://somethingorange.biz/archives/6967"/>
-        <updated>2021-08-02T08:17:37.000Z</updated>
-        <summary type="html"><![CDATA[統合失調症当事者として考える。 公開されるや否やソーシャルメディアで大評判となり、あっというまに数百万回のアクセスを記録し、そして瞬く間にその表現を問題視されたマンガ『ルックバック』が、やはり記録的な速さで内容を修正されたようである。 ルックバック - 藤本タツキ | 少年ジャンプ＋学生新聞で４コマ漫画...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T15:13:23.349Z</id>
+    <id>urn:2021-08-03T16:21:00.387Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T15:13:23.349Z</updated>
+    <updated>2021-08-03T16:21:00.387Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://gendai.ismedia.jp/articles/-/85823"/>
         <updated>2021-08-03T08:22:57.000Z</updated>
         <summary type="html"><![CDATA[ここまでの疫学的状況は？ 8月2日(月)、首都圏の神奈川県、埼玉県、千葉県と大阪府を対象に緊急事態宣言が発令された。これまでの東京都と沖縄県に加えて、感染者数が過去最多を記録しながら増加を続けていることを受けての判断である。 緊急事態宣言の一方で、流行に対する危機感が薄れていることを強く感じるのは私だ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行方不明のベラルーシ人活動家、首つり状態で発見 ウクライナ　写真8枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3359927</id>
+        <link href="https://www.afpbb.com/articles/-/3359927"/>
+        <updated>2021-08-03T08:05:47.000Z</updated>
+        <summary type="html"><![CDATA[ベラルーシ人活動家のビタリー・シショフ氏。ウクライナ首都キエフで。本人のフェイスブックページより（撮影日不明、2021年8月3日入手）。(c)AFP PHOTO / Facebook page of Vitaly Shiskov 【8月3日 AFP】（更新、写真追加）行方不明になっていたベラルーシ人活動家が、ウクライナの首都キエフの公園で首をつった状態で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://twitter.com/utamaro_/status/1422357511139594251"/>
         <updated>2021-08-03T01:38:28.000Z</updated>
         <summary type="html"><![CDATA[ヤフコメだけど上手いもんだ https://t.co/8JbJ8cMjRS https://t.co/i0RVrRczps]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪選手村で連日“野外パーティ”の乱痴気騒ぎ動画　組織委も警察も制御不能の呆れた実態（デイリー新潮） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/c8d345b0b70097999820569cd8bf5fd8a6ed72ad</id>
-        <link href="https://news.yahoo.co.jp/articles/c8d345b0b70097999820569cd8bf5fd8a6ed72ad"/>
-        <updated>2021-08-02T22:54:06.000Z</updated>
-        <summary type="html"><![CDATA[「夜の選手村はもはや無法地帯です。連日、深夜まで外国人選手たちは野外パーティーで大騒ぎ。いつクラスターが発生してもおかしくない状況なのに、組織委は彼らをまったく制御できていません」。こう告発するのは、ある大会関係者である。「デイリー新潮」が独自入手した動画には、警察が出動する飲酒トラブルが発生し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

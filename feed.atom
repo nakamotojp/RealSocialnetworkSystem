@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T05:10:08.206Z</id>
+    <id>urn:2021-08-03T06:14:39.050Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T05:10:08.206Z</updated>
+    <updated>2021-08-03T06:14:39.050Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[政府与党のコロナ会議「議事録作成、考えてない」加藤氏：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP83454PP83UTFK00B.html</id>
+        <link href="https://www.asahi.com/articles/ASP83454PP83UTFK00B.html"/>
+        <updated>2021-08-03T04:25:20.000Z</updated>
+        <summary type="html"><![CDATA[加藤勝信官房長官は3日午前の記者会見で、新型コロナウイルス対応のための「政府与党連絡会議」は「党が主催した会議だ」とし、「政府において、議事録や議事概要を作成することは考えていない」と述べた。公文書管理のガイドラインが定める作成基準には該当しないという。 政府は昨年3月、新型コロナの感染拡大を公文書...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【完全保存版】リュウジお兄さんがレンジでできる料理100選を公開。レシピ本1冊分の無料公開にキッチン地獄から脱出できそうだ - Togetter]]></title>
+        <id>https://togetter.com/li/1754019</id>
+        <link href="https://togetter.com/li/1754019"/>
+        <updated>2021-08-03T03:30:39.000Z</updated>
+        <summary type="html"><![CDATA[リュウジ@料理のおにいさんバズレシピ @ore825 料理研究家/株式会社バズレシピ代表取締役 YouTube登録215万人 Instagram登録117万人 公式LINE登録18万人 TikTok登録7万 総フォロワー約540万人 第7回レシピ本大賞受賞 世界一受けたい授業 ヒルナンデス出演 著書累計96万部 お仕事の依頼は→bazurecipe@gmail.com bazurecip...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[田村厚労相「高齢者や基礎疾患ある人も自宅療養の可能性」　原則入院の方針転換＜新型コロナ＞：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/121509</id>
         <link href="https://www.tokyo-np.co.jp/article/121509"/>
         <updated>2021-08-03T03:22:51.000Z</updated>
-        <summary type="html"><![CDATA[田村厚労相は、高齢者や基礎疾患がある人が新型コロナウイルスに感染した場合に自宅療養となる可能性があるとの見解を示した。これまでは原則入院だった。　（共同）]]></summary>
+        <summary type="html"><![CDATA[新型コロナウイルス患者の入院要件を厳格化した政府方針について、田村憲久厚生労働相は３日の記者会見で、高齢者や基礎疾患がある人が自宅療養となる可能性があるとの見解を示した。これまでは原則入院だったが「比較的症状が軽く、リスクがそれほど高くない人は在宅も含めて対応せざるを得ない」とした。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google、「Pixel 6」を今秋以降に発売。自社チップ「Tensor」搭載 - Impress Watch]]></title>
-        <id>https://www.watch.impress.co.jp/docs/news/1341813.html</id>
-        <link href="https://www.watch.impress.co.jp/docs/news/1341813.html"/>
-        <updated>2021-08-02T17:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Googleは、自社開発のカスタムチップ(SoC)を搭載したスマートフォン「Pixel 6」「Pixel 6 Pro」を今秋以降に発売する。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hironobu SUZUKI on Twitter: "〈現役担当大臣〉が〈現在進んでいる政府事業の見解〉を〈個人の立場〉で、しかも〈これまでとは異なる見解〉を〈個人的な告知〉で流すとか、もう政府って何なのよ、内閣って何なのよ、ガバナンスはどこにあるのよ、アナーキスト（無政府主義）かっ！てなるでしょ、フツー。"]]></title>
         <id>https://twitter.com/HironobuSUZUKI/status/1421968400574664704</id>
         <link href="https://twitter.com/HironobuSUZUKI/status/1421968400574664704"/>
@@ -271,16 +281,6 @@
         <link href="https://www.tokyo-np.co.jp/article/121368"/>
         <updated>2021-08-02T12:48:01.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染者の急増に伴い、東京都では自宅療養者がこの約１カ月で１２倍に増え、２日時点で過去最多を４日連続で更新し１２１６１人となった。比較的症状の軽い若い世代が中心だが、容体急変の恐れがあり、救急搬送される療養者もいる。保健所は健康観察に追われ、業務逼迫の要因になっている。（岡本太）]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「友よ 歴史だ」五輪 男子走り高跳びで同記録の2人に金メダル | 陸上 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210802/k10013176811000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210802/k10013176811000.html"/>
-        <updated>2021-08-02T10:22:18.000Z</updated>
-        <summary type="html"><![CDATA[金メダルに輝くのは1人だけ？そんなことはないんです。2人の選手が同時に金メダルを獲得する珍事が、東京オリンピックで起きました。 大会10日目の1日、陸上の男子走り高跳び決勝での出来事でした。 カタールの30歳、ムタ エッサ・バーシム選手とイタリアの29歳、ジャンマルコ・タンベリ選手はともに試技を1回も失敗する...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

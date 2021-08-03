@@ -6,12 +6,30 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.asahi.com/articles/ASP83454PP83UTFK00B.html",
+          "author": null,
+          "description": "加藤勝信官房長官は3日午前の記者会見で、新型コロナウイルス対応のための「政府与党連絡会議」は「党が主催した会議だ」とし、「政府において、議事録や議事概要を作成することは考えていない」と述べた。公文書管理のガイドラインが定める作成基準には該当しないという。 政府は昨年3月、新型コロナの感染拡大を公文書...",
+          "link": "https://www.asahi.com/articles/ASP83454PP83UTFK00B.html",
+          "publishedOn": "2021-08-03T04:25:20.000Z",
+          "wordCount": 211,
+          "title": "政府与党のコロナ会議「議事録作成、考えてない」加藤氏：朝日新聞デジタル"
+        },
+        {
+          "id": "https://togetter.com/li/1754019",
+          "author": null,
+          "description": "リュウジ@料理のおにいさんバズレシピ @ore825 料理研究家/株式会社バズレシピ代表取締役 YouTube登録215万人 Instagram登録117万人 公式LINE登録18万人 TikTok登録7万 総フォロワー約540万人 第7回レシピ本大賞受賞 世界一受けたい授業 ヒルナンデス出演 著書累計96万部 お仕事の依頼は→bazurecipe@gmail.com bazurecip...",
+          "link": "https://togetter.com/li/1754019",
+          "publishedOn": "2021-08-03T03:30:39.000Z",
+          "wordCount": 544,
+          "title": "【完全保存版】リュウジお兄さんがレンジでできる料理100選を公開。レシピ本1冊分の無料公開にキッチン地獄から脱出できそうだ - Togetter"
+        },
+        {
           "id": "https://www.tokyo-np.co.jp/article/121509",
           "author": null,
-          "description": "田村厚労相は、高齢者や基礎疾患がある人が新型コロナウイルスに感染した場合に自宅療養となる可能性があるとの見解を示した。これまでは原則入院だった。　（共同）",
+          "description": "新型コロナウイルス患者の入院要件を厳格化した政府方針について、田村憲久厚生労働相は３日の記者会見で、高齢者や基礎疾患がある人が自宅療養となる可能性があるとの見解を示した。これまでは原則入院だったが「比較的症状が軽く、リスクがそれほど高くない人は在宅も含めて対応せざるを得ない」とした。",
           "link": "https://www.tokyo-np.co.jp/article/121509",
           "publishedOn": "2021-08-03T03:22:51.000Z",
-          "wordCount": 303,
+          "wordCount": 302,
           "title": "田村厚労相「高齢者や基礎疾患ある人も自宅療養の可能性」　原則入院の方針転換＜新型コロナ＞：東京新聞 TOKYO Web"
         },
         {
@@ -20,7 +38,7 @@
           "description": "重症患者などを除き、自宅療養を基本とするとした新型コロナウイルスの医療提供体制の方針について、田村厚生労働大臣は、病床に余力を持たせるためだと強調したうえで、自宅療養の人が症状が悪化した際に対応できる体制の整備を急ぐ考えを示しました。 新型コロナウイルスの医療提供体制をめぐり、政府は、入院は重症患...",
           "link": "https://www3.nhk.or.jp/news/html/20210803/k10013177811000.html",
           "publishedOn": "2021-08-03T03:10:49.000Z",
-          "wordCount": 28,
+          "wordCount": 31,
           "title": "田村厚労相 “病床に余力持たせるため” 自宅療養を基本方針 | 新型コロナウイルス | NHKニュース"
         },
         {
@@ -29,7 +47,7 @@
           "description": "夏になると冷たい飲みものが欲しくなりますよね。ここ数年「水出し緑茶」のニーズが高まっており、ボトル容器で作る人が増えているようです。お湯でなく水で淹れた緑茶は甘みと爽やかさがあって、まさに夏にぴったりの味わいです。 水出し緑茶はそのままでもおいしいですが、アレンジ次第でもっと幅広い楽しみ方ができる...",
           "link": "https://www.hotpepper.jp/mesitsu/entry/chie-yokota/2021-00528",
           "publishedOn": "2021-08-03T01:55:45.000Z",
-          "wordCount": 250,
+          "wordCount": 252,
           "title": "お茶とは“エンタメ”だ。この夏常備したい「水出し緑茶」の淹れ方＆アレンジ術を、鹿児島のお茶研究家に伝授してもらった - メシ通 | ホットペッパーグルメ"
         },
         {
@@ -74,7 +92,7 @@
           "description": "USB Type-Cは難解さゆえ、アレルギーを持っている人は多い。以下の関連記事で紹介した「USB 3.xのGen表記」の分かりにくさも相当なものだが、それでも速度まわりの話に終始しており、データ転送から給電、映像出力までカバーするUSB Type-C全体ともなると、その分かりにくさはケタ違いだ。USB Type-C周りの話題はなるべく避けて通っている人も、少なくないのではないだろうか。",
           "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html",
           "publishedOn": "2021-08-02T22:08:02.000Z",
-          "wordCount": 266,
+          "wordCount": 267,
           "title": "【特集】「USB Type-C」と「Thunderbolt」って同じもの？よく分かる最新コネクタ解説 - PC Watch"
         },
         {
@@ -101,7 +119,7 @@
           "description": "五輪が始まれば国民はお祭りムードになる。その高揚感で菅政権の人気もあがる。この手の政府・自民党のコメントが以前からあちこちで報道されていた。ちなみに上記は4月の記事。 毎日新聞7月30日 やはりお祭りムードになった。菅政権の見立て通りでした。さすがです。こんな記事もあった。 「五輪で『楽観バイアス』緊急...",
           "link": "https://bunshun.jp/articles/-/47647",
           "publishedOn": "2021-08-02T21:08:41.000Z",
-          "wordCount": 179,
+          "wordCount": 181,
           "title": "東京五輪でお祭りムードに…コロナ感染大爆発　それでも楽観的な菅首相が“信じているもの”とは？ | 文春オンライン"
         },
         {
@@ -110,7 +128,7 @@
           "description": "flatgene @flatgene1 漫画の修正案件を見かけると、彼岸島のおにぎりの具が鮭からイクラに変わった訳の分からなさが燦然と輝いているからちくしょう！！ pic.twitter.com/LKcFp8tDTo 2021-08-02 13:49:47",
           "link": "https://togetter.com/li/1753921",
           "publishedOn": "2021-08-02T20:43:16.000Z",
-          "wordCount": 612,
+          "wordCount": 631,
           "title": "漫画の「修正」が話題になっているが『彼岸島』の場合おにぎりの具が鮭からイクラに修正されており、理由を考察するも全く分からん - Togetter"
         },
         {
@@ -119,7 +137,7 @@
           "description": "静岡県熱海市の土石流災害を巡り、県は、崩落した土砂の大半が起点周辺にあった盛り土だったとの見方を示した。盛り土はどういった経緯で造成されたのか。被害は防げなかったのか。関係者に投げかけられた問いは重い。 県、指導を繰り返したが… 「盛り土という表現はよくない。産廃捨て場だ」。起点周辺の土地を以前所有...",
           "link": "https://mainichi.jp/articles/20210802/k00/00m/040/300000c",
           "publishedOn": "2021-08-02T20:13:39.000Z",
-          "wordCount": 563,
+          "wordCount": 564,
           "title": "熱海土石流　盛り土、実体は産廃　安全対策なく基準も守られず | 毎日新聞"
         },
         {
@@ -141,15 +159,6 @@
           "title": "“戸籍氏名に読みがな 新たに届け出” デジタル化へ報告案 | NHKニュース"
         },
         {
-          "id": "https://www.watch.impress.co.jp/docs/news/1341813.html",
-          "author": null,
-          "description": "Googleは、自社開発のカスタムチップ(SoC)を搭載したスマートフォン「Pixel 6」「Pixel 6 Pro」を今秋以降に発売する。",
-          "link": "https://www.watch.impress.co.jp/docs/news/1341813.html",
-          "publishedOn": "2021-08-02T17:44:04.000Z",
-          "wordCount": 103,
-          "title": "Google、「Pixel 6」を今秋以降に発売。自社チップ「Tensor」搭載 - Impress Watch"
-        },
-        {
           "id": "https://twitter.com/HironobuSUZUKI/status/1421968400574664704",
           "author": null,
           "description": "〈現役担当大臣〉が〈現在進んでいる政府事業の見解〉を〈個人の立場〉で、しかも〈これまでとは異なる見解〉を〈個人的な告知〉で流すとか、もう政府って何なのよ、内閣って何なのよ、ガバナンスはどこにあるのよ、アナーキスト（無政府主義）かっ！てなるでしょ、フツー。",
@@ -164,7 +173,7 @@
           "description": "javascript:document.querySelectorAll(\".entry-comment-contents\").forEach(function(e){if(e.innerText.indexOf('🐻')!=-1||e.innerText.indexOf('ʕ•̫͡•ʔ')!=-1){e.remove()}})ブックマークレットのクリックが面倒な人は、GreasemonkeyかTampermonkeyで。 他のパターンのコメント削除したい人は『||e.innerText.indexOf(...",
           "link": "https://anond.hatelabo.jp/20210803012020",
           "publishedOn": "2021-08-02T16:21:13.000Z",
-          "wordCount": 119,
+          "wordCount": 133,
           "title": "ブコメの熊がウザいので、削除するブックマークレット作った"
         },
         {
@@ -191,7 +200,7 @@
           "description": "ボソボソ何を言ってるか分からない、テンポもずれてる、おっさんの愚痴を脈絡関係なくぶっこむだけの芸が面白いのか。 他の人より地位が高いから忖度せずに何でも言えるっていうのが評価されているのかもしれないけど、 かといってキレのあるセリフを言う訳でもなく、ツイッターの隅っこで呟かれてそうな品性も知性もな...",
           "link": "https://anond.hatelabo.jp/20210801110936",
           "publishedOn": "2021-08-02T14:16:45.000Z",
-          "wordCount": 220,
+          "wordCount": 234,
           "title": "20代だが、ビートたけしを面白いと思ったことがない。"
         },
         {
@@ -200,7 +209,7 @@
           "description": "Misa @MisaDisney 注意喚起！！ 先日コンビニでiTunesカードを購入して、少し経ったあとにスマホ読み込みしたのですが… 詐欺カードでした。 バーコードに別のバーコードシールが貼られていて、結果購入済扱いになっていなかった為です。購入の際に怪しいバーコードシールが貼られていないかチェックしてください！ pic.t...",
           "link": "https://togetter.com/li/1753785",
           "publishedOn": "2021-08-02T13:50:32.000Z",
-          "wordCount": 883,
+          "wordCount": 906,
           "title": "【注意喚起】コンビニでiTunesカードを購入してスマホで読み込んだらバーコードの上に別のバーコードシールを貼られていて詐欺カードだった - Togetter"
         },
         {
@@ -209,7 +218,7 @@
           "description": "新型コロナウイルスの感染拡大はいまだに終息の兆しが見えない。 シリーズ「名医のいる相談室」では、各分野の専門医が病気の予防法や対処法など健康に関する悩みをわかりやすく解説。 今回は、福岡県飯塚市にある、飯塚病院感染症科部長の的野多加志先生に、「ファイザー」「モデルナ」のmRNA（メッセンジャーRNA）ワク...",
           "link": "https://www.fnn.jp/articles/-/215557",
           "publishedOn": "2021-08-02T13:45:58.000Z",
-          "wordCount": 200,
+          "wordCount": 201,
           "title": "体の遺伝子を書き換えることはない…「ファイザー」「モデルナ」 “mRNAワクチン”の仕組みを感染症専門医が解説"
         },
         {
@@ -236,7 +245,7 @@
           "description": "オープンソースでMac/Winのクロスプラットフォームに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリースされています。詳細は以下から。 　MelissaはMasaki Onoさんが2 The post オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。 first app...",
           "link": "https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html",
           "publishedOn": "2021-08-02T12:49:56.000Z",
-          "wordCount": 161,
+          "wordCount": 155,
           "title": "オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。"
         },
         {
@@ -247,15 +256,6 @@
           "publishedOn": "2021-08-02T12:48:01.000Z",
           "wordCount": 303,
           "title": "東京の自宅療養1万2000人超、1カ月で12倍に急増、都の健康観察「限界に近い」：東京新聞 TOKYO Web"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210802/k10013176811000.html",
-          "author": null,
-          "description": "金メダルに輝くのは1人だけ？そんなことはないんです。2人の選手が同時に金メダルを獲得する珍事が、東京オリンピックで起きました。 大会10日目の1日、陸上の男子走り高跳び決勝での出来事でした。 カタールの30歳、ムタ エッサ・バーシム選手とイタリアの29歳、ジャンマルコ・タンベリ選手はともに試技を1回も失敗する...",
-          "link": "https://www3.nhk.or.jp/news/html/20210802/k10013176811000.html",
-          "publishedOn": "2021-08-02T10:22:18.000Z",
-          "wordCount": 25,
-          "title": "「友よ 歴史だ」五輪 男子走り高跳びで同記録の2人に金メダル | 陸上 | NHKニュース"
         },
         {
           "id": "https://hase0831.hatenablog.jp/entry/2021/08/02/173013",

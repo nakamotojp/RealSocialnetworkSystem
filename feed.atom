@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T13:19:53.338Z</id>
+    <id>urn:2021-08-04T14:11:09.627Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T13:19:53.338Z</updated>
+    <updated>2021-08-04T14:11:09.627Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[自宅療養方針、尾身氏への事前相談なし　首相「今初めて聞いた」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210804/k00/00m/010/370000c</id>
+        <link href="https://mainichi.jp/articles/20210804/k00/00m/010/370000c"/>
+        <updated>2021-08-04T12:03:07.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症対策の進捗（しんちょく）に関する関係閣僚会議で発言する菅義偉首相＝首相官邸で2021年8月4日午後2時48分、竹内幹撮影 菅義偉首相は4日、政府の新型コロナウイルス感染症対策分科会の尾身茂会長が、入院対象を重症者らに絞り込む方針を事前に相談されなかったことについて「今初めて（聞いた）...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[河村市長、金メダルがぶり　「無礼」市役所に抗議　選手は冷静対応 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210804/k00/00m/040/311000c</id>
@@ -31,6 +41,26 @@
         <link href="https://nordot.app/795599044028940288"/>
         <updated>2021-08-04T10:30:48.000Z</updated>
         <summary type="html"><![CDATA[菅首相は政府による新型コロナウイルス患者の入院制限方針に与党から撤回要求が出ていることについて「撤回しない」とした上で「必要な医療を受けられるための措置だ。説明し理解してもらう」と記者団に述べた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[名古屋 河村市長 ソフトボールの金メダルかみ 批判相次ぐ | メダル オリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210804/k10013181441000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210804/k10013181441000.html"/>
+        <updated>2021-08-04T10:11:09.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市の河村市長が4日、東京オリンピックで活躍したソフトボールの選手から金メダル獲得の報告を受けた際、披露されたメダルを突然、口に入れてかみ、市役所に批判の電話やメールなどが相次いでいます。 名古屋市の河村市長は4日午前、ソフトボール日本代表チームのメンバーで、名古屋市熱田区出身の後藤希友投手と面...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マンガ「この巻がすごい！」大賞]]></title>
+        <id>https://anond.hatelabo.jp/20210801171826</id>
+        <link href="https://anond.hatelabo.jp/20210801171826"/>
+        <updated>2021-08-04T08:54:32.000Z</updated>
+        <summary type="html"><![CDATA[思いついたから書いてみました。記憶をもとに書いているので間違いがあるかもしれない。 1巻　テルマエロマエ（ヤマザキマリ） 2巻　ヘルシング（平野耕太） 3巻　僕といっしょ（古谷実） 4巻　ジャイアント（山田芳裕） 5巻　デビルマン（永井豪） 6巻　チェンソーマン（藤本タツキ） 7巻　名探偵コナン（青山剛昌） 8...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,16 +121,6 @@
         <link href="https://bunshun.jp/articles/-/47698"/>
         <updated>2021-08-04T07:14:44.000Z</updated>
         <summary type="html"><![CDATA[東証一部上場の大手住宅メーカー・タマホームの取締役が、社員に対して風俗店の利用を推奨し、利用後に内容を報告させていたことが「週刊文春」の取材でわかった。「週刊文春」の入手したLINEや証言によれば、玉木伸弥社長も風俗店利用推奨に関与していた疑いがある。 タマホームを巡っては、これまで事実上の“ワクチン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】“マスクせず診察”眼科クリニック院長が感染　４８０人検査→複数人が陽性 | MBS 関西のニュース]]></title>
-        <id>https://www.mbs.jp/news/kansainews/20210804/GE00039546.shtml</id>
-        <link href="https://www.mbs.jp/news/kansainews/20210804/GE00039546.shtml"/>
-        <updated>2021-08-04T06:33:54.000Z</updated>
-        <summary type="html"><![CDATA[滋賀県内の眼科クリニックで、マスクをせずに診察するなどしていた院長が新型コロナウイルスに感染し、患者ら約４８０人がＰＣＲ検査を受けていたことがわかりました。 滋賀県内にある眼科クリニックの男性院長は今年７月に新型コロナウイルス感染が確認されました。関係者などによりますと、院長はマスク着用などの感染...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSSでブロック要素の幅をコンテンツのサイズぴったりにしたい時のこれからの記述方法 | コリス]]></title>
-        <id>https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html"/>
-        <updated>2021-08-04T00:37:09.000Z</updated>
-        <summary type="html"><![CDATA[sectionやdivやpなど、ブロック要素をボーダーで囲うと、全幅（親要素の幅）になります。そのブロック要素の中のコンテンツが少なく、ボーダーの幅をコンテンツのサイズに合わせたい場合は、どう実装していますか？ ブロック要素のままでは親要素の幅になってしまうので、通常はdisplay: inline;やdisplay: inline-block...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[菅直人元首相　民主党と安倍・菅政権どちらが「悪夢」なのか/芸能/デイリースポーツ online]]></title>
         <id>https://www.daily.co.jp/gossip/2021/08/03/0014560392.shtml</id>
         <link href="https://www.daily.co.jp/gossip/2021/08/03/0014560392.shtml"/>
         <updated>2021-08-04T00:21:54.000Z</updated>
         <summary type="html"><![CDATA[菅直人元首相　民主党と安倍・菅政権どちらが「悪夢」なのか 拡大 菅直人元首相がツイッターで、民主党政権と、「コロナ対応をはじめとする安倍、菅義偉両政権と比較して、国民にとって、どちらが『悪夢』なのかを考えていただきたい」と投稿した。 菅氏は「２００９年から３年３カ月にわたった民主党政権はこれまで、安...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「オレが若いころは」「マネジメント＝管理」と思っている上司が、ダメダメな理由：水曜インタビュー劇場（澤円公演）（1/5 ページ） - ITmedia ビジネスオンライン]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2108/04/news025.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2108/04/news025.html"/>
-        <updated>2021-08-03T23:54:34.000Z</updated>
-        <summary type="html"><![CDATA[「オレが若いころは」「マネジメント＝管理」と思っている上司が、ダメダメな理由：水曜インタビュー劇場（澤円公演）（1/5 ページ） 「オレが若いころは……」「マネジメントとは管理することだ」といったことを言う上司がいるが、こうした人たちは本当にマネジメントができているのだろうか。日本マイクロソフトで業務執...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

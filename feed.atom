@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T00:39:06.579Z</id>
+    <id>urn:2021-08-04T01:56:55.756Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T00:39:06.579Z</updated>
+    <updated>2021-08-04T01:56:55.756Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[YouTuber同士の繋がりを可視化する - 見返すかもしれないメモ]]></title>
+        <id>https://yaamaa-memo.hatenablog.com/entry/2021/08/04/072555</id>
+        <link href="https://yaamaa-memo.hatenablog.com/entry/2021/08/04/072555"/>
+        <updated>2021-08-03T23:01:20.000Z</updated>
+        <summary type="html"><![CDATA[最近ある YouTuber に急にハマった。その人は音楽系やゲーム系などいろんな YouTuber たちとコラボしていて、誰と誰が繋がっているのか把握するのが難しかったので、図にしてみようと思った。 方法 YouTuber 同士の繋がりやコラボレーションを可視化しているプロジェクトはいくつかあったので、参考になる方法がないか探...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政府の方針急転、命に直結する問題　自宅療養どこまで [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP837KGDP83ULBJ00H.html</id>
@@ -16,11 +26,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[北海道の風力を東京に　海底送電線、30年度までに整備　: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUA239120T20C21A6000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUA239120T20C21A6000000/"/>
+        <updated>2021-08-03T21:22:14.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 経済産業省は北海道と本州を結ぶ直流の送電線を海底ケーブルで整備する。2030年度までに整え、風力を中心に電気を北海道から首都圏に送れるようにする。1兆円規模の大...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新型コロナ: 厄介な国のワクチン忌避　リスク不寛容でさまよう英社製: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQODK281E70Y1A720C2000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQODK281E70Y1A720C2000000/"/>
         <updated>2021-08-03T21:03:16.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら やはり腑（ふ）に落ちない。政府は英アストラゼネカの新型コロナウイルス向けワクチンを医薬品として特例承認したにもかかわらず、2カ月半も接種に使うかどうかを棚上...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jun Rekimoto : 暦本純一 on Twitter: "「昭和１８年５月、大阪帝国大学の淺田常三郎教授は、中国で押収した米軍製の焼夷弾の燃焼実験を行い、「アメリカ製の焼夷弾を消すことは不可能」という結論を得た。しかし政府は科学者の警告を無視して、「空襲から逃げるな、逃げる必要はない」と宣伝する。」構造が全く同じ。"]]></title>
+        <id>https://twitter.com/rkmt/status/1421919535553155072</id>
+        <link href="https://twitter.com/rkmt/status/1421919535553155072"/>
+        <updated>2021-08-03T20:26:11.000Z</updated>
+        <summary type="html"><![CDATA[「昭和１８年５月、大阪帝国大学の淺田常三郎教授は、中国で押収した米軍製の焼夷弾の燃焼実験を行い、「アメリカ製の焼夷弾を消すことは不可能」という結論を得た。しかし政府は科学者の警告を無視して、「空襲から逃げるな、逃げる必要はない」と宣伝する。」構造が全く同じ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +81,16 @@
         <link href="https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/"/>
         <updated>2021-08-03T15:16:48.000Z</updated>
         <summary type="html"><![CDATA[– という名前の JavaScript/TypeScript パッケージについて警告を発している記事が話題となっています。 このパッケージ、中身はほとんど空で、Readme と、dev で TypeScript を動かせるようにするライブラリ群を呼ぶ箇所だけのもの。 しかし、この “-” を使っている他の npm パッケージが 50個以上あり、約一年前の公開...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2030年度時点の発電 総合的には太陽光はコスト高に 経産省試算 | 環境 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210804/k10013179411000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210804/k10013179411000.html"/>
+        <updated>2021-08-03T15:12:39.000Z</updated>
+        <summary type="html"><![CDATA[経済産業省はエネルギー基本計画に合わせた2030年度時点の発電にかかる総合的なコストの試算を示しました。天候が変動することへの対応などの要素を加えると太陽光発電のコストが高くなるという内容になっています。 経済産業省は先月下旬、エネルギー基本計画の素案を示し、2030年度に再生可能エネルギーの割合を「36％...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ｎスタのキャスター固まらせた、怒りの発言「倉持先生」がトレンド１位（日刊スポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/9c3ea75baecacc9011703ea377a1c01ef55ec105</id>
-        <link href="https://news.yahoo.co.jp/articles/9c3ea75baecacc9011703ea377a1c01ef55ec105"/>
-        <updated>2021-08-03T11:43:00.000Z</updated>
-        <summary type="html"><![CDATA[3日夕に放送されたTBS系報道番組「Nスタ」で、インターパーク倉持呼吸器内科院長の倉持仁氏が、菅義偉首相と小池百合子都知事に「2人とも至急お辞めになった方がいい」と怒りの発言をし、「倉持先生」がツイッターのトレンド1位にランクインした。 【写真】過激発言に一瞬沈黙したホラン千秋 コロナ患者の入院対象を重症...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[『施策デザインのための機械学習入門』という本を技術評論社さんから出版します - Counterfactualを知りたい]]></title>
         <id>https://usaito.hatenablog.com/entry/2021/08/03/191339</id>
         <link href="https://usaito.hatenablog.com/entry/2021/08/03/191339"/>
@@ -216,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「ルミネエスト新宿」4日臨時休業へ 感染対策で施設を一斉消毒 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210803/k10013178811000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210803/k10013178811000.html"/>
-        <updated>2021-08-03T10:13:38.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染状況が急速に悪化する中、JR新宿駅の商業施設「ルミネエスト新宿」では従業員の感染が合わせて59人に上り、施設の一斉消毒を行うため、4日は臨時休業することを決めました。 発表によりますと、ルミネエスト新宿では7月21日以降、衣料品や飲食の店舗の従業員や事務所のスタッフなど、合わせて59...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ryota on Twitter: "Nスタ、中等症では入院できない？怒り心頭、倉持先生「抗体カクテル療法は軽症者の重症化を防ぐためのもので、入院しないと投与できない。言ってることが無茶苦茶。（菅と小池の）二人は国民にまっとうな医療は供給しないと言っている。彼らに国を… https://t.co/1Nm8FjckNz"]]></title>
         <id>https://twitter.com/ggzhmru2/status/1422479791819681797</id>
         <link href="https://twitter.com/ggzhmru2/status/1422479791819681797"/>
@@ -241,16 +261,6 @@
         <link href="https://alu.jp/series/%E3%83%80%E3%83%B3%E3%83%80%E3%83%80%E3%83%B3/article/8lHp83LrAZwWvRFQPfEN"/>
         <updated>2021-08-03T09:32:39.000Z</updated>
         <summary type="html"><![CDATA[超注目の怪作は、ある一言から生まれた。『ダンダダン』龍幸伸×林士平対談インタビュー 2021/08/03 17:00 「少年ジャンプ＋」で1話が公開されると、瞬く間に大反響が集まった超注目作『ダンダダン』。 圧倒的な筆致で、バトルアクションとボーイミーツガールが描かれる待望の1巻発売を記念して、作者・龍幸伸先生と担当...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“生産性向上に投資するため”のデータの可視化　生産性測定から組織の仕組み作りをサポート - ログミーTech]]></title>
-        <id>https://logmi.jp/tech/articles/324731</id>
-        <link href="https://logmi.jp/tech/articles/324731"/>
-        <updated>2021-08-03T09:20:51.000Z</updated>
-        <summary type="html"><![CDATA[オリジナルグッズ作成・販売サービス「SUZURI」に関わるエンジニアメンバーや事業部長が登壇し、SUZURIの開発の今や、現在の課題・今後の取り組みについて話す「43万人超のクリエイターの表現活動を支える！ECプラットフォームSUZURIの開発の裏側」。ここで技術部の近藤氏が登壇。生産性をすることになった背景と、具体...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://note.lapras.com/interview/dnobori/"/>
         <updated>2021-08-03T05:21:01.000Z</updated>
         <summary type="html"><![CDATA[2020年4月、無償かつ即日利用可能なリモートデスクトップ環境が公開され話題を呼びました。 現在16万人を越えるユーザーを擁する「シン・テレワークシステム」です。 今回登場いただくのは、そのシン・テレワークシステムの開発者として知られる登大遊さん。 登さんは、多忙な業務の傍ら次世代の人材育成にも関心を寄せ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府与党のコロナ会議「議事録作成、考えてない」加藤氏：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP83454PP83UTFK00B.html</id>
-        <link href="https://www.asahi.com/articles/ASP83454PP83UTFK00B.html"/>
-        <updated>2021-08-03T04:25:20.000Z</updated>
-        <summary type="html"><![CDATA[加藤勝信官房長官は3日午前の記者会見で、新型コロナウイルス対応のための「政府与党連絡会議」は「党が主催した会議だ」とし、「政府において、議事録や議事概要を作成することは考えていない」と述べた。公文書管理のガイドラインが定める作成基準には該当しないという。 政府は昨年3月、新型コロナの感染拡大を公文書...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

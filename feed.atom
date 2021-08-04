@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T19:15:17.358Z</id>
+    <id>urn:2021-08-04T20:12:40.917Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T19:15:17.358Z</updated>
+    <updated>2021-08-04T20:12:40.917Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -111,6 +111,26 @@
         <link href="https://tech.tier4.jp/entry/2021/08/04/160000"/>
         <updated>2021-08-04T09:38:37.000Z</updated>
         <summary type="html"><![CDATA[はじめまして、ティアフォー技術本部 Planning / Controlチームで開発を行っている堀部と申します。 今回は状態推定の王道技術「カルマンフィルター」が実際に自動運転で用いられるまでの道のりやノウハウなどを書いていこうと思います。 みなさんはカルマンフィルターという言葉を聞いたことがありますでしょうか。 カ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[しんぶん赤旗日曜版 on Twitter: "【スクープ】 来日した五輪関係者の感染者十数人が都民のための宿泊療養施設に入所していたことが編集部の取材で判明。組織委員会は選手らに陽性者が出た時のために五輪専用のホテルを借りています。なぜ都民の療養施設に海外からの五輪関係者が入… https://t.co/LEy2adXB0G"]]></title>
+        <id>https://twitter.com/nitiyoutwitt/status/1422834030823706625</id>
+        <link href="https://twitter.com/nitiyoutwitt/status/1422834030823706625"/>
+        <updated>2021-08-04T09:23:36.000Z</updated>
+        <summary type="html"><![CDATA[【スクープ】 来日した五輪関係者の感染者十数人が都民のための宿泊療養施設に入所していたことが編集部の取材で判明。組織委員会は選手らに陽性者が出た時のために五輪専用のホテルを借りています。なぜ都民の療養施設に海外からの五輪関係者が入… https://t.co/LEy2adXB0G]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチン接種 東京23区のうち14区 50代の1回目 5割に達せず | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210804/k10013181091000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210804/k10013181091000.html"/>
+        <updated>2021-08-04T09:21:31.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスのワクチン接種について、NHKが東京23区に年代別の進捗（しんちょく）状況を取材したところ、50代で1回目の接種を終えた人が5割に達していない区が回答した18の区のおよそ8割にのぼりました。自治体からは、「国はワクチン供給の見通しを早く示してほしい」といった声があがっています。 新型コロナの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沖縄県 新型コロナ 新たに602人感染確認 大幅増加で過去最多 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210804/k10013180311000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210804/k10013180311000.html"/>
-        <updated>2021-08-04T05:22:49.000Z</updated>
-        <summary type="html"><![CDATA[沖縄県は4日、新たに602人が新型コロナウイルスに感染していることが確認されたと発表しました。 1日に公表される感染者数としては、これまでで最も多かった3日の467人を135人上回って、初めて600人を超え、過去最多を大幅に更新しました。 過去最多を更新するのは2日連続です。 これで県内で確認された感染者はあわせて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自宅療養で人々を見殺しにすると決めた菅首相｜ニューズウィーク日本版 オフィシャルサイト]]></title>
         <id>https://www.newsweekjapan.jp/fujisaki/2021/08/post-18.php</id>
         <link href="https://www.newsweekjapan.jp/fujisaki/2021/08/post-18.php"/>
         <updated>2021-08-04T04:58:45.000Z</updated>
         <summary type="html"><![CDATA[＜菅政権は全力で国民の生命を救おうとはしていない。何もしなくても「政権は安泰」と高を括っているからだ＞ 8月2日、政府は新型コロナウイルスで、「中等症」であっても「症状が軽い」あるいは「重症化リスクの少ない」患者に関しては、「自宅療養」を可とする方針を出した。これまでは原則的にコロナ患者は入院、無症...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪関係者　コロナ陽性の8件、誰が提出したか分からず　組織委のチェック体制ずさん：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/121805</id>
-        <link href="https://www.tokyo-np.co.jp/article/121805"/>
-        <updated>2021-08-04T04:27:31.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会は４日、新型コロナウイルスの感染拡大防止のため、すべての大会関係者に課しているＰＣＲ検査について、陽性が確認されたが、誰が提出したものか分からないままの事例が８件あると発表した。このため８件に関わる大会関係者は隔離などの措置がとられず、そのまま業務を続けていると...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

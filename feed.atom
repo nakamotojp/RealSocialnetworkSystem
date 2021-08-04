@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T21:11:39.805Z</id>
+    <id>urn:2021-08-04T22:11:47.774Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T21:11:39.805Z</updated>
+    <updated>2021-08-04T22:11:47.774Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://knqyf263.hatenablog.com/entry/2021/08/04/211903"/>
         <updated>2021-08-04T14:15:29.000Z</updated>
         <summary type="html"><![CDATA[周りを見ていると何の苦もなく英語社会に適応しているわけですが、日々苦しんでいる人の奮闘記があっても良いのではないかと思って書きました。残念なエピソードを晒すことで実は自分もこうやって乗り切ってましたという人が現れお互いに助け合えることを期待しています。 概要 前提 バッドノウハウ 質問編 聞き取れなか...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleの製品セキュリティ解説が面白い]]></title>
+        <id>https://zenn.dev/okuoku/articles/bc57255d35dfad</id>
+        <link href="https://zenn.dev/okuoku/articles/bc57255d35dfad"/>
+        <updated>2021-08-04T12:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Appleは自社の製品セキュリティについて割と詳細に解説したホワイトペーパーを公開している。何故か日本語版もある。 (PDF版) https://manuals.info.apple.com/MANUALS/1000/MA1902/ja_JP/apple-platform-security-guide-j.pdf このドキュメントは言わば ユーザのプライバシで商売をすることの決意表明 であり、このレベ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -66,11 +76,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【速報】自民党もコロナ患者入院制限の撤回を政府に要求　菅義偉首相は「撤回しない」：東京新聞 TOKYO Web]]></title>
+        <title type="html"><![CDATA[中等症患者の入院制限方針　与野党から撤回要求　首相は否定「丁寧に説明」：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/121859</id>
         <link href="https://www.tokyo-np.co.jp/article/121859"/>
         <updated>2021-08-04T10:33:50.000Z</updated>
-        <summary type="html"><![CDATA[自民党は４日、新型コロナウイルス感染症対策本部などの合同会議を開き、患者の入院制限方針について、政府に撤回を求めることを決めた。 菅首相は政府による新型コロナウイルス患者の入院制限方針に与党から撤回要求が出ていることについて「撤回しない」とした上で「必要な医療を受けられるための措置だ。説明し理解し...]]></summary>
+        <summary type="html"><![CDATA[新型コロナウイルス患者の入院を制限し、重症者以外は原則自宅療養とする政府の方針転換に関し、自民党は４日、党会合で撤回を求めることを決めた。公明党は衆院厚生労働委員会の閉会中審査で、撤回を含めた再検討を訴え、立憲民主、共産、国民民主の野党各党も撤回要求で一致した。菅義偉首相は官邸で記者団に「病床を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://anond.hatelabo.jp/20210801171826"/>
         <updated>2021-08-04T08:54:32.000Z</updated>
         <summary type="html"><![CDATA[思いついたから書いてみました。記憶をもとに書いているので間違いがあるかもしれない。 1巻　テルマエロマエ（ヤマザキマリ） 2巻　ヘルシング（平野耕太） 3巻　僕といっしょ（古谷実） 4巻　ジャイアント（山田芳裕） 5巻　デビルマン（永井豪） 6巻　チェンソーマン（藤本タツキ） 7巻　名探偵コナン（青山剛昌） 8...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入院制限、与党が「撤回」要求　政府、対応に苦慮：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021080400971&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021080400971&amp;g=pol"/>
-        <updated>2021-08-04T08:32:49.000Z</updated>
-        <summary type="html"><![CDATA[入院制限、与党が「撤回」要求　政府、対応に苦慮 2021年08月04日18時03分 自民党本部 政府が打ち出した新型コロナウイルス感染者の入院制限方針について、自民、公明両党から４日、撤回の要求が上がった。全国的に「第５波」到来が鮮明となる中、政府は病床逼迫（ひっぱく）を回避するため自治体と連携して入院の絞り込...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

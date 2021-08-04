@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T14:11:09.627Z</id>
+    <id>urn:2021-08-04T15:14:07.141Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T14:11:09.627Z</updated>
+    <updated>2021-08-04T15:14:07.141Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210804/k10013181441000.html"/>
         <updated>2021-08-04T10:11:09.000Z</updated>
         <summary type="html"><![CDATA[名古屋市の河村市長が4日、東京オリンピックで活躍したソフトボールの選手から金メダル獲得の報告を受けた際、披露されたメダルを突然、口に入れてかみ、市役所に批判の電話やメールなどが相次いでいます。 名古屋市の河村市長は4日午前、ソフトボール日本代表チームのメンバーで、名古屋市熱田区出身の後藤希友投手と面...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「プレーブック」では禁止なのに…レストラン、家電量販店　ボランティアが大会関係者を送迎：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/121844</id>
+        <link href="https://www.tokyo-np.co.jp/article/121844"/>
+        <updated>2021-08-04T09:50:24.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の外国人の大会関係者らが、ボランティアの運転する車で大会と無関係なレストランや商業施設へ出掛けていると、ボランティアドライバーを務める女性が本紙に証言した。選手らと外部との接触を遮断する「バブル（泡）方式」を壊す行為だけに、女性は「行きたいと言われたら、どこへでも行かざるを得ないが、ルー...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://nordot.app/795463121303142400"/>
         <updated>2021-08-04T01:28:39.000Z</updated>
         <summary type="html"><![CDATA[立憲民主など野党3党の国対委員長は4日、国会内で会談し、重症者以外は原則自宅療養とする新型コロナウイルス感染症の新たな政府方針の撤回を求める方針で一致した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誕生日にミシュラン外食、自粛訴えた知事「自宅の延長」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP837JDHP83PISC019.html</id>
-        <link href="https://www.asahi.com/articles/ASP837JDHP83PISC019.html"/>
-        <updated>2021-08-04T00:38:25.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大を受け、県民に「できるだけ自宅で過ごして」と呼びかけた週末に、福井県の杉本達治知事が、妻とレストランに行っていたとして謝罪した。 県内で感染者が増加していた7月30日、知事は会見で、「今週末は最大限の注意を」「外出をお考えの場合も日程変更ができないか検討いただいて、慎重に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

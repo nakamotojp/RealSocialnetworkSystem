@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T08:13:52.729Z</id>
+    <id>urn:2021-08-04T09:12:36.377Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T08:13:52.729Z</updated>
+    <updated>2021-08-04T09:12:36.377Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,17 @@
         <id>https://www3.nhk.or.jp/news/html/20210804/k10013180651000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210804/k10013180651000.html"/>
         <updated>2021-08-04T07:48:16.000Z</updated>
-        <summary type="html"><![CDATA[東京都は4日、都内で新たに4166人が新型コロナウイルスに感染していることを確認したと発表しました。 1日の発表としては先月31日の4058人を上回り、これまでで最も多くなりました。 1週間前からは989人増えていて、感染の急激な拡大が止まりません。 一方、都の基準で集計した4日時点の重症の患者は3日より3人増えて115...]]></summary>
+        <summary type="html"><![CDATA[東京都内では4日、一日の発表としてはこれまでで最も多い4166人が新型コロナウイルスに感染していることが確認されました。 また、都は、感染が確認された1人が死亡したことを明らかにしました。 東京都は、4日、都内で新たに10歳未満から100歳以上までの男女あわせて4166人が新型コロナウイルスに感染していることを確...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[資料入手　東京五輪閉会式で「天皇も参加する〇×クイズ」演出案 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47697</id>
+        <link href="https://bunshun.jp/articles/-/47697"/>
+        <updated>2021-08-04T07:27:02.000Z</updated>
+        <summary type="html"><![CDATA[資料の表題は、〈TOKYO2020 OLYMPIC GAMES　CLOSING CEREMONY PLAN〉。昨年10月27日付で、全97ページ。東京都の小池百合子知事へのプレゼンテーション用にまとめられたものだ。 資料の31ページ目には、次のような記述がある。 〈VIPも天皇陛下も参加する〉 参考として貼り付けられているのは、往年の日本テレビの人気番...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +61,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210804/k10013180311000.html"/>
         <updated>2021-08-04T05:22:49.000Z</updated>
         <summary type="html"><![CDATA[沖縄県は4日、新たに602人が新型コロナウイルスに感染していることが確認されたと発表しました。 1日に公表される感染者数としては、これまでで最も多かった3日の467人を135人上回って、初めて600人を超え、過去最多を大幅に更新しました。 過去最多を更新するのは2日連続です。 これで県内で確認された感染者はあわせて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自宅療養で人々を見殺しにすると決めた菅首相｜ニューズウィーク日本版 オフィシャルサイト]]></title>
+        <id>https://www.newsweekjapan.jp/fujisaki/2021/08/post-18.php</id>
+        <link href="https://www.newsweekjapan.jp/fujisaki/2021/08/post-18.php"/>
+        <updated>2021-08-04T04:58:45.000Z</updated>
+        <summary type="html"><![CDATA[＜菅政権は全力で国民の生命を救おうとはしていない。何もしなくても「政権は安泰」と高を括っているからだ＞ 8月2日、政府は新型コロナウイルスで、「中等症」であっても「症状が軽い」あるいは「重症化リスクの少ない」患者に関しては、「自宅療養」を可とする方針を出した。これまでは原則的にコロナ患者は入院、無症...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[塩野義製薬、コロナワクチン、製剤見直し　抗体価上がらず　年内実用化は困難に | 化学工業日報]]></title>
-        <id>https://www.chemicaldaily.co.jp/%E5%A1%A9%E9%87%8E%E7%BE%A9%E8%A3%BD%E8%96%AC%E3%80%81%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%80%81%E8%A3%BD%E5%89%A4%E8%A6%8B%E7%9B%B4%E3%81%97%E3%80%80%E6%8A%97%E4%BD%93/</id>
-        <link href="https://www.chemicaldaily.co.jp/%E5%A1%A9%E9%87%8E%E7%BE%A9%E8%A3%BD%E8%96%AC%E3%80%81%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%80%81%E8%A3%BD%E5%89%A4%E8%A6%8B%E7%9B%B4%E3%81%97%E3%80%80%E6%8A%97%E4%BD%93/"/>
-        <updated>2021-08-03T14:01:15.000Z</updated>
-        <summary type="html"><![CDATA[ホーム ＨＰ独自・先行 塩野義製薬、コロナワクチン、製剤見直し　抗体価上がらず　年内実用化は困難に 塩野義製薬は２日、開発中の新型コロナウイルスワクチンの製剤を変更したと発表した。従来の製剤では十分な抗体反応が見込めず、効果を高めるアジュバント（免疫増強剤）を変えて再開発する。今月、追加の臨床試験を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[国会採掘 - 国会で「誰が」「何を」「どれだけ」言ったか採掘する。 -]]></title>
         <id>https://kokkaisaikutsu.github.io/</id>
         <link href="https://kokkaisaikutsu.github.io/"/>
         <updated>2021-08-03T12:42:07.000Z</updated>
         <summary type="html"><![CDATA[本サイトは 国立国会図書館 国会議事録検索システム を通じて収集したデータを使用しています。 本サイトのデータは単語の使用回数を議事録から機械的に抽出したものであり、該当の単語に関する発言者の主張・賛否、発言の根拠、発言の妥当性を示すものではありません。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MK on Twitter: "このタグに乗っかって、必死に民主党政権時のことをもっとヒドかったとツイートしている連中がいるが、少なくとも肺炎なのに自宅で様子みろ、なんてことは言われていない。→ #こんなひどい政治は初めてだ"]]></title>
-        <id>https://twitter.com/MKenchi/status/1422431730812653568</id>
-        <link href="https://twitter.com/MKenchi/status/1422431730812653568"/>
-        <updated>2021-08-03T12:33:36.000Z</updated>
-        <summary type="html"><![CDATA[このタグに乗っかって、必死に民主党政権時のことをもっとヒドかったとツイートしている連中がいるが、少なくとも肺炎なのに自宅で様子みろ、なんてことは言われていない。→ #こんなひどい政治は初めてだ]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

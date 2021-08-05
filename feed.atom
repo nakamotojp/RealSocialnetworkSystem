@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-05T14:11:00.113Z</id>
+    <id>urn:2021-08-05T15:13:19.823Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T14:11:00.114Z</updated>
+    <updated>2021-08-05T15:13:19.823Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[かんだメダルは交換対象外　製造欠陥のみ無償対応―組織委〔五輪〕：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021080501205&amp;g=spo</id>
+        <link href="https://www.jiji.com/jc/article?k=2021080501205&amp;g=spo"/>
+        <updated>2021-08-05T11:49:09.000Z</updated>
+        <summary type="html"><![CDATA[かんだメダルは交換対象外　製造欠陥のみ無償対応―組織委〔五輪〕 2021年08月05日19時29分 東京五輪の金メダル 東京五輪・パラリンピック組織委員会は５日、五輪のソフトボールを制した日本代表の後藤希友（トヨタ自動車）が４日に名古屋市の河村たかし市長を表敬訪問した際、市長がマスクを外して金メダルをかんだ件に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かんだメダルは交換対象外　製造欠陥のみ無償対応―組織委〔五輪〕（時事通信） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/f82c31ee32dc0be7e17c5c2aa85c14f9c5ce804b</id>
+        <link href="https://news.yahoo.co.jp/articles/f82c31ee32dc0be7e17c5c2aa85c14f9c5ce804b"/>
+        <updated>2021-08-05T10:57:33.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会は5日、五輪のソフトボールを制した日本代表の後藤希友（トヨタ自動車）が4日に名古屋市の河村たかし市長を表敬訪問した際、市長がマスクを外して金メダルをかんだ件に関して、新たなメダルへの交換の対象にはならないことを明らかにした。 組織委は「メダルの製造瑕疵（かし）があっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自宅で容体急変し変死の443人がコロナ感染　過去1年半で　警察庁 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210805/k00/00m/040/320000c</id>
+        <link href="https://mainichi.jp/articles/20210805/k00/00m/040/320000c"/>
+        <updated>2021-08-05T10:22:56.000Z</updated>
+        <summary type="html"><![CDATA[警察庁は5日、2020年1月から21年6月までの1年半に自宅で容体が急変して死亡し、全国の警察が変死などとして取り扱った人のうち、計443人から新型コロナウイルスの感染が確認されたと明らかにした。立憲民主党の会合で明らかにした。 自宅や路上など医療機関以外で体調が悪化して死亡した人のうち、コロナの感染が確認さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/archives/31110/</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/31110/"/>
+        <updated>2021-08-05T09:18:31.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。サイバーエージェント AI 事業本部 Dynalyst にて、ソフトウェアエンジニアをしている豊田（@helloyuki_）です。また、Rust 領域における Next Experts も務めています。 先日、CA BASE NEXT という CyberAgent が開催する20代向けが中心のカンファレンス[^1]に、私も一応20代ということで登壇させていただ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブコメに偽りはなく、私は病院勤務です。 「オリパラ関係」のために複数病..]]></title>
         <id>https://anond.hatelabo.jp/20210805175045</id>
@@ -126,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[給与が低いの，「貴方の価値はこのぐらい」というより「我が社は貴方を使ってもこれぐらいの価値しか創出できません」とみたほうがいい - Togetter]]></title>
-        <id>https://togetter.com/li/1754943</id>
-        <link href="https://togetter.com/li/1754943"/>
-        <updated>2021-08-05T03:26:22.000Z</updated>
-        <summary type="html"><![CDATA[こくたん @cocu_tan 出せる給与が低いの，「あなたの価値はこのぐらいです」というより「わたしの会社はあなたを使ってもこれぐらいの価値しか創出できません」とみたほうがいいと思ってる 2021-08-03 18:39:27]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[厚労相、入院制限の撤回応ぜず　「医療、無尽蔵でない」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP853V2LP85UTFK005.html</id>
         <link href="https://www.asahi.com/articles/ASP853V2LP85UTFK005.html"/>
@@ -231,36 +261,6 @@
         <link href="https://privatter.net/p/7752778"/>
         <updated>2021-08-05T00:46:09.000Z</updated>
         <summary type="html"><![CDATA[文章が得意ではないので読みにくいと思います。申し訳ございません。 私は航空会社の地上係員です。これから書くのは「kiwi.com」というオンライン旅行予約サイトについてです。一言でいうと詐欺サイトです。利用は絶対にお勧めしません。 初めて航空券詐欺被害者の対応をしたのは7月の中旬でした。 カウンターに来られ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今井 智文 on Twitter: "信頼が失墜しているのを「マスコミのせいだー」というのは自由ですが、マスコミには失墜した信頼をうまいこと回復させる能力はありませんので、関係する人たちが自分で信頼回復に取り組むしかありません。"]]></title>
-        <id>https://twitter.com/imaicn21/status/1422940854524669958</id>
-        <link href="https://twitter.com/imaicn21/status/1422940854524669958"/>
-        <updated>2021-08-04T23:54:56.000Z</updated>
-        <summary type="html"><![CDATA[信頼が失墜しているのを「マスコミのせいだー」というのは自由ですが、マスコミには失墜した信頼をうまいこと回復させる能力はありませんので、関係する人たちが自分で信頼回復に取り組むしかありません。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊藤美誠に“妨害”ライト、韓国メディア犯人説が流布するも、ようやくわかった真相（デイリー新潮） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/4dbdb059a9c1eefa034850eb1ff3b628f2d835a6</id>
-        <link href="https://news.yahoo.co.jp/articles/4dbdb059a9c1eefa034850eb1ff3b628f2d835a6"/>
-        <updated>2021-08-04T23:34:47.000Z</updated>
-        <summary type="html"><![CDATA[その“事件”は7月28日に起こった。卓球女子シングルス準々決勝に臨んだ伊藤美誠（20）が、第四セット序盤に審判にジェスチャーでアピールし、取材陣のカメラライトが眩しいと訴えたのだ。結果は伊藤の勝利だったものの、対戦相手の田志希（チョン・ジヒ、28）が韓国の選手だっただけに、件のライトは韓国メディアの妨害工...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インドネシア コロナの死者10万人超える 自宅療養中の死亡多く | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210805/k10013182081000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210805/k10013182081000.html"/>
-        <updated>2021-08-04T21:17:54.000Z</updated>
-        <summary type="html"><![CDATA[先月から新型コロナウイルスの感染が急拡大しているインドネシアでは、感染して死亡した人が10万人を超えました。自宅で療養している間に亡くなる人が多いことから、政府は、医療を提供する臨時の隔離施設の設置を急ぐなど対応に追われています。 インドネシアでは感染力が強い変異ウイルス「デルタ株」による感染が拡大...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

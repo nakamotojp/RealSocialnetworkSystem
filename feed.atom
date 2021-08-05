@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-05T07:10:59.158Z</id>
+    <id>urn:2021-08-05T08:13:41.940Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T07:10:59.158Z</updated>
+    <updated>2021-08-05T08:13:41.940Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 過去最多の5042人感染確認 5000人超は初 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210805/k10013183161000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210805/k10013183161000.html"/>
+        <updated>2021-08-05T06:56:05.000Z</updated>
+        <summary type="html"><![CDATA[東京都は5日、都内で新たに5042人が新型コロナウイルスに感染していることを確認したと発表しました。 1日の発表としては初めて5000人を超えました。 また、4日の4166人を上回りこれまでで最も多くなりました。過去最多を更新するのは2日連続です。 1週間前の木曜日から1177人増えていて、感染の急激な拡大が止まりませ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタル庁事務方トップに伊藤穰一氏　政府最終調整｜テレ朝news-テレビ朝日のニュースサイト]]></title>
         <id>https://news.tv-asahi.co.jp/news_economy/articles/000224626.html</id>
@@ -236,6 +246,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2ヶ月後に「日本初の女性総理（100代目）」が誕生する]]></title>
+        <id>https://anond.hatelabo.jp/20210804220909</id>
+        <link href="https://anond.hatelabo.jp/20210804220909"/>
+        <updated>2021-08-04T13:24:35.000Z</updated>
+        <summary type="html"><![CDATA[2ヶ月後に日本が大きく変わる。 9月末で自民党総裁任期が満了する。 菅・無投票再選の流れは都議選で終わった。 秋の衆院選で自民党大敗を防ぐために、総裁を変える声が党内で出ている。 しかし世間で人気のある議員（石破・河野・小泉・野田）は党内支持が弱く、特に各派閥の領袖と安倍が推せる候補ではない。 石破はめ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[マック、スタバのコロナ公開情報でグラフ作成→第５波のえぐさ可視化　「マックは世の中の指標」「感染力すさまじい」　｜まいどなニュース]]></title>
         <id>https://maidonanews.jp/article/14410786</id>
         <link href="https://maidonanews.jp/article/14410786"/>
@@ -281,26 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210801171826"/>
         <updated>2021-08-04T08:54:32.000Z</updated>
         <summary type="html"><![CDATA[思いついたから書いてみました。記憶をもとに書いているので間違いがあるかもしれない。 1巻　テルマエロマエ（ヤマザキマリ） 2巻　ヘルシング（平野耕太） 3巻　僕といっしょ（古谷実） 4巻　ジャイアント（山田芳裕） 5巻　デビルマン（永井豪） 6巻　チェンソーマン（藤本タツキ） 7巻　名探偵コナン（青山剛昌） 8...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般人に戻ると「五輪は中止すべき」と感じた　元バスケ代表の戸惑い - 一般スポーツ,テニス,バスケット,ラグビー,アメフット,格闘技,陸上 [バスケットボール]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP825DZ1P7YUTQP034.html</id>
-        <link href="https://www.asahi.com/articles/ASP825DZ1P7YUTQP034.html"/>
-        <updated>2021-08-04T08:49:25.000Z</updated>
-        <summary type="html"><![CDATA[6月、バスケットボール女子元日本代表の大崎佑圭（31）のもとに、母校の東京成徳高から講演依頼があった。新型コロナウイルスの影響で、生徒たちが東京オリンピック（五輪）にネガティブな印象を持っている。本来の素晴らしさも知ってほしいから、過去の体験を話して欲しい。そんな趣旨だった。 2016年リオデジャネイロ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民過半数割れ、立憲伸び悩み、維新3倍増、衆院選289全選挙区予測 | 週刊文春 電子版]]></title>
-        <id>https://bunshun.jp/denshiban/articles/b1462?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=socialLink</id>
-        <link href="https://bunshun.jp/denshiban/articles/b1462?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=socialLink"/>
-        <updated>2021-08-04T07:30:56.000Z</updated>
-        <summary type="html"><![CDATA[菅首相が「総裁任期を踏まえ、判断する」と語る解散総選挙。感染拡大で政権に逆風が吹いている中、自民党は踏み留まることができるのか。あの疑惑大臣や不祥事議員、注目選挙区の当落は？ どこよりも詳しい完全予測！ （くぼた まさし　政治広報システム研究所代表） 「開会式は過去最高に近い視聴率だった。柔道もかな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

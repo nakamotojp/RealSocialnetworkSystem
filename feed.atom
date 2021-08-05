@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-05T01:53:48.552Z</id>
+    <id>urn:2021-08-05T02:22:51.859Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T01:53:48.552Z</updated>
+    <updated>2021-08-05T02:22:51.859Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://twitter.com/CircOkra/status/1422658737873973250"/>
         <updated>2021-08-04T20:20:16.000Z</updated>
         <summary type="html"><![CDATA[自民党以外に一度政権を任せてみようと思うのは完璧に更に経済が破綻するのでよした方が良い　自民党にも問題はあるしかし悪夢の民主党政権を経験した日本人は忘れてはならない民主党政権では株価は半値以下になるし円高も異次元になる安倍さんが株… https://t.co/kfRed79Qrg]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガイチ on Twitter: "川崎は、検査数が異様に少ない。川崎市の防疫担当の方針が完全に狂ってるから、こういうことになるんだろう。市内に大病院を複数抱えていながら、医療現場は機能不全直前まで追い詰められている。その川崎で防疫の中枢担ってる人が、首相にアドバイ… https://t.co/xEmbTrno2C"]]></title>
+        <id>https://twitter.com/gaitifuji/status/1422563744928784387</id>
+        <link href="https://twitter.com/gaitifuji/status/1422563744928784387"/>
+        <updated>2021-08-04T19:43:30.000Z</updated>
+        <summary type="html"><![CDATA[川崎は、検査数が異様に少ない。川崎市の防疫担当の方針が完全に狂ってるから、こういうことになるんだろう。市内に大病院を複数抱えていながら、医療現場は機能不全直前まで追い詰められている。その川崎で防疫の中枢担ってる人が、首相にアドバイ… https://t.co/xEmbTrno2C]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,11 +126,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RustではじめるWebAssembly入門～JavaScriptを超える高速なWebアプリ開発を実践しよう (1/2)：CodeZine（コードジン）]]></title>
-        <id>https://codezine.jp/article/detail/14567</id>
-        <link href="https://codezine.jp/article/detail/14567"/>
-        <updated>2021-08-04T12:21:45.000Z</updated>
-        <summary type="html"><![CDATA[本連載では、Webブラウザー上でJavaScriptとともに動作できるバイナリ形式のプログラムファイル「WebAssembly」を、Rustプログラミング言語で実装する方法について、順を追って説明していきます。初回となる今回は、WebAssemblyの概要を説明するとともに、Rustを利用した簡単なサンプルで、実装方法のイメージを紹介しま...]]></summary>
+        <title type="html"><![CDATA[マック、スタバのコロナ公開情報でグラフ作成→第５波のえぐさ可視化　「マックは世の中の指標」「感染力すさまじい」　｜まいどなニュース]]></title>
+        <id>https://maidonanews.jp/article/14410786</id>
+        <link href="https://maidonanews.jp/article/14410786"/>
+        <updated>2021-08-04T12:35:58.000Z</updated>
+        <summary type="html"><![CDATA[東京都内のマクドナルド店舗(Tupungato/stock.adobe.com) 新型コロナウイルスの感染者数が公的機関から毎日発表される中、マクドナルドとスターバックスの店舗における感染報告をもとにしたグラフが注目されています。コ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://bunshun.jp/denshiban/articles/b1462?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=socialLink"/>
         <updated>2021-08-04T07:30:56.000Z</updated>
         <summary type="html"><![CDATA[菅首相が「総裁任期を踏まえ、判断する」と語る解散総選挙。感染拡大で政権に逆風が吹いている中、自民党は踏み留まることができるのか。あの疑惑大臣や不祥事議員、注目選挙区の当落は？ どこよりも詳しい完全予測！ （くぼた まさし　政治広報システム研究所代表） 「開会式は過去最高に近い視聴率だった。柔道もかな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[資料入手　東京五輪閉会式で「天皇も参加する〇×クイズ」演出案 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47697</id>
-        <link href="https://bunshun.jp/articles/-/47697"/>
-        <updated>2021-08-04T07:27:02.000Z</updated>
-        <summary type="html"><![CDATA[資料の表題は、〈TOKYO2020 OLYMPIC GAMES　CLOSING CEREMONY PLAN〉。昨年10月27日付で、全97ページ。東京都の小池百合子知事へのプレゼンテーション用にまとめられたものだ。 資料の31ページ目には、次のような記述がある。 〈VIPも天皇陛下も参加する〉 参考として貼り付けられているのは、往年の日本テレビの人気番...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

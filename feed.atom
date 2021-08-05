@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-05T11:09:44.489Z</id>
+    <id>urn:2021-08-05T12:19:15.532Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T11:09:44.489Z</updated>
+    <updated>2021-08-05T12:19:15.532Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://anond.hatelabo.jp/20210805175045"/>
         <updated>2021-08-05T09:03:55.000Z</updated>
         <summary type="html"><![CDATA[ブコメに偽りはなく、私は病院勤務です。 「オリパラ関係」のために複数病院で連携して体制を組んでおり、 軽症、中等症、重症ごとに受入れ病院が決まっていて、適切な病院に振り分けられます。 救急隊からは、オリパラ関係だと分かるための特殊な合図が送られます（これはさすがに言えません）。 他にも医師を現地に派...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台風10号と11号が発生 10号は3連休中 東日本接近のおそれ | 台風 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210805/k10013183391000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210805/k10013183391000.html"/>
+        <updated>2021-08-05T08:15:24.000Z</updated>
+        <summary type="html"><![CDATA[5日午後、那覇市の北東で台風10号が発生しました。沖縄本島地方では非常に激しい雨のほか強風や高波に注意が必要です。3連休の期間中、東日本に近づくおそれがあり最新の情報に注意するよう呼びかけています。一方、日本の東では台風11号が発生し、気象庁は付近を通る船舶に警戒を呼びかけています。 気象庁の観測により...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,11 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五輪マラソン、暑さ誤算　札幌15日連続真夏日　東京超えの日も | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210804/k00/00m/050/388000c</id>
-        <link href="https://mainichi.jp/articles/20210804/k00/00m/050/388000c"/>
-        <updated>2021-08-04T15:45:12.000Z</updated>
-        <summary type="html"><![CDATA[五輪競歩のリハーサルが行われた札幌駅前通。直前の降雨で街頭の温度計は27度に下がっていた＝札幌市中央区で2021年8月4日午後4時半、貝塚太一撮影 東京オリンピックのマラソンと競歩が5～8日に開催される札幌市で、記録的な暑さが続いている。4日の最高気温は33・1度となり、15日連続で30度以上の真夏日となった。これ...]]></summary>
+        <title type="html"><![CDATA[自衛隊 東京大規模接種センター（東京センター）の予約が無理ゲーなので攻略法を書く(2021/08/02動作確認版)]]></title>
+        <id>https://fukuyuki.github.io/</id>
+        <link href="https://fukuyuki.github.io/"/>
+        <updated>2021-08-04T16:20:45.000Z</updated>
+        <summary type="html"><![CDATA[概要 3-6日に一度、 東京自衛隊集団接種ワクチン会場では予約が18時から始まります。しかし一部の人にとっては予約が難しいのでその方法を書きます。攻略法は「たけしの挑戦状」の 宝の地図と同じです。サイトの仕様は適宜変わる。CAPTCHAでbot対策はされているので、多少のエンジニアでも人力で挑む方が良い。 つぎは、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://knqyf263.hatenablog.com/entry/2021/08/04/211903"/>
         <updated>2021-08-04T14:15:29.000Z</updated>
         <summary type="html"><![CDATA[周りを見ていると何の苦もなく英語社会に適応しているわけですが、日々苦しんでいる人の奮闘記があっても良いのではないかと思って書きました。残念なエピソードを晒すことで実は自分もこうやって乗り切ってましたという人が現れお互いに助け合えることを期待しています。 概要 前提 バッドノウハウ 質問編 聞き取れなか...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共産 志位委員長 “医療ひっ迫は菅政権が招いた人災” | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210804/k10013181981000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210804/k10013181981000.html"/>
-        <updated>2021-08-04T14:02:54.000Z</updated>
-        <summary type="html"><![CDATA[政府の新型コロナウイルス対策をめぐり、共産党の志位委員長は東京都内での講演で、今の医療のひっ迫は菅政権の失政が招いた人災だと批判しました。 この中で志位委員長は、政府の新型コロナウイルス対策について「感染が全国に急拡大し、各地で医療がひっ迫している現状は、対策を怠った菅政権の失政がもたらした深刻な...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

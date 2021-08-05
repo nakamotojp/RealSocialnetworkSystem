@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-05T12:19:15.532Z</id>
+    <id>urn:2021-08-05T13:20:52.411Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T12:19:15.532Z</updated>
+    <updated>2021-08-05T13:20:52.411Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.asahi.com/articles/ASP854GXJP82UTIL00R.html"/>
         <updated>2021-08-05T08:14:41.000Z</updated>
         <summary type="html"><![CDATA[4月に放送開始予定だったテレビアニメ「東京BABYLON（バビロン）　2021」の制作費用が支払われていないとして、下請け制作会社が講談社系のキングレコード（東京）に未払い分計約4億5千万円の支払いを求め、東京地裁に提訴した。この作品をめぐっては、キャラクターデザインの模写が指摘され、3月に放送が取りやめになっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8割おじさん「8月に新規感染者5千人超」は誇大な数字か　グルメサイトの密告制度の問題も | デイリー新潮]]></title>
+        <id>https://www.dailyshincho.jp/article/2021/08050557/?all=1</id>
+        <link href="https://www.dailyshincho.jp/article/2021/08050557/?all=1"/>
+        <updated>2021-08-05T08:13:28.000Z</updated>
+        <summary type="html"><![CDATA[ワクチン接種が進み、規制を次々に解除した国がある一方、わが国は誇大な感染者増を予想して市井の恐怖を煽っている。専門家はそれが仕事でも、政府が丸呑みにしてどうするのか。我々にできるのは惑わされず、ワクチンを正しく理解し、冷静でいることである。 ＊＊＊ 【写真5枚】この記事の写真を見る 7月25日までの4連...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://fukuyuki.github.io/"/>
         <updated>2021-08-04T16:20:45.000Z</updated>
         <summary type="html"><![CDATA[概要 3-6日に一度、 東京自衛隊集団接種ワクチン会場では予約が18時から始まります。しかし一部の人にとっては予約が難しいのでその方法を書きます。攻略法は「たけしの挑戦状」の 宝の地図と同じです。サイトの仕様は適宜変わる。CAPTCHAでbot対策はされているので、多少のエンジニアでも人力で挑む方が良い。 つぎは、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倉持仁 on Twitter: "こんな大ごとになるとは思ってもいませんでしたし、政権批判のつもりもありません。ただ、自分たちや患者さんを死地に追いやるような事は絶対に許しません。多くの方も思い感じている事を話しただけなので、絶対に撤回しません。 https://t.co/i1iBXmSFpZ"]]></title>
-        <id>https://twitter.com/kuramochijin/status/1422917184464953349</id>
-        <link href="https://twitter.com/kuramochijin/status/1422917184464953349"/>
-        <updated>2021-08-04T14:39:44.000Z</updated>
-        <summary type="html"><![CDATA[こんな大ごとになるとは思ってもいませんでしたし、政権批判のつもりもありません。ただ、自分たちや患者さんを死地に追いやるような事は絶対に許しません。多くの方も思い感じている事を話しただけなので、絶対に撤回しません。 https://t.co/i1iBXmSFpZ]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

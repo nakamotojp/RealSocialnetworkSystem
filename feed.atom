@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-05T19:09:31.336Z</id>
+    <id>urn:2021-08-05T20:12:40.486Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-05T19:09:31.336Z</updated>
+    <updated>2021-08-05T20:12:40.486Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://nordot.app/796002880684818432"/>
         <updated>2021-08-05T13:18:36.000Z</updated>
         <summary type="html"><![CDATA[名古屋市は5日、サッカーJ1名古屋と6日に開催予定だった連携協定締結式を中止すると発表した。河村たかし市長が東京五輪ソフトボール選手の金メダルをかじり、批判が殺到していることを考慮した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平原綾香さんの「 Jupiter 」が、世界で一番嫌い]]></title>
+        <id>https://anond.hatelabo.jp/20210729101715</id>
+        <link href="https://anond.hatelabo.jp/20210729101715"/>
+        <updated>2021-08-05T12:23:22.000Z</updated>
+        <summary type="html"><![CDATA[私は平原綾香さんの「 Jupiter 」という曲が、世界で一番嫌いな曲だ。 この曲だけは生み出されたこと自体が罪だと思っている。 なんでかというと、平原綾香さんが歌詞をつけたせいで、ホルストの名曲が「 Jupiter 」になってしまうからだ。 この曲が発売された当時、私は小学生で、やたらと流行していたのを記憶している...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -71,6 +81,16 @@
         <link href="https://mainichi.jp/articles/20210805/k00/00m/040/320000c"/>
         <updated>2021-08-05T10:22:56.000Z</updated>
         <summary type="html"><![CDATA[警察庁は5日、2020年1月から21年6月までの1年半に自宅で容体が急変して死亡し、全国の警察が変死などとして取り扱った人のうち、計443人から新型コロナウイルスの感染が確認されたと明らかにした。立憲民主党の会合で明らかにした。 自宅や路上など医療機関以外で体調が悪化して死亡した人のうち、コロナの感染が確認さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪の影響で…？NHKから8月6日の「原爆特番」がなくなる。地上波で43年ぶり【コメント更新】]]></title>
+        <id>https://www.buzzfeed.com/jp/kotahatachi/nhk-0806</id>
+        <link href="https://www.buzzfeed.com/jp/kotahatachi/nhk-0806"/>
+        <updated>2021-08-05T10:19:02.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の影響で…？NHKから8月6日の「原爆特番」がなくなる。地上波で43年ぶり【コメント更新】NHKは1979年以降の例年8月6日に必ず総合チャンネルで、原爆や核兵器、戦争に関する発信を続けてきた。いずれも、「平和記念式典」の中継やニュースとは異なり、ドキュメンタリー番組やドラマなどの特集枠を用いたものだ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“爆発的感染拡大 2週間後には1万人超も” 都モニタリング会議 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210805/k10013182971000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210805/k10013182971000.html"/>
-        <updated>2021-08-05T06:23:17.000Z</updated>
-        <summary type="html"><![CDATA[東京都のモニタリング会議で、専門家は「経験したことのない爆発的な感染拡大が進行している」としたうえで、今の増加ペースが続けば2週間後には新規陽性者の7日間平均が1万人を超えるおそれがあるという予測を示しました。また「入院患者や自宅療養者が急増していて医療提供体制がひっ迫している」として、緊急時の体制...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NTT 東日本 - IPA 「シン・テレワークシステム」 - 2021/08/05 HTML5 版 Web クライアントの公開について]]></title>
         <id>https://telework.cyber.ipa.go.jp/news/20210805/</id>
         <link href="https://telework.cyber.ipa.go.jp/news/20210805/"/>
@@ -246,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dr. Tad on Twitter: "「眼鏡をかけているCOVID-19入院患者の割合は一般集団よりも少なく、毎日眼鏡をかけている人はCOVID-19の影響を受けにくいことが示唆された」 目は重要な侵入経路であり、客と近距離で接さざるを得ない職業はフェイスシールド等も… https://t.co/iMxI6mG0rv"]]></title>
-        <id>https://twitter.com/tak53381102/status/1422901272533889027</id>
-        <link href="https://twitter.com/tak53381102/status/1422901272533889027"/>
-        <updated>2021-08-05T01:35:13.000Z</updated>
-        <summary type="html"><![CDATA[「眼鏡をかけているCOVID-19入院患者の割合は一般集団よりも少なく、毎日眼鏡をかけている人はCOVID-19の影響を受けにくいことが示唆された」 目は重要な侵入経路であり、客と近距離で接さざるを得ない職業はフェイスシールド等も… https://t.co/iMxI6mG0rv]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[この3年で4回の著作権法改正、いったいどこがどう変わったのか　忘れられがちな改正内容を整理する（1/3 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/05/news073.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/05/news073.html"/>
@@ -286,21 +286,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英語ミーティングを乗り切るために身につけたバッドノウハウ - knqyf263's blog]]></title>
-        <id>https://knqyf263.hatenablog.com/entry/2021/08/04/211903</id>
-        <link href="https://knqyf263.hatenablog.com/entry/2021/08/04/211903"/>
-        <updated>2021-08-04T14:15:29.000Z</updated>
-        <summary type="html"><![CDATA[周りを見ていると何の苦もなく英語社会に適応しているわけですが、日々苦しんでいる人の奮闘記があっても良いのではないかと思って書きました。残念なエピソードを晒すことで実は自分もこうやって乗り切ってましたという人が現れお互いに助け合えることを期待しています。 概要 前提 バッドノウハウ 質問編 聞き取れなか...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2ヶ月後に「日本初の女性総理（100代目）」が誕生する]]></title>
         <id>https://anond.hatelabo.jp/20210804220909</id>
         <link href="https://anond.hatelabo.jp/20210804220909"/>
         <updated>2021-08-04T13:24:35.000Z</updated>
         <summary type="html"><![CDATA[2ヶ月後に日本が大きく変わる。 9月末で自民党総裁任期が満了する。 菅・無投票再選の流れは都議選で終わった。 秋の衆院選で自民党大敗を防ぐために、総裁を変える声が党内で出ている。 しかし世間で人気のある議員（石破・河野・小泉・野田）は党内支持が弱く、特に各派閥の領袖と安倍が推せる候補ではない。 石破はめ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haruhiko Okumura on Twitter: "今日発売の週刊新潮 https://t.co/it6AwVrebW"]]></title>
+        <id>https://twitter.com/h_okumura/status/1420654995788029952</id>
+        <link href="https://twitter.com/h_okumura/status/1420654995788029952"/>
+        <updated>2021-07-29T11:25:25.000Z</updated>
+        <summary type="html"><![CDATA[今日発売の週刊新潮 https://t.co/it6AwVrebW]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

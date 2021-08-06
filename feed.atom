@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T05:10:27.961Z</id>
+    <id>urn:2021-08-06T06:15:09.274Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T05:10:27.961Z</updated>
+    <updated>2021-08-06T06:15:09.274Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CNN.co.jp : ワクチン接種後もウイルス拡散させる可能性、「もはや感染予防できない」　米ＣＤＣ]]></title>
+        <id>https://www.cnn.co.jp/usa/35174910.html</id>
+        <link href="https://www.cnn.co.jp/usa/35174910.html"/>
+        <updated>2021-08-06T03:25:23.000Z</updated>
+        <summary type="html"><![CDATA[地域医療センターの治療テントで従事する看護師＝米フロリダ州メルボルン/Paul Hennessy/SOPA Images/LightRocket via Getty Images （ＣＮＮ） 米疾病対策センター（ＣＤＣ）のロシェル・ワレンスキー所長は５日、新型コロナウイルスのワクチンについて、接種を完了した人でもウイルスを人に感染させることがあるとの見...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京オリンピックの競技中に映り込んだ「実物大ガンダム」の説明に海外メディアが苦戦 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210806-bbc-olympic-gundam-transformer/</id>
+        <link href="https://gigazine.net/news/20210806-bbc-olympic-gundam-transformer/"/>
+        <updated>2021-08-06T03:12:04.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月から開催されている「東京2020オリンピック」は、新型コロナウイルスの影響で無観客開催となりましたが、競技の様子は世界中に配信されています。そんな中、競技の背景に映り込んだ「ガンダム」の説明にイギリスの公共放送であるBBCなどが苦戦していると、海外メディアが報じています。 Tokyo 2020 Olympics Co...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ワクチン接種・マスク着用」を批判していた 米共和党幹部…新型コロナにより「死亡」（WoW!Korea） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/f512c50c491bb789190aa1a9258d70d6a7ac9a0c</id>
         <link href="https://news.yahoo.co.jp/articles/f512c50c491bb789190aa1a9258d70d6a7ac9a0c"/>
         <updated>2021-08-06T02:57:54.000Z</updated>
         <summary type="html"><![CDATA[新型コロナワクチン接種とマスク着用を批判してきた 米テキサス州の共和党幹部が、新型コロナにより死亡した（画像提供：wowkorea） 新型コロナウイルス感染症ワクチン接種とマスク着用に対して見下し批判してきた 米テキサス州の共和党幹部が、新型コロナにより死亡した。 【写真】もっと大きな写真を見る 5日（現地時...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪「感染拡大につながっていない」と首相 ｜ 共同通信]]></title>
+        <id>https://nordot.app/796200504697094144</id>
+        <link href="https://nordot.app/796200504697094144"/>
+        <updated>2021-08-06T02:34:52.000Z</updated>
+        <summary type="html"><![CDATA[菅首相は、新型コロナウイルス新規感染者数の急拡大について「国民の人流は五輪前から増えておらず、五輪が感染拡大につながっているという考え方はしていない」と述べた。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,16 +121,6 @@
         <link href="https://piyolog.hatenadiary.jp/entry/2021/08/06/063000"/>
         <updated>2021-08-05T21:38:55.000Z</updated>
         <summary type="html"><![CDATA[2021年7月28日、エストニア国家情報システム庁（RIA）、警察・国境警備局は国が運営するシステムから顔写真データの違法なダウンロードが行われたことを公表しました。警察は既に容疑者を摘発しており既に刑事手続きに入っていることも併せて公表されています。ここでは関連する情報をまとめます。 顔写真流出による発行...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫画家サトウサンペイさん死去、91歳　「フジ三太郎」：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP857JNSP85UCLV00N.html</id>
-        <link href="https://www.asahi.com/articles/ASP857JNSP85UCLV00N.html"/>
-        <updated>2021-08-05T21:38:13.000Z</updated>
-        <summary type="html"><![CDATA[朝日新聞に26年以上にわたって連載した漫画「フジ三太郎」で広く親しまれた漫画家のサトウサンペイ（さとう・さんぺい、本名・佐藤幸一=さとう・ゆきかず）さんが、7月31日、誤嚥（ごえん）性肺炎で死去した。91歳だった。葬儀は近親者で営んだ。 1929年、名古屋市で生まれ、大阪で育つ。京都工業専門学校（現・京都工芸...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,26 +251,6 @@
         <link href="https://anond.hatelabo.jp/20210729101715"/>
         <updated>2021-08-05T12:23:22.000Z</updated>
         <summary type="html"><![CDATA[私は平原綾香さんの「 Jupiter 」という曲が、世界で一番嫌いな曲だ。 この曲だけは生み出されたこと自体が罪だと思っている。 なんでかというと、平原綾香さんが歌詞をつけたせいで、ホルストの名曲が「 Jupiter 」になってしまうからだ。 この曲が発売された当時、私は小学生で、やたらと流行していたのを記憶している...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市早苗前総務相が自民総裁選出馬意向 ｜ 共同通信]]></title>
-        <id>https://nordot.app/795987093031895040</id>
-        <link href="https://nordot.app/795987093031895040"/>
-        <updated>2021-08-05T12:12:26.000Z</updated>
-        <summary type="html"><![CDATA[自民党の高市早苗前総務相が近く発売の月刊誌「文芸春秋」で、9月末の菅義偉首相の総裁任期満了に伴う総裁選に出馬する意向を明らかにしていることが5日、分かった。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「跡は付いとらん」が…金メダルかじり　河村市長が謝罪 - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP856HPXP85OIPE020.html</id>
-        <link href="https://www.asahi.com/articles/ASP856HPXP85OIPE020.html"/>
-        <updated>2021-08-05T11:07:56.000Z</updated>
-        <summary type="html"><![CDATA[河村たかし・名古屋市長は5日、東京五輪ソフトボールで金メダルを獲得した後藤希友投手（20）の表敬訪問を4日に受けた際に金メダルをかじったことについて、「宝物を汚してしまい、配慮が足りなかった。コロナ禍にも不適切な行為だった」と謝罪した。 河村氏は会見で、高校時代にバドミントン部だったとした上で「金メダ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

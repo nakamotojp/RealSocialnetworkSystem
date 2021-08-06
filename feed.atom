@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T04:15:46.867Z</id>
+    <id>urn:2021-08-06T05:10:27.961Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T04:15:46.867Z</updated>
+    <updated>2021-08-06T05:10:27.961Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「ワクチン接種・マスク着用」を批判していた 米共和党幹部…新型コロナにより「死亡」（WoW!Korea） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/f512c50c491bb789190aa1a9258d70d6a7ac9a0c</id>
+        <link href="https://news.yahoo.co.jp/articles/f512c50c491bb789190aa1a9258d70d6a7ac9a0c"/>
+        <updated>2021-08-06T02:57:54.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナワクチン接種とマスク着用を批判してきた 米テキサス州の共和党幹部が、新型コロナにより死亡した（画像提供：wowkorea） 新型コロナウイルス感染症ワクチン接種とマスク着用に対して見下し批判してきた 米テキサス州の共和党幹部が、新型コロナにより死亡した。 【写真】もっと大きな写真を見る 5日（現地時...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原爆忌あいさつ読み飛ばし　「核なき世界へ…」菅首相陳謝：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021080600334&amp;g=pol</id>
@@ -116,11 +126,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ: モデルナ製ワクチン、6カ月有効90%超　冬前に追加必要: 日本経済新聞]]></title>
+        <title type="html"><![CDATA[新型コロナ: モデルナ「冬前に追加接種必要」　半年後から効果低下も: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOGN05DEN0V00C21A8000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOGN05DEN0V00C21A8000000/"/>
         <updated>2021-08-05T20:19:49.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=野村優子】米バイオ製薬モデルナは5日、新型コロナウイルスワクチンについて、2回目の接種から6カ月間は有効性が90%を上回るとのデータを公開した。も...]]></summary>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=野村優子】米バイオ製薬モデルナは5日、新型コロナウイルスのワクチンについて、有効性を維持するために3回目の追加接種（ブースター接種）が「冬のシ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,26 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8割おじさん「8月に新規感染者5千人超」は誇大な数字か　グルメサイトの密告制度の問題も | デイリー新潮]]></title>
-        <id>https://www.dailyshincho.jp/article/2021/08050557/?all=1</id>
-        <link href="https://www.dailyshincho.jp/article/2021/08050557/?all=1"/>
-        <updated>2021-08-05T08:13:28.000Z</updated>
-        <summary type="html"><![CDATA[ワクチン接種が進み、規制を次々に解除した国がある一方、わが国は誇大な感染者増を予想して市井の恐怖を煽っている。専門家はそれが仕事でも、政府が丸呑みにしてどうするのか。我々にできるのは惑わされず、ワクチンを正しく理解し、冷静でいることである。 ＊＊＊ 【写真5枚】この記事の写真を見る 7月25日までの4連...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTT 東日本 - IPA 「シン・テレワークシステム」 - 2021/08/05 HTML5 版 Web クライアントの公開について]]></title>
-        <id>https://telework.cyber.ipa.go.jp/news/20210805/</id>
-        <link href="https://telework.cyber.ipa.go.jp/news/20210805/"/>
-        <updated>2021-08-05T04:18:56.000Z</updated>
-        <summary type="html"><![CDATA[NTT 東日本 - IPA 「シン・テレワークシステム」 Beta 7 および HTML5 版 Web クライアントの公開について トップ | 2020/05/14 中間報告 | 2020/11/03 自治体テレワーク for LGWAN | 2021/08/05 HTML5 Web 版クライアント (Mac, Chromebook 対応) | バージョン履歴 | ダウンロード | ユーザー数グラフ 入門 - 今すぐ使...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自衛隊 東京大規模接種センター（東京センター）の予約が無理ゲーなので攻略法を書く(2021/08/02動作確認版)]]></title>
         <id>https://fukuyuki.github.io/</id>
         <link href="https://fukuyuki.github.io/"/>
@@ -301,6 +291,16 @@
         <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00138/080300853/"/>
         <updated>2021-08-04T10:31:47.000Z</updated>
         <summary type="html"><![CDATA[「競合企業が品質不正問題でつまずきました。御社にとっては受注拡大のチャンスではありませんか？」。ある自動車部品で品質データ偽装問題が発覚した。顧客である自動車メーカーから信頼を失うのは必至だ。そこで記者は、同じ自動車部品を造る競合部品メーカーに取材し、こうした質問をぶつけてみた。 「顧客の立場にな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リモートアジャイル開発のノウハウ集 第2版を公開しました]]></title>
+        <id>https://www.agile-studio.jp/post/remote-agile-know-how-2nd</id>
+        <link href="https://www.agile-studio.jp/post/remote-agile-know-how-2nd"/>
+        <updated>2021-08-02T05:59:11.000Z</updated>
+        <summary type="html"><![CDATA[第1版作成時点では以下の3種類に分けてノウハウを紹介しました。「全員リモート」のノウハウもありましたが、主にPOと開発者の拠点が東京-福井のように離れているケースを想定していました。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

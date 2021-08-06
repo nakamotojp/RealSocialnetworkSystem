@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T06:15:09.274Z</id>
+    <id>urn:2021-08-06T07:11:05.644Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T06:15:09.274Z</updated>
+    <updated>2021-08-06T07:11:05.644Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ: 職域接種の範囲どこまで　伊勢丹の感染、98%外部社員: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC061520W1A800C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC061520W1A800C2000000/"/>
+        <updated>2021-08-06T04:47:45.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら ワクチンの職域接種を進めていた百貨店など商業施設で新型コロナウイルスの感染者増加が止まらない。感染者が取引先の外部社員に偏っており、伊勢丹新宿本店（東京・新...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNN.co.jp : ワクチン接種後もウイルス拡散させる可能性、「もはや感染予防できない」　米ＣＤＣ]]></title>
         <id>https://www.cnn.co.jp/usa/35174910.html</id>
@@ -41,6 +51,16 @@
         <link href="https://nordot.app/796200504697094144"/>
         <updated>2021-08-06T02:34:52.000Z</updated>
         <summary type="html"><![CDATA[菅首相は、新型コロナウイルス新規感染者数の急拡大について「国民の人流は五輪前から増えておらず、五輪が感染拡大につながっているという考え方はしていない」と述べた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[優れたテスト容易性を実現するためのポイント - PrAha ENGINEER LAB]]></title>
+        <id>https://www.praha-inc.com/lab/posts/testability</id>
+        <link href="https://www.praha-inc.com/lab/posts/testability"/>
+        <updated>2021-08-06T02:18:16.000Z</updated>
+        <summary type="html"><![CDATA[主にWEB・ITエンジニア向けに設計アーキテクチャ、開発手法、テストなどの分野の技術記事を掲載した情報メディアです。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -151,26 +171,6 @@
         <link href="https://www.nikkei.com/article/DGXZQOGN05DEN0V00C21A8000000/"/>
         <updated>2021-08-05T20:19:49.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=野村優子】米バイオ製薬モデルナは5日、新型コロナウイルスのワクチンについて、有効性を維持するために3回目の追加接種（ブースター接種）が「冬のシ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バルセロナ、メッシ退団を電撃発表！「双方ともに契約を結ぶ意思があったが規定上できなかった」 | Goal.com]]></title>
-        <id>https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/messi-barcelona-liga-20210805/2dka0wugvjy91fxy7b5j7xe6y</id>
-        <link href="https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/messi-barcelona-liga-20210805/2dka0wugvjy91fxy7b5j7xe6y"/>
-        <updated>2021-08-05T19:06:31.000Z</updated>
-        <summary type="html"><![CDATA[バルセロナは5日、アルゼンチン代表FWリオネル・メッシ（34）が同クラブでプレーし続けることがないことを発表した。 バルセロナとメッシの契約は6月で終了していたが、両者は再契約を結ぶものと思われていた。しかし急転直下、バルセロナはメッシに対して別れを告げる声明を発表。理由としては、ラ・リーガのサラリーキ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中日・木下雄介投手死去　27歳　7月6日練習中に倒れ意識不明に　育成からはい上がった5年目右腕― スポニチ Sponichi Annex 野球]]></title>
-        <id>https://www.sponichi.co.jp/baseball/news/2021/08/06/kiji/20210806s00001173140000c.html</id>
-        <link href="https://www.sponichi.co.jp/baseball/news/2021/08/06/kiji/20210806s00001173140000c.html"/>
-        <updated>2021-08-05T18:19:04.000Z</updated>
-        <summary type="html"><![CDATA[中日・木下雄介投手死去　27歳　7月6日練習中に倒れ意識不明に　育成からはい上がった5年目右腕]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

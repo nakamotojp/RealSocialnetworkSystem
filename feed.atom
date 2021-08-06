@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T09:12:09.598Z</id>
+    <id>urn:2021-08-06T10:13:06.827Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T09:12:09.598Z</updated>
+    <updated>2021-08-06T10:13:06.827Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[神奈川県 新型コロナ 初の2000人超 過去最多の見通し | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[神奈川県 新型コロナ 5人死亡 過去最多の2082人感染確認 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210806/k10013185501000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210806/k10013185501000.html"/>
         <updated>2021-08-06T07:19:53.000Z</updated>

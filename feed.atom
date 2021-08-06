@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T16:18:46.960Z</id>
+    <id>urn:2021-08-06T17:18:42.992Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T16:18:46.960Z</updated>
+    <updated>2021-08-06T17:18:42.992Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[接種の２０～３０代、抽選で車や旅行券　群馬県知事表明 - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210806-ULDS5SHV3JLY7NMCHHKLQ5SKHU/</id>
+        <link href="https://www.sankei.com/article/20210806-ULDS5SHV3JLY7NMCHHKLQ5SKHU/"/>
+        <updated>2021-08-06T11:24:36.000Z</updated>
+        <summary type="html"><![CDATA[若者の接種促進へインセンティブについて説明する山本一太知事＝６日、県庁（柳原一哉撮影）群馬県は６日、新型コロナウイルスワクチン接種に慎重な２０～３０代を対象に、２回接種を終えれば抽選でＳＵＢＡＲＵ（スバル）のスポーツ用多目的車（ＳＵＶ）「ＸＶ」や旅行券を提供するインセンティブ（動機付け）を設ける...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「どけー！」撮影を邪魔された「撮り鉄」が罵声上げる動画拡散 - 弁護士ドットコム]]></title>
         <id>https://www.bengo4.com/c_23/n_13396/</id>
         <link href="https://www.bengo4.com/c_23/n_13396/"/>
@@ -81,6 +91,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210806/k10013186021000.html"/>
         <updated>2021-08-06T09:44:46.000Z</updated>
         <summary type="html"><![CDATA[7月に羽田空港の検疫所で新型コロナウイルスへの感染が確認された女性が、南米のペルーなどで報告されている変異ウイルスの「ラムダ株」に感染していたことが分かりました。国内でラムダ株が確認されたのは初めてです。 厚生労働省によりますと、7月20日のペルーから羽田空港に到着した30代の女性が、検疫所の検査で新型...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Visual Studio Code」に内蔵サーバーでWebアプリをプレビューできる拡張機能が登場 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1342881.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1342881.html"/>
+        <updated>2021-08-06T09:37:20.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは8月5日（現地時間）、コードエディター「Visual Studio Code」の2021年7月アップデート（v1.59）を正式リリースした。今月のリリースでは、拡張機能ビューが改善。サイドパネルのサイズを変更したとき、幅に応じてアイコンの大きさが変わるレスポンシブデザインが導入されたほか、マウスカーソルをホバーさせることで詳細な説明を閲覧できるようになるなど、さまざまな機能強化が施されている。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[優れたテスト容易性を実現するためのポイント - PrAha ENGINEER LAB]]></title>
-        <id>https://www.praha-inc.com/lab/posts/testability</id>
-        <link href="https://www.praha-inc.com/lab/posts/testability"/>
-        <updated>2021-08-06T02:18:16.000Z</updated>
-        <summary type="html"><![CDATA[主にWEB・ITエンジニア向けに設計アーキテクチャ、開発手法、テストなどの分野の技術記事を掲載した情報メディアです。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[原爆忌あいさつ読み飛ばし　「核なき世界へ…」菅首相陳謝：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021080600334&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021080600334&amp;g=pol"/>
@@ -271,16 +281,6 @@
         <link href="https://kumagi.hatenablog.com/entry/kodate-katta"/>
         <updated>2021-08-06T00:08:04.000Z</updated>
         <summary type="html"><![CDATA[買った戸建てに付けた表札、住所はぼかした プロローグ 新型コロナが世間を騒がせ始めて以来ずっと在宅勤務をしている。 転職に伴って会社近くに引っ越したので通勤のドアtoドアで30分台を叩き出していた好立地はその活躍の機会をすっかり失った一方で、妥協した40平米の部屋の狭さと1LDK+Sの間取りが巣ごもり子育て核家...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「サバサバ女」の漫画が百合だったら？という二次創作が盛り上がった結果、公式百合スピンオフが誕生 - Togetter]]></title>
-        <id>https://togetter.com/li/1755143</id>
-        <link href="https://togetter.com/li/1755143"/>
-        <updated>2021-08-05T14:05:37.000Z</updated>
-        <summary type="html"><![CDATA[rockwell @rockwell8536 サバ女こと「網浜奈美」さん、これでもかってくらいに「読者の皆様！この人嫌いになってくださいね〜！」って描き方されてるけど、俺の嫌いなサバサバ女とタイプが微妙に違ってそこまで憎めないのよね。 pic.twitter.com/bAY5gcMEJ7 2021-05-28 22:36:22]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

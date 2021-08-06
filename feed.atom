@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T18:14:30.940Z</id>
+    <id>urn:2021-08-06T19:09:33.863Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T18:14:30.940Z</updated>
+    <updated>2021-08-06T19:09:33.863Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[日本男子メダル届かず…ＭＦ田中碧「サッカーを知らなすぎる」 : スポーツ報知]]></title>
+        <id>https://hochi.news/articles/20210806-OHT1T51241.html</id>
+        <link href="https://hochi.news/articles/20210806-OHT1T51241.html"/>
+        <updated>2021-08-06T13:29:51.000Z</updated>
+        <summary type="html"><![CDATA[◆東京五輪　サッカー男子３位決定戦　日本１―３メキシコ（６日・埼玉スタジアム） ボランチで気の利いたプレーを見せてきたＭＦ田中碧も、今大会６試合目の出場となったメキシコ戦では疲労からか、ミスが見られた。セットプレーから３失点で敗戦。「勝って終わりたかったしメダルを取りたかった。悔しいなという一言と、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首相の読み飛ばし　原因は「原稿がのりでくっついてはがれず」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210806/k00/00m/010/462000c</id>
@@ -101,16 +111,6 @@
         <link href="https://forest.watch.impress.co.jp/docs/news/1342881.html"/>
         <updated>2021-08-06T09:37:20.000Z</updated>
         <summary type="html"><![CDATA[米Microsoftは8月5日（現地時間）、コードエディター「Visual Studio Code」の2021年7月アップデート（v1.59）を正式リリースした。今月のリリースでは、拡張機能ビューが改善。サイドパネルのサイズを変更したとき、幅に応じてアイコンの大きさが変わるレスポンシブデザインが導入されたほか、マウスカーソルをホバーさせることで詳細な説明を閲覧できるようになるなど、さまざまな機能強化が施されている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「河井事件」質問打ち切り　司会者、時間切れ理由に―首相会見：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021080600998&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021080600998&amp;g=pol"/>
-        <updated>2021-08-06T09:06:40.000Z</updated>
-        <summary type="html"><![CDATA[「河井事件」質問打ち切り　司会者、時間切れ理由に―首相会見 2021年08月06日17時34分 菅義偉首相が６日に広島市で行った記者会見で、司会役の同市職員が地元記者の質問を時間切れを理由に打ち切った。２０１９年参院選広島選挙区での河井克行元法相夫妻による大型買収事件について質問を予定していた。 司会を務めたの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

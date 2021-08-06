@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T11:09:54.083Z</id>
+    <id>urn:2021-08-06T12:19:20.604Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T11:09:54.083Z</updated>
+    <updated>2021-08-06T12:19:20.604Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[国内初 ペルーで確認「ラムダ株」羽田空港検疫 感染確認の女性 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210806/k10013186021000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210806/k10013186021000.html"/>
+        <updated>2021-08-06T09:44:46.000Z</updated>
+        <summary type="html"><![CDATA[7月に羽田空港の検疫所で新型コロナウイルスへの感染が確認された女性が、南米のペルーなどで報告されている変異ウイルスの「ラムダ株」に感染していたことが分かりました。国内でラムダ株が確認されたのは初めてです。 厚生労働省によりますと、7月20日のペルーから羽田空港に到着した30代の女性が、検疫所の検査で新型...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お土産求め秋葉原に五輪関係者続々「バブルなんて幻想」 - 東京オリンピック：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8653XDP86ULEI002.html</id>
@@ -16,11 +26,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[37歳主婦、海底から高2を救助　シンクロの経験生きる：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP865KFWP86TTHB006.html</id>
+        <link href="https://www.asahi.com/articles/ASP865KFWP86TTHB006.html"/>
+        <updated>2021-08-06T08:12:46.000Z</updated>
+        <summary type="html"><![CDATA[海水浴場で溺れた高校2年の男子生徒（17）を素潜りで引き揚げて救助したとして、福岡市東区の主婦、中山まゆこさん（37）に唐津海上保安部（佐賀県唐津市）が6日、感謝状を贈った。シンクロナイズド・スイミングとプールの監視員のアルバイトの経験が生きたという。 海保と中山さんによると、7月23日午前10時50分ごろ、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IOCバッハ会長 「コロナ対策すべてうまくいった」　都内で会見 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210806/k00/00m/050/248000c</id>
         <link href="https://mainichi.jp/articles/20210806/k00/00m/050/248000c"/>
         <updated>2021-08-06T07:52:10.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックのメインプレスセンターで記者会見するIOCのトーマス・バッハ会長＝東京都江東区で2021年8月6日、長谷川直亮撮影 国際オリンピック委員会（IOC）のトーマス・バッハ会長は6日、東京都内で記者会見し、コロナ禍での東京オリンピック開催について「コロナ対策はすべて効果的に、うまくいった」と強調した...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川“緊急性低い”手術など一時停止要請（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/8fb006769c7519e9e75fd8bc4f6c6a875e698678</id>
+        <link href="https://news.yahoo.co.jp/articles/8fb006769c7519e9e75fd8bc4f6c6a875e698678"/>
+        <updated>2021-08-06T07:50:17.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県の黒岩知事は、県内の感染者が急拡大していることから病床を確保するため緊急性の低い入院や手術を一時的に停止するよう病院に要請しました。 神奈川県では５日、過去最多となる１８４６人の新型コロナウイルスの感染が確認され、６日もこれを上回る感染者が確認される見通しです。 神奈川県の黒岩知事は、感染...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中日・木下雄介投手死去　27歳　7月6日練習中に倒れ意識不明に　育成からはい上がった5年目右腕（スポニチアネックス） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/55151c37f97bb03b7e20c22e803c175cd67effd9</id>
-        <link href="https://news.yahoo.co.jp/articles/55151c37f97bb03b7e20c22e803c175cd67effd9"/>
-        <updated>2021-08-05T18:18:17.000Z</updated>
-        <summary type="html"><![CDATA[7月6日の練習中に倒れて救急搬送されていた中日の木下雄介（きのした・ゆうすけ）投手（27）が死去していたことが5日、分かった。関係者によると、3日に亡くなったという。4年目の昨季にプロ初セーブを挙げ、さらなる飛躍を目指した今季は4月に右肩、右肘を手術。懸命にリハビリに励んでいたが、帰らぬ人となった。育成...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「児童・生徒に観戦してほしい」　パラ選手団長が千葉知事に要望（産経新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b</id>
         <link href="https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b"/>
@@ -266,31 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[またブクマカ達が負けて、ガースー自民党が勝ちそう]]></title>
-        <id>https://anond.hatelabo.jp/20210730114325</id>
-        <link href="https://anond.hatelabo.jp/20210730114325"/>
-        <updated>2021-08-05T13:07:08.000Z</updated>
-        <summary type="html"><![CDATA[感染者数4000人だけれども、報道ステーションやモーニングショーでさえ五輪で掌握されているし、別にオリンピックがなかろうと都民はそんなに危機感はないよ。 はてなーは神経症傾向が強い人が多いから騒いでいるけど、毎日6万とかそれぐらいの数字が出て、各種の入試が中止になったり交通機関が停止するレベルでないと...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[平原綾香さんの「 Jupiter 」が、世界で一番嫌い]]></title>
         <id>https://anond.hatelabo.jp/20210729101715</id>
         <link href="https://anond.hatelabo.jp/20210729101715"/>
         <updated>2021-08-05T12:23:22.000Z</updated>
         <summary type="html"><![CDATA[私は平原綾香さんの「 Jupiter 」という曲が、世界で一番嫌いな曲だ。 この曲だけは生み出されたこと自体が罪だと思っている。 なんでかというと、平原綾香さんが歌詞をつけたせいで、ホルストの名曲が「 Jupiter 」になってしまうからだ。 この曲が発売された当時、私は小学生で、やたらと流行していたのを記憶している...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高野秀行 『コロナ感染の歩き方』 その１ 体調異変からPCR検査、 陽性確認・自宅療養まで｜高野秀行辺境メルマガ｜note]]></title>
-        <id>https://note.com/henkyochannel/n/n8d03fbf5d344</id>
-        <link href="https://note.com/henkyochannel/n/n8d03fbf5d344"/>
-        <updated>2021-08-05T10:37:29.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T00:41:52.740Z</id>
+    <id>urn:2021-08-06T01:56:08.468Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T00:41:52.740Z</updated>
+    <updated>2021-08-06T01:56:08.468Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアエンジニア、建売を買う - Software Transactional Memo]]></title>
+        <id>https://kumagi.hatenablog.com/entry/kodate-katta</id>
+        <link href="https://kumagi.hatenablog.com/entry/kodate-katta"/>
+        <updated>2021-08-06T00:08:04.000Z</updated>
+        <summary type="html"><![CDATA[買った戸建てに付けた表札、住所はぼかした プロローグ 新型コロナが世間を騒がせ始めて以来ずっと在宅勤務をしている。 転職に伴って会社近くに引っ越したので通勤のドアtoドアで30分台を叩き出していた好立地はその活躍の機会をすっかり失った一方で、妥協した40平米の部屋の狭さと1LDK+Sの間取りが巣ごもり子育て核家...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ほぼ「密」、ビール片手大声で声援　札幌市で五輪競歩 - 東京オリンピック [陸上]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8573BFP85IIPE03D.html</id>
@@ -16,11 +26,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ひろゆき氏を論破した言語学者　在仏50年超の“F爺”小島剛一氏が語る日本人差別 | デイリー新潮]]></title>
+        <id>https://www.dailyshincho.jp/article/2021/08060600/</id>
+        <link href="https://www.dailyshincho.jp/article/2021/08060600/"/>
+        <updated>2021-08-05T22:38:43.000Z</updated>
+        <summary type="html"><![CDATA[「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転載を禁じます。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新型コロナウイルスは「中国から流出」と断定した、米報告書の「驚くべき内容」（長谷川 幸洋） | 現代ビジネス | 講談社（1/7）]]></title>
         <id>https://gendai.ismedia.jp/articles/-/85956</id>
         <link href="https://gendai.ismedia.jp/articles/-/85956"/>
         <updated>2021-08-05T22:13:48.000Z</updated>
         <summary type="html"><![CDATA[圧倒的な証拠が決め手となった 米下院外交委員会の共和党スタッフが「新型コロナウイルスは、中国の武漢ウイルス研究所から誤って流出した」と断定する報告書を発表した。この結論を導いたのは、衛星画像をはじめとする「圧倒的な量の証拠」だった。いったい、武漢で何があったのか。 同委員会の共和党スタッフは、マイ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エストニアで発生した顔写真データの違法ダウンロードについてまとめてみた - piyolog]]></title>
+        <id>https://piyolog.hatenadiary.jp/entry/2021/08/06/063000</id>
+        <link href="https://piyolog.hatenadiary.jp/entry/2021/08/06/063000"/>
+        <updated>2021-08-05T21:38:55.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月28日、エストニア国家情報システム庁（RIA）、警察・国境警備局は国が運営するシステムから顔写真データの違法なダウンロードが行われたことを公表しました。警察は既に容疑者を摘発しており既に刑事手続きに入っていることも併せて公表されています。ここでは関連する情報をまとめます。 顔写真流出による発行...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫画家サトウサンペイさん死去、91歳　「フジ三太郎」：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP857JNSP85UCLV00N.html</id>
+        <link href="https://www.asahi.com/articles/ASP857JNSP85UCLV00N.html"/>
+        <updated>2021-08-05T21:38:13.000Z</updated>
+        <summary type="html"><![CDATA[朝日新聞に26年以上にわたって連載した漫画「フジ三太郎」で広く親しまれた漫画家のサトウサンペイ（さとう・さんぺい、本名・佐藤幸一=さとう・ゆきかず）さんが、7月31日、誤嚥（ごえん）性肺炎で死去した。91歳だった。葬儀は近親者で営んだ。 1929年、名古屋市で生まれ、大阪で育つ。京都工業専門学校（現・京都工芸...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -86,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[厚労相「中等症も原則入院」　コロナ自宅療養、与党に修正文書提示 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210805/k00/00m/010/424000c</id>
+        <link href="https://mainichi.jp/articles/20210805/k00/00m/010/424000c"/>
+        <updated>2021-08-05T15:24:58.000Z</updated>
+        <summary type="html"><![CDATA[田村憲久厚生労働相は5日の参院厚労委員会の閉会中審査で、新型コロナウイルスの感染拡大に伴う入院対象者の見直し方針について、「中等症は原則入院。重症化リスクが低い人が在宅になる」と述べた。政府は同日、福島、茨城など計8県にまん延防止等重点措置を新たに適用することを決定したが、専門家からは全国を対象と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「児童・生徒に観戦してほしい」　パラ選手団長が千葉知事に要望（産経新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b</id>
         <link href="https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b"/>
@@ -101,26 +151,6 @@
         <link href="https://goldhead.hatenablog.com/entry/2021/08/05/230423"/>
         <updated>2021-08-05T14:07:23.000Z</updated>
         <summary type="html"><![CDATA[横浜の写真です 東京都 新型コロナ 過去最多の5042人感染確認 5000人超は初 | 新型コロナ 国内感染者数 | NHKニュース 東京都で一日の新型コロナウイルス感染者数が5,000人を超えた。 べつにウイルスにとって5,000という数字がどうということでもないし、検査数や陽性率を考えれば暗数というものもあって、実際の数では...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロボットアニメの監督たち]]></title>
-        <id>https://anond.hatelabo.jp/20210802150123</id>
-        <link href="https://anond.hatelabo.jp/20210802150123"/>
-        <updated>2021-08-05T13:18:42.000Z</updated>
-        <summary type="html"><![CDATA[各シリーズを作った本数順にまとめていく（他は順不同、敬称略） 富野監督がレジェンドであり、それ以降のロボットアニメの名監督・後継者ははっきりと出ていない状況 庵野監督はネームバリューはあるが手掛けたロボットアニメのシリーズ数はそんなに多くない ロボットアニメの世界では創聖のアクエリオンやマクロスFな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名古屋市とJ1名古屋の協定締結式中止 ｜ 共同通信]]></title>
-        <id>https://nordot.app/796002880684818432</id>
-        <link href="https://nordot.app/796002880684818432"/>
-        <updated>2021-08-05T13:18:36.000Z</updated>
-        <summary type="html"><![CDATA[名古屋市は5日、サッカーJ1名古屋と6日に開催予定だった連携協定締結式を中止すると発表した。河村たかし市長が東京五輪ソフトボール選手の金メダルをかじり、批判が殺到していることを考慮した。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -161,16 +191,6 @@
         <link href="https://www.jiji.com/jc/article?k=2021080501205&amp;g=spo"/>
         <updated>2021-08-05T11:49:09.000Z</updated>
         <summary type="html"><![CDATA[かんだメダルは交換対象外　製造欠陥のみ無償対応―組織委〔五輪〕 2021年08月05日19時29分 東京五輪の金メダル 東京五輪・パラリンピック組織委員会は５日、五輪のソフトボールを制した日本代表の後藤希友（トヨタ自動車）が４日に名古屋市の河村たかし市長を表敬訪問した際、市長がマスクを外して金メダルをかんだ件に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外国人五輪スタッフ、不起訴に　国立競技場で女性乱暴疑い ｜ 共同通信]]></title>
-        <id>https://nordot.app/795955050768023552</id>
-        <link href="https://nordot.app/795955050768023552"/>
-        <updated>2021-08-05T11:21:03.000Z</updated>
-        <summary type="html"><![CDATA[東京地検は5日までに、国立競技場内で五輪関係のアルバイト女性に乱暴したとして、強制性交の疑いで逮捕されたウズベキスタン国籍の五輪スタッフの大学生（30）を不起訴とした。地検は理由を明らかにしていない。4日付。 警視庁によると、大学生は2014年に入国。愛知県内の私立大学を休学し、場内でプレス向けに食事提供...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[放送中止のアニメ「東京BABYLON」制作費求め提訴：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP854GXJP82UTIL00R.html</id>
-        <link href="https://www.asahi.com/articles/ASP854GXJP82UTIL00R.html"/>
-        <updated>2021-08-05T08:14:41.000Z</updated>
-        <summary type="html"><![CDATA[4月に放送開始予定だったテレビアニメ「東京BABYLON（バビロン）　2021」の制作費用が支払われていないとして、下請け制作会社が講談社系のキングレコード（東京）に未払い分計約4億5千万円の支払いを求め、東京地裁に提訴した。この作品をめぐっては、キャラクターデザインの模写が指摘され、3月に放送が取りやめになっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[8割おじさん「8月に新規感染者5千人超」は誇大な数字か　グルメサイトの密告制度の問題も | デイリー新潮]]></title>
         <id>https://www.dailyshincho.jp/article/2021/08050557/?all=1</id>
         <link href="https://www.dailyshincho.jp/article/2021/08050557/?all=1"/>
@@ -251,16 +261,6 @@
         <link href="https://www.daily.co.jp/gossip/2021/08/05/0014566121.shtml"/>
         <updated>2021-08-05T07:54:39.000Z</updated>
         <summary type="html"><![CDATA[河村市長　メダル噛み謝罪　トヨタ本社に入れず「車の中でお詫び」市幹部が謝罪文届け 3枚 名古屋市の河村たかし市長が５日、緊急会見を行った。４日に表敬訪問に訪れた東京五輪・ソフトボール女子の後藤希友投手（トヨタ自動車）の金メダルを噛んだ行為を謝罪した。 「軽率にもご本人様の長年の努力の結晶であります金...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 過去最多の5042人感染確認 5000人超は初 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210805/k10013183161000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210805/k10013183161000.html"/>
-        <updated>2021-08-05T06:56:05.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では5日、一日の発表としてはこれまでで最も多い5042人が新型コロナウイルスに感染していることが確認されました。5000人を超えるのは初めてで、2日連続で過去最多を更新しました。また都は感染が確認された1人が死亡したことを明らかにしました。 東京都は5日、都内で新たに10歳未満から100歳以上までの男女合...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -296,11 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2ヶ月後に「日本初の女性総理（100代目）」が誕生する]]></title>
-        <id>https://anond.hatelabo.jp/20210804220909</id>
-        <link href="https://anond.hatelabo.jp/20210804220909"/>
-        <updated>2021-08-04T13:24:35.000Z</updated>
-        <summary type="html"><![CDATA[2ヶ月後に日本が大きく変わる。 9月末で自民党総裁任期が満了する。 菅・無投票再選の流れは都議選で終わった。 秋の衆院選で自民党大敗を防ぐために、総裁を変える声が党内で出ている。 しかし世間で人気のある議員（石破・河野・小泉・野田）は党内支持が弱く、特に各派閥の領袖と安倍が推せる候補ではない。 石破はめ...]]></summary>
+        <title type="html"><![CDATA[品質不正の陰に「枯れた製品」、経営陣は大胆な決断ができるか | 日経クロステック（xTECH）]]></title>
+        <id>https://xtech.nikkei.com/atcl/nxt/column/18/00138/080300853/</id>
+        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00138/080300853/"/>
+        <updated>2021-08-04T10:31:47.000Z</updated>
+        <summary type="html"><![CDATA[「競合企業が品質不正問題でつまずきました。御社にとっては受注拡大のチャンスではありませんか？」。ある自動車部品で品質データ偽装問題が発覚した。顧客である自動車メーカーから信頼を失うのは必至だ。そこで記者は、同じ自動車部品を造る競合部品メーカーに取材し、こうした質問をぶつけてみた。 「顧客の立場にな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

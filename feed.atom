@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T10:13:06.827Z</id>
+    <id>urn:2021-08-06T11:09:54.083Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T10:13:06.827Z</updated>
+    <updated>2021-08-06T11:09:54.083Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[お土産求め秋葉原に五輪関係者続々「バブルなんて幻想」 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8653XDP86ULEI002.html</id>
+        <link href="https://www.asahi.com/articles/ASP8653XDP86ULEI002.html"/>
+        <updated>2021-08-06T08:15:13.000Z</updated>
+        <summary type="html"><![CDATA[閉幕が迫る東京五輪。街では、競技や業務を終えた大会関係者が、お土産などを買う姿が目につく。新型コロナウイルスの感染対策のため、海外から来た選手や関係者たちが一般の人と接触しない「バブル方式」が取られているはずだったが……。 海外の選手、お土産求めて　強い日差しが降り注ぐ3日夕、東京・秋葉原の電気街。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOCバッハ会長 「コロナ対策すべてうまくいった」　都内で会見 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210806/k00/00m/050/248000c</id>
@@ -41,6 +51,16 @@
         <link href="https://kurashi.yahoo.co.jp/kanagawa/14000/incidents/bousai/52393"/>
         <updated>2021-08-06T07:07:32.000Z</updated>
         <summary type="html"><![CDATA[当サービスでは、エラー解析ツールとしてFROSK株式会社の提供する「SmartBeat」を利用しています。 これにより、ヤフー株式会社およびFROSK株式会社は、以下のような情報を取得します。 OSのバージョン、デバイス名、画面サイズなどの設定情報通信やメモリの状態などの使用状況に関する情報エラー発生時刻や発生箇所など...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂のマリオはこの夏、胸部を隠す。乳首を求めるファンの目線を迷宮へといざなう | AUTOMATON]]></title>
+        <id>https://automaton-media.com/articles/newsjp/20210806-171555/</id>
+        <link href="https://automaton-media.com/articles/newsjp/20210806-171555/"/>
+        <updated>2021-08-06T06:46:44.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は8月6日、暑中見舞いとしてニンテンドーアカウントを所有するユーザー向けキャンペーンメールを送付した。夏のピックアップニュースや無料開放デー、グッズやキャンペーンといったお得情報が記載される中、添付されたある画像が注目を集めている。マリオの裸体である。 同画像は2021年夏限定の壁紙となっており、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -111,16 +131,6 @@
         <link href="https://nordot.app/796200504697094144"/>
         <updated>2021-08-06T02:34:52.000Z</updated>
         <summary type="html"><![CDATA[菅首相は、新型コロナウイルス新規感染者数の急拡大について「国民の人流は五輪前から増えておらず、五輪が感染拡大につながっているという考え方はしていない」と述べた。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ペンライトを振るとアイドルの衣装が光り、動きが持つ手に伝わる　ライブでアイドルと身体的に同期する手法、埼玉大が開発：Innovative Tech（1/3 ページ） - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/06/news072.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/06/news072.html"/>
-        <updated>2021-08-06T02:33:08.000Z</updated>
-        <summary type="html"><![CDATA[ペンライトを振るとアイドルの衣装が光り、動きが持つ手に伝わる　ライブでアイドルと身体的に同期する手法、埼玉大が開発：Innovative Tech（1/3 ページ）]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -211,16 +221,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210806/k10013183971000.html"/>
         <updated>2021-08-05T20:37:28.000Z</updated>
         <summary type="html"><![CDATA[国内でも主流になっている新型コロナウイルスの「デルタ株」について、国立感染症研究所が遺伝子のデータをもとにどう広がったか分析したところ、海外から首都圏に流入した1つの起点から全国に広がったとみられることがわかりました。 国立感染症研究所は、感染力の強い変異ウイルスデルタ株について、感染した人から採...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ: モデルナ「冬前に追加接種必要」　半年後から効果低下も: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOGN05DEN0V00C21A8000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOGN05DEN0V00C21A8000000/"/>
-        <updated>2021-08-05T20:19:49.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=野村優子】米バイオ製薬モデルナは5日、新型コロナウイルスのワクチンについて、有効性を維持するために3回目の追加接種（ブースター接種）が「冬のシ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

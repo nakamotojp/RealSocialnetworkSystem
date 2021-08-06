@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T14:11:01.894Z</id>
+    <id>urn:2021-08-06T15:13:18.291Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T14:11:01.894Z</updated>
+    <updated>2021-08-06T15:13:18.291Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[首相の読み飛ばし　原因は「原稿がのりでくっついてはがれず」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210806/k00/00m/010/462000c</id>
+        <link href="https://mainichi.jp/articles/20210806/k00/00m/010/462000c"/>
+        <updated>2021-08-06T12:33:48.000Z</updated>
+        <summary type="html"><![CDATA[平和記念式典であいさつする菅義偉首相＝広島市中区の平和記念公園で2021年8月6日午前8時31分、猪飼健史撮影 菅義偉首相が6日の広島市で開かれた平和記念式典で事前に予定されたあいさつの一部を読み飛ばしたのは、「原稿がのりでくっついてはがれなかった」ことが原因だったと複数の首相周辺が明らかにした。複数ページ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首相の原稿、のりでめくれず　広島式典の読み飛ばし ｜ 共同通信]]></title>
         <id>https://nordot.app/796351217012948992</id>
         <link href="https://nordot.app/796351217012948992"/>
         <updated>2021-08-06T12:23:19.000Z</updated>
         <summary type="html"><![CDATA[政府関係者は6日、菅義偉首相が広島の原爆死没者慰霊式・平和祈念式でのあいさつの一部を読み飛ばした原因について、原稿を貼り合わせる際に使ったのりが予定外の場所に付着し、めくれない状態になっていたためだと明らかにした。「完全に事務方のミスだ」と釈明した。 原稿は複数枚の紙をつなぎ合わせ、蛇腹状にしてい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻生財務相、自宅待機に　運転手がコロナ感染：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/122489</id>
+        <link href="https://www.tokyo-np.co.jp/article/122489"/>
+        <updated>2021-08-06T12:18:55.000Z</updated>
+        <summary type="html"><![CDATA[財務省は６日、麻生太郎財務相の私設運転手が新型コロナウイルスに感染したと発表した。麻生氏はすでにPCR検査を受けたといい、当面の間、自宅待機する。 財務省大臣官房文書課によると、６日夕に運転手の感染が判明した。麻生氏は省内にいたが、すぐに帰宅した。麻生氏は症状はなく、ワクチンも２回接種済みという。 感...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ほぼ「密」、ビール片手大声で声援　札幌市で五輪競歩 - 東京オリンピック [陸上]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8573BFP85IIPE03D.html</id>
-        <link href="https://www.asahi.com/articles/ASP8573BFP85IIPE03D.html"/>
-        <updated>2021-08-05T22:41:15.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪の男子20キロ競歩が行われた5日の札幌市の目抜き通り沿いの歩道は、レースを見守る人でほぼ「密集状態」になった。新型コロナの感染の波が再び襲うなか、沿道での観戦自粛が呼びかけられたが、日本選手が優勝争いに加わる白熱したレース展開に、大声で声援を送る人もいた。 発着点そばの札幌駅前通の歩道には高...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新型コロナウイルスは「中国から流出」と断定した、米報告書の「驚くべき内容」（長谷川 幸洋） | 現代ビジネス | 講談社（1/7）]]></title>
         <id>https://gendai.ismedia.jp/articles/-/85956</id>
         <link href="https://gendai.ismedia.jp/articles/-/85956"/>
         <updated>2021-08-05T22:13:48.000Z</updated>
         <summary type="html"><![CDATA[圧倒的な証拠が決め手となった 米下院外交委員会の共和党スタッフが「新型コロナウイルスは、中国の武漢ウイルス研究所から誤って流出した」と断定する報告書を発表した。この結論を導いたのは、衛星画像をはじめとする「圧倒的な量の証拠」だった。いったい、武漢で何があったのか。 同委員会の共和党スタッフは、マイ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エストニアで発生した顔写真データの違法ダウンロードについてまとめてみた - piyolog]]></title>
-        <id>https://piyolog.hatenadiary.jp/entry/2021/08/06/063000</id>
-        <link href="https://piyolog.hatenadiary.jp/entry/2021/08/06/063000"/>
-        <updated>2021-08-05T21:38:55.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月28日、エストニア国家情報システム庁（RIA）、警察・国境警備局は国が運営するシステムから顔写真データの違法なダウンロードが行われたことを公表しました。警察は既に容疑者を摘発しており既に刑事手続きに入っていることも併せて公表されています。ここでは関連する情報をまとめます。 顔写真流出による発行...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

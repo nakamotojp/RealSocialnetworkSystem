@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T08:13:55.624Z</id>
+    <id>urn:2021-08-06T09:12:09.598Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T08:13:55.624Z</updated>
+    <updated>2021-08-06T09:12:09.598Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IOCバッハ会長 「コロナ対策すべてうまくいった」　都内で会見 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210806/k00/00m/050/248000c</id>
+        <link href="https://mainichi.jp/articles/20210806/k00/00m/050/248000c"/>
+        <updated>2021-08-06T07:52:10.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックのメインプレスセンターで記者会見するIOCのトーマス・バッハ会長＝東京都江東区で2021年8月6日、長谷川直亮撮影 国際オリンピック委員会（IOC）のトーマス・バッハ会長は6日、東京都内で記者会見し、コロナ禍での東京オリンピック開催について「コロナ対策はすべて効果的に、うまくいった」と強調した...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 4515人感染確認 きのうに次いで過去2番目 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210806/k10013185031000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210806/k10013185031000.html"/>
         <updated>2021-08-06T07:48:11.000Z</updated>
         <summary type="html"><![CDATA[東京都は6日、都内で新たに4515人が新型コロナウイルスに感染していることを確認したと発表しました。都内では5日、これまでで最も多い5042人の感染が確認されていて、6日の4515人は5日に次いで過去2番目の多さです。また、4000人を超えるのは3日連続です。 一方、都の基準で集計した6日時点の重症の患者は5日より6人増...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川県 新型コロナ 初の2000人超 過去最多の見通し | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210806/k10013185501000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210806/k10013185501000.html"/>
+        <updated>2021-08-06T07:19:53.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県内で新たに新型コロナウイルスの感染が確認された人の数が6日、初めて2000人を超え、過去最多となる見通しであることが関係者への取材でわかりました。神奈川県内で確認される感染者の数が最多を更新するのは2日連続で感染の急拡大が続いています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奈川県の緊急情報 | 感染急拡大（2021/8/6） - Yahoo!くらし]]></title>
+        <id>https://kurashi.yahoo.co.jp/kanagawa/14000/incidents/bousai/52393</id>
+        <link href="https://kurashi.yahoo.co.jp/kanagawa/14000/incidents/bousai/52393"/>
+        <updated>2021-08-06T07:07:32.000Z</updated>
+        <summary type="html"><![CDATA[当サービスでは、エラー解析ツールとしてFROSK株式会社の提供する「SmartBeat」を利用しています。 これにより、ヤフー株式会社およびFROSK株式会社は、以下のような情報を取得します。 OSのバージョン、デバイス名、画面サイズなどの設定情報通信やメモリの状態などの使用状況に関する情報エラー発生時刻や発生箇所など...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -66,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[オリンピック女子ロードレースで2位だったオランダ選手を解説する]]></title>
+        <id>https://anond.hatelabo.jp/20210806115303</id>
+        <link href="https://anond.hatelabo.jp/20210806115303"/>
+        <updated>2021-08-06T02:53:42.000Z</updated>
+        <summary type="html"><![CDATA[7月25日の13時から行われた東京オリンピック 女子ロードレースで起こった奇跡について書いた前回の記事(https://anond.hatelabo.jp/20210727115101)が思いがけず多くの人に読んでいただけたようなので、その時に2位となったオランダ選手についても解説してみました。 そう、前にいたキーゼンホファー選手を見落として自...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[五輪「感染拡大につながっていない」と首相 ｜ 共同通信]]></title>
         <id>https://nordot.app/796200504697094144</id>
         <link href="https://nordot.app/796200504697094144"/>
@@ -116,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[塩野義社長、コロナ飲み薬「年内に承認申請」　供給体制も整備 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210805/k00/00m/020/431000c</id>
-        <link href="https://mainichi.jp/articles/20210805/k00/00m/020/431000c"/>
-        <updated>2021-08-05T23:35:02.000Z</updated>
-        <summary type="html"><![CDATA[塩野義製薬の手代木（てしろぎ）功社長は5日、毎日新聞のインタビューに応じ、開発中の新型コロナウイルス感染症の軽症から中等症患者を想定した飲み薬タイプの治療薬について、年内に「条件付き早期承認」の申請を目指す考えを明らかにした。実用化をにらみ、年末までに国内で100万～200万人分の供給体制を整えると説明...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ほぼ「密」、ビール片手大声で声援　札幌市で五輪競歩 - 東京オリンピック [陸上]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8573BFP85IIPE03D.html</id>
         <link href="https://www.asahi.com/articles/ASP8573BFP85IIPE03D.html"/>
@@ -141,16 +171,6 @@
         <link href="https://www.dailyshincho.jp/article/2021/08060600/"/>
         <updated>2021-08-05T22:38:43.000Z</updated>
         <summary type="html"><![CDATA[「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転載を禁じます。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野生のシカの4割に新型コロナの抗体、集団感染の可能性、米国 | ナショナルジオグラフィック日本版サイト]]></title>
-        <id>https://natgeo.nikkeibp.co.jp/atcl/news/21/080400390/</id>
-        <link href="https://natgeo.nikkeibp.co.jp/atcl/news/21/080400390/"/>
-        <updated>2021-08-05T22:36:35.000Z</updated>
-        <summary type="html"><![CDATA[新たな研究により、オジロジカが野生環境でコロナウイルスにさらされていることがわかった。感染した人間がシカにも感染を広げている可能性がある。（PHOTOGRAPH BY BEN HASTY, MEDIANEWS GROUP/READING EAGLE VIA GETTY IMAGES） アラスカを除く米国全州に生息するオジロジカ（Odocoileus virginianus）が、自然環境で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,31 +236,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[厚労相「中等症も原則入院」　コロナ自宅療養、与党に修正文書提示 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210805/k00/00m/010/424000c</id>
-        <link href="https://mainichi.jp/articles/20210805/k00/00m/010/424000c"/>
-        <updated>2021-08-05T15:24:58.000Z</updated>
-        <summary type="html"><![CDATA[田村憲久厚生労働相は5日の参院厚労委員会の閉会中審査で、新型コロナウイルスの感染拡大に伴う入院対象者の見直し方針について、「中等症は原則入院。重症化リスクが低い人が在宅になる」と述べた。政府は同日、福島、茨城など計8県にまん延防止等重点措置を新たに適用することを決定したが、専門家からは全国を対象と...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「児童・生徒に観戦してほしい」　パラ選手団長が千葉知事に要望（産経新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b</id>
         <link href="https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b"/>
         <updated>2021-08-05T15:22:10.000Z</updated>
         <summary type="html"><![CDATA[千葉県の熊谷俊人知事（右）に学校連携観戦の実施を求める要望書を手渡す東京パラリンピック日本代表選手団の河合純一団長＝５日、県庁（高橋寛次撮影） 東京パラリンピック日本代表選手団の河合純一団長（水泳）は５日、千葉県庁でパラリンピックの「学校連携観戦」に関する要望書を熊谷俊人知事に手渡した。無観客にな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[こうなったらもう、コロナに感染して自室で孤独死するのが一番の道のようにも思える - 関内関外日記]]></title>
-        <id>https://goldhead.hatenablog.com/entry/2021/08/05/230423</id>
-        <link href="https://goldhead.hatenablog.com/entry/2021/08/05/230423"/>
-        <updated>2021-08-05T14:07:23.000Z</updated>
-        <summary type="html"><![CDATA[横浜の写真です 東京都 新型コロナ 過去最多の5042人感染確認 5000人超は初 | 新型コロナ 国内感染者数 | NHKニュース 東京都で一日の新型コロナウイルス感染者数が5,000人を超えた。 べつにウイルスにとって5,000という数字がどうということでもないし、検査数や陽性率を考えれば暗数というものもあって、実際の数では...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

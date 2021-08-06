@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T03:13:19.748Z</id>
+    <id>urn:2021-08-06T04:15:46.867Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T03:13:19.748Z</updated>
+    <updated>2021-08-06T04:15:46.867Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://www.dailyshincho.jp/article/2021/08060600/"/>
         <updated>2021-08-05T22:38:43.000Z</updated>
         <summary type="html"><![CDATA[「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転載を禁じます。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野生のシカの4割に新型コロナの抗体、集団感染の可能性、米国 | ナショナルジオグラフィック日本版サイト]]></title>
+        <id>https://natgeo.nikkeibp.co.jp/atcl/news/21/080400390/</id>
+        <link href="https://natgeo.nikkeibp.co.jp/atcl/news/21/080400390/"/>
+        <updated>2021-08-05T22:36:35.000Z</updated>
+        <summary type="html"><![CDATA[新たな研究により、オジロジカが野生環境でコロナウイルスにさらされていることがわかった。感染した人間がシカにも感染を広げている可能性がある。（PHOTOGRAPH BY BEN HASTY, MEDIANEWS GROUP/READING EAGLE VIA GETTY IMAGES） アラスカを除く米国全州に生息するオジロジカ（Odocoileus virginianus）が、自然環境で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,21 +176,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare待機室]]></title>
-        <id>https://blog.cloudflare.com/ja-jp/cloudflare-waiting-room-ja-jp/</id>
-        <link href="https://blog.cloudflare.com/ja-jp/cloudflare-waiting-room-ja-jp/"/>
-        <updated>2021-08-05T14:35:34.000Z</updated>
-        <summary type="html"><![CDATA[本日、Cloudflare待機室をご紹介できることをうれしく思っております！まず、プロジェクトFair Shotという新プログラムで選ばれたお客様に最初にご利用いただけます。このプログラムは、新型コロナワクチン接種の圧倒的な需要によって、予約登録Webサイトが機能しなくなっている問題の解決を目的としています。Business...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[こうなったらもう、コロナに感染して自室で孤独死するのが一番の道のようにも思える - 関内関外日記]]></title>
         <id>https://goldhead.hatenablog.com/entry/2021/08/05/230423</id>
         <link href="https://goldhead.hatenablog.com/entry/2021/08/05/230423"/>
         <updated>2021-08-05T14:07:23.000Z</updated>
         <summary type="html"><![CDATA[横浜の写真です 東京都 新型コロナ 過去最多の5042人感染確認 5000人超は初 | 新型コロナ 国内感染者数 | NHKニュース 東京都で一日の新型コロナウイルス感染者数が5,000人を超えた。 べつにウイルスにとって5,000という数字がどうということでもないし、検査数や陽性率を考えれば暗数というものもあって、実際の数では...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「サバサバ女」の漫画が百合だったら？という二次創作が盛り上がった結果、公式百合スピンオフが誕生 - Togetter]]></title>
+        <id>https://togetter.com/li/1755143</id>
+        <link href="https://togetter.com/li/1755143"/>
+        <updated>2021-08-05T14:05:37.000Z</updated>
+        <summary type="html"><![CDATA[rockwell @rockwell8536 サバ女こと「網浜奈美」さん、これでもかってくらいに「読者の皆様！この人嫌いになってくださいね〜！」って描き方されてるけど、俺の嫌いなサバサバ女とタイプが微妙に違ってそこまで憎めないのよね。 pic.twitter.com/bAY5gcMEJ7 2021-05-28 22:36:22]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://note.com/henkyochannel/n/n8d03fbf5d344"/>
         <updated>2021-08-05T10:37:29.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自宅で容体急変し変死の443人がコロナ感染　過去1年半で　警察庁 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210805/k00/00m/040/320000c</id>
-        <link href="https://mainichi.jp/articles/20210805/k00/00m/040/320000c"/>
-        <updated>2021-08-05T10:22:56.000Z</updated>
-        <summary type="html"><![CDATA[警察庁は5日、2020年1月から21年6月までの1年半に自宅で容体が急変して死亡し、全国の警察が変死などとして取り扱った人のうち、計443人から新型コロナウイルスの感染が確認されたと明らかにした。立憲民主党の会合で明らかにした。 自宅や路上など医療機関以外で体調が悪化して死亡した人のうち、コロナの感染が確認さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

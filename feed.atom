@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T13:21:34.014Z</id>
+    <id>urn:2021-08-06T14:11:01.894Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T13:21:34.014Z</updated>
+    <updated>2021-08-06T14:11:01.894Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小田急線車内 男が刃物で乗客に切りつけ逃走 4人けが2人重傷 | 事件 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210806/k10013186531000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210806/k10013186531000.html"/>
+        <updated>2021-08-06T12:17:08.000Z</updated>
+        <summary type="html"><![CDATA[6日夜、東京 世田谷区の小田急線の車内で、男が刃物を振り回して周りの乗客に切りつけ、4人がけがをしました。男は現場から逃走していて、警視庁が行方を捜査するとともに、詳しい状況を調べています。 6日午後8時半ごろ、東京 世田谷区の成城学園前駅付近の小田急線の車内で男が刃物を振り回し、周りの乗客に切りつけま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[警視庁職員、運転免許データ26万人分削除「上司困らせようと」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210806/k00/00m/040/365000c</id>
         <link href="https://mainichi.jp/articles/20210806/k00/00m/040/365000c"/>
         <updated>2021-08-06T10:24:17.000Z</updated>
         <summary type="html"><![CDATA[警視庁は6日、運転免許関連の約26万人分のデータを削除したなどとして、情報管理課の男性主事（33）を懲戒免職にし、電子計算機損壊等業務妨害などの疑いで書類送検した。同庁によると、業務ミスを上司に注意されたことがきっかけで「日ごろのストレスが爆発し、上司を困らせようと思った」と話しているという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お前らさ、パラとオリが日程逆だったら]]></title>
+        <id>https://anond.hatelabo.jp/20210806095414</id>
+        <link href="https://anond.hatelabo.jp/20210806095414"/>
+        <updated>2021-08-06T10:06:05.000Z</updated>
+        <summary type="html"><![CDATA[それでパラリンピックは強行されたとして、今同じコロナの状況だったとして、「オリンピックだけでも中止にしろ！」って言ってたと思う？ 正直に自分の心に問いかけて。 仮定だけど、たぶんそういう声は多く出てたんじゃないかなと思うんだよね。 今、パラリンピックだけでも中止しろ！って声はそんなに大きくないと思う...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「ワクチン接種・マスク着用」を批判していた 米共和党幹部…新型コロナにより「死亡」（WoW!Korea） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/f512c50c491bb789190aa1a9258d70d6a7ac9a0c</id>
-        <link href="https://news.yahoo.co.jp/articles/f512c50c491bb789190aa1a9258d70d6a7ac9a0c"/>
-        <updated>2021-08-06T02:57:54.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナワクチン接種とマスク着用を批判してきた 米テキサス州の共和党幹部が、新型コロナにより死亡した（画像提供：wowkorea） 新型コロナウイルス感染症ワクチン接種とマスク着用に対して見下し批判してきた 米テキサス州の共和党幹部が、新型コロナにより死亡した。 【写真】もっと大きな写真を見る 5日（現地時...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[オリンピック女子ロードレースで2位だったオランダ選手を解説する]]></title>
         <id>https://anond.hatelabo.jp/20210806115303</id>
         <link href="https://anond.hatelabo.jp/20210806115303"/>
@@ -261,16 +271,6 @@
         <link href="https://news.yahoo.co.jp/articles/4e5a52b55df85afdf6aabfc48c405af413d43bcf"/>
         <updated>2021-08-05T21:15:49.000Z</updated>
         <summary type="html"><![CDATA[2ちゃんねるの創始者・西村博之氏（44）は近年、「ひろゆき」の名前で活動している。ニュース番組やTwitterなどの発言が話題となり、ネット上で“論客”として注目された。論争で負け知らずの“論破王”としても話題だ。 【写真2枚】この記事の写真を見る *** 2018年には著書『論破力』（朝日新書）を出版したほどだが、その...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「児童・生徒に観戦してほしい」　パラ選手団長が千葉知事に要望（産経新聞） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b</id>
-        <link href="https://news.yahoo.co.jp/articles/39dd1c6a819139cc6abcc8b6c995a470302c023b"/>
-        <updated>2021-08-05T15:22:10.000Z</updated>
-        <summary type="html"><![CDATA[千葉県の熊谷俊人知事（右）に学校連携観戦の実施を求める要望書を手渡す東京パラリンピック日本代表選手団の河合純一団長＝５日、県庁（高橋寛次撮影） 東京パラリンピック日本代表選手団の河合純一団長（水泳）は５日、千葉県庁でパラリンピックの「学校連携観戦」に関する要望書を熊谷俊人知事に手渡した。無観客にな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

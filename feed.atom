@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-07T09:12:10.310Z</id>
+    <id>urn:2021-08-07T10:12:35.674Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T09:12:10.310Z</updated>
+    <updated>2021-08-07T10:12:35.674Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[脱出「ずっと我慢してた」　帰省ラッシュ初日の東京駅：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP87574FP86UTIL033.html</id>
+        <link href="https://www.asahi.com/articles/ASP87574FP86UTIL033.html"/>
+        <updated>2021-08-07T08:22:55.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染が全国的に拡大する中、本格的な帰省シーズンを迎えた7日、JR東京駅は大きなスーツケースを持った家族らでにぎわった。 列車予約、コロナ前から７割減　でも昨年比１・５倍に　JR東日本によると、お盆期間（6～17日）の東北、山形新幹線や在来線の特急などの指定席予約状況は、5日現在で59万席...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[都内クリニック PCR検査が急増「対処できる状態超えている」 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210807/k10013187571000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210807/k10013187571000.html"/>
+        <updated>2021-08-07T08:13:22.000Z</updated>
+        <summary type="html"><![CDATA[感染の急拡大で都内のクリニックでは、PCR検査を希望する人が急増しているほか、陽性になった患者から「保健所から連絡が来ない」といった相談の電話が相次いでいます。 東京・目黒区の「ロコクリニック中目黒」では、発熱外来を設けて新型コロナウイルスのPCR検査を行っていますが、これまで一日10件ほどだった検査の希...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 4566人感染確認 過去2番目 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210807/k10013187661000.html</id>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[40度の高熱が1週間続いても入院できず…コロナ自宅療養者激増、過酷な現実：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/122487</id>
-        <link href="https://www.tokyo-np.co.jp/article/122487"/>
-        <updated>2021-08-06T22:33:48.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスに感染し、自宅療養する患者が激増している。患者の年齢、持病の有無などを点数化して入院の優先度を判断する仕組みを昨年１２月に導入し、入院患者を絞り込んでいる神奈川県。６日時点の県内の自宅療養者は９７８６人で前日より６０５人増えた。自宅療養者に症状が悪化していないか確認し、入院させ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[パラリンピックで子どもの観戦検討　学校連携プログラムで政府ら：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/122520</id>
         <link href="https://www.tokyo-np.co.jp/article/122520"/>
@@ -251,16 +261,6 @@
         <link href="https://twitter.com/koredeiinoka/status/1423584362696634368"/>
         <updated>2021-08-06T15:12:50.000Z</updated>
         <summary type="html"><![CDATA[飲食チェーンの「かつや」が37度の発熱が数日続いている社員を出勤させました。そこで、現場で働いている人が、店を休業にしたところ、会社からの報復で、減給され、保険証も取り上げられました。 お客さんの安全を考えれば、休店が正しいのは明… https://t.co/h2IAcyt1bp]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首相の原稿、のりでめくれず　広島式典の読み飛ばし ｜ 共同通信]]></title>
-        <id>https://nordot.app/796351217012948992</id>
-        <link href="https://nordot.app/796351217012948992"/>
-        <updated>2021-08-06T12:23:19.000Z</updated>
-        <summary type="html"><![CDATA[政府関係者は6日、菅義偉首相が広島の原爆死没者慰霊式・平和祈念式でのあいさつの一部を読み飛ばした原因について、原稿を貼り合わせる際に使ったのりが予定外の場所に付着し、めくれない状態になっていたためだと明らかにした。「完全に事務方のミスだ」と釈明した。 原稿は複数枚の紙をつなぎ合わせ、蛇腹状にしてい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

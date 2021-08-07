@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-07T21:10:50.068Z</id>
+    <id>urn:2021-08-07T22:11:13.734Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T21:10:50.068Z</updated>
+    <updated>2021-08-07T22:11:13.734Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ネットのおかしなフェミニストたちを肯定的に捉えるなら]]></title>
+        <id>https://anond.hatelabo.jp/20210807233230</id>
+        <link href="https://anond.hatelabo.jp/20210807233230"/>
+        <updated>2021-08-07T14:44:10.000Z</updated>
+        <summary type="html"><![CDATA[仮説の一つとして 「もしかすると住む世界や見てきた風景があまりにも違うのでは」ということが考えられる。 たとえばこのブコメ読んで軽く仰天したんだけど HanPanna 私の幼馴染が自分の妻の前歯を全部折って逮捕された時、私の両親は「(やったらダメなことだけど)旦那を怒らせる嫁も悪いよね」と評してた。 2021/08/07...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高橋洋一氏「さざ波さらにちっちゃく」竹中平蔵氏との対談動画で（デイリースポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/90f48a2c7c63139001e4551c395de79d2f7680c0</id>
@@ -231,16 +241,6 @@
         <link href="https://togetter.com/li/1755450"/>
         <updated>2021-08-07T01:51:05.000Z</updated>
         <summary type="html"><![CDATA[町山智浩 @TomoMachi カリフォルニア州在住の映画評論家、コラムニスト。BS朝日『町山智浩のアメリカの今を知るTV』毎週木曜よる10時30分から放送中。町山智浩の映画トーク tomomachi.stores.jp]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python ユーザでも『データ可視化入門』で練習できるようにパッケージを作った + Plotnine との互換性ガイド - ill-identified diary]]></title>
-        <id>https://ill-identified.hatenablog.com/entry/2021/08/06/200859</id>
-        <link href="https://ill-identified.hatenablog.com/entry/2021/08/06/200859"/>
-        <updated>2021-08-07T01:21:40.000Z</updated>
-        <summary type="html"><![CDATA[概要 pysocviz が提供する機能 ggplot2 と同じようにできないところとその対策 aes() にクオートされてない変数を指定できない R のように改行できない ggplot2 で使えた色名が使えない ggplot2 で使えた linetype が使えない 文字化けの回避 ggrepel パッケージの利用 scales::percent などの単位・スケール指定 テーマ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

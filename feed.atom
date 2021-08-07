@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-07T19:09:11.444Z</id>
+    <id>urn:2021-08-07T20:11:40.715Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T19:09:11.444Z</updated>
+    <updated>2021-08-07T20:11:40.715Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://note.com/fuji_no_hana/n/n15670debe398"/>
         <updated>2021-08-07T12:33:44.000Z</updated>
         <summary type="html"><![CDATA[「どうやったらこんな組み合わせが思いつくんですか…？」と間借りのお客様に良く聞かれる。僕はどうやってこの組み合わせを思いついてるんだろう…と質問されてから考える。 改めて考えることで「あぁ、自分はこうやって料理を組み立てるんだな」と認識することが出来る。質問され、考え、答えるというのは自分の考えを整...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50代女性が自宅療養中に死亡 東京都 第５波で確認は初 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210807/k10013188141000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210807/k10013188141000.html"/>
+        <updated>2021-08-07T11:48:31.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに感染して亡くなったと都が7日発表した4人のうち50代の女性は、自宅療養中に体調が急変して、搬送された病院で亡くなったということです。今回の第5波で、自宅や施設で療養中に死亡した「自宅療養中」の死者を都が把握したのは初めてです。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[逆になんで女はこの手の事件を起こさないのか不思議。レンタカーで突っ込むとか、海外なら銃乱射とか、別に男じゃなくても可能だろうに。 - daisya のブックマーク / はてなブックマーク]]></title>
+        <id>https://b.hatena.ne.jp/entry/4706547740968477506/comment/daisya</id>
+        <link href="https://b.hatena.ne.jp/entry/4706547740968477506/comment/daisya"/>
+        <updated>2021-08-07T07:22:46.000Z</updated>
+        <summary type="html"><![CDATA[このブックマークは合計 {{ #hasPurple }}Purple Star {{ purpleCount }}{{ /hasPurple }} {{ #hasBlue }}Blue Star {{ blueCount }}{{ /hasBlue }} {{ #hasRed }}Red Star {{ redCount }}{{ /hasRed }} {{ #hasGreen }}Green Star {{ greenCount }}{{ /hasGreen }} {{ #hasYellow }}Normal Star {{ yellowCount }}{{ /h...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【音量注意】「この夏1番絶叫した」猫さんがもたらした地獄に飼い主さんガチ悲鳴「申し訳ないけど大笑いした」「10ループくらいした」 - Togetter]]></title>
         <id>https://togetter.com/li/1755845</id>
         <link href="https://togetter.com/li/1755845"/>
@@ -206,31 +226,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「誰でもよかった」「幸せそうな女性殺したい」　小田急刃物男 - 産経ニュース]]></title>
-        <id>https://www.sankei.com/article/20210807-4WF2JXL7KFOF3IP7WMS6HC2OAM/</id>
-        <link href="https://www.sankei.com/article/20210807-4WF2JXL7KFOF3IP7WMS6HC2OAM/"/>
-        <updated>2021-08-07T01:35:27.000Z</updated>
-        <summary type="html"><![CDATA[小田急線の車内で複数人が刺され、祖師ケ谷大蔵駅で救護活動をする警察官や消防隊員ら＝６日午後、東京都世田谷区（宮崎瑞穂撮影）東京都世田谷区の小田急線の車内で６日夜、男が刃物を振り回すなどし乗客の男女が次々と襲われた事件で、警視庁は７日、殺人未遂容疑で、身柄を確保していた男を逮捕した。男は川崎市多摩...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python ユーザでも『データ可視化入門』で練習できるようにパッケージを作った + Plotnine との互換性ガイド - ill-identified diary]]></title>
         <id>https://ill-identified.hatenablog.com/entry/2021/08/06/200859</id>
         <link href="https://ill-identified.hatenablog.com/entry/2021/08/06/200859"/>
         <updated>2021-08-07T01:21:40.000Z</updated>
         <summary type="html"><![CDATA[概要 pysocviz が提供する機能 ggplot2 と同じようにできないところとその対策 aes() にクオートされてない変数を指定できない R のように改行できない ggplot2 で使えた色名が使えない ggplot2 で使えた linetype が使えない 文字化けの回避 ggrepel パッケージの利用 scales::percent などの単位・スケール指定 テーマ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京五輪、天皇陛下はJOCの「誤訳」をさり気なく訂正　開会宣言に垣間見えた元首の器 (1/5) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
-        <id>https://dot.asahi.com/dot/2021080600079.html</id>
-        <link href="https://dot.asahi.com/dot/2021080600079.html"/>
-        <updated>2021-08-07T00:28:23.000Z</updated>
-        <summary type="html"><![CDATA[コロナ禍で国民に寄り添い、「祝う」を「記念」に変えたことで注目された天皇陛下の東京五輪の開会宣言。実は、気づく人はほとんどいなかったが、陛下はJOCの誤訳を、人目につかぬよう訂正していたのだ。平成の天皇陛下の侍従として、記者会見の英訳を担当していた多賀敏行元チュニジア大使が、令和の天皇が見せた「元首...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

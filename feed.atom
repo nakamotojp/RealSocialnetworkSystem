@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-07T16:17:12.860Z</id>
+    <id>urn:2021-08-07T17:16:24.755Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T16:17:12.860Z</updated>
+    <updated>2021-08-07T17:16:24.755Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[小田急線刺傷　対馬容疑者、女性に恨み「くそみたいな人生…サークルで見下され、出会い系で断られ」　：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/122734</id>
+        <link href="https://www.tokyo-np.co.jp/article/122734"/>
+        <updated>2021-08-07T13:47:59.000Z</updated>
+        <summary type="html"><![CDATA[東京都世田谷区を走行中の小田急線快速急行の車内で、男が乗客を刃物で切り付けて逃走した事件。警視庁が殺人未遂の疑いで逮捕した職業不詳対馬悠介容疑者（36）は、青森県出身で、中央大学理工学部を中退した後、学校教材の運搬や工場勤務など職を転々としていたとされる。捜査関係者によると、「俺はくそみたいな人生...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[料理の組み立て方｜枯朽　h.b.｜note]]></title>
+        <id>https://note.com/fuji_no_hana/n/n15670debe398</id>
+        <link href="https://note.com/fuji_no_hana/n/n15670debe398"/>
+        <updated>2021-08-07T12:33:44.000Z</updated>
+        <summary type="html"><![CDATA[「どうやったらこんな組み合わせが思いつくんですか…？」と間借りのお客様に良く聞かれる。僕はどうやってこの組み合わせを思いついてるんだろう…と質問されてから考える。 改めて考えることで「あぁ、自分はこうやって料理を組み立てるんだな」と認識することが出来る。質問され、考え、答えるというのは自分の考えを整...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小田急線切りつけ「逃げられないよう快速狙った」放火は失敗 | 事件 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210807/k10013187891000.html</id>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[電車内でサラダ油まき、火付けようとしたか ｜ 共同通信]]></title>
-        <id>https://nordot.app/796553529191972864</id>
-        <link href="https://nordot.app/796553529191972864"/>
-        <updated>2021-08-07T01:54:54.000Z</updated>
-        <summary type="html"><![CDATA[小田急線の刺傷事件で、殺人未遂容疑で逮捕された男が車両内でサラダ油を床にまき、火を付けようとしたことが7日、警視庁への取材で分かった。出火はせず、サラダ油が入っていたとみられる容器とライターが押収された。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【バカの〇〇】某映画評論家「なぜ菅政権は他国のように体育館や屋外テントに軽度中度の患者を収容しないのか？」→「熱中症になるだろ！」とツッコミ殺到。 - Togetter]]></title>
         <id>https://togetter.com/li/1755450</id>
         <link href="https://togetter.com/li/1755450"/>
@@ -181,16 +191,6 @@
         <link href="https://www.sankei.com/article/20210807-4WF2JXL7KFOF3IP7WMS6HC2OAM/"/>
         <updated>2021-08-07T01:35:27.000Z</updated>
         <summary type="html"><![CDATA[小田急線の車内で複数人が刺され、祖師ケ谷大蔵駅で救護活動をする警察官や消防隊員ら＝６日午後、東京都世田谷区（宮崎瑞穂撮影）東京都世田谷区の小田急線の車内で６日夜、男が刃物を振り回すなどし乗客の男女が次々と襲われた事件で、警視庁は７日、殺人未遂容疑で、身柄を確保していた男を逮捕した。男は川崎市多摩...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python ユーザでも『データ可視化入門』で練習できるようにパッケージを作った + Plotnine との互換性ガイド - ill-identified diary]]></title>
-        <id>https://ill-identified.hatenablog.com/entry/2021/08/06/200859</id>
-        <link href="https://ill-identified.hatenablog.com/entry/2021/08/06/200859"/>
-        <updated>2021-08-07T01:21:40.000Z</updated>
-        <summary type="html"><![CDATA[概要 pysocviz が提供する機能 ggplot2 と同じようにできないところとその対策 aes() にクオートされてない変数を指定できない R のように改行できない ggplot2 で使えた色名が使えない ggplot2 で使えた linetype が使えない 文字化けの回避 ggrepel パッケージの利用 scales::percent などの単位・スケール指定 テーマ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

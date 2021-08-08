@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-08T00:40:12.514Z</id>
+    <id>urn:2021-08-08T01:53:38.960Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T00:40:12.514Z</updated>
+    <updated>2021-08-08T01:53:38.960Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[コロナ感染急増、政権に打撃　菅首相、危機感伝えきれず―五輪閉幕：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021080700396&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021080700396&amp;g=pol"/>
+        <updated>2021-08-08T00:48:23.000Z</updated>
+        <summary type="html"><![CDATA[コロナ感染急増、政権に打撃　菅首相、危機感伝えきれず―五輪閉幕 2021年08月08日07時11分 まん延防止等重点措置の対象地域拡大を決め、記者団の質問に答える菅義偉首相＝５日、首相官邸 ８日閉幕の東京五輪。新型コロナウイルス対策の緊急事態宣言下で、菅義偉首相は競技のほぼ全てを無観客とするなど「安全・安心の大...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック なぜ彼は試合中もマスクを外さなかったのか | バレーボール | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210808/k10013188361000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210808/k10013188361000.html"/>
+        <updated>2021-08-07T23:24:02.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスのニュースと切っても切り離すことができなかった東京オリンピックで、マスク姿の1人のバレーボール選手が話題になりました。 男子ブラジル代表のルーカス・サートカンプ選手。 感染防止のためとはいえ、試合前だけでなく試合中でも決してマスクを外すことがなかった彼にその理由を尋ねました。 その...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[母が「携帯ショップの店員の話が通じない」というが娘さんの立場から言わせると「お母さんは何が知りたいか分からない質問をしている」… - Togetter]]></title>
+        <id>https://togetter.com/li/1756260</id>
+        <link href="https://togetter.com/li/1756260"/>
+        <updated>2021-08-07T22:42:30.000Z</updated>
+        <summary type="html"><![CDATA[sakurako @sakurako_iroha 母「最近のケータイショップの店員さんは知識がなくて全然話が通じない。桜子に聞けばいつも答えて解決してくれるのに」 私「それは間違いだよ。私は知識がないから、お母さんがわからないことがなんなのかがわかるだけで、お母さんはいつも、なにが知りたいのか伝わらない質問の仕方をしてい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪のお祭りムード、コロナ感染拡大に影響か…バッハ会長「数字的な裏付けない」総括会見で一蹴：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/122723</id>
+        <link href="https://www.tokyo-np.co.jp/article/122723"/>
+        <updated>2021-08-07T22:13:26.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪は、期間中に感染者が急増した新型コロナウイルス対策、暑さを考慮した競技日程の急な変更など、最後まで対応に追われた。国際オリンピック委員会（ＩＯＣ）と大会組織委員会は一様に成功を強調するが、疑問や不満は残った。（小嶋麻友美、藤川大樹）]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JOCが弁護費用2億円負担　五輪招致で疑惑の元会長に - 東京オリンピック：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP876QNGP7NUTQP029.html</id>
@@ -41,6 +81,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210808/k10013188251000.html"/>
         <updated>2021-08-07T17:26:21.000Z</updated>
         <summary type="html"><![CDATA[群馬県は県内の自治体や医療機関から依頼を受けて新型コロナウイルスのPCR検査を行っていた民間の検査会社が、実際には陰性だったおよそ200人分の検体を誤って陽性と判定していたことがわかったと発表しました。誤った結果に基づいて入院した人もいたということです。 PCR検査の誤判定があったのは、前橋市の「エスアー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 【五輪】近代五種でダントツ1位だったドイツ選手、馬術で駄馬を引き最下位で咽び泣く - ライブドアブログ]]></title>
+        <id>http://blog.livedoor.jp/dqnplus/archives/2009702.html</id>
+        <link href="http://blog.livedoor.jp/dqnplus/archives/2009702.html"/>
+        <updated>2021-08-07T17:23:15.000Z</updated>
+        <summary type="html"><![CDATA[【五輪】近代五種でダントツ1位だったドイツ選手、馬術で駄馬を引き最下位で咽び泣く 1 名前：アナエロリネア(SB-iPhone) [US]：2021/08/07(土) 22:50:59.62 ID:/IOw563z0 それまでダントツで1位だったのに抽選で選ばれる馬が最駄馬で競技中に泣く ドイツのアニカ・シュロイ（Annika Schleu）は馬術まで好位置につけてい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,31 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50代女性が自宅療養中に死亡 東京都 第５波で確認は初 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210807/k10013188141000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210807/k10013188141000.html"/>
-        <updated>2021-08-07T11:48:31.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスに感染して亡くなったと都が7日発表した4人のうち50代の女性は、自宅療養中に体調が急変して、搬送された病院で亡くなったということです。今回の第5波で、自宅や施設で療養中に死亡した「自宅療養中」の死者を都が把握したのは初めてです。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[河野太郎 on Twitter: "100人あたりの１日ワクチン接種数の国際比較。 https://t.co/eFqi7gmJRt"]]></title>
         <id>https://twitter.com/konotarogomame/status/1423941864768512001</id>
         <link href="https://twitter.com/konotarogomame/status/1423941864768512001"/>
         <updated>2021-08-07T11:03:59.000Z</updated>
         <summary type="html"><![CDATA[100人あたりの１日ワクチン接種数の国際比較。 https://t.co/eFqi7gmJRt]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「勝ち組の女殺したくなる」小田急線刺傷容疑者が供述 - 産経ニュース]]></title>
-        <id>https://www.sankei.com/article/20210807-ABNQ34UNXFO4XLSEN6BXBFF4S4/</id>
-        <link href="https://www.sankei.com/article/20210807-ABNQ34UNXFO4XLSEN6BXBFF4S4/"/>
-        <updated>2021-08-07T10:57:18.000Z</updated>
-        <summary type="html"><![CDATA[警視庁成城署に入る対馬悠介容疑者＝７日午前６時１４分小田急線の乗客１０人が刺傷されるなどした事件で、川崎市多摩区の職業不詳、対馬悠介容疑者（３６）＝殺人未遂容疑で逮捕＝が「以前サークルでばかにされ、出会い系でも断られるなどし、勝ち組の女や幸せそうなカップルを見ると殺したくなるようになった」と供述...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【表敬訪問の詳報】河村市長「旦那はいらないか」「恋愛禁止か」等の質問も ソフト後藤選手は“大人の対応”]]></title>
-        <id>https://www.fnn.jp/articles/-/221019</id>
-        <link href="https://www.fnn.jp/articles/-/221019"/>
-        <updated>2021-08-07T08:35:35.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックのソフトボールで金メダルを獲得した、名古屋市出身の後藤選手が4日、河村たかし市長を表敬訪問した際、市長が金メダルをかじり、苦情や批判が殺到しています。 表敬訪問では、その後も河村市長は「旦那いらないか」「恋愛禁止か」などの質問をしていました。当時の会話について詳細をまとめました。 金...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[脱出「ずっと我慢してた」　帰省ラッシュ初日の東京駅：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP87574FP86UTIL033.html</id>
         <link href="https://www.asahi.com/articles/ASP87574FP86UTIL033.html"/>
@@ -241,26 +261,6 @@
         <link href="https://b.hatena.ne.jp/entry/4706547740968477506/comment/daisya"/>
         <updated>2021-08-07T07:22:46.000Z</updated>
         <summary type="html"><![CDATA[このブックマークは合計 {{ #hasPurple }}Purple Star {{ purpleCount }}{{ /hasPurple }} {{ #hasBlue }}Blue Star {{ blueCount }}{{ /hasBlue }} {{ #hasRed }}Red Star {{ redCount }}{{ /hasRed }} {{ #hasGreen }}Green Star {{ greenCount }}{{ /hasGreen }} {{ #hasYellow }}Normal Star {{ yellowCount }}{{ /h...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【音量注意】「この夏1番絶叫した」猫さんがもたらした地獄に飼い主さんガチ悲鳴「申し訳ないけど大笑いした」「10ループくらいした」 - Togetter]]></title>
-        <id>https://togetter.com/li/1755845</id>
-        <link href="https://togetter.com/li/1755845"/>
-        <updated>2021-08-07T07:05:29.000Z</updated>
-        <summary type="html"><![CDATA[みょん🐈🧡 @gomimiyon @cyo_ma ベランダに出したのよ クッションにつかまってる隙に そしたらまた部屋に持って来られた… マジで網戸締め切って猫君も締め出せば良かった 小さい頃はセミ触れたけど今はマジで無理 pic.twitter.com/SbENaRq1iX 2021-08-06 16:59:53]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三木 那由他 on Twitter: "男性から女性への暴力においては、どういうわけか加害者側に多くの同情が寄せられると言われています。そうした「ヒムパシー」の仕組みについては、ケイト・マンの『ひれふせ、女たち』が参考になると思います。 https://t.co/aLSNjzqVcP"]]></title>
-        <id>https://twitter.com/nayuta_miki/status/1423874711088373762</id>
-        <link href="https://twitter.com/nayuta_miki/status/1423874711088373762"/>
-        <updated>2021-08-07T06:39:02.000Z</updated>
-        <summary type="html"><![CDATA[男性から女性への暴力においては、どういうわけか加害者側に多くの同情が寄せられると言われています。そうした「ヒムパシー」の仕組みについては、ケイト・マンの『ひれふせ、女たち』が参考になると思います。 https://t.co/aLSNjzqVcP]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

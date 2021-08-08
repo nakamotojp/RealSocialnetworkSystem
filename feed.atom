@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-08T08:13:09.652Z</id>
+    <id>urn:2021-08-08T09:12:03.898Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T08:13:09.652Z</updated>
+    <updated>2021-08-08T09:12:03.898Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 新たに4066人感染確認 日曜日としては最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210808/k10013188851000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210808/k10013188851000.html"/>
+        <updated>2021-08-08T07:54:06.000Z</updated>
+        <summary type="html"><![CDATA[東京都は、8日、都内で新たに4066人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の日曜日より1008人増えていて、日曜日としては最も多くなりました。 また、1日の感染確認が4000人を超えるのは5日連続で、感染の急激な拡大が続いています。 一方、都の基準で集計した8日時点の重症の患者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「自分は感染しない」40代と50代の約半数 リスク認識が不十分 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210808/k10013188871000.html</id>
@@ -116,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[イーロン・マスクのロケット製造５つのステップがサイコーだった – ベルリンで働くソフトウェアエンジニアのブログ]]></title>
+        <id>https://jabba.cloud/20210807-elon-musk</id>
+        <link href="https://jabba.cloud/20210807-elon-musk"/>
+        <updated>2021-08-08T00:15:01.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスクがYouTubeチャネルでスペースXのテキサス工場スターベースの中を歩き回りながらロケット製造や電気自動車について説明しているのを観た。ツイートしたこの件。 今までいろんなイーロン・マスクのインタビューを観てきたけど、これがダントツで面白い。 やっぱり工場内で「作ること」に特化して話すから...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ほとんどの人は本質的に善良であると、強力に性善説を推し進める一冊──『Humankind 希望の歴史 人類が善き未来をつくるための18章』 - 基本読書]]></title>
         <id>https://huyukiitoichi.hatenadiary.jp/entry/2021/08/08/080000</id>
         <link href="https://huyukiitoichi.hatenadiary.jp/entry/2021/08/08/080000"/>
@@ -131,16 +151,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210808/k10013188361000.html"/>
         <updated>2021-08-07T23:24:02.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスのニュースと切っても切り離すことができなかった東京オリンピックで、マスク姿の1人のバレーボール選手が話題になりました。 男子ブラジル代表のルーカス・サートカンプ選手。 感染防止のためとはいえ、試合前だけでなく試合中でも決してマスクを外すことがなかった彼にその理由を尋ねました。 その...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イトーキ、「Post Corona Workplace Guide Book Vol.1」を公開― 今をどうするか。将来をどうするか。―　安全に、成長を止めないための緊急事態解除後の働き方とは | プレスリリース一覧 | 会社情報（プレスリリース） | ITOKI]]></title>
-        <id>https://www.itoki.jp/press/2020/2005_post-corona.html</id>
-        <link href="https://www.itoki.jp/press/2020/2005_post-corona.html"/>
-        <updated>2021-08-07T23:17:34.000Z</updated>
-        <summary type="html"><![CDATA[TOP プレスリリース イトーキ、「Post Corona Workplace Guide Book Vol.1」を公開― 今をどうするか。将来をどうするか。―　安全に、成長を止めないための緊急事態解除後の働き方とは イトーキ、「Post Corona Workplace Guide Book Vol.1」を公開 ― 今をどうするか。将来をどうするか。― 安全に、成長を止めないための...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://twitter.com/konotarogomame/status/1423941864768512001"/>
         <updated>2021-08-07T11:03:59.000Z</updated>
         <summary type="html"><![CDATA[100人あたりの１日ワクチン接種数の国際比較。 https://t.co/eFqi7gmJRt]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サマードッグ（エスパー魔美）]]></title>
-        <id>https://dorachan.tameshiyo.me/SUMMERDOG</id>
-        <link href="https://dorachan.tameshiyo.me/SUMMERDOG"/>
-        <updated>2021-08-06T15:17:33.000Z</updated>
-        <summary type="html"><![CDATA[しばらく経ってもこの画面に変化がない場合は、Javascript を on にして再度読み込んで下さい。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

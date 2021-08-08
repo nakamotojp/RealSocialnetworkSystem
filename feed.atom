@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-08T05:10:12.069Z</id>
+    <id>urn:2021-08-08T06:14:18.230Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T05:10:12.069Z</updated>
+    <updated>2021-08-08T06:14:18.230Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京五輪「馬への虐待行為」で海外SNSが大炎上…近代五種女子でドイツコーチが障害を跳ばない馬を殴って追放処分（Yahoo!ニュース オリジナル THE PAGE）]]></title>
+        <id>https://news.yahoo.co.jp/articles/922760907074a018185f7374a536aa9a0c745039</id>
+        <link href="https://news.yahoo.co.jp/articles/922760907074a018185f7374a536aa9a0c745039"/>
+        <updated>2021-08-08T03:16:27.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪の近代五種女子の馬術で馬を殴ったドイツ代表チームのコーチ、キム・ライスナーが大会からの追放処分を受けた問題が、動物虐待問題として世界へ大きな波紋を広げている。事件が起きたのは6日。ドイツのアニカ・シュロイの騎乗した馬が障害の飛越を拒否した際にライスナーコーチが「馬を叩け」と指示し、コーチが...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女性俳優が映画監督・遊山直奇のセクハラ・パワハラを告発 - Togetter]]></title>
         <id>https://togetter.com/li/1756393</id>
@@ -121,16 +131,6 @@
         <link href="https://www.tokyo-np.co.jp/article/122723"/>
         <updated>2021-08-07T22:13:26.000Z</updated>
         <summary type="html"><![CDATA[東京五輪は、期間中に感染者が急増した新型コロナウイルス対策、暑さを考慮した競技日程の急な変更など、最後まで対応に追われた。国際オリンピック委員会（ＩＯＣ）と大会組織委員会は一様に成功を強調するが、疑問や不満は残った。（小嶋麻友美、藤川大樹）]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[患者「苦しい」…防護服の看護師奔走　コロナ病床倍増「災害だ」　緊迫の大学病院：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/122687</id>
-        <link href="https://www.tokyo-np.co.jp/article/122687"/>
-        <updated>2021-08-07T22:12:06.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染急拡大で、医療現場は緊迫の度を増している。コロナ病床を現在の３１から６０に倍増する予定の千葉大病院（千葉市中央区）では、医師や看護師が感染リスクと向き合いながら、奮闘を続けている。病院の特別許可を得て、記者は院内の実態を取材することができた。医師の１人はこう訴えた。「災害...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

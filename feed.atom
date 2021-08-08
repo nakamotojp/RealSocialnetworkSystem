@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-08T20:11:58.118Z</id>
+    <id>urn:2021-08-08T21:10:36.059Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T20:11:58.118Z</updated>
+    <updated>2021-08-08T21:10:36.059Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://twitter.com/yuking1125/status/1424356153136336902"/>
         <updated>2021-08-08T13:10:57.000Z</updated>
         <summary type="html"><![CDATA[海外選手達がギブアップし、 選手村に帰ったり、寝そべったりしている中、日本選手団はスピーチをしっかり聞いておられます。 これは学生時代にに校長先生達に鍛えられた成果と推測しております。 現場からは以上です！ https://t.co/kbpNFBlJlF]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪で自粛ムード「ゆるんだ」61%　朝日新聞世論調査：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP886DCNP86UZPS003.html</id>
+        <link href="https://www.asahi.com/articles/ASP886DCNP86UZPS003.html"/>
+        <updated>2021-08-08T12:57:45.000Z</updated>
+        <summary type="html"><![CDATA[この夏の東京五輪の開催で、新型コロナウイルス対策としての世の中の自粛ムードが「ゆるんだ」と答えた人は61%――。朝日新聞社が7、8日に実施した全国世論調査（電話）で、そんな結果が出た。「それほど（ゆるんだというほど）ではない」と答えた人は、32%だった。 新型コロナの政府対応をめぐっては、菅内閣発足直後の昨...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +61,16 @@
         <link href="https://news.yahoo.co.jp/articles/05de53da500fbd356db59bb58127eaa5e98ed86a"/>
         <updated>2021-08-08T12:00:33.000Z</updated>
         <summary type="html"><![CDATA[東京五輪の閉会式が８日午後８時から始まった。閉会式が始まると、国立競技場周辺に集まった人々は一斉にスマートフォンを構えた。 国立競技場周辺の沿道には午後６時にはすでに大勢の人が集まり、午後８時前には歩道をスムーズに歩けないほどの人だかりが出来ていた。多くの人がスマートフォンやカメラで撮影をし、警察...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワンボタンゲームをたくさん作ったので、その作り方をおさらいしたい - ABAの日誌]]></title>
+        <id>https://aba.hatenablog.com/entry/2021/08/08/195706</id>
+        <link href="https://aba.hatenablog.com/entry/2021/08/08/195706"/>
+        <updated>2021-08-08T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 自作ゲームライブラリcrisp-game-libを使ったミニゲームを最近たくさん作っているが、特に多く作っているのがワンボタンゲームだ。ここで言うワンボタンゲームは、レバーによる移動の他のボタンが1つ、といったものではなくて、純粋に1つのボタンしか操作に使わないゲームを指す。 ワンボタンゲームの利点は、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,21 +216,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[オーストラリア宛の荷物は植物や動物の絵柄入りはNG！→真面目な理由があり、国によってルール色々「ほんとに容赦なく返される」 - Togetter]]></title>
-        <id>https://togetter.com/li/1756472</id>
-        <link href="https://togetter.com/li/1756472"/>
-        <updated>2021-08-08T05:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Machiko @Machiko33624922 オーストラリアの船便作ったんやけど 取りにいらした方が 「あ、オーストラリアですよね？ オーストラリアは動物の柄の箱は送れないんですよ」 パンダでアウト😂 pic.twitter.com/3i792wn99C 2021-08-06 16:00:52]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[張本勲氏、入江聖奈の金メダルに「こんな競技好きな人がいるんだ」　五輪女子ボクシングめぐる発言に批判相次ぐ（J-CASTニュース） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/5e795bdf9607d7e318898e76409bf4afaf596d5c</id>
         <link href="https://news.yahoo.co.jp/articles/5e795bdf9607d7e318898e76409bf4afaf596d5c"/>
         <updated>2021-08-08T05:42:02.000Z</updated>
         <summary type="html"><![CDATA[野球評論家の張本勲氏（81）が2021年8月8日放送の「サンデーモーニング」（TBS系）にリモート生出演し、東京五輪の各競技の結果について言及した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ええいままよ！」]]></title>
+        <id>https://anond.hatelabo.jp/20210805124404</id>
+        <link href="https://anond.hatelabo.jp/20210805124404"/>
+        <updated>2021-08-08T04:47:23.000Z</updated>
+        <summary type="html"><![CDATA[これって使ったことある？　どういう状況でいえばいいの？ あと「南無三！」も]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +261,6 @@
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210808-00251965"/>
         <updated>2021-08-08T01:39:42.000Z</updated>
         <summary type="html"><![CDATA[第5波における新規感染者数の増加ペースは全く衰える気配がなく、ついに1日あたりの感染者数は5000人を超える日も出てきました。 そんな緊迫感が高まっている中、一部では「死亡者数は増えていないからまだ大丈夫」という論調もあるようですが、これは本当でしょうか？ 確かに新規感染者数と比較して死亡者数は少ない日...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京五輪の開催費用で買えたモノ「３００の病院」「１２００の学校」 米紙が皮肉報道（東スポWeb） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/cacaa62e26a08e1f4517714aba7a020e480f7dd0</id>
-        <link href="https://news.yahoo.co.jp/articles/cacaa62e26a08e1f4517714aba7a020e480f7dd0"/>
-        <updated>2021-08-08T00:45:28.000Z</updated>
-        <summary type="html"><![CDATA[海外メディアが東京五輪の莫大な開催費用があれば「他に何が買えるのか」を特集した。 【目撃撮】タワマンから見たら大炎上していた国立競技場 米紙「イリノイニューストゥデー」は、東京五輪の巨額な費用に注目。英国のオックスフォード大学の調査をもとに「東京五輪の公式見解による費用は１５４億ドル（約１兆７００...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://www.ajinomoto.co.jp/foodservice/recipepro/detail.aspx?recipe=24248"/>
         <updated>2021-08-07T20:23:01.000Z</updated>
         <summary type="html"><![CDATA[作り方 （1）炊飯器に洗った米、A、「中華味」顆粒、水を加え炊く。 （2）（1）にねぎのみじん切り入れ、よく混ぜ合わせる。 （3）器に（2）を盛りつける。 栄養成分 (1人前当たり) ※汁物、つゆ類は全て飲んだ状態のカロリー・塩分になっております。ご了承ください。 エネルギー たんぱく質 脂質 炭水化物 カルシウム ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エムザ、男性刺される　金沢、殺人未遂容疑６８歳女逮捕｜社会｜石川のニュース｜北國新聞]]></title>
-        <id>https://www.hokkoku.co.jp/articles/-/490998</id>
-        <link href="https://www.hokkoku.co.jp/articles/-/490998"/>
-        <updated>2021-08-06T05:25:18.000Z</updated>
-        <summary type="html"><![CDATA[命に別条なし ５日午後５時１２分ごろ、金沢市武蔵町の百貨店「金沢エムザ」地下１階の書店で、「女が刃物で男性を刺したようだ」と従業員が１１０番通報した。駆け付けた金沢東署員が殺人未遂の疑いで、金沢市松村２丁目、無職大田紀子容疑者（６８）を現行犯逮捕した。刺された金沢市の５０代男性は市内の病院に搬送さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

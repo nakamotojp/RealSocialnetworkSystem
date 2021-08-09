@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-09T01:54:31.229Z</id>
+    <id>urn:2021-08-09T02:22:59.715Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T01:54:31.229Z</updated>
+    <updated>2021-08-09T02:22:59.715Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://itlaw.hatenablog.com/entry/2021/08/08/221130"/>
         <updated>2021-08-08T22:28:05.000Z</updated>
         <summary type="html"><![CDATA[ソフトウェアの1ライセンスで許諾される利用可能な範囲と，通常料金の10倍という高額な違約金を定める条項の有効性が問題となった事例。 事案の概要 Xは，メタボリックシンドロームに着目した健康診査及び保健指導に関するデータ作成用のプログラム（本件プログラム）の著作権者である。本件プログラムには，平成30年の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京オリンピックのサイバー関連の出来事についてまとめてみた - piyolog]]></title>
+        <id>https://piyolog.hatenadiary.jp/entry/2021/08/09/070000</id>
+        <link href="https://piyolog.hatenadiary.jp/entry/2021/08/09/070000"/>
+        <updated>2021-08-08T22:22:14.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックについて、これまで関係組織からの発表や報道されたサイバー関連事象についてまとめます。この記事は個別事象を整理したもので各々の関連性は一部を除きありません。また大会期間中のものを判別つきやすくするためタイトル部を赤文字で記載しています。 大会中に起きたこと 東京オリンピック期間中、過...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://note.com/daitamesue/n/n942806bc5ee2"/>
         <updated>2021-08-08T01:38:04.000Z</updated>
         <summary type="html"><![CDATA[オリンピックを終えた選手の皆さんお疲れ様でした。結果が良かった方も思わしくなかった方もいると思いますが、どの選手もここまで努力してきたことは素晴らしいことだと思います。 このようなタイミングでお話しするの憚られますが、オリンピックに出たりメダルを取っても幸せになるとは限りません。東京五輪の残像とい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぴよも on Twitter: "寒い。ぜｒんしののふるえがとまらない。救急車かえってしまいました。いまはこうきゅうがこんなんな方しか病院はうけいれてｒくれいなようです。 まっすぐ歩けない。このまま賃貸で一人過ごしていると容態が急変してしんでしまうのではないかと不安で外で寝ていたら警察沙汰になってしまいました…。"]]></title>
-        <id>https://twitter.com/Piyomo_dac/status/1424028806533156868</id>
-        <link href="https://twitter.com/Piyomo_dac/status/1424028806533156868"/>
-        <updated>2021-08-08T00:15:13.000Z</updated>
-        <summary type="html"><![CDATA[寒い。ぜｒんしののふるえがとまらない。救急車かえってしまいました。いまはこうきゅうがこんなんな方しか病院はうけいれてｒくれいなようです。 まっすぐ歩けない。このまま賃貸で一人過ごしていると容態が急変してしんでしまうのではないかと不安で外で寝ていたら警察沙汰になってしまいました…。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-09T22:11:10.896Z</id>
+    <id>urn:2021-08-09T23:12:07.902Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T22:11:10.896Z</updated>
+    <updated>2021-08-09T23:12:07.902Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[日本でフェミサイドは起きているのか]]></title>
+        <id>https://anond.hatelabo.jp/20210810002154</id>
+        <link href="https://anond.hatelabo.jp/20210810002154"/>
+        <updated>2021-08-09T19:58:36.000Z</updated>
+        <summary type="html"><![CDATA[https://b.hatena.ne.jp/entry/s/shioshio3.hatenablog.com/entry/2021/08/09/184216 このブログへの反応（ブックマーク）を読んでいて少し気になった事が有ったので、書いてみる。 気になったと書いたが、私は多くのブックマークコメント（特に人気コメント）に同意である。 多くのコメントはブログに対して「フェミサ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 － Publickey]]></title>
         <id>https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html</id>
@@ -21,6 +31,16 @@
         <link href="https://ykic.hateblo.jp/entry/2021/08/09/220307"/>
         <updated>2021-08-09T13:30:49.000Z</updated>
         <summary type="html"><![CDATA[はてなインターネット文学賞「わたしとインターネット」 初めてインターネットに接続したのはとにかく誰よりも早くコンシューマーゲームのチートがやりたかったからで、私が初めて閲覧したウェブサイトは、ゲームのチート情報サイトだった。 私の家にはなぜかバックアップ活用テクニックやゲームラボが山のように置いて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地球温暖化の原因は人間の活動と初めて断定 国連IPCCが報告書 | 環境 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210809/k10013191801000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210809/k10013191801000.html"/>
+        <updated>2021-08-09T13:19:01.000Z</updated>
+        <summary type="html"><![CDATA[世界各国の科学者でつくる国連のIPCC＝「気候変動に関する政府間パネル」は、地球温暖化に関する報告書を8年ぶりに公表しました。 温暖化が進めば熱波や豪雨といった「極端現象」の頻度や強さが増すとして、温室効果ガスの排出を削減するよう警鐘を鳴らしています。 IPCCは、先月26日からオンラインで開かれた会合で、最...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,26 +281,6 @@
         <link href="https://jp.yna.co.kr/view/AJP20210809002600882"/>
         <updated>2021-08-09T04:14:55.000Z</updated>
         <summary type="html"><![CDATA[【ソウル聯合ニュース】韓国ＭＢＣテレビの調査報道番組「ＰＤ手帳」は９日、韓国情報機関の国家情報院（国情院）と日本の右翼団体の間で不当な取引があったことを確認し、１０日の番組で関連映像や内容を報じると予告した。 制作陣によると、国情院で２５年間海外工作員として勤務した情報提供者が、番組側に対し「国情...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫画家が連載に向けて日々ネームを練り上げても、連載に至るまでギャラが発生しないことについての話 - Togetter]]></title>
-        <id>https://togetter.com/li/1756924</id>
-        <link href="https://togetter.com/li/1756924"/>
-        <updated>2021-08-09T02:55:02.000Z</updated>
-        <summary type="html"><![CDATA[22世紀ジェダイ　22nd century JEDI @22_kadokura 漫画家の親友がいて連載に向けて担当編集者と毎日ネームを練り上げてる様子を1年近く見ているのだけれど、連載に至るまでこの間のやりとりで発生するギャラは0と知ってびっくりしている。1年以上練り上げた原稿がボツでギャラ0なこともあるらしくちょっとあまりにも出版...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セックス拒否とその結果]]></title>
-        <id>https://anond.hatelabo.jp/20210809095410</id>
-        <link href="https://anond.hatelabo.jp/20210809095410"/>
-        <updated>2021-08-09T00:56:58.000Z</updated>
-        <summary type="html"><![CDATA[3年前の夏まで週1から週2で妻とはセックスをしていた。 そんな夏のある日、妻より、セックスはしたくないという宣言があった。 1ヶ月ほどは、挿入はなしで、週1でフェラのみはしてもらった。 そして、フェラも拒否宣言があった。その後は⒉ヶ月ほど手こきのみが1ヶ月ほどあった。 そしてお正月に一切の性行為は拒否される...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

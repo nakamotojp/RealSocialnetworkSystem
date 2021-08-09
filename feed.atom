@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-09T08:13:54.172Z</id>
+    <id>urn:2021-08-09T09:12:48.383Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T08:13:54.172Z</updated>
+    <updated>2021-08-09T09:12:48.383Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 2884人感染確認 月曜日としては過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210809/k10013190941000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210809/k10013190941000.html"/>
+        <updated>2021-08-09T07:48:13.000Z</updated>
+        <summary type="html"><![CDATA[東京都は、9日都内で新たに2884人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の月曜日より689人増えていて、月曜日としては最も多くなりました。 一方、都の基準で集計した9日時点の重症の患者は、8日より6人増えて157人になりました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ 菅首相「不要不急の外出、帰省、旅行 極力避けて」 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210809/k10013190931000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210809/k10013190931000.html"/>
+        <updated>2021-08-09T07:00:39.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり、菅総理大臣は、長崎市で記者会見し、若い世代で重症化のリスクが高まっているとして、不要不急の外出や、帰省、旅行を極力避けるなど、感染拡大防止への協力を呼びかけました。 この中で、菅総理大臣は、新型コロナウイルスの感染状況について「若者から家庭への感染が広がっているとい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コロナ感染の野々村真　自宅療養で悪化し入院　妻・俊恵が告白「肺が真っ白」「心電図をつけて」 | 東スポのニュースに関するニュースを掲載]]></title>
         <id>https://www.tokyo-sports.co.jp/entame/news/3510193/</id>
@@ -56,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「チャッカマンができるまで」を作った会社に聞いてきた :: デイリーポータルZ]]></title>
-        <id>https://dailyportalz.jp/kiji/How-Chuckaman-was-made</id>
-        <link href="https://dailyportalz.jp/kiji/How-Chuckaman-was-made"/>
-        <updated>2021-08-09T02:43:56.000Z</updated>
-        <summary type="html"><![CDATA[1975年宮城県生まれ。元SEでフリーライターというインドア経歴だが、人前でしゃべる場面で緊張しない生態を持つ。主な賞罰はケータイ大喜利レジェンド。路線図が好き。（動画インタビュー） 前の記事：花火のパッケージが派手なのは伝えたいことがたくさんあるから ＞ 個人サイト 右脳TV 「仏壇に使われるとは思っていな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「五輪終わればコロナ一色」　楽観論に懸けた政権　感染爆発に焦り（西日本新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/027e8630a3782dde2bab0bb9c47a193ad29f80ca</id>
         <link href="https://news.yahoo.co.jp/articles/027e8630a3782dde2bab0bb9c47a193ad29f80ca"/>
@@ -81,16 +91,6 @@
         <link href="https://anond.hatelabo.jp/20201019154826"/>
         <updated>2021-08-09T02:05:09.000Z</updated>
         <summary type="html"><![CDATA[あえてパンピーと言う見下した言い方をするのは やつらが「自分の価値観以外のパラダイムを認知するための脳の容量がゼロだから」な。 そうじゃないただの一般人をパンピーとは思いません。 でさあ、 ネットで何気なく雑談みたいなことしてて パンピーが突然激昂してくるのって必ず飛行機の話題なのよ。 俺が他の乗客と...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[池澤夏樹さん「ウソにまみれた五輪」　感動の消費で終わらないために - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP886X95P88IIPE01G.html</id>
-        <link href="https://www.asahi.com/articles/ASP886X95P88IIPE01G.html"/>
-        <updated>2021-08-09T01:24:50.000Z</updated>
-        <summary type="html"><![CDATA[コロナ禍のなか強行された今回の東京五輪。招致活動から開催まで底流にあるのは何か。作家・池澤夏樹さん（76）に聞いた。 今回の東京五輪全体を総括すれば、あまりにもウソが多かった五輪ということになるかと思います。 池澤夏樹（いけざわ・なつき）　1945年、北海道帯広市生まれ。作家、詩人。ギリシャや沖縄、フラ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

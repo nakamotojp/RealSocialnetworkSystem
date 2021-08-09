@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-09T20:12:32.571Z</id>
+    <id>urn:2021-08-09T21:11:11.675Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T20:12:32.571Z</updated>
+    <updated>2021-08-09T21:11:11.675Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[俺とお前とインターネット - はてなダイアリー]]></title>
+        <id>https://ykic.hateblo.jp/entry/2021/08/09/220307</id>
+        <link href="https://ykic.hateblo.jp/entry/2021/08/09/220307"/>
+        <updated>2021-08-09T13:30:49.000Z</updated>
+        <summary type="html"><![CDATA[はてなインターネット文学賞「わたしとインターネット」 初めてインターネットに接続したのはとにかく誰よりも早くコンシューマーゲームのチートがやりたかったからで、私が初めて閲覧したウェブサイトは、ゲームのチート情報サイトだった。 私の家にはなぜかバックアップ活用テクニックやゲームラボが山のように置いて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サラダ油の引火点なんか知るか（当方、危険物免許甲種所持）]]></title>
         <id>https://anond.hatelabo.jp/20210809214314</id>
@@ -176,6 +186,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[平井堅がヤバいことになった...... - オトニッチ－音楽の情報.com－]]></title>
+        <id>https://www.ongakunojouhou.com/entry/2021/08/09/150116</id>
+        <link href="https://www.ongakunojouhou.com/entry/2021/08/09/150116"/>
+        <updated>2021-08-09T07:42:23.000Z</updated>
+        <summary type="html"><![CDATA[ここ最近の平井堅がヤバい。 そのヤバさは年々増大している。2021年はヤバさを超えて狂気になった。いつの間にか日本屈指のヤバいミュージシャンになった。 平井堅のヤバさは、2014年前後から少しずつ滲み出始めた。 『ソレデモシタイ』という楽曲のMVで、自らを「インド人だ」と言い張った時から、彼のヤバさに気づく人...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新型コロナ 菅首相「不要不急の外出、帰省、旅行 極力避けて」 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210809/k10013190931000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210809/k10013190931000.html"/>
@@ -211,26 +231,6 @@
         <link href="https://news.yahoo.co.jp/articles/9e563413bb9c56f682a57908e37e662b50c7ae00"/>
         <updated>2021-08-09T05:23:49.000Z</updated>
         <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会の武藤敏郎事務総長（７８）が五輪閉幕から一夜明けた９日、都内で報道陣の取材に応じた。 【写真】緑じゃない！？閉会式で見せた小池知事の豪華な勝負着物 五輪を終え「始まってみると、あっという間だったが、１４年からの７年半の準備期間は大変長く感じた。道のりの中でたくさん...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナ感染の野々村真　自宅療養で悪化し入院　妻・俊恵が告白「肺が真っ白」「心電図をつけて」 | 東スポのニュースに関するニュースを掲載]]></title>
-        <id>https://www.tokyo-sports.co.jp/entame/news/3510193/</id>
-        <link href="https://www.tokyo-sports.co.jp/entame/news/3510193/"/>
-        <updated>2021-08-09T04:54:43.000Z</updated>
-        <summary type="html"><![CDATA[野々村真 先月３１日に新型コロナウイルス感染を発表していたタレントの野々村真（５７）が、自宅療養中に症状が悪化し、５日から入院していることが９日、分かった。 この日放送されたフジテレビ系「バイキングＭＯＲＥ」で、妻でタレントの俊恵（５７）が明かした。 ８日に同番組の取材に応じた俊恵は「（入院して）検...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「他の人に同じ絵を取られないように、植物を踏み潰す」鉄道写真に限らず写真家には陥りやすい病があるという話 - Togetter]]></title>
-        <id>https://togetter.com/li/1756944</id>
-        <link href="https://togetter.com/li/1756944"/>
-        <updated>2021-08-09T04:39:34.000Z</updated>
-        <summary type="html"><![CDATA[ぼんじん(猫おじさん介護中) @Bonezine 撮り鉄問題、鉄道写真に限らず写真家には陥りやすい病があって、例えば孤独に山に登って植物を撮影するのは平和だと思うけど、他の人に同じ絵を取られないように踏み潰していく写真家もいるって聞いた時には、もはや写真を撮る行為そのものが人間の汚濁の部分を現すものなのかなと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

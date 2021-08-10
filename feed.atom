@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T10:13:20.288Z</id>
+    <id>urn:2021-08-10T11:09:59.781Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T10:13:20.288Z</updated>
+    <updated>2021-08-10T11:09:59.781Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁次官候補の伊藤穣一氏、「性犯罪者から資金提供はさすがにマズイ」と人事問題化に | デイリー新潮]]></title>
+        <id>https://www.dailyshincho.jp/article/2021/08101050/?all=1</id>
+        <link href="https://www.dailyshincho.jp/article/2021/08101050/?all=1"/>
+        <updated>2021-08-10T08:58:50.000Z</updated>
+        <summary type="html"><![CDATA[ジェフリー・エプスタインとの関係 菅義偉首相の肝いりで新設される予定のデジタル庁について、事務方トップの「デジタル監（事務次官に相当）」に、実業家で個人投資家の伊藤穰一氏（55）を起用する方向で最終調整に入ったと報じられた。伊藤氏は、「食べログ」などを運営するカカクコムなどを傘下に持つ「デジタルガレ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 3人死亡 2612人感染確認 重症患者が最多に | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210810/k10013192901000.html</id>
@@ -31,6 +41,16 @@
         <link href="https://togetter.com/li/1757558"/>
         <updated>2021-08-10T06:39:03.000Z</updated>
         <summary type="html"><![CDATA[むぎナス @mkamkaumai この状態で「完食」とする人に対してどれだけお育ちに自信がある人であっても「ｱﾁｬ~」と内心思わずにいられない。ご飯粒一粒にも神様が宿っているんや....？ pic.twitter.com/Xe823giFJb 2021-08-08 19:10:13]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[２人死亡事故 幅寄せの車特定 過失運転致死傷容疑などで逮捕 | 事故 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013192591000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013192591000.html"/>
+        <updated>2021-08-10T06:14:10.000Z</updated>
+        <summary type="html"><![CDATA[去年12月、群馬県の北関東自動車道で乗用車がガードレールに衝突し女性2人が死亡、2人が重軽傷を負った事故で、警察は乗用車に幅寄せする形で走行し、事故を引き起こしたうえそのまま逃げたとして、過失運転致死傷とひき逃げの疑いで、栃木県に住む54歳の会社役員を逮捕しました。 この事故は当初、単独事故とみられてい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -86,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[映画『機動戦士ガンダム 閃光のハサウェイ』はなぜここまでヒットした？ その成功の裏には、富野監督と向き合ってきた“富野番”敏腕プロデューサーがいた]]></title>
+        <id>https://news.denfaminicogamer.jp/interview/210810a</id>
+        <link href="https://news.denfaminicogamer.jp/interview/210810a"/>
+        <updated>2021-08-10T03:04:56.000Z</updated>
+        <summary type="html"><![CDATA[映画『機動戦士ガンダム 閃光のハサウェイ』はなぜここまでヒットした？ その成功の裏には、富野監督と向き合ってきた“富野番”敏腕プロデューサーがいた 1979年に最初のTVシリーズ『機動戦士ガンダム』が放映されて以来、40年以上に渡ってTVや映画、ゲームなどでさまざまな作品を積み重ねて、その人気を拡大してきた『ガ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[テレ朝社員の緊急搬送「大変遺憾」　10人の飲食会合、店の外に転落し負傷 - 芸能 : 日刊スポーツ]]></title>
         <id>https://www.nikkansports.com/entertainment/news/202108100000343.html</id>
         <link href="https://www.nikkansports.com/entertainment/news/202108100000343.html"/>
@@ -121,16 +151,6 @@
         <link href="https://tech.mobilefactory.jp/entry/2021/08/10/100000"/>
         <updated>2021-08-10T01:23:31.000Z</updated>
         <summary type="html"><![CDATA[はじめに こんにちは。ブロックチェーンチームのエンジニア、 @nanamachi です。 tech.mobilefactory.jp 前回の記事ではたくさんの方に閲覧&コメントいただきありがとうございました。この記事から1年。モバイルファクトリーは日本のどこからでも働けるようになり、書籍購入、資格取得、セミナー参加、懇親会の支援制度...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僕の心のヤバイやつ 【最新コミックス5巻発売中!】 | 桜井のりお | Karte.77 僕は突撃訪問した]]></title>
-        <id>https://mangacross.jp/comics/yabai/82</id>
-        <link href="https://mangacross.jp/comics/yabai/82"/>
-        <updated>2021-08-10T01:04:07.000Z</updated>
-        <summary type="html"><![CDATA[僕の心のヤバイやつ Karte.77 僕は突撃訪問した。宝島社「このマンガがすごい! 」オトコ編、2年連続ランクイン!! 2020年第３位、2021年第9位!! 次にくるマンガ大賞2020 Webマンガ部門 第１位!! 累計100万部へ…!! 最新コミックス4巻、2021年2月8日発売!! SNSで超話題の陰キャ少年と陽キャ美少女の 極甘青春ラブコメディ！...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,26 +281,6 @@
         <link href="https://news.yahoo.co.jp/articles/c436da6b3f8677369becb97ae31c14588a2e01ad"/>
         <updated>2021-08-09T14:11:00.000Z</updated>
         <summary type="html"><![CDATA[読売新聞社が７～９日に実施した全国世論調査で、東京五輪が開催されてよかったと「思う」は６４％に上り、「思わない」の２８％を大きく上回った。 【写真】首相、長崎の平和祈念式典に遅刻…政府は理由明らかにせず 今回の五輪をどのように開催するのがよかったかについては、「中止した方がよかった」が２５％となった...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俺とお前とインターネット - はてなダイアリー]]></title>
-        <id>https://ykic.hateblo.jp/entry/2021/08/09/220307</id>
-        <link href="https://ykic.hateblo.jp/entry/2021/08/09/220307"/>
-        <updated>2021-08-09T13:30:49.000Z</updated>
-        <summary type="html"><![CDATA[はてなインターネット文学賞「わたしとインターネット」 初めてインターネットに接続したのはとにかく誰よりも早くコンシューマーゲームのチートがやりたかったからで、私が初めて閲覧したウェブサイトは、ゲームのチート情報サイトだった。 私の家にはなぜかバックアップ活用テクニックやゲームラボが山のように置いて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サラダ油の引火点なんか知るか（当方、危険物免許甲種所持）]]></title>
-        <id>https://anond.hatelabo.jp/20210809214314</id>
-        <link href="https://anond.hatelabo.jp/20210809214314"/>
-        <updated>2021-08-09T12:45:42.000Z</updated>
-        <summary type="html"><![CDATA[サラダ油が燃えないことぐらい常識だろｗ と言われていて焦った。 え、そうなんだ。知らなかった。 当方、国立大博士課程修了、危険物取扱免許は甲種所持。ついでに薬剤師免許所持。 仕事でもさまざまな有機溶媒を取り扱っている。もちろんそいつらのおよその引火点は知ってるし（正確な数字は忘れたが）、引火の原理と...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

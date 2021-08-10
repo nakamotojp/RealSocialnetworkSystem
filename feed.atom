@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T03:13:16.557Z</id>
+    <id>urn:2021-08-10T04:15:21.718Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T03:13:16.557Z</updated>
+    <updated>2021-08-10T04:15:21.718Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[突撃！ 在宅の開発環境 2021年夏 - Mobile Factory Tech Blog]]></title>
+        <id>https://tech.mobilefactory.jp/entry/2021/08/10/100000</id>
+        <link href="https://tech.mobilefactory.jp/entry/2021/08/10/100000"/>
+        <updated>2021-08-10T01:23:31.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。ブロックチェーンチームのエンジニア、 @nanamachi です。 tech.mobilefactory.jp 前回の記事ではたくさんの方に閲覧&コメントいただきありがとうございました。この記事から1年。モバイルファクトリーは日本のどこからでも働けるようになり、書籍購入、資格取得、セミナー参加、懇親会の支援制度...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[僕の心のヤバイやつ 【最新コミックス5巻発売中!】 | 桜井のりお | Karte.77 僕は突撃訪問した]]></title>
         <id>https://mangacross.jp/comics/yabai/82</id>
@@ -26,11 +36,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「あしたのジョー」勝ったやつだけが勝者じゃない | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013182381000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013182381000.html"/>
+        <updated>2021-08-10T00:28:53.000Z</updated>
+        <summary type="html"><![CDATA[物心ついたときには父も母も行方不明だった少年がボクシングを覚えて困難を乗り越えていく。漫画家・ちばてつやさんは代表作『あしたのジョー』に人間の弱さと強さ、そして人生の敗者はいないというメッセージを込めていました。井上二郎アナウンサーが聞きました。 （アナウンス室 聞き手 井上二郎 取材 網秀一郎 塚原...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[野々村真は自宅で症状悪化…感染者急増の芸能界「コロナ対策が古すぎる」と厳しい指摘 | 東スポのニュースに関するニュースを掲載]]></title>
         <id>https://www.tokyo-sports.co.jp/entame/news/3511528/</id>
         <link href="https://www.tokyo-sports.co.jp/entame/news/3511528/"/>
         <updated>2021-08-10T00:28:34.000Z</updated>
         <summary type="html"><![CDATA[先月末から療養中の野々村真 感染爆発に歯止めがかからない！　東京都は９日、新型コロナウイルスの感染者が新たに２８８４人報告されたと発表した。月曜日としては過去最多となる。そうしたなか芸能界では、先月３１日に新型コロナウイルスに感染したと発表したタレントの野々村真（５７）が自宅療養中に症状が悪化し、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[籠原スナヲ on Twitter: "無料で読める青年漫画を読み漁って気づいたこと。 アラサー女子が主人公の漫画は、だいたいイケメン上司と恋に落ちるが、アラサー男子が主人公の漫画は、逆に部下の女を口説いたりはしない。職場とは関係のないところで天才的な女に出会ったり、孤独な少女を拾ったりする。ここに欲望の差を感じる。"]]></title>
+        <id>https://twitter.com/suna_kago/status/1424647837967519744</id>
+        <link href="https://twitter.com/suna_kago/status/1424647837967519744"/>
+        <updated>2021-08-10T00:25:14.000Z</updated>
+        <summary type="html"><![CDATA[無料で読める青年漫画を読み漁って気づいたこと。 アラサー女子が主人公の漫画は、だいたいイケメン上司と恋に落ちるが、アラサー男子が主人公の漫画は、逆に部下の女を口説いたりはしない。職場とは関係のないところで天才的な女に出会ったり、孤独な少女を拾ったりする。ここに欲望の差を感じる。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +81,16 @@
         <link href="https://courrier.jp/columns/256389/"/>
         <updated>2021-08-09T23:50:20.000Z</updated>
         <summary type="html"><![CDATA[日本の終戦記念日は8月15日だが、アメリカでは日本が降伏文書に署名した9月2日を「戦勝記念日」としている。そのアメリカに住んでいると、日米開戦の引き金となった真珠湾攻撃について尋ねられることがある。ニューヨーク在住で日米中の歴史に詳しい作家の譚璐美氏は、つい先日もそんな質問を受けて……。 留学前に日本の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪閉幕も支持率急落 政府与党に衝撃｜TBS NEWS]]></title>
+        <id>http://news.tbs.co.jp/newseye/tbs_newseye4333021.html</id>
+        <link href="http://news.tbs.co.jp/newseye/tbs_newseye4333021.html"/>
+        <updated>2021-08-09T23:20:42.000Z</updated>
+        <summary type="html"><![CDATA[８日閉幕した東京オリンピックについて、菅総理は「開催国としての責任を果たした」と成果を強調しました。しかし、内閣支持率は大幅に下落。政府与党に衝撃が走っています。 「開催国としての責任を果たして、無事に終えることが出来たと思っています。素晴らしい大会になったと思います」（菅首相） ９日、長崎で行わ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -86,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京五輪男子マラソンの「給水妨害疑惑問題」で世界中のSNSが大炎上…当事者の仏ランナーが釈明、謝罪も騒ぎは収まらず（Yahoo!ニュース オリジナル THE PAGE）]]></title>
-        <id>https://news.yahoo.co.jp/articles/93f60f06cdfc8aeb2e349d916a51058304d37abe</id>
-        <link href="https://news.yahoo.co.jp/articles/93f60f06cdfc8aeb2e349d916a51058304d37abe"/>
-        <updated>2021-08-09T22:08:46.000Z</updated>
-        <summary type="html"><![CDATA[男子マラソンでフランスのモルア・アンドゥニが給水ポイントでペットボトルをなぎ倒した行為を巡って海外のSNSが炎上。本人釈明も収まらず（(資料写真・ロイター/アフロ） 東京五輪の男子マラソンで17位だったフランス代表モルア・アンドゥニ（33）が給水ポイントでミネラルウォーターのペットボトルをなぎ倒した行為が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[個人利用クラウドへのアップロードも行われた再委託先従業員による情報持ち出しについてまとめてみた - piyolog]]></title>
         <id>https://piyolog.hatenadiary.jp/entry/2021/08/10/063000</id>
         <link href="https://piyolog.hatenadiary.jp/entry/2021/08/10/063000"/>
@@ -111,16 +141,6 @@
         <link href="https://www.businessinsider.jp/post-240121"/>
         <updated>2021-08-09T22:03:08.000Z</updated>
         <summary type="html"><![CDATA[7月23日、東京五輪開会式で打ち上げられた花火。東京は4度目の緊急事態宣言下、新型コロナ新規感染者数は4000人を超える日が続いた。 Mark Edward Harris 東京五輪が8月8日、閉幕した。米ニューヨークに住む私の周りでは、新型コロナの危機的な感染拡大が続くなかでの開催に、（在米の）日本人こそ懸念を示したものの、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぼくがかんがえたさいきょうのWasmビルド環境]]></title>
-        <id>https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env</id>
-        <link href="https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env"/>
-        <updated>2021-08-09T21:48:33.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR VS Code前提になってしまいますが、VS Code Remote Containers拡張最強です、という話。実際にどういう風に作れば良いかは参考リポジトリ作ったので見て下さい。 はじめに 背景ぼかしのような推論結果を使ってカメラ画像にフィルタを入れる処理を書くとき、今だと選択肢は大きく分けて2つあります。 tfjsを使う Wa...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html</id>
-        <link href="https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html"/>
-        <updated>2021-08-09T15:02:34.000Z</updated>
-        <summary type="html"><![CDATA[ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 オープンソースの検索エンジンElasticsearchは、ログ解析による運用監視やセキュリティインシデントの発見、データ分析などに使われている人気のソフトウェアです。 その開発元であるElasticは、E...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[五輪開催「よかった」６４％…読売世論調査（読売新聞オンライン） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/c436da6b3f8677369becb97ae31c14588a2e01ad</id>
         <link href="https://news.yahoo.co.jp/articles/c436da6b3f8677369becb97ae31c14588a2e01ad"/>
@@ -251,16 +261,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210809/k10013185171000.html"/>
         <updated>2021-08-09T11:56:59.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピックに出場したベラルーシ陸上代表のクリスチナ・チマノウスカヤ選手の亡命劇。今月1日に羽田空港で帰国を拒否し、5日に亡命先のポーランドに到着するという異例のスピードで展開しました。 ベラルーシ人の知り合いから、いち早く選手の亡命の意向を知らされた私は、その一部始終を取材。 “スピード亡命”の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バッハ会長、ポロシャツ姿で銀座散策　通行人の記念撮影にも応じる | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210809/k00/00m/040/191000c</id>
-        <link href="https://mainichi.jp/articles/20210809/k00/00m/040/191000c"/>
-        <updated>2021-08-09T11:12:12.000Z</updated>
-        <summary type="html"><![CDATA[警護がつく中、東京・銀座を歩くIOCのバッハ会長（中央）＝東京都中央区で2021年8月9日午後4時6分（読者提供） 東京オリンピックの閉幕から一夜明けた9日、国際オリンピック委員会（IOC）のトーマス・バッハ会長が東京・銀座を訪れ、人だかりができる一幕があった。 目撃した40代の女性によると、ポロシャツ姿のバッハ会...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T17:18:32.749Z</id>
+    <id>urn:2021-08-10T18:14:36.527Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T17:18:32.749Z</updated>
+    <updated>2021-08-10T18:14:36.527Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[尾身会長「感染力高まり あまり報告なかった場所でも感染」 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html"/>
+        <updated>2021-08-10T14:27:54.000Z</updated>
+        <summary type="html"><![CDATA[政府の分科会の尾身茂会長は10日夜、動画配信サイト「ニコニコ生放送」に出演し、感染力の強い変異ウイルス「デルタ株」が主流になり、感染がこれまで広がっていなかった場所でも報告されているとして、基本的な対策を徹底する必要があるという認識を示しました。 この中で、尾身会長はデルタ株について「確かに感染力は...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相の長崎式典遅刻の理由はトイレ　予想以上に遠く時間がかかる：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/123393</id>
@@ -41,6 +51,16 @@
         <link href="https://www.sponichi.co.jp/entertainment/news/2021/08/10/kiji/20210810s00041000329000c.html"/>
         <updated>2021-08-10T09:45:15.000Z</updated>
         <summary type="html"><![CDATA[“丸川発言”にネット爆発「日本人よりバッハを守る丸川珠代」「はい、自粛終了のお知らせ！」]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国が自然科学の論文の「質」で初の世界1位 日本は10位 | 中国 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013192931000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013192931000.html"/>
+        <updated>2021-08-10T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[おととしまでの3年間に世界で発表された自然科学の論文を分析したところ、論文の質の高さの指標とされる引用回数の多い論文の数で、中国が初めて世界1位になったという調査結果を文部科学省の研究所が公表しました。 文部科学省の科学技術・学術政策研究所は、発表された自然科学の論文を分析して世界各国の研究動向を調...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相、長崎式典遅刻を謝罪　「心からおわび」：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021081000212&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021081000212&amp;g=pol"/>
-        <updated>2021-08-10T00:05:21.000Z</updated>
-        <summary type="html"><![CDATA[菅首相、長崎式典遅刻を謝罪　「心からおわび」 2021年08月10日16時08分 平和祈念式典に入場する菅義偉首相（中央）＝９日午前１０時４６分、長崎市の平和公園（代表撮影） 菅義偉首相は１０日、長崎市での平和祈念式典に１分遅刻したことについて「結果的に時間管理上の問題で遅刻した。心からおわびしたい」と謝罪した...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[米国人に「日本はなぜ真珠湾を攻撃したのか」と聞かれたら、どう説明しますか？ | 日本とアメリカの終戦記念日は違う | クーリエ・ジャポン]]></title>
         <id>https://courrier.jp/columns/256389/</id>
         <link href="https://courrier.jp/columns/256389/"/>
@@ -271,16 +281,6 @@
         <link href="http://news.tbs.co.jp/newseye/tbs_newseye4333021.html"/>
         <updated>2021-08-09T23:20:42.000Z</updated>
         <summary type="html"><![CDATA[８日閉幕した東京オリンピックについて、菅総理は「開催国としての責任を果たした」と成果を強調しました。しかし、内閣支持率は大幅に下落。政府与党に衝撃が走っています。 「開催国としての責任を果たして、無事に終えることが出来たと思っています。素晴らしい大会になったと思います」（菅首相） ９日、長崎で行わ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脂肪を汗にして体から排出する新たな減量法が糖尿病の治療薬の研究で偶然見つかる : カラパイア]]></title>
-        <id>https://karapaia.com/archives/52304750.html</id>
-        <link href="https://karapaia.com/archives/52304750.html"/>
-        <updated>2021-08-09T23:13:11.000Z</updated>
-        <summary type="html"><![CDATA[もともとは糖尿病の治療薬の研究だったそうだ。ところが奇妙にも実験動物のマウスはギトギトと脂っぽくなり、体重がみるみる落ちていった。 じつはそのマウスは、脂肪（皮脂）の汗を流して痩せていたのだ。『Science』（7月30日付）に掲載された研究では、そんなまったく新しい減量法につながる可能性のある発見が紹介さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

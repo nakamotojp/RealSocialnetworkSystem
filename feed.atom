@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-09T23:12:07.902Z</id>
+    <id>urn:2021-08-10T00:42:07.631Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T23:12:07.902Z</updated>
+    <updated>2021-08-10T00:42:07.631Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ワクチン不妊「誤情報」拡散　29のSNS投稿が5万件転載: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC03A6M0T00C21A8000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC03A6M0T00C21A8000000/"/>
+        <updated>2021-08-09T22:32:18.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新型コロナウイルスワクチンを否定する投稿がSNS（交流サイト）で広がっている。日本経済新聞の調べでは、ワクチンが不妊につながるというツイッター上への投稿が1月か...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカは東京五輪をどう総括したか。主要メディアはIOCを｢非民主的｣｢詐欺以上｣と批判 | Business Insider Japan]]></title>
+        <id>https://www.businessinsider.jp/post-240121</id>
+        <link href="https://www.businessinsider.jp/post-240121"/>
+        <updated>2021-08-09T22:03:08.000Z</updated>
+        <summary type="html"><![CDATA[7月23日、東京五輪開会式で打ち上げられた花火。東京は4度目の緊急事態宣言下、新型コロナ新規感染者数は4000人を超える日が続いた。 Mark Edward Harris 東京五輪が8月8日、閉幕した。米ニューヨークに住む私の周りでは、新型コロナの危機的な感染拡大が続くなかでの開催に、（在米の）日本人こそ懸念を示したものの、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本でフェミサイドは起きているのか]]></title>
         <id>https://anond.hatelabo.jp/20210810002154</id>
@@ -16,11 +36,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新型コロナ 自宅療養どうすれば 感染対策は？一人暮らしは？ | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013191731000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013191731000.html"/>
+        <updated>2021-08-09T19:48:52.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの急速な感染拡大で、感染が確認されたあと自宅で療養する人が急増しています。 もし自宅での療養を余儀なくされたとき、個人で何ができるのか。 家族への感染を防ぐための対策や症状の悪化に気付くのに必要なことについて、感染症対策に詳しい国際医療福祉大学の松本哲哉教授に聞きました。 家族への...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 － Publickey]]></title>
         <id>https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html</id>
         <link href="https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html"/>
         <updated>2021-08-09T15:02:34.000Z</updated>
         <summary type="html"><![CDATA[ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 オープンソースの検索エンジンElasticsearchは、ログ解析による運用監視やセキュリティインシデントの発見、データ分析などに使われている人気のソフトウェアです。 その開発元であるElasticは、E...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪開催「よかった」６４％…読売世論調査（読売新聞オンライン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c436da6b3f8677369becb97ae31c14588a2e01ad</id>
+        <link href="https://news.yahoo.co.jp/articles/c436da6b3f8677369becb97ae31c14588a2e01ad"/>
+        <updated>2021-08-09T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[読売新聞社が７～９日に実施した全国世論調査で、東京五輪が開催されてよかったと「思う」は６４％に上り、「思わない」の２８％を大きく上回った。 【写真】首相、長崎の平和祈念式典に遅刻…政府は理由明らかにせず 今回の五輪をどのように開催するのがよかったかについては、「中止した方がよかった」が２５％となった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -66,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ネット騒然…バッハ会長が銀座散歩？　選手は観光禁止なのに【動画あり】：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/123184</id>
-        <link href="https://www.tokyo-np.co.jp/article/123184"/>
-        <updated>2021-08-09T12:37:18.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪閉幕から一夜明けた９日、国際オリンピック委員会（ＩＯＣ）のバッハ会長とみられる人物が銀座を歩く姿が目撃され、ツイッターで動画や写真が拡散された。大会関係者は入国後１４日間を過ぎると行動制限はなくなるが、ＩＯＣは選手に大会中の観光を禁じただけに批判の声も上がる。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NHKが長崎式典中継で首相あいさつにテロップ付けず：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP896HDLP89UCLV00G.html</id>
         <link href="https://www.asahi.com/articles/ASP896HDLP89UCLV00G.html"/>
@@ -100,7 +130,7 @@
         <id>https://mainichi.jp/articles/20210809/k00/00m/040/191000c</id>
         <link href="https://mainichi.jp/articles/20210809/k00/00m/040/191000c"/>
         <updated>2021-08-09T11:12:12.000Z</updated>
-        <summary type="html"><![CDATA[警護がつく中、東京・銀座を歩くIOCのバッハ会長（中央）＝東京都中央区で2021年8月9日午後4時6分、読者提供 東京オリンピックの閉幕から一夜明けた9日、国際オリンピック委員会（IOC）のトーマス・バッハ会長が東京・銀座を訪れ、人だかりができる一幕があった。 目撃した40代の女性によると、ポロシャツ姿のバッハ会長...]]></summary>
+        <summary type="html"><![CDATA[警護がつく中、東京・銀座を歩くIOCのバッハ会長（中央）＝東京都中央区で2021年8月9日午後4時6分（読者提供） 東京オリンピックの閉幕から一夜明けた9日、国際オリンピック委員会（IOC）のトーマス・バッハ会長が東京・銀座を訪れ、人だかりができる一幕があった。 目撃した40代の女性によると、ポロシャツ姿のバッハ会...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,21 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[神奈川県 新型コロナ 過去最多 新たに2166人感染確認 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210809/k10013191431000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210809/k10013191431000.html"/>
-        <updated>2021-08-09T09:09:24.000Z</updated>
-        <summary type="html"><![CDATA[神奈川県内では9日、これまでで最も多い合わせて2166人が新型コロナウイルスに感染したことが確認されたと発表されました。 1日に発表された感染者の数が2000人を超えるのは今月6日以来です。このうち横浜市では1139人と初めて1000人を超えました。感染の急激な拡大が続いています。一方、亡くなった人の発表はありませ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「口では嫌がっても体は正直だな…」中国駐大阪総領事館がぶち込んだ“18禁トンデモ発言”の真相 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47822</id>
-        <link href="https://bunshun.jp/articles/-/47822"/>
-        <updated>2021-08-09T08:21:13.000Z</updated>
-        <summary type="html"><![CDATA[内容の正誤や道義的な妥当性はさておき、いかにも中国の在外公館が言いそうなことである。中国外交部は近年、西側各国に対して攻撃的・挑発的な言葉をぶつける「戦狼外交」の姿勢が常態化（この記事も参照）。駐大阪総領事館もその例外ではないというわけだ。 しかし、今回のツイートには大きな問題があった。カッコをつ...]]></summary>
+        <title type="html"><![CDATA[茂木健一郎氏、五輪開閉会式を批評すべきではない理由「『よかったね』って楽しむのが第一の選択」（スポニチアネックス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/9548401132a66ae97f8a593f80060167330bb0c9</id>
+        <link href="https://news.yahoo.co.jp/articles/9548401132a66ae97f8a593f80060167330bb0c9"/>
+        <updated>2021-08-09T09:40:35.000Z</updated>
+        <summary type="html"><![CDATA[脳科学者の茂木健一郎氏（58）が9日、自身のYouTubeチャンネルを更新し、東京オリンピックの開閉会式についてコメントした。 茂木氏は「僕は芸術の評論については厳しい視点を持ってますけど、よかったと思うんですよ」と称賛。「こういう自国での開催が数十年に1度、次にいつあるかわからないものに対しての批評ってい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +221,6 @@
         <link href="https://www.jiji.com/jc/article?k=2021080900285&amp;g=pol"/>
         <updated>2021-08-09T08:03:10.000Z</updated>
         <summary type="html"><![CDATA[長崎原爆忌、１分遅刻　あいさつ読み飛ばさず―菅首相 2021年08月09日18時35分 あいさつする菅義偉首相＝９日午前、長崎市（代表撮影） 菅義偉首相は９日、長崎市で開かれた平和祈念式典に１分間遅刻した。開始のアナウンスは午前１０時４５分だったが、首相の着席は同４６分だった。遅刻の理由について、政府関係者は「...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiroaki on Twitter: "銀座にバッハ会長いて草 https://t.co/h7EABSwpxA"]]></title>
-        <id>https://twitter.com/carota1226/status/1424628621927337987</id>
-        <link href="https://twitter.com/carota1226/status/1424628621927337987"/>
-        <updated>2021-08-09T07:58:41.000Z</updated>
-        <summary type="html"><![CDATA[銀座にバッハ会長いて草 https://t.co/h7EABSwpxA]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://anond.hatelabo.jp/20210809153929"/>
         <updated>2021-08-09T06:40:48.000Z</updated>
         <summary type="html"><![CDATA[井上リサ on Twitter: "以前に電通女性社員の過労死が社会問題に発展した事があったが、同時期に原子力規制庁への対応で激務が続いた関電男性社員が過労死した事を知っている人は少ない。 https://b.hatena.ne.jp/entry/s/twitter.com/JPN_LISA/status/1424242987106594816 id:wuzuki あの件は「異例の速さで労災認定さ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織委・武藤事務総長「やればできる」「人々にも勇気」　コロナ禍五輪閉幕に感慨（デイリースポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/9e563413bb9c56f682a57908e37e662b50c7ae00</id>
-        <link href="https://news.yahoo.co.jp/articles/9e563413bb9c56f682a57908e37e662b50c7ae00"/>
-        <updated>2021-08-09T05:23:49.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会の武藤敏郎事務総長（７８）が五輪閉幕から一夜明けた９日、都内で報道陣の取材に応じた。 【写真】緑じゃない！？閉会式で見せた小池知事の豪華な勝負着物 五輪を終え「始まってみると、あっという間だったが、１４年からの７年半の準備期間は大変長く感じた。道のりの中でたくさん...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T01:57:23.127Z</id>
+    <id>urn:2021-08-10T02:29:02.355Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T01:57:23.127Z</updated>
+    <updated>2021-08-10T02:29:02.355Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[僕の心のヤバイやつ 【最新コミックス5巻発売中!】 | 桜井のりお | Karte.77 僕は突撃訪問した]]></title>
+        <id>https://mangacross.jp/comics/yabai/82</id>
+        <link href="https://mangacross.jp/comics/yabai/82"/>
+        <updated>2021-08-10T01:04:07.000Z</updated>
+        <summary type="html"><![CDATA[僕の心のヤバイやつ Karte.77 僕は突撃訪問した。宝島社「このマンガがすごい! 」オトコ編、2年連続ランクイン!! 2020年第３位、2021年第9位!! 次にくるマンガ大賞2020 Webマンガ部門 第１位!! 累計100万部へ…!! 最新コミックス4巻、2021年2月8日発売!! SNSで超話題の陰キャ少年と陽キャ美少女の 極甘青春ラブコメディ！...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国人に「日本はなぜ真珠湾を攻撃したのか」と聞かれたら、どう説明しますか？ | 日本とアメリカの終戦記念日は違う | クーリエ・ジャポン]]></title>
         <id>https://courrier.jp/columns/256389/</id>
@@ -61,6 +71,16 @@
         <link href="https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env"/>
         <updated>2021-08-09T21:48:33.000Z</updated>
         <summary type="html"><![CDATA[TL;DR VS Code前提になってしまいますが、VS Code Remote Containers拡張最強です、という話。実際にどういう風に作れば良いかは参考リポジトリ作ったので見て下さい。 はじめに 背景ぼかしのような推論結果を使ってカメラ画像にフィルタを入れる処理を書くとき、今だと選択肢は大きく分けて2つあります。 tfjsを使う Wa...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤフー、EC「翌日配送」ほぼ全商品で　ヤマトと連携: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC28BNE0Y1A720C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC28BNE0Y1A720C2000000/"/>
+        <updated>2021-08-09T21:20:19.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら Zホールディングス（HD）傘下のヤフーは2024年度までに電子商取引（EC）で、商品を注文翌日までに配送できる体制を整える。ヤマトホールディングスとの連携を深める。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【独自】日本の高級ブドウなぜ“韓国産”?　無断栽培か 直撃に「大目に見て」（フジテレビ系（FNN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/aa9f1f39150cfac8d6bfc714c7ec6c24dab2e36a</id>
-        <link href="https://news.yahoo.co.jp/articles/aa9f1f39150cfac8d6bfc714c7ec6c24dab2e36a"/>
-        <updated>2021-08-09T10:51:49.000Z</updated>
-        <summary type="html"><![CDATA[石川県でしか作られていないはずの超高級ブドウと同じ名前のブドウが、韓国で栽培され販売されているという情報が。 現地の栽培農家を緊急取材した。 韓国・ソウル市にある高級デパートで、最近あるものが販売された。 宝石のように美しいブドウ「ルビーロマン」。 1房140万円の値を付けたこともあるこのブドウは、石川...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[光本勇介氏のテキーラ事件は逆側の「フェミサイド」と「無敵の人」 江原ニーナ/佐俣アンリ/ベンチャーキャピタルANRI｜DJ AsadaAkira｜note]]></title>
         <id>https://note.com/vetement/n/n4f5f1da135c8</id>
         <link href="https://note.com/vetement/n/n4f5f1da135c8"/>
@@ -281,16 +291,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210809/k10013190931000.html"/>
         <updated>2021-08-09T07:00:39.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり、菅総理大臣は、長崎市で記者会見し、若い世代で重症化のリスクが高まっているとして、不要不急の外出や、帰省、旅行を極力避けるなど、感染拡大防止への協力を呼びかけました。 この中で、菅総理大臣は、新型コロナウイルスの感染状況について「若者から家庭への感染が広がっているとい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[id:wuzuki さんいい加減にしてください]]></title>
-        <id>https://anond.hatelabo.jp/20210809153929</id>
-        <link href="https://anond.hatelabo.jp/20210809153929"/>
-        <updated>2021-08-09T06:40:48.000Z</updated>
-        <summary type="html"><![CDATA[井上リサ on Twitter: "以前に電通女性社員の過労死が社会問題に発展した事があったが、同時期に原子力規制庁への対応で激務が続いた関電男性社員が過労死した事を知っている人は少ない。 https://b.hatena.ne.jp/entry/s/twitter.com/JPN_LISA/status/1424242987106594816 id:wuzuki あの件は「異例の速さで労災認定さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

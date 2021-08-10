@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T00:42:07.631Z</id>
+    <id>urn:2021-08-10T01:57:23.127Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T00:42:07.631Z</updated>
+    <updated>2021-08-10T01:57:23.127Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[米国人に「日本はなぜ真珠湾を攻撃したのか」と聞かれたら、どう説明しますか？ | 日本とアメリカの終戦記念日は違う | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/columns/256389/</id>
+        <link href="https://courrier.jp/columns/256389/"/>
+        <updated>2021-08-09T23:50:20.000Z</updated>
+        <summary type="html"><![CDATA[日本の終戦記念日は8月15日だが、アメリカでは日本が降伏文書に署名した9月2日を「戦勝記念日」としている。そのアメリカに住んでいると、日米開戦の引き金となった真珠湾攻撃について尋ねられることがある。ニューヨーク在住で日米中の歴史に詳しい作家の譚璐美氏は、つい先日もそんな質問を受けて……。 留学前に日本の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワクチン不妊「誤情報」拡散　29のSNS投稿が5万件転載: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUC03A6M0T00C21A8000000/</id>
@@ -16,11 +26,51 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【独自】小田急切りつけ容疑者「数か月前から生活保護」…自暴自棄になったか（読売新聞オンライン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/d95b92c59647be2c74ef7970235b865af47d076e</id>
+        <link href="https://news.yahoo.co.jp/articles/d95b92c59647be2c74ef7970235b865af47d076e"/>
+        <updated>2021-08-09T22:18:05.000Z</updated>
+        <summary type="html"><![CDATA[東京都世田谷区を走行中の小田急線車内で乗客１０人が包丁で切られるなどして重軽傷を負った事件で、川崎市の自称派遣社員、対馬悠介容疑者（３６）（殺人未遂容疑で逮捕）が調べに「数か月前から生活保護を受けていた」と供述していることが捜査関係者への取材でわかった。警視庁が確認を進めるとともに、生活困窮で自...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪男子マラソンの「給水妨害疑惑問題」で世界中のSNSが大炎上…当事者の仏ランナーが釈明、謝罪も騒ぎは収まらず（Yahoo!ニュース オリジナル THE PAGE）]]></title>
+        <id>https://news.yahoo.co.jp/articles/93f60f06cdfc8aeb2e349d916a51058304d37abe</id>
+        <link href="https://news.yahoo.co.jp/articles/93f60f06cdfc8aeb2e349d916a51058304d37abe"/>
+        <updated>2021-08-09T22:08:46.000Z</updated>
+        <summary type="html"><![CDATA[男子マラソンでフランスのモルア・アンドゥニが給水ポイントでペットボトルをなぎ倒した行為を巡って海外のSNSが炎上。本人釈明も収まらず（(資料写真・ロイター/アフロ） 東京五輪の男子マラソンで17位だったフランス代表モルア・アンドゥニ（33）が給水ポイントでミネラルウォーターのペットボトルをなぎ倒した行為が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[アメリカは東京五輪をどう総括したか。主要メディアはIOCを｢非民主的｣｢詐欺以上｣と批判 | Business Insider Japan]]></title>
         <id>https://www.businessinsider.jp/post-240121</id>
         <link href="https://www.businessinsider.jp/post-240121"/>
         <updated>2021-08-09T22:03:08.000Z</updated>
         <summary type="html"><![CDATA[7月23日、東京五輪開会式で打ち上げられた花火。東京は4度目の緊急事態宣言下、新型コロナ新規感染者数は4000人を超える日が続いた。 Mark Edward Harris 東京五輪が8月8日、閉幕した。米ニューヨークに住む私の周りでは、新型コロナの危機的な感染拡大が続くなかでの開催に、（在米の）日本人こそ懸念を示したものの、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぼくがかんがえたさいきょうのWasmビルド環境]]></title>
+        <id>https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env</id>
+        <link href="https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env"/>
+        <updated>2021-08-09T21:48:33.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR VS Code前提になってしまいますが、VS Code Remote Containers拡張最強です、という話。実際にどういう風に作れば良いかは参考リポジトリ作ったので見て下さい。 はじめに 背景ぼかしのような推論結果を使ってカメラ画像にフィルタを入れる処理を書くとき、今だと選択肢は大きく分けて2つあります。 tfjsを使う Wa...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「祝祭感」ツイート実らず　菅首相、誤算だった感染拡大 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP896CQ5P89UTFK007.html</id>
+        <link href="https://www.asahi.com/articles/ASP896CQ5P89UTFK007.html"/>
+        <updated>2021-08-09T20:55:31.000Z</updated>
+        <summary type="html"><![CDATA[「開催国としての責任を果たし、無事に終えることができた。選手の皆さん、大活躍だった。素晴らしい大会になった」 9日、長崎市での平和祈念式典に出席後、記者会見に臨んだ菅義偉首相は東京五輪をこう振り返った。 五輪で国民の高揚感を高め、衆院解散・総選挙になだれ込む――。安倍晋三前首相の「後継者」として政権を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +91,26 @@
         <link href="https://www3.nhk.or.jp/news/html/20210810/k10013191731000.html"/>
         <updated>2021-08-09T19:48:52.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの急速な感染拡大で、感染が確認されたあと自宅で療養する人が急増しています。 もし自宅での療養を余儀なくされたとき、個人で何ができるのか。 家族への感染を防ぐための対策や症状の悪化に気付くのに必要なことについて、感染症対策に詳しい国際医療福祉大学の松本哲哉教授に聞きました。 家族への...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[母がワクチン反対派でつらい]]></title>
+        <id>https://anond.hatelabo.jp/20210810042323</id>
+        <link href="https://anond.hatelabo.jp/20210810042323"/>
+        <updated>2021-08-09T19:41:11.000Z</updated>
+        <summary type="html"><![CDATA[母親、ちょっとコロナワクチンの話になるとおかしい。 いつもは放任主義で口うるさく言ってこない人なのに、コロナワクチンの話題にだけはやたら食いついてきて、反対意見をつらつらと喋る。「摂取したって何にもいいことない」とか、「どうしてみんな打っちゃうんだろう」とか。 母曰く、20代(私)は感染しても死なない...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サラダ油は引火しない]]></title>
+        <id>https://anond.hatelabo.jp/20210809210539</id>
+        <link href="https://anond.hatelabo.jp/20210809210539"/>
+        <updated>2021-08-09T19:07:11.000Z</updated>
+        <summary type="html"><![CDATA[というお話。ここ数日Twitter上で話題になっているが、旧帝国大学で化学を専攻している私にとっても言われてみれば…という話だった。 私はサラダ油にライターで火をつけられない理由を化学的な観点からいくらでも説明できるが、犯人を「化学的知識のない馬鹿」と批判する人は以下の問いに答えられるか試してみてほしい。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相 ワクチン接種1億回超え「1日も早く2回の接種進める」 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210809/k10013191491000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210809/k10013191491000.html"/>
-        <updated>2021-08-09T10:19:08.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり、菅総理大臣は、長崎市で記者会見し、国内でのワクチンの総接種回数が1億回を超えたと明らかにした上で、「1日も早く、2回の接種を進めていく」と述べました。そして、若い世代で重症化のリスクが高まっているとして、不要不急の外出や、帰省、旅行を極力避けるなど、感染拡大防止への協...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[フェミサイドという言葉は男性被害の透明化によって流通するのでは？ - データをいろいろ見てみる]]></title>
         <id>https://shioshio3.hatenablog.com/entry/2021/08/09/184216</id>
         <link href="https://shioshio3.hatenablog.com/entry/2021/08/09/184216"/>
@@ -201,26 +261,6 @@
         <link href="https://news.yahoo.co.jp/articles/9548401132a66ae97f8a593f80060167330bb0c9"/>
         <updated>2021-08-09T09:40:35.000Z</updated>
         <summary type="html"><![CDATA[脳科学者の茂木健一郎氏（58）が9日、自身のYouTubeチャンネルを更新し、東京オリンピックの開閉会式についてコメントした。 茂木氏は「僕は芸術の評論については厳しい視点を持ってますけど、よかったと思うんですよ」と称賛。「こういう自国での開催が数十年に1度、次にいつあるかわからないものに対しての批評ってい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国駐大阪総領事館が「萌え画像」大量アップ…26歳オタク外交官を変貌させた“上司粛清”事件 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47828</id>
-        <link href="https://bunshun.jp/articles/-/47828"/>
-        <updated>2021-08-09T08:21:08.000Z</updated>
-        <summary type="html"><![CDATA[中国の在外公館の公式ツイッターアカウントでありながら大量の美少女イラスト（自作）をアップロードしていた中華人民共和国駐大阪総領事館（@ChnConsul_osaka）。では、これらのイラストを描いた領事館員はどんな人物なのだろうか？ 本来、中国の在外公館はインテリジェンス組織（情報機関）としての役割も強く、個々の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長崎原爆忌、１分遅刻　あいさつ読み飛ばさず―菅首相：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021080900285&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021080900285&amp;g=pol"/>
-        <updated>2021-08-09T08:03:10.000Z</updated>
-        <summary type="html"><![CDATA[長崎原爆忌、１分遅刻　あいさつ読み飛ばさず―菅首相 2021年08月09日18時35分 あいさつする菅義偉首相＝９日午前、長崎市（代表撮影） 菅義偉首相は９日、長崎市で開かれた平和祈念式典に１分間遅刻した。開始のアナウンスは午前１０時４５分だったが、首相の着席は同４６分だった。遅刻の理由について、政府関係者は「...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[荒井禎雄 on Twitter: "「お前ら女が喜んで股を開くようなナンパ慣れした男」が、実は腹の底で女に対して憎悪を抱いていました。 はいどうするのってお話なんだよね。 マンガやアニメを目の敵にする事に夢中で、こういう「最も警戒しないといけない存在」に対して無防備過ぎたよね。 バカじゃねえの？"]]></title>
-        <id>https://twitter.com/oharan/status/1424516800260165633</id>
-        <link href="https://twitter.com/oharan/status/1424516800260165633"/>
-        <updated>2021-08-09T06:47:49.000Z</updated>
-        <summary type="html"><![CDATA[「お前ら女が喜んで股を開くようなナンパ慣れした男」が、実は腹の底で女に対して憎悪を抱いていました。 はいどうするのってお話なんだよね。 マンガやアニメを目の敵にする事に夢中で、こういう「最も警戒しないといけない存在」に対して無防備過ぎたよね。 バカじゃねえの？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[id:wuzuki さんいい加減にしてください]]></title>
         <id>https://anond.hatelabo.jp/20210809153929</id>
         <link href="https://anond.hatelabo.jp/20210809153929"/>
@@ -266,41 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2020年】CTF Web問題の攻撃手法まとめ - こんとろーるしーこんとろーるぶい]]></title>
-        <id>https://graneed.hatenablog.com/entry/2021/08/09/115452</id>
-        <link href="https://graneed.hatenablog.com/entry/2021/08/09/115452"/>
-        <updated>2021-08-09T04:43:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに 対象イベント 読み方、使い方 Remote Code Execution(RCE) 親ディレクトリ指定によるopen_basedirのバイパス PHP-FPMのTCPソケット接続によるopen_basedirとdisable_functionsのバイパス JavaのRuntime.execでシェルを実行 Cross-Site Scripting(XSS) nginx環境でHTTPステータスコードが操作できる場合にCSPヘ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[韓国情報機関と日本の極右団体が「不当取引」　韓国テレビ局があす報道へ | 聯合ニュース]]></title>
         <id>https://jp.yna.co.kr/view/AJP20210809002600882</id>
         <link href="https://jp.yna.co.kr/view/AJP20210809002600882"/>
         <updated>2021-08-09T04:14:55.000Z</updated>
         <summary type="html"><![CDATA[【ソウル聯合ニュース】韓国ＭＢＣテレビの調査報道番組「ＰＤ手帳」は９日、韓国情報機関の国家情報院（国情院）と日本の右翼団体の間で不当な取引があったことを確認し、１０日の番組で関連映像や内容を報じると予告した。 制作陣によると、国情院で２５年間海外工作員として勤務した情報提供者が、番組側に対し「国情...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドイツ公共放送の東京五輪中継現場で湧いてきた直観について。別に神秘体験でもなんでもないんだが（マライ・メントライン） - QJWeb クイック・ジャパン ウェブ]]></title>
-        <id>https://qjweb.jp/journal/54814/</id>
-        <link href="https://qjweb.jp/journal/54814/"/>
-        <updated>2021-08-09T00:36:38.000Z</updated>
-        <summary type="html"><![CDATA[第2ドイツテレビ（ZDF）プロデューサーとして、東京五輪にがっつりかかわったマライ・メントラインが辿り着いた境地とは？　あまりと言えばあまりなことばかりだったけど、もう、絶望したり糾弾してる場合じゃないんだよ！ 東京五輪の本来の主役って コロナ問題や五輪開催がどうしようもなく深く民心の分裂を招き、もう...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリンピックを終えたアスリートの方へ｜Dai Tamesue 為末大 （株）Deportare Partners代表｜note]]></title>
-        <id>https://note.com/daitamesue/n/n942806bc5ee2</id>
-        <link href="https://note.com/daitamesue/n/n942806bc5ee2"/>
-        <updated>2021-08-08T01:38:04.000Z</updated>
-        <summary type="html"><![CDATA[オリンピックを終えた選手の皆さんお疲れ様でした。結果が良かった方も思わしくなかった方もいると思いますが、どの選手もここまで努力してきたことは素晴らしいことだと思います。 このようなタイミングでお話しするのは憚られますが、オリンピックに出たりメダルを取っても幸せになるとは限りません。東京五輪の残像と...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

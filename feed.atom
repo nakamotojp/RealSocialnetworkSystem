@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T13:19:15.092Z</id>
+    <id>urn:2021-08-10T14:12:02.331Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T13:19:15.092Z</updated>
+    <updated>2021-08-10T14:12:02.332Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html"/>
         <updated>2021-08-10T12:09:25.000Z</updated>
         <summary type="html"><![CDATA[立憲民主党は10日、新型コロナ対策本部と厚生労働部会の合同会議を開いた。新型コロナウイルスに感染し、自宅療養中に死亡した人の人数について、政府側に尋ねたが、厚労省は「把握していない」と述べた。立憲は、東京五輪でメディア用に借り上げられた民間ホテルを療養施設に転用するよう、政府側に求めた。 合同会議で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅内閣 「支持」29％ 内閣発足以降最低を更新 「不支持」52％ | 選挙 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193031000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193031000.html"/>
+        <updated>2021-08-10T10:05:34.000Z</updated>
+        <summary type="html"><![CDATA[NHKの世論調査によりますと、菅内閣を「支持する」と答えた人は、先月より4ポイント下がって29％で、去年9月の内閣発足以降最低を更新しました。一方、「支持しない」と答えた人は、6ポイント上がって52％で、発足以降、もっとも高くなりました。 NHKは、今月7日から3日間、全国の18歳以上を対象にコンピューターで無作...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -276,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[アメリカは東京五輪をどう総括したか。主要メディアはIOCを｢非民主的｣｢詐欺以上｣と批判 | Business Insider Japan]]></title>
-        <id>https://www.businessinsider.jp/post-240121</id>
-        <link href="https://www.businessinsider.jp/post-240121"/>
-        <updated>2021-08-09T22:03:08.000Z</updated>
-        <summary type="html"><![CDATA[7月23日、東京五輪開会式で打ち上げられた花火。東京は4度目の緊急事態宣言下、新型コロナ新規感染者数は4000人を超える日が続いた。 Mark Edward Harris 東京五輪が8月8日、閉幕した。米ニューヨークに住む私の周りでは、新型コロナの危機的な感染拡大が続くなかでの開催に、（在米の）日本人こそ懸念を示したものの、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[母がワクチン反対派でつらい]]></title>
         <id>https://anond.hatelabo.jp/20210810042323</id>
         <link href="https://anond.hatelabo.jp/20210810042323"/>
@@ -296,11 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[サラダ油は引火しない]]></title>
-        <id>https://anond.hatelabo.jp/20210809210539</id>
-        <link href="https://anond.hatelabo.jp/20210809210539"/>
-        <updated>2021-08-09T19:07:11.000Z</updated>
-        <summary type="html"><![CDATA[というお話。ここ数日Twitter上で話題になっているが、旧帝国大学で化学を専攻している私にとっても言われてみれば…という話だった。 私はサラダ油にライターで火をつけられない理由を化学的な観点からいくらでも説明できるが、犯人を「化学的知識のない馬鹿」と批判する人は以下の問いに答えられるか試してみてほしい。...]]></summary>
+        <title type="html"><![CDATA[最低限のNetwork知識]]></title>
+        <id>https://zenn.dev/hee/articles/ce9002ae525622</id>
+        <link href="https://zenn.dev/hee/articles/ce9002ae525622"/>
+        <updated>2021-08-08T04:31:07.000Z</updated>
+        <summary type="html"><![CDATA[ネットワークを集中的に勉強したのでそのうちの基礎的な部分だけを抽出して記事にしました。主にL2とL3の話しかしてないです。 参考文献(とても良書なので興味ある人は是非) ・tanenbaum先生の教科書(Networkの世界的bible) ・CでネットワークプログラミングをするHands-on本(とても読みやすかった) ・Linuxで仮想ネット...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

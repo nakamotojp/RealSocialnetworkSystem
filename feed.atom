@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T18:14:36.527Z</id>
+    <id>urn:2021-08-10T19:09:41.922Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T18:14:36.527Z</updated>
+    <updated>2021-08-10T19:09:41.922Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,26 @@
         <link href="https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html"/>
         <updated>2021-08-10T12:09:25.000Z</updated>
         <summary type="html"><![CDATA[立憲民主党は10日、新型コロナ対策本部と厚生労働部会の合同会議を開いた。新型コロナウイルスに感染し、自宅療養中に死亡した人の人数について、政府側に尋ねたが、厚労省は「把握していない」と述べた。立憲は、東京五輪でメディア用に借り上げられた民間ホテルを療養施設に転用するよう、政府側に求めた。 合同会議で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長尾和弘医師の提言に賛同の声 コロナを5類扱いにすれば「全て氷解」「イベルメクチンという特効薬が…これを全国民に配る」：中日スポーツ・東京中日スポーツ]]></title>
+        <id>https://www.chunichi.co.jp/article/308538</id>
+        <link href="https://www.chunichi.co.jp/article/308538"/>
+        <updated>2021-08-10T11:59:32.000Z</updated>
+        <summary type="html"><![CDATA[フジテレビ系の情報番組「バイキングＭＯＲＥ」は１０日、新型コロナウイルスによる医療逼迫（ひっぱく）を防ぐため、専門家の提言を紹介した。この中で長尾クリニック院長の長尾和弘医師が感染症法上の分類を引き下げるよう訴えると、ツイッターなどには賛同する発言があふれ、「バイキング」がトレンドワード入りした...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各党の支持率は NHK世論調査 | 選挙 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193181000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193181000.html"/>
+        <updated>2021-08-10T10:36:04.000Z</updated>
+        <summary type="html"><![CDATA[各党の支持率です。 「自民党」が33.4％、「立憲民主党」が6.4％、「公明党」が3.7％、「共産党」が3.3％、「日本維新の会」が1.7％、「国民民主党」が0.8％、「社民党」が0.5％、「れいわ新選組」が0.2％、「NHKと裁判してる党弁護士法72条違反で」が0.2％、「特に支持している政党はない」が42.8％でした。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[コロナ禍で「リモートの方が楽」な若者へ　精神科医・斎藤環さん | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210809/k00/00m/040/092000c</id>
-        <link href="https://mainichi.jp/articles/20210809/k00/00m/040/092000c"/>
-        <updated>2021-08-10T02:45:40.000Z</updated>
-        <summary type="html"><![CDATA[ビデオカメラなどを使用して進められるオンライン授業。「コロナ禍」によって全国の大学でこうした光景が見られた＝2020年5月7日、矢頭智剛撮影 会議も、授業も、診療も、飲み会も……。新型コロナウイルス禍による自粛生活で、さまざまな「リモート」化が定着し、1年が過ぎた。リアルで人に会う機会の減ったこの日々は、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[飲み込めぬ様子に看守が「鼻から牛乳」　最終報告書要旨：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8B3DBSP88UTIL03L.html</id>
         <link href="https://www.asahi.com/articles/ASP8B3DBSP88UTIL03L.html"/>
@@ -281,16 +291,6 @@
         <link href="http://news.tbs.co.jp/newseye/tbs_newseye4333021.html"/>
         <updated>2021-08-09T23:20:42.000Z</updated>
         <summary type="html"><![CDATA[８日閉幕した東京オリンピックについて、菅総理は「開催国としての責任を果たした」と成果を強調しました。しかし、内閣支持率は大幅に下落。政府与党に衝撃が走っています。 「開催国としての責任を果たして、無事に終えることが出来たと思っています。素晴らしい大会になったと思います」（菅首相） ９日、長崎で行わ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[母がワクチン反対派でつらい]]></title>
-        <id>https://anond.hatelabo.jp/20210810042323</id>
-        <link href="https://anond.hatelabo.jp/20210810042323"/>
-        <updated>2021-08-09T19:41:11.000Z</updated>
-        <summary type="html"><![CDATA[母親、ちょっとコロナワクチンの話になるとおかしい。 いつもは放任主義で口うるさく言ってこない人なのに、コロナワクチンの話題にだけはやたら食いついてきて、反対意見をつらつらと喋る。「摂取したって何にもいいことない」とか、「どうしてみんな打っちゃうんだろう」とか。 母曰く、20代(私)は感染しても死なない...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

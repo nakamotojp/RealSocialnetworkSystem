@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-10T04:15:21.718Z</id>
+    <id>urn:2021-08-10T05:10:25.901Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T04:15:21.718Z</updated>
+    <updated>2021-08-10T05:10:25.901Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[メルカリShops の技術スタックと、その選定理由 | メルカリエンジニアリング]]></title>
+        <id>https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/</id>
+        <link href="https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/"/>
+        <updated>2021-08-10T03:41:22.000Z</updated>
+        <summary type="html"><![CDATA[7月末にメルカリShopsという新しいサービスが公開されました。メルカリShops は、2021年1月にメルカリのグループ会社として設立したソウゾウが新たに立ち上げたサービスです。 この記事では、メルカリShops を作るにあたり、どういった技術、アーキテクチャを選定したのか、その背景と意思決定をまとめて共有したいと思...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレ朝社員が緊急搬送で謝罪　10人の飲食会合、店の外に転落して負傷 - 芸能 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/entertainment/news/202108100000343.html</id>
+        <link href="https://www.nikkansports.com/entertainment/news/202108100000343.html"/>
+        <updated>2021-08-10T02:48:26.000Z</updated>
+        <summary type="html"><![CDATA[テレビ朝日広報部は10日、東京オリンピック（五輪）閉会式が行われた8日夜に、同社番組スタッフが都内の飲食店で10人の飲酒会合を開催し、翌9日未明に同社スポーツ局社員1人が誤って店の外に転落して負傷し、緊急搬送されたことを発表した。 社員は現在入院中で事案の詳細を確認しているという。 同局は、緊急事態宣言下...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突撃！ 在宅の開発環境 2021年夏 - Mobile Factory Tech Blog]]></title>
         <id>https://tech.mobilefactory.jp/entry/2021/08/10/100000</id>
@@ -156,31 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「祝祭感」ツイート実らず　菅首相、誤算だった感染拡大 - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP896CQ5P89UTFK007.html</id>
-        <link href="https://www.asahi.com/articles/ASP896CQ5P89UTFK007.html"/>
-        <updated>2021-08-09T20:55:31.000Z</updated>
-        <summary type="html"><![CDATA[「開催国としての責任を果たし、無事に終えることができた。選手の皆さん、大活躍だった。素晴らしい大会になった」 9日、長崎市での平和祈念式典に出席後、記者会見に臨んだ菅義偉首相は東京五輪をこう振り返った。 五輪で国民の高揚感を高め、衆院解散・総選挙になだれ込む――。安倍晋三前首相の「後継者」として政権を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[日本でフェミサイドは起きているのか]]></title>
         <id>https://anond.hatelabo.jp/20210810002154</id>
         <link href="https://anond.hatelabo.jp/20210810002154"/>
         <updated>2021-08-09T19:58:36.000Z</updated>
         <summary type="html"><![CDATA[https://b.hatena.ne.jp/entry/s/shioshio3.hatenablog.com/entry/2021/08/09/184216 このブログへの反応（ブックマーク）を読んでいて少し気になった事が有ったので、書いてみる。 気になったと書いたが、私は多くのブックマークコメント（特に人気コメント）に同意である。 多くのコメントはブログに対して「フェミサ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ 自宅療養どうすれば 感染対策は？一人暮らしは？ | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210810/k10013191731000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013191731000.html"/>
-        <updated>2021-08-09T19:48:52.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの急速な感染拡大で、感染が確認されたあと自宅で療養する人が急増しています。 もし自宅での療養を余儀なくされたとき、個人で何ができるのか。 家族への感染を防ぐための対策や症状の悪化に気付くのに必要なことについて、感染症対策に詳しい国際医療福祉大学の松本哲哉教授に聞きました。 家族への...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

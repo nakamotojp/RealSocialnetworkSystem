@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T22:12:05.358Z</id>
+    <id>urn:2021-08-11T23:12:07.785Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T22:12:05.358Z</updated>
+    <updated>2021-08-11T23:12:07.785Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[よんほ on Twitter: "昨日韓国MBCで放送された韓国国情院と日本の極右の取引についての動画に日本語字幕を付けている。 https://t.co/Ed7xLp02N6"]]></title>
+        <id>https://twitter.com/yonlee/status/1425389408753098764</id>
+        <link href="https://twitter.com/yonlee/status/1425389408753098764"/>
+        <updated>2021-08-11T17:38:59.000Z</updated>
+        <summary type="html"><![CDATA[昨日韓国MBCで放送された韓国国情院と日本の極右の取引についての動画に日本語字幕を付けている。 https://t.co/Ed7xLp02N6]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ氏の広島訪問警備費負担、ＩＯＣと組織委が拒否　広島県と市が全額折半（中国新聞デジタル）]]></title>
+        <id>https://www.chugoku-np.co.jp/local/news/article.php?comment_id=782734&amp;comment_sub_id=0&amp;category_id=256</id>
+        <link href="https://www.chugoku-np.co.jp/local/news/article.php?comment_id=782734&amp;comment_sub_id=0&amp;category_id=256"/>
+        <updated>2021-08-11T16:37:06.000Z</updated>
+        <summary type="html"><![CDATA[国際オリンピック委員会（ＩＯＣ）のバ…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECSを運用で使っていて難しいと思った点 - アジャイルSEの憂鬱]]></title>
         <id>https://sinsoku.hatenablog.com/entry/2021/08/11/232201</id>
@@ -46,11 +66,32 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「緊急事態」９月延長論浮上　対象地域拡大へ政府検討（産経新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/7126208679a91abcaabc7e8e6ea2ea0178ae8a6b</id>
+        <link href="https://news.yahoo.co.jp/articles/7126208679a91abcaabc7e8e6ea2ea0178ae8a6b"/>
+        <updated>2021-08-11T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[政府は新型コロナウイルス特別措置法に基づく緊急事態宣言をめぐり、対象地域の拡大を検討し、来週にも決める方向で調整している。３１日としている期限の９月までの延長論も浮上する。東京都は４回目の宣言発令から１２日で１カ月となるが、繰り返される対象拡大と期限延長。菅義偉（すが・よしひで）首相の言う「最後...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[河村たかし市長が“噛んだ”金メダル交換へ（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061</id>
         <link href="https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061"/>
         <updated>2021-08-11T12:40:28.000Z</updated>
         <summary type="html"><![CDATA[名古屋市の河村たかし市長が東京オリンピックの金メダリストのメダルをかんだ問題で、このメダルが新たなものに交換されることに決まったことが、日本テレビの取材でわかりました。 この問題は今月４日、名古屋市の河村市長が、ソフトボール日本代表として東京オリンピックで金メダルに輝いた後藤希友投手の表敬訪問を受...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View Source]]></title>
+        <id>https://neatnik.net/view-source/</id>
+        <link href="https://neatnik.net/view-source/"/>
+        <updated>2021-08-11T12:19:34.000Z</updated>
+        <summary type="html"><![CDATA[· About · Changelog URL: Fetched 1.23 KB in 0.007203 seconds Don’t wrap lines · Tidy markup  
+  Example Domain   <meta name="viewport" content="width=device-width,...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,41 +237,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[山崎製パン、小田急事件のせいでパン工場が「地獄のバイト先」との風評被害 : 市況かぶ全力２階建]]></title>
-        <id>https://kabumatome.doorblog.jp/archives/65983925.html</id>
-        <link href="https://kabumatome.doorblog.jp/archives/65983925.html"/>
-        <updated>2021-08-11T05:19:39.000Z</updated>
-        <summary type="html"><![CDATA[運転見合わせ理由に「犯罪行為」なんて初めて見たよ pic.twitter.com/B5zIQrdJx1 — えちにゃ (@seaside334) August 6, 2021 もちベーコン@qxqxqxaquas生活保護制度は犯罪抑止力あると思ってました 2021/08/11 10:41:22 人気者のモテ青年期を過ごす ↓ 大学デビューしたら「只の人」扱いになる (きっかけは「サークルでバ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「キャンセルになったらしゃれにならない」空港無料PCRの利用低迷｜【西日本新聞me】]]></title>
         <id>https://www.nishinippon.co.jp/item/n/783469/</id>
         <link href="https://www.nishinippon.co.jp/item/n/783469/"/>
         <updated>2021-08-11T04:48:34.000Z</updated>
         <summary type="html"><![CDATA[夏休み期間中の新型コロナウイルス対策として、政府が羽田など全国の主要6空港から搭乗する人を対象に実施しているPCR・抗原定量検査が低調だ。行き先が福岡と北海道、沖縄方面の便で、希望した人が無料で受けられるが、利用率は4％に満たない。制度の周知不足に加え、陽性と結果が出たときは搭乗できない仕組みなどが背...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「アプリで開閉するレンタカーが山奥で開かず」の人、その後の顛末を語る（前編）　トヨタの担当者と再検証した結果、どうなったのか（1/2 ページ） - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/11/news086.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/11/news086.html"/>
-        <updated>2021-08-11T04:16:02.000Z</updated>
-        <summary type="html"><![CDATA[締め出されてしまったときに車を止めていた駐車場は宿泊施設のもので、幸いなことにスーツケースは車外だったが、車の中には江島さんの荷物（小物）が入ったまま。それも一緒にレッカー移動されてしまったという。 現地ではトヨタが契約している損保会社のロードサービスがピッキングで開けようとしたが、セキュリティシ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岸博幸氏　菅首相に「ダメっすよ」とダメ出し　記者会見でかみ合わない答弁に（デイリースポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/06474b260744420843bf73b73c6ff970ceb0d8a4</id>
-        <link href="https://news.yahoo.co.jp/articles/06474b260744420843bf73b73c6ff970ceb0d8a4"/>
-        <updated>2021-08-11T03:53:22.000Z</updated>
-        <summary type="html"><![CDATA[元経済産業省官僚の岸博幸内閣官房参与が９日、読売テレビ「かんさい情報ネットｔｅｎ．」にリモート出演し、菅義偉首相が先月３０日に開いた会見で、東京五輪・パラリンピックを予定通り開催するのかと問われた際にちぐはぐな答弁をしたことについて、菅首相に「ダメっすよ」とダメ出ししたことを明かした。 菅首相は先...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +272,6 @@
         <link href="https://anond.hatelabo.jp/20210811101559"/>
         <updated>2021-08-11T01:16:09.000Z</updated>
         <summary type="html"><![CDATA[最低限のNetwork知識 https://zenn.dev/hee/articles/ce9002ae525622 という記事がブックマーク400を超えていて、どうしてこのレベルの記事に400もブックマークが集まるのかと問いたい。 覚えたことをまとめてアウトプットするのは素晴らしいことだと思うしそれは否定しないんだけど、勉強したての見習いが書いた薄い内...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナを5類感染症にすると医療現場はどうなるか？（倉原優） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kuraharayu/20210811-00252601</id>
-        <link href="https://news.yahoo.co.jp/byline/kuraharayu/20210811-00252601"/>
-        <updated>2021-08-11T00:44:37.000Z</updated>
-        <summary type="html"><![CDATA[「5類感染症」論現在、新型コロナを季節性インフルエンザ並みの5類感染症にダウングレードすることが検討されています。これは、保健所・行政や入院病床の負担から生まれた議論であって、決して新型コロナが季節性インフルエンザ並みに軽症だというわけではありません。 このテーマ、専門家の間でもかなり意見が分かれて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

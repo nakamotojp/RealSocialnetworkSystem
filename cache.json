@@ -6,6 +6,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://twitter.com/yonlee/status/1425389408753098764",
+          "author": null,
+          "description": "昨日韓国MBCで放送された韓国国情院と日本の極右の取引についての動画に日本語字幕を付けている。 https://t.co/Ed7xLp02N6",
+          "link": "https://twitter.com/yonlee/status/1425389408753098764",
+          "publishedOn": "2021-08-11T17:38:59.000Z",
+          "wordCount": 196,
+          "title": "よんほ on Twitter: \"昨日韓国MBCで放送された韓国国情院と日本の極右の取引についての動画に日本語字幕を付けている。 https://t.co/Ed7xLp02N6\""
+        },
+        {
+          "id": "https://www.chugoku-np.co.jp/local/news/article.php?comment_id=782734&comment_sub_id=0&category_id=256",
+          "author": null,
+          "description": "国際オリンピック委員会（ＩＯＣ）のバ…",
+          "link": "https://www.chugoku-np.co.jp/local/news/article.php?comment_id=782734&comment_sub_id=0&category_id=256",
+          "publishedOn": "2021-08-11T16:37:06.000Z",
+          "wordCount": 329,
+          "title": "バッハ氏の広島訪問警備費負担、ＩＯＣと組織委が拒否　広島県と市が全額折半（中国新聞デジタル）"
+        },
+        {
           "id": "https://sinsoku.hatenablog.com/entry/2021/08/11/232201",
           "author": null,
           "description": "ECSを触っていて今まで難しいと思ったことを雑にまとめておく。 ECSを仕事で運用するときに必要な知識が多すぎる。こんなの社内に1人AWSマスターいないと無理だ...— 神速 (@sinsoku_listy) 2021年8月10日 タスクロールとタスク実行ロールの違い ECSを長く触っているのに、いつも混乱する。 タスクロール コンテナ内の権...",
@@ -20,7 +38,7 @@
           "description": "障害者雇用で働くアライさん @hataraku_Arai 【カマカケにご注意】先日、借金玉の弁護士から、障イさんの身元を把握してると告げられ、確認のために個人情報を教えるよう促されました。ハッタリで障イさんを動揺させ個人情報を引き出すつもりだったと見ています。注意喚起のために、該当のDMを公開します。こういう手口...",
           "link": "https://togetter.com/li/1758192",
           "publishedOn": "2021-08-11T13:41:23.000Z",
-          "wordCount": 426,
+          "wordCount": 460,
           "title": "借金玉さんが依頼した金川晋也弁護士がTwitterのDMで係争相手から個人情報を引き出そうとするも失敗し炎上 - Togetter"
         },
         {
@@ -29,7 +47,7 @@
           "description": "うささꪔ̤̫ @usasa21 旦那と結婚したばかりの時、そうめんを味噌汁に入れて出したら旦那にびっくりドン引きされて。小さい頃好きだったし、アレおかしいぞ？って思ってググったらあれ西日本に多いみたい。どおりで東京生まれの東京育ちの旦那がびっくりするわけだ。でも今ググったら結構あったしみんなやるよね？（入れたい...",
           "link": "https://togetter.com/li/1758142",
           "publishedOn": "2021-08-11T13:13:29.000Z",
-          "wordCount": 884,
+          "wordCount": 891,
           "title": "旦那にビックリされた「そうめん入り味噌汁」、調べたら西日本で多い文化...？→Twitterの力で全国各地の情報が集まりました - Togetter"
         },
         {
@@ -38,8 +56,17 @@
           "description": "くりぷとバイオ@研究×新規事業 @cryptobiotech 研究と新規事業の狭間にいる企業人／「フード&バイオテック」「理系キャリア(就活など)」「新規事業や起業」に関する情報を発信／博士号取得トライ中／理系就活(修士)や研究職キャリアのブログはこちら→cryptocurrency-bioresearch.com note.com/cryptobio くりぷとバイオ@...",
           "link": "https://togetter.com/li/1758185",
           "publishedOn": "2021-08-11T13:02:13.000Z",
-          "wordCount": 482,
+          "wordCount": 494,
           "title": "最近ものすごく優秀な修士就活生が増えている→機械翻訳『DeepL』を巧みに使って論文を書いていた「すごい時代が来たな」 - Togetter"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7126208679a91abcaabc7e8e6ea2ea0178ae8a6b",
+          "author": null,
+          "description": "政府は新型コロナウイルス特別措置法に基づく緊急事態宣言をめぐり、対象地域の拡大を検討し、来週にも決める方向で調整している。３１日としている期限の９月までの延長論も浮上する。東京都は４回目の宣言発令から１２日で１カ月となるが、繰り返される対象拡大と期限延長。菅義偉（すが・よしひで）首相の言う「最後...",
+          "link": "https://news.yahoo.co.jp/articles/7126208679a91abcaabc7e8e6ea2ea0178ae8a6b",
+          "publishedOn": "2021-08-11T13:02:10.000Z",
+          "wordCount": 69,
+          "title": "「緊急事態」９月延長論浮上　対象地域拡大へ政府検討（産経新聞） - Yahoo!ニュース"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061",
@@ -49,6 +76,15 @@
           "publishedOn": "2021-08-11T12:40:28.000Z",
           "wordCount": 65,
           "title": "河村たかし市長が“噛んだ”金メダル交換へ（日本テレビ系（NNN）） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://neatnik.net/view-source/",
+          "author": null,
+          "description": "· About · Changelog URL: Fetched 1.23 KB in 0.007203 seconds Don’t wrap lines · Tidy markup  \n  Example Domain   <meta name=\"viewport\" content=\"width=device-width,...",
+          "link": "https://neatnik.net/view-source/",
+          "publishedOn": "2021-08-11T12:19:34.000Z",
+          "wordCount": 150,
+          "title": "View Source"
         },
         {
           "id": "https://xtech.nikkei.com/atcl/nxt/news/18/10983/",
@@ -65,7 +101,7 @@
           "description": "shunji nakamachi @shunji_ まだ知らない人が多いと思うけど、2022年1月17日より ゆうちょ銀行の窓口に硬貨を51枚以上入金すると「硬貨取扱料金」550円！取られます。 「なんだって？じゃぁ溜め込まないで、ATMにチョコチョコ入れりゃぁいいか」 とは行かず、ATMでは「1枚」から110円取られます。 pic.twitter.com/L4903...",
           "link": "https://togetter.com/li/1758081",
           "publishedOn": "2021-08-11T10:51:16.000Z",
-          "wordCount": 865,
+          "wordCount": 891,
           "title": "2022年1月からゆうちょ銀行が硬貨取り扱いの手数料を設けることに「500円玉貯金どうしよう」「コミケ後に困るサークル出そう」などの声 - Togetter"
         },
         {
@@ -74,7 +110,7 @@
           "description": "外で話しても恥ずかしくないようなかわいいネーミングを教えてほしい ペニー君はどうだろうか",
           "link": "https://anond.hatelabo.jp/20210811185225",
           "publishedOn": "2021-08-11T10:51:00.000Z",
-          "wordCount": 126,
+          "wordCount": 127,
           "title": "ちんちんのかわいい言い方"
         },
         {
@@ -92,7 +128,7 @@
           "description": "東京都の小池百合子知事は１１日、新たに新型コロナウイルスに感染し、自宅療養中だった１人暮らしの３０代男性が死亡したことを明らかにした。男性は基礎疾患はなかった。第５波が本格化した７月下旬以降の自宅療養中の急変による死者は、５０代女性、７０代男性に次いで３人目。 小池氏は３０代男性について「健康観察...",
           "link": "https://www.tokyo-np.co.jp/article/123561",
           "publishedOn": "2021-08-11T10:26:00.000Z",
-          "wordCount": 301,
+          "wordCount": 306,
           "title": "＜新型コロナ＞東京で自宅療養中の30代男性が死亡、基礎疾患なし　小池知事「健康観察続けていたが、体調急変」：東京新聞 TOKYO Web"
         },
         {
@@ -110,7 +146,7 @@
           "description": "加納学：自転車で全都道府県へ @Dr_Kano 京都大学大学院情報学研究科システム科学専攻教授．クアドリティクス株式会社COO．輪行サイクリング好き．骨ストレッチで體にキレを．日々平凡なことに感謝しています．写真はRIDLEY FENIX SL 2016 + Campagnolo BORA WTO 45． note.com/dr_kano",
           "link": "https://togetter.com/li/1758080",
           "publishedOn": "2021-08-11T08:59:22.000Z",
-          "wordCount": 1092,
+          "wordCount": 1112,
           "title": "小金井市のワクチンQ＆Aが攻めている「こういう質問を無視せず回答するの大事」「このくらい言い切ってくれる方が素人は安心」 - Togetter"
         },
         {
@@ -119,7 +155,7 @@
           "description": "なぜ老人ホーム隠蔽スキャンダルでの辞任じゃないのか疑問に思ってる人が多そうなんで解説。 一文で言えば「セクハラの調査結果は出たが、隠蔽事件は調査中だから」です。 隠蔽事件についてはFBIが調査中の案件なので「隠蔽事件の引責で辞任する」と言ってしまえば自白になってしまうわけです。 なので結果が出ちゃって...",
           "link": "https://anond.hatelabo.jp/20210811171248",
           "publishedOn": "2021-08-11T08:13:02.000Z",
-          "wordCount": 108,
+          "wordCount": 107,
           "title": "クオモ知事がセクハラで辞任した理由"
         },
         {
@@ -128,7 +164,7 @@
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 電通グループは11日、2021年12月期（今期）の連結最終損益（国際会計基準）が1075億円の黒字（前期は1595億円の赤字）になりそうだと発表した。コロナ禍からの経済活動...",
           "link": "https://www.nikkei.com/article/DGXZASFL11HPX_R10C21A8000000/",
           "publishedOn": "2021-08-11T07:55:55.000Z",
-          "wordCount": 124,
+          "wordCount": 122,
           "title": "電通グループの今期、1075億円の最終黒字に転換　上場来最高益見込む: 日本経済新聞"
         },
         {
@@ -173,17 +209,8 @@
           "description": "シン・ゴジラにしても閃ハサにしても、先に「これ凄いぞ！！」という情報を浴びてしまう。 ネタバレが嫌なのでなるべく情報はシャットアウトしていても、「凄いぞ！」という熱気はトレンドワードやホットエントリでひしひしと伝わってくる。 そうすると、自分自身の価値観で感じる「凄いぞ！」の前に「どうやら凄いらし...",
           "link": "https://anond.hatelabo.jp/20210811141932",
           "publishedOn": "2021-08-11T05:26:58.000Z",
-          "wordCount": 164,
+          "wordCount": 163,
           "title": "「これは凄いものを観てしまったぞ！」という感動が得られない状況"
-        },
-        {
-          "id": "https://kabumatome.doorblog.jp/archives/65983925.html",
-          "author": null,
-          "description": "運転見合わせ理由に「犯罪行為」なんて初めて見たよ pic.twitter.com/B5zIQrdJx1 — えちにゃ (@seaside334) August 6, 2021 もちベーコン@qxqxqxaquas生活保護制度は犯罪抑止力あると思ってました 2021/08/11 10:41:22 人気者のモテ青年期を過ごす ↓ 大学デビューしたら「只の人」扱いになる (きっかけは「サークルでバ...",
-          "link": "https://kabumatome.doorblog.jp/archives/65983925.html",
-          "publishedOn": "2021-08-11T05:19:39.000Z",
-          "wordCount": 990,
-          "title": "山崎製パン、小田急事件のせいでパン工場が「地獄のバイト先」との風評被害 : 市況かぶ全力２階建"
         },
         {
           "id": "https://www.nishinippon.co.jp/item/n/783469/",
@@ -193,24 +220,6 @@
           "publishedOn": "2021-08-11T04:48:34.000Z",
           "wordCount": 458,
           "title": "「キャンセルになったらしゃれにならない」空港無料PCRの利用低迷｜【西日本新聞me】"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/11/news086.html",
-          "author": null,
-          "description": "締め出されてしまったときに車を止めていた駐車場は宿泊施設のもので、幸いなことにスーツケースは車外だったが、車の中には江島さんの荷物（小物）が入ったまま。それも一緒にレッカー移動されてしまったという。 現地ではトヨタが契約している損保会社のロードサービスがピッキングで開けようとしたが、セキュリティシ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/11/news086.html",
-          "publishedOn": "2021-08-11T04:16:02.000Z",
-          "wordCount": 139,
-          "title": "「アプリで開閉するレンタカーが山奥で開かず」の人、その後の顛末を語る（前編）　トヨタの担当者と再検証した結果、どうなったのか（1/2 ページ） - ITmedia NEWS"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/06474b260744420843bf73b73c6ff970ceb0d8a4",
-          "author": null,
-          "description": "元経済産業省官僚の岸博幸内閣官房参与が９日、読売テレビ「かんさい情報ネットｔｅｎ．」にリモート出演し、菅義偉首相が先月３０日に開いた会見で、東京五輪・パラリンピックを予定通り開催するのかと問われた際にちぐはぐな答弁をしたことについて、菅首相に「ダメっすよ」とダメ出ししたことを明かした。 菅首相は先...",
-          "link": "https://news.yahoo.co.jp/articles/06474b260744420843bf73b73c6ff970ceb0d8a4",
-          "publishedOn": "2021-08-11T03:53:22.000Z",
-          "wordCount": 71,
-          "title": "岸博幸氏　菅首相に「ダメっすよ」とダメ出し　記者会見でかみ合わない答弁に（デイリースポーツ） - Yahoo!ニュース"
         },
         {
           "id": "https://nordot.app/795572373041217536",
@@ -236,17 +245,8 @@
           "description": "最低限のNetwork知識 https://zenn.dev/hee/articles/ce9002ae525622 という記事がブックマーク400を超えていて、どうしてこのレベルの記事に400もブックマークが集まるのかと問いたい。 覚えたことをまとめてアウトプットするのは素晴らしいことだと思うしそれは否定しないんだけど、勉強したての見習いが書いた薄い内...",
           "link": "https://anond.hatelabo.jp/20210811101559",
           "publishedOn": "2021-08-11T01:16:09.000Z",
-          "wordCount": 172,
+          "wordCount": 171,
           "title": "ネットワークをちゃんと学びたいなら"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/byline/kuraharayu/20210811-00252601",
-          "author": null,
-          "description": "「5類感染症」論現在、新型コロナを季節性インフルエンザ並みの5類感染症にダウングレードすることが検討されています。これは、保健所・行政や入院病床の負担から生まれた議論であって、決して新型コロナが季節性インフルエンザ並みに軽症だというわけではありません。 このテーマ、専門家の間でもかなり意見が分かれて...",
-          "link": "https://news.yahoo.co.jp/byline/kuraharayu/20210811-00252601",
-          "publishedOn": "2021-08-11T00:44:37.000Z",
-          "wordCount": 69,
-          "title": "新型コロナを5類感染症にすると医療現場はどうなるか？（倉原優） - 個人 - Yahoo!ニュース"
         },
         {
           "id": "https://speakerdeck.com/lmt_swallow/build-your-own-web-browser",
@@ -254,7 +254,7 @@
           "description": "Transcript ͍ͪ͞ͳ�8FC�ϒϥ΢βΛ࡞ͬͯΈΑ͏ ηΩϡϦςΟɾΩϟϯϓ�શࠃେձ������ #�τϥοΫ :0/&6$)* �5BLBTIJ� IUUQT���TIJGU�KT�JOGP © 2021 shift-js.info ͍ͪ͞ͳWebϒϥ΢βΛ࡞ͬͯΈΑ͏ 2 ຊߨٛࢿྉʹ͍ͭͯ� 4QFBLFS�%FDL�ެ։൛޲͚ͷิ଍ w ຊࢿྉ͸ʮηΩϡϦςΟɾΩϟϯϓશࠃେձ������ΦϯϥΠϯ�#�ʯͷߨٛ౰೔ʹར༻ ͞ΕͨࢿྉΛ࠶ฤͨ͠΋ͷͰ͢ɻ� w ࣮ࡍʹ�8FC�ϒϥ΢βΛ࡞ΔͨΊͷઆ໌͸ɺ͜ͷࢿྉʹ͸ͳ͘ɺࣄલ՝୊ࢿྉͱͯ͠ ެ։ͨ͠ΦϯϥΠϯϒοΫ�IUUQT���CSPXTFSCPPL�TIJGU�KT�JOGP�ʹ͋Γ...",
           "link": "https://speakerdeck.com/lmt_swallow/build-your-own-web-browser",
           "publishedOn": "2021-08-10T22:41:13.000Z",
-          "wordCount": 1997,
+          "wordCount": 1999,
           "title": "ちいさな Web ブラウザを作ってみよう（オンライン講義版） / Build Your Own Web Browser - Speaker Deck"
         },
         {

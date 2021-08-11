@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T10:14:35.000Z</id>
+    <id>urn:2021-08-11T11:10:00.365Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T10:14:35.000Z</updated>
+    <updated>2021-08-11T11:10:00.365Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[電通グループの今期、1075億円の最終黒字に転換　上場来最高益見込む: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZASFL11HPX_R10C21A8000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZASFL11HPX_R10C21A8000000/"/>
+        <updated>2021-08-11T07:55:55.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 電通グループは11日、2021年12月期（今期）の連結最終損益（国際会計基準）が1075億円の黒字（前期は1595億円の赤字）になりそうだと発表した。コロナ禍からの経済活動...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 4200人感染確認 重症者は最多更新197人に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210811/k10013194771000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210811/k10013194771000.html"/>
         <updated>2021-08-11T07:48:25.000Z</updated>
-        <summary type="html"><![CDATA[東京都は11日、都内で新たに4200人が新型コロナウイルスに感染していることを確認したと発表しました。水曜日としてはこれまでで最も多くなり、感染の急激な拡大が続いています。 一方、都の基準で集計した11日時点の重症の患者は10日より21人増えて197人となりました。 10日に続いて過去最多を更新し、重症患者の増加が...]]></summary>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染の急拡大が続く東京都内では11日、新たに4200人の感染が確認されました。 一方、都の基準で集計した11日時点の重症の患者は197人となり、10日に続いて過去最多を更新しました。 また都は、感染が確認された30代と70代の男性2人が死亡したことを明らかにし、このうち30代の男性は自宅で療養中に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -21,6 +31,16 @@
         <link href="https://news.yahoo.co.jp/articles/ff1fdbd7f950f846ce743b8a9090af87698b4530"/>
         <updated>2021-08-11T05:20:56.000Z</updated>
         <summary type="html"><![CDATA[日本ハムは11日、中田翔内野手に統一選手契約書第17条（模範行為）違反による出場停止処分を科したことを発表した。当面の間、1軍、ファーム全ての試合が出場停止となる。 【写真】「たまたま会いましたー！」　西武山川が巨人坂本と撮った奇跡の2ショットを公開しファン興奮 8月4日に函館千代台公園野球場（オーシャン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「キャンセルになったらしゃれにならない」空港無料PCRの利用低迷｜【西日本新聞me】]]></title>
+        <id>https://www.nishinippon.co.jp/item/n/783469/</id>
+        <link href="https://www.nishinippon.co.jp/item/n/783469/"/>
+        <updated>2021-08-11T04:48:34.000Z</updated>
+        <summary type="html"><![CDATA[夏休み期間中の新型コロナウイルス対策として、政府が羽田など全国の主要6空港から搭乗する人を対象に実施しているPCR・抗原定量検査が低調だ。行き先が福岡と北海道、沖縄方面の便で、希望した人が無料で受けられるが、利用率は4％に満たない。制度の周知不足に加え、陽性と結果が出たときは搭乗できない仕組みなどが背...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「仕事のコード」を残す際のチェックリスト｜Uchio Kondo｜note]]></title>
-        <id>https://note.com/udzura/n/n02f2ffc532e3</id>
-        <link href="https://note.com/udzura/n/n02f2ffc532e3"/>
-        <updated>2021-08-10T13:41:50.000Z</updated>
-        <summary type="html"><![CDATA[最初に注意: この文章は「はじめに」「総論」が長いです🙃 はじめに・「仕事のコード」、つまり、業務などで作ったコードが、なるべく負債にならず、なるべく俗人化しないようにするために留意すると良さそうなことを自分の経験などから列挙したものです。 ・ちなみに、「対象読者」に書いてありますが、そもそものモチ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[政府が糞だから帰省するって、本気で言ってる？]]></title>
         <id>https://anond.hatelabo.jp/20210810222616</id>
         <link href="https://anond.hatelabo.jp/20210810222616"/>
         <updated>2021-08-10T13:28:29.000Z</updated>
         <summary type="html"><![CDATA[人それぞれだと思うけど、それこそ親殺しの顔して、帰省しなよね。 俺は五輪とか全く関係なく6月ごろの段階で、両親だけでなく接種の意志がある家族（賢明なことに我が家は全員）が ワクチンが接種完了して2週間経過してれば帰省する、出来なければしないと決めてたしそう伝えてあった。 両親は7月の末に2度目を終えて、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自宅療養中の死者数、厚労省「把握していない」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html</id>
-        <link href="https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html"/>
-        <updated>2021-08-10T12:09:25.000Z</updated>
-        <summary type="html"><![CDATA[立憲民主党は10日、新型コロナ対策本部と厚生労働部会の合同会議を開いた。新型コロナウイルスに感染し、自宅療養中に死亡した人の人数について、政府側に尋ねたが、厚労省は「把握していない」と述べた。立憲は、東京五輪でメディア用に借り上げられた民間ホテルを療養施設に転用するよう、政府側に求めた。 合同会議で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

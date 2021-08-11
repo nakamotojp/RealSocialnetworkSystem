@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T05:10:43.553Z</id>
+    <id>urn:2021-08-11T06:15:21.252Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T05:10:43.553Z</updated>
+    <updated>2021-08-11T06:15:21.252Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[中国Xiaomiが犬型ロボット「CyberDog」発表　価格は17万円、他社類似モデルの50分の1 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/11/news084.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/11/news084.html"/>
+        <updated>2021-08-11T04:06:16.000Z</updated>
+        <summary type="html"><![CDATA[中国Xiaomi（小米科技）が犬型ロボット「CyberDog」を発表した。価格は約17万円で、米Boston Dynamicsの最新機種「Spot」（約820万円）に比べて約50分の1の価格に抑えた。開発者向けに1000台限定で販売する。 中国スマートフォン大手のXiaomi（小米科技）は8月10日（現地時間）、犬型ロボット「CyberDog」を発表した。価...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いやしい豚でございます on Twitter: "そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のドラレコは絶対みせて"]]></title>
         <id>https://twitter.com/bikeandriding/status/1425053631577935876</id>
@@ -126,11 +136,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ感染症を5類扱いにすると？→治療費が3割負担に→国民皆保険制度破綻の覚悟が必要かも - Togetter]]></title>
-        <id>https://togetter.com/li/1757684</id>
-        <link href="https://togetter.com/li/1757684"/>
-        <updated>2021-08-10T16:42:36.000Z</updated>
-        <summary type="html"><![CDATA[KGN @KGN_works トバシ記事であって欲しいところですね、これ。 季節性インフルエンザと同じ扱いにすると、治療費が3割患者負担になるので、重症化したらかなりの額を支払う必要が出ますね。 公費負担の限界という論かな？ 金の切れ目が命の切れ目、金が無いから入院しない（できない）、という人が出るんですが…… twitt...]]></summary>
+        <title type="html"><![CDATA[昼寝猫 on Twitter: "前首相に極めて近い人間が、外国諜報機関とつるんで対外世論・外交工作してたって弩級スキャンダルだけどな。"]]></title>
+        <id>https://twitter.com/tcv2catnap/status/1425133496289267719</id>
+        <link href="https://twitter.com/tcv2catnap/status/1425133496289267719"/>
+        <updated>2021-08-10T17:58:58.000Z</updated>
+        <summary type="html"><![CDATA[前首相に極めて近い人間が、外国諜報機関とつるんで対外世論・外交工作してたって弩級スキャンダルだけどな。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相の長崎式典遅刻の理由はトイレ　予想以上に遠く時間がかかる：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/123393</id>
-        <link href="https://www.tokyo-np.co.jp/article/123393"/>
-        <updated>2021-08-10T12:41:38.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は１０日、長崎市で９日に開かれた長崎原爆犠牲者慰霊平和祈念式典に１分遅刻したことを陳謝した。「少し前に会場に着いていたが、結果的に時間管理上の問題で遅刻してしまった。心からおわび申し上げたい」と説明した。バイデン米大統領との電話会談後、官邸で記者団の取材に応じた。政府関係者は、トイレに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自宅療養中の死者数、厚労省「把握していない」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html</id>
         <link href="https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html"/>
@@ -286,21 +286,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[お前は危険物甲種名乗んな 山が当たって甲種取っただけのお前は知らんだろ..]]></title>
-        <id>https://anond.hatelabo.jp/20210810082208</id>
-        <link href="https://anond.hatelabo.jp/20210810082208"/>
-        <updated>2021-08-10T06:24:35.000Z</updated>
-        <summary type="html"><![CDATA[お前は危険物甲種名乗んな 山が当たって甲種取っただけのお前は知らんだろうが危険物には指定数量ってのがあるワケ。 たとえばガソリンは指定数量が200リットルと消防法で定められている。指定数量ってのが何なのかと言うと、この量を超える危険物を取り扱う際は法律の規制を受けますよ、って量なんだわ。 で、ガソリン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kenji Shiraishi on Twitter: "日本は異様に温暖化懐疑論者が多いよなあと思っていたが。調べたら環境問題について科学者が言うことを信じますか、というSAPとQualtricsの調査で日本はロシアに次いで下から二番目だったようだ。まじかよ。… https://t.co/2lYTuYhr9a"]]></title>
         <id>https://twitter.com/Knjshiraishi/status/1424880711291478036</id>
         <link href="https://twitter.com/Knjshiraishi/status/1424880711291478036"/>
         <updated>2021-08-10T04:09:38.000Z</updated>
         <summary type="html"><![CDATA[日本は異様に温暖化懐疑論者が多いよなあと思っていたが。調べたら環境問題について科学者が言うことを信じますか、というSAPとQualtricsの調査で日本はロシアに次いで下から二番目だったようだ。まじかよ。… https://t.co/2lYTuYhr9a]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!]]></title>
+        <id>https://github.com/microsoft/IoT-For-Beginners</id>
+        <link href="https://github.com/microsoft/IoT-For-Beginners"/>
+        <updated>2021-07-15T05:13:51.000Z</updated>
+        <summary type="html"><![CDATA[IoT for Beginners - A Curriculum Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based peda...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

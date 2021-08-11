@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T06:15:21.252Z</id>
+    <id>urn:2021-08-11T07:11:09.971Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T06:15:21.252Z</updated>
+    <updated>2021-08-11T07:11:09.971Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[岸博幸氏　菅首相に「ダメっすよ」とダメ出し　記者会見でかみ合わない答弁に（デイリースポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/06474b260744420843bf73b73c6ff970ceb0d8a4</id>
+        <link href="https://news.yahoo.co.jp/articles/06474b260744420843bf73b73c6ff970ceb0d8a4"/>
+        <updated>2021-08-11T03:53:22.000Z</updated>
+        <summary type="html"><![CDATA[元経済産業省官僚の岸博幸内閣官房参与が９日、読売テレビ「かんさい情報ネットｔｅｎ．」にリモート出演し、菅義偉首相が先月３０日に開いた会見で、東京五輪・パラリンピックを予定通り開催するのかと問われた際にちぐはぐな答弁をしたことについて、菅首相に「ダメっすよ」とダメ出ししたことを明かした。 菅首相は先...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[いやしい豚でございます on Twitter: "そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のドラレコは絶対みせて"]]></title>
         <id>https://twitter.com/bikeandriding/status/1425053631577935876</id>
         <link href="https://twitter.com/bikeandriding/status/1425053631577935876"/>
         <updated>2021-08-11T03:21:48.000Z</updated>
         <summary type="html"><![CDATA[そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のドラレコは絶対みせて]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本維新の会がワクチン接種会場へ大量の飲み物を寄付認める「選挙の事前運動の疑い」 (1/3) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
+        <id>https://dot.asahi.com/dot/2021081100005.html</id>
+        <link href="https://dot.asahi.com/dot/2021081100005.html"/>
+        <updated>2021-08-11T02:29:59.000Z</updated>
+        <summary type="html"><![CDATA[「最初はみんな普通に飲んでいたのですが、貼られた紙をみて、ちょっと変だなと…」 こう話すのは、大阪市の大阪市大規模接種センターの会場であるインテックス大阪でワクチン接種に従事する医療関係者のAさんだ。AERAdot.に提供してくれた画像にはこう記されていた。 【写真】「日本維新の会」が提供していると記された...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[昼寝猫 on Twitter: "前首相に極めて近い人間が、外国諜報機関とつるんで対外世論・外交工作してたって弩級スキャンダルだけどな。"]]></title>
-        <id>https://twitter.com/tcv2catnap/status/1425133496289267719</id>
-        <link href="https://twitter.com/tcv2catnap/status/1425133496289267719"/>
-        <updated>2021-08-10T17:58:58.000Z</updated>
-        <summary type="html"><![CDATA[前首相に極めて近い人間が、外国諜報機関とつるんで対外世論・外交工作してたって弩級スキャンダルだけどな。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「もう打つ手がない」死にそうなくらいの夜泣きの原因が分かったとき我々の育児レベルは上がった - Togetter]]></title>
         <id>https://togetter.com/li/1757745</id>
         <link href="https://togetter.com/li/1757745"/>
@@ -181,6 +191,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210811/k10013193761000.html"/>
         <updated>2021-08-10T15:29:57.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり西村経済再生担当大臣は10日夜、動画配信サイト「ニコニコ生放送」に出演し、都道府県を越える移動を控えるよう重ねて呼びかけたうえで、やむをえず帰省する人は検査を受けてほしいとして、空港の利用客に行う無料のPCR検査を拡大する方針を明らかにしました。 この中で、西村経済再生担...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミのタブ復活！3万4000円からの超コスパ「Mi Pad 5」、67W急速充電とオクタスピーカー対応「Mi Pad 5 Pro」 – すまほん!!]]></title>
+        <id>https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec</id>
+        <link href="https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec"/>
+        <updated>2021-08-10T15:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Mi Pad 5のSoCはSnapdragon 855のクロックアップであるSnapdragon 860を採用。ディスプレイは11インチ液晶で2560×1600の120Hz、10億色の表示やDolby Visionに対応。スピーカーは4台搭載されており、Dolby Atmosに対応しています。メモリは6GB、ストレージは128/256GBを用意。 カメラは1300万画素、インカメラは800万画素...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,26 +301,6 @@
         <link href="https://note.com/mostsouthguitar/n/n3ab3bad107b9"/>
         <updated>2021-08-10T08:36:40.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kenji Shiraishi on Twitter: "日本は異様に温暖化懐疑論者が多いよなあと思っていたが。調べたら環境問題について科学者が言うことを信じますか、というSAPとQualtricsの調査で日本はロシアに次いで下から二番目だったようだ。まじかよ。… https://t.co/2lYTuYhr9a"]]></title>
-        <id>https://twitter.com/Knjshiraishi/status/1424880711291478036</id>
-        <link href="https://twitter.com/Knjshiraishi/status/1424880711291478036"/>
-        <updated>2021-08-10T04:09:38.000Z</updated>
-        <summary type="html"><![CDATA[日本は異様に温暖化懐疑論者が多いよなあと思っていたが。調べたら環境問題について科学者が言うことを信じますか、というSAPとQualtricsの調査で日本はロシアに次いで下から二番目だったようだ。まじかよ。… https://t.co/2lYTuYhr9a]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!]]></title>
-        <id>https://github.com/microsoft/IoT-For-Beginners</id>
-        <link href="https://github.com/microsoft/IoT-For-Beginners"/>
-        <updated>2021-07-15T05:13:51.000Z</updated>
-        <summary type="html"><![CDATA[IoT for Beginners - A Curriculum Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based peda...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

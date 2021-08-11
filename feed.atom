@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T07:11:09.971Z</id>
+    <id>urn:2021-08-11T08:13:25.400Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T07:11:09.971Z</updated>
+    <updated>2021-08-11T08:13:25.400Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 4200人感染確認 重症者は最多更新197人に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210811/k10013194771000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210811/k10013194771000.html"/>
+        <updated>2021-08-11T07:48:25.000Z</updated>
+        <summary type="html"><![CDATA[東京都は11日、都内で新たに4200人が新型コロナウイルスに感染していることを確認したと発表しました。水曜日としてはこれまでで最も多くなり、感染の急激な拡大が続いています。 一方、都の基準で集計した11日時点の重症の患者は10日より21人増えて197人となりました。 10日に続いて過去最多を更新し、重症患者の増加が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アプリで開閉するレンタカーが山奥で開かず」の人、その後の顛末を語る（前編）　トヨタの担当者と再検証した結果、どうなったのか（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/11/news086.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/11/news086.html"/>
+        <updated>2021-08-11T04:16:02.000Z</updated>
+        <summary type="html"><![CDATA[締め出されてしまったときに車を止めていた駐車場は宿泊施設のもので、幸いなことにスーツケースは車外だったが、車の中には江島さんの荷物（小物）が入ったまま。それも一緒にレッカー移動されてしまったという。 現地ではトヨタが契約している損保会社のロードサービスがピッキングで開けようとしたが、セキュリティシ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国Xiaomiが犬型ロボット「CyberDog」発表　価格は17万円、他社類似モデルの50分の1 - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/11/news084.html</id>
@@ -196,31 +216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[シャオミのタブ復活！3万4000円からの超コスパ「Mi Pad 5」、67W急速充電とオクタスピーカー対応「Mi Pad 5 Pro」 – すまほん!!]]></title>
-        <id>https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec</id>
-        <link href="https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec"/>
-        <updated>2021-08-10T15:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Mi Pad 5のSoCはSnapdragon 855のクロックアップであるSnapdragon 860を採用。ディスプレイは11インチ液晶で2560×1600の120Hz、10億色の表示やDolby Visionに対応。スピーカーは4台搭載されており、Dolby Atmosに対応しています。メモリは6GB、ストレージは128/256GBを用意。 カメラは1300万画素、インカメラは800万画素...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[既得権益を手放すことほど難しいことはない]]></title>
         <id>https://anond.hatelabo.jp/20210810233938</id>
         <link href="https://anond.hatelabo.jp/20210810233938"/>
         <updated>2021-08-10T14:42:28.000Z</updated>
         <summary type="html"><![CDATA[米国人に「日本はなぜ真珠湾を攻撃したのか」と聞かれたら、どう説明しますか？ https://courrier.jp/columns/256389/ 上の記事がホッテントリに入っているが、日本が米国と開戦した理由は「既得権益を手放せなかったから」というのが一番シンプルな答えだと思う。 人間は「自分が手にしていないモノを手に入れられない...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尾身会長「感染力高まり あまり報告なかった場所でも感染」 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html"/>
-        <updated>2021-08-10T14:27:54.000Z</updated>
-        <summary type="html"><![CDATA[政府の分科会の尾身茂会長は10日夜、動画配信サイト「ニコニコ生放送」に出演し、感染力の強い変異ウイルス「デルタ株」が主流になり、感染がこれまで広がっていなかった場所でも報告されているとして、基本的な対策を徹底する必要があるという認識を示しました。 この中で、尾身会長はデルタ株について「確かに感染力は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

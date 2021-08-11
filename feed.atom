@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T14:11:07.940Z</id>
+    <id>urn:2021-08-11T15:13:20.350Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T14:11:07.940Z</updated>
+    <updated>2021-08-11T15:13:20.350Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061"/>
         <updated>2021-08-11T12:40:28.000Z</updated>
         <summary type="html"><![CDATA[名古屋市の河村たかし市長が東京オリンピックの金メダリストのメダルをかんだ問題で、このメダルが新たなものに交換されることに決まったことが、日本テレビの取材でわかりました。 この問題は今月４日、名古屋市の河村市長が、ソフトボール日本代表として東京オリンピックで金メダルに輝いた後藤希友投手の表敬訪問を受...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クオモ知事がセクハラで辞任した理由]]></title>
+        <id>https://anond.hatelabo.jp/20210811171248</id>
+        <link href="https://anond.hatelabo.jp/20210811171248"/>
+        <updated>2021-08-11T08:13:02.000Z</updated>
+        <summary type="html"><![CDATA[なぜ老人ホーム隠蔽スキャンダルでの辞任じゃないのか疑問に思ってる人が多そうなんで解説。 一文で言えば「セクハラの調査結果は出たが、隠蔽事件は調査中だから」です。 隠蔽事件についてはFBIが調査中の案件なので「隠蔽事件の引責で辞任する」と言ってしまえば自白になってしまうわけです。 なので結果が出ちゃって...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[『しつこい営業を一瞬で断る方法』相手の営業マンが断られた理由を上司に言い訳できる素材を与えてあげるのが重要なポイント - Togetter]]></title>
+        <id>https://togetter.com/li/1757965</id>
+        <link href="https://togetter.com/li/1757965"/>
+        <updated>2021-08-11T03:38:32.000Z</updated>
+        <summary type="html"><![CDATA[本宮(もとみや) @toyo_afi 【しつこい営業を一瞬で断る方法】 不動産投資→先月自己破産しました クレカ→先月自己破産しました 生命保険→心療内科に通ってます 投資信託→勧誘不要。金商法38条 自動車保険→1等級です 光回線→ホテル暮らしです 新聞→デジタル版で契約済みです 宗教→私が神です 風俗呼び込み→賢者です 2021-0...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[いやしい豚でございます on Twitter: "そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のドラレコは絶対みせて"]]></title>
         <id>https://twitter.com/bikeandriding/status/1425053631577935876</id>
         <link href="https://twitter.com/bikeandriding/status/1425053631577935876"/>
@@ -186,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[雇用保険料、来年度は2倍の可能性　コロナで積立金払底：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8B5VM6P83ULFA00J.html</id>
-        <link href="https://www.asahi.com/articles/ASP8B5VM6P83ULFA00J.html"/>
-        <updated>2021-08-11T01:05:16.000Z</updated>
-        <summary type="html"><![CDATA[多くの働き手の給与から天引きされる雇用保険料の引き上げが2022年度、避けられない状況だ。新型コロナ禍で支出が膨らみ、財源が底をつく寸前だからだ。ルール通りなら労働者は2倍、会社は約1・6倍の負担増だが、引き上げに反対し、税金の投入を求める声も強まっている。 働き手のセーフティーネットとして国が運用する...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新型コロナを5類感染症にすると医療現場はどうなるか？（倉原優） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kuraharayu/20210811-00252601</id>
         <link href="https://news.yahoo.co.jp/byline/kuraharayu/20210811-00252601"/>
@@ -231,16 +241,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210811/k10013193041000.html"/>
         <updated>2021-08-10T20:57:53.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスのワクチン接種の進み具合についてNHKの世論調査で聞いたところ、「順調だ」と答えた人は18％で、「遅い」と答えた人が75％でした。 NHKは、今月7日から3日間、全国の18歳以上を対象にコンピューターで無作為に発生させた固定電話と携帯電話の番号に電話をかける「RDD」という方法で世論調査を行いま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【識者の眼】「COVID-19に対するイベルメクチンの現時点のEBM」倉原 優｜Web医事新報|日本医事新報社]]></title>
-        <id>https://www.jmedj.co.jp/journal/paper/detail.php?id=17787</id>
-        <link href="https://www.jmedj.co.jp/journal/paper/detail.php?id=17787"/>
-        <updated>2021-08-10T19:41:29.000Z</updated>
-        <summary type="html"><![CDATA[この1年、SNSで論争が繰り広げられているテーマの1つに「新型コロナウイルス感染症（COVID-19）に対するイベルメクチン」がある。先に書いておくが、2021年8月9日時点での結論としては、コクランレビューによれば「COVID-19の予防・治療に対する使用を支持しない」というのがユニバーサルコンセンサスである1）。 この一...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -286,11 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「ゴールデンカムイ」最新話まで追いついたけれど、女オタクの方々がどのあたりを指して「地獄」と言っているのかがよくわからなかった - 頭の上にミカンをのせる]]></title>
+        <title type="html"><![CDATA[「ゴールデンカムイ」最新話まで追いついたけれど、オタクの方々がどのあたりを指して「地獄」と言っているのかがよくわからなかった - 頭の上にミカンをのせる]]></title>
         <id>https://www.tyoshiki.com/entry/2021/08/10/185840</id>
         <link href="https://www.tyoshiki.com/entry/2021/08/10/185840"/>
         <updated>2021-08-10T11:49:17.000Z</updated>
-        <summary type="html"><![CDATA[ゴールデンカムイ、最新話まで追いつきました。 読んでみたらさすがというかめちゃくちゃ面白かったです。　みんなも無料期間中に頑張って最新話まで追いつこう！ ゴールデンカムイ　コミック　1-26巻セット 作者:野田 サトル集英社Amazon 一方で、最新話まで追いついても腐女子の方々が「地獄だ地獄だ」と騒いでるのは...]]></summary>
+        <summary type="html"><![CDATA[【追記】最後に書いている通り、オタクの方々の感性や言い回しを批判することが目的ではなく①地獄地獄言ってるけどそこまで悲惨な話ではない②14巻以降も相変わらず「冒険・歴史・文化・狩猟グルメ・GAG＆LOVE・シェフの欲張り和風闇鍋ウエスタン」というキャッチコピー通りにギャグ要素も充実したカオスなマンガである③...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

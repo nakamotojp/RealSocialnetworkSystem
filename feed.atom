@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T02:22:22.256Z</id>
+    <id>urn:2021-08-11T03:13:52.071Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T02:22:22.256Z</updated>
+    <updated>2021-08-11T03:13:52.071Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[あと数週間で希望者全員のワクチン接種が完了する]]></title>
+        <id>https://anond.hatelabo.jp/20210811092459</id>
+        <link href="https://anond.hatelabo.jp/20210811092459"/>
+        <updated>2021-08-11T01:10:09.000Z</updated>
+        <summary type="html"><![CDATA[https://b.hatena.ne.jp/entry/s/togetter.com/li/1757684 popolonlon3965 「あと数週間で希望者全員のワクチン接種が完了する」なブコメが上位にいて、オリンピック以外にもいろいろパラレルワールドあるんだなと悲しい気持ちになってる。 どこの国にも「反ワクチン勢」「当初反ワクチンだったけどやっぱ接種することに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「小田急刺傷事件」容疑者が勤務していたパン工場は“地獄のバイト先”で有名だった | デイリー新潮]]></title>
+        <id>https://www.dailyshincho.jp/article/2021/08110559/</id>
+        <link href="https://www.dailyshincho.jp/article/2021/08110559/"/>
+        <updated>2021-08-10T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転載を禁じます。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ボランティア用のユニフォーム1万人分 保管されたまま | オリンピック・パラリンピック | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210811/k10013193771000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210811/k10013193771000.html"/>
         <updated>2021-08-10T22:23:42.000Z</updated>
         <summary type="html"><![CDATA[東京オリンピック・パラリンピックのボランティアのために、全国の自治体が1セット2万円から4万円ほどを払って購入したユニフォーム1万人分が、配付されないまま保管されていることがわかりました。 辞退が相次いだことが理由で、自治体からは大会のグッズは権利関係のルールが複雑だとして、大会組織委員会に有効活用す...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「翔んで埼玉」続編製作が決定！GACKT「不安しかありません」、二階堂ふみも続投（コメントあり） - 映画ナタリー]]></title>
+        <id>https://natalie.mu/eiga/news/440289</id>
+        <link href="https://natalie.mu/eiga/news/440289"/>
+        <updated>2021-08-10T22:08:31.000Z</updated>
+        <summary type="html"><![CDATA[「翔んで埼玉」続編製作が決定！GACKT「不安しかありません」、二階堂ふみも続投 2021年8月11日 7:00 魔夜峰央のマンガを原作に、2019年に公開された映画「翔んで埼玉」。埼玉県民などが迫害を受ける架空の世界を舞台に、GACKT演じる麻実麗と、二階堂ふみ扮する壇ノ浦百美が自由を求めて戦うさまが描かれた。興行収入は3...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「鼻から牛乳や」「ねえ、薬きまってる？」衰弱していたウィシュマさんに入管職員　「命預かる施設」とかけ離れ：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/123396</id>
+        <link href="https://www.tokyo-np.co.jp/article/123396"/>
+        <updated>2021-08-10T21:53:51.000Z</updated>
+        <summary type="html"><![CDATA[「鼻から牛乳や」「ねえ、薬きまってる？」衰弱していたウィシュマさんに入管職員　「命預かる施設」とかけ離れ 名古屋出入国在留管理局でスリランカ人女性ウィシュマ・サンダマリさん＝当時（３３）＝が３月に死亡した問題で、出入国在留管理庁が最終調査報告書をまとめた。名古屋入管の対応や医療体制に問題があったと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ＥＲ先輩 on Twitter: "本部機動救急、非常用救急を含め、今日は都内ほぼすべての救急車が出払った模様。 私自身、長年救急に携わってきましたがこんなことは初めて。 異例を超えて、もう異常事態としか言いようがありません。 受入要請数も連日100件以上、コロナ… https://t.co/nDNDzrL3SU"]]></title>
-        <id>https://twitter.com/er_sempai/status/1425031093825118208</id>
-        <link href="https://twitter.com/er_sempai/status/1425031093825118208"/>
-        <updated>2021-08-10T13:04:23.000Z</updated>
-        <summary type="html"><![CDATA[本部機動救急、非常用救急を含め、今日は都内ほぼすべての救急車が出払った模様。 私自身、長年救急に携わってきましたがこんなことは初めて。 異例を超えて、もう異常事態としか言いようがありません。 受入要請数も連日100件以上、コロナ… https://t.co/nDNDzrL3SU]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[菅首相の長崎式典遅刻の理由はトイレ　予想以上に遠く時間がかかる：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/123393</id>
         <link href="https://www.tokyo-np.co.jp/article/123393"/>
@@ -216,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[デジタル庁次官候補の伊藤穣一氏、「性犯罪者から資金提供はさすがにマズイ」と人事問題化に | デイリー新潮]]></title>
-        <id>https://www.dailyshincho.jp/article/2021/08101050/?all=1</id>
-        <link href="https://www.dailyshincho.jp/article/2021/08101050/?all=1"/>
-        <updated>2021-08-10T08:58:50.000Z</updated>
-        <summary type="html"><![CDATA[ジェフリー・エプスタインとの関係 菅義偉首相の肝いりで新設される予定のデジタル庁について、事務方トップの「デジタル監（事務次官に相当）」に、実業家で個人投資家の伊藤穰一氏（55）を起用する方向で最終調整に入ったと報じられた。伊藤氏は、「食べログ」などを運営するカカクコムなどを傘下に持つ「デジタルガレ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[陰謀論を信じる母に悩む28歳女性に、鴻上尚史が明かした「カルト宗教にハマった友人の洗脳を解いた」過去 (1/7) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
         <id>https://dot.asahi.com/dot/2021080300053.html</id>
         <link href="https://dot.asahi.com/dot/2021080300053.html"/>
@@ -236,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バンダイナムコ知新「第8回　第1章 ナムコサウンドの足跡をたどる【前編】」慶野由利子氏、小沢純子氏、中潟憲雄氏、大久保博氏　インタビュー | アソビモット]]></title>
-        <id>https://asobimotto.bandainamcoent.co.jp/9012/</id>
-        <link href="https://asobimotto.bandainamcoent.co.jp/9012/"/>
-        <updated>2021-08-10T08:40:31.000Z</updated>
-        <summary type="html"><![CDATA[きらびやかなカラーに彩られたエイリアンが、星の流れの中をきれいな弧を描きながら編隊でマイシップに迫る『ギャラクシアン』。ドットイートゲームにキャラクター性を盛り込み、キャラクターの性格までをも動きやグラフィックで表現し、スリリングな逆転要素で世界中の老若男女に親しまれた『パックマン』。 1980年代、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[なぜあの人はウレタンマスクを使い続けているのか｜ハラオカヒサ｜note]]></title>
         <id>https://note.com/mostsouthguitar/n/n3ab3bad107b9</id>
         <link href="https://note.com/mostsouthguitar/n/n3ab3bad107b9"/>
         <updated>2021-08-10T08:36:40.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感染爆発なのに危機感がない　人々の心理に何が起こっているのか　効果的な対策は？（原田隆之） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/haradatakayuki/20210810-00252430</id>
-        <link href="https://news.yahoo.co.jp/byline/haradatakayuki/20210810-00252430"/>
-        <updated>2021-08-10T06:58:55.000Z</updated>
-        <summary type="html"><![CDATA[爆発と五輪開催　東京オリンピックが閉幕した。緊急事態宣言下の五輪開催という異例の事態のなか、まさに感染爆発という事態が続いている。 前回の記事では、五輪開幕直後の人々の心理とそれが感染拡大に影響を与える点について指摘した（コロナ禍の五輪に熱狂する人々の心理とそこで忘れてはいけないこと）。 そこでは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

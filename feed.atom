@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T03:13:52.071Z</id>
+    <id>urn:2021-08-11T04:15:28.769Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T03:13:52.071Z</updated>
+    <updated>2021-08-11T04:15:28.769Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[食事量を減らして間食をやめて運動し始めたら]]></title>
+        <id>https://anond.hatelabo.jp/20210811110404</id>
+        <link href="https://anond.hatelabo.jp/20210811110404"/>
+        <updated>2021-08-11T02:18:04.000Z</updated>
+        <summary type="html"><![CDATA[体重がみるみる落ちていってる 8/1日に計った体重が93キロで今が85キロ いや、減りすぎやろ さすがに危機感ある 先月までの生活 朝：菓子パン3個 昼：コンビニ弁当2個＋お菓子 夜：コンビニ弁当2個＋カップラーメン＋お菓子 約4000kcal 運動：通勤時徒歩10分 今月からの生活 朝：卵かけご飯2杯。味噌汁 昼：レトルト玄米...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あと数週間で希望者全員のワクチン接種が完了する]]></title>
         <id>https://anond.hatelabo.jp/20210811092459</id>
         <link href="https://anond.hatelabo.jp/20210811092459"/>
         <updated>2021-08-11T01:10:09.000Z</updated>
         <summary type="html"><![CDATA[https://b.hatena.ne.jp/entry/s/togetter.com/li/1757684 popolonlon3965 「あと数週間で希望者全員のワクチン接種が完了する」なブコメが上位にいて、オリンピック以外にもいろいろパラレルワールドあるんだなと悲しい気持ちになってる。 どこの国にも「反ワクチン勢」「当初反ワクチンだったけどやっぱ接種することに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雇用保険料、来年度は2倍の可能性　コロナで積立金払底：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8B5VM6P83ULFA00J.html</id>
+        <link href="https://www.asahi.com/articles/ASP8B5VM6P83ULFA00J.html"/>
+        <updated>2021-08-11T01:05:16.000Z</updated>
+        <summary type="html"><![CDATA[多くの働き手の給与から天引きされる雇用保険料の引き上げが2022年度、避けられない状況だ。新型コロナ禍で支出が膨らみ、財源が底をつく寸前だからだ。ルール通りなら労働者は2倍、会社は約1・6倍の負担増だが、引き上げに反対し、税金の投入を求める声も強まっている。 働き手のセーフティーネットとして国が運用する...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -96,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[無料で読めるITまんが 2021年版 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/it_2021_1.html</id>
+        <link href="https://www.publickey1.jp/blog/21/it_2021_1.html"/>
+        <updated>2021-08-10T15:41:45.000Z</updated>
+        <summary type="html"><![CDATA[ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、ITまんがの2021年版です。今年も11本のマンガを新たに追加しました。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ゆーすけ on Twitter: "先ほど放送された韓国MBC「PD手帳」の内容を見ながら簡単にまとめます。韓国の独島守備隊のチェ・ジェイク氏、挺対協のユン・ミヒャン氏が日本を訪問するたびにスケジュールが筒抜けで右翼や在特に囲まれる。それは韓国の情報機関国家情報院が… https://t.co/lXmUBsVLvo"]]></title>
         <id>https://twitter.com/yoox5135/status/1425105479580139526</id>
         <link href="https://twitter.com/yoox5135/status/1425105479580139526"/>
@@ -116,21 +146,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尾身会長「感染力高まり あまり報告なかった場所でも感染」 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html"/>
-        <updated>2021-08-10T14:27:54.000Z</updated>
-        <summary type="html"><![CDATA[政府の分科会の尾身茂会長は10日夜、動画配信サイト「ニコニコ生放送」に出演し、感染力の強い変異ウイルス「デルタ株」が主流になり、感染がこれまで広がっていなかった場所でも報告されているとして、基本的な対策を徹底する必要があるという認識を示しました。 この中で、尾身会長はデルタ株について「確かに感染力は...]]></summary>
+        <title type="html"><![CDATA[既得権益を手放すことほど難しいことはない]]></title>
+        <id>https://anond.hatelabo.jp/20210810233938</id>
+        <link href="https://anond.hatelabo.jp/20210810233938"/>
+        <updated>2021-08-10T14:42:28.000Z</updated>
+        <summary type="html"><![CDATA[米国人に「日本はなぜ真珠湾を攻撃したのか」と聞かれたら、どう説明しますか？ https://courrier.jp/columns/256389/ 上の記事がホッテントリに入っているが、日本が米国と開戦した理由は「既得権益を手放せなかったから」というのが一番シンプルな答えだと思う。 人間は「自分が手にしていないモノを手に入れられない...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「事故に遭ったよう」 東京出張後にコロナ発症の男性　「特別なことしなくてもうつる」と警鐘／兵庫・丹波市（丹波新聞） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/0e2e1ac2d1a9d28edb43645de9dbbcceb1f4e7c5</id>
-        <link href="https://news.yahoo.co.jp/articles/0e2e1ac2d1a9d28edb43645de9dbbcceb1f4e7c5"/>
-        <updated>2021-08-10T14:21:57.000Z</updated>
-        <summary type="html"><![CDATA[連日の午後9時の抗炎症剤の注射で、内出血した上腕。両腕に痛々しい注射痕が残る＝2021年8月5日午前11時44分、兵庫県丹波市内で 新型コロナウイルスの第5波の感染が拡大する中、同ウイルスに感染し、兵庫県丹波地域の病院に2週間入院、8月5日に退院した同県丹波市内の30代会社員男性に、発症から退院までの様子を聞いた...]]></summary>
+        <title type="html"><![CDATA[尾身会長「感染力高まり あまり報告なかった場所でも感染」 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html"/>
+        <updated>2021-08-10T14:27:54.000Z</updated>
+        <summary type="html"><![CDATA[政府の分科会の尾身茂会長は10日夜、動画配信サイト「ニコニコ生放送」に出演し、感染力の強い変異ウイルス「デルタ株」が主流になり、感染がこれまで広がっていなかった場所でも報告されているとして、基本的な対策を徹底する必要があるという認識を示しました。 この中で、尾身会長はデルタ株について「確かに感染力は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,26 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【東京五輪】菅政権が「最凶ラムダ株」上陸の発表を期間中に“隠蔽”　米メディアが猛追及 | 東スポのニュースに関するニュースを掲載]]></title>
-        <id>https://www.tokyo-sports.co.jp/entame/news/3513067/</id>
-        <link href="https://www.tokyo-sports.co.jp/entame/news/3513067/"/>
-        <updated>2021-08-10T11:12:42.000Z</updated>
-        <summary type="html"><![CDATA[さらに支持率を下げている菅首相 日本政府が新型コロナウイルスで〝最凶〟とされるラムダ株の国内初検出の発表を東京五輪期間中に隠蔽したと米メディアが猛追及している。 南米で猛威を振るうラムダ株は感染力や重症化リスクが高いうえに、ワクチンの効力を低下させるとして全世界で警戒感が強まっている。 そうした中で...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[各党の支持率は NHK世論調査 | 選挙 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193181000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193181000.html"/>
-        <updated>2021-08-10T10:36:04.000Z</updated>
-        <summary type="html"><![CDATA[各党の支持率です。 「自民党」が33.4％、「立憲民主党」が6.4％、「公明党」が3.7％、「共産党」が3.3％、「日本維新の会」が1.7％、「国民民主党」が0.8％、「社民党」が0.5％、「れいわ新選組」が0.2％、「NHKと裁判してる党弁護士法72条違反で」が0.2％、「特に支持している政党はない」が42.8％でした。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[外国人記者が最後に語った“東京五輪の本音”「セブンイレブンは最高」「あの菓子パンが美味しかった」「シブヤが暗くて驚いた」 - 他競技 - Number Web - ナンバー]]></title>
         <id>https://number.bunshun.jp/articles/-/849322</id>
         <link href="https://number.bunshun.jp/articles/-/849322"/>
@@ -276,21 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[まじめな会社員 - 冬野梅子 / 第１話　さよなら定型文 | コミックDAYS]]></title>
-        <id>https://comic-days.com/episode/3269754496402490831</id>
-        <link href="https://comic-days.com/episode/3269754496402490831"/>
-        <updated>2021-08-10T03:24:02.000Z</updated>
-        <summary type="html"><![CDATA[まじめな会社員 冬野梅子 コロナ禍における、新種の孤独と人生のたのしみを、「普通の人でいいのに！」で大論争を巻き起こした新人・冬野梅子が描き切る！菊池あみ子、30歳。契約社員。彼氏は5年いない。いろんな生き方が提示される時代とはいえ、結婚せずにいる自分へ向けられる世間の厳しい目を、勝手に意識せずにはい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最低限のNetwork知識]]></title>
-        <id>https://zenn.dev/hee/articles/ce9002ae525622</id>
-        <link href="https://zenn.dev/hee/articles/ce9002ae525622"/>
-        <updated>2021-08-08T04:31:07.000Z</updated>
-        <summary type="html"><![CDATA[ネットワークを集中的に勉強したのでそのうちの基礎的な部分だけを抽出して記事にしました。主にL2とL3の話しかしてないです。 参考文献(とても良書なので興味ある人は是非) ・tanenbaum先生の教科書(Networkの世界的bible) ・CでネットワークプログラミングをするHands-on本(とても読みやすかった) ・Linuxで仮想ネット...]]></summary>
+        <title type="html"><![CDATA[Kenji Shiraishi on Twitter: "日本は異様に温暖化懐疑論者が多いよなあと思っていたが。調べたら環境問題について科学者が言うことを信じますか、というSAPとQualtricsの調査で日本はロシアに次いで下から二番目だったようだ。まじかよ。… https://t.co/2lYTuYhr9a"]]></title>
+        <id>https://twitter.com/Knjshiraishi/status/1424880711291478036</id>
+        <link href="https://twitter.com/Knjshiraishi/status/1424880711291478036"/>
+        <updated>2021-08-10T04:09:38.000Z</updated>
+        <summary type="html"><![CDATA[日本は異様に温暖化懐疑論者が多いよなあと思っていたが。調べたら環境問題について科学者が言うことを信じますか、というSAPとQualtricsの調査で日本はロシアに次いで下から二番目だったようだ。まじかよ。… https://t.co/2lYTuYhr9a]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

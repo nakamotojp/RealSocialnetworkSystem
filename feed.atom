@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T18:14:23.356Z</id>
+    <id>urn:2021-08-11T19:10:02.220Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T18:14:23.356Z</updated>
+    <updated>2021-08-11T19:10:02.220Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[最近ものすごく優秀な修士就活生が増えている→機械翻訳『DeepL』を巧みに使って論文を書いていた「すごい時代が来たな」 - Togetter]]></title>
+        <id>https://togetter.com/li/1758185</id>
+        <link href="https://togetter.com/li/1758185"/>
+        <updated>2021-08-11T13:02:13.000Z</updated>
+        <summary type="html"><![CDATA[くりぷとバイオ@研究×新規事業 @cryptobiotech 研究と新規事業の狭間にいる企業人／「フード&バイオテック」「理系キャリア(就活など)」「新規事業や起業」に関する情報を発信／博士号取得トライ中／理系就活(修士)や研究職キャリアのブログはこちら→cryptocurrency-bioresearch.com note.com/cryptobio くりぷとバイオ@...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[河村たかし市長が“噛んだ”金メダル交換へ（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061</id>
@@ -231,16 +241,6 @@
         <link href="https://anond.hatelabo.jp/20210811110404"/>
         <updated>2021-08-11T02:18:04.000Z</updated>
         <summary type="html"><![CDATA[体重がみるみる落ちていってる 8/1日に計った体重が93キロで今が85キロ いや、減りすぎやろ さすがに危機感ある 先月までの生活 朝：菓子パン3個 昼：コンビニ弁当2個＋お菓子 夜：コンビニ弁当2個＋カップラーメン＋お菓子 約4000kcal 運動：通勤時徒歩10分 今月からの生活 朝：卵かけご飯2杯。味噌汁 昼：レトルト玄米...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネットワークをちゃんと学びたいなら]]></title>
-        <id>https://anond.hatelabo.jp/20210811101559</id>
-        <link href="https://anond.hatelabo.jp/20210811101559"/>
-        <updated>2021-08-11T01:16:09.000Z</updated>
-        <summary type="html"><![CDATA[最低限のNetwork知識 https://zenn.dev/hee/articles/ce9002ae525622 という記事がブックマーク400を超えていて、どうしてこのレベルの記事に400もブックマークが集まるのかと問いたい。 覚えたことをまとめてアウトプットするのは素晴らしいことだと思うしそれは否定しないんだけど、勉強したての見習いが書いた薄い内...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

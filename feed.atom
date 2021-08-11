@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T20:12:33.457Z</id>
+    <id>urn:2021-08-11T21:11:15.384Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T20:12:33.457Z</updated>
+    <updated>2021-08-11T21:11:15.384Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[借金玉さんが依頼した金川晋也弁護士がTwitterのDMで係争相手から個人情報を引き出そうとするも失敗し炎上 - Togetter]]></title>
+        <id>https://togetter.com/li/1758192</id>
+        <link href="https://togetter.com/li/1758192"/>
+        <updated>2021-08-11T13:41:23.000Z</updated>
+        <summary type="html"><![CDATA[障害者雇用で働くアライさん @hataraku_Arai 【カマカケにご注意】先日、借金玉の弁護士から、障イさんの身元を把握してると告げられ、確認のために個人情報を教えるよう促されました。ハッタリで障イさんを動揺させ個人情報を引き出すつもりだったと見ています。注意喚起のために、該当のDMを公開します。こういう手口...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近ものすごく優秀な修士就活生が増えている→機械翻訳『DeepL』を巧みに使って論文を書いていた「すごい時代が来たな」 - Togetter]]></title>
         <id>https://togetter.com/li/1758185</id>
@@ -141,16 +151,6 @@
         <link href="https://anond.hatelabo.jp/20210811141932"/>
         <updated>2021-08-11T05:26:58.000Z</updated>
         <summary type="html"><![CDATA[シン・ゴジラにしても閃ハサにしても、先に「これ凄いぞ！！」という情報を浴びてしまう。 ネタバレが嫌なのでなるべく情報はシャットアウトしていても、「凄いぞ！」という熱気はトレンドワードやホットエントリでひしひしと伝わってくる。 そうすると、自分自身の価値観で感じる「凄いぞ！」の前に「どうやら凄いらし...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本ハム・中田翔、同僚への暴力行為で出場停止処分　球団謝罪「決して許されないこと」（Full-Count） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/ff1fdbd7f950f846ce743b8a9090af87698b4530</id>
-        <link href="https://news.yahoo.co.jp/articles/ff1fdbd7f950f846ce743b8a9090af87698b4530"/>
-        <updated>2021-08-11T05:20:56.000Z</updated>
-        <summary type="html"><![CDATA[日本ハムは11日、中田翔内野手に統一選手契約書第17条（模範行為）違反による出場停止処分を科したことを発表した。当面の間、1軍、ファーム全ての試合が出場停止となる。 【動画】「中田怒りの一撃」　“夏の風物詩”を容赦なく瞬殺した映像 8月4日に函館千代台公園野球場（オーシャンスタジアム）で行われたエキシビショ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

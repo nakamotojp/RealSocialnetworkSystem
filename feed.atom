@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T00:43:04.217Z</id>
+    <id>urn:2021-08-11T01:52:57.106Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T00:43:04.217Z</updated>
+    <updated>2021-08-11T01:52:57.106Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,6 +91,16 @@
         <link href="https://note.com/udzura/n/n02f2ffc532e3"/>
         <updated>2021-08-10T13:41:50.000Z</updated>
         <summary type="html"><![CDATA[最初に注意: この文章は「はじめに」「総論」が長いです🙃 はじめに・「仕事のコード」、つまり、業務などで作ったコードが、なるべく負債にならず、なるべく俗人化しないようにするために留意すると良さそうなことを自分の経験などから列挙したものです。 ・ちなみに、「対象読者」に書いてありますが、そもそものモチ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政府が糞だから帰省するって、本気で言ってる？]]></title>
+        <id>https://anond.hatelabo.jp/20210810222616</id>
+        <link href="https://anond.hatelabo.jp/20210810222616"/>
+        <updated>2021-08-10T13:28:29.000Z</updated>
+        <summary type="html"><![CDATA[人それぞれだと思うけど、それこそ親殺しの顔して、帰省しなよね。 俺は五輪とか全く関係なく6月ごろの段階で、両親だけでなく接種の意志がある家族（賢明なことに我が家は全員）が ワクチンが接種完了して2週間経過してれば帰省する、出来なければしないと決めてたしそう伝えてあった。 両親は7月の末に2度目を終えて、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国が自然科学の論文の「質」で初の世界1位 日本は10位 | 中国 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210810/k10013192931000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013192931000.html"/>
-        <updated>2021-08-10T09:43:00.000Z</updated>
-        <summary type="html"><![CDATA[おととしまでの3年間に世界で発表された自然科学の論文を分析したところ、論文の質の高さの指標とされる引用回数の多い論文の数で、中国が初めて世界1位になったという調査結果を文部科学省の研究所が公表しました。 文部科学省の科学技術・学術政策研究所は、発表された自然科学の論文を分析して世界各国の研究動向を調...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[マイクロソフト、初心者向けのIoTカリキュラム無料公開 12週間で学習できる | Ledge.ai]]></title>
         <id>https://ledge.ai/microsoft-iot-for-beginners-curriculum/</id>
         <link href="https://ledge.ai/microsoft-iot-for-beginners-curriculum/"/>
@@ -276,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バッハ氏の銀座散策　丸川五輪相「不要不急かは本人が判断すべきだ」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210810/k00/00m/050/118000c</id>
-        <link href="https://mainichi.jp/articles/20210810/k00/00m/050/118000c"/>
-        <updated>2021-08-10T04:33:48.000Z</updated>
-        <summary type="html"><![CDATA[警護がつく中、東京・銀座を歩くIOCのバッハ会長（中央）＝東京都中央区で2021年8月9日午後4時6分（読者提供） 丸川珠代五輪担当相は10日の閣議後の記者会見で、国際オリンピック委員会（IOC）のトーマス・バッハ会長が9日に東京・銀座を訪れたことについて、「不要不急かどうかは本人が判断すべきだ」と述べた。 新型コ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[まじめな会社員 - 冬野梅子 / 第１話　さよなら定型文 | コミックDAYS]]></title>
         <id>https://comic-days.com/episode/3269754496402490831</id>
         <link href="https://comic-days.com/episode/3269754496402490831"/>
@@ -301,6 +291,16 @@
         <link href="https://zenn.dev/hee/articles/ce9002ae525622"/>
         <updated>2021-08-08T04:31:07.000Z</updated>
         <summary type="html"><![CDATA[ネットワークを集中的に勉強したのでそのうちの基礎的な部分だけを抽出して記事にしました。主にL2とL3の話しかしてないです。 参考文献(とても良書なので興味ある人は是非) ・tanenbaum先生の教科書(Networkの世界的bible) ・CでネットワークプログラミングをするHands-on本(とても読みやすかった) ・Linuxで仮想ネット...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!]]></title>
+        <id>https://github.com/microsoft/IoT-For-Beginners</id>
+        <link href="https://github.com/microsoft/IoT-For-Beginners"/>
+        <updated>2021-07-15T05:13:51.000Z</updated>
+        <summary type="html"><![CDATA[IoT for Beginners - A Curriculum Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based peda...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T15:13:33.454Z</id>
+    <id>urn:2021-08-12T16:18:27.975Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T15:13:33.454Z</updated>
+    <updated>2021-08-12T16:18:27.975Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「ホームレスの命はどうでもいい」人間と猫の命を比較し… メンタリストDaiGo氏の発言に批判殺到]]></title>
+        <id>https://www.buzzfeed.com/jp/kotahatachi/daigo-youtube</id>
+        <link href="https://www.buzzfeed.com/jp/kotahatachi/daigo-youtube"/>
+        <updated>2021-08-12T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[メンタリストDaiGo氏の生活保護受給者やホームレスの人たちに対するYouTube上の発言が批判を集めている。差別や攻撃を煽動しかねないもので、優生思想に直結するとの指摘もある。 動画では、「生活保護の人が生きてても僕は別に得しない」「必要のない命は僕にとって軽い」と発言。さらにホームレスの人たちについては、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スリランカ人女性のビデオ開示　遺族、衝撃受け視聴中断：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8D6TZ0P8DUTIL00T.html</id>
         <link href="https://www.asahi.com/articles/ASP8D6TZ0P8DUTIL00T.html"/>
         <updated>2021-08-12T12:05:39.000Z</updated>
         <summary type="html"><![CDATA[名古屋出入国在留管理局の施設で今年3月に亡くなったスリランカ人ウィシュマ・サンダマリさん（当時33）の収容中の様子を撮影した監視カメラのビデオ映像が12日、来日中の妹2人に開示された。映像は、記録が残る2月22日から死亡した3月6日までの13日分を、出入国在留管理庁が2時間に編集した。 ウィシュマさんが日に日に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西村担当相「今からでも帰省キャンセルを」　分科会提言受け | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210812/k00/00m/040/280000c</id>
+        <link href="https://mainichi.jp/articles/20210812/k00/00m/040/280000c"/>
+        <updated>2021-08-12T10:57:26.000Z</updated>
+        <summary type="html"><![CDATA[政府の有識者会議「新型コロナウイルス感染症対策分科会」がお盆休み前後の対策強化を提言したことを受け、西村康稔経済再生担当相は12日、東京都内で記者団に「強い危機感を専門家と共有している」と述べた。その上で、お盆期間中の鉄道・航空の予約が昨年より増加しているとして、「緊急事態宣言地域などの発着便は、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -180,7 +200,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210812/k10013196491000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196491000.html"/>
         <updated>2021-08-12T03:04:15.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染が爆発的に増加し、医療のひっ迫が深刻化している現在の危機的な状況を回避する必要があるとして、政府の分科会はこの2週間、集中的に対策を強化し、東京都などで人出を今回の緊急事態宣言が出される直前の7月前半に比べて5割減らすことなど、強い対策を求める提言の案を示しました。 新型コロ...]]></summary>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染が爆発的に増加し医療のひっ迫が深刻化している現在の危機的な状況を回避する必要があるとして、政府の分科会はこの2週間、集中的に対策を強化し、東京都などで人出を今回の緊急事態宣言が出される直前の7月前半に比べて5割減らすことなど強い対策を求める提言の案を示しました。 新型コロナ対...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[いい加減、プロダクトマネージャーという職業に幻想を抱くのはやめよう。 | takuti.me]]></title>
-        <id>https://takuti.me/ja/note/product-management-myths/</id>
-        <link href="https://takuti.me/ja/note/product-management-myths/"/>
-        <updated>2021-08-12T00:08:34.000Z</updated>
-        <summary type="html"><![CDATA[Tweet プロダクトマネージャー (PM) としてのこれまでの私的な経験を踏まえて、『プロダクトマネジメントのすべて 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで』を読んで思ったことをつらつらと。 プロダクトマネージャーは本当に“魅力的な職業”か “完璧な世界”など存在しない 良かった点 「...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[沖縄のコロナ感染、世界最悪レベル　10万人当たり256.09人 - 琉球新報デジタル｜沖縄のニュース速報・情報サイト]]></title>
         <id>https://ryukyushimpo.jp/news/entry-1373063.html</id>
         <link href="https://ryukyushimpo.jp/news/entry-1373063.html"/>
@@ -261,16 +271,6 @@
         <link href="https://news.yahoo.co.jp/articles/9594f7c90d5b5d23d30b78a39d30079fbe345497"/>
         <updated>2021-08-11T23:22:33.000Z</updated>
         <summary type="html"><![CDATA[第五波のデルタ株の蔓延で、東京都のコロナ患者の受け皿は底が抜けた。都は約6000床の病床を確保しているが、即応できるのは半分ばかり。自宅療養者が2万人ちかくに膨張している。感染者を病院や宿泊療養ホテルに振り分ける保健所の職員は、患者の自宅放置状態をこう語る。 【写真】 新型コロナ、日本の満員電車で「クラ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「洗剤をどばどばと…」バーベキュー後に川で食器を洗う若者たち　無知な行為の代償は？専門家「想像力育んで」｜まいどなニュース]]></title>
-        <id>https://maidonanews.jp/article/14413754</id>
-        <link href="https://maidonanews.jp/article/14413754"/>
-        <updated>2021-08-11T23:19:10.000Z</updated>
-        <summary type="html"><![CDATA[>RTこれは数年前に岐阜県某河川で見た風景．ちょっと洗っては洗剤をどばどばとスポンジに付けるのを繰り返していた． 県内河川では時々魚の大量死が起きて原因不明とされるけれど，こういう人たちがいたらそりゃ大量死も起きる．ちなみにこ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

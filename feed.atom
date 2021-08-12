@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T04:15:28.511Z</id>
+    <id>urn:2021-08-12T05:10:24.128Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T04:15:28.511Z</updated>
+    <updated>2021-08-12T05:10:24.128Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「東京の感染拡大 制御不能な状況」東京都のモニタリング会議 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210812/k10013196681000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196681000.html"/>
+        <updated>2021-08-12T04:16:44.000Z</updated>
+        <summary type="html"><![CDATA[東京都のモニタリング会議で、専門家は、今の都内の感染状況について「かつてないほどの速度で感染拡大が進み、新規陽性者が急増している。制御不能な状況だ。災害レベルで感染が猛威ふるう非常事態であり、この危機感を現実のものとして皆で共有する必要がある。もはや災害時と同様に、自分の身は自分で守る、感染予防...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「東京などの人出を5割減に」分科会が強い対策を求める提言案 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210812/k10013196491000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196491000.html"/>
+        <updated>2021-08-12T03:04:15.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染が爆発的に増加し、医療のひっ迫が深刻化している現在の危機的な状況を回避する必要があるとして、政府の分科会はこの2週間、集中的に対策を強化し、東京都などで人出を今回の緊急事態宣言が出される直前の7月前半に比べて5割減らすことなど、強い対策を求める提言の案を示しました。 新型コロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なんでもSPAにするんじゃねぇ！という主張のその先 - console.lealog();]]></title>
+        <id>https://lealog.hateblo.jp/entry/2021/08/12/103111</id>
+        <link href="https://lealog.hateblo.jp/entry/2021/08/12/103111"/>
+        <updated>2021-08-12T01:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Your shopping website is not an SPA. I repeat: your shopping website is not an SPA. Stop trying to sculpt David with a JS chainsaw and get yourself an HTML/CSS chisel.— Alex Russell (@slightlylate) 2021年8月10日 この主張、界隈（少なくとも自分の観測範囲）では割とよく見かけるし、なんか定期的に話題...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「1.7mmが標準です」]]></title>
         <id>https://anond.hatelabo.jp/20210812002107</id>
@@ -206,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[煽り運転の被害に遭うも、被害届の受理を嫌がる警察→ネットとテレビに映像を公開した結果、受理してもらえた - Togetter]]></title>
-        <id>https://togetter.com/li/1758126</id>
-        <link href="https://togetter.com/li/1758126"/>
-        <updated>2021-08-11T14:30:01.000Z</updated>
-        <summary type="html"><![CDATA[いやしい豚でございます @bikeandriding そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のド...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[借金玉さんが依頼した金川晋也弁護士がTwitterのDMで係争相手から個人情報を引き出そうとするも失敗し炎上 - Togetter]]></title>
         <id>https://togetter.com/li/1758192</id>
         <link href="https://togetter.com/li/1758192"/>
@@ -261,26 +281,6 @@
         <link href="https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061"/>
         <updated>2021-08-11T12:40:28.000Z</updated>
         <summary type="html"><![CDATA[名古屋市の河村たかし市長が東京オリンピックの金メダリストのメダルをかんだ問題で、このメダルが新たなものに交換されることに決まったことが、日本テレビの取材でわかりました。 この問題は今月４日、名古屋市の河村市長が、ソフトボール日本代表として東京オリンピックで金メダルに輝いた後藤希友投手の表敬訪問を受...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[婚活アプリ「Omiai」情報流出の詳細判明、API経由でクラウドに不正アクセス | 日経クロステック（xTECH）]]></title>
-        <id>https://xtech.nikkei.com/atcl/nxt/news/18/10983/</id>
-        <link href="https://xtech.nikkei.com/atcl/nxt/news/18/10983/"/>
-        <updated>2021-08-11T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[ネットマーケティングは2021年8月11日、同社が運営する婚活マッチングアプリ「Omiai」で起こった不正アクセスによる会員情報流出の調査結果と今後の対応策を発表した。調査の結果、同社が契約するクラウドサーバーが不正アクセスを受け、年齢確認書類の画像データが複数回にわたって外部に流出したことが分かった。 Omia...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年1月からゆうちょ銀行が硬貨取り扱いの手数料を設けることに「500円玉貯金どうしよう」「コミケ後に困るサークル出そう」などの声 - Togetter]]></title>
-        <id>https://togetter.com/li/1758081</id>
-        <link href="https://togetter.com/li/1758081"/>
-        <updated>2021-08-11T10:51:16.000Z</updated>
-        <summary type="html"><![CDATA[shunji nakamachi @shunji_ まだ知らない人が多いと思うけど、2022年1月17日より ゆうちょ銀行の窓口に硬貨を51枚以上入金すると「硬貨取扱料金」550円！取られます。 「なんだって？じゃぁ溜め込まないで、ATMにチョコチョコ入れりゃぁいいか」 とは行かず、ATMでは「1枚」から110円取られます。 pic.twitter.com/L4903...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T09:12:31.647Z</id>
+    <id>urn:2021-08-12T10:13:04.581Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T09:12:31.647Z</updated>
+    <updated>2021-08-12T10:13:04.581Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -156,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[琉牛牛 on Twitter: "「徹底した現金給付と補償をおこなえば多くの人々が納得して集中的なステイホームが実現する」という根拠はどこにあるんだろうか。「働かなきゃいけないから外に出る。カネを配ればみんな家にいる」というなら、仕事以外で外出している人たちはどこ… https://t.co/uVNooL2owN"]]></title>
-        <id>https://twitter.com/ryuryukyu/status/1425290834807705600</id>
-        <link href="https://twitter.com/ryuryukyu/status/1425290834807705600"/>
-        <updated>2021-08-11T23:35:17.000Z</updated>
-        <summary type="html"><![CDATA[「徹底した現金給付と補償をおこなえば多くの人々が納得して集中的なステイホームが実現する」という根拠はどこにあるんだろうか。「働かなきゃいけないから外に出る。カネを配ればみんな家にいる」というなら、仕事以外で外出している人たちはどこ… https://t.co/uVNooL2owN]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[8/22は横浜市長選！中1娘が全候補者インタビューに挑戦しました | 森ノオト]]></title>
         <id>http://morinooto.jp/2021/08/11/yokohamamayor/</id>
         <link href="http://morinooto.jp/2021/08/11/yokohamamayor/"/>
@@ -221,6 +211,16 @@
         <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html"/>
         <updated>2021-08-11T22:01:31.000Z</updated>
         <summary type="html"><![CDATA[Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[臨時国会、いつまで拒否するのか　説明避ける菅政権　自民改憲草案に「20日以内召集」とあるけれど…：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/123578</id>
+        <link href="https://www.tokyo-np.co.jp/article/123578"/>
+        <updated>2021-08-11T21:28:49.000Z</updated>
+        <summary type="html"><![CDATA[立憲民主党の安住淳国対委員長は１１日、自民党の森山裕国対委員長と国会内で会談し、新型コロナウイルス対策などを審議するため、早期に臨時国会を開くよう要求した。森山氏は、国会閉会中でも委員会によっては閉会中審査を行っていることを理由に、国会開会を事実上拒否。臨時国会召集は憲法五三条に規定があっても、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

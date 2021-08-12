@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T03:13:24.376Z</id>
+    <id>urn:2021-08-12T04:15:28.511Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T03:13:24.376Z</updated>
+    <updated>2021-08-12T04:15:28.511Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「1.7mmが標準です」]]></title>
+        <id>https://anond.hatelabo.jp/20210812002107</id>
+        <link href="https://anond.hatelabo.jp/20210812002107"/>
+        <updated>2021-08-12T00:32:36.000Z</updated>
+        <summary type="html"><![CDATA[パスタ作ろうと思って作りたいレシピを見たら「1.7㎜が正義。それ以外無保証」とあった。家のストックは1.4㎜。 残り少ないし買い足そうとネットスーパー開いたら1.7㎜が見当たらない。 ん？1.7㎜が標準サイズなんだよね？と検索してみる。 種類豊富なパスタ、何ミリのものを買えばいい！？ https://news.cookpad.com/ar...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[某大企業『良い技術者が採用できない』 → 人事担当が超優秀な人材をコミュ力が低いという理由で落としまくってた - Togetter]]></title>
         <id>https://togetter.com/li/1758424</id>
@@ -41,6 +51,16 @@
         <link href="https://twitter.com/ryuryukyu/status/1425290834807705600"/>
         <updated>2021-08-11T23:35:17.000Z</updated>
         <summary type="html"><![CDATA[「徹底した現金給付と補償をおこなえば多くの人々が納得して集中的なステイホームが実現する」という根拠はどこにあるんだろうか。「働かなきゃいけないから外に出る。カネを配ればみんな家にいる」というなら、仕事以外で外出している人たちはどこ… https://t.co/uVNooL2owN]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8/22は横浜市長選！中1娘が全候補者インタビューに挑戦しました | 森ノオト]]></title>
+        <id>http://morinooto.jp/2021/08/11/yokohamamayor/</id>
+        <link href="http://morinooto.jp/2021/08/11/yokohamamayor/"/>
+        <updated>2021-08-11T23:30:14.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月22日に投開票される横浜市長選挙は、8人が立候補という過去最多の混戦になっています。IR（統合型リゾート）の誘致の是非や、コロナ対策など、いくつかの争点があるなかで、選挙権を持たないわが家の中学1年生が、市長選の全立候補者への対面でのインタビューに挑みました。質問は全員共通の6問。多忙な候補者...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,6 +111,16 @@
         <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html"/>
         <updated>2021-08-11T22:01:31.000Z</updated>
         <summary type="html"><![CDATA[Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[臨時国会、いつまで拒否するのか　説明避ける菅政権　自民改憲草案に「20日以内召集」とあるけれど…：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/123578</id>
+        <link href="https://www.tokyo-np.co.jp/article/123578"/>
+        <updated>2021-08-11T21:28:49.000Z</updated>
+        <summary type="html"><![CDATA[立憲民主党の安住淳国対委員長は１１日、自民党の森山裕国対委員長と国会内で会談し、新型コロナウイルス対策などを審議するため、早期に臨時国会を開くよう要求した。森山氏は、国会閉会中でも委員会によっては閉会中審査を行っていることを理由に、国会開会を事実上拒否。臨時国会召集は憲法五三条に規定があっても、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,36 +301,6 @@
         <link href="https://courrier.jp/news/archives/256951/"/>
         <updated>2021-08-11T08:12:45.000Z</updated>
         <summary type="html"><![CDATA[影響力がある人物を表紙に据えるなど、象徴的な表紙がなにかと話題を呼んできた、ファッション誌「ヴォーグ」。新たに創刊された「ヴォーグ・スカンジナビア」の表紙を飾ったのは、グレタ・トゥーンベリだった。彼女が他の人物と違うのは、誌面でファッション業界を批判したことだった。 ファッション誌でファストファッ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】千葉市の医療機関でクラスター、14人中12人がワクチン2回接種済み　新型コロナ ｜ 千葉日報]]></title>
-        <id>https://nordot.app/795572373041217536</id>
-        <link href="https://nordot.app/795572373041217536"/>
-        <updated>2021-08-11T03:49:21.000Z</updated>
-        <summary type="html"><![CDATA[千葉市は4日、中央区の医療機関で入院患者4人の新型コロナ感染が分かり、既に判明していた入院患者10人と合わせて計14人のクラスター（感染者集団）が確認されたと発表した。14人は同じ病棟で、うち12人が2回のワクチン接種を終えていた。医療従事者33人の検査を進めている。 市は同日、同クラスター4人を含め計176人の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネットワークをちゃんと学びたいなら]]></title>
-        <id>https://anond.hatelabo.jp/20210811101559</id>
-        <link href="https://anond.hatelabo.jp/20210811101559"/>
-        <updated>2021-08-11T01:16:09.000Z</updated>
-        <summary type="html"><![CDATA[最低限のNetwork知識 https://zenn.dev/hee/articles/ce9002ae525622 という記事がブックマーク400を超えていて、どうしてこのレベルの記事に400もブックマークが集まるのかと問いたい。 覚えたことをまとめてアウトプットするのは素晴らしいことだと思うしそれは否定しないんだけど、勉強したての見習いが書いた薄い内...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちいさな Web ブラウザを作ってみよう（オンライン講義版） / Build Your Own Web Browser - Speaker Deck]]></title>
-        <id>https://speakerdeck.com/lmt_swallow/build-your-own-web-browser</id>
-        <link href="https://speakerdeck.com/lmt_swallow/build-your-own-web-browser"/>
-        <updated>2021-08-10T22:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Transcript ͍ͪ͞ͳ�8FC�ϒϥ΢βΛ࡞ͬͯΈΑ͏ ηΩϡϦςΟɾΩϟϯϓ�શࠃେձ������ #�τϥοΫ :0/&6$)* �5BLBTIJ� IUUQT���TIJGU�KT�JOGP © 2021 shift-js.info ͍ͪ͞ͳWebϒϥ΢βΛ࡞ͬͯΈΑ͏ 2 ຊߨٛࢿྉʹ͍ͭͯ� 4QFBLFS�%FDL�ެ։൛޲͚ͷิ଍ w ຊࢿྉ͸ʮηΩϡϦςΟɾΩϟϯϓશࠃେձ������ΦϯϥΠϯ�#�ʯͷߨٛ౰೔ʹར༻ ͞ΕͨࢿྉΛ࠶ฤͨ͠΋ͷͰ͢ɻ� w ࣮ࡍʹ�8FC�ϒϥ΢βΛ࡞ΔͨΊͷઆ໌͸ɺ͜ͷࢿྉʹ͸ͳ͘ɺࣄલ՝୊ࢿྉͱͯ͠ ެ։ͨ͠ΦϯϥΠϯϒοΫ�IUUQT���CSPXTFSCPPL�TIJGU�KT�JOGP�ʹ͋Γ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T05:10:24.128Z</id>
+    <id>urn:2021-08-12T06:15:10.556Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T05:10:24.128Z</updated>
+    <updated>2021-08-12T06:15:10.556Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,17 @@
         <id>https://www3.nhk.or.jp/news/html/20210812/k10013196681000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196681000.html"/>
         <updated>2021-08-12T04:16:44.000Z</updated>
-        <summary type="html"><![CDATA[東京都のモニタリング会議で、専門家は、今の都内の感染状況について「かつてないほどの速度で感染拡大が進み、新規陽性者が急増している。制御不能な状況だ。災害レベルで感染が猛威ふるう非常事態であり、この危機感を現実のものとして皆で共有する必要がある。もはや災害時と同様に、自分の身は自分で守る、感染予防...]]></summary>
+        <summary type="html"><![CDATA[東京都のモニタリング会議で、専門家は、今の都内の感染状況について「かつてないほどの速度で感染拡大が進み、新規陽性者が急増している。制御不能な状況だ。災害レベルで感染が猛威をふるう非常事態であり、この危機感を現実のものとして皆で共有する必要がある。もはや災害時と同様に、自分の身は自分で守る、感染予...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尾身会長が理事長の法人建物に侵入 玄関壊した疑いで逮捕｜NHK 首都圏のニュース]]></title>
+        <id>https://www3.nhk.or.jp/shutoken-news/20210812/1000068709.html</id>
+        <link href="https://www3.nhk.or.jp/shutoken-news/20210812/1000068709.html"/>
+        <updated>2021-08-12T03:30:12.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに関する政府の分科会の尾身茂会長が理事長を務める独立行政法人の建物に侵入し玄関を壊したとして、３９歳の容疑者が逮捕されました。 調べに対して「尾身会長が嫌いだからやった」などと供述しているということです。 逮捕されたのは東京・東村山市の無職、石井宏典（３９）容疑者です。 警視庁によ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -21,6 +31,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196491000.html"/>
         <updated>2021-08-12T03:04:15.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染が爆発的に増加し、医療のひっ迫が深刻化している現在の危機的な状況を回避する必要があるとして、政府の分科会はこの2週間、集中的に対策を強化し、東京都などで人出を今回の緊急事態宣言が出される直前の7月前半に比べて5割減らすことなど、強い対策を求める提言の案を示しました。 新型コロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フライデー風の写真を撮りたい :: デイリーポータルZ]]></title>
+        <id>https://dailyportalz.jp/kiji/Friday_style-photos</id>
+        <link href="https://dailyportalz.jp/kiji/Friday_style-photos"/>
+        <updated>2021-08-12T02:19:33.000Z</updated>
+        <summary type="html"><![CDATA[フライデーの写真は、誰がみてもスクープだ！とわかる。よくみてみると、立ち姿やポーズ、俯きがちなシチュエーションが多いなど、それぞれの写真に共通しているものがあるのではと感じた。 そこで、服装・ポーズ・構図・誌面デザインの４つにどのような特徴があるのか調べ、フライデー風写真を撮影から誌面作りまで自分...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECSを運用で使っていて難しいと思った点 - アジャイルSEの憂鬱]]></title>
-        <id>https://sinsoku.hatenablog.com/entry/2021/08/11/232201</id>
-        <link href="https://sinsoku.hatenablog.com/entry/2021/08/11/232201"/>
-        <updated>2021-08-11T14:30:53.000Z</updated>
-        <summary type="html"><![CDATA[ECSを触っていて今まで難しいと思ったことを雑にまとめておく。 ECSを仕事で運用するときに必要な知識が多すぎる。こんなの社内に1人AWSマスターいないと無理だ...— 神速 (@sinsoku_listy) 2021年8月10日 タスクロールとタスク実行ロールの違い ECSを長く触っているのに、いつも混乱する。 タスクロール コンテナ内の権...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[借金玉さんが依頼した金川晋也弁護士がTwitterのDMで係争相手から個人情報を引き出そうとするも失敗し炎上 - Togetter]]></title>
         <id>https://togetter.com/li/1758192</id>
         <link href="https://togetter.com/li/1758192"/>
         <updated>2021-08-11T13:41:23.000Z</updated>
         <summary type="html"><![CDATA[障害者雇用で働くアライさん @hataraku_Arai 【カマカケにご注意】先日、借金玉の弁護士から、障イさんの身元を把握してると告げられ、確認のために個人情報を教えるよう促されました。ハッタリで障イさんを動揺させ個人情報を引き出すつもりだったと見ています。注意喚起のために、該当のDMを公開します。こういう手口...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旦那にビックリされた「そうめん入り味噌汁」、調べたら西日本で多い文化...？→Twitterの力で全国各地の情報が集まりました - Togetter]]></title>
-        <id>https://togetter.com/li/1758142</id>
-        <link href="https://togetter.com/li/1758142"/>
-        <updated>2021-08-11T13:13:29.000Z</updated>
-        <summary type="html"><![CDATA[うささꪔ̤̫ @usasa21 旦那と結婚したばかりの時、そうめんを味噌汁に入れて出したら旦那にびっくりドン引きされて。小さい頃好きだったし、アレおかしいぞ？って思ってググったらあれ西日本に多いみたい。どおりで東京生まれの東京育ちの旦那がびっくりするわけだ。でも今ググったら結構あったしみんなやるよね？（入れたい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

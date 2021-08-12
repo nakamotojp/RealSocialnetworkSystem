@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T00:39:31.240Z</id>
+    <id>urn:2021-08-12T01:53:43.976Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T00:39:31.240Z</updated>
+    <updated>2021-08-12T01:53:43.976Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[いい加減、プロダクトマネージャーという職業に幻想を抱くのはやめよう。 | takuti.me]]></title>
+        <id>https://takuti.me/ja/note/product-management-myths/</id>
+        <link href="https://takuti.me/ja/note/product-management-myths/"/>
+        <updated>2021-08-12T00:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Tweet プロダクトマネージャー (PM) としてのこれまでの私的な経験を踏まえて、『プロダクトマネジメントのすべて 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで』を読んで思ったことをつらつらと。 プロダクトマネージャーは本当に“魅力的な職業”か “完璧な世界”など存在しない 良かった点 「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[琉牛牛 on Twitter: "「徹底した現金給付と補償をおこなえば多くの人々が納得して集中的なステイホームが実現する」という根拠はどこにあるんだろうか。「働かなきゃいけないから外に出る。カネを配ればみんな家にいる」というなら、仕事以外で外出している人たちはどこ… https://t.co/uVNooL2owN"]]></title>
+        <id>https://twitter.com/ryuryukyu/status/1425290834807705600</id>
+        <link href="https://twitter.com/ryuryukyu/status/1425290834807705600"/>
+        <updated>2021-08-11T23:35:17.000Z</updated>
+        <summary type="html"><![CDATA[「徹底した現金給付と補償をおこなえば多くの人々が納得して集中的なステイホームが実現する」という根拠はどこにあるんだろうか。「働かなきゃいけないから外に出る。カネを配ればみんな家にいる」というなら、仕事以外で外出している人たちはどこ… https://t.co/uVNooL2owN]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デルタ株の脅威　後遺症の苦悩　最新報告 - NHKスペシャルまとめ記事 - NHKスペシャル - NHK]]></title>
+        <id>https://www.nhk.jp/p/special/ts/2NY2QQLPM3/blog/bl/pneAjJR3gn/bp/paQYvZL26a/</id>
+        <link href="https://www.nhk.jp/p/special/ts/2NY2QQLPM3/blog/bl/pneAjJR3gn/bp/paQYvZL26a/"/>
+        <updated>2021-08-11T23:16:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.nhk.jp/p/special/ts/2NY2QQLPM3/blog/bl/pneAjJR3gn/bp/paQYvZL26a/ 「これまでとは明らかに違う。こんな急激な症状悪化はみたことがない」（国際医療福祉大学成田病院・遠藤拓郎医師） 「デルタ株は、いままでと同じ対策では制御できない」（京都大学・西浦博教授） 新型コロナウイルスに最前線で立ち向か...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefoxのユーザー、約3年で4600万人減……その理由を考察したレポートが海外で話題に【やじうまWatch】 - INTERNET Watch]]></title>
         <id>https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html</id>
@@ -86,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[煽り運転の被害に遭うも、被害届の受理を嫌がる警察→ネットとテレビに映像を公開した結果、受理してもらえた - Togetter]]></title>
+        <id>https://togetter.com/li/1758126</id>
+        <link href="https://togetter.com/li/1758126"/>
+        <updated>2021-08-11T14:30:01.000Z</updated>
+        <summary type="html"><![CDATA[いやしい豚でございます @bikeandriding そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のド...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[借金玉さんが依頼した金川晋也弁護士がTwitterのDMで係争相手から個人情報を引き出そうとするも失敗し炎上 - Togetter]]></title>
         <id>https://togetter.com/li/1758192</id>
         <link href="https://togetter.com/li/1758192"/>
@@ -116,11 +156,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「緊急事態」９月延長論浮上　対象地域拡大へ政府検討（産経新聞） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/7126208679a91abcaabc7e8e6ea2ea0178ae8a6b</id>
-        <link href="https://news.yahoo.co.jp/articles/7126208679a91abcaabc7e8e6ea2ea0178ae8a6b"/>
-        <updated>2021-08-11T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[政府は新型コロナウイルス特別措置法に基づく緊急事態宣言をめぐり、対象地域の拡大を検討し、来週にも決める方向で調整している。３１日としている期限の９月までの延長論も浮上する。東京都は４回目の宣言発令から１２日で１カ月となるが、繰り返される対象拡大と期限延長。菅義偉（すが・よしひで）首相の言う「最後...]]></summary>
+        <title type="html"><![CDATA[匿名アカウントによる一連のご指摘および弊社の考え方について｜佐俣アンリ｜note]]></title>
+        <id>https://note.com/anrit/n/n8f8fefcc3674</id>
+        <link href="https://note.com/anrit/n/n8f8fefcc3674"/>
+        <updated>2021-08-11T12:45:54.000Z</updated>
+        <summary type="html"><![CDATA[先日、弊社および弊社社員（私・佐俣および江原）について、光本さんによる事件と関連付け、批判的に言及するnoteが公開されました。匿名アカウントによる指摘ではありますが、私個人の問題を明確化しつつ、ミスリードな指摘については明確な否定をおこなうことが重要だと考え、回答させていただきます。 まず、ご指摘さ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -131,17 +171,6 @@
         <link href="https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061"/>
         <updated>2021-08-11T12:40:28.000Z</updated>
         <summary type="html"><![CDATA[名古屋市の河村たかし市長が東京オリンピックの金メダリストのメダルをかんだ問題で、このメダルが新たなものに交換されることに決まったことが、日本テレビの取材でわかりました。 この問題は今月４日、名古屋市の河村市長が、ソフトボール日本代表として東京オリンピックで金メダルに輝いた後藤希友投手の表敬訪問を受...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View Source]]></title>
-        <id>https://neatnik.net/view-source/</id>
-        <link href="https://neatnik.net/view-source/"/>
-        <updated>2021-08-11T12:19:34.000Z</updated>
-        <summary type="html"><![CDATA[· About · Changelog URL: Fetched 1.23 KB in 0.007203 seconds Don’t wrap lines · Tidy markup  
-  Example Domain   <meta name="viewport" content="width=device-width,...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -187,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[クオモ知事がセクハラで辞任した理由]]></title>
-        <id>https://anond.hatelabo.jp/20210811171248</id>
-        <link href="https://anond.hatelabo.jp/20210811171248"/>
-        <updated>2021-08-11T08:13:02.000Z</updated>
-        <summary type="html"><![CDATA[なぜ老人ホーム隠蔽スキャンダルでの辞任じゃないのか疑問に思ってる人が多そうなんで解説。 一文で言えば「セクハラの調査結果は出たが、隠蔽事件は調査中だから」です。 隠蔽事件についてはFBIが調査中の案件なので「隠蔽事件の引責で辞任する」と言ってしまえば自白になってしまうわけです。 なので結果が出ちゃって...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「ヴォーグ」誌の表紙を飾ったグレタ・トゥーンベリ、ファストファッションを批判 | ファッション誌でファッション業界を糾弾！ | クーリエ・ジャポン]]></title>
         <id>https://courrier.jp/news/archives/256951/</id>
         <link href="https://courrier.jp/news/archives/256951/"/>
@@ -227,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅政権　帰省自粛を求めるもネット上では〝菅話法〟で大喜利反発「コロナに打ち勝った証として帰省する」 | 東スポのニュースに関するニュースを掲載]]></title>
-        <id>https://www.tokyo-sports.co.jp/entame/news/3515053/</id>
-        <link href="https://www.tokyo-sports.co.jp/entame/news/3515053/"/>
-        <updated>2021-08-11T07:26:23.000Z</updated>
-        <summary type="html"><![CDATA[菅首相 お盆休みを前に菅政権の閣僚らは帰省を控えるよう国民に訴えている。 西村康稔経済再生相は１０日、「帰省をして家族で集まるのは絶対に避けていただきたい」と求めれば、田村憲久厚労相も同日、「感染が拡大している。帰省はできるだけ控えていただきたい」と呼びかけた。 だが、リスク評価も不十分なまま、開催...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小金井市医師会からのメッセージ（新型コロナワクチンについて その8 ワクチンの効果、誤情報に注意 ）：小金井市公式WEBへようこそ]]></title>
         <id>https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/info/kanrennzyouhou/koganeishi-shingata8.html</id>
         <link href="https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/info/kanrennzyouhou/koganeishi-shingata8.html"/>
         <updated>2021-08-11T05:29:22.000Z</updated>
         <summary type="html"><![CDATA[小金井市では4月19日から医療従事者への新型コロナワクチンの接種を開始、4月26日から高齢者接種が開始、さらに6月21日から一般の接種が開始されております。 6月27日の時点での接種率は、医療従事者1回目94パーセント、2回目87パーセント、高齢者1回目88パーセント、2回目63パーセント、一般1回目2.4パーセントとなって...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「これは凄いものを観てしまったぞ！」という感動が得られない状況]]></title>
-        <id>https://anond.hatelabo.jp/20210811141932</id>
-        <link href="https://anond.hatelabo.jp/20210811141932"/>
-        <updated>2021-08-11T05:26:58.000Z</updated>
-        <summary type="html"><![CDATA[シン・ゴジラにしても閃ハサにしても、先に「これ凄いぞ！！」という情報を浴びてしまう。 ネタバレが嫌なのでなるべく情報はシャットアウトしていても、「凄いぞ！」という熱気はトレンドワードやホットエントリでひしひしと伝わってくる。 そうすると、自分自身の価値観で感じる「凄いぞ！」の前に「どうやら凄いらし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -287,11 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[無料で読めるITまんが 2021年版 － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/it_2021_1.html</id>
-        <link href="https://www.publickey1.jp/blog/21/it_2021_1.html"/>
-        <updated>2021-08-10T15:41:45.000Z</updated>
-        <summary type="html"><![CDATA[ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、ITまんがの2021年版です。今年も11本のマンガを新たに追加しました。...]]></summary>
+        <title type="html"><![CDATA[GitHubのモノリスからマイクロサービスへのジャーニー]]></title>
+        <id>https://www.infoq.com/jp/articles/github-monolith-microservices/</id>
+        <link href="https://www.infoq.com/jp/articles/github-monolith-microservices/"/>
+        <updated>2021-08-10T10:01:23.000Z</updated>
+        <summary type="html"><![CDATA[GitHubでこの移行に取り掛かる前に、私たちは、決定の背後にある理由と、この変更を行うための目標について考えることに時間を費やしました。それは文化的な観点から私たちにとって大きな変化であり、多くの作業を必要とします。 私たちは意図的に考え、解決しようとしている問題や問題点について考える必要があります。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

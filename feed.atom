@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T19:09:39.725Z</id>
+    <id>urn:2021-08-12T20:12:19.141Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T19:09:39.725Z</updated>
+    <updated>2021-08-12T20:12:19.141Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[メンタリストDaiGo氏、ホームレスの人への差別発言で「炎上」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210813/k00/00m/040/001000c</id>
+        <link href="https://mainichi.jp/articles/20210813/k00/00m/040/001000c"/>
+        <updated>2021-08-12T15:18:28.000Z</updated>
+        <summary type="html"><![CDATA[「メンタリスト」のDaiGo氏が、動画投稿サイト「ユーチューブ」で、ホームレスの人や生活保護受給者を差別する主張をする動画を載せ、批判を集めている。ホームレスに対しては「いないほうがいい」「犯罪者を殺すのと同じ」などと言い、差別や攻撃を扇動するとして、インターネット上で「炎上」状態となっている。 ※記事...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ホームレスの命はどうでもいい」人間と猫の命を比較し… メンタリストDaiGo氏の発言に批判殺到]]></title>
         <id>https://www.buzzfeed.com/jp/kotahatachi/daigo-youtube</id>
@@ -21,16 +31,6 @@
         <link href="https://news.yahoo.co.jp/articles/a130cfbc05bbb3b38bb87eb675db4594cae4bfcc"/>
         <updated>2021-08-12T13:47:43.000Z</updated>
         <summary type="html"><![CDATA[12日のBS―TBS「報道1930」に自民党外交部会長を務める佐藤正久参院議員（60）が出演。致死率の高い「ラムダ株」が東京五輪開幕の7月23日に国内で初めて解析され、国際機関に報告しながら、8月6日に一部報道されるまで明らかにならなかった件について「早く発表すべきだったが、政府の中でも情報が共有されていなかった。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＴＢＳが張本勲氏の発言を謝罪　張本氏は「言葉足らずで反省しています」／ＢＯＸ - サンスポ]]></title>
-        <id>https://www.sanspo.com/article/20210812-PZ5UGSLD3NORDJDLLIRK75XU5U/</id>
-        <link href="https://www.sanspo.com/article/20210812-PZ5UGSLD3NORDJDLLIRK75XU5U/"/>
-        <updated>2021-08-12T13:39:54.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪女子フェザー級で日本女子初の金メダルを獲得した入江聖奈（せな、２０）＝日体大＝を扱ったＴＢＳテレビ系情報番組「サンデーモーニング」で、野球解説者の張本勲氏（８１）が女性およびボクシングを蔑視した発言をした問題について、日本ボクシング連盟は１２日、ＴＢＳから謝罪文を受け取ったと発表した。 ８...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

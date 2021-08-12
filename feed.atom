@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T02:23:01.613Z</id>
+    <id>urn:2021-08-12T03:13:24.376Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T02:23:01.613Z</updated>
+    <updated>2021-08-12T03:13:24.376Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[某大企業『良い技術者が採用できない』 → 人事担当が超優秀な人材をコミュ力が低いという理由で落としまくってた - Togetter]]></title>
+        <id>https://togetter.com/li/1758424</id>
+        <link href="https://togetter.com/li/1758424"/>
+        <updated>2021-08-12T00:31:46.000Z</updated>
+        <summary type="html"><![CDATA[たろ丸 @tenche1204 某大企業が十分な報酬水準を用意して実際に応募も多いのに良い技術者が採用できないと嘆いていたので具体的な採用プロセスを伺うと一次面接が人事担当で超優秀な人材をコミュ力が低いという理由で落としまくっているのが理由でした。しかも人事部視点で低いだけで大半は普通に話せる人たちでした。 2...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いい加減、プロダクトマネージャーという職業に幻想を抱くのはやめよう。 | takuti.me]]></title>
         <id>https://takuti.me/ja/note/product-management-myths/</id>
@@ -36,6 +46,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[東京都では「自宅療養者のフォロー」も崩壊…そのウラで際立つ「墨田区の凄まじい戦略」（現代ビジネス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/9594f7c90d5b5d23d30b78a39d30079fbe345497</id>
+        <link href="https://news.yahoo.co.jp/articles/9594f7c90d5b5d23d30b78a39d30079fbe345497"/>
+        <updated>2021-08-11T23:22:33.000Z</updated>
+        <summary type="html"><![CDATA[第五波のデルタ株の蔓延で、東京都のコロナ患者の受け皿は底が抜けた。都は約6000床の病床を確保しているが、即応できるのは半分ばかり。自宅療養者が2万人ちかくに膨張している。感染者を病院や宿泊療養ホテルに振り分ける保健所の職員は、患者の自宅放置状態をこう語る。 【写真】 新型コロナ、日本の満員電車で「クラ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「洗剤をどばどばと…」バーベキュー後に川で食器を洗う若者たち　無知な行為の代償は？専門家「想像力育んで」｜まいどなニュース]]></title>
+        <id>https://maidonanews.jp/article/14413754</id>
+        <link href="https://maidonanews.jp/article/14413754"/>
+        <updated>2021-08-11T23:19:10.000Z</updated>
+        <summary type="html"><![CDATA[>RTこれは数年前に岐阜県某河川で見た風景．ちょっと洗っては洗剤をどばどばとスポンジに付けるのを繰り返していた． 県内河川では時々魚の大量死が起きて原因不明とされるけれど，こういう人たちがいたらそりゃ大量死も起きる．ちなみにこ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[デルタ株の脅威　後遺症の苦悩　最新報告 - NHKスペシャルまとめ記事 - NHKスペシャル - NHK]]></title>
         <id>https://www.nhk.jp/p/special/ts/2NY2QQLPM3/blog/bl/pneAjJR3gn/bp/paQYvZL26a/</id>
         <link href="https://www.nhk.jp/p/special/ts/2NY2QQLPM3/blog/bl/pneAjJR3gn/bp/paQYvZL26a/"/>
@@ -46,21 +76,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefoxのユーザー、約3年で4600万人減……その理由を考察したレポートが海外で話題に【やじうまWatch】 - INTERNET Watch]]></title>
-        <id>https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html</id>
-        <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html"/>
-        <updated>2021-08-11T22:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。]]></summary>
+        <title type="html"><![CDATA[五輪閉会式が可視化した「男性優位社会、昭和的、電通的な何か」の終焉と一つの希望（常見 陽平） | 現代ビジネス | 講談社（1/6）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/86163</id>
+        <link href="https://gendai.ismedia.jp/articles/-/86163"/>
+        <updated>2021-08-11T23:11:47.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックが、決して「無事に」ではないが、閉幕した。8月24日からはパラリンピックが始まる。少しの間だけ、日常に戻ることができる。テレビが五輪中継に埋め尽くされ、スマホの通知が五輪ニュースだらけという日々がいったん終わった。首都高も通常の料金で乗ることができる。 酷評された開会式・閉会式だった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[モデルナ製ワクチンの有効性、ファイザー製を上回る－ゴールドマン - Bloomberg]]></title>
-        <id>https://www.bloomberg.co.jp/news/articles/2021-08-11/QXODRRT0G1KW01</id>
-        <link href="https://www.bloomberg.co.jp/news/articles/2021-08-11/QXODRRT0G1KW01"/>
-        <updated>2021-08-11T21:12:58.000Z</updated>
-        <summary type="html"><![CDATA[米ゴールドマン・サックス・グループは米モデルナの新型コロナウイルスワクチンについて、効果の持続性に関する新たなデータを受けて需要が高まる可能性があると指摘した。 アナリストのサルビーン・リクター氏はリポートで、デルタ変異株の感染が広がる中で７月に実施された予備的研究によれば、モデルナ製ワクチンより...]]></summary>
+        <title type="html"><![CDATA[Firefoxのユーザー、約3年で4600万人減……その理由を考察したレポートが海外で話題に【やじうまWatch】 - INTERNET Watch]]></title>
+        <id>https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html</id>
+        <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html"/>
+        <updated>2021-08-11T22:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小金井市医師会からのメッセージ（新型コロナワクチンについて その8 ワクチンの効果、誤情報に注意 ）：小金井市公式WEBへようこそ]]></title>
-        <id>https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/info/kanrennzyouhou/koganeishi-shingata8.html</id>
-        <link href="https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/info/kanrennzyouhou/koganeishi-shingata8.html"/>
-        <updated>2021-08-11T05:29:22.000Z</updated>
-        <summary type="html"><![CDATA[小金井市では4月19日から医療従事者への新型コロナワクチンの接種を開始、4月26日から高齢者接種が開始、さらに6月21日から一般の接種が開始されております。 6月27日の時点での接種率は、医療従事者1回目94パーセント、2回目87パーセント、高齢者1回目88パーセント、2回目63パーセント、一般1回目2.4パーセントとなって...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【速報】千葉市の医療機関でクラスター、14人中12人がワクチン2回接種済み　新型コロナ ｜ 千葉日報]]></title>
         <id>https://nordot.app/795572373041217536</id>
         <link href="https://nordot.app/795572373041217536"/>
@@ -281,16 +301,6 @@
         <link href="https://speakerdeck.com/lmt_swallow/build-your-own-web-browser"/>
         <updated>2021-08-10T22:41:13.000Z</updated>
         <summary type="html"><![CDATA[Transcript ͍ͪ͞ͳ�8FC�ϒϥ΢βΛ࡞ͬͯΈΑ͏ ηΩϡϦςΟɾΩϟϯϓ�શࠃେձ������ #�τϥοΫ :0/&6$)* �5BLBTIJ� IUUQT���TIJGU�KT�JOGP © 2021 shift-js.info ͍ͪ͞ͳWebϒϥ΢βΛ࡞ͬͯΈΑ͏ 2 ຊߨٛࢿྉʹ͍ͭͯ� 4QFBLFS�%FDL�ެ։൛޲͚ͷิ଍ w ຊࢿྉ͸ʮηΩϡϦςΟɾΩϟϯϓશࠃେձ������ΦϯϥΠϯ�#�ʯͷߨٛ౰೔ʹར༻ ͞ΕͨࢿྉΛ࠶ฤͨ͠΋ͷͰ͢ɻ� w ࣮ࡍʹ�8FC�ϒϥ΢βΛ࡞ΔͨΊͷઆ໌͸ɺ͜ͷࢿྉʹ͸ͳ͘ɺࣄલ՝୊ࢿྉͱͯ͠ ެ։ͨ͠ΦϯϥΠϯϒοΫ�IUUQT���CSPXTFSCPPL�TIJGU�KT�JOGP�ʹ͋Γ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHubのモノリスからマイクロサービスへのジャーニー]]></title>
-        <id>https://www.infoq.com/jp/articles/github-monolith-microservices/</id>
-        <link href="https://www.infoq.com/jp/articles/github-monolith-microservices/"/>
-        <updated>2021-08-10T10:01:23.000Z</updated>
-        <summary type="html"><![CDATA[GitHubでこの移行に取り掛かる前に、私たちは、決定の背後にある理由と、この変更を行うための目標について考えることに時間を費やしました。それは文化的な観点から私たちにとって大きな変化であり、多くの作業を必要とします。 私たちは意図的に考え、解決しようとしている問題や問題点について考える必要があります。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

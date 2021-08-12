@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html",
+          "author": null,
+          "description": "Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html",
+          "publishedOn": "2021-08-11T22:01:31.000Z",
+          "wordCount": 93,
+          "title": "Firefoxのユーザー、約3年で4600万人減……その理由を考察したレポートが海外で話題に【やじうまWatch】 - INTERNET Watch"
+        },
+        {
           "id": "https://twitter.com/yonlee/status/1425389408753098764",
           "author": null,
           "description": "昨日韓国MBCで放送された韓国国情院と日本の極右の取引についての動画に日本語字幕を付けている。 https://t.co/Ed7xLp02N6",
@@ -15,6 +24,24 @@
           "title": "よんほ on Twitter: \"昨日韓国MBCで放送された韓国国情院と日本の極右の取引についての動画に日本語字幕を付けている。 https://t.co/Ed7xLp02N6\""
         },
         {
+          "id": "https://togetter.com/li/1758149",
+          "author": null,
+          "description": "🌈白石草 @hamemen 非営利の独立メディアOurPlanetTV代表。「ビデオカメラでいこう」（七つ森書館）「メディアをつくる〜「小さな声」を伝えるために」「ルポ チェルノブイリ28年目の子どもたち」（岩波ブックレット） ourplanet-tv.org 🌈白石草 @hamemen ピクトグラムのデザイン料3000万円超なんだ・・・。（主に中抜...",
+          "link": "https://togetter.com/li/1758149",
+          "publishedOn": "2021-08-11T17:16:49.000Z",
+          "wordCount": 633,
+          "title": "【原価厨】ジャーナリスト・白石草氏、東京五輪のピクトグラムのデザイン料を「一つのデザイン65万円は高い」と批判→「じゃあ自分でやってみろ」とツッコミ殺到。 - Togetter"
+        },
+        {
+          "id": "https://automaton-media.com/articles/newsjp/20210812-172096/",
+          "author": null,
+          "description": "Chucklefish Gamesは、『Eastward（イーストワード）』を9月16日に発売すると発表した。対応プラットフォームはPC・Mac（Steam/GOG.com/Humble Store）およびNintendo Switch。Nintendo Switch版はコンソール時限独占になるという。ゲーム内は日本語テキストに対応する。 『Eastward』は、ピクセルアートで描かれるアク...",
+          "link": "https://automaton-media.com/articles/newsjp/20210812-172096/",
+          "publishedOn": "2021-08-11T17:14:45.000Z",
+          "wordCount": 450,
+          "title": "荒廃世界ドット絵冒険ゲーム『Eastward（イーストワード）』9月16日発売へ。6年以上かけて作られた作品いよいよ発売へ | AUTOMATON"
+        },
+        {
           "id": "https://www.chugoku-np.co.jp/local/news/article.php?comment_id=782734&comment_sub_id=0&category_id=256",
           "author": null,
           "description": "国際オリンピック委員会（ＩＯＣ）のバ…",
@@ -22,6 +49,24 @@
           "publishedOn": "2021-08-11T16:37:06.000Z",
           "wordCount": 329,
           "title": "バッハ氏の広島訪問警備費負担、ＩＯＣと組織委が拒否　広島県と市が全額折半（中国新聞デジタル）"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOGN11C6R0R10C21A8000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=野村優子】米国の医療機関が実施した新型コロナウイルスワクチンの研究によると、インド型（デルタ型）の変異ウイルスへの感染を予防する効果が、ファ...",
+          "link": "https://www.nikkei.com/article/DGXZQOGN11C6R0R10C21A8000000/",
+          "publishedOn": "2021-08-11T16:21:15.000Z",
+          "wordCount": 126,
+          "title": "新型コロナ: デルタ型予防、ファイザーよりモデルナ製有効か　米研究: 日本経済新聞"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/123612",
+          "author": null,
+          "description": "政府の新型コロナウイルス感染症対策分科会の尾身茂会長が理事長を務める独立行政法人「地域医療機能推進機構」（東京都港区）の施設入り口のガラスを割ったとして、警視庁は１１日、建造物損壊と建造物侵入の疑いで東京都東村山市の職業不詳石井宏典容疑者（３９）を逮捕した。捜査関係者への取材で分かった。 逮捕容疑...",
+          "link": "https://www.tokyo-np.co.jp/article/123612",
+          "publishedOn": "2021-08-11T16:02:38.000Z",
+          "wordCount": 302,
+          "title": "尾身氏が理事長の医療機構のガラス割った疑い　「嫌いだからやった」39歳の男逮捕　警視庁：東京新聞 TOKYO Web"
         },
         {
           "id": "https://sinsoku.hatenablog.com/entry/2021/08/11/232201",
@@ -38,7 +83,7 @@
           "description": "障害者雇用で働くアライさん @hataraku_Arai 【カマカケにご注意】先日、借金玉の弁護士から、障イさんの身元を把握してると告げられ、確認のために個人情報を教えるよう促されました。ハッタリで障イさんを動揺させ個人情報を引き出すつもりだったと見ています。注意喚起のために、該当のDMを公開します。こういう手口...",
           "link": "https://togetter.com/li/1758192",
           "publishedOn": "2021-08-11T13:41:23.000Z",
-          "wordCount": 460,
+          "wordCount": 488,
           "title": "借金玉さんが依頼した金川晋也弁護士がTwitterのDMで係争相手から個人情報を引き出そうとするも失敗し炎上 - Togetter"
         },
         {
@@ -47,7 +92,7 @@
           "description": "うささꪔ̤̫ @usasa21 旦那と結婚したばかりの時、そうめんを味噌汁に入れて出したら旦那にびっくりドン引きされて。小さい頃好きだったし、アレおかしいぞ？って思ってググったらあれ西日本に多いみたい。どおりで東京生まれの東京育ちの旦那がびっくりするわけだ。でも今ググったら結構あったしみんなやるよね？（入れたい...",
           "link": "https://togetter.com/li/1758142",
           "publishedOn": "2021-08-11T13:13:29.000Z",
-          "wordCount": 891,
+          "wordCount": 930,
           "title": "旦那にビックリされた「そうめん入り味噌汁」、調べたら西日本で多い文化...？→Twitterの力で全国各地の情報が集まりました - Togetter"
         },
         {
@@ -56,7 +101,7 @@
           "description": "くりぷとバイオ@研究×新規事業 @cryptobiotech 研究と新規事業の狭間にいる企業人／「フード&バイオテック」「理系キャリア(就活など)」「新規事業や起業」に関する情報を発信／博士号取得トライ中／理系就活(修士)や研究職キャリアのブログはこちら→cryptocurrency-bioresearch.com note.com/cryptobio くりぷとバイオ@...",
           "link": "https://togetter.com/li/1758185",
           "publishedOn": "2021-08-11T13:02:13.000Z",
-          "wordCount": 494,
+          "wordCount": 532,
           "title": "最近ものすごく優秀な修士就活生が増えている→機械翻訳『DeepL』を巧みに使って論文を書いていた「すごい時代が来たな」 - Togetter"
         },
         {
@@ -65,7 +110,7 @@
           "description": "政府は新型コロナウイルス特別措置法に基づく緊急事態宣言をめぐり、対象地域の拡大を検討し、来週にも決める方向で調整している。３１日としている期限の９月までの延長論も浮上する。東京都は４回目の宣言発令から１２日で１カ月となるが、繰り返される対象拡大と期限延長。菅義偉（すが・よしひで）首相の言う「最後...",
           "link": "https://news.yahoo.co.jp/articles/7126208679a91abcaabc7e8e6ea2ea0178ae8a6b",
           "publishedOn": "2021-08-11T13:02:10.000Z",
-          "wordCount": 69,
+          "wordCount": 71,
           "title": "「緊急事態」９月延長論浮上　対象地域拡大へ政府検討（産経新聞） - Yahoo!ニュース"
         },
         {
@@ -74,7 +119,7 @@
           "description": "名古屋市の河村たかし市長が東京オリンピックの金メダリストのメダルをかんだ問題で、このメダルが新たなものに交換されることに決まったことが、日本テレビの取材でわかりました。 この問題は今月４日、名古屋市の河村市長が、ソフトボール日本代表として東京オリンピックで金メダルに輝いた後藤希友投手の表敬訪問を受...",
           "link": "https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061",
           "publishedOn": "2021-08-11T12:40:28.000Z",
-          "wordCount": 65,
+          "wordCount": 67,
           "title": "河村たかし市長が“噛んだ”金メダル交換へ（日本テレビ系（NNN）） - Yahoo!ニュース"
         },
         {
@@ -92,7 +137,7 @@
           "description": "ネットマーケティングは2021年8月11日、同社が運営する婚活マッチングアプリ「Omiai」で起こった不正アクセスによる会員情報流出の調査結果と今後の対応策を発表した。調査の結果、同社が契約するクラウドサーバーが不正アクセスを受け、年齢確認書類の画像データが複数回にわたって外部に流出したことが分かった。 Omia...",
           "link": "https://xtech.nikkei.com/atcl/nxt/news/18/10983/",
           "publishedOn": "2021-08-11T11:11:11.000Z",
-          "wordCount": 361,
+          "wordCount": 362,
           "title": "婚活アプリ「Omiai」情報流出の詳細判明、API経由でクラウドに不正アクセス | 日経クロステック（xTECH）"
         },
         {
@@ -110,17 +155,8 @@
           "description": "外で話しても恥ずかしくないようなかわいいネーミングを教えてほしい ペニー君はどうだろうか",
           "link": "https://anond.hatelabo.jp/20210811185225",
           "publishedOn": "2021-08-11T10:51:00.000Z",
-          "wordCount": 127,
+          "wordCount": 128,
           "title": "ちんちんのかわいい言い方"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210811/k10013194991000.html",
-          "author": null,
-          "description": "新型コロナウイルスの感染の急拡大で、都内では入院患者が3500人を超えて最多となり、自宅で療養する人も1万7000人を超えています。こうした中、都内で受け入れ先が見つからない患者が埼玉県の病院に搬送されるケースもみられています。 都内の女性 6時間 病院見つからず 埼玉に 埼玉県川越市にある埼玉医科大学総合医療...",
-          "link": "https://www3.nhk.or.jp/news/html/20210811/k10013194991000.html",
-          "publishedOn": "2021-08-11T10:40:00.000Z",
-          "wordCount": 65,
-          "title": "“災害時の状況に近い 医療ひっ迫” 新型コロナ 専門家会合 | 新型コロナウイルス | NHKニュース"
         },
         {
           "id": "https://www.tokyo-np.co.jp/article/123561",
@@ -132,31 +168,22 @@
           "title": "＜新型コロナ＞東京で自宅療養中の30代男性が死亡、基礎疾患なし　小池知事「健康観察続けていたが、体調急変」：東京新聞 TOKYO Web"
         },
         {
-          "id": "https://news.yahoo.co.jp/articles/c1d96174b238acab6ed0b841b90caa51c33d715d",
-          "author": null,
-          "description": "テレビ朝日の社員ら10人が飲酒を伴う宴会を行い、1人がビルから転落した騒動で、会場だったカラオケ店「パセラ」は2021年8月11日、「皆さまには大変ご心配とご迷惑をおかけしております」と謝罪した。 ＜【パセラのコメント全文】＞ ■「一部報道やSNS上にて...」 テレビ朝日の発表や各報道によると、東京五輪の番組担当...",
-          "link": "https://news.yahoo.co.jp/articles/c1d96174b238acab6ed0b841b90caa51c33d715d",
-          "publishedOn": "2021-08-11T10:12:29.000Z",
-          "wordCount": 79,
-          "title": "テレ朝社員の宴会＆転落騒動　カラオケ店パセラが謝罪...「現時点で事件性は無い」（J-CASTニュース） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://togetter.com/li/1758080",
-          "author": null,
-          "description": "加納学：自転車で全都道府県へ @Dr_Kano 京都大学大学院情報学研究科システム科学専攻教授．クアドリティクス株式会社COO．輪行サイクリング好き．骨ストレッチで體にキレを．日々平凡なことに感謝しています．写真はRIDLEY FENIX SL 2016 + Campagnolo BORA WTO 45． note.com/dr_kano",
-          "link": "https://togetter.com/li/1758080",
-          "publishedOn": "2021-08-11T08:59:22.000Z",
-          "wordCount": 1112,
-          "title": "小金井市のワクチンQ＆Aが攻めている「こういう質問を無視せず回答するの大事」「このくらい言い切ってくれる方が素人は安心」 - Togetter"
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210811171248",
           "author": null,
           "description": "なぜ老人ホーム隠蔽スキャンダルでの辞任じゃないのか疑問に思ってる人が多そうなんで解説。 一文で言えば「セクハラの調査結果は出たが、隠蔽事件は調査中だから」です。 隠蔽事件についてはFBIが調査中の案件なので「隠蔽事件の引責で辞任する」と言ってしまえば自白になってしまうわけです。 なので結果が出ちゃって...",
           "link": "https://anond.hatelabo.jp/20210811171248",
           "publishedOn": "2021-08-11T08:13:02.000Z",
-          "wordCount": 107,
+          "wordCount": 108,
           "title": "クオモ知事がセクハラで辞任した理由"
+        },
+        {
+          "id": "https://courrier.jp/news/archives/256951/",
+          "author": null,
+          "description": "影響力がある人物を表紙に据えるなど、象徴的な表紙がなにかと話題を呼んできた、ファッション誌「ヴォーグ」。新たに創刊された「ヴォーグ・スカンジナビア」の表紙を飾ったのは、グレタ・トゥーンベリだった。彼女が他の人物と違うのは、誌面でファッション業界を批判したことだった。 ファッション誌でファストファッ...",
+          "link": "https://courrier.jp/news/archives/256951/",
+          "publishedOn": "2021-08-11T08:12:45.000Z",
+          "wordCount": 297,
+          "title": "「ヴォーグ」誌の表紙を飾ったグレタ・トゥーンベリ、ファストファッションを批判 | ファッション誌でファッション業界を糾弾！ | クーリエ・ジャポン"
         },
         {
           "id": "https://www.nikkei.com/article/DGXZASFL11HPX_R10C21A8000000/",
@@ -164,17 +191,8 @@
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 電通グループは11日、2021年12月期（今期）の連結最終損益（国際会計基準）が1075億円の黒字（前期は1595億円の赤字）になりそうだと発表した。コロナ禍からの経済活動...",
           "link": "https://www.nikkei.com/article/DGXZASFL11HPX_R10C21A8000000/",
           "publishedOn": "2021-08-11T07:55:55.000Z",
-          "wordCount": 122,
+          "wordCount": 123,
           "title": "電通グループの今期、1075億円の最終黒字に転換　上場来最高益見込む: 日本経済新聞"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210811/k10013194771000.html",
-          "author": null,
-          "description": "新型コロナウイルスの感染の急拡大が続く東京都内では11日、新たに4200人の感染が確認されました。 一方、都の基準で集計した11日時点の重症の患者は197人となり、10日に続いて過去最多を更新しました。 また都は、感染が確認された30代と70代の男性2人が死亡したことを明らかにし、このうち30代の男性は自宅で療養中に...",
-          "link": "https://www3.nhk.or.jp/news/html/20210811/k10013194771000.html",
-          "publishedOn": "2021-08-11T07:48:25.000Z",
-          "wordCount": 28,
-          "title": "東京都 新型コロナ 4200人感染確認 重症者は最多更新197人に | 新型コロナ 国内感染者数 | NHKニュース"
         },
         {
           "id": "https://www3.nhk.or.jp/shutoken-news/20210811/1000068665.html",
@@ -209,17 +227,8 @@
           "description": "シン・ゴジラにしても閃ハサにしても、先に「これ凄いぞ！！」という情報を浴びてしまう。 ネタバレが嫌なのでなるべく情報はシャットアウトしていても、「凄いぞ！」という熱気はトレンドワードやホットエントリでひしひしと伝わってくる。 そうすると、自分自身の価値観で感じる「凄いぞ！」の前に「どうやら凄いらし...",
           "link": "https://anond.hatelabo.jp/20210811141932",
           "publishedOn": "2021-08-11T05:26:58.000Z",
-          "wordCount": 163,
+          "wordCount": 166,
           "title": "「これは凄いものを観てしまったぞ！」という感動が得られない状況"
-        },
-        {
-          "id": "https://www.nishinippon.co.jp/item/n/783469/",
-          "author": null,
-          "description": "夏休み期間中の新型コロナウイルス対策として、政府が羽田など全国の主要6空港から搭乗する人を対象に実施しているPCR・抗原定量検査が低調だ。行き先が福岡と北海道、沖縄方面の便で、希望した人が無料で受けられるが、利用率は4％に満たない。制度の周知不足に加え、陽性と結果が出たときは搭乗できない仕組みなどが背...",
-          "link": "https://www.nishinippon.co.jp/item/n/783469/",
-          "publishedOn": "2021-08-11T04:48:34.000Z",
-          "wordCount": 458,
-          "title": "「キャンセルになったらしゃれにならない」空港無料PCRの利用低迷｜【西日本新聞me】"
         },
         {
           "id": "https://nordot.app/795572373041217536",
@@ -231,21 +240,12 @@
           "title": "【速報】千葉市の医療機関でクラスター、14人中12人がワクチン2回接種済み　新型コロナ ｜ 千葉日報"
         },
         {
-          "id": "https://twitter.com/bikeandriding/status/1425053631577935876",
-          "author": null,
-          "description": "そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のドラレコは絶対みせて",
-          "link": "https://twitter.com/bikeandriding/status/1425053631577935876",
-          "publishedOn": "2021-08-11T03:21:48.000Z",
-          "wordCount": 196,
-          "title": "いやしい豚でございます on Twitter: \"そういや、ぼくが煽り運転の被害に遭ったとき、警察は受け取りたくない被害届をゴリ押しして、ネットやテレビにドラレコ映像を公開したぼくのことめっちゃ敵視してたのよね。で、とにかく一切の情報を出さないかったのよ。相手側はぼくの方が煽ってきたと言ってるのに、相手のドラレコは絶対みせて\""
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210811101559",
           "author": null,
           "description": "最低限のNetwork知識 https://zenn.dev/hee/articles/ce9002ae525622 という記事がブックマーク400を超えていて、どうしてこのレベルの記事に400もブックマークが集まるのかと問いたい。 覚えたことをまとめてアウトプットするのは素晴らしいことだと思うしそれは否定しないんだけど、勉強したての見習いが書いた薄い内...",
           "link": "https://anond.hatelabo.jp/20210811101559",
           "publishedOn": "2021-08-11T01:16:09.000Z",
-          "wordCount": 171,
+          "wordCount": 175,
           "title": "ネットワークをちゃんと学びたいなら"
         },
         {
@@ -254,7 +254,7 @@
           "description": "Transcript ͍ͪ͞ͳ�8FC�ϒϥ΢βΛ࡞ͬͯΈΑ͏ ηΩϡϦςΟɾΩϟϯϓ�શࠃେձ������ #�τϥοΫ :0/&6$)* �5BLBTIJ� IUUQT���TIJGU�KT�JOGP © 2021 shift-js.info ͍ͪ͞ͳWebϒϥ΢βΛ࡞ͬͯΈΑ͏ 2 ຊߨٛࢿྉʹ͍ͭͯ� 4QFBLFS�%FDL�ެ։൛޲͚ͷิ଍ w ຊࢿྉ͸ʮηΩϡϦςΟɾΩϟϯϓશࠃେձ������ΦϯϥΠϯ�#�ʯͷߨٛ౰೔ʹར༻ ͞ΕͨࢿྉΛ࠶ฤͨ͠΋ͷͰ͢ɻ� w ࣮ࡍʹ�8FC�ϒϥ΢βΛ࡞ΔͨΊͷઆ໌͸ɺ͜ͷࢿྉʹ͸ͳ͘ɺࣄલ՝୊ࢿྉͱͯ͠ ެ։ͨ͠ΦϯϥΠϯϒοΫ�IUUQT���CSPXTFSCPPL�TIJGU�KT�JOGP�ʹ͋Γ...",
           "link": "https://speakerdeck.com/lmt_swallow/build-your-own-web-browser",
           "publishedOn": "2021-08-10T22:41:13.000Z",
-          "wordCount": 1999,
+          "wordCount": 1998,
           "title": "ちいさな Web ブラウザを作ってみよう（オンライン講義版） / Build Your Own Web Browser - Speaker Deck"
         },
         {

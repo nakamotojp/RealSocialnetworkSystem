@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T21:11:13.346Z</id>
+    <id>urn:2021-08-12T22:12:18.444Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T21:11:13.346Z</updated>
+    <updated>2021-08-12T22:12:18.444Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://mainichi.jp/articles/20210813/k00/00m/040/001000c"/>
         <updated>2021-08-12T15:18:28.000Z</updated>
         <summary type="html"><![CDATA[「メンタリスト」のDaiGo氏が、動画投稿サイト「ユーチューブ」で、ホームレスの人や生活保護受給者を差別する主張をする動画を載せ、批判を集めている。ホームレスに対しては「いないほうがいい」「犯罪者を殺すのと同じ」などと言い、差別や攻撃を扇動するとして、インターネット上で「炎上」状態となっている。 ※記事...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zepp TokyoとSTUDIO COAST閉店以降の首都圏のライブ会場のこと - WASTE OF POPS 80s-90s]]></title>
+        <id>https://www.wasteofpops.com/entry/2021/08/12/000000</id>
+        <link href="https://www.wasteofpops.com/entry/2021/08/12/000000"/>
+        <updated>2021-08-12T15:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Zepp Tokyo・STUDIO COASTの閉館が決まりました。 どちらも相当に行き倒したライブハウスなので非常に残念な気持ちはあるのですが、Zepp Tokyoは元々もっと早くに閉館する予定で、Zepp DiverCityはその代替としてのオープンのはずだったのが、跡地の再開発計画の延期で営業期間延長しての今回ですので、むしろ今まで粘っ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「便利すぎる」──GitHubから直接「Visual Studio Code」を起動できる新機能が話題に - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/12/news145.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/12/news145.html"/>
+        <updated>2021-08-12T10:03:58.000Z</updated>
+        <summary type="html"><![CDATA[法人向け料金は従量制で、計算に使用するCPUの性能と利用時間で変動する。最も安い2コアのCPUを使う場合は1時間で0.18ドル（約20円）。使用したデータの容量1GB当たり0.07ドル（約7円）も月額で別途請求する。 Visual Studio Codeは米Microsoftが手掛けるソースコードエディタ。Microsoftは2018年にGitHubを買収した。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[河村氏「申し訳にゃあと言うしかないでしょう」会見詳報 - 東京オリンピック：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8D5DWHP8DOIPE00Q.html</id>
         <link href="https://www.asahi.com/articles/ASP8D5DWHP8DOIPE00Q.html"/>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京のコロナ「制御不能、自分の身は自分で守る段階」都モニタリング会議：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/123709</id>
-        <link href="https://www.tokyo-np.co.jp/article/123709"/>
-        <updated>2021-08-12T04:34:33.000Z</updated>
-        <summary type="html"><![CDATA[東京都の新型コロナウイルスのモニタリング会議が１２日あり、都内の感染状況について専門家から「制御不能な状況だ。災害レベルで感染が猛威を振るう非常事態」と報告された。医療提供体制については「深刻な機能不全に陥っている」とコメントされた。 現在のペースで感染増加が続くと、２週間後の２５日には、１日当た...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[グーグル　在宅勤務続ける職員の給与最大25％削減へ（テレビ朝日系（ANN）） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/baf9345734748bc84ef4ae63fcadf05d670bab8c</id>
         <link href="https://news.yahoo.co.jp/articles/baf9345734748bc84ef4ae63fcadf05d670bab8c"/>
@@ -271,16 +281,6 @@
         <link href="https://www.sakura.ad.jp/information/announcements/2021/08/12/1968207782/"/>
         <updated>2021-08-12T02:50:20.000Z</updated>
         <summary type="html"><![CDATA[さくらインターネット株式会社は、PaaS型クラウドサービス「Hacobune（はこぶね）」のβ版を、2021年8月12日よりLabプロダクト※1として無料で提供開始します。 また8月27日にこのたびの提供開始を記念して、オンライン発表会を開催いたします。 Hacobuneは、当社が「インフラを意識しない世界を実現する」をビジョンに開...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なんでもSPAにするんじゃねぇ！という主張のその先 - console.lealog();]]></title>
-        <id>https://lealog.hateblo.jp/entry/2021/08/12/103111</id>
-        <link href="https://lealog.hateblo.jp/entry/2021/08/12/103111"/>
-        <updated>2021-08-12T01:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Your shopping website is not an SPA. I repeat: your shopping website is not an SPA. Stop trying to sculpt David with a JS chainsaw and get yourself an HTML/CSS chisel.— Alex Russell (@slightlylate) 2021年8月10日 この主張、界隈（少なくとも自分の観測範囲）では割とよく見かけるし、なんか定期的に話題...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

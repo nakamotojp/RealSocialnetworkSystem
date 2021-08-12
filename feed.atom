@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T01:53:43.976Z</id>
+    <id>urn:2021-08-12T02:23:01.613Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T01:53:43.976Z</updated>
+    <updated>2021-08-12T02:23:01.613Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://takuti.me/ja/note/product-management-myths/"/>
         <updated>2021-08-12T00:08:34.000Z</updated>
         <summary type="html"><![CDATA[Tweet プロダクトマネージャー (PM) としてのこれまでの私的な経験を踏まえて、『プロダクトマネジメントのすべて 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで』を読んで思ったことをつらつらと。 プロダクトマネージャーは本当に“魅力的な職業”か “完璧な世界”など存在しない 良かった点 「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沖縄のコロナ感染、世界最悪レベル　10万人当たり256.09人 - 琉球新報デジタル｜沖縄のニュース速報・情報サイト]]></title>
+        <id>https://ryukyushimpo.jp/news/entry-1373063.html</id>
+        <link href="https://ryukyushimpo.jp/news/entry-1373063.html"/>
+        <updated>2021-08-11T23:39:49.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染者が増え続ける中、県内では9日までの直近1週間の人口10万人当たり新規感染者数が256・09人に達し、過去最悪を更新した。全国1位を維持しており、世界的にも感染者数が多い国と同水準だ。県は今週の新規感染者数を最大5千人とみており、直近1週間の人口10万人当たりに換算すれば、350人近くまで...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +51,16 @@
         <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html"/>
         <updated>2021-08-11T22:01:31.000Z</updated>
         <summary type="html"><![CDATA[Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルナ製ワクチンの有効性、ファイザー製を上回る－ゴールドマン - Bloomberg]]></title>
+        <id>https://www.bloomberg.co.jp/news/articles/2021-08-11/QXODRRT0G1KW01</id>
+        <link href="https://www.bloomberg.co.jp/news/articles/2021-08-11/QXODRRT0G1KW01"/>
+        <updated>2021-08-11T21:12:58.000Z</updated>
+        <summary type="html"><![CDATA[米ゴールドマン・サックス・グループは米モデルナの新型コロナウイルスワクチンについて、効果の持続性に関する新たなデータを受けて需要が高まる可能性があると指摘した。 アナリストのサルビーン・リクター氏はリポートで、デルタ変異株の感染が広がる中で７月に実施された予備的研究によれば、モデルナ製ワクチンより...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -101,6 +121,16 @@
         <link href="https://www.tokyo-np.co.jp/article/123612"/>
         <updated>2021-08-11T16:02:38.000Z</updated>
         <summary type="html"><![CDATA[政府の新型コロナウイルス感染症対策分科会の尾身茂会長が理事長を務める独立行政法人「地域医療機能推進機構」（東京都港区）の施設入り口のガラスを割ったとして、警視庁は１１日、建造物損壊と建造物侵入の疑いで東京都東村山市の職業不詳石井宏典容疑者（３９）を逮捕した。捜査関係者への取材で分かった。 逮捕容疑...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[婚約者とセックスレス]]></title>
+        <id>https://anond.hatelabo.jp/20210811233333</id>
+        <link href="https://anond.hatelabo.jp/20210811233333"/>
+        <updated>2021-08-11T14:44:06.000Z</updated>
+        <summary type="html"><![CDATA[結婚する前に婚約者とセックスレスになっていて、結婚やめたくなってる。 私から誘っても「仕事が忙しいから休日ね」と断られる。 改めて休日に誘おうとすると、「疲れた」を連呼していて申し訳なくて誘えない。 日々のスキンシップも、私からハグやキスをしない限り相手からは一切触ってこない。 そんなに忙しいなら仕...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ちんちんのかわいい言い方]]></title>
-        <id>https://anond.hatelabo.jp/20210811185225</id>
-        <link href="https://anond.hatelabo.jp/20210811185225"/>
-        <updated>2021-08-11T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[外で話しても恥ずかしくないようなかわいいネーミングを教えてほしい ペニー君はどうだろうか]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[＜新型コロナ＞東京で自宅療養中の30代男性が死亡、基礎疾患なし　小池知事「健康観察続けていたが、体調急変」：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/123561</id>
         <link href="https://www.tokyo-np.co.jp/article/123561"/>
@@ -221,26 +241,6 @@
         <link href="https://courrier.jp/news/archives/256951/"/>
         <updated>2021-08-11T08:12:45.000Z</updated>
         <summary type="html"><![CDATA[影響力がある人物を表紙に据えるなど、象徴的な表紙がなにかと話題を呼んできた、ファッション誌「ヴォーグ」。新たに創刊された「ヴォーグ・スカンジナビア」の表紙を飾ったのは、グレタ・トゥーンベリだった。彼女が他の人物と違うのは、誌面でファッション業界を批判したことだった。 ファッション誌でファストファッ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電通グループの今期、1075億円の最終黒字に転換　上場来最高益見込む: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZASFL11HPX_R10C21A8000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZASFL11HPX_R10C21A8000000/"/>
-        <updated>2021-08-11T07:55:55.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 電通グループは11日、2021年12月期（今期）の連結最終損益（国際会計基準）が1075億円の黒字（前期は1595億円の赤字）になりそうだと発表した。コロナ禍からの経済活動...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京の入院３５００人超で最多 受け入れ先なく埼玉への搬送も｜NHK 首都圏のニュース]]></title>
-        <id>https://www3.nhk.or.jp/shutoken-news/20210811/1000068665.html</id>
-        <link href="https://www3.nhk.or.jp/shutoken-news/20210811/1000068665.html"/>
-        <updated>2021-08-11T07:46:59.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染の急拡大で、都内では入院患者が３５００人を超えて最多となり、自宅で療養する人も１万７０００人を超えています。 こうした中、都内で受け入れ先が見つからない患者が、埼玉県の病院に搬送されるケースもみられています。 埼玉県川越市にある埼玉医科大学総合医療センターには、今週、都内に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T08:13:58.794Z</id>
+    <id>urn:2021-08-12T09:12:31.647Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T08:13:58.794Z</updated>
+    <updated>2021-08-12T09:12:31.647Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 4989人感染確認 重症者は過去最多の218人に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 6人死亡 4989人感染 重症者は最多の218人に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210812/k10013196811000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196811000.html"/>
         <updated>2021-08-12T07:48:54.000Z</updated>
-        <summary type="html"><![CDATA[東京都は、これまでで2番目に多い4989人が12日、都内で新たに新型コロナウイルスに感染していることを確認したと発表しました。 一方、都の基準で集計した12日時点の重症の患者は初めて200人を超えて218人となりました。 11日より21人増えました。 10日と11日に続いて過去最多を更新し、重症患者の増加が止まりません。]]></summary>
+        <summary type="html"><![CDATA[東京都内では、これまでで2番目に多い4989人が、12日、新たに新型コロナウイルスに感染していることが確認されました。 また、都の基準で集計した重症の患者は、初めて200人を超えて218人となりました。 重症の患者は10日、11日に続いて過去最多を更新し、増加に歯止めがかかりません。 東京都は12日、都内で新たに10歳...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小池知事、コロナ感染対策「買い物は3日に1回」　テレワーク徹底「この時期にやらないでいつやるんだ」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/123718</id>
+        <link href="https://www.tokyo-np.co.jp/article/123718"/>
+        <updated>2021-08-12T05:59:26.000Z</updated>
+        <summary type="html"><![CDATA[東京都の新型コロナウイルスのモニタリング会議が１２日あり、都内の感染状況について専門家から「制御不能な状況だ。災害レベルで感染が猛威を振るう非常事態」と報告された。 会議で小池百合子知事は、感染防止のために人流の減少に取り組む必要性を強調。感染対策でテレワークが進んでいないことを挙げ、「この時期に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -66,7 +76,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尾身会長が理事長の法人建物に侵入 玄関壊した疑いで逮捕｜NHK 首都圏のニュース]]></title>
+        <title type="html"><![CDATA[尾身氏が理事長務める行政法人本部に侵入 玄関壊した男 逮捕｜NHK 首都圏のニュース]]></title>
         <id>https://www3.nhk.or.jp/shutoken-news/20210812/1000068709.html</id>
         <link href="https://www3.nhk.or.jp/shutoken-news/20210812/1000068709.html"/>
         <updated>2021-08-12T03:30:12.000Z</updated>
@@ -211,16 +221,6 @@
         <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html"/>
         <updated>2021-08-11T22:01:31.000Z</updated>
         <summary type="html"><![CDATA[Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臨時国会、いつまで拒否するのか　説明避ける菅政権　自民改憲草案に「20日以内召集」とあるけれど…：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/123578</id>
-        <link href="https://www.tokyo-np.co.jp/article/123578"/>
-        <updated>2021-08-11T21:28:49.000Z</updated>
-        <summary type="html"><![CDATA[立憲民主党の安住淳国対委員長は１１日、自民党の森山裕国対委員長と国会内で会談し、新型コロナウイルス対策などを審議するため、早期に臨時国会を開くよう要求した。森山氏は、国会閉会中でも委員会によっては閉会中審査を行っていることを理由に、国会開会を事実上拒否。臨時国会召集は憲法五三条に規定があっても、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

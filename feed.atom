@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T06:15:10.556Z</id>
+    <id>urn:2021-08-12T07:11:01.607Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T06:15:10.556Z</updated>
+    <updated>2021-08-12T07:11:01.607Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196681000.html"/>
         <updated>2021-08-12T04:16:44.000Z</updated>
         <summary type="html"><![CDATA[東京都のモニタリング会議で、専門家は、今の都内の感染状況について「かつてないほどの速度で感染拡大が進み、新規陽性者が急増している。制御不能な状況だ。災害レベルで感染が猛威をふるう非常事態であり、この危機感を現実のものとして皆で共有する必要がある。もはや災害時と同様に、自分の身は自分で守る、感染予...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北海道・稚内で2.6℃　128年ぶりの強い冷え込みに｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_society/articles/000225274.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_society/articles/000225274.html"/>
+        <updated>2021-08-12T03:58:04.000Z</updated>
+        <summary type="html"><![CDATA[北海道の上空には寒気が流れ込んだ影響で北部を中心に冷え込みが強まりました。稚内市の沼川では2.6度と、この時期としては128年ぶりの低い気温を記録しました。 稚内市民：「寒いですね。極端に寒くなったり暖かくなったり大変です」 稚内市沼川では12日午前5時前の気温が2.6度で、8月前半としては128年ぶりの強い冷え...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://note.com/anrit/n/n8f8fefcc3674"/>
         <updated>2021-08-11T12:45:54.000Z</updated>
         <summary type="html"><![CDATA[先日、弊社および弊社社員（私・佐俣および江原）について、光本さんによる事件と関連付け、批判的に言及するnoteが公開されました。匿名アカウントによる指摘ではありますが、私個人の問題を明確化しつつ、ミスリードな指摘については明確な否定をおこなうことが重要だと考え、回答させていただきます。 まず、ご指摘さ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河村たかし市長が“噛んだ”金メダル交換へ（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061</id>
-        <link href="https://news.yahoo.co.jp/articles/d73d44532f86898addb4a768291e969c4c573061"/>
-        <updated>2021-08-11T12:40:28.000Z</updated>
-        <summary type="html"><![CDATA[名古屋市の河村たかし市長が東京オリンピックの金メダリストのメダルをかんだ問題で、このメダルが新たなものに交換されることに決まったことが、日本テレビの取材でわかりました。 この問題は今月４日、名古屋市の河村市長が、ソフトボール日本代表として東京オリンピックで金メダルに輝いた後藤希友投手の表敬訪問を受...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

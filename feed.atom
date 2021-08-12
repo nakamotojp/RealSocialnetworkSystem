@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-12T16:18:27.975Z</id>
+    <id>urn:2021-08-12T17:17:26.417Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-12T16:18:27.975Z</updated>
+    <updated>2021-08-12T17:17:26.417Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[入管女性死亡でビデオ映像開示　遺族「動物のように扱われていた」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210812/k00/00m/040/307000c</id>
+        <link href="https://mainichi.jp/articles/20210812/k00/00m/040/307000c"/>
+        <updated>2021-08-12T12:12:03.000Z</updated>
+        <summary type="html"><![CDATA[名古屋出入国在留管理局（名古屋市）に収容されていたスリランカ人女性、ウィシュマ・サンダマリさん（当時33歳）が3月に死亡した問題で、出入国在留管理庁は12日、ウィシュマさんが映った施設内の監視カメラ映像を遺族に開示した。遺族側は「動物のように扱われていた」と感想を述べた。 遺族によると、この日、上川陽...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[スリランカ人女性のビデオ開示　遺族、衝撃受け視聴中断：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8D6TZ0P8DUTIL00T.html</id>
         <link href="https://www.asahi.com/articles/ASP8D6TZ0P8DUTIL00T.html"/>
         <updated>2021-08-12T12:05:39.000Z</updated>
         <summary type="html"><![CDATA[名古屋出入国在留管理局の施設で今年3月に亡くなったスリランカ人ウィシュマ・サンダマリさん（当時33）の収容中の様子を撮影した監視カメラのビデオ映像が12日、来日中の妹2人に開示された。映像は、記録が残る2月22日から死亡した3月6日までの13日分を、出入国在留管理庁が2時間に編集した。 ウィシュマさんが日に日に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチン2回接種済みの男性死亡　東京の60代 ｜ 共同通信]]></title>
+        <id>https://nordot.app/798520458961534976</id>
+        <link href="https://nordot.app/798520458961534976"/>
+        <updated>2021-08-12T11:56:13.000Z</updated>
+        <summary type="html"><![CDATA[東京都は12日、新型コロナウイルスに感染して死亡した60代男性が2回のワクチン接種を6月に済ませていたと明らかにした。都内で2回接種後の死亡が判明した例は初めてとしている。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】東京都が20代・30代限定ポイント導入へ　若者のワクチン接種促す狙い]]></title>
+        <id>https://www.fnn.jp/articles/-/223314</id>
+        <link href="https://www.fnn.jp/articles/-/223314"/>
+        <updated>2021-08-12T11:12:38.000Z</updated>
+        <summary type="html"><![CDATA[若者はワクチン接種で、ポイントがもらえることになる。 東京都は、新たな補正予算案で、若年層へのワクチン接種を促進するため、ワクチン接種促進キャンペーン事業を行う方針を固めた。 このキャンペーンでは、接種記録を読み込めるアプリを開発し、登録すると、20代と30代限定で割引やポイントが付与されるという。 具...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「東京などの人出を5割減に」分科会が強い対策を求める提言案 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210812/k10013196491000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210812/k10013196491000.html"/>
-        <updated>2021-08-12T03:04:15.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染が爆発的に増加し医療のひっ迫が深刻化している現在の危機的な状況を回避する必要があるとして、政府の分科会はこの2週間、集中的に対策を強化し、東京都などで人出を今回の緊急事態宣言が出される直前の7月前半に比べて5割減らすことなど強い対策を求める提言の案を示しました。 新型コロナ対...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[インフラを意識せずにSaaS開発ができる 次世代PaaS「Hacobune」のオープンβ版を2021年8月12日に無料提供開始 ～8月27日にオンライン発表会を開催～ | さくらインターネット]]></title>
         <id>https://www.sakura.ad.jp/information/announcements/2021/08/12/1968207782/</id>
         <link href="https://www.sakura.ad.jp/information/announcements/2021/08/12/1968207782/"/>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沖縄のコロナ感染、世界最悪レベル　10万人当たり256.09人 - 琉球新報デジタル｜沖縄のニュース速報・情報サイト]]></title>
-        <id>https://ryukyushimpo.jp/news/entry-1373063.html</id>
-        <link href="https://ryukyushimpo.jp/news/entry-1373063.html"/>
-        <updated>2021-08-11T23:39:49.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染者が増え続ける中、県内では9日までの直近1週間の人口10万人当たり新規感染者数が256・09人に達し、過去最悪を更新した。全国1位を維持しており、世界的にも感染者数が多い国と同水準だ。県は今週の新規感染者数を最大5千人とみており、直近1週間の人口10万人当たりに換算すれば、350人近くまで...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[8/22は横浜市長選！中1娘が全候補者インタビューに挑戦しました | 森ノオト]]></title>
         <id>http://morinooto.jp/2021/08/11/yokohamamayor/</id>
         <link href="http://morinooto.jp/2021/08/11/yokohamamayor/"/>
@@ -291,16 +301,6 @@
         <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html"/>
         <updated>2021-08-11T22:01:31.000Z</updated>
         <summary type="html"><![CDATA[Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バッハ氏の広島訪問警備費負担、ＩＯＣと組織委が拒否　広島県と市が全額折半（中国新聞デジタル）]]></title>
-        <id>https://www.chugoku-np.co.jp/local/news/article.php?comment_id=782734&amp;comment_sub_id=0&amp;category_id=256</id>
-        <link href="https://www.chugoku-np.co.jp/local/news/article.php?comment_id=782734&amp;comment_sub_id=0&amp;category_id=256"/>
-        <updated>2021-08-11T16:37:06.000Z</updated>
-        <summary type="html"><![CDATA[国際オリンピック委員会（ＩＯＣ）のバ…]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

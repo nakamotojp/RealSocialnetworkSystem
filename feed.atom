@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T04:15:48.155Z</id>
+    <id>urn:2021-08-13T05:10:30.361Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T04:15:48.155Z</updated>
+    <updated>2021-08-13T05:10:30.361Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「えっ？尾身会長逮捕!？」　誤解招いた見出し、どうすればよかったのか　記者が考えてみた｜岡田有花（ゆかたん）｜note]]></title>
+        <id>https://note.com/yukatan/n/nf6d98605f070</id>
+        <link href="https://note.com/yukatan/n/nf6d98605f070"/>
+        <updated>2021-08-13T01:27:45.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ネット記者を20年近くやっている岡田有花と申します。記事の見出しをつけるのが好きです。見出しをつける専門の仕事もしています。 最近気になった見出しについて考えてみたいと思い、noteを書きました。 尾身会長が逮捕!？　誤解招いた見出し　今回題材にするのはNHKが8月12日に配信したこんな見出しの記事...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニメ「Sonny Boy」の『難解』プログラムの解説 - まめめも]]></title>
         <id>https://mametter.hatenablog.com/entry/2021/08/13/092312</id>
@@ -261,16 +271,6 @@
         <link href="https://mainichi.jp/articles/20210812/k00/00m/040/280000c"/>
         <updated>2021-08-12T10:57:26.000Z</updated>
         <summary type="html"><![CDATA[政府の有識者会議「新型コロナウイルス感染症対策分科会」がお盆休み前後の対策強化を提言したことを受け、西村康稔経済再生担当相は12日、東京都内で記者団に「強い危機感を専門家と共有している」と述べた。その上で、お盆期間中の鉄道・航空の予約が昨年より増加しているとして、「緊急事態宣言地域などの発着便は、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「便利すぎる」──GitHubから直接「Visual Studio Code」を起動できる新機能が話題に - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/12/news145.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/12/news145.html"/>
-        <updated>2021-08-12T10:03:58.000Z</updated>
-        <summary type="html"><![CDATA[法人向け料金は従量制で、計算に使用するCPUの性能と利用時間で変動する。最も安い2コアのCPUを使う場合は1時間で0.18ドル（約20円）。使用したデータの容量1GB当たり0.07ドル（約7円）も月額で別途請求する。 Visual Studio Codeは米Microsoftが手掛けるソースコードエディタ。Microsoftは2018年にGitHubを買収した。 ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

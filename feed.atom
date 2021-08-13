@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T09:12:22.174Z</id>
+    <id>urn:2021-08-13T10:13:13.356Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T09:12:22.174Z</updated>
+    <updated>2021-08-13T10:13:13.356Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[小池知事「オリンピック成功をパラリンピックにつなげていく」 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210813/k10013200011000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210813/k10013200011000.html"/>
+        <updated>2021-08-13T09:19:47.000Z</updated>
+        <summary type="html"><![CDATA[今月24日に開幕するパラリンピックについて、東京都の小池知事は「オリンピックの成功を必ずパラリンピックにつなげていく」と述べました。 小池知事は13日の記者会見で、今月8日に閉幕したオリンピックについて、記者団から「安全安心に大会を終える目標を達成できたか」と問われました。 これ対して小池知事は「これま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[急上昇する陽性率、なぜ？東京22%、川崎は異様な高さ [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8F4VXPP8CULBJ003.html</id>
+        <link href="https://www.asahi.com/articles/ASP8F4VXPP8CULBJ003.html"/>
+        <updated>2021-08-13T08:21:13.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの検査を受けた人のうち、結果が陽性だった人の割合を示す「陽性率」が各地で上昇している。東京都では22%に達し、検査能力の乏しかった昨春を除き、過去最高を更新中だ。陽性率の上昇は一般に、増える感染者数に対し、検査が追いついていないことが原因とされる。だが、都内などではまだ検査に余力が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“帰省や旅行は諦めて” 助かる命も助からなくなる 小池知事 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210813/k10013199681000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210813/k10013199681000.html"/>
+        <updated>2021-08-13T08:05:32.000Z</updated>
+        <summary type="html"><![CDATA[急速な感染拡大について、東京都の小池知事は、記者会見で「最大級、災害級の危機を迎えている」と述べて、強い危機感を示したうえで、感染の抑え込みに向けて人の流れの5割削減を目指すとして、盆休みの帰省や旅行は「延期・中止などを『考えてください』でなく、諦めていただきたい」と述べました。 このなかで、小池...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 5773人感染確認 過去最多 重症者も最多更新 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210813/k10013199211000.html</id>
@@ -41,6 +71,16 @@
         <link href="https://twitter.com/MHLWitter/status/1426027902810804229"/>
         <updated>2021-08-13T04:04:07.000Z</updated>
         <summary type="html"><![CDATA[【生活保護を申請したい方へ】 「生活保護の申請は国民の権利です。」 生活保護を必要とする可能性はどなたにもあるものですので、ためらわずにご相談ください。相談先は、お住まいの自治体の福祉事務所までご連絡をお願いします。 https://t.co/yKdp1sjS0b]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「逆エナジードリンクって何！？」リモートワークの休憩中に『CHILL OUT』を飲む人が増えているらしい - Togetter]]></title>
+        <id>https://togetter.com/li/1748504</id>
+        <link href="https://togetter.com/li/1748504"/>
+        <updated>2021-08-13T03:06:24.000Z</updated>
+        <summary type="html"><![CDATA[わこみ @__wcm__ リモートワーク、オンオフの切り替えメチャ難しい……休憩取るのも忘れちゃうし、気がついたら定時過ぎてるし……リモートのときは定時と休憩時間にアラームかけよう……なんなら1時間に1回アラームかけて少しでも体動かすか…… 2021-07-20 22:12:15]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,41 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[松丸 亮吾 🍥 on Twitter: "今まで兄が炎上しても「また炎上してんな〜〜」くらいにしか思ってなかったし触れないようにしてたけど、人の命を軽く見る発言だけはさすがにダメです。それだけは絶対に許されない。 今度会ったら絶対に論破するまで怒り続けます。今回ばかりは兄がおかしい。ごめんね。"]]></title>
-        <id>https://twitter.com/ryogomatsumaru/status/1425831859724845059</id>
-        <link href="https://twitter.com/ryogomatsumaru/status/1425831859724845059"/>
-        <updated>2021-08-12T15:00:50.000Z</updated>
-        <summary type="html"><![CDATA[今まで兄が炎上しても「また炎上してんな〜〜」くらいにしか思ってなかったし触れないようにしてたけど、人の命を軽く見る発言だけはさすがにダメです。それだけは絶対に許されない。 今度会ったら絶対に論破するまで怒り続けます。今回ばかりは兄がおかしい。ごめんね。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「ホームレスの命はどうでもいい」人間と猫の命を比較し… メンタリストDaiGo氏の発言に批判殺到]]></title>
         <id>https://www.buzzfeed.com/jp/kotahatachi/daigo-youtube</id>
         <link href="https://www.buzzfeed.com/jp/kotahatachi/daigo-youtube"/>
         <updated>2021-08-12T14:00:06.000Z</updated>
         <summary type="html"><![CDATA[メンタリストDaiGo氏の、生活保護受給者やホームレスの人たちに対するYouTube上の発言が批判を集めている。差別や攻撃を煽動しかねないもので、優生思想に直結するとの指摘もある。 動画では、「生活保護の人が生きてても僕は別に得しない」「必要のない命は僕にとって軽い」と発言。さらにホームレスの人たちについては...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高致死率ラムダ株2週間報告せず「もっと早く問い合わせがあれば答えた」自民党外交部会長が番組で釈明（中日スポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/a130cfbc05bbb3b38bb87eb675db4594cae4bfcc</id>
-        <link href="https://news.yahoo.co.jp/articles/a130cfbc05bbb3b38bb87eb675db4594cae4bfcc"/>
-        <updated>2021-08-12T13:47:43.000Z</updated>
-        <summary type="html"><![CDATA[12日のBS―TBS「報道1930」に自民党外交部会長を務める佐藤正久参院議員（60）が出演。致死率の高い「ラムダ株」が東京五輪開幕の7月23日に国内で初めて解析され、国際機関に報告しながら、8月6日に一部報道されるまで明らかにならなかった件について「早く発表すべきだったが、政府の中でも情報が共有されていなかった。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[興信所の人捜し事例、40代以上の既婚男性による「若い頃の元カノが今幸せに暮らしているか」という依頼が多いらしい - Togetter]]></title>
-        <id>https://togetter.com/li/1758642</id>
-        <link href="https://togetter.com/li/1758642"/>
-        <updated>2021-08-12T12:47:25.000Z</updated>
-        <summary type="html"><![CDATA[かえる™ @72jailbreak 興信所の人捜し事例を眺めていると、40代以上の既婚男性からの「ふと若い頃の元カノが今幸せに暮らしているのか気になって……」という依頼がめちゃくちゃ多い。「配偶者に内緒で大金を支払って昔の恋人の暮らしぶりを知りたい」という欲求is何？？マジで自分の中にはない衝動なのでおもしろかった。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://anond.hatelabo.jp/20210812202705"/>
         <updated>2021-08-12T11:30:37.000Z</updated>
         <summary type="html"><![CDATA[あれほど人流が増える！って発狂していた皆さんはどこへ行かれたのでしょう？ オリンピックは選手は選手村に隔離、メディアや関係やはホテルに隔離、公共の交通機関も利用禁止、対策済みのタクシーのみ可だったけど 全国から1万人くらい移動してきてる甲子園が絶賛開催中なのに、なんで中止を訴えないの？ 君らの存在の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相「五輪開会後は反対の声それほど多く聞かれない」米誌インタビューに（FNNプライムオンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/d1f8d3116441b9741dfc81a649a38ce98b9a4713</id>
-        <link href="https://news.yahoo.co.jp/articles/d1f8d3116441b9741dfc81a649a38ce98b9a4713"/>
-        <updated>2021-08-12T10:49:01.000Z</updated>
-        <summary type="html"><![CDATA[菅首相は、8月11日付の米誌「ニューズウィーク」（電子版）のインタビューで、東京五輪について「開会前は問題もあったが、開会してからは、反対の声はそれほど多く聞かれない」と強調した。 菅首相は、インタビューでコロナが感染拡大する中での五輪開催に反対の声が広がったことについて、「開会前には問題もあったが...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

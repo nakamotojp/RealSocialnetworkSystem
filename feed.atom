@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T12:18:40.417Z</id>
+    <id>urn:2021-08-13T13:18:06.096Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T12:18:40.417Z</updated>
+    <updated>2021-08-13T13:18:06.096Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,27 @@
         <id>https://www.jiji.com/jc/article?k=2021081300881&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021081300881&amp;g=pol"/>
         <updated>2021-08-13T10:09:26.000Z</updated>
-        <summary type="html"><![CDATA[菅首相、４カ月半休みなし　「疲れている」指摘も 2021年08月13日16時40分 菅義偉首相＝１０日、首相官邸 菅義偉首相の連続執務日数が１３日で１３８日となった。首相周辺は「休むように言っている」と明かすが、首相は土日や祝日も首相公邸で新型コロナウイルス関係の会議や民間人との面会などの日程を入れるスタイルを...]]></summary>
+        <summary type="html"><![CDATA[菅首相、４カ月半休みなし　「疲れている」指摘も 2021年08月13日16時40分 大雨に関する関係閣僚会議で発言する菅義偉首相（左）＝１３日午前、首相官邸 菅義偉首相の連続執務日数が１３日で１３８日となった。首相周辺は「休むように言っている」と明かすが、首相は土日や祝日も首相公邸で新型コロナウイルス関係の会議...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相 「酸素ステーション」「抗体カクテル療法」拠点整備へ | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210813/k10013200161000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210813/k10013200161000.html"/>
+        <updated>2021-08-13T09:40:03.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり菅総理大臣は、患者への酸素投与が必要となった場合に利用できる「酸素ステーション」や、いわゆる「抗体カクテル療法」として新たに承認された治療薬の投与を集中的に行える拠点を、近く整備する考えを示しました。また、10月初旬までに、国民全員の8割にワクチンを2回接種できる体制を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大森靖子の今までのパワハラ炎上まとめ　巫まろ、戦慄かなの、香椎かてぃ、生うどん、他【そしてZOCは終焉に】｜アンナカリイナ｜note]]></title>
+        <id>https://note.com/syukatsu_tsurai/n/n33189259a550</id>
+        <link href="https://note.com/syukatsu_tsurai/n/n33189259a550"/>
+        <updated>2021-08-13T09:29:20.000Z</updated>
+        <summary type="html"><![CDATA[大森靖子の今までのパワハラ炎上まとめ　巫まろ、戦慄かなの、香椎かてぃ、生うどん、他【そしてZOCは終焉に】]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -26,11 +46,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ 国内感染確認 初の2万人超え | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[小池知事　パラリンピック「子どもたちに見せたい」　感染状況で判断　：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/123980</id>
+        <link href="https://www.tokyo-np.co.jp/article/123980"/>
+        <updated>2021-08-13T09:02:29.000Z</updated>
+        <summary type="html"><![CDATA[東京都の小池百合子知事は　８月２４日に開幕予定のパラリンピックでの新型コロナウイルス対策について「パラリンピックもこれまでの経験を生かし、改善を加え、安全安心の大会にしていきたい」と述べた。 パラリンピックで東京パラリンピックの観戦機会を児童や生徒に提供する「学校連携観戦プログラム」を行うかどうか...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ 国内感染確認 初の2万人超え 死亡は25人（13日） | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210813/k10013200021000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210813/k10013200021000.html"/>
         <updated>2021-08-13T08:53:15.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染確認の発表が、全国でこれまでに初めて2万人を超え、1日の発表としては過去最多となりました。]]></summary>
+        <summary type="html"><![CDATA[13日はこれまでに全国で2万365人の感染が発表されていて、初めて2万人を超え1日の発表としては過去最多となりました。 また、東京都で7人、千葉県で6人、大阪府で3人、神奈川県で3人、茨城県で3人、滋賀県で1人、福岡県で1人、鹿児島県で1人、の合わせて25人の死亡の発表がありました。 国内で感染が確認された人は、空...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -60,7 +90,17 @@
         <id>https://www3.nhk.or.jp/news/html/20210813/k10013199211000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210813/k10013199211000.html"/>
         <updated>2021-08-13T07:49:07.000Z</updated>
-        <summary type="html"><![CDATA[東京都は13日、過去最多となる5773人が新型コロナウイルスに感染していることを確認したと発表しました。5000人を上回るのは、5042人だった先週の木曜日以来、2回目です。1週間前の金曜日より1258人増えていて、感染の急速な拡大が続いています。 一方、都の基準で集計した13日時点の重症の患者は12日より9人増えて227人...]]></summary>
+        <summary type="html"><![CDATA[東京都内では13日、過去最多となる5773人の感染が確認されたほか、都の基準で集計した13日時点の重症の患者は227人となり、4日連続で過去最多を更新しました。また、都は、感染が確認された50代から90代までの男女7人が死亡したことを明らかにしました。 東京都は13日、都内で新たに10歳未満から90代までの男女合わせて5...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「桃太郎」が女の子「桃子」の紙芝居 小学生ら偏見や差別学ぶ | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210813/k10013199291000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210813/k10013199291000.html"/>
+        <updated>2021-08-13T07:35:35.000Z</updated>
+        <summary type="html"><![CDATA[夏休みの子どもたちが絵本を通して、男女の性差による偏見をなくすことなどの大切さを考える催しが静岡県掛川市で開かれました。 これは静岡県内のNPOが12日、掛川市内の会場で開き、地元の小学生と保護者らあわせて15人が集まりました。 この中では静岡県の高校で校長として勤めていた奥山和弘さんが「桃太郎」を女の子...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ITCSSを採用して共同開発しやすいCSS設計をZOZOTOWNに導入した話 - ZOZO Technologies TECH BLOG]]></title>
-        <id>https://techblog.zozo.com/entry/itcss-to-zozotown</id>
-        <link href="https://techblog.zozo.com/entry/itcss-to-zozotown"/>
-        <updated>2021-08-13T02:07:17.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ZOZOTOWN部フロントエンドチームの菊地（@hiro0218）です。 2021年3月、ZOZOTOWNは10年ぶりのリニューアルをしました。この記事では、そのリニューアルで再考したCSS設計について紹介します。 背景 今回のリニューアルでは、ウェブとアプリが部分的に共通のデザインになりました。 アプリ ウェブ このデザイ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[金メダル選手を救った日本人女性　ジャマイカ観光省が旅行に招待「親切にはお返しを」（THE ANSWER） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/3a6a555eb1e869685781513078c5f03da0a34252</id>
         <link href="https://news.yahoo.co.jp/articles/3a6a555eb1e869685781513078c5f03da0a34252"/>
@@ -196,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相 五輪お気に入り競技は「スケートボード」開催意義強調（TBS系（JNN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/acedfe0f0dab42583fbc8c5f5f25a39800b9f343</id>
-        <link href="https://news.yahoo.co.jp/articles/acedfe0f0dab42583fbc8c5f5f25a39800b9f343"/>
-        <updated>2021-08-12T23:30:24.000Z</updated>
-        <summary type="html"><![CDATA[菅総理は、海外メディアとのインタビューで、東京オリンピック開催の意義について「若者と子どもに夢や感動を与えたかった」と強調したうえで、一番気に入った競技にスケートボードを挙げました。 アメリカの「ニューズウィーク」誌による菅総理へのインタビューは、オリンピック期間中の先月２９日に行われました。この...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[最大9次下請け、564社関与　持続化給付金「中抜き」批判の電通再委託問題　経産省が検査の最終結果公表：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/123804</id>
         <link href="https://www.tokyo-np.co.jp/article/123804"/>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DaiGoの優生思想発言が炎上か]]></title>
-        <id>https://anond.hatelabo.jp/20210813061230</id>
-        <link href="https://anond.hatelabo.jp/20210813061230"/>
-        <updated>2021-08-12T21:32:19.000Z</updated>
-        <summary type="html"><![CDATA[ま、炎上するだろうな、という内容だし、再生数ふえれば稼げるという意味では炎上商法というのも正しいのだろうけど。 「優生思想」が歴史的に、倫理的に、科学的にNGだとしても、そういう思想をもつこと自体がNG？そこは自由？ 公で発言することがダメ？ 間違ったことを言ったら、弾圧されるって、実質的には、言論の自...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[伊勢丹新宿店が取引先の外部社員に、事実上の「PCR検査阻止令」の波紋 | Diamond Premium News | ダイヤモンド・オンライン]]></title>
         <id>https://diamond.jp/articles/-/279421</id>
         <link href="https://diamond.jp/articles/-/279421"/>
@@ -271,16 +281,6 @@
         <link href="https://yorozoonews.jp/article/14415456"/>
         <updated>2021-08-12T12:25:45.000Z</updated>
         <summary type="html"><![CDATA[映画監督で脚本家、俳優としても活躍するクエンティン・タランティーノ（５８）は、作家になる夢を応援してくれなかった母親に対し、今でも経済的な援助をしていないという。ハリウッドの大物監督の１人に数えられるタランティーノは、１２歳の時、来...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪反対派ってどこ行った？]]></title>
-        <id>https://anond.hatelabo.jp/20210812202705</id>
-        <link href="https://anond.hatelabo.jp/20210812202705"/>
-        <updated>2021-08-12T11:30:37.000Z</updated>
-        <summary type="html"><![CDATA[あれほど人流が増える！って発狂していた皆さんはどこへ行かれたのでしょう？ オリンピックは選手は選手村に隔離、メディアや関係やはホテルに隔離、公共の交通機関も利用禁止、対策済みのタクシーのみ可だったけど 全国から1万人くらい移動してきてる甲子園が絶賛開催中なのに、なんで中止を訴えないの？ 君らの存在の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

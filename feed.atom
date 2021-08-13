@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T10:13:13.356Z</id>
+    <id>urn:2021-08-13T11:09:59.179Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T10:13:13.356Z</updated>
+    <updated>2021-08-13T11:09:59.179Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -246,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「なんでシャチハタはダメなのに100均のハンコはOKなの？」→その答えは年月が経過するとわかってくる！ - Togetter]]></title>
-        <id>https://togetter.com/li/1758749</id>
-        <link href="https://togetter.com/li/1758749"/>
-        <updated>2021-08-12T16:45:17.000Z</updated>
-        <summary type="html"><![CDATA[ふろってぃ @furotty いまだ関東に馴れない関西人。二人育児ですが、ハンドメイドに夢中です。 ミシンソーイング つまみ細工 その他 ご心配をおかけしてましたが、保育士試験受かってます。時給がコンビニを越えたら保育士パートします。 ふろってぃ @furotty 元銀行員です。固い判子は一部が欠けても元のものと照合でき...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[メンタリストDaiGo氏、ホームレスの人への差別発言で「炎上」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210813/k00/00m/040/001000c</id>
         <link href="https://mainichi.jp/articles/20210813/k00/00m/040/001000c"/>
@@ -291,6 +281,16 @@
         <link href="https://anond.hatelabo.jp/20210812202705"/>
         <updated>2021-08-12T11:30:37.000Z</updated>
         <summary type="html"><![CDATA[あれほど人流が増える！って発狂していた皆さんはどこへ行かれたのでしょう？ オリンピックは選手は選手村に隔離、メディアや関係やはホテルに隔離、公共の交通機関も利用禁止、対策済みのタクシーのみ可だったけど 全国から1万人くらい移動してきてる甲子園が絶賛開催中なのに、なんで中止を訴えないの？ 君らの存在の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料で商用OK！筆記体フリーフォント10年分をまとめた秘密リスト - PhotoshopVIP]]></title>
+        <id>https://photoshopvip.net/130506</id>
+        <link href="https://photoshopvip.net/130506"/>
+        <updated>2021-08-12T09:43:53.000Z</updated>
+        <summary type="html"><![CDATA[「筆記体でかわいい、おしゃれなデザインにしたい」と思っていても、いざ文字を入力してみると「なんか思ってたのと違う」と感じたことはないでしょうか。また、お気に入りのフォントをやっと見つけたら個人利用のみだった、なんて経験も。 当ブログで10年以上に渡り、コツコツと集めてきたフォントのなかから、商用利用...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

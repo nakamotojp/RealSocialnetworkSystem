@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T13:18:06.096Z</id>
+    <id>urn:2021-08-13T14:11:06.964Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T13:18:06.096Z</updated>
+    <updated>2021-08-13T14:11:06.964Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[首相「世界で外出禁止に罰金かけても守られず」：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8F6SN0P8FULFA028.html</id>
+        <link href="https://www.asahi.com/articles/ASP8F6SN0P8FULFA028.html"/>
+        <updated>2021-08-13T12:10:07.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は13日、新型コロナウイルス対応にあたる関係閣僚との会議を官邸で開き、今後の対策などを協議した。会議後、記者団の取材に応じ、患者が酸素の投与が必要になった場合に対応する「酸素ステーション」を設置することなどを明らかにした。主なやりとりは次の通り。 ――東京都のコロナ感染者数が過去最多を更新し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活保護に払った税金が使われるの嫌だよね？]]></title>
+        <id>https://anond.hatelabo.jp/20210813194457</id>
+        <link href="https://anond.hatelabo.jp/20210813194457"/>
+        <updated>2021-08-13T10:47:30.000Z</updated>
+        <summary type="html"><![CDATA[DaiGoを擁護するわけじゃないけど、普通のサラリーマンはこういう気持ちあるよね？ 大半がセーフティネットがなんとか言ってて確かに自分がお世話になる可能性はあるよ ただそれとは別にタイトルみたいなことを思うのは普通じゃないかな だって朝から晩まで働いて手取り20万ない人からしたら生活保護取ってるやつムカつ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相、４カ月半休みなし　「疲れている」指摘も：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021081300881&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021081300881&amp;g=pol"/>
         <updated>2021-08-13T10:09:26.000Z</updated>
         <summary type="html"><![CDATA[菅首相、４カ月半休みなし　「疲れている」指摘も 2021年08月13日16時40分 大雨に関する関係閣僚会議で発言する菅義偉首相（左）＝１３日午前、首相官邸 菅義偉首相の連続執務日数が１３日で１３８日となった。首相周辺は「休むように言っている」と明かすが、首相は土日や祝日も首相公邸で新型コロナウイルス関係の会議...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乙女ゲームのロード画面では、“自分の映り込み”に配慮して黒背景を禁止する例があった。複数タイトルの検証によって見えてきた、没入感への配慮 | AUTOMATON]]></title>
+        <id>https://automaton-media.com/articles/newsjp/20210813-172284/</id>
+        <link href="https://automaton-media.com/articles/newsjp/20210813-172284/"/>
+        <updated>2021-08-13T09:46:43.000Z</updated>
+        <summary type="html"><![CDATA[日々ゲームを楽しむにあたって、“没入感”を大切にしているプレイヤーは少なくないだろう。しかし、どっぷりとゲームの世界観に浸りたくとも、ちょっとしたことで興をそがれてしまうことがある。よくある例が、「暗転した画面に自分の顔が映り込んでしまう」というものだ。画面がツルツルして反射しやすい、携帯ゲーム機...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +111,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210813/k10013199681000.html"/>
         <updated>2021-08-13T08:05:32.000Z</updated>
         <summary type="html"><![CDATA[急速な感染拡大について、東京都の小池知事は、記者会見で「最大級、災害級の危機を迎えている」と述べて、強い危機感を示したうえで、感染の抑え込みに向けて人の流れの5割削減を目指すとして、盆休みの帰省や旅行は「延期・中止などを『考えてください』でなく、諦めていただきたい」と述べました。 このなかで、小池...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB特集 演技なのか、ドキュメントなのか 世界を魅了!「濱口メソッド」 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210813/k10013195481000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210813/k10013195481000.html"/>
+        <updated>2021-08-13T07:51:44.000Z</updated>
+        <summary type="html"><![CDATA[その作品は、“まるでドキュメンタリーのような演技だ”と評されます。 ことしのカンヌ映画祭、「ドライブ・マイ・カー」で脚本賞を受賞した映画監督の濱口竜介さん。 ことしの世界3大映画祭のうち、2つの映画祭でそれぞれ別の作品が主要な賞を受賞、一躍世界に注目されています。 俳優の自然な演技を引き出す、「濱口メソ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,31 +206,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[金メダル選手を救った日本人女性　ジャマイカ観光省が旅行に招待「親切にはお返しを」（THE ANSWER） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/3a6a555eb1e869685781513078c5f03da0a34252</id>
-        <link href="https://news.yahoo.co.jp/articles/3a6a555eb1e869685781513078c5f03da0a34252"/>
-        <updated>2021-08-13T01:43:37.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪陸上男子110メートル障害の31歳ハンスル・パーチメント（ジャマイカ）は、準決勝でバスを間違えて違う会場に行ってしまったが、日本人女性の助けによって事なきを得た。結果的に金メダルを獲得。後日、感謝を伝えるために再会した秘話の反響が広がっている中、ジャマイカ観光省は女性を母国に招待したい意向を示...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「えっ？尾身会長逮捕!？」　誤解招いた見出し、どうすればよかったのか　記者が考えてみた｜岡田有花（ゆかたん）｜note]]></title>
+        <title type="html"><![CDATA[「えっ？尾身会長逮捕！？」　誤解招いた見出し、どうすればよかったのか　記者が考えてみた｜岡田有花（ゆかたん）｜note]]></title>
         <id>https://note.com/yukatan/n/nf6d98605f070</id>
         <link href="https://note.com/yukatan/n/nf6d98605f070"/>
         <updated>2021-08-13T01:27:45.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。ネット記者を20年近くやっている岡田有花と申します。記事の見出しをつけるのが好きです。見出しをつける専門の仕事もしています。 最近気になった見出しについて考えてみたいと思い、noteを書きました。 尾身会長が逮捕!？　誤解招いた見出し　今回題材にするのはNHKが8月12日に配信したこんな見出しの記事...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロニーを運営するガンダムゲームってないよな。 なんか畜産コロニーとか..]]></title>
-        <id>https://anond.hatelabo.jp/20210813083858</id>
-        <link href="https://anond.hatelabo.jp/20210813083858"/>
-        <updated>2021-08-13T01:09:55.000Z</updated>
-        <summary type="html"><![CDATA[コロニーを運営するガンダムゲームってないよな。 なんか畜産コロニーとかエネルギー開発コロニーとか観光コロニーとか組み合わせて発展したり 連邦との政治イベントで戦争に突入したりとか。 施策によってニュータイプ発生率が変わったりする。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[メンタリストDaiGo「ホームレスの命はどうでもいい」と差別発言。炎上後も「辛口だから」と言い訳（篠原修司） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/shinoharashuji/20210813-00252958</id>
-        <link href="https://news.yahoo.co.jp/byline/shinoharashuji/20210813-00252958"/>
-        <updated>2021-08-12T21:38:50.000Z</updated>
-        <summary type="html"><![CDATA[メンタリストDaiGo氏が「生活保護の人に食わせる金があるんだったら猫を救ってほしい」、「ホームレスの命はどうでもいい」、「邪魔だし」、「臭い」などといった差別的な発言をしたことがわかり、炎上しています。 切り抜き動画で差別発言が取り上げられる　問題となっているのは8月9日に公開された、切り抜きチャンネ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[伊勢丹新宿店が取引先の外部社員に、事実上の「PCR検査阻止令」の波紋 | Diamond Premium News | ダイヤモンド・オンライン]]></title>
         <id>https://diamond.jp/articles/-/279421</id>
         <link href="https://diamond.jp/articles/-/279421"/>
@@ -281,16 +291,6 @@
         <link href="https://yorozoonews.jp/article/14415456"/>
         <updated>2021-08-12T12:25:45.000Z</updated>
         <summary type="html"><![CDATA[映画監督で脚本家、俳優としても活躍するクエンティン・タランティーノ（５８）は、作家になる夢を応援してくれなかった母親に対し、今でも経済的な援助をしていないという。ハリウッドの大物監督の１人に数えられるタランティーノは、１２歳の時、来...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料で商用OK！筆記体フリーフォント10年分をまとめた秘密リスト - PhotoshopVIP]]></title>
-        <id>https://photoshopvip.net/130506</id>
-        <link href="https://photoshopvip.net/130506"/>
-        <updated>2021-08-12T09:43:53.000Z</updated>
-        <summary type="html"><![CDATA[「筆記体でかわいい、おしゃれなデザインにしたい」と思っていても、いざ文字を入力してみると「なんか思ってたのと違う」と感じたことはないでしょうか。また、お気に入りのフォントをやっと見つけたら個人利用のみだった、なんて経験も。 当ブログで10年以上に渡り、コツコツと集めてきたフォントのなかから、商用利用...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

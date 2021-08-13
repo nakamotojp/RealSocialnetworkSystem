@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T01:54:23.426Z</id>
+    <id>urn:2021-08-13T02:23:24.082Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T01:54:23.426Z</updated>
+    <updated>2021-08-13T02:23:24.082Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アニメ「Sonny Boy」の『難解』プログラムの解説 - まめめも]]></title>
+        <id>https://mametter.hatenablog.com/entry/2021/08/13/092312</id>
+        <link href="https://mametter.hatenablog.com/entry/2021/08/13/092312"/>
+        <updated>2021-08-13T01:01:27.000Z</updated>
+        <summary type="html"><![CDATA[『Sonny Boy』というアニメが放送されています。学校が異次元に漂流してしまい、超能力に目覚めた生徒たちがサバイバルしながら、さまざまな奇妙な現象の裏にあるルールを解き明かし、元の世界に変える方法を探す、というストーリーです。ルールが分かったあとで何度も見直したくなります。 anime.shochiku.co.jp さて今...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西村経済再生相が靖国神社に参拝 | 菅内閣 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210813/k10013198281000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210813/k10013198281000.html"/>
         <updated>2021-08-12T23:47:22.000Z</updated>
         <summary type="html"><![CDATA[15日の「終戦の日」を前に、西村経済再生担当大臣は13日午前、東京 九段の靖国神社に参拝しました。 西村経済再生担当大臣は13日午前8時ごろ、東京 九段の靖国神社に参拝しました。 参拝を終えたあと西村大臣は記者団に対し、私費で玉串料を納め「衆議院議員 西村康稔」と記帳したと説明し「ことしは終戦の日が日曜日で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相 五輪お気に入り競技は「スケートボード」開催意義強調（TBS系（JNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/acedfe0f0dab42583fbc8c5f5f25a39800b9f343</id>
+        <link href="https://news.yahoo.co.jp/articles/acedfe0f0dab42583fbc8c5f5f25a39800b9f343"/>
+        <updated>2021-08-12T23:30:24.000Z</updated>
+        <summary type="html"><![CDATA[菅総理は、海外メディアとのインタビューで、東京オリンピック開催の意義について「若者と子どもに夢や感動を与えたかった」と強調したうえで、一番気に入った競技にスケートボードを挙げました。 アメリカの「ニューズウィーク」誌による菅総理へのインタビューは、オリンピック期間中の先月２９日に行われました。この...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尾身会長「このままでは自宅療養中に亡くなるケース増える」 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210812/k10013197681000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210812/k10013197681000.html"/>
-        <updated>2021-08-12T10:09:32.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対策の政府分科会の尾身茂会長が12日、記者会見を開き「このままでは自宅療養中に亡くなるケースが増えてしまう」と述べ、この2週間で東京都などでは人出を7月前半に比べて最低でも5割減らすことが必要だとして協力を呼びかけました。 新型コロナウイルスの急激な感染拡大に歯止めをかける必要がある...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「便利すぎる」──GitHubから直接「Visual Studio Code」を起動できる新機能が話題に - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/12/news145.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/12/news145.html"/>
         <updated>2021-08-12T10:03:58.000Z</updated>
         <summary type="html"><![CDATA[法人向け料金は従量制で、計算に使用するCPUの性能と利用時間で変動する。最も安い2コアのCPUを使う場合は1時間で0.18ドル（約20円）。使用したデータの容量1GB当たり0.07ドル（約7円）も月額で別途請求する。 Visual Studio Codeは米Microsoftが手掛けるソースコードエディタ。Microsoftは2018年にGitHubを買収した。 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河村氏「申し訳にゃあと言うしかないでしょう」会見詳報 - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8D5DWHP8DOIPE00Q.html</id>
-        <link href="https://www.asahi.com/articles/ASP8D5DWHP8DOIPE00Q.html"/>
-        <updated>2021-08-12T08:06:01.000Z</updated>
-        <summary type="html"><![CDATA[河村たかし・名古屋市長がかじった東京五輪ソフトボール選手の金メダルを国際オリンピック委員会（IOC）などが交換する方針であることが明らかになったことを受け、12日に河村市長が記者会見した。市長の発言と報道陣との主なやりとりは、以下の通り。 「報道がございましたけど、まああの、基本的に、行き過ぎた発言が...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

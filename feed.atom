@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T17:17:27.310Z</id>
+    <id>urn:2021-08-13T18:14:20.772Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T17:17:27.310Z</updated>
+    <updated>2021-08-13T18:14:20.772Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://nordot.app/798910356550631424"/>
         <updated>2021-08-13T13:57:46.000Z</updated>
         <summary type="html"><![CDATA[JR東日本東京支社は13日、渋谷駅の改札やみどりの窓口などで働く駅員12人が新型コロナウイルスに感染したと発表した。重症者はいない。感染判明を受け、駅で乗客が触れる可能性のある場所は消毒を済ませた。 東京支社によると、12人は20～50代の男女で、7月27日～8月12日に感染が判明した。感染経路は不明という。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アイスホッケー大会でクラスター　90人感染　PCR検査実施せず | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210813/k00/00m/040/282000c</id>
+        <link href="https://mainichi.jp/articles/20210813/k00/00m/040/282000c"/>
+        <updated>2021-08-13T13:37:54.000Z</updated>
+        <summary type="html"><![CDATA[北海道苫小牧市で8日まで開催されていた「第16回全国高校選抜アイスホッケー大会」で、道内外の生徒ら90人の感染が13日までに判明し、大規模クラスター（感染者集団）となっている。国は緊急事態宣言地域と往来する際のPCR検査を求めているが、大会では実施していなかった。関係者を含めると参加者は全国26チームの約100...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +41,16 @@
         <link href="https://www.asahi.com/articles/ASP8F6SN0P8FULFA028.html"/>
         <updated>2021-08-13T12:10:07.000Z</updated>
         <summary type="html"><![CDATA[菅義偉首相は13日、新型コロナウイルス対応にあたる関係閣僚との会議を官邸で開き、今後の対策などを協議した。会議後、記者団の取材に応じ、患者が酸素の投与が必要になった場合に対応する「酸素ステーション」を設置することなどを明らかにした。主なやりとりは次の通り。 ――東京都のコロナ感染者数が過去最多を更新し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビックカメラ、希望者全員への職域接種を完了　社員や取引先など約1万7500人 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/13/news141.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/13/news141.html"/>
+        <updated>2021-08-13T10:58:08.000Z</updated>
+        <summary type="html"><![CDATA[ビックカメラが、グループ社員を対象とした、新型コロナウイルスワクチンの職域接種を終えたと発表した。社員に加えてその家族など約1万7500人に接種したという。 ビックカメラは8月13日、コジマなどグループ社員を対象とした、新型コロナウイルスワクチンの職域接種を終えたと発表した。社員に加えてその家族、取引先企...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,26 +241,6 @@
         <link href="https://twitter.com/MHLWitter/status/1426027902810804229"/>
         <updated>2021-08-13T04:04:07.000Z</updated>
         <summary type="html"><![CDATA[【生活保護を申請したい方へ】 「生活保護の申請は国民の権利です。」 生活保護を必要とする可能性はどなたにもあるものですので、ためらわずにご相談ください。相談先は、お住まいの自治体の福祉事務所までご連絡をお願いします。 https://t.co/yKdp1sjS0b]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未解決殺人事件で逮捕続々　中国、｢全員PCR｣で判明：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8D7D7WP8DUHBI01N.html</id>
-        <link href="https://www.asahi.com/articles/ASP8D7D7WP8DUHBI01N.html"/>
-        <updated>2021-08-13T02:32:08.000Z</updated>
-        <summary type="html"><![CDATA[中国各地の都市で、全住民を対象にしたPCR検査の過程で指名手配中の容疑者の所在が判明するケースが相次いでいる。20年以上も逃走を続けていた容疑者が遠く離れた街で逮捕されることもあり、徹底したコロナ対策が「コールドケース（未解決事件）」の捜査に寄与した形だ。 中国メディアによると、湖北省の荊門市沙洋県で9...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「えっ？尾身会長逮捕！？」　誤解招いた見出し、どうすればよかったのか　記者が考えてみた｜岡田有花（ゆかたん）｜note]]></title>
-        <id>https://note.com/yukatan/n/nf6d98605f070</id>
-        <link href="https://note.com/yukatan/n/nf6d98605f070"/>
-        <updated>2021-08-13T01:27:45.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ネット記者を20年近くやっている岡田有花と申します。記事の見出しをつけるのが好きです。見出しをつける専門の仕事もしています。 最近気になった見出しについて考えてみたいと思い、noteを書きました。 尾身会長が逮捕!？　誤解招いた見出し　今回題材にするのはNHKが8月12日に配信したこんな見出しの記事...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

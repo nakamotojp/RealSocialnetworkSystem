@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-14T03:13:14.880Z</id>
+    <id>urn:2021-08-14T04:15:00.543Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T03:13:14.880Z</updated>
+    <updated>2021-08-14T04:15:00.543Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[大木聖子 on Twitter: "前段として「埼玉のチームで4人の感染が判明した後、体調不良の人がいたにもかかわらず、対戦相手に体調不良者がいなかったということで、そのまま大会を続行」というのがあって、その後PCRして90人特定したもののPCR拒否の団体もあり、現… https://t.co/WfFgwa7nJH"]]></title>
+        <id>https://twitter.com/toko311/status/1426314202658983940</id>
+        <link href="https://twitter.com/toko311/status/1426314202658983940"/>
+        <updated>2021-08-14T01:04:56.000Z</updated>
+        <summary type="html"><![CDATA[前段として「埼玉のチームで4人の感染が判明した後、体調不良の人がいたにもかかわらず、対戦相手に体調不良者がいなかったということで、そのまま大会を続行」というのがあって、その後PCRして90人特定したもののPCR拒否の団体もあり、現… https://t.co/WfFgwa7nJH]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[篠原かをり on Twitter: "SFC在学中、夏野剛さんとDaiGoさんの授業を受けたことがあるんだけど、学問に対する不誠実さと互いの褒め合いと言ってはいけないことを言う自分に対する恍惚のみで構成されていて、全授業中ぶっちぎりで聞くのがツラい授業だった"]]></title>
         <id>https://twitter.com/koyomi54334/status/1426314304110821378</id>
@@ -126,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MACARIN ※フォローしないで on Twitter: "有本さんが「外国勢に買われた山の上」だと言ってるこの写真の場所が、富良野の北星山展望台だと指摘されていたので、果たして本当かどうか北星山展望台の同じ場所・同じアングルの写真(右)を探してきて並べてみたら一致したわ。有本さん、ここ富… https://t.co/9cGqx6s6Fl"]]></title>
+        <id>https://twitter.com/chihihirokota/status/1425301652811051012</id>
+        <link href="https://twitter.com/chihihirokota/status/1425301652811051012"/>
+        <updated>2021-08-13T14:52:29.000Z</updated>
+        <summary type="html"><![CDATA[有本さんが「外国勢に買われた山の上」だと言ってるこの写真の場所が、富良野の北星山展望台だと指摘されていたので、果たして本当かどうか北星山展望台の同じ場所・同じアングルの写真(右)を探してきて並べてみたら一致したわ。有本さん、ここ富… https://t.co/9cGqx6s6Fl]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[手乗りロボット「ｽﾀｯｸﾁｬﾝ」を作ってみた - Togetter]]></title>
         <id>https://togetter.com/li/1759098</id>
         <link href="https://togetter.com/li/1759098"/>
@@ -221,26 +241,6 @@
         <link href="https://www.tokyo-sports.co.jp/entame/news/3520582/"/>
         <updated>2021-08-13T12:27:14.000Z</updated>
         <summary type="html"><![CDATA[メンタリストＤａｉＧｏ 社会的弱者に対する差別発言で大炎上中のメンタリストＤａｉＧｏの過去の発言に注目が集まっている。 ＤａｉＧｏは７日、自身のユーチューブチャンネルで行った生配信で「生活保護の人たちを食わせる金があるんだったら猫を救って欲しい」「ホームレスの命はどうでもいい」「邪魔だし、プラスに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首相「世界で外出禁止に罰金かけても守られず」：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8F6SN0P8FULFA028.html</id>
-        <link href="https://www.asahi.com/articles/ASP8F6SN0P8FULFA028.html"/>
-        <updated>2021-08-13T12:10:07.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は13日、新型コロナウイルス対応にあたる関係閣僚との会議を官邸で開き、今後の対策などを協議した。会議後、記者団の取材に応じ、患者が酸素の投与が必要になった場合に対応する「酸素ステーション」を設置することなどを明らかにした。主なやりとりは次の通り。 ――東京都のコロナ感染者数が過去最多を更新し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バスを間違えた五輪選手を救ったティヤナさんが語る。競技に出られなければ「一生後悔させてしまう」 | ハフポスト]]></title>
-        <id>https://www.huffingtonpost.jp/entry/trijana_jp_61164842e4b07b9118a9de85</id>
-        <link href="https://www.huffingtonpost.jp/entry/trijana_jp_61164842e4b07b9118a9de85"/>
-        <updated>2021-08-13T12:06:05.000Z</updated>
-        <summary type="html"><![CDATA[ハフポスト日本版は、ティヤナさんにパーチメント選手との交流について聞いた。 日本とセルビアにルーツがあるというティヤナさんによると、正確には「ボランティア」ではなく、大会関係スタッフだった。大会関係者のバス輸送を担当する近畿日本ツーリストの委託業者だったという。 ティヤナさんは、タクシーの手配は組...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

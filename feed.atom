@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-14T05:10:08.238Z</id>
+    <id>urn:2021-08-14T06:14:39.549Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T05:10:08.238Z</updated>
+    <updated>2021-08-14T06:14:39.549Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://news.denfaminicogamer.jp/interview/210814a"/>
         <updated>2021-08-14T03:15:37.000Z</updated>
         <summary type="html"><![CDATA[坂口博信氏率いるミストウォーカーによるApple Arcade向け完全新作RPGゲーム『FANTASIAN』（ファンタジアン）。“古き良き”RPGのスタイルを踏襲しながらも、背景をジオラマで表現するといった新しい試みに挑戦するなど、懐かしさと目新しさが同居するユニークな作品に仕上がっている。 2021年4月にまずは前半部分（それで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AVで見た人だ！」通行女性に叫ぶ　罰ゲーム企画に批判、YouTuberが謝罪「いけないことだと分からなかった」: J-CAST ニュース【全文表示】]]></title>
+        <id>https://www.j-cast.com/2021/08/14418163.html?p=all</id>
+        <link href="https://www.j-cast.com/2021/08/14418163.html?p=all"/>
+        <updated>2021-08-14T02:38:37.000Z</updated>
+        <summary type="html"><![CDATA[「Pornhub（アダルトサイト）に出てた人や！」――。街中で見ず知らずの一般女性を指し、このように叫ぶ迷惑行為に及ぶ動画を投稿したYouTuberグループが、批判が相次いだことを受けて謝罪動画を公開した。 声掛けした女性へのモザイク処理なしで動画を公開 騒動を起こしたYouTuberは、大阪・難波を拠点に活動する「おこさ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[アイスホッケー大会でクラスター　90人感染　PCR検査実施せず | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210813/k00/00m/040/282000c</id>
-        <link href="https://mainichi.jp/articles/20210813/k00/00m/040/282000c"/>
-        <updated>2021-08-13T13:37:54.000Z</updated>
-        <summary type="html"><![CDATA[北海道苫小牧市で8日まで開催されていた「第16回全国高校選抜アイスホッケー大会」で、道内外の生徒ら90人の感染が13日までに判明し、大規模クラスター（感染者集団）となっている。国は緊急事態宣言地域と往来する際のPCR検査を求めているが、大会では実施していなかった。関係者を含めると参加者は全国26チームの約100...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[メンタリストDaiGo氏が差別発言を謝罪「無知が招いた失態」 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210813/k00/00m/040/286000c</id>
         <link href="https://mainichi.jp/articles/20210813/k00/00m/040/286000c"/>
@@ -256,21 +256,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[炎上のメンタリストDaiGo、生配信で謝罪「今までで一番良くないことをした」　動画広告の収益は全額寄付へ（よろず～ニュース） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/a4a7c1db1d126eab0f07e609d99dd881a808a58e</id>
-        <link href="https://news.yahoo.co.jp/articles/a4a7c1db1d126eab0f07e609d99dd881a808a58e"/>
-        <updated>2021-08-13T13:29:05.000Z</updated>
-        <summary type="html"><![CDATA[メンタリストのＤａｉＧｏが１３日、自身の公式ＹｏｕＴｕｂｅチャンネルで生配信を実施。７日に配信した動画で、ホームレス生活者や生活保護者の命を軽視するような発言を行ったことについて、「この度は大変申]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ＤａｉＧｏ「ＩＱが低い人ほど差別的な発言をする」 過去発言でブーメラン現象 | 東スポのニュースに関するニュースを掲載]]></title>
         <id>https://www.tokyo-sports.co.jp/entame/news/3520582/</id>
         <link href="https://www.tokyo-sports.co.jp/entame/news/3520582/"/>
         <updated>2021-08-13T12:27:14.000Z</updated>
         <summary type="html"><![CDATA[メンタリストＤａｉＧｏ 社会的弱者に対する差別発言で大炎上中のメンタリストＤａｉＧｏの過去の発言に注目が集まっている。 ＤａｉＧｏは７日、自身のユーチューブチャンネルで行った生配信で「生活保護の人たちを食わせる金があるんだったら猫を救って欲しい」「ホームレスの命はどうでもいい」「邪魔だし、プラスに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【インタビュー】漫画『乙嫁語り』森 薫×大場 渉（前編）／〆切を第一に考える漫画家は、結局はダメになってしまう - ライブドアニュース]]></title>
+        <id>https://news.livedoor.com/article/detail/20463829/</id>
+        <link href="https://news.livedoor.com/article/detail/20463829/"/>
+        <updated>2021-08-13T12:22:48.000Z</updated>
+        <summary type="html"><![CDATA[近年、右肩上がりの好調が続く漫画業界。漫画の制作現場にも注目が集まり、漫画家だけでなく編集者への関心も高まってきた。メディアでも編集者に関する記事を目にする機会が増え、ライブドアニュースでもこうした記事を掲載しては、大きな反響を集めている。 では、編集者は、何を考えて仕事をしているのか？ 漫画家は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

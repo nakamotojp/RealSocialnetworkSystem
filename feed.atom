@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-14T20:11:45.300Z</id>
+    <id>urn:2021-08-14T21:10:53.057Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T20:11:45.300Z</updated>
+    <updated>2021-08-14T21:10:53.057Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -208,6 +208,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[豪雨の度に水没していた“イオン小郡”が、独自の対策を重ね自衛隊並みのオペレーション力を鍛え上げた結果『モン・サン・オゴオリ』に進化したらしい - Togetter]]></title>
+        <id>https://togetter.com/li/1759475</id>
+        <link href="https://togetter.com/li/1759475"/>
+        <updated>2021-08-14T03:29:33.000Z</updated>
+        <summary type="html"><![CDATA[今日のむいむい @mui_king 豪雨のたびに水没していた小郡イオンが止水扉や防水壁を築き、水害時に超速で土嚢積み上げる自衛隊並みのオペレーション力を鍛え上げた結果、周辺が水没しても小郡イオンだけ生き残るようになったのを小郡市民が「モン・サン・オゴオリ」って言ってて爆笑した。 pic.twitter.com/EkI4EfRzp4 20...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[坂口博信×鳥嶋和彦 対談──31年前の出会いが『ファイナルファンタジー』を変え、『クロノ・トリガー』を生み出し、そして『ファンタジアン』という名の遺言が完成した]]></title>
         <id>https://news.denfaminicogamer.jp/interview/210814a</id>
         <link href="https://news.denfaminicogamer.jp/interview/210814a"/>
@@ -283,16 +293,6 @@
         <link href="https://news.tv-asahi.co.jp/news_society/articles/000225446.html"/>
         <updated>2021-08-13T22:23:22.000Z</updated>
         <summary type="html"><![CDATA[自宅療養が身近に迫る今、自分の身を守る術はあるのでしょうか。 都内で自宅療養を続けた物まね芸人のミカヅキ上田さん（33）。 先月、同居人が陽性となり、家庭内感染となりました。同居人の看病をしながらの療養。自分の身は自分で守らなければいけない現実に直面していました。 物まね芸人・ミカヅキ上田さん：「保健...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜ日本人はモデルナで発熱するのか…ファイザーの2～3倍　2回接種後に感染も：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/124060</id>
-        <link href="https://www.tokyo-np.co.jp/article/124060"/>
-        <updated>2021-08-13T22:07:18.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスワクチンの１回目を、国民の約半数が打ち終えた。データが蓄積され、米ファイザー製、米モデルナ製それぞれの特徴が見えてきた。厚生労働省の研究では、モデルナ接種後に発熱した人の割合はファイザー接種後の２～３倍に上ると判明。諸外国より突出して多く、日本特有の現象だ。２回のワクチン接種を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

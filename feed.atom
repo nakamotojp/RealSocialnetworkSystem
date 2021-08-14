@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-14T11:09:48.594Z</id>
+    <id>urn:2021-08-14T12:18:01.709Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T11:09:48.594Z</updated>
+    <updated>2021-08-14T12:18:01.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[メンタリストDaiGo on Twitter: "昨日の謝罪を撤回致します。 https://t.co/zp1XIQFoud"]]></title>
+        <id>https://twitter.com/Mentalist_DaiGo/status/1426475981624123393</id>
+        <link href="https://twitter.com/Mentalist_DaiGo/status/1426475981624123393"/>
+        <updated>2021-08-14T09:48:23.000Z</updated>
+        <summary type="html"><![CDATA[昨日の謝罪を撤回致します。 https://t.co/zp1XIQFoud]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナはいつまで人にうつる？新型コロナから回復し退院・療養解除となった人から感染する心配はない？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210814-00253213</id>
@@ -156,6 +166,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[システムの応答速度は本質的な価値提供であることを示す A/B テストの実例 | Shunya Ueta]]></title>
+        <id>https://shunyaueta.com/posts/2021-08-13/</id>
+        <link href="https://shunyaueta.com/posts/2021-08-13/"/>
+        <updated>2021-08-13T22:42:58.000Z</updated>
+        <summary type="html"><![CDATA[内容システム提供において、基本的に高速であればあるほど顧客は嬉しいものだが、実際のところ高速なシステムを提供して、どの程度の価値が発生するのかが気になったので、調べてみた。 Three Challenges in Building Industrial-Scale Recommender Systems” - Keynote for ORSUM@RecSys’203rd Workshop on Online Recom...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[森喜朗前会長　五輪「大成功、見事にやり遂げた」…パラリンピック「子どもたちに会場で見せたいな」：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/124125</id>
         <link href="https://www.tokyo-np.co.jp/article/124125"/>
@@ -281,26 +301,6 @@
         <link href="https://news.livedoor.com/article/detail/20463829/"/>
         <updated>2021-08-13T12:22:48.000Z</updated>
         <summary type="html"><![CDATA[近年、右肩上がりの好調が続く漫画業界。漫画の制作現場にも注目が集まり、漫画家だけでなく編集者への関心も高まってきた。メディアでも編集者に関する記事を目にする機会が増え、ライブドアニュースでもこうした記事を掲載しては、大きな反響を集めている。 では、編集者は、何を考えて仕事をしているのか？ 漫画家は...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活保護に払った税金が使われるの嫌だよね？]]></title>
-        <id>https://anond.hatelabo.jp/20210813194457</id>
-        <link href="https://anond.hatelabo.jp/20210813194457"/>
-        <updated>2021-08-13T10:47:30.000Z</updated>
-        <summary type="html"><![CDATA[DaiGoを擁護するわけじゃないけど、普通のサラリーマンはこういう気持ちあるよね？ 大半がセーフティネットがなんとか言ってて確かに自分がお世話になる可能性はあるよ ただそれとは別にタイトルみたいなことを思うのは普通じゃないかな だって朝から晩まで働いて手取り20万ない人からしたら生活保護取ってるやつムカつ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB特集 演技なのか、ドキュメントなのか 世界を魅了!「濱口メソッド」 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210813/k10013195481000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210813/k10013195481000.html"/>
-        <updated>2021-08-13T07:51:44.000Z</updated>
-        <summary type="html"><![CDATA[その作品は、“まるでドキュメンタリーのような演技だ”と評されます。 ことしのカンヌ映画祭、「ドライブ・マイ・カー」で脚本賞を受賞した映画監督の濱口竜介さん。 ことしの世界3大映画祭のうち、2つの映画祭でそれぞれ別の作品が主要な賞を受賞、一躍世界に注目されています。 俳優の自然な演技を引き出す、「濱口メソ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

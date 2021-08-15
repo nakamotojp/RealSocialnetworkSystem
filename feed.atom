@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T11:09:31.093Z</id>
+    <id>urn:2021-08-15T12:17:58.285Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T11:09:31.093Z</updated>
+    <updated>2021-08-15T12:17:58.285Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://news.denfaminicogamer.jp/kikakuthetower/210815z"/>
         <updated>2021-08-15T10:17:29.000Z</updated>
         <summary type="html"><![CDATA[伝説の『リングフィット』RTAを披露し同接18万人を記録した「えぬわたさん」インタビュー。28時間を掛け「100％」クリアを達成した男は、骨と皮の子ども時代から筋肉とゲームへの愛を貫く もはやゲーマーの間ではひとつの文化として定着しつつある「リアル・タイム・アタック」こと「RTA」。国内最大のイベント「RTA in ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[タリバーンへの「権力移行」 アフガン政府が認める声明：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8H65CCP8HUHBI01H.html</id>
+        <link href="https://www.asahi.com/articles/ASP8H65CCP8HUHBI01H.html"/>
+        <updated>2021-08-15T10:05:49.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンのアブドゥル・サタール・ミルザクワル内務相代行は15日午後、ビデオ声明で国民に対し、「権力の移行は平和裏に進む」との見方を明らかにした。政府側が「権力の移行」を認めたのは、これが初めて。今後、タリバーン主導の国家運営が始まる見通しが強まった。 タリバーンは同日朝までに首都以外の全ての主...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアドキュメント作法 - maru source]]></title>
+        <id>https://blog.h13i32maru.jp/entry/2021/08/15/163619</id>
+        <link href="https://blog.h13i32maru.jp/entry/2021/08/15/163619"/>
+        <updated>2021-08-15T08:06:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは丸山@h13i32maruです。つい先日、devchat.fmというポッドキャストに出演して、「ドキュメント」というお題について話しました。なぜこんなニッチなお題について話したかというと、Ubie Discoveryに入社して5ヶ月の間にいくつか*1まとまったソフトウェアドキュメントを書いたので、自分の中でホットな話題だっ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[張本勲氏、生放送で入江聖奈への発言を謝罪「反省しています。以後、気を付けます」（スポーツ報知） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/74ded348bdd68f91d1552f4fceae9f1ed7e77adb</id>
-        <link href="https://news.yahoo.co.jp/articles/74ded348bdd68f91d1552f4fceae9f1ed7e77adb"/>
-        <updated>2021-08-15T00:22:09.000Z</updated>
-        <summary type="html"><![CDATA[野球評論家の張本勲氏が１５日、ＴＢＳ系「サンデーモーニング」（日曜・午前８時）にリモート生出演した。 張本氏は、先週放送の同番組で東京五輪女子フェザー級で金メダルを獲得した入江聖奈について「女性でも殴り合いが好きな人がいるんだね。見ててどうするのかな？嫁入り前のお嬢ちゃんが顔を殴り合ってね。こんな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大好きなおじいちゃんが「戦争犯罪人」だった？　高2の夏に知った祖父の過去（小暮 聡子） | FRaU]]></title>
         <id>https://gendai.ismedia.jp/articles/-/86259</id>
         <link href="https://gendai.ismedia.jp/articles/-/86259"/>
@@ -241,16 +251,6 @@
         <link href="https://bunshun.jp/articles/-/47840?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=socialLink"/>
         <updated>2021-08-14T15:19:12.000Z</updated>
         <summary type="html"><![CDATA[プロとして「汚れを落とさない」選択をすることもある ――茂木さんはクリーニング店を経営されておられるのですよね。コロナで在宅ワークが進み、クリーニング業界は大変だとお聞きしています。 茂木貴史（以下、茂木）　かなり前から、エシカルファッションの浸透で毛皮や革製品の受注が減り、さらにウォッシャブルスー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetflixファンからNetflix Japanへ｜ISO｜note]]></title>
-        <id>https://note.com/iso_zin_/n/n968a8b6d7d7c</id>
-        <link href="https://note.com/iso_zin_/n/n968a8b6d7d7c"/>
-        <updated>2021-08-14T12:56:37.000Z</updated>
-        <summary type="html"><![CDATA[Netflixって最高ですよね。 自分は大袈裟じゃなく毎日暇さえあればNetflix作品をチェックしているNetflixの大大大ファンです。 『ミッチェル家とマシンの反乱』のような最高のエンタメ作品に夢中になったり、『みんなのアメリカ 〜私たちが社会をつくる〜』で政治や人権について学んだり、『ヘッドスペースの安らぎガイ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

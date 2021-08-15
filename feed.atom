@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T22:11:47.878Z</id>
+    <id>urn:2021-08-15T23:12:17.086Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T22:11:47.878Z</updated>
+    <updated>2021-08-15T23:12:17.086Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[学校給食費を横領しつつ値上げを要求した非常識 - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210815-5KMIGTJYLRP5VFKTGDIRGJN7TM/</id>
+        <link href="https://www.sankei.com/article/20210815-5KMIGTJYLRP5VFKTGDIRGJN7TM/"/>
+        <updated>2021-08-15T20:18:31.000Z</updated>
+        <summary type="html"><![CDATA[記者会見する植田篤司教育長（左）と東修平市長＝７月７日、大阪府四條畷市役所給食費の値上げは妥当だったか。大阪府四條畷市の学校給食センター元所長が今年７月、小中学生の保護者から預かる学校給食会計の口座から計約１４５０万円を横領した罪などで大阪地裁に起訴された。元所長の在任中、市の学校給食の会計は３...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[札幌 「第4波」で人工透析患者118人がコロナ感染 半数余が死亡 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210816/k10013204791000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210816/k10013204791000.html"/>
+        <updated>2021-08-15T19:53:37.000Z</updated>
+        <summary type="html"><![CDATA[ことし春以降の新型コロナウイルスの感染の「第4波」で、札幌市では人工透析を受けている患者118人が感染し、半数余りの53％の人が死亡していたことが市の調べでわかりました。当時はワクチン接種が進んでおらず、高齢の患者が多く入院していた病院でクラスターが相次いだことが背景にありますが、専門家は若い世代の患...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アフガニスタン反政府武装勢力 タリバン首都進攻 大統領は出国 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210816/k10013204961000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210816/k10013204961000.html"/>
+        <updated>2021-08-15T16:15:29.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンでは反政府武装勢力タリバンが各地の主要都市を制圧し、15日、首都カブールに進攻しました。 ガニ大統領は出国し、地元メディアは政権が事実上、崩壊したと伝えています。 地元メディア“政権が事実上崩壊” アフガニスタンでは治安を担ってきたアメリカ軍が今月末までに撤退を進める中、反政府武装勢力タリ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEがオープンソースで「LINE FIDO2 Server」公開。パスワード不要でログインできる「FIDO2/WebAuthn」を実現 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html</id>
+        <link href="https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html"/>
+        <updated>2021-08-15T15:43:03.000Z</updated>
+        <summary type="html"><![CDATA[LINEがオープンソースで「LINE FIDO2 Server」公開。パスワード不要でログインできる「FIDO2/WebAuthn」を実現 LINEは、スマートフォンやPCの指紋認証や顔認証などを用いることでパスワード不要でログイン処理を可能にする標準技術「FIDO2」や「WebAuhn」に対応したサーバ「LINE FIDO2 Server」をオープンソースで公開し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エンドロールは終わらない - Fuki | 少年ジャンプ＋]]></title>
         <id>https://shonenjumpplus.com/episode/3269754496443692754</id>
@@ -26,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[立憲・枝野代表、コロナ与野党政治休戦「そういう状況」：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8H7K2GP8HUTFK00H.html</id>
+        <link href="https://www.asahi.com/articles/ASP8H7K2GP8HUTFK00H.html"/>
+        <updated>2021-08-15T15:02:26.000Z</updated>
+        <summary type="html"><![CDATA[枝野幸男・立憲民主党代表（発言録）　（感染拡大が深刻化する新型コロナウイルスの対策に集中するために）東京の何人かの首長さんが、「もう与野党、政治休戦をして何とかしろ」という提言を先週出されています。私もそういう状況じゃないかと思っています。 くしくも今日は8月15日だが、76年前の日本に近い状態で、そ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RTA in JAPANを見て田口尚平に絶対に騙されないでほしい話 - chomoshのブログ]]></title>
         <id>https://chomosh.hatenablog.com/entry/2021/08/15/230138</id>
         <link href="https://chomosh.hatenablog.com/entry/2021/08/15/230138"/>
@@ -36,7 +86,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[臨死のうみちゃん@コラボちゅう！ on Twitter: "勉強になるなぁ… https://t.co/2LIV2fbYAN"]]></title>
+        <title type="html"><![CDATA[若くてかわいい女に教わって下瞼に粘膜ラインを入れたら白目がピカピカになった「中年に意味あるメイクだった」 - Togetter]]></title>
+        <id>https://togetter.com/li/1760353</id>
+        <link href="https://togetter.com/li/1760353"/>
+        <updated>2021-08-15T14:21:31.000Z</updated>
+        <summary type="html"><![CDATA[こじま @801_CHAN こないだ若くてかわいい女に「下瞼のまつげの内側に赤で粘膜ライン入れるのって、白目の色がきれいに見えるから30代40代の方が意味があるんですよ」と教えられたので、老いては子に従えの精神でやってみたら白目がピカピカになったので続けていきますね…… 2021-08-12 14:57:44 こじま @801_CHAN さらに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[臨死のうみちゃん on Twitter: "勉強になるなぁ… https://t.co/2LIV2fbYAN"]]></title>
         <id>https://twitter.com/umiuminemui/status/1426891746487586817</id>
         <link href="https://twitter.com/umiuminemui/status/1426891746487586817"/>
         <updated>2021-08-15T14:16:17.000Z</updated>
@@ -91,16 +151,6 @@
         <link href="https://anond.hatelabo.jp/20210815211223"/>
         <updated>2021-08-15T12:17:34.000Z</updated>
         <summary type="html"><![CDATA[住人（特に持ち家をもっている人）にとって、洪水は水がひいてからが真の戦いになる。 うちは避難所ではなく自宅２階に避難した。周囲が3mの水深、床上1.5mの浸水。今回は自宅避難メインで災害後にやったことを記録しておく。 被災後は呆然としてしまう。頭がまっしろになって、なにから手を付けたらいいかわからなくな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#しんどい君へ】美輪明宏さん　原爆、路上生活、LGBT偏見…波乱の人生　苦境こそ「ルンルン」（読売新聞オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/42cc1efa96d6a5ee643bba704183d07634661b5e</id>
-        <link href="https://news.yahoo.co.jp/articles/42cc1efa96d6a5ee643bba704183d07634661b5e"/>
-        <updated>2021-08-15T11:36:32.000Z</updated>
-        <summary type="html"><![CDATA[歌手、俳優　美輪明宏さん　86　昨年、自殺した未成年者は777人と4年連続で増加した。新型コロナの感染拡大もあり、若者を取り巻く環境は厳しさを増している。時には罵声を浴び、石を投げつけられた――。LGBTへの偏見とずっと闘ってきたという美輪明宏さんは、「もし差別やいじめを受け、悪口に苦しんでいても、相手と同...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,61 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 東京都「ワクチン接種促進に10億用意しました。広告に7.5億円、アプリ開発に2.5億円」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009830.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009830.html"/>
-        <updated>2021-08-15T03:39:57.000Z</updated>
-        <summary type="html"><![CDATA[東京都「ワクチン接種促進に10億用意しました。広告に7.5億円、アプリ開発に2.5億円」 1 名前：カウロバクター(東京都) [GB]：2021/08/15(日) 08:23:59.20 ID:2tTfneJH0 東京都は若者のワクチン接種を促進するために、接種記録を読み込み、接種済みの人が店舗で割引を受けられたりするアプリを開発すると発表しました。 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コナミの「BEMANI特許」とは何だったのか 失効から3年のいま振り返る、近代音楽ゲームの基本特許]]></title>
-        <id>https://jp.ign.com/games/53876/opinion/bemani-3</id>
-        <link href="https://jp.ign.com/games/53876/opinion/bemani-3"/>
-        <updated>2021-08-15T02:55:04.000Z</updated>
-        <summary type="html"><![CDATA[BEMANI特許（あるいはビートマニア特許）と俗称される特許がある。コナミ（現・コナミアミューズメント）が1997年にリリースし、音楽ゲームブームの基礎となった「beatmania」の基本システムを請求、コナミがBEMANIブランドで展開する音楽ゲームビジネスの柱の一つとなっていた、日本国特許第2922509号のことだ。 この特...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[なぜタリバンはこれほど急進撃しているのか　アフガニスタン - BBCニュース]]></title>
         <id>https://www.bbc.com/japanese/features-and-analysis-58219196</id>
         <link href="https://www.bbc.com/japanese/features-and-analysis-58219196"/>
         <updated>2021-08-15T02:21:38.000Z</updated>
         <summary type="html"><![CDATA[画像説明, タリバンの兵力は推定6万人ともされる。写真は東部ガズニ州の州都ガズニに入ったタリバン戦闘員 アフガニスタンで反政府勢力タリバンが急進撃を続けている。その速度は大勢の意表を突くほどのもので、今や各地の州都がドミノのように次々とタリバンの支配下に入っている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地方公務員の給与「月31万円」、退職金も「すごい額」…露わになる「官民格差」の悲惨 | 富裕層向け資産防衛メディア | 幻冬舎ゴールドオンライン]]></title>
-        <id>https://gentosha-go.com/articles/-/36399</id>
-        <link href="https://gentosha-go.com/articles/-/36399"/>
-        <updated>2021-08-15T02:06:58.000Z</updated>
-        <summary type="html"><![CDATA[（※写真はイメージです／PIXTA） 総務省『地方公務員給与実態調査結果』（令和2年）より、公務員の給与事情について見ていきます。はたして、月いくらもらっているのでしょうか。 地方公務員の平均給与はいくら？ 地方公務員の平均給与はいくらなのでしょうか。 ■平均給料は 職種別にみると、一般行政職（いわゆる役所勤...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちゃーちゃん＠中受2023&2026 on Twitter: "#許せないことは許さなくていい 同級生男の子ママから相談 息子が給食のカレーをこぼして女の子の服にかけてしまった。帰りが遅いので学校に行ったら必死で洗っていたとのこと。泣きながらママごめんと。先生と相手の親に許可を取り持ち帰って色々な方法を試みたけど取れない。"]]></title>
-        <id>https://twitter.com/umatoritora/status/1426059509873610754</id>
-        <link href="https://twitter.com/umatoritora/status/1426059509873610754"/>
-        <updated>2021-08-15T00:57:05.000Z</updated>
-        <summary type="html"><![CDATA[#許せないことは許さなくていい 同級生男の子ママから相談 息子が給食のカレーをこぼして女の子の服にかけてしまった。帰りが遅いので学校に行ったら必死で洗っていたとのこと。泣きながらママごめんと。先生と相手の親に許可を取り持ち帰って色々な方法を試みたけど取れない。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野田聖子の夫は「元暴力団員」と裁判所が認定　約10年間組員として活動【上半期ベスト15】（デイリー新潮） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/ddb75c28c928f609b50daa5c8c3ddc37ee513e33</id>
-        <link href="https://news.yahoo.co.jp/articles/ddb75c28c928f609b50daa5c8c3ddc37ee513e33"/>
-        <updated>2021-08-14T23:34:03.000Z</updated>
-        <summary type="html"><![CDATA[今年4月21日、東京地裁で、野田聖子元総務相（60）の夫・文信氏（54）が本誌（「週刊新潮」）を訴えた裁判の判決が言い渡された。結果は文信氏側の請求棄却。さらに文信氏が「反社会的勢力」に属していたことを裁判所が認めるという、異例の認定が下されたのだ。（以下は5月12日配信当時のもの） 【写真】野田聖子元総務...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

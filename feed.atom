@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T08:13:21.562Z</id>
+    <id>urn:2021-08-15T09:12:11.436Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T08:13:21.562Z</updated>
+    <updated>2021-08-15T09:12:11.436Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 コロナ 3人死亡 4295人感染確認 重症者6日連続最多更新 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210815/k10013204361000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210815/k10013204361000.html"/>
+        <updated>2021-08-15T07:50:01.000Z</updated>
+        <summary type="html"><![CDATA[東京都内では、15日、日曜日としてはこれまでで最も多い4295人が新型コロナウイルスに感染していることが確認されました。 都の基準で集計した重症の患者は250人を超えて251人となり、過去最多を更新しました。 また、都は、感染が確認された50代と80代の男女3人が死亡したことを明らかにしました。 東京都は、15日、都...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 東京都「ワクチン接種促進に10億用意しました。広告に7.5億円、アプリ開発に2.5億円」 - ライブドアブログ]]></title>
         <id>http://blog.livedoor.jp/dqnplus/archives/2009830.html</id>
@@ -231,16 +241,6 @@
         <link href="https://news.yahoo.co.jp/articles/97589ccbbdb7315654c8f930d48c98984594f4ee"/>
         <updated>2021-08-14T13:11:39.000Z</updated>
         <summary type="html"><![CDATA[ラーメン単品は850円（税込み）。スープは、“義兄弟店”の東京・新橋「炭火焼濃厚中華そば　倫道」の味がベースになっている。「鯖」のほか、「鰯」「海老（あまえび）」「鮭」「烏賊（するめいか）」の5種類のスープで展開 東京・神田に炭火焼きの魚や海鮮でスープをとった珍しいタイプのラーメン店「炭火焼濃厚中華そば...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「トランスジェンダー選手を批判する人はそもそも女性アスリートの不平等について気にもしていない」女子重量挙げ選手の訴えに共感の嵐]]></title>
-        <id>https://www.ellegirl.jp/sports/athletes/a37239667/laurel-hubbard-laura-mariel-21-0812/</id>
-        <link href="https://www.ellegirl.jp/sports/athletes/a37239667/laurel-hubbard-laura-mariel-21-0812/"/>
-        <updated>2021-08-14T13:04:18.000Z</updated>
-        <summary type="html"><![CDATA[ハバード選手のオリンピック出場については、世界中でさまざまな議論が巻き起こった。2013年まで男性として重量挙げの試合に出場していたハバード選手は、その後性別適合手術を受け、女子選手として復帰。国際オリンピック委員会（IOC）によるトランスジェンダーのアスリートに関する規定をクリアしていることから「ハバ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T06:14:48.081Z</id>
+    <id>urn:2021-08-15T07:11:22.659Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T06:14:48.081Z</updated>
+    <updated>2021-08-15T07:11:22.659Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://twitter.com/37_2_le_matin/status/1426734427900506117"/>
         <updated>2021-08-15T02:59:47.000Z</updated>
         <summary type="html"><![CDATA[靖国絵馬に変化があった。自殺した俳優の陰謀論が9割を占めている。なんなんだこれ。 https://t.co/nUbW8P5gXQ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コナミの「BEMANI特許」とは何だったのか 失効から3年のいま振り返る、近代音楽ゲームの基本特許]]></title>
+        <id>https://jp.ign.com/games/53876/opinion/bemani-3</id>
+        <link href="https://jp.ign.com/games/53876/opinion/bemani-3"/>
+        <updated>2021-08-15T02:55:04.000Z</updated>
+        <summary type="html"><![CDATA[BEMANI特許（あるいはビートマニア特許）と俗称される特許がある。コナミ（現・コナミアミューズメント）が1997年にリリースし、音楽ゲームブームの基礎となった「beatmania」の基本システムを請求、コナミがBEMANIブランドで展開する音楽ゲームビジネスの柱の一つとなっていた、日本国特許第2922509号のことだ。 この特...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -71,6 +81,16 @@
         <link href="https://news.yahoo.co.jp/articles/74ded348bdd68f91d1552f4fceae9f1ed7e77adb"/>
         <updated>2021-08-15T00:22:09.000Z</updated>
         <summary type="html"><![CDATA[野球評論家の張本勲氏が１５日、ＴＢＳ系「サンデーモーニング」（日曜・午前８時）にリモート生出演した。 張本氏は、先週放送の同番組で東京五輪女子フェザー級で金メダルを獲得した入江聖奈について「女性でも殴り合いが好きな人がいるんだね。見ててどうするのかな？嫁入り前のお嬢ちゃんが顔を殴り合ってね。こんな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大好きなおじいちゃんが「戦争犯罪人」だった？　高2の夏に知った祖父の過去（小暮 聡子） | FRaU]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/86259</id>
+        <link href="https://gendai.ismedia.jp/articles/-/86259"/>
+        <updated>2021-08-15T00:16:28.000Z</updated>
+        <summary type="html"><![CDATA[1945年8月15日。その前日に日本はポツダム宣言を受諾し、第二次世界大戦は実質的に終わった。この戦争で、世界中の人々が大切な家族や友人を失い、傷つき、その痛みは今もさまざまな形で残されている。 戦後76年になる今年、岩手県の釜石市郷土資料館である企画展が開催されている（緊急事態宣言により臨時休館中、宣言...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ドラマ「岸辺露伴は動かない」新作3エピソードが12月に放送決定！ゲストに内田理央ら - コミックナタリー]]></title>
-        <id>https://natalie.mu/comic/news/440892</id>
-        <link href="https://natalie.mu/comic/news/440892"/>
-        <updated>2021-08-14T16:31:48.000Z</updated>
-        <summary type="html"><![CDATA[2020年12月に高橋一生主演で初めて実写映像化された「岸辺露伴は動かない」。新作でも岸辺露伴役は引き続き高橋が、泉京香役は飯豊まりえが演じる。また第4話に笠松将、第5話に市川猿之助、第6話に内田理央がゲストで登場することも発表された。 「岸辺露伴は動かない」は「ジョジョの奇妙な冒険」シリーズに登場する、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[アルコール提供禁止の焼肉屋に現れた猛者集団のとった行動がマジでやばいエクストリーム飲酒…「理解できない」「これ見たことある」など - Togetter]]></title>
         <id>https://togetter.com/li/1759833</id>
         <link href="https://togetter.com/li/1759833"/>
@@ -171,16 +181,6 @@
         <link href="https://togetter.com/li/1759743"/>
         <updated>2021-08-14T15:42:44.000Z</updated>
         <summary type="html"><![CDATA[Bell @Bell29916308 小学3年生です。なかまのポケモンをたたかせることが好きです。大きくなったらもふもふの車になりたいです。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「バナナの茎のとこだけラップを巻いて野菜室に放り込むと長持ちする」を信じてやってみたら… - Togetter]]></title>
-        <id>https://togetter.com/li/1759756</id>
-        <link href="https://togetter.com/li/1759756"/>
-        <updated>2021-08-14T15:30:10.000Z</updated>
-        <summary type="html"><![CDATA[カワチ @kawachirokow Twitterで見た、バナナの「茎のとこだけラップ巻いて野菜室に放り込んでおくと長持ちするお！」て情報試してみたら、10日経って外は黒くなっても中は真っ白！ ありがとうTwitter！ ありがとう有識者！！ pic.twitter.com/guvEbb6Foc 2021-08-13 07:04:34]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

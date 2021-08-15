@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T18:14:05.620Z</id>
+    <id>urn:2021-08-15T19:09:19.725Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T18:14:05.620Z</updated>
+    <updated>2021-08-15T19:09:19.725Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「味噌汁は2日分作る」「タオルは畳まない」など時短テク共有しませんか？→参考になる時短テク続々と集まる - Togetter]]></title>
+        <id>https://togetter.com/li/1760365</id>
+        <link href="https://togetter.com/li/1760365"/>
+        <updated>2021-08-15T14:15:30.000Z</updated>
+        <summary type="html"><![CDATA[すりごま🐾 @surigoma2012 ねえみんなで超オススメの家事時短テク共有しない？ 私のオススメは保育園ママに教えてもらった『みそ汁は2日分作る』ってやつ。最初は、えっ無理！って思ったけど今では快適すぎて必ず2日分作るし、使い勝手の良い18cm鍋に常にみそ汁が入ってるから同じ鍋もう一個買っちゃった みんなもぜひ教...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ピクサーで働く人達をYouTubeで観て「仕事はこうでないとあかんな」と思った – ベルリンで働くソフトウェアエンジニアのブログ]]></title>
         <id>https://jabba.cloud/20210814-pixar</id>
         <link href="https://jabba.cloud/20210814-pixar"/>
@@ -41,6 +51,16 @@
         <link href="https://anond.hatelabo.jp/20210815211223"/>
         <updated>2021-08-15T12:17:34.000Z</updated>
         <summary type="html"><![CDATA[住人（特に持ち家をもっている人）にとって、洪水は水がひいてからが真の戦いになる。 うちは避難所ではなく自宅２階に避難した。周囲が3mの水深、床上1.5mの浸水。今回は自宅避難メインで災害後にやったことを記録しておく。 被災後は呆然としてしまう。頭がまっしろになって、なにから手を付けたらいいかわからなくな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNN.co.jp : アフガニスタンの崩壊、責めを負うべきはバイデン氏]]></title>
+        <id>https://www.cnn.co.jp/usa/35175234.html</id>
+        <link href="https://www.cnn.co.jp/usa/35175234.html"/>
+        <updated>2021-08-15T11:26:39.000Z</updated>
+        <summary type="html"><![CDATA[厳しさを増すアフガニスタンの現状はバイデン氏が自ら招いたものとの見方が出ている/SAUL LOEB/AFP/Getty Images （ＣＮＮ） 宗教戦士の一群が、奪い取った米国の軍用車両に乗り、米軍から訓練を受けた軍隊を打ち負かす。敗れた側は、自分たちの戦力を戦わずして差し出す。 どこかで聞いた話ではないか？ これは２０１１...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,31 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[原爆の「ウソ」を暴いた黒人記者─広島の放射線被害を否定した米軍に科学とファクトで立ち向かった | プロパガンダにファクトで対抗したチャールズ・ローブ | クーリエ・ジャポン]]></title>
-        <id>https://courrier.jp/news/archives/257335/</id>
-        <link href="https://courrier.jp/news/archives/257335/"/>
-        <updated>2021-08-14T23:25:14.000Z</updated>
-        <summary type="html"><![CDATA[戦後、米政府は原爆の放射線被害を否定し、名ばかりの調査団を広島へ送って隠ぺいに努めた。そんな大本営発表を全米各紙が鵜呑みにするなか、ひとりの黒人記者だけは科学とファクトで当局の嘘を暴いた。彼の名はチャールズ・ローブ。歴史に埋もれたスクープ記事とその功績を振り返る。 日本への原爆投下と人種の関係 「...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[これだけあった〝特攻隊員に覚醒剤〟外道の証拠　「チョコ包むの見た」証言から元教員が追跡 ｜ 47NEWS]]></title>
         <id>https://nordot.app/798767547706327040</id>
         <link href="https://nordot.app/798767547706327040"/>
         <updated>2021-08-14T23:03:51.000Z</updated>
         <summary type="html"><![CDATA[太平洋戦争末期、米艦に零戦機などで突っ込み、時に〝軍神〟とあがめられたり、時に「無駄死にだった」と切り捨てられたりもした特攻作戦の悲劇。出撃前の特攻隊員には覚醒剤「ヒロポン」が与えられていた。この問題は真正面から研究された様子がないが、大阪の元中学教員の相可文代さん（７１）は、勤労奉仕で覚醒剤入...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私的水族館ランク分けが興味深い…S「ここのために行く価値がある」A「旅行の目玉になる」B「展示が面白いので寄りたい」C「やや物足りない」 - Togetter]]></title>
-        <id>https://togetter.com/li/1759743</id>
-        <link href="https://togetter.com/li/1759743"/>
-        <updated>2021-08-14T15:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Bell @Bell29916308 小学3年生です。なかまのポケモンをたたかせることが好きです。大きくなったらもふもふの車になりたいです。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

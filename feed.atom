@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T19:09:19.725Z</id>
+    <id>urn:2021-08-15T20:11:44.199Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T19:09:19.725Z</updated>
+    <updated>2021-08-15T20:11:44.199Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://jabba.cloud/20210814-pixar"/>
         <updated>2021-08-15T12:38:53.000Z</updated>
         <summary type="html"><![CDATA[世界一のCGアニメーションスタジオであるピクサーで働く人達をYouTubeで観ると不思議なぐらいにその熱量を感じとることができる。いろんな会社の中をYouTubeで観るのが好きで結構観ている。どんな会社でも自社のいいところだけ切り取って出してるんだろうけど、なぜかピクサーだけは別格に感じる。 こんなに働く人達の熱...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都が積極的疫学調査を縮小 ｜ 共同通信]]></title>
+        <id>https://nordot.app/799615503404892160</id>
+        <link href="https://nordot.app/799615503404892160"/>
+        <updated>2021-08-15T12:34:58.000Z</updated>
+        <summary type="html"><![CDATA[東京都は15日、新型コロナウイルスの感染拡大を受け、「積極的疫学調査」を縮小する方針を都内の各保健所に通知したと発表した。重症化リスクの高い医療機関や高齢者施設に絡む調査などを優先させ、保健所の負担を軽減する狙いという。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[図で理解するFlexbox]]></title>
+        <id>https://zenn.dev/umatoma/articles/e6c4051f4c882d</id>
+        <link href="https://zenn.dev/umatoma/articles/e6c4051f4c882d"/>
+        <updated>2021-08-15T07:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Flexboxはレイアウト組む上でとても便利だが、justifyだとかalignだとか名前と意味の対応が曖昧で毎回調べていた。 仕組み・使い方を理解しようと思い、図を使って整理してみた。 Flexbox Flexboxは縦・横に要素を並べられるレイアウト方法です。 Flexboxを使うことにより、縦・横に並べるだけでなく、並べた要素の中央...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[五輪警備の警察官、コロナ感染76人に - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8H4V4ZP8HUTIL00X.html</id>
         <link href="https://www.asahi.com/articles/ASP8H4V4ZP8HUTIL00X.html"/>
@@ -161,16 +181,6 @@
         <link href="https://anond.hatelabo.jp/20210815141339"/>
         <updated>2021-08-15T05:39:01.000Z</updated>
         <summary type="html"><![CDATA[エリンギ日本での人工栽培の開始は1995年だが、生産量が増えはじめたのは2000年ごろから。 2000年11月3日放送のミュージックステーションに出演した桑田佳祐が、 「エリンギにハマっている」と紹介したことから売上が10倍になったとの逸話がある。 バナメイエビ1990年代から中国や東南アジアで養殖されるようになり、そ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 古市憲寿、DaiGoの差別発言に「批判してる人は死刑制度と他の人権の線引きをどこで引くかを考えて」「彼は落ち込んでると思う」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009835.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009835.html"/>
-        <updated>2021-08-15T05:02:59.000Z</updated>
-        <summary type="html"><![CDATA[古市憲寿、DaiGoの差別発言に「批判してる人は死刑制度と他の人権の線引きをどこで引くかを考えて」「彼は落ち込んでると思う」 1 名前：Anonymous ★：2021/08/15(日) 11:47:59.39 ID:CAP_USER9 ワイドナショー　2021年8月15日 内容文字起こし 【古市憲寿】 「DaiGoとは仲良いんですけど、これはちょっとごめんなさい。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://twitter.com/umatoritora/status/1426059509873610754"/>
         <updated>2021-08-15T00:57:05.000Z</updated>
         <summary type="html"><![CDATA[#許せないことは許さなくていい 同級生男の子ママから相談 息子が給食のカレーをこぼして女の子の服にかけてしまった。帰りが遅いので学校に行ったら必死で洗っていたとのこと。泣きながらママごめんと。先生と相手の親に許可を取り持ち帰って色々な方法を試みたけど取れない。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大好きなおじいちゃんが「戦争犯罪人」だった？　高2の夏に知った祖父の過去（小暮 聡子） | FRaU]]></title>
-        <id>https://gendai.ismedia.jp/articles/-/86259</id>
-        <link href="https://gendai.ismedia.jp/articles/-/86259"/>
-        <updated>2021-08-15T00:16:28.000Z</updated>
-        <summary type="html"><![CDATA[1945年8月15日。その前日に日本はポツダム宣言を受諾し、第二次世界大戦は実質的に終わった。この戦争で、世界中の人々が大切な家族や友人を失い、傷つき、その痛みは今もさまざまな形で残されている。 戦後76年になる今年、岩手県の釜石市郷土資料館である企画展が開催されている（緊急事態宣言により臨時休館中、宣言...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

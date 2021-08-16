@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-16T02:22:23.590Z</id>
+    <id>urn:2021-08-16T03:13:23.284Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T02:22:23.590Z</updated>
+    <updated>2021-08-16T03:13:23.284Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210816/k10013204791000.html"/>
         <updated>2021-08-15T19:53:37.000Z</updated>
         <summary type="html"><![CDATA[ことし春以降の新型コロナウイルスの感染の「第4波」で、札幌市では人工透析を受けている患者118人が感染し、半数余りの53％の人が死亡していたことが市の調べでわかりました。当時はワクチン接種が進んでおらず、高齢の患者が多く入院していた病院でクラスターが相次いだことが背景にありますが、専門家は若い世代の患...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cha_bo on Twitter: "そういや西洋画では雨を線で描かないんだってね。 じゃあどうやって表現してたんだろうって思って、 https://t.co/l23sYjmbRG"]]></title>
+        <id>https://twitter.com/cha_bo39/status/1426883949133918213</id>
+        <link href="https://twitter.com/cha_bo39/status/1426883949133918213"/>
+        <updated>2021-08-15T16:56:17.000Z</updated>
+        <summary type="html"><![CDATA[そういや西洋画では雨を線で描かないんだってね。 じゃあどうやって表現してたんだろうって思って、 https://t.co/l23sYjmbRG]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,6 +176,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[えるエル on Twitter: "コンピュータ科学・プログラミングの講義で無料で受けられる大学のコースなど700個以上を、難易度別に三段階に分けてまとめたサイトのようです https://t.co/BJH4pd9tMW"]]></title>
+        <id>https://twitter.com/ImAI_Eruel/status/1426880863455698945</id>
+        <link href="https://twitter.com/ImAI_Eruel/status/1426880863455698945"/>
+        <updated>2021-08-15T13:21:17.000Z</updated>
+        <summary type="html"><![CDATA[コンピュータ科学・プログラミングの講義で無料で受けられる大学のコースなど700個以上を、難易度別に三段階に分けてまとめたサイトのようです https://t.co/BJH4pd9tMW]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[タリバンが米中の力関係を逆転させる｜ニューズウィーク日本版 オフィシャルサイト]]></title>
         <id>https://www.newsweekjapan.jp/stories/world/2021/08/post-96906.php</id>
         <link href="https://www.newsweekjapan.jp/stories/world/2021/08/post-96906.php"/>
@@ -201,16 +221,6 @@
         <link href="https://twitter.com/samayoikurage/status/1426594318333009924"/>
         <updated>2021-08-15T11:23:53.000Z</updated>
         <summary type="html"><![CDATA[基本的に日本では「えらい人に気に入られて個人的な好意を受ける」のが一番利益の大きい方法です。えらい人も気に入った人間を優遇する権利と義務があると考えられており、それをする人が「面倒見のよい親分肌」とされます。「気に入られなくても平等に扱われる権利」が上からも下からも歓迎されない。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUMPﾉｵﾄ on Twitter: "湯沢町の回覧に回ってきた紙。 お国とガッツリ関わって、壮大な実験をやるらしい。フジロックを無理矢理開催するのはフェスでどれくらい感染者が発生するのか見るためらしい。 湯沢町民は人質同然。本当ありえない。人の命なんだと思ってんの。 https://t.co/KgqlApU0Ot"]]></title>
-        <id>https://twitter.com/BUMP_religion08/status/1426448847245434884</id>
-        <link href="https://twitter.com/BUMP_religion08/status/1426448847245434884"/>
-        <updated>2021-08-15T10:56:18.000Z</updated>
-        <summary type="html"><![CDATA[湯沢町の回覧に回ってきた紙。 お国とガッツリ関わって、壮大な実験をやるらしい。フジロックを無理矢理開催するのはフェスでどれくらい感染者が発生するのか見るためらしい。 湯沢町民は人質同然。本当ありえない。人の命なんだと思ってんの。 https://t.co/KgqlApU0Ot]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://zenn.dev/umatoma/articles/e6c4051f4c882d"/>
         <updated>2021-08-15T07:36:57.000Z</updated>
         <summary type="html"><![CDATA[Flexboxはレイアウト組む上でとても便利だが、justifyだとかalignだとか名前と意味の対応が曖昧で毎回調べていた。 仕組み・使い方を理解しようと思い、図を使って整理してみた。 Flexbox Flexboxは縦・横に要素を並べられるレイアウト方法です。 Flexboxを使うことにより、縦・横に並べるだけでなく、並べた要素の中央...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本で2000年以降にメジャーになった食材]]></title>
-        <id>https://anond.hatelabo.jp/20210815141339</id>
-        <link href="https://anond.hatelabo.jp/20210815141339"/>
-        <updated>2021-08-15T05:39:01.000Z</updated>
-        <summary type="html"><![CDATA[エリンギ日本での人工栽培の開始は1995年だが、生産量が増えはじめたのは2000年ごろから。 2000年11月3日放送のミュージックステーションに出演した桑田佳祐が、 「エリンギにハマっている」と紹介したことから売上が10倍になったとの逸話がある。 バナメイエビ1990年代から中国や東南アジアで養殖されるようになり、そ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

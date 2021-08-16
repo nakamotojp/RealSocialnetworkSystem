@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-16T20:14:57.951Z</id>
+    <id>urn:2021-08-16T21:12:43.681Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T20:14:57.951Z</updated>
+    <updated>2021-08-16T21:12:43.681Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DaiGo氏の差別発言に関する見解と経緯、そして対応について ｜ 認定NPO法人 抱樸（ほうぼく）]]></title>
+        <id>https://www.houboku.net/news/20210816statement/</id>
+        <link href="https://www.houboku.net/news/20210816statement/"/>
+        <updated>2021-08-16T14:57:17.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月16日 NPO法人抱樸　理事長　奥田知志 2021年8月7日にDaiGo氏が配信したYouTubeの番組において語られていた内容は、NPO法人抱樸にとって大きな衝撃でした。私たちは33年間、路上の命、困窮状況に置かれた人々の命と向き合ってきました。それは抱樸のスローガンである「あんたも、わたしもおんなじ命」ということ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[会食は「高級料亭で会席料理を囲んで商談接待すること」ではなく「ファミレスで2名以上で飯を食うこと」だと認識していない人多すぎの可能性 - Togetter]]></title>
         <id>https://togetter.com/li/1760782</id>
@@ -31,6 +41,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210816/k10013206611000.html"/>
         <updated>2021-08-16T12:24:56.000Z</updated>
         <summary type="html"><![CDATA[川崎市では、新型コロナウイルスに感染し、市内の自宅で療養中だった40代の男性が死亡しました。 市によりますと男性は今月11日に感染が確認され、軽症だったため自宅で療養していましたが、13日の深夜に意識を失っているのを家族が見つけたということです。 男性は病院に運ばれましたが、まもなく死亡しました。 市では...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アフガン女性が英紙に寄稿「見渡せば女性たちの怯えた顔と、それを面白がる男たちの醜い顔ばかりだ」 | 24年間の努力がすべて水泡に帰した | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/257555/</id>
+        <link href="https://courrier.jp/news/archives/257555/"/>
+        <updated>2021-08-16T12:10:37.000Z</updated>
+        <summary type="html"><![CDATA[8月15日、アフガニスタンの反政府勢力タリバンが首都カブールを制圧した。当たり前の日常と輝かしい未来を一瞬にして奪われたカブール在住のアフガニスタン女性が、悲痛な叫びを英紙「ガーディアン」に寄せている。 大学卒業を目前にして、すべてを奪われた 日曜日の早朝、授業のために大学へ向かっていると、女子寮から...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「五輪開催がコロナ感染拡大の一因」59％ ｜ 共同通信]]></title>
-        <id>https://nordot.app/799894593932427264</id>
-        <link href="https://nordot.app/799894593932427264"/>
-        <updated>2021-08-16T06:59:24.000Z</updated>
-        <summary type="html"><![CDATA[共同通信の世論調査によると、東京五輪開催が新型コロナウイルス感染拡大の一因になったと思うとの回答が59.8％に上った。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「知事に会わせろ」男を逮捕 刃物と液体所持 東京都庁 | 事件 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210816/k10013205681000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210816/k10013205681000.html"/>
@@ -271,16 +281,6 @@
         <link href="https://togetter.com/li/1760460"/>
         <updated>2021-08-15T21:36:08.000Z</updated>
         <summary type="html"><![CDATA[Rui Ueyama @rui314 スタンフォードの授業で「え、ここまでそれわかってなくて聞いてたの？」という質問をしてる生徒はかなりいたし、教える方は驚くこともなく普通にそういう基本的な質問に答えていたので、ああいうのは見習いたい（どちら側も）。 2021-08-14 21:55:14 Rui Ueyama @rui314 こういうの、難しい問題とか...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリンピック終了でやっぱり…「新国立競技場」の買い手をめぐる「悲しき現実」（週刊現代） | マネー現代 | 講談社（1/2）]]></title>
-        <id>https://gendai.ismedia.jp/articles/-/86250</id>
-        <link href="https://gendai.ismedia.jp/articles/-/86250"/>
-        <updated>2021-08-15T21:19:28.000Z</updated>
-        <summary type="html"><![CDATA[買い手がみつからない 日本勢の連日のメダル獲得で盛り上がる東京オリンピックだが、宴が終わると突きつけられる「現実」がある。 「メインスタジアムである新国立競技場の運営権の『買い手』の目処が、一向につかないんです」 こう語るのは、文部科学省の関係者だ。 1569億円を投じて建設された巨大な新国立は、維持管...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

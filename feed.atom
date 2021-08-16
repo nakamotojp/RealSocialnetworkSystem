@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-16T06:18:16.486Z</id>
+    <id>urn:2021-08-16T07:13:57.267Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T06:18:16.486Z</updated>
+    <updated>2021-08-16T07:13:57.267Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【独自】基礎疾患ない３０代男性 自宅で容体急変 コロナで死亡｜TBS NEWS]]></title>
+        <id>http://news.tbs.co.jp/newseye/tbs_newseye4337935.html</id>
+        <link href="http://news.tbs.co.jp/newseye/tbs_newseye4337935.html"/>
+        <updated>2021-08-16T04:34:22.000Z</updated>
+        <summary type="html"><![CDATA[東京・江戸川区で基礎疾患のない３０代の男性が自宅で容体が急変し、新型コロナで死亡していたことが分かりました。 記者 「男性はＰＣＲ検査を受けたその日の深夜に容体が急変し、自宅で亡くなったとみられています」 関係者によりますと、死亡したのは江戸川区でアパートに１人暮らしの３０代の男性で、先月２９日、母...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[渡辺明名人、１秒間に8000万手読むコンピュータを購入しディープラーニング系のソフトも導入（１）（松本博文） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253492</id>
@@ -31,16 +41,6 @@
         <link href="https://togetter.com/li/1760546"/>
         <updated>2021-08-16T02:19:05.000Z</updated>
         <summary type="html"><![CDATA[桐沢たえ @kirisawatae 美大に行って一番最初に言われたのが「君たちが生まれるよりとっくの昔に全ての『斬新なアイディア』なんて先人アーティストが出し尽くしてる。オリジナリティや新しさにこだわるより『自分がやる』ことの必然性に価値を見出しなさい」だったんだけど、ストリウスにそう伝えてあげたい。一緒に頑...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】夏の甲子園出場　宮崎商業野球部選手ら5人が新型コロナ検査で陽性（MRT宮崎放送） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/0f3ba5fd27a6f2afa28a04d9d9bbf5cb3416bbe1</id>
-        <link href="https://news.yahoo.co.jp/articles/0f3ba5fd27a6f2afa28a04d9d9bbf5cb3416bbe1"/>
-        <updated>2021-08-16T01:56:33.000Z</updated>
-        <summary type="html"><![CDATA[夏の甲子園に宮崎県代表で出場している宮崎商業野球部の選手ら5人が新型コロナウイルスの検査で陽性となったことがわかりました。チームは濃厚接触についての保健所の判断が出るまで、宿舎の個室でそれぞれ待機しているということです。大会本部は、保健所の判断を待って、緊急対策本部の会議を開くことにしています。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-16T13:41:44.460Z</id>
+    <id>urn:2021-08-16T14:25:28.565Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T13:41:44.460Z</updated>
+    <updated>2021-08-16T14:25:28.565Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -126,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[東京都内 高齢者の感染 人数再び増加 重症患者も倍以上に | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210816/k10013205491000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210816/k10013205491000.html"/>
+        <updated>2021-08-16T04:32:01.000Z</updated>
+        <summary type="html"><![CDATA[東京都内では、ワクチン接種が進んだことから感染者全体に占める高齢者の割合は大幅に下がっている一方、人数は再び増加しています。重症の患者も高齢世代の増加が見られ、専門家は危機感を示しています。 都内の65歳以上の感染者は、今月15日までの半月で2062人に上り、ことし5月以来2000人を超えていて、6月1か月間の2...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[渡辺明名人、１秒間に8000万手読むコンピュータを購入しディープラーニング系のソフトも導入（１）（松本博文） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253492</id>
         <link href="https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253492"/>
@@ -221,16 +231,6 @@
         <link href="https://togetter.com/li/1760492"/>
         <updated>2021-08-15T20:49:07.000Z</updated>
         <summary type="html"><![CDATA[「今年、フジロックは苗場での開催実現に向けて、新型コロナウイルス感染防止対策を徹底し、全ての方々が安心・安全に過ごせる「コロナ禍で開催する特別なフジロック」を目指します。」 https://www.fujirockfestival.com/guide/index]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[札幌 「第4波」で人工透析患者118人がコロナ感染 半数余が死亡 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210816/k10013204791000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210816/k10013204791000.html"/>
-        <updated>2021-08-15T19:53:37.000Z</updated>
-        <summary type="html"><![CDATA[ことし春以降の新型コロナウイルスの感染の「第4波」で、札幌市では人工透析を受けている患者118人が感染し、半数余りの53％の人が死亡していたことが市の調べでわかりました。当時はワクチン接種が進んでおらず、高齢の患者が多く入院していた病院でクラスターが相次いだことが背景にありますが、専門家は若い世代の患...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-16T21:12:43.681Z</id>
+    <id>urn:2021-08-16T22:12:06.491Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T21:12:43.681Z</updated>
+    <updated>2021-08-16T22:12:06.491Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://togetter.com/li/1760782"/>
         <updated>2021-08-16T14:31:51.000Z</updated>
         <summary type="html"><![CDATA[ぶたまるBWT @JQ1BWT たまに毒吐きます。フォロー・アンフォローはお気軽に。 仕事は電子回路の開発・設計。辞めソニー。 アマチュア無線、電子工作、ビデオ撮影＆編集、カメラ（キヤノン）、ウインドシンセ。 他人のつぶやきRTばかりの人はフォロバしませんのであしからず。 bwt.jp ぶたまるBWT @JQ1BWT まさか、会食っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説】 タリバンとは何者か　米軍撤収のアフガニスタンで復権 - BBCニュース]]></title>
+        <id>https://www.bbc.com/japanese/features-and-analysis-58229643</id>
+        <link href="https://www.bbc.com/japanese/features-and-analysis-58229643"/>
+        <updated>2021-08-16T13:35:29.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンで政権を握っていたタリバンは2001年、アメリカ主導の軍によってその座を追われた。だがここ数カ月間、攻勢を続け、ついに権力を奪還したと宣言した。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -61,6 +71,16 @@
         <link href="https://note.com/straightedge/n/n276c1edb9d38"/>
         <updated>2021-08-16T11:59:17.000Z</updated>
         <summary type="html"><![CDATA[■まえがき かなり長文ですので、小タイトルを見て興味のある部分だけを選んでお読みください。それ以外は読み飛ばし推奨です。 ■はじめに　～出版業界を取り巻く環境～ 僕は数年前から、ずっと新たな“出版のカタチ”とは何かを考えていました。 ここ20年にわたり、出版業界の全体の売り上げは減少の一途をたどっています...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洪水とか土砂崩れとかの災害が起こるたびに思うのは]]></title>
+        <id>https://anond.hatelabo.jp/20180827210852</id>
+        <link href="https://anond.hatelabo.jp/20180827210852"/>
+        <updated>2021-08-16T11:02:16.000Z</updated>
+        <summary type="html"><![CDATA[ハザードマップでヤバそうなところがあらかじめわかってるんならもうそこは人が住まないようにすればよくね？ 住所の自由がって言うけど、今だってヤバいところには住んだり入ったりできないわけだし あるいはそれ以外の理由（都市計画とか国定公園とかとか）で住めない場所はたくさんあるわけだし 災害になったら税金で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[死んだ母は生活保護だった]]></title>
+        <id>https://anond.hatelabo.jp/20210815013704</id>
+        <link href="https://anond.hatelabo.jp/20210815013704"/>
+        <updated>2021-08-16T09:38:01.000Z</updated>
+        <summary type="html"><![CDATA[メンタリストと名乗る男性が、ホームレスや生活保護受給者に対して発言した内容で炎上しているのを目にした。 その男性やその発言に憎悪を抱く人が多く、Twitterでも多くの人が非難しており、さらに厚生労働省が「生活保護の申請は国民の権利です」と書き込みもしていた。 私は生活保護受給者ではない。だが、母が世の中...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京・墨田区のワクチン接種はなぜ速いのか（江川紹子） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/egawashoko/20210816-00253513</id>
         <link href="https://news.yahoo.co.jp/byline/egawashoko/20210816-00253513"/>
@@ -156,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 2962人感染確認 重症者は7日連続で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210816/k10013205721000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210816/k10013205721000.html"/>
-        <updated>2021-08-16T07:50:26.000Z</updated>
-        <summary type="html"><![CDATA[東京都は16日、都内で新たに2962人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の月曜日より78人増えて、月曜日としてはこれまでで最も多くなりました。 一方、都の基準で集計した16日時点の重症の患者は15日より17人増えて268人となりました。7日連続で過去最多を更新し、増加が止まりま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[菅首相の続投を望まない65％ ｜ 共同通信]]></title>
         <id>https://nordot.app/799894340809768960</id>
         <link href="https://nordot.app/799894340809768960"/>
@@ -181,16 +201,6 @@
         <link href="https://konifar-zatsu.hatenadiary.jp/entry/2021/08/16/155833"/>
         <updated>2021-08-16T07:05:09.000Z</updated>
         <summary type="html"><![CDATA[最近夜や休日に自分の勉強や開発をできなくなった。 夜や休日にそんなことせずに業務時間内でやるべきでしょという意見もあると思うが、自分の場合は以前は苦もなく自然とやれていた。それが今はできていない。 理由は明確で、自分が集中できていないからである。背景には育児家事の話はもちろんあるが、時間が取れてい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首相「薬の量、十分確保」　コロナの抗体カクテル療法 ｜ 共同通信]]></title>
-        <id>https://nordot.app/799886037432467456</id>
-        <link href="https://nordot.app/799886037432467456"/>
-        <updated>2021-08-16T07:00:47.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は16日、新型コロナウイルス患者の重症化防止に効果がある抗体カクテル療法に関し「政府として、薬の量は十分に確保している。全国に拠点を整備する中で、重症化を何としても防いでいきたい」と述べた。抗体カクテル療法が実施されている東京都港区の品川プリンスホテル内の療養施設を視察後、記者団に語った...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253492"/>
         <updated>2021-08-16T04:17:10.000Z</updated>
         <summary type="html"><![CDATA[【渡辺明名人】37歳。名人・棋王・王将の三冠を保持し、現将棋界の序列１位。近年はコンピュータ将棋（AI）を用いての綿密な研究でも知られる。ほとんどの棋士を相手に勝ち越し「現役最強」とも言われるが、棋聖戦五番勝負では藤井聡太棋聖に挑戦して敗れた。 （７月某日、LINEにて、渡辺名人が研究用の新しいマシンの購...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイテク通り、テクノガーデン…30年前の未来都市・幕張新都心が懐かしくもカッコいい :: デイリーポータルZ]]></title>
-        <id>https://dailyportalz.jp/kiji/mirai-toshi-makuhari-shin-toshin</id>
-        <link href="https://dailyportalz.jp/kiji/mirai-toshi-makuhari-shin-toshin"/>
-        <updated>2021-08-16T02:36:29.000Z</updated>
-        <summary type="html"><![CDATA[「近未来へのキーワード、マ・ク・ハ・リ。」 「21世紀をリードする房総新時代の幕開け」 『片田舎だった千葉が、「首都圏の中心」になるばかりでなく、世界に通じる半島になる。いま、“国際経済文化県”千葉が誕生する。』 1989年、バブルの真っ只中に街びらきした幕張新都心のキャッチコピーである。 千葉市、東京湾臨...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

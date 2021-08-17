@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T17:16:51.695Z</id>
+    <id>urn:2021-08-17T18:14:44.995Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T17:16:51.695Z</updated>
+    <updated>2021-08-17T18:14:44.995Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://nordot.app/800338394175291392"/>
         <updated>2021-08-17T12:30:32.000Z</updated>
         <summary type="html"><![CDATA[菅首相は会見で感染急拡大について「要因は感染力が極めて強いとされるデルタ株だ。わが国でも急速な置き換わりが進み、全く異なる様相をもたらしている」と述べた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都 休業要請継続 都民に混雑した場所への外出半減を要請 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210817/k10013208791000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210817/k10013208791000.html"/>
+        <updated>2021-08-17T12:09:26.000Z</updated>
+        <summary type="html"><![CDATA[東京都は、来月12日までとなった緊急事態宣言の延長期間も、酒を提供する飲食店への休業要請などの措置を継続します。一方、都民に対しては、新たに、混雑した場所への外出を半分に減らすよう要請することになりました。 都に出されている緊急事態宣言の期限が今月31日までから来月12日までに延長されたことを受けて、都...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[既存薬3種の同時投与でコロナ患者死亡率が2%に減少　日赤が発表 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210817/k00/00m/040/176000c</id>
+        <link href="https://mainichi.jp/articles/20210817/k00/00m/040/176000c"/>
+        <updated>2021-08-17T07:44:00.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症の重症患者に3種類の既存薬を同時投与し、死亡率が2％と従来の10分の1程度にまで減少したとする研究結果を、日本赤十字社医療センター（東京都渋谷区）のチームがまとめ、呼吸器専門誌（電子版）に発表した。入院期間も約6日短縮され、逼迫（ひっぱく）しやすい病床状況の改善にも役立つ可能性...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[母「卵送るよ！大量だから皆に分けてね」ツイ主「分ける人いないから10個にして」母「120個送ったからね！あっ間違った180個です」 - Togetter]]></title>
         <id>https://togetter.com/li/1761141</id>
         <link href="https://togetter.com/li/1761141"/>
@@ -226,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[心理学者から見たメンタリストDaiGoさんの発言（原田隆之） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/haradatakayuki/20210817-00253546</id>
-        <link href="https://news.yahoo.co.jp/byline/haradatakayuki/20210817-00253546"/>
-        <updated>2021-08-17T00:29:41.000Z</updated>
-        <summary type="html"><![CDATA[批判と炎上　　ホームレスや生活保護受給者へのヘイトスピーチで、メンタリストDaiGoさんが大きな批判を浴びている。私も動画を観たが、あまりの醜悪さに言葉を失った。 私自身、生活保護を受けている人々に対する心理的な支援を行っている身でもあり、聞いたこともないようなあからさまなヘイトを目の当たりにして、大...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[コロナに感染するのとワクチンを打つのとでは、どちらがより強い免疫が得られるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210817-00252775</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210817-00252775"/>
         <updated>2021-08-16T22:17:39.000Z</updated>
         <summary type="html"><![CDATA[日本国内で新型コロナウイルス感染症に感染した人は100万人を超えました。 過去に新型コロナに感染した人はワクチン接種を受けるべきなのでしょうか？ 一般的に、ワクチン接種によって得られる免疫は、自然に感染することで得られる免疫よりも弱いと言われていますが、新型コロナではどうなのでしょうか？ 一般的にワク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安倍晋三前首相が「1年延期」にこだわった理由をしれっと改ざん　東京五輪関係者が“責任逃れのラストスパート”をかけ始めた！ | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47917</id>
-        <link href="https://bunshun.jp/articles/-/47917"/>
-        <updated>2021-08-16T21:11:43.000Z</updated>
-        <summary type="html"><![CDATA[《昨年末に大会組織委が公表した予算案では、開催経費は夏季五輪史上最大の1兆6440億円。招致決定時には7340億円と見積もっていたが、1年延期に伴う追加費用や感染対策などもあり、倍以上に膨らんだ。》（8月13日） 読売新聞8月13日の紙面 膨らんだなぁ。コンパクト五輪とは何だったのか。 五輪経費問題を「RIZAP」のCM...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

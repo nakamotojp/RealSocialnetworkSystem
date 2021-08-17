@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T05:10:32.187Z</id>
+    <id>urn:2021-08-17T06:14:55.691Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T05:10:32.188Z</updated>
+    <updated>2021-08-17T06:14:55.691Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,7 +30,7 @@
         <id>https://bunshun.jp/articles/-/47892</id>
         <link href="https://bunshun.jp/articles/-/47892"/>
         <updated>2021-08-17T02:52:02.000Z</updated>
-        <summary type="html"><![CDATA[昨年5月30日、ブロガー・作家の「はあちゅう氏」こと伊藤春香氏は、自身のブログでこう宣言した。同日には《誹謗中傷が成立するかどうかは、明確な基準があるわけではなく、訴えてみないとわからない》《片っ端からいきます》とツイート。直前にはSNSでの誹謗中傷を受けていたプロレスラーの木村花さんが自ら命を絶つ事...]]></summary>
+        <summary type="html"><![CDATA[昨年5月30日、ブロガー・作家の「はあちゅう」こと伊藤春香氏は、自身のブログでこう宣言した。同日には《誹謗中傷が成立するかどうかは、明確な基準があるわけではなく、訴えてみないとわからない》《片っ端からいきます》とツイート。直前にはSNSでの誹謗中傷を受けていたプロレスラーの木村花さんが自ら命を絶つ事件...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -90,7 +90,7 @@
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210817-00252775</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210817-00252775"/>
         <updated>2021-08-16T22:17:39.000Z</updated>
-        <summary type="html"><![CDATA[日本国内で新型コロナウイルス感染症に感染した人は100万人を超えました。 過去に新型コロナに感染した人はワクチン接種をすべきなのでしょうか？ 一般的に、ワクチン接種によって得られる免疫は、自然に感染することで得られる免疫よりも弱いと言われていますが、新型コロナではどうなのでしょうか？ 一般的にワクチン...]]></summary>
+        <summary type="html"><![CDATA[日本国内で新型コロナウイルス感染症に感染した人は100万人を超えました。 過去に新型コロナに感染した人はワクチン接種を受けるべきなのでしょうか？ 一般的に、ワクチン接種によって得られる免疫は、自然に感染することで得られる免疫よりも弱いと言われていますが、新型コロナではどうなのでしょうか？ 一般的にワク...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

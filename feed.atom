@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T12:18:59.925Z</id>
+    <id>urn:2021-08-17T13:18:23.522Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T12:18:59.926Z</updated>
+    <updated>2021-08-17T13:18:23.522Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://www.buzzfeed.com/jp/sumirekotomita/wishma-kuronuri"/>
         <updated>2021-08-17T09:49:25.000Z</updated>
         <summary type="html"><![CDATA[参議院議員会館（東京都千代田区）の会議室の壁いっぱいに貼られたのは、黒塗りされた名古屋入管からの文書。全部で段ボール3箱分ある。 大半は、ウィシュマさんが収容されていた名古屋入管の看守勤務日誌で、ほかは被収容者面会簿、診療結果報告書などだ。 黒塗りされていない箇所はタイトルなどのみの状態だ。 遺族代...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目をあまり使わない、新しい趣味が欲しい]]></title>
+        <id>https://anond.hatelabo.jp/20210817160637</id>
+        <link href="https://anond.hatelabo.jp/20210817160637"/>
+        <updated>2021-08-17T08:20:08.000Z</updated>
+        <summary type="html"><![CDATA[今までネットとゲームに生きてきた 結果視力は悪化し、網膜剥離寸前までいってしまった なんとか復帰はできたけど、もう今までのような生活はできない そこで、あまり目を使わないような新しい趣味が欲しい 何かおすすめはないだろうか？ 前述の通り網膜剥離寸前になったので、激しい運動はできない あまり金もないので...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平井大臣 “推薦” デジタル庁トップに少女80人虐待男から2億円 | 週刊文春 電子版]]></title>
+        <id>https://bunshun.jp/denshiban/articles/b1517</id>
+        <link href="https://bunshun.jp/denshiban/articles/b1517"/>
+        <updated>2021-08-17T07:57:18.000Z</updated>
+        <summary type="html"><![CDATA[〈エプスタインの家では、約5時間も会話を楽しんだよ。彼が持つ島にも招待してくれて、7月に行こうと思う。年末には彼を京都に案内しようと考えている〉 世界的に活躍する日本人実業家が、2013年に知人に宛てたメール。浮かび上がるのは、数多の少女を性的に虐待した米国人富豪との親密ぶりだった。 菅政権の看板政策の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,16 +101,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210817/k10013207621000.html"/>
         <updated>2021-08-17T04:46:52.000Z</updated>
         <summary type="html"><![CDATA[「基本的対処方針分科会」の尾身茂会長は会合のあと報道陣の取材に応じ、緊急事態宣言に関する政府の方針を了承したと述べました。 その上で「これまで飲食店など、事業者に対していろいろな制限をかけてきた一方で、一般の人々に対する行動制限は完全にお願いベースで行ってきた。感染状況がここまでくると、分科会のメ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「首相は何も見えてない」政府表明の"酸素ステーション設置”に発案者から疑問の声（FNNプライムオンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/4d2de93be12e02d739e5dcf42ecec541d9e64bb2</id>
-        <link href="https://news.yahoo.co.jp/articles/4d2de93be12e02d739e5dcf42ecec541d9e64bb2"/>
-        <updated>2021-08-17T04:32:11.000Z</updated>
-        <summary type="html"><![CDATA[菅首相が8月13日、打ち出したコロナ対策の一手。 菅首相: 国民の命を守る、これが政府最大の責務であります。 例えば酸素の投与が必要になった場合、酸素ステーションを設置して対処する。そうした体制を、これから速やかに構築するように関係大臣に指示しました。 【画像】酸素ステーション使用を専門家が批判する理由...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://qiita.com/e99h2121/items/be9247563fb936b77511"/>
         <updated>2021-08-16T08:31:15.000Z</updated>
         <summary type="html"><![CDATA[再発防止策を書くのは難しい。 良い再発防止策 良い再発防止策について、順位付けするとしたら、 その種類の問題について二度と意識することがなくなる解決策 その種類の問題を開発時に自動的に検知することができる解決策 その種類の問題が発生しても自動的に復旧することができる解決策 その種類の問題が発生しても影...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windowsユーザーの俺が独断と偏見で有能なフリーソフト書いてく : PCパーツまとめ]]></title>
-        <id>http://blog.livedoor.jp/bluejay01-review/archives/58366615.html</id>
-        <link href="http://blog.livedoor.jp/bluejay01-review/archives/58366615.html"/>
-        <updated>2021-08-16T05:50:45.000Z</updated>
-        <summary type="html"><![CDATA[2021年08月16日14:02 Windowsユーザーの俺が独断と偏見で有能なフリーソフト書いてく カテゴリVIP 1: 以下、5ちゃんねるからVIPがお送りします 2021/08/16(月) 03:21:55.532 ID:iHYEg/A30 ちょっと時間が空いたので 皆もいいのあったら教えてくれ！ 4: 以下、5ちゃんねるからVIPがお送りします 2021/08/16(月) 03:22:41....]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T22:12:10.918Z</id>
+    <id>urn:2021-08-17T23:12:16.448Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T22:12:10.918Z</updated>
+    <updated>2021-08-17T23:12:16.448Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://twitter.com/Hiroshi_Tsuji/status/1427621995156439043"/>
         <updated>2021-08-17T14:05:52.000Z</updated>
         <summary type="html"><![CDATA[ワクチン先行するイスラエルから厳しい警告、ワクチンはデルタ株を鈍らせるが、倒すことは出来ないとScience誌記事。 ワクチン以外の戦略も並列して立てないと厳しい内容。 イスラエルは12歳以上の78%がワクチン接種済みで、大半… https://t.co/xDUGLmUwD8]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『アメトーク特別編 雨上がり決死隊 解散報告会』感動かと思いきや解散した理由がビシバシ伝わってくる暴露大会に - Togetter]]></title>
+        <id>https://togetter.com/li/1761337</id>
+        <link href="https://togetter.com/li/1761337"/>
+        <updated>2021-08-17T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[アメトーーク！（テレビ朝日公式） @ame__talk 今夜20時から配信 『アメトーーク特別編 雨上がり決死隊 解散報告会』 雨上がり決死隊の２人が揃って、アメトーーク！のセットで皆様にご報告。 ゲスト…東野幸治、出川哲朗、ケンドーコバヤシ、狩野英孝、FUJIWARA ▼ABEMA abe.ma/3iUo8nA 2021-08-17 15:15:06]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -86,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[結局女性は「強い」のだろうか、「弱い」のだろうか？]]></title>
+        <id>https://anond.hatelabo.jp/20210817205224</id>
+        <link href="https://anond.hatelabo.jp/20210817205224"/>
+        <updated>2021-08-17T12:00:05.000Z</updated>
+        <summary type="html"><![CDATA[【追記有り】「女性の方が男性より育児に向いている」はジェンダーに関係なく事実だよね？ anond:20210816210852 に寄せられた沢山のトラバやブコメを読んでみた。 意外だったのは 「女性の方が男性より育児に向いている」という昔ながらの意見を肯定するブックマーカー、増田が殆ど見られなかった事だ。 スターの数や投...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[スリランカ女性死亡、関連文書1万5千枚ほぼ黒塗り開示：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8K6KW2P8KUTIL03N.html</id>
         <link href="https://www.asahi.com/articles/ASP8K6KW2P8KUTIL03N.html"/>
@@ -146,6 +166,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[みんな大好き福井県立図書館の『覚え違いタイトル集』が講談社から『『100万回死んだねこ 覚え違いタイトル集』』として書籍化される - Togetter]]></title>
+        <id>https://togetter.com/li/1761164</id>
+        <link href="https://togetter.com/li/1761164"/>
+        <updated>2021-08-17T08:32:23.000Z</updated>
+        <summary type="html"><![CDATA[猫の泉 @nekonoizumi ＠講談社10月より。 小田原のどか『近代を彫刻／超克する』 舞城王太郎『畏れ入谷の彼女の柘榴』 金平茂紀『筑紫哲也『ＮＥＷＳ23』とその時代』 クリプトンフューチャーメディア『初音ミク・クロニクル 公式ビジュアルブック』 福井県立図書館『100万回死んだねこ 覚え違いタイトル集』 2021-08-16...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[目をあまり使わない、新しい趣味が欲しい]]></title>
         <id>https://anond.hatelabo.jp/20210817160637</id>
         <link href="https://anond.hatelabo.jp/20210817160637"/>
@@ -181,16 +211,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/17/news121.html"/>
         <updated>2021-08-17T07:53:33.000Z</updated>
         <summary type="html"><![CDATA[「システムの起動そのものが不可能で、データの復旧の手段はない」――製粉大手のニップンに、前例のない規模のサイバー攻撃。一度の攻撃で大量のデータが同時多発的に暗号化され、決算作業もできなくなった。 「システムの起動そのものが不可能で、データ復旧の手段はない」――製粉大手のニップン（東証一部上場）は8月16...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 4377人感染確認 重症患者8日連続で最多更新 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210817/k10013208031000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210817/k10013208031000.html"/>
-        <updated>2021-08-17T07:51:59.000Z</updated>
-        <summary type="html"><![CDATA[東京都は17日、都内で新たに4377人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より1765人増えて、火曜日としてはこれまでで最も多くなりました。 一方、都の基準で集計したきょう時点の重症の患者は、16日より8人増えて276人でした。 8日連続で過去最多を更新し、増加が止まりま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,21 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[分科会 尾身会長“一般の人々への行動制限の仕組みづくりを” | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210817/k10013207621000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210817/k10013207621000.html"/>
-        <updated>2021-08-17T04:46:52.000Z</updated>
-        <summary type="html"><![CDATA[「基本的対処方針分科会」の尾身茂会長は会合のあと報道陣の取材に応じ、緊急事態宣言に関する政府の方針を了承したと述べました。 その上で「これまで飲食店など、事業者に対していろいろな制限をかけてきた一方で、一般の人々に対する行動制限は完全にお願いベースで行ってきた。感染状況がここまでくると、分科会のメ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活保護は破綻する未来しか見えないよ]]></title>
-        <id>https://anond.hatelabo.jp/20210817130525</id>
-        <link href="https://anond.hatelabo.jp/20210817130525"/>
-        <updated>2021-08-17T04:05:35.000Z</updated>
-        <summary type="html"><![CDATA[生活保護に関する各種統計データを見ると破綻する未来しか見えない。 http://www.ipss.go.jp/s-info/j/seiho/seiho.asp 生活保護は10年間で2.7兆円あまりから、3.9兆円あまりまで激増している。その内実を見ると、暗い未来しかない。 生活保護受給人数の変動平成30年度の生活保護の受給世帯は、ひと月平均 2,096,838 人...]]></summary>
+        <title type="html"><![CDATA[【閲覧注意】1996年〜2001年までのタリバンによる迫害｜koichi_kodama｜note]]></title>
+        <id>https://note.com/koichi_kodama/n/n3150d7aa19cc</id>
+        <link href="https://note.com/koichi_kodama/n/n3150d7aa19cc"/>
+        <updated>2021-08-17T04:35:32.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月15日、タリバンがアフガニスタンの首都カブールを掌握しました。 私は仲間達と一緒に2001年から2013年ころまで、日本に逃れてきたアフガニスタン難民の代理人を複数担当し、その過程で、タリバンが少数民族ハザラ人や女性に対して、どのような仕打ちをしてきたか、信頼できる資料に基づき、裁判などで主張・立...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://www.sanspo.com/article/20210816-743QHOECAZBETPTW5N6C6YBNFE/"/>
         <updated>2021-08-17T03:22:26.000Z</updated>
         <summary type="html"><![CDATA[作家の乙武洋匡氏（４５）が１６日、ツイッターを更新。ホームレスや生活保護受給者を軽視するような発言で批判を浴びたメンタリスト、ＤａｉＧｏについて私見を記した。 ＤａｉＧｏの「ホームレスの命はどうでもいい。いない方が良くない？　人間は自分たちの群れにそぐわない、群れ全体の利益にそぐわない人間を処刑し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ファイナルファンタジーVII リメイク』ティファをショートヘア化する運動が世界中で盛り上がる。#TifaShortHairで活性化 | AUTOMATON]]></title>
-        <id>https://automaton-media.com/articles/newsjp/20210817-172525/</id>
-        <link href="https://automaton-media.com/articles/newsjp/20210817-172525/"/>
-        <updated>2021-08-17T03:14:54.000Z</updated>
-        <summary type="html"><![CDATA[『ファイナルファンタジーVII』のティファの髪型をめぐる、微笑ましい活動が全世界で見られるようだ。ティファといえば、黒髪ロングヘアが特徴的なヒロイン。そんなティファのショートヘアを見たいと思う人々が、短髪になったティファのイラストなどをSNSに投稿している。 『ファイナルファンタジーVII』シリーズに登場...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

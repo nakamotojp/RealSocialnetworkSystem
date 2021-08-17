@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T13:18:23.522Z</id>
+    <id>urn:2021-08-17T14:11:12.768Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T13:18:23.522Z</updated>
+    <updated>2021-08-17T14:11:12.768Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[感染急拡大の原因はデルタ株と首相 ｜ 共同通信]]></title>
+        <id>https://nordot.app/800338394175291392</id>
+        <link href="https://nordot.app/800338394175291392"/>
+        <updated>2021-08-17T12:30:32.000Z</updated>
+        <summary type="html"><![CDATA[菅首相は会見で感染急拡大について「要因は感染力が極めて強いとされるデルタ株だ。わが国でも急速な置き換わりが進み、全く異なる様相をもたらしている」と述べた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「この真っ黒の紙は入管の闇をあらわしている」1万5千枚の黒塗り文書。入管での女性死亡、真実は]]></title>
         <id>https://www.buzzfeed.com/jp/sumirekotomita/wishma-kuronuri</id>
@@ -106,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「首相は何も見えてない」政府表明の"酸素ステーション設置”に発案者から疑問の声（FNNプライムオンライン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/4d2de93be12e02d739e5dcf42ecec541d9e64bb2</id>
+        <link href="https://news.yahoo.co.jp/articles/4d2de93be12e02d739e5dcf42ecec541d9e64bb2"/>
+        <updated>2021-08-17T04:32:11.000Z</updated>
+        <summary type="html"><![CDATA[菅首相が8月13日、打ち出したコロナ対策の一手。 菅首相: 国民の命を守る、これが政府最大の責務であります。 例えば酸素の投与が必要になった場合、酸素ステーションを設置して対処する。そうした体制を、これから速やかに構築するように関係大臣に指示しました。 【画像】酸素ステーション使用を専門家が批判する理由...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[生活保護は破綻する未来しか見えないよ]]></title>
         <id>https://anond.hatelabo.jp/20210817130525</id>
         <link href="https://anond.hatelabo.jp/20210817130525"/>
@@ -151,16 +171,6 @@
         <link href="https://bunshun.jp/articles/-/47892"/>
         <updated>2021-08-17T02:52:02.000Z</updated>
         <summary type="html"><![CDATA[昨年5月30日、ブロガー・作家の「はあちゅう」こと伊藤春香氏は、自身のブログでこう宣言した。同日には《誹謗中傷が成立するかどうかは、明確な基準があるわけではなく、訴えてみないとわからない》《片っ端からいきます》とツイート。直前にはSNSでの誹謗中傷を受けていたプロレスラーの木村花さんが自ら命を絶つ事件...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[たとえ結婚しても、死ぬ瞬間はひとりで味わいたい。能町みね子さん・phaさんと考える「老後」の話｜tayorini by LIFULL介護]]></title>
-        <id>https://kaigo.homes.co.jp/tayorini/interview/nomachi_pha/</id>
-        <link href="https://kaigo.homes.co.jp/tayorini/interview/nomachi_pha/"/>
-        <updated>2021-08-17T02:00:08.000Z</updated>
-        <summary type="html"><![CDATA[たとえ結婚しても、死ぬ瞬間はひとりで味わいたい。能町みね子さん・phaさんと考える「老後」の話 #老いの準備#楽に生きる 公開日 | 2021/08/17 更新日 | 2021/08/17 これまでは恋愛結婚を経て、家族で支え合いながら老後を過ごすという形が理想として語られることも多かったと思います。昨今は「友人同士でシェアハウス...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,16 +241,6 @@
         <link href="https://anond.hatelabo.jp/20210817051552"/>
         <updated>2021-08-16T20:31:54.000Z</updated>
         <summary type="html"><![CDATA[こんにちは、匿名ダイアリーの皆様方。 数年前に最後のライフライン止められて、ネットが使える最後に匿名ダイアリーに助けを求めて書き込んだ人です。 お陰様で今はインターネットも使えるし食事もできてるし、就職まで叶いました。もちろんライフラインも。 あの時いろいろな制度（生活困窮者自立支援とか生活保護）を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紙からドットへ…天野喜孝氏、渋谷員子氏が今振り返る『ファイナルファンタジーVI』とティナ・ケフカへの思い【Cutscenes】 | Game*Spark - 国内・海外ゲーム情報サイト]]></title>
-        <id>https://www.gamespark.jp/article/2021/08/17/111091.html</id>
-        <link href="https://www.gamespark.jp/article/2021/08/17/111091.html"/>
-        <updated>2021-08-16T19:54:49.000Z</updated>
-        <summary type="html"><![CDATA[紙の上で創造されたキャラクターはどのようにドット絵として命を吹き込まれたのか―]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T18:14:44.995Z</id>
+    <id>urn:2021-08-17T19:09:14.054Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T18:14:44.995Z</updated>
+    <updated>2021-08-17T19:09:14.054Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://nordot.app/800371993002754048"/>
         <updated>2021-08-17T14:36:06.000Z</updated>
         <summary type="html"><![CDATA[菅義偉首相は17日の記者会見で、あらかじめ用意した原稿を棒読みしているとの記者の指摘に対し「正確で速やかな情報発信は、国民の生命・財産を守るために極めて重要だ」と反論した。 大雨の被害が出た地域の避難所での新型コロナウイルス対策を巡り「緊急時は首相の分かりやすいメッセージが求められている。どのように...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本大使館のアフガニスタン人職員、国外への退避できず [アフガニスタン情勢]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8K6VN3P8KUHBI01C.html</id>
+        <link href="https://www.asahi.com/articles/ASP8K6VN3P8KUHBI01C.html"/>
+        <updated>2021-08-17T13:14:12.000Z</updated>
+        <summary type="html"><![CDATA[イスラム主義勢力タリバンが武力で政権を崩壊させ、混乱が広がっているアフガニスタンで、日本大使館や国際協力機構（JICA）事務所で働いてきたアフガニスタン人のスタッフやその家族が、国外に退避する見通しが立たないまま、アフガン国内にとどまっていることが複数の関係者の話でわかった。 日本人の大使館員12人は17...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +41,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210817/k10013208791000.html"/>
         <updated>2021-08-17T12:09:26.000Z</updated>
         <summary type="html"><![CDATA[東京都は、来月12日までとなった緊急事態宣言の延長期間も、酒を提供する飲食店への休業要請などの措置を継続します。一方、都民に対しては、新たに、混雑した場所への外出を半分に減らすよう要請することになりました。 都に出されている緊急事態宣言の期限が今月31日までから来月12日までに延長されたことを受けて、都...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スリランカ女性死亡、関連文書1万5千枚ほぼ黒塗り開示：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8K6KW2P8KUTIL03N.html</id>
+        <link href="https://www.asahi.com/articles/ASP8K6KW2P8KUTIL03N.html"/>
+        <updated>2021-08-17T11:43:06.000Z</updated>
+        <summary type="html"><![CDATA[スリランカ人のウィシュマ・サンダマリさん（当時33）が名古屋出入国在留管理局の施設で死亡した問題で、遺族側は17日に会見を開き、名古屋入管が開示した関連の行政文書1万5113枚のほとんどが黒塗り状態だったと明かした。「入管はすべてブラックボックスに入れ、何も情報を出さない。まったく反省していない」と批判し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[メルカリShops の CI/CD と Pull Request 環境 | メルカリエンジニアリング]]></title>
-        <id>https://engineering.mercari.com/blog/entry/20210817-mercari-shops-ci-cd-pr-env/</id>
-        <link href="https://engineering.mercari.com/blog/entry/20210817-mercari-shops-ci-cd-pr-env/"/>
-        <updated>2021-08-17T02:28:04.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ソウゾウの Software Engineer の @dragon3 です。 連載：「メルカリShops」プレオープンまでの開発の裏側の８日目を担当させていただきます。 この記事では、メルカリShops 開発において、日々バリバリに利用されている CI/CD 環境と Pull Request 毎のデプロイ環境について紹介します。 CI/CD 環境 メルカ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[コロナに感染するのとワクチンを打つのとでは、どちらがより強い免疫が得られるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210817-00252775</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210817-00252775"/>
@@ -261,16 +271,6 @@
         <link href="https://anond.hatelabo.jp/20210817051552"/>
         <updated>2021-08-16T20:31:54.000Z</updated>
         <summary type="html"><![CDATA[こんにちは、匿名ダイアリーの皆様方。 数年前に最後のライフライン止められて、ネットが使える最後に匿名ダイアリーに助けを求めて書き込んだ人です。 お陰様で今はインターネットも使えるし食事もできてるし、就職まで叶いました。もちろんライフラインも。 あの時いろいろな制度（生活困窮者自立支援とか生活保護）を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪しい空気活性機を分解する - 化石飯]]></title>
-        <id>https://goniataito.com/724</id>
-        <link href="https://goniataito.com/724"/>
-        <updated>2021-08-16T17:29:30.000Z</updated>
-        <summary type="html"><![CDATA[コロナ禍の中、激しいワクチン競争が起こっている。 自分は無事予約を取れたが、未だ予約も取れぬままの友人も多い。 そんな中、あえてワクチンを打たない選択をする人も存在する。 理由は個々人によって様々で、私の古くからの友人A氏の母親もその一人だ。 主義主張は人それぞれで、たとえ全く理解できない話だとしても...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T16:18:13.611Z</id>
+    <id>urn:2021-08-17T17:16:51.695Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T16:18:13.611Z</updated>
+    <updated>2021-08-17T17:16:51.695Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[首相、原稿棒読み指摘に反論　「正確な情報発信重要」 ｜ 共同通信]]></title>
+        <id>https://nordot.app/800371993002754048</id>
+        <link href="https://nordot.app/800371993002754048"/>
+        <updated>2021-08-17T14:36:06.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は17日の記者会見で、あらかじめ用意した原稿を棒読みしているとの記者の指摘に対し「正確で速やかな情報発信は、国民の生命・財産を守るために極めて重要だ」と反論した。 大雨の被害が出た地域の避難所での新型コロナウイルス対策を巡り「緊急時は首相の分かりやすいメッセージが求められている。どのように...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感染急拡大の原因はデルタ株と首相 ｜ 共同通信]]></title>
         <id>https://nordot.app/800338394175291392</id>
@@ -221,16 +231,6 @@
         <link href="https://news.yahoo.co.jp/byline/haradatakayuki/20210817-00253546"/>
         <updated>2021-08-17T00:29:41.000Z</updated>
         <summary type="html"><![CDATA[批判と炎上　　ホームレスや生活保護受給者へのヘイトスピーチで、メンタリストDaiGoさんが大きな批判を浴びている。私も動画を観たが、あまりの醜悪さに言葉を失った。 私自身、生活保護を受けている人々に対する心理的な支援を行っている身でもあり、聞いたこともないようなあからさまなヘイトを目の当たりにして、大...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インヴェスドクター on Twitter: "ワクチンを打った父が飲み会で感染、本人は軽症。帰宅後、肥満の息子に感染し、両肺真っ白。20代で中等症II。親は「どうか助けてください」と言う。"]]></title>
-        <id>https://twitter.com/Invesdoctor/status/1427408422543101952</id>
-        <link href="https://twitter.com/Invesdoctor/status/1427408422543101952"/>
-        <updated>2021-08-17T00:27:45.000Z</updated>
-        <summary type="html"><![CDATA[ワクチンを打った父が飲み会で感染、本人は軽症。帰宅後、肥満の息子に感染し、両肺真っ白。20代で中等症II。親は「どうか助けてください」と言う。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T20:12:40.916Z</id>
+    <id>urn:2021-08-18T21:11:03.312Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T20:12:40.916Z</updated>
+    <updated>2021-08-18T21:11:03.312Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://www3.nhk.or.jp/news/html/20210818/k10013211021000.html"/>
         <updated>2021-08-18T13:40:32.000Z</updated>
         <summary type="html"><![CDATA[先月、ペルーから羽田空港に到着し南米で報告されている変異ウイルスの「ラムダ株」への感染が確認された女性について、厚生労働省が、濃厚接触者の調査に必要なリストを自治体に送っていなかったことが分かりました。 女性はオリンピック関係者でしたが、大会組織委員会にも送付していなかったということです。 厚生労...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[副反応で業務が止まると困るから職域接種をやらなかった会社→クラスター発生で全面業務停止に…ことわざみたいな怖い話、けっこう起きてるらしい - Togetter]]></title>
+        <id>https://togetter.com/li/1761766</id>
+        <link href="https://togetter.com/li/1761766"/>
+        <updated>2021-08-18T13:35:39.000Z</updated>
+        <summary type="html"><![CDATA[桜野 春月 @sakuranoharu 副反応で休む人間多発して業務止まると困るから職域接種やらんって言ったそばからクラスター発生して全面的に業務止まってる事例を見かけた。 反面教師として出来すぎてる。 2021-08-17 15:55:56]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相、総裁選前の解散見送り　コロナ感染拡大で困難に | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210818/k00/00m/010/296000c</id>
+        <link href="https://mainichi.jp/articles/20210818/k00/00m/010/296000c"/>
+        <updated>2021-08-18T12:43:46.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症対策本部の会合後、記者会見する菅義偉首相＝首相官邸で2021年8月17日午後9時9分、竹内幹撮影 菅義偉首相は自身の自民党総裁任期満了（9月30日）に伴う総裁選前の衆院解散を見送る方針を固めた。首相は総裁選で再選し、その後に解散に踏み切るか、衆院任期満了に伴う衆院選を目指す方針。 複数...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -61,6 +81,16 @@
         <link href="https://times.abema.tv/news-article/8670872"/>
         <updated>2021-08-18T10:36:48.000Z</updated>
         <summary type="html"><![CDATA[「若い人のせいでは全くない。ウイルスの特徴だ」政府分科会・尾身茂会長が“メッセージの届かない”20代と対談。ABEMA TIMES[アベマタイムズ]は「見たい！」がみつかる情報ニュースサイトです。ABEMAの番組を中心に、ニュース映像や面白動画の紹介、著名人のインタビュー等選りすぐりの情報をお届けします。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国民に伝わらない総理のメッセージ、政治と科学の距離…政府分科会・尾身茂会長が明かした“専門家が抱えるジレンマ” 【ABEMA TIMES】]]></title>
+        <id>https://times.abema.tv/news-article/8670869</id>
+        <link href="https://times.abema.tv/news-article/8670869"/>
+        <updated>2021-08-18T10:36:38.000Z</updated>
+        <summary type="html"><![CDATA[国民に伝わらない総理のメッセージ、政治と科学の距離…政府分科会・尾身茂会長が明かした“専門家が抱えるジレンマ”。ABEMA TIMES[アベマタイムズ]は「見たい！」がみつかる情報ニュースサイトです。ABEMAの番組を中心に、ニュース映像や面白動画の紹介、著名人のインタビュー等選りすぐりの情報をお届けします。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -121,16 +151,6 @@
         <link href="https://www.asahi.com/articles/ASP8L3D7MP8JUTIL03N.html"/>
         <updated>2021-08-18T08:18:05.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が収まらない中、東京都が警察や消防と一緒に営業時間の短縮要請に応じない飲食店の見回りを始めた。営業時間中に店をアポなしで個別訪問する作戦だが、警察官が同行する手法には、「威圧的」との声も上がる。（釆沢嘉高） 平日の午後8時半、東京・新宿の繁華街にある雑居ビルに、白いワイ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪府 新型コロナ 5人死亡 2296人感染確認 初の2000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html"/>
-        <updated>2021-08-18T08:17:51.000Z</updated>
-        <summary type="html"><![CDATA[大阪府は、18日、過去最多の2296人が新たに新型コロナウイルスに感染していることが確認されたと発表しました。 大阪府内で、一日に発表された感染者数が、2000人を超えたのは初めてです。 これで、府内の感染者の累計は、13万7563人となりました。 また、5人の死亡が発表され、府内で新型コロナウイルスに感染して亡く...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,26 +291,6 @@
         <link href="https://anond.hatelabo.jp/20210818120808"/>
         <updated>2021-08-18T03:16:22.000Z</updated>
         <summary type="html"><![CDATA[1747年：アフマド・シャー「イランから独立するで！」 →アフガニスタンの建国 1838年：イギリス「ロシアがインドを狙っとるからアフガンにイギリス軍を置かせてくれや」 →交渉決裂 →イギリス「ほな戦争や！」 →第一次アフガン戦争 1842年：イギリス「あかん、とりあえずアフガンを占領したけど、反乱が多すぎるから撤退...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スーツ業界がかわいそうすぎる | 今日も8時間睡眠]]></title>
-        <id>https://nakaken88.com/2021/08/18/080808/</id>
-        <link href="https://nakaken88.com/2021/08/18/080808/"/>
-        <updated>2021-08-17T23:40:11.000Z</updated>
-        <summary type="html"><![CDATA[この前街を歩いてたら、たまたまスーツセレクトを見かけたんですけど、スーツ業界ってもうずっと逆風が吹いてますよね。 スタートは、2005年から始まったクールビズ。浸透していくスピードは遅かったけど、ノーネクタイは普及しだすと、あっという間でした。まぁ、ノーネクタイは一回経験すると、もう戻れないですからね...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美少女JCお嬢様ですが、三体みたいなSFを教えてほしいですわ]]></title>
-        <id>https://anond.hatelabo.jp/20210817222242</id>
-        <link href="https://anond.hatelabo.jp/20210817222242"/>
-        <updated>2021-08-17T22:24:43.000Z</updated>
-        <summary type="html"><![CDATA[はてなの皆さんごきげんよう。わたくしは、美少女貞淑淫乱女子中学生お嬢様ですわ。 先日、生まれて初めてSF小説というものを読みましたの。タイトルは、劉慈欣『三体』。あのオバマ大統領も愛読しているという話題の中国SFですわ。 その感想は…… こんなおもしれぇもん初めて読みましたわ！ 人類有数の大愚行である文化...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

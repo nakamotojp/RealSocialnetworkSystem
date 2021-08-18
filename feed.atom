@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T09:12:23.731Z</id>
+    <id>urn:2021-08-18T10:13:27.295Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T09:12:23.731Z</updated>
+    <updated>2021-08-18T10:13:27.295Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.nikkan-gendai.com/articles/view/geino/293475"/>
         <updated>2021-08-18T06:23:36.000Z</updated>
         <summary type="html"><![CDATA[＜これではコロナ禍を防ぐことは期待できない＞ 政府が「緊急事態宣言」と「まん延防止等重点措置」の追加・延長を決めた17日夜。終わりの見えないコロナ禍に国民が苛立ちを覚える中、ネット上で一時、怒りと呆れの声であふれたのが、首相官邸で会見した菅首相の発言に対してだった。というのも、菅首相はこの日も用意さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京湾に「人浮いている」、死亡確認　パラ警備員か：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8L4VJ1P8LUTIL015.html</id>
+        <link href="https://www.asahi.com/articles/ASP8L4VJ1P8LUTIL015.html"/>
+        <updated>2021-08-18T06:18:14.000Z</updated>
+        <summary type="html"><![CDATA[18日午前9時ごろ、東京都江東区有明3丁目の東京ビッグサイト近くの東京湾で「人が浮いている」と119番通報があった。東京消防庁などによると40代くらいの男性で、病院で死亡が確認された。 ビッグサイトには東京パラリンピックでメディアの取材拠点として使われる「メインプレスセンター」が入っており、一般の人は周囲...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://togetter.com/li/1761387"/>
         <updated>2021-08-17T16:35:55.000Z</updated>
         <summary type="html"><![CDATA[りょうくんグルメ @uryo1112 追記 写真のブリュレパンケーキは函南のTAMAGOYAベーカリーカフェのメニューではなく、三島のTAMAGOYAのメニューになります。函南のお店には扱いがありません。 失礼いたしました。 2021-08-16 21:52:09]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boston Dynamics on Twitter: "Parkour is the perfect sandbox for the Atlas team to experiment with new behaviors. Through jumps, balance beams, a… https://t.co/K3HTHJGwrG"]]></title>
-        <id>https://twitter.com/BostonDynamics/status/1427617735765278722</id>
-        <link href="https://twitter.com/BostonDynamics/status/1427617735765278722"/>
-        <updated>2021-08-17T16:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Parkour is the perfect sandbox for the Atlas team to experiment with new behaviors. Through jumps, balance beams, a… https://t.co/K3HTHJGwrG]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

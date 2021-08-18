@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T04:15:42.614Z</id>
+    <id>urn:2021-08-18T05:10:21.511Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T04:15:42.614Z</updated>
+    <updated>2021-08-18T05:10:21.511Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都内 親子3人全員が感染し自宅療養中 40代母親が死亡 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210818/k10013209851000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013209851000.html"/>
+        <updated>2021-08-18T04:23:45.000Z</updated>
+        <summary type="html"><![CDATA[東京都内で自宅療養中の人が急増する中、都は、17日、新型コロナウイルスに感染した親子3人全員が自宅で療養し、このうち40代の母親が死亡したことを明らかにしました。 これについて小池知事は「家庭内感染が多い中、急激に軽症から悪化する例がある」と述べ、酸素ステーションなど速やかに体制の整備を進める考えを示...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「カラー写真をＣＭＹＫに色分解して手描きする人」がいない理由が判明しました :: デイリーポータルZ]]></title>
+        <id>https://dailyportalz.jp/kiji/tegaki-cmyk</id>
+        <link href="https://dailyportalz.jp/kiji/tegaki-cmyk"/>
+        <updated>2021-08-18T02:25:23.000Z</updated>
+        <summary type="html"><![CDATA[カラー写真って不思議。 どうして、あんなにきれいな色がでるんだろう。 自分で描けないだろうか。 と思ったので、手描きしてみました。 理屈としては知っている 過去に、印刷の工場を見学したことがあるので、カラー印刷のしくみは理屈としては知っている。 写真の色をC（シアン）M（マゼンタ）Y（イエロー）K（ブラッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナワクチンの副反応が強いほど、ワクチンの効果が期待できる？　副反応が軽くても大丈夫か（倉原優） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kuraharayu/20210818-00253750</id>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日本大使館のアフガニスタン人職員、国外への退避できず [アフガニスタン情勢]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8K6VN3P8KUHBI01C.html</id>
-        <link href="https://www.asahi.com/articles/ASP8K6VN3P8KUHBI01C.html"/>
-        <updated>2021-08-17T13:14:12.000Z</updated>
-        <summary type="html"><![CDATA[イスラム主義勢力タリバンが武力で政権を崩壊させ、混乱が広がっているアフガニスタンで、日本大使館や国際協力機構（JICA）事務所で働いてきたアフガニスタン人のスタッフやその家族が、国外に退避する見通しが立たないまま、アフガン国内にとどまっていることが複数の関係者の話でわかった。 日本人の大使館員12人は17...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「バレバレじゃん」総当たり攻撃時のパスワード最大解読時間を表で示してみた「桁数を増やすことに意味がある」 - Togetter]]></title>
         <id>https://togetter.com/li/1761255</id>
         <link href="https://togetter.com/li/1761255"/>
@@ -251,16 +261,6 @@
         <link href="https://nordot.app/800338394175291392"/>
         <updated>2021-08-17T12:30:32.000Z</updated>
         <summary type="html"><![CDATA[菅首相は会見で感染急拡大について「要因は感染力が極めて強いとされるデルタ株だ。わが国でも急速な置き換わりが進み、全く異なる様相をもたらしている」と述べた。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千葉で5日間入院先見つからず死亡 ｜ 共同通信]]></title>
-        <id>https://nordot.app/800311618649047040</id>
-        <link href="https://nordot.app/800311618649047040"/>
-        <updated>2021-08-17T10:59:50.000Z</updated>
-        <summary type="html"><![CDATA[千葉県は17日、新型コロナウイルスに感染したものの、入院先が見つからずに自宅で5日間待機した後、搬送先で死亡が確認されたケースがあったと明らかにした。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

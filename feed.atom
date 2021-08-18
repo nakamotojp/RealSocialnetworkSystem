@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T21:11:03.312Z</id>
+    <id>urn:2021-08-18T22:12:14.144Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T21:11:03.312Z</updated>
+    <updated>2021-08-18T22:12:14.144Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[台湾 蔡英文総統「唯一の選択肢は自主防衛」アフガン情勢受け | 中国・台湾 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210818/k10013210971000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013210971000.html"/>
+        <updated>2021-08-18T13:54:16.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタン情勢をうけて、中国の軍事的な圧力に直面する台湾では、有事の際に最大の後ろ盾となるアメリカの信頼性を疑問視する論調が出ていて、蔡英文総統は、台湾内部の団結と自主防衛の決意を強調しました。 アフガニスタン情勢をうけて、17日付けの台湾の新聞「聯合報」は「バイデンは軽々と盟友を見捨てた」と題...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厚労省 ラムダ株への感染 濃厚接触者の調査リスト送付せず | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210818/k10013211021000.html</id>
@@ -61,6 +71,26 @@
         <link href="https://mainichi.jp/articles/20210818/k00/00m/040/258000c"/>
         <updated>2021-08-18T10:52:49.000Z</updated>
         <summary type="html"><![CDATA[記者会見する新型コロナウイルス感染症対策分科会の尾身茂会長＝東京都千代田区で2021年8月12日午後4時50分、宮間俊樹撮影 東京オリンピック・パラリンピックについて、政府の「新型コロナウイルス感染症対策分科会」の専門家らがまとめたリスク評価の提言を巡り、政府から専門家に対してさまざまな「圧力」があったこと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiroshi Nishiura on Twitter: "検査が行き届いていない点があって、最近の報告が過少である傍証もありますが、0－39歳、より厳密にはより低い年代での伝播が7月後半部にやや止まったことによって、感染者数の急上昇が止まっているものと洞察しています。より客観的な分析を実施しています。"]]></title>
+        <id>https://twitter.com/nishiurah/status/1427942173887008769</id>
+        <link href="https://twitter.com/nishiurah/status/1427942173887008769"/>
+        <updated>2021-08-18T10:47:38.000Z</updated>
+        <summary type="html"><![CDATA[検査が行き届いていない点があって、最近の報告が過少である傍証もありますが、0－39歳、より厳密にはより低い年代での伝播が7月後半部にやや止まったことによって、感染者数の急上昇が止まっているものと洞察しています。より客観的な分析を実施しています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[それを作れば彼らはやってくる：Appleが開く世界的な監視・検閲へのバックドア | P2Pとかその辺のお話R]]></title>
+        <id>https://p2ptk.org/privacy/3334</id>
+        <link href="https://p2ptk.org/privacy/3334"/>
+        <updated>2021-08-18T10:44:14.000Z</updated>
+        <summary type="html"><![CDATA[以下の文章は、電子フロンティア財団の「If You Build It, They Will Come: Apple Has Opened the Backdoor to Increased Surveillance and Censorship Around the World」という記事を翻訳したものである。 Electronic Frontier Foundation iMessageで送受信される画像をスキャンするというAppleの新たなプログラムは、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,41 +216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[レーザー核融合で10兆ワットのエネルギーを生み出すことに成功、核融合発電の実用化へ大きく前進 - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210818-laser-fusion-lawrence-livermore/</id>
-        <link href="https://gigazine.net/news/20210818-laser-fusion-lawrence-livermore/"/>
-        <updated>2021-08-18T07:50:52.000Z</updated>
-        <summary type="html"><![CDATA[アメリカにあるローレンス・リバモア国立研究所が2021年8月17日に、192本のレーザーを用いて核融合を発生させ、10兆ワットを超える膨大なエネルギーを発生させることに成功したと発表しました。 National Ignition Facility experiment puts researchers at threshold of fusion ignition | Lawrence Livermore National...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[若者対象　渋谷駅周辺に接種会場を開設へ（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/36f5eb89bf1e3a7fa019e894068b88b303488433</id>
-        <link href="https://news.yahoo.co.jp/articles/36f5eb89bf1e3a7fa019e894068b88b303488433"/>
-        <updated>2021-08-18T07:48:20.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの深刻な感染拡大を受け、東京都は、感染者が多い若者を対象に、予約なしでワクチン接種が受けられる会場を渋谷駅周辺に、近く開設します。 東京都・小池知事「目下、感染が拡大している若者世代にいち早くワクチンを浸透させる。そのために、今月、渋谷駅付近に事前予約なしで接種可能な若年層専用の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【菅義偉】菅首相「感染拡大を最優先に…」記者会見で連発“言い間違え”に怒りと呆れの声、ネット大炎上！｜日刊ゲンダイDIGITAL]]></title>
         <id>https://www.nikkan-gendai.com/articles/view/geino/293475</id>
         <link href="https://www.nikkan-gendai.com/articles/view/geino/293475"/>
         <updated>2021-08-18T06:23:36.000Z</updated>
         <summary type="html"><![CDATA[＜これではコロナ禍を防ぐことは期待できない＞ 政府が「緊急事態宣言」と「まん延防止等重点措置」の追加・延長を決めた17日夜。終わりの見えないコロナ禍に国民が苛立ちを覚える中、ネット上で一時、怒りと呆れの声であふれたのが、首相官邸で会見した菅首相の発言に対してだった。というのも、菅首相はこの日も用意さ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京湾に「人浮いている」、死亡確認　パラ警備員か：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8L4VJ1P8LUTIL015.html</id>
-        <link href="https://www.asahi.com/articles/ASP8L4VJ1P8LUTIL015.html"/>
-        <updated>2021-08-18T06:18:14.000Z</updated>
-        <summary type="html"><![CDATA[18日午前9時ごろ、東京都江東区有明3丁目の東京ビッグサイト近くの東京湾で「人が浮いている」と119番通報があった。東京消防庁などによると40代くらいの男性で、病院で死亡が確認された。 ビッグサイトには東京パラリンピックでメディアの取材拠点として使われる「メインプレスセンター」が入っており、一般の人は周囲...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

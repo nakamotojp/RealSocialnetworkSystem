@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T15:13:18.865Z</id>
+    <id>urn:2021-08-18T16:18:37.040Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T15:13:18.865Z</updated>
+    <updated>2021-08-18T16:18:37.040Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ゼロから始める、データ分析と可視化 - Kyash Product Blog]]></title>
+        <id>https://blog.kyash.co/entry/2021/08/18/163430</id>
+        <link href="https://blog.kyash.co/entry/2021/08/18/163430"/>
+        <updated>2021-08-18T11:12:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして。Kyashでデータエンジニアリングを担当しているKyashデータマンです。この記事では、Kyash社内のデータ分析の基礎に関するドキュメントを紹介します。 Kyashでは、データエンジニアリング・ガバナンス・セキュリティなど様々な角度から、公正なデータの取扱いと活用を推進しています。従来は、一部の訓練さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「東京五輪へ波風立てないでほしい」　専門家提言に「圧力」電話 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210818/k00/00m/040/258000c</id>
@@ -26,11 +36,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「若い人のせいでは全くない。ウイルスの特徴だ」政府分科会・尾身茂会長が“メッセージの届かない”20代と対談 【ABEMA TIMES】]]></title>
+        <id>https://times.abema.tv/news-article/8670872</id>
+        <link href="https://times.abema.tv/news-article/8670872"/>
+        <updated>2021-08-18T10:36:48.000Z</updated>
+        <summary type="html"><![CDATA[「若い人のせいでは全くない。ウイルスの特徴だ」政府分科会・尾身茂会長が“メッセージの届かない”20代と対談。ABEMA TIMES[アベマタイムズ]は「見たい！」がみつかる情報ニュースサイトです。ABEMAの番組を中心に、ニュース映像や面白動画の紹介、著名人のインタビュー等選りすぐりの情報をお届けします。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PayPayが中小店から手数料　最低1.6%、規模優先を転換: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUB171R30X10C21A8000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOUB171R30X10C21A8000000/"/>
         <updated>2021-08-18T10:05:28.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら スマートフォン決済大手PayPay（ペイペイ）は10月から中小事業者向けの決済手数料を変更し、手数料率を最低1.6%とする方針を固めた。一般に3～5%とされるクレジットカ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日医会長が「野戦病院」設置提言　中等症患者の受け入れ目的 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210818/k00/00m/040/202000c</id>
+        <link href="https://mainichi.jp/articles/20210818/k00/00m/040/202000c"/>
+        <updated>2021-08-18T09:56:09.000Z</updated>
+        <summary type="html"><![CDATA[日本医師会の中川俊男会長は18日の記者会見で、新型コロナウイルスの感染拡大で医療体制が逼迫（ひっぱく）しているとして、大規模イベント会場や体育館を利用した臨時の医療施設を設置すべきだとの認識を示した。いわゆる「野戦病院」の設置を提言したもので、「一番の目的は、中等症患者の入院場所とイメージしている...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +81,26 @@
         <link href="https://www.jiji.com/jc/article?k=2021081800827&amp;g=pol"/>
         <updated>2021-08-18T08:48:41.000Z</updated>
         <summary type="html"><![CDATA[デジタル監、伊藤穣一氏見送り　政府 2021年08月18日16時47分 首相官邸（東京都千代田区） 政府は９月１日に発足させるデジタル庁の事務方トップとなるデジタル監人事で調整していた実業家、伊藤穣一氏の起用を見送る方針を固めた。複数の政府関係者が１８日、明らかにした。伊藤氏は過去の資金援助問題で勤務先の研究機...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ガサ入れか」ワイシャツの4人、時短応じぬ店に突然… [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8L3D7MP8JUTIL03N.html</id>
+        <link href="https://www.asahi.com/articles/ASP8L3D7MP8JUTIL03N.html"/>
+        <updated>2021-08-18T08:18:05.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が収まらない中、東京都が警察や消防と一緒に営業時間の短縮要請に応じない飲食店の見回りを始めた。営業時間中に店をアポなしで個別訪問する作戦だが、警察官が同行する手法には、「威圧的」との声も上がる。（釆沢嘉高） 平日の午後8時半、東京・新宿の繁華街にある雑居ビルに、白いワイ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪府 新型コロナ 5人死亡 2296人感染確認 初の2000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html"/>
+        <updated>2021-08-18T08:17:51.000Z</updated>
+        <summary type="html"><![CDATA[大阪府は、18日、過去最多の2296人が新たに新型コロナウイルスに感染していることが確認されたと発表しました。 大阪府内で、一日に発表された感染者数が、2000人を超えたのは初めてです。 これで、府内の感染者の累計は、13万7563人となりました。 また、5人の死亡が発表され、府内で新型コロナウイルスに感染して亡く...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナワクチンの副反応が強いほど、ワクチンの効果が期待できる？　副反応が軽くても大丈夫か（倉原優） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kuraharayu/20210818-00253750</id>
-        <link href="https://news.yahoo.co.jp/byline/kuraharayu/20210818-00253750"/>
-        <updated>2021-08-18T00:12:41.000Z</updated>
-        <summary type="html"><![CDATA[副反応が強い人・弱い人新型コロナワクチンを接種すると、発熱、筋肉痛、倦怠感、頭痛など、さまざまな副反応が出ます。これには個人差があり、高齢者が軽度でも、若者では何かの感染症にかかったんじゃないかというほど強い症状が出ることもあります。 「私はワクチン接種後に高い熱が出たわ、だから抗体がしっかりでき...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[スーツ業界がかわいそうすぎる | 今日も8時間睡眠]]></title>
         <id>https://nakaken88.com/2021/08/18/080808/</id>
         <link href="https://nakaken88.com/2021/08/18/080808/"/>
@@ -261,46 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210817235742"/>
         <updated>2021-08-17T22:08:03.000Z</updated>
         <summary type="html"><![CDATA[何？ 俺は多分トマト トマトソース系料理を良く作るから週に二缶くらいトマト缶とみじん切りにした玉ねぎ二個くらいを消費する 他の野菜はそこまで偏りなく適度に食べてる感じなのでトマト缶の内容量考えるとトマトが圧勝だろう ちなみに生トマトは、死んでも食わない 熱を通さないトマトはゲロである]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今度立憲に入れるけどリベラルガーとか言われてもなんのこっちゃ]]></title>
-        <id>https://anond.hatelabo.jp/20210818022828</id>
-        <link href="https://anond.hatelabo.jp/20210818022828"/>
-        <updated>2021-08-17T21:58:00.000Z</updated>
-        <summary type="html"><![CDATA[反自民でずっとやってたし、コロナや五輪や森加計桜その他は話にならないから自民を支持しないというだけなんだけど、リベラルはこれだからとか言われても、別に俺はリベラルのつもりはないんだけどなっていう。 たしかに自己責任社会よりも困窮した時に国が助けてくれる方が俺にとって得が大きいってのもあるんだけど、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「静岡旅行の参考にしてね！」桶に乗って流れてくるパフェ、盛り盛りの海鮮丼、…ツイ主さん厳選おすすめのお店まとめ - Togetter]]></title>
-        <id>https://togetter.com/li/1761387</id>
-        <link href="https://togetter.com/li/1761387"/>
-        <updated>2021-08-17T16:35:55.000Z</updated>
-        <summary type="html"><![CDATA[りょうくんグルメ @uryo1112 追記 写真のブリュレパンケーキは函南のTAMAGOYAベーカリーカフェのメニューではなく、三島のTAMAGOYAのメニューになります。函南のお店には扱いがありません。 失礼いたしました。 2021-08-16 21:52:09]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『アメトーク特別編 雨上がり決死隊 解散報告会』感動かと思いきや解散した理由がビシバシ伝わってくる暴露大会に - Togetter]]></title>
-        <id>https://togetter.com/li/1761337</id>
-        <link href="https://togetter.com/li/1761337"/>
-        <updated>2021-08-17T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[アメトーーク！（テレビ朝日公式） @ame__talk 今夜20時から配信 『アメトーーク特別編 雨上がり決死隊 解散報告会』 雨上がり決死隊の２人が揃って、アメトーーク！のセットで皆様にご報告。 ゲスト…東野幸治、出川哲朗、ケンドーコバヤシ、狩野英孝、FUJIWARA ▼ABEMA abe.ma/3iUo8nA 2021-08-17 15:15:06]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【閲覧注意】1996年〜2001年までのタリバンによる迫害｜koichi_kodama｜note]]></title>
-        <id>https://note.com/koichi_kodama/n/n3150d7aa19cc</id>
-        <link href="https://note.com/koichi_kodama/n/n3150d7aa19cc"/>
-        <updated>2021-08-17T04:35:32.000Z</updated>
-        <summary type="html"><![CDATA[2021年8月15日、タリバンがアフガニスタンの首都カブールを掌握しました。 私は仲間達と一緒に2001年から2013年ころまで、日本に逃れてきたアフガニスタン難民の代理人を複数担当し、その過程で、タリバンが少数民族ハザラ人や女性に対して、どのような仕打ちをしてきたか、信頼できる資料に基づき、裁判などで主張・立...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

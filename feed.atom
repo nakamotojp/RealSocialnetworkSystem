@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T16:18:37.040Z</id>
+    <id>urn:2021-08-18T17:17:41.491Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T16:18:37.040Z</updated>
+    <updated>2021-08-18T17:17:41.491Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[厚労省 ラムダ株への感染 濃厚接触者の調査リスト送付せず | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210818/k10013211021000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013211021000.html"/>
+        <updated>2021-08-18T13:40:32.000Z</updated>
+        <summary type="html"><![CDATA[先月、ペルーから羽田空港に到着し南米で報告されている変異ウイルスの「ラムダ株」への感染が確認された女性について、厚生労働省が、濃厚接触者の調査に必要なリストを自治体に送っていなかったことが分かりました。 女性はオリンピック関係者でしたが、大会組織委員会にも送付していなかったということです。 厚生労...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゼロから始める、データ分析と可視化 - Kyash Product Blog]]></title>
         <id>https://blog.kyash.co/entry/2021/08/18/163430</id>
@@ -91,16 +101,6 @@
         <link href="https://www.asahi.com/articles/ASP8L3D7MP8JUTIL03N.html"/>
         <updated>2021-08-18T08:18:05.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が収まらない中、東京都が警察や消防と一緒に営業時間の短縮要請に応じない飲食店の見回りを始めた。営業時間中に店をアポなしで個別訪問する作戦だが、警察官が同行する手法には、「威圧的」との声も上がる。（釆沢嘉高） 平日の午後8時半、東京・新宿の繁華街にある雑居ビルに、白いワイ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪府 新型コロナ 5人死亡 2296人感染確認 初の2000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html"/>
-        <updated>2021-08-18T08:17:51.000Z</updated>
-        <summary type="html"><![CDATA[大阪府は、18日、過去最多の2296人が新たに新型コロナウイルスに感染していることが確認されたと発表しました。 大阪府内で、一日に発表された感染者数が、2000人を超えたのは初めてです。 これで、府内の感染者の累計は、13万7563人となりました。 また、5人の死亡が発表され、府内で新型コロナウイルスに感染して亡く...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T01:52:42.527Z</id>
+    <id>urn:2021-08-18T02:21:45.827Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T01:52:42.527Z</updated>
+    <updated>2021-08-18T02:21:45.827Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[スーツ業界がかわいそうすぎる | 今日も8時間睡眠]]></title>
+        <id>https://nakaken88.com/2021/08/18/080808/</id>
+        <link href="https://nakaken88.com/2021/08/18/080808/"/>
+        <updated>2021-08-17T23:40:11.000Z</updated>
+        <summary type="html"><![CDATA[この前街を歩いてたら、たまたまスーツセレクトを見かけたんですけど、スーツ業界ってもうずっと逆風が吹いてますよね。 スタートは、2005年から始まったクールビズ。浸透していくスピードは遅かったけど、ノーネクタイは普及しだすと、あっという間でした。まぁ、ノーネクタイは一回経験すると、もう戻れないですからね...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美少女JCお嬢様ですが、三体みたいなSFを教えてほしいですわ]]></title>
         <id>https://anond.hatelabo.jp/20210817222242</id>
@@ -21,6 +31,16 @@
         <link href="https://www.tokyo-np.co.jp/article/125036"/>
         <updated>2021-08-17T22:08:48.000Z</updated>
         <summary type="html"><![CDATA[首相は新たな対応を決定した１７日の政府対策本部で「医療体制の構築、感染防止の徹底、ワクチン接種を３本の柱として対策を進めていく」と表明。初めて「三本柱」の枠組みを示した。 これに先立ち、政府の基本的対処方針分科会の会合が開かれ、尾身茂会長は終了後、記者団に「ワクチンは非常に強い対策の柱だが、それだ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロードランナー様 on Twitter: "リベラルがコロナで行動規制を推すのは矛盾みたいなこと言う人よくわからん。アメリカで言えば、リベラルは環境保護のために企業活動を規制したり、銃を所有する自由を否定する傾向が強く、逆にこれらの自由を肯定しがちなのが保守だろ。結果保守派の強いアメリカ南部は公害地獄になってるそうだが。"]]></title>
+        <id>https://twitter.com/shinkai35/status/1427691977177403399</id>
+        <link href="https://twitter.com/shinkai35/status/1427691977177403399"/>
+        <updated>2021-08-17T20:52:56.000Z</updated>
+        <summary type="html"><![CDATA[リベラルがコロナで行動規制を推すのは矛盾みたいなこと言う人よくわからん。アメリカで言えば、リベラルは環境保護のために企業活動を規制したり、銃を所有する自由を否定する傾向が強く、逆にこれらの自由を肯定しがちなのが保守だろ。結果保守派の強いアメリカ南部は公害地獄になってるそうだが。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 休業要請継続 都民に混雑した場所への外出半減を要請 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210817/k10013208791000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210817/k10013208791000.html"/>
-        <updated>2021-08-17T12:09:26.000Z</updated>
-        <summary type="html"><![CDATA[東京都は、来月12日までとなった緊急事態宣言の延長期間も、酒を提供する飲食店への休業要請などの措置を継続します。一方、都民に対しては、新たに、混雑した場所への外出を半分に減らすよう要請することになりました。 都に出されている緊急事態宣言の期限が今月31日までから来月12日までに延長されたことを受けて、都...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[結局女性は「強い」のだろうか、「弱い」のだろうか？]]></title>
         <id>https://anond.hatelabo.jp/20210817205224</id>
         <link href="https://anond.hatelabo.jp/20210817205224"/>
@@ -281,16 +291,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/17/news121.html"/>
         <updated>2021-08-17T07:53:33.000Z</updated>
         <summary type="html"><![CDATA[「システムの起動そのものが不可能で、データの復旧の手段はない」――製粉大手のニップンに、前例のない規模のサイバー攻撃。一度の攻撃で大量のデータが同時多発的に暗号化され、決算作業もできなくなった。 「システムの起動そのものが不可能で、データ復旧の手段はない」――製粉大手のニップン（東証一部上場）は8月16...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「会食ではなく打ち合わせ」二階氏、5人で日本料理店へ：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8K5CZ3P8KUTFK011.html</id>
-        <link href="https://www.asahi.com/articles/ASP8K5CZ3P8KUTFK011.html"/>
-        <updated>2021-08-17T07:46:25.000Z</updated>
-        <summary type="html"><![CDATA[自民党の二階俊博幹事長、公明党の石井啓一幹事長ら自公幹部の計5人が17日昼、東京都内のホテル内の日本料理店で会談した。政府が5人以上が集まる会食の自粛を求め、同日には緊急事態宣言の地域の拡大・延長が決定するさなかの会食。出席者は「黙食だった」「会食ではなく打ち合わせ」などと釈明している。 会談は「2幹2...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

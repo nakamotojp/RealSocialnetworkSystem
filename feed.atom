@@ -1,26 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T11:09:48.894Z</id>
+    <id>urn:2021-08-18T12:19:22.982Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T11:09:48.894Z</updated>
+    <updated>2021-08-18T12:19:22.982Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「東京五輪へ波風立てないでほしい」　専門家提言に「圧力」電話 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210818/k00/00m/040/258000c</id>
+        <link href="https://mainichi.jp/articles/20210818/k00/00m/040/258000c"/>
+        <updated>2021-08-18T10:52:49.000Z</updated>
+        <summary type="html"><![CDATA[記者会見する新型コロナウイルス感染症対策分科会の尾身茂会長＝東京都千代田区で2021年8月12日午後4時50分、宮間俊樹撮影 東京オリンピック・パラリンピックについて、政府の「新型コロナウイルス感染症対策分科会」の専門家らがまとめたリスク評価の提言を巡り、政府から専門家に対してさまざまな「圧力」があったこと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPayが中小店から手数料　最低1.6%、規模優先を転換: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUB171R30X10C21A8000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUB171R30X10C21A8000000/"/>
+        <updated>2021-08-18T10:05:28.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら スマートフォン決済大手PayPay（ペイペイ）は10月から中小事業者向けの決済手数料を変更し、手数料率を最低1.6%とする方針を固めた。一般に3～5%とされるクレジットカ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小池百合子都知事、コロナ禍の五輪開催「東京と我が国の底力示した」パラ“必ず成功”強調（スポーツ報知） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/81dc7c949c63997d29f28805c38e150156e4702a</id>
+        <link href="https://news.yahoo.co.jp/articles/81dc7c949c63997d29f28805c38e150156e4702a"/>
+        <updated>2021-08-18T09:50:04.000Z</updated>
+        <summary type="html"><![CDATA[東京都の小池百合子知事は１８日、都議会の第２回臨時会の所信表明において、新型コロナウイルス禍で行われ、８日に閉幕した東京五輪について「この未曾有の難局の中、歴史に残る祭典を成し遂げたことは、東京、そして我が国が持つ底力を示したものと言える」と述べた。 小池氏は、２４日に開幕を迎える東京パラリンピッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタル監、伊藤穣一氏見送り　政府：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021081800827&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021081800827&amp;g=pol"/>
         <updated>2021-08-18T08:48:41.000Z</updated>
         <summary type="html"><![CDATA[デジタル監、伊藤穣一氏見送り　政府 2021年08月18日16時47分 首相官邸（東京都千代田区） 政府は９月１日に発足させるデジタル庁の事務方トップとなるデジタル監人事で調整していた実業家、伊藤穣一氏の起用を見送る方針を固めた。複数の政府関係者が１８日、明らかにした。伊藤氏は過去の資金援助問題で勤務先の研究機...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪府 新型コロナ 5人死亡 2296人感染確認 初の2000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html"/>
-        <updated>2021-08-18T08:17:51.000Z</updated>
-        <summary type="html"><![CDATA[大阪府は、18日、過去最多の2296人が新たに新型コロナウイルスに感染していることが確認されたと発表しました。 大阪府内で、一日に発表された感染者数が、2000人を超えたのは初めてです。 これで、府内の感染者の累計は、13万7563人となりました。 また、5人の死亡が発表され、府内で新型コロナウイルスに感染して亡く...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野党・メディア「甲子園反対、即時中止せよ。途中でも中止すべき」]]></title>
-        <id>https://anond.hatelabo.jp/20210817230553</id>
-        <link href="https://anond.hatelabo.jp/20210817230553"/>
-        <updated>2021-08-17T14:08:51.000Z</updated>
-        <summary type="html"><![CDATA[って言い出さないの不思議だなぁｗ めっちゃ市中でクラスター発生してるのにねえ 結局、こういう所が野党は信用ならないし、支持できないって言われてる理由だよ 原理原則があって、正しいことを言えるわけではなくて、単に反与党であれば 日本全体にとって不利益でも何だってするって姿勢だとみなされてて 現実にこうや...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hiroshi Tsuji on Twitter: "ワクチン先行するイスラエルから厳しい警告、ワクチンはデルタ株を鈍らせるが、倒すことは出来ないとScience誌記事。 ワクチン以外の戦略も並列して立てないと厳しい内容。 イスラエルは12歳以上の78%がワクチン接種済みで、大半… https://t.co/xDUGLmUwD8"]]></title>
         <id>https://twitter.com/Hiroshi_Tsuji/status/1427621995156439043</id>
         <link href="https://twitter.com/Hiroshi_Tsuji/status/1427621995156439043"/>
@@ -281,16 +291,6 @@
         <link href="https://togetter.com/li/1761337"/>
         <updated>2021-08-17T14:05:00.000Z</updated>
         <summary type="html"><![CDATA[アメトーーク！（テレビ朝日公式） @ame__talk 今夜20時から配信 『アメトーーク特別編 雨上がり決死隊 解散報告会』 雨上がり決死隊の２人が揃って、アメトーーク！のセットで皆様にご報告。 ゲスト…東野幸治、出川哲朗、ケンドーコバヤシ、狩野英孝、FUJIWARA ▼ABEMA abe.ma/3iUo8nA 2021-08-17 15:15:06]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「バレバレじゃん」総当たり攻撃時のパスワード最大解読時間を表で示してみた「桁数を増やすことに意味がある」 - Togetter]]></title>
-        <id>https://togetter.com/li/1761255</id>
-        <link href="https://togetter.com/li/1761255"/>
-        <updated>2021-08-17T13:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Sen UENO @sen_u 飲むとすぐ寝る2級鍵師。サイバーセキュリティの株式会社トライコーダやってます。OWASP Japan Chapter Leader 、セキュリティ・キャンプGMなども。 tricorder.jp]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

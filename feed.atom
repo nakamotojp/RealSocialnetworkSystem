@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T18:14:45.500Z</id>
+    <id>urn:2021-08-18T19:10:05.790Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T18:14:45.500Z</updated>
+    <updated>2021-08-18T19:10:05.790Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「実態の感染者はもっと多い」内閣委員会で尾身会長｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_politics/articles/000225982.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_politics/articles/000225982.html"/>
+        <updated>2021-08-18T09:01:15.000Z</updated>
+        <summary type="html"><![CDATA[連日、公表される人数よりも実際には「もっと多い」と指摘しました。 政府新型コロナ分科会・尾身会長：「実際に報告されているよりも私は実態の感染者はもう少し多いと思います」 政府分科会の尾身会長は実際の感染者数が公表数よりも多いとした理由について、「検査の供給体制が間に合っていない」ことと「無症状者が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[デジタル監、伊藤穣一氏見送り　政府：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021081800827&amp;g=pol</id>
         <link href="https://www.jiji.com/jc/article?k=2021081800827&amp;g=pol"/>
@@ -111,6 +121,16 @@
         <link href="https://www.asahi.com/articles/ASP8L3D7MP8JUTIL03N.html"/>
         <updated>2021-08-18T08:18:05.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が収まらない中、東京都が警察や消防と一緒に営業時間の短縮要請に応じない飲食店の見回りを始めた。営業時間中に店をアポなしで個別訪問する作戦だが、警察官が同行する手法には、「威圧的」との声も上がる。（釆沢嘉高） 平日の午後8時半、東京・新宿の繁華街にある雑居ビルに、白いワイ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪府 新型コロナ 5人死亡 2296人感染確認 初の2000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html"/>
+        <updated>2021-08-18T08:17:51.000Z</updated>
+        <summary type="html"><![CDATA[大阪府は、18日、過去最多の2296人が新たに新型コロナウイルスに感染していることが確認されたと発表しました。 大阪府内で、一日に発表された感染者数が、2000人を超えたのは初めてです。 これで、府内の感染者の累計は、13万7563人となりました。 また、5人の死亡が発表され、府内で新型コロナウイルスに感染して亡く...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,6 +166,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[レーザー核融合で10兆ワットのエネルギーを生み出すことに成功、核融合発電の実用化へ大きく前進 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210818-laser-fusion-lawrence-livermore/</id>
+        <link href="https://gigazine.net/news/20210818-laser-fusion-lawrence-livermore/"/>
+        <updated>2021-08-18T07:50:52.000Z</updated>
+        <summary type="html"><![CDATA[アメリカにあるローレンス・リバモア国立研究所が2021年8月17日に、192本のレーザーを用いて核融合を発生させ、10兆ワットを超える膨大なエネルギーを発生させることに成功したと発表しました。 National Ignition Facility experiment puts researchers at threshold of fusion ignition | Lawrence Livermore National...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[若者対象　渋谷駅周辺に接種会場を開設へ（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/36f5eb89bf1e3a7fa019e894068b88b303488433</id>
         <link href="https://news.yahoo.co.jp/articles/36f5eb89bf1e3a7fa019e894068b88b303488433"/>
@@ -171,16 +201,6 @@
         <link href="https://www.asahi.com/articles/ASP8L4VJ1P8LUTIL015.html"/>
         <updated>2021-08-18T06:18:14.000Z</updated>
         <summary type="html"><![CDATA[18日午前9時ごろ、東京都江東区有明3丁目の東京ビッグサイト近くの東京湾で「人が浮いている」と119番通報があった。東京消防庁などによると40代くらいの男性で、病院で死亡が確認された。 ビッグサイトには東京パラリンピックでメディアの取材拠点として使われる「メインプレスセンター」が入っており、一般の人は周囲...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パラリンピック 来日メディア関係者ら18人コロナ感染 過去最多 | オリンピック・パラリンピック | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210818/k10013209871000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013209871000.html"/>
-        <updated>2021-08-18T06:10:55.000Z</updated>
-        <summary type="html"><![CDATA[今月24日に開幕する東京パラリンピックに関連して、海外から来日したメディアや大会の関係者など、新たに18人が新型コロナウイルスに感染したことが分かり、1日の発表としてはこれまでで最も多くなりました。 大会組織委員会が18日発表した、東京パラリンピックに関連して新型コロナの検査で陽性反応を示した人は18人で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小池知事「攻めと守りと両方で進めていく、それがいまの道」　家族で自宅療養中の40代女性の死亡受け：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/125153</id>
-        <link href="https://www.tokyo-np.co.jp/article/125153"/>
-        <updated>2021-08-18T03:30:26.000Z</updated>
-        <summary type="html"><![CDATA[東京都の小池百合子知事は１８日午前、都庁で報道陣の取材に応じた。新型コロナウイルスに感染していた夫や子どもとともに自宅療養していた４０代女性の死亡が１７日に発表されたことを受け、小池知事は「既往症があったと聞いている。そういった方々が入院するまでの間の環境を整備を至急進めている」と述べた。 冒頭に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ネトフリジャパン批判に乗っかって、5年前の愚痴を書いてしまう｜境治＠MediaBorder｜note]]></title>
         <id>https://note.com/oszerosakai/n/nc4d69b99e98e</id>
         <link href="https://note.com/oszerosakai/n/nc4d69b99e98e"/>
@@ -271,16 +281,6 @@
         <link href="https://nakaken88.com/2021/08/18/080808/"/>
         <updated>2021-08-17T23:40:11.000Z</updated>
         <summary type="html"><![CDATA[この前街を歩いてたら、たまたまスーツセレクトを見かけたんですけど、スーツ業界ってもうずっと逆風が吹いてますよね。 スタートは、2005年から始まったクールビズ。浸透していくスピードは遅かったけど、ノーネクタイは普及しだすと、あっという間でした。まぁ、ノーネクタイは一回経験すると、もう戻れないですからね...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「国際柔道連盟」が高級ホテルで毎夜の宴会　20時以降も酒類を提供、数人が宴会場を飛び出す騒ぎも（デイリー新潮） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/38846fd5d2c31895734bc4e205bc795cf40ea966</id>
-        <link href="https://news.yahoo.co.jp/articles/38846fd5d2c31895734bc4e205bc795cf40ea966"/>
-        <updated>2021-08-17T22:58:00.000Z</updated>
-        <summary type="html"><![CDATA[史上最多となる9個の金メダルを獲得した柔道の日本代表。お家芸の完全復活に、山下泰裕JOC会長もほっと胸を撫でおろしたことだろう。だが、好事魔多し。山下会長も理事に名を連ねる国際柔道連盟（IJF）のお歴々が、緊急事態宣言下のトーキョーで、連夜の“酒宴”に興じていたのである。 【写真4枚】森元首相との2ショット ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

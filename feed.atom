@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T14:11:19.404Z</id>
+    <id>urn:2021-08-18T15:13:18.865Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T14:11:19.404Z</updated>
+    <updated>2021-08-18T15:13:18.865Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,11 +56,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大阪府 新型コロナ 5人死亡 2296人感染確認 初の2000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013210131000.html"/>
-        <updated>2021-08-18T08:17:51.000Z</updated>
-        <summary type="html"><![CDATA[大阪府は、18日、過去最多の2296人が新たに新型コロナウイルスに感染していることが確認されたと発表しました。 大阪府内で、一日に発表された感染者数が、2000人を超えたのは初めてです。 これで、府内の感染者の累計は、13万7563人となりました。 また、5人の死亡が発表され、府内で新型コロナウイルスに感染して亡く...]]></summary>
+        <title type="html"><![CDATA[高校生は要注意　夏休み明けの学校、これまでとは違うレベルの警戒を]]></title>
+        <id>https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-wada-26</id>
+        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-wada-26"/>
+        <updated>2021-08-18T08:07:55.000Z</updated>
+        <summary type="html"><![CDATA[BuzzFeed Japan Medicalは、国際医療福祉大学医学部公衆衛生学教授の和田耕治さんに聞いた。 ※インタビューは8月17日午後に行い、その時点の情報に基づいている。 10代以下が今までにない増え方　「今までとは少し違う危機感」ーー子供が重症化した例があちこちの医師から報告され始めています。一部で人工呼吸器をつけ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -86,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[若者対象　渋谷駅周辺に接種会場を開設へ（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/36f5eb89bf1e3a7fa019e894068b88b303488433</id>
+        <link href="https://news.yahoo.co.jp/articles/36f5eb89bf1e3a7fa019e894068b88b303488433"/>
+        <updated>2021-08-18T07:48:20.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの深刻な感染拡大を受け、東京都は、感染者が多い若者を対象に、予約なしでワクチン接種が受けられる会場を渋谷駅周辺に、近く開設します。 東京都・小池知事「目下、感染が拡大している若者世代にいち早くワクチンを浸透させる。そのために、今月、渋谷駅付近に事前予約なしで接種可能な若年層専用の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【菅義偉】菅首相「感染拡大を最優先に…」記者会見で連発“言い間違え”に怒りと呆れの声、ネット大炎上！｜日刊ゲンダイDIGITAL]]></title>
         <id>https://www.nikkan-gendai.com/articles/view/geino/293475</id>
         <link href="https://www.nikkan-gendai.com/articles/view/geino/293475"/>
@@ -101,6 +111,16 @@
         <link href="https://www.asahi.com/articles/ASP8L4VJ1P8LUTIL015.html"/>
         <updated>2021-08-18T06:18:14.000Z</updated>
         <summary type="html"><![CDATA[18日午前9時ごろ、東京都江東区有明3丁目の東京ビッグサイト近くの東京湾で「人が浮いている」と119番通報があった。東京消防庁などによると40代くらいの男性で、病院で死亡が確認された。 ビッグサイトには東京パラリンピックでメディアの取材拠点として使われる「メインプレスセンター」が入っており、一般の人は周囲...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パラリンピック 来日メディア関係者ら18人コロナ感染 過去最多 | オリンピック・パラリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210818/k10013209871000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210818/k10013209871000.html"/>
+        <updated>2021-08-18T06:10:55.000Z</updated>
+        <summary type="html"><![CDATA[今月24日に開幕する東京パラリンピックに関連して、海外から来日したメディアや大会の関係者など、新たに18人が新型コロナウイルスに感染したことが分かり、1日の発表としてはこれまでで最も多くなりました。 大会組織委員会が18日発表した、東京パラリンピックに関連して新型コロナの検査で陽性反応を示した人は18人で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[デルタ株猛威を甘く見た首相　「ワクチン一辺倒」批判受けるも「世界中で猛威」と開き直り：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/125036</id>
-        <link href="https://www.tokyo-np.co.jp/article/125036"/>
-        <updated>2021-08-17T22:08:48.000Z</updated>
-        <summary type="html"><![CDATA[首相は新たな対応を決定した１７日の政府対策本部で「医療体制の構築、感染防止の徹底、ワクチン接種を３本の柱として対策を進めていく」と表明。初めて「三本柱」の枠組みを示した。 これに先立ち、政府の基本的対処方針分科会の会合が開かれ、尾身茂会長は終了後、記者団に「ワクチンは非常に強い対策の柱だが、それだ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[お前らが最も多く消費してる野菜]]></title>
         <id>https://anond.hatelabo.jp/20210817235742</id>
         <link href="https://anond.hatelabo.jp/20210817235742"/>
@@ -271,16 +281,6 @@
         <link href="https://togetter.com/li/1761387"/>
         <updated>2021-08-17T16:35:55.000Z</updated>
         <summary type="html"><![CDATA[りょうくんグルメ @uryo1112 追記 写真のブリュレパンケーキは函南のTAMAGOYAベーカリーカフェのメニューではなく、三島のTAMAGOYAのメニューになります。函南のお店には扱いがありません。 失礼いたしました。 2021-08-16 21:52:09]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiroshi Tsuji on Twitter: "ワクチン先行するイスラエルから厳しい警告、ワクチンはデルタ株を鈍らせるが、倒すことは出来ないとScience誌記事。 ワクチン以外の戦略も並列して立てないと厳しい内容。 イスラエルは12歳以上の78%がワクチン接種済みで、大半… https://t.co/xDUGLmUwD8"]]></title>
-        <id>https://twitter.com/Hiroshi_Tsuji/status/1427621995156439043</id>
-        <link href="https://twitter.com/Hiroshi_Tsuji/status/1427621995156439043"/>
-        <updated>2021-08-17T14:05:52.000Z</updated>
-        <summary type="html"><![CDATA[ワクチン先行するイスラエルから厳しい警告、ワクチンはデルタ株を鈍らせるが、倒すことは出来ないとScience誌記事。 ワクチン以外の戦略も並列して立てないと厳しい内容。 イスラエルは12歳以上の78%がワクチン接種済みで、大半… https://t.co/xDUGLmUwD8]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

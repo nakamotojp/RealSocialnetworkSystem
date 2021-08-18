@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T05:10:21.511Z</id>
+    <id>urn:2021-08-18T06:15:06.502Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T05:10:21.511Z</updated>
+    <updated>2021-08-18T06:15:06.502Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210818/k10013209851000.html"/>
         <updated>2021-08-18T04:23:45.000Z</updated>
         <summary type="html"><![CDATA[東京都内で自宅療養中の人が急増する中、都は、17日、新型コロナウイルスに感染した親子3人全員が自宅で療養し、このうち40代の母親が死亡したことを明らかにしました。 これについて小池知事は「家庭内感染が多い中、急激に軽症から悪化する例がある」と述べ、酸素ステーションなど速やかに体制の整備を進める考えを示...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1分でわかるアフガニスタンの歴史]]></title>
+        <id>https://anond.hatelabo.jp/20210818120808</id>
+        <link href="https://anond.hatelabo.jp/20210818120808"/>
+        <updated>2021-08-18T03:16:22.000Z</updated>
+        <summary type="html"><![CDATA[1747年：アフマド・シャー「イランから独立するで！」 →アフガニスタンの建国 1838年：イギリス「ロシアがインドを狙っとるからアフガンにイギリス軍を置かせてくれや」 →交渉決裂 →イギリス「ほな戦争や！」 →第一次アフガン戦争 1842年：イギリス「あかん、とりあえずアフガンを占領したけど、反乱が多すぎるから撤退...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -190,7 +200,7 @@
         <id>https://anond.hatelabo.jp/20210817230553</id>
         <link href="https://anond.hatelabo.jp/20210817230553"/>
         <updated>2021-08-17T14:08:51.000Z</updated>
-        <summary type="html"><![CDATA[って言い出さないの不思議だなぁｗ めっちゃ市中でクラスター発生してるのにねえ 結局、こういう所が野党は信用ならないし、支持できないって言われてる理由だよ。 原理原則があって、正しいことを言えるわけではなくて、単に反与党であれば 日本全体にとって不利益でも何だってするって姿勢だとみなされてて 現実にこう...]]></summary>
+        <summary type="html"><![CDATA[って言い出さないの不思議だなぁｗ めっちゃ市中でクラスター発生してるのにねえ 結局、こういう所が野党は信用ならないし、支持できないって言われてる理由だよ 原理原則があって、正しいことを言えるわけではなくて、単に反与党であれば 日本全体にとって不利益でも何だってするって姿勢だとみなされてて 現実にこうや...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://www.buzzfeed.com/jp/sumirekotomita/wishma-kuronuri"/>
         <updated>2021-08-17T09:49:25.000Z</updated>
         <summary type="html"><![CDATA[参議院議員会館（東京都千代田区）の会議室の壁いっぱいに貼られたのは、黒塗りされた名古屋入管からの文書。全部で段ボール3箱分ある。 大半は、ウィシュマさんが収容されていた名古屋入管の看守勤務日誌で、ほかは被収容者面会簿、診療結果報告書などだ。 黒塗りされていない箇所はタイトルなどのみの状態だ。 遺族代...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の製粉大手に「前例ない」大規模攻撃　大量データ暗号化　起動不能、バックアップもダメで「復旧困難」 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/17/news121.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/17/news121.html"/>
-        <updated>2021-08-17T07:53:33.000Z</updated>
-        <summary type="html"><![CDATA[「システムの起動そのものが不可能で、データの復旧の手段はない」――製粉大手のニップンに、前例のない規模のサイバー攻撃。一度の攻撃で大量のデータが同時多発的に暗号化され、決算作業もできなくなった。 「システムの起動そのものが不可能で、データ復旧の手段はない」――製粉大手のニップン（東証一部上場）は8月16...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

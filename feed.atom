@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T15:13:44.995Z</id>
+    <id>urn:2021-08-19T16:18:14.943Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T15:13:44.995Z</updated>
+    <updated>2021-08-19T16:18:14.943Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[杉田副長官が検査入院：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021081901130&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021081901130&amp;g=pol"/>
+        <updated>2021-08-19T13:14:29.000Z</updated>
+        <summary type="html"><![CDATA[杉田副長官が検査入院 2021年08月19日21時48分 杉田和博官房副長官 官僚トップの杉田和博官房副長官（８０）が入院したことが１９日、分かった。関係者によると、発熱したため大事を取っての検査入院で、新型コロナウイルスには感染していないという。１９日は通常通り、首相官邸で公務を行っていた。 政治 菅内閣 緊急...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俳優・千葉真一さん死去　82歳　新型コロナによる肺炎のため | ORICON NEWS]]></title>
         <id>https://www.oricon.co.jp/news/2204126/full/</id>
@@ -21,6 +31,16 @@
         <link href="https://www.tokyo-np.co.jp/article/125490"/>
         <updated>2021-08-19T10:54:54.000Z</updated>
         <summary type="html"><![CDATA[東京都の小池百合子知事は１９日、政府の新型コロナウイルス感染症対策分科会の尾身茂会長が東京パラリンピックで、児童や生徒に観戦機会を提供する「学校連携観戦プログラム」を行うことに慎重な姿勢を見せていることについて、都庁で報道陣の取材に応じた。小池氏は「尾身会長からは、オリンピックの際も、同様のご指...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】子どもの夏休み延長を議論、自民コロナ対策本部｜TBS NEWS]]></title>
+        <id>http://news.tbs.co.jp/newseye/tbs_newseye4340732.html</id>
+        <link href="http://news.tbs.co.jp/newseye/tbs_newseye4340732.html"/>
+        <updated>2021-08-19T10:53:34.000Z</updated>
+        <summary type="html"><![CDATA[自民党は１９日、新型コロナ対策本部の幹部会合を開きました。学校でクラスターの発生が相次いでいることから夏休みの延長などを求める声が相次ぎました。 自民党の新型コロナ対策本部の幹部会合では午後、急拡大する新型コロナへの対応策などについて意見が交わされました。 会合では小中学校などでクラスターが増えて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[虚構新聞デジタル：「ほのかな甘み　かぼちゃワイン「エル」４月発売」についてお詫び]]></title>
-        <id>https://kyoko-np.net/owabi_210819.html</id>
-        <link href="https://kyoko-np.net/owabi_210819.html"/>
-        <updated>2021-08-18T22:53:55.000Z</updated>
-        <summary type="html"><![CDATA[２０１５年３月４日に配信した本紙記事「ほのかな甘み　かぼちゃワイン「エル」４月発売」につきまして、かぼちゃを原料にしたワインが現実に存在するというご指摘が読者から寄せられました。編集部にて調査したところ、実際に販売されていることが分かりました。虚構をお届けする本紙におきまして、現実を報じてしまっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[壮大すぎるモデルナの野望「新型コロナワクチンは手始めにすぎない」 | 「私たちはワクチン市場をひっくり返そうとしています」 | クーリエ・ジャポン]]></title>
         <id>https://courrier.jp/news/archives/257513/</id>
         <link href="https://courrier.jp/news/archives/257513/"/>
@@ -281,16 +291,6 @@
         <link href="https://www3.nhk.or.jp/shutoken-news/20210819/1000069082.html"/>
         <updated>2021-08-18T21:59:25.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの首都圏での医療体制が危機的な状況となる中、自宅療養中の妊婦が入院調整が行われたものの受け入れ先が見つからず、そのまま自宅で出産し、赤ちゃんが亡くなったことが関係者への取材で分かりました。 産婦人科医らのグループは緊急の会議を開き、感染した妊婦の急な出産に備え、事前に受け入れ先を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ヤバい】美容室で「ラーメンマンの髪型にして下さい」とお願いしたら想像の100倍ラーメンマンになった | ロケットニュース24]]></title>
-        <id>https://rocketnews24.com/2021/08/18/1526926/</id>
-        <link href="https://rocketnews24.com/2021/08/18/1526926/"/>
-        <updated>2021-08-18T08:55:40.000Z</updated>
-        <summary type="html"><![CDATA[アチョーーーー！　全国3000万人のラーメンマンファンの諸君!!　待たせたな？　あの伝説の漫画作品『闘将!! 拉麵男（たたかえ ラーメンマン）』がおよそ30年ぶりに復活するゾォォォオオオ！　バンザーイ!!　バンザーイ!! かつてラーメンマンを愛するあまり、ラーメンマン仕様のヌンチャクを作ったことがある私、P.K.サン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

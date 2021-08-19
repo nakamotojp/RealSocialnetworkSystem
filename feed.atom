@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T03:13:25.272Z</id>
+    <id>urn:2021-08-19T04:15:35.871Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T03:13:25.272Z</updated>
+    <updated>2021-08-19T04:15:35.871Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[16年住んで不満ナシ。マーティ・フリードマンが新宿をトコトン愛する理由 - SUUMOタウン]]></title>
+        <id>https://suumo.jp/town/entry/shinjuku-marty_friedman/</id>
+        <link href="https://suumo.jp/town/entry/shinjuku-marty_friedman/"/>
+        <updated>2021-08-19T02:00:12.000Z</updated>
+        <summary type="html"><![CDATA[インタビューと文章： 古澤誠一郎　写真：小高雅也 日本に暮らす外国人は、どのような「角度」から街を見ているのでしょうか。彼ら・彼女らの街に対する愛着や意外な暮らしぶりにフォーカスし、街の魅力を掘り下げるインタビュー企画「日本に住んでみた」をお届けします。 ◆◆◆ 今回ご登場いただくのは、新宿で暮らすギタ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ人は庭に小人を置くのか？　ガーデンノームの謎に迫る！ | となりのカインズさん]]></title>
+        <id>https://magazine.cainz.com/article/48236</id>
+        <link href="https://magazine.cainz.com/article/48236"/>
+        <updated>2021-08-19T01:48:19.000Z</updated>
+        <summary type="html"><![CDATA[地主恵亮 ライター。1985年、福岡県生まれ。基本的には運だけで生きているが、取材日はだいたい雨になる。2014年より東京農業大学非常勤講師。著書に『妄想彼女』（鉄人社）、『ひとりぼっちを全力で楽しむ』（すばる舎）がある。 小人を置くという謎 小人というものがいる。「白雪姫」や「靴屋の小人」など、小人は海外...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自宅療養中の死亡が相次ぐ　首都圏では７月以降に１５人 - 産経ニュース]]></title>
         <id>https://www.sankei.com/article/20210818-FOYWE7JRTVIDPFBNGSJQ6S64MA/</id>
@@ -31,6 +51,16 @@
         <link href="https://coliss.com/articles/build-websites/operation/css/css-cover-the-entire-height-of-the-screen.html"/>
         <updated>2021-08-19T00:42:35.000Z</updated>
         <summary type="html"><![CDATA[高さいっぱいに表示したい時、古くはheight: 100%;、そしてmin-height: 100%;で実装していたと思います。現在ではビューポートの単位min-height: 100vh;が使用できるようになりました。 しかし、iOSでは100vhを使用してもアドレスバーが表示されていると下がその分隠れて表示されてしまい、高さいっぱいになりません。Ja...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[障害発生！全員集合？ － オンコールアンチパターンからの一歩前進 - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+        <id>https://blog.cybozu.io/entry/2021/08/19/082049</id>
+        <link href="https://blog.cybozu.io/entry/2021/08/19/082049"/>
+        <updated>2021-08-19T00:19:43.000Z</updated>
+        <summary type="html"><![CDATA[8月だというのに涼しい日が続きますね。 kintone.comのDevOpsをしている@ueokandeです。 もうすぐAWS版kintoneのローンチからから2年が経過しようとしています。 この2年間、DevOpsチームではkintone.comのサービス安定化やスケーラビリティに注力してきました。 時には本番環境の障害で休日や深夜に障害対応することも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -71,6 +101,16 @@
         <link href="https://topisyu.hatenablog.com/entry/2021/08/19/073000"/>
         <updated>2021-08-18T22:53:02.000Z</updated>
         <summary type="html"><![CDATA[8月も後半にさしかかり、地域によっては今週から二学期が始まっているのではないでしょうか。 最近は、神奈川の塾でクラスターが発生したり、甲子園球児が試合の出場を辞退したりと、これまでは感染者が少なかった10代以下での新型コロナウイルスの感染例が目立ってきています。 実際、感染者数のグラフで見ても、例えば...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[壮大すぎるモデルナの野望「新型コロナワクチンは手始めにすぎない」 | 「私たちはワクチン市場をひっくり返そうとしています」 | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/257513/</id>
+        <link href="https://courrier.jp/news/archives/257513/"/>
+        <updated>2021-08-18T22:42:39.000Z</updated>
+        <summary type="html"><![CDATA[1年前の「モデルナ」は、儲からない企業だった。市販製品はなく、有望な技術はひとつあったが、まったく実証されていなかった。開発中の試験薬やワクチンで、大規模な臨床試験を完了したものもなかった。 メッセンジャーRNA（mRNA）ベースの新型コロナワクチンが第III相臨床試験に入ろうとしていたが、それが従来の確立...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -131,16 +171,6 @@
         <link href="https://news.yahoo.co.jp/articles/d3c373b96a36fc27b1468e0cb394970f798d0975"/>
         <updated>2021-08-18T18:56:37.000Z</updated>
         <summary type="html"><![CDATA[メンタリストのDaiGo（34）が自身のYouTubeチャンネルで路上生活者（ホームレス）や生活保護受給者に対して差別的な発言を行い、謝罪した問題を受けて、動画の背景に映っていた本棚の製造会社が18日までに公式サイトに声明を発表。DaiGoの発言について「どのような環境下でも決して許されるものではなく、弊社としても大...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前川さんの後ろから - 川田大智 | 少年ジャンプ＋]]></title>
-        <id>https://shonenjumpplus.com/episode/3269754496451565272</id>
-        <link href="https://shonenjumpplus.com/episode/3269754496451565272"/>
-        <updated>2021-08-18T15:25:07.000Z</updated>
-        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -256,41 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第14回　フジロック2021 – 晶文社スクラップブック]]></title>
-        <id>http://s-scrap.com/6316</id>
-        <link href="http://s-scrap.com/6316"/>
-        <updated>2021-08-18T10:25:27.000Z</updated>
-        <summary type="html"><![CDATA[全感覚祭――GEZANのレーベル十三月が主催するものの価値を再考する野外フェス。GEZAN マヒトゥ・ザ・ピーポーによるオルタナティブな価値の見つけ方。ひどい時代だと思う。今まで生きてきて、ここまで苦しい時代もない。分断は加速し、弾は飛び交ってないが代わりに言葉が飛び交い、見えない血を誰もが流してる。 感染者...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPayが中小店から手数料　最低1.6%、規模優先を転換: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUB171R30X10C21A8000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUB171R30X10C21A8000000/"/>
-        <updated>2021-08-18T10:05:28.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら スマートフォン決済大手PayPay（ペイペイ）は10月から中小事業者向けの決済手数料を変更し、手数料率を最低1.6%とする方針を固めた。一般に3～5%とされるクレジットカ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ヤバい】美容室で「ラーメンマンの髪型にして下さい」とお願いしたら想像の100倍ラーメンマンになった | ロケットニュース24]]></title>
         <id>https://rocketnews24.com/2021/08/18/1526926/</id>
         <link href="https://rocketnews24.com/2021/08/18/1526926/"/>
         <updated>2021-08-18T08:55:40.000Z</updated>
         <summary type="html"><![CDATA[アチョーーーー！　全国3000万人のラーメンマンファンの諸君!!　待たせたな？　あの伝説の漫画作品『闘将!! 拉麵男（たたかえ ラーメンマン）』がおよそ30年ぶりに復活するゾォォォオオオ！　バンザーイ!!　バンザーイ!! かつてラーメンマンを愛するあまり、ラーメンマン仕様のヌンチャクを作ったことがある私、P.K.サン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[横浜市長選の結果で、2ヶ月後に「初の女性総理」が生まれる]]></title>
-        <id>https://anond.hatelabo.jp/20210818131339</id>
-        <link href="https://anond.hatelabo.jp/20210818131339"/>
-        <updated>2021-08-18T08:42:17.000Z</updated>
-        <summary type="html"><![CDATA[風が吹けば桶屋が儲かる。 横浜市長選挙で山中竹春（立民候補）が勝つと、日本初の女性総理・高市早苗が誕生する。 来月末に総裁任期満了を控えて、菅義偉が絶体絶命である。 自民党の重鎮・派閥の幹部たちは「菅・無投票再選」を画策している。 議席を減らしても野党になることはない。 それなら自分たちの権力やポスト...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

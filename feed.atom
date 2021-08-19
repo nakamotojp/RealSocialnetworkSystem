@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T22:10:06.250Z</id>
+    <id>urn:2021-08-19T23:12:07.868Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T22:10:06.250Z</updated>
+    <updated>2021-08-19T23:12:07.868Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.asahi.com/articles/ASP8M6VXRP8MUCVL016.html"/>
         <updated>2021-08-19T20:18:13.000Z</updated>
         <summary type="html"><![CDATA[歴史大河漫画「風雲児たち」で知られる漫画家みなもと太郎（みなもと・たろう、本名・浦源太郎〈うら・げんたろう〉）さんが7日、心不全で亡くなった。74歳だった。昨年から肺がんで闘病中だった。葬儀は家族で営んだ。喪主は妻静香さん。 京都市出身。1967年にデビュー。79年に連載を始めた「風雲児たち」は、関ケ原の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丸川大臣、五輪が感染拡大の原因でない根拠問われテレビ視聴率読み上げる（日刊スポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/3f5957ed249c8e3d818187e14cbbc00fa00d4f46</id>
+        <link href="https://news.yahoo.co.jp/articles/3f5957ed249c8e3d818187e14cbbc00fa00d4f46"/>
+        <updated>2021-08-19T18:21:32.000Z</updated>
+        <summary type="html"><![CDATA[丸川珠代五輪担当相は19日、参院内閣委員会の閉会中審査で、共産党の田村智子氏からパラリンピックの医師、看護師の配置人数を問われ、「コロナ対応に従事していないスポーツドクターや潜在看護師を中心に競技数がピークとなる8月28日で医師は120人程度、看護師は150人程度を想定している」と述べた。 【写真】8日に行わ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +51,26 @@
         <link href="https://togetter.com/li/1762205"/>
         <updated>2021-08-19T14:07:53.000Z</updated>
         <summary type="html"><![CDATA[茂木フル @mogilongsleeper 実を言うと大学のサークル文化はもうだめです。突然こんなこと言ってごめんね。 でも本当です。2、3年後にコロナ以前の大学を知る学生は全員卒業します。それが終わりの合図です。 程なく大きめのサークルすら消滅するので気をつけて それがやんだら、少しだけ間を置いて新たな若者文化が始ま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見ているサイト上に露出している機密情報(APIトークン、IPアドレスなど)を見つけるブラウザ拡張を作りました | Web Scratch]]></title>
+        <id>https://efcl.info/2021/08/19/secretlint-webextension/</id>
+        <link href="https://efcl.info/2021/08/19/secretlint-webextension/"/>
+        <updated>2021-08-19T13:42:39.000Z</updated>
+        <summary type="html"><![CDATA[SecretlintというAPIトークンなどの機密情報がファイル内に含まれているかをチェックできるツールを書いています。 Secretlintはコマンドラインツールとして動くので、主にCIやGitのpre-commit hookを利用して、リポジトリに機密情報が入るのを防止できます。 SecretlintでAPIトークンや秘密鍵などのコミットを防止する ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丸川大臣の五輪来場「迷惑だった」　閉会式は「忖度しすぎて残念な演出」組織委職員の本音｜総合｜神戸新聞NEXT]]></title>
+        <id>https://www.kobe-np.co.jp/news/sougou/202108/0014604923.shtml</id>
+        <link href="https://www.kobe-np.co.jp/news/sougou/202108/0014604923.shtml"/>
+        <updated>2021-08-19T13:32:22.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍で賛否が渦巻く中、１年の延期を経て開催された東京五輪が閉幕した。東京五輪・パラリンピック組織委員会の４０代職員が神戸新聞の取材に応じ、相次ぐ方針転換に翻弄された現場の様子や、組織内から見た開閉会式の評価、膨れあがった開催費などについて明らかにした。 －開閉会式の周囲の評判は。 組織委内でも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -101,6 +131,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210819/k10013212121000.html"/>
         <updated>2021-08-19T11:03:11.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染拡大で医療体制が危機的な状況となる中、本来であれば入院が必要な中等症2の患者が自宅で療養を続けざるをえない事態が相次いでいます。東京都内では中等症2の患者を中心に往診するクリニックも出てきており、医師は「医療崩壊が起きている」と強い懸念を示しています。 入院必要な中等症2の患...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フジ榎並アナ号泣報道、感染拡大で妊婦入院できず赤ちゃん死亡に感情あふれ - 芸能 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/entertainment/news/202108190000720.html</id>
+        <link href="https://www.nikkansports.com/entertainment/news/202108190000720.html"/>
+        <updated>2021-08-19T10:58:27.000Z</updated>
+        <summary type="html"><![CDATA[フジテレビ榎並大二郎アナウンサー（35）が、同局系報道番組「Live News　イット！」（月～金曜午後3時45分）の19日の生放送に出演し、新型コロナウイルス感染者の妊婦が入院できず自宅出産して赤ちゃんが死亡してしまったニュースを伝えた際、号泣する場面が放送された。 番組で榎並アナは「救えるはずの命が救えなくな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[津田大介 on Twitter: "フジロック出演を辞退しました。近隣の医療機関の状況や、新潟市内の音楽教室でマスクをしていた子供たちにクラスターが発生したこと、抗原検査がPCR検査で陽性となる患者の59％（米疾病対策センター）〜42％（NFL所属医師らの調査）を見… https://t.co/aaE2Hc37kr"]]></title>
-        <id>https://twitter.com/tsuda/status/1428281252423946245</id>
-        <link href="https://twitter.com/tsuda/status/1428281252423946245"/>
-        <updated>2021-08-19T09:14:35.000Z</updated>
-        <summary type="html"><![CDATA[フジロック出演を辞退しました。近隣の医療機関の状況や、新潟市内の音楽教室でマスクをしていた子供たちにクラスターが発生したこと、抗原検査がPCR検査で陽性となる患者の59％（米疾病対策センター）〜42％（NFL所属医師らの調査）を見… https://t.co/aaE2Hc37kr]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小池百合子都知事の修学旅行の中止・延期要請に学生絶望の声「パラ観戦はいいのに…」「高校生活返して」（スポーツ報知） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/11f0c122405292a9055a0c949d652552c14a453c</id>
         <link href="https://news.yahoo.co.jp/articles/11f0c122405292a9055a0c949d652552c14a453c"/>
@@ -201,16 +231,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210819/k10013212131000.html"/>
         <updated>2021-08-19T07:56:35.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染の急拡大が続く中、共産党はさらなる事態悪化を防ぐため、来週に開幕を控えたパラリンピックを中止することなどを政府に求める緊急提案をまとめました。 政府への緊急提案は、共産党の志位委員長が19日の記者会見で明らかにしました。 この中では「東京オリンピックの開催強行が国民に誤ったメ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 5534人感染確認 2日連続で5000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211791000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211791000.html"/>
-        <updated>2021-08-19T07:50:26.000Z</updated>
-        <summary type="html"><![CDATA[東京都は19日、これまでで2番目に多い5534人が都内で新たに新型コロナウイルスに感染していることを確認したと発表しました。5000人を超えるのは2日連続で、感染の急拡大が続いています。また、都は感染が確認された4人が死亡したことを明らかにしました。 東京都は19日、都内で新たに10歳未満から90代までの男女合わせ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「ポルノが治安を良くしてるわけではないが、治安の悪いところからはポルノが消えてる」その理由に納得の声 - Togetter]]></title>
-        <id>https://togetter.com/li/1762049</id>
-        <link href="https://togetter.com/li/1762049"/>
-        <updated>2021-08-19T05:46:11.000Z</updated>
-        <summary type="html"><![CDATA[チカ🥞 @chika_tilo 何度か話題にしてるけど「ポルノが治安を良くしてる証拠はないけど、治安悪い所はポルノより人間買ったほうが安くなるから相対的にポルノが消えてる。ポルノのない所はヤバい」をまた実例で見る事になりそうだ…… 2021-08-19 07:37:00 チカ🥞 @chika_tilo 「ポルノのおかげで本物に手を出さなくて済ん...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「ではビートルズ、イン・マイ・ライフをどうぞ」　ポッドキャストなのに商用音楽を使った音楽番組ができるSpotify「Music + Talk」が楽しすぎる：CloseBox（1/2 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/19/news091.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/19/news091.html"/>
@@ -261,16 +271,6 @@
         <link href="https://ciaocomi.tameshiyo.me/D210004X001X01"/>
         <updated>2021-08-19T04:06:59.000Z</updated>
         <summary type="html"><![CDATA[しばらく経ってもこの画面に変化がない場合は、Javascript を on にして再度読み込んで下さい。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小池都知事 子どもたちのパラ観戦は“予定どおり” 強調 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211501000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211501000.html"/>
-        <updated>2021-08-19T03:39:29.000Z</updated>
-        <summary type="html"><![CDATA[東京パラリンピックの会場で子どもたちに競技を見てもらう都の方針に対し、都の教育委員から新型コロナウイルスの感染の急拡大を理由に反対の意見が出たことについて、小池知事は「より安心・安全な形でできるように準備を進めていく」と述べ、予定どおり実施する考えを強調しました。 24日に開幕する東京パラリンピック...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

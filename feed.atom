@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T11:10:16.324Z</id>
+    <id>urn:2021-08-19T12:19:37.062Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T11:10:16.324Z</updated>
+    <updated>2021-08-19T12:19:37.062Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[救急要請も959人搬送せず　都内のコロナ療養患者ら ｜ 共同通信]]></title>
+        <id>https://nordot.app/801019507101876224</id>
+        <link href="https://nordot.app/801019507101876224"/>
+        <updated>2021-08-19T09:29:51.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスで自宅療養中などに症状が悪化し、今月2～8日の1週間に救急搬送を要請した東京消防庁管内の患者1668人のうち、959人が受け入れ先の医療機関が見つからないなどの理由で搬送されなかったことが19日、分かった。 同庁によると、病床の逼迫で医療機関が受け入れられなかったケースに加え、保健所の判断な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小池百合子都知事の修学旅行の中止・延期要請に学生絶望の声「パラ観戦はいいのに…」「高校生活返して」（スポーツ報知） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/11f0c122405292a9055a0c949d652552c14a453c</id>
@@ -221,16 +231,6 @@
         <link href="https://kyoko-np.net/owabi_210819.html"/>
         <updated>2021-08-18T22:53:55.000Z</updated>
         <summary type="html"><![CDATA[２０１５年３月４日に配信した本紙記事「ほのかな甘み　かぼちゃワイン「エル」４月発売」につきまして、かぼちゃを原料にしたワインが現実に存在するというご指摘が読者から寄せられました。編集部にて調査したところ、実際に販売されていることが分かりました。虚構をお届けする本紙におきまして、現実を報じてしまっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏休み明けの二学期には子どもが新型コロナに感染する前提で、学校にPlan Bを確認しておく（できればPTAも巻き込んで） - 斗比主閲子の姑日記]]></title>
-        <id>https://topisyu.hatenablog.com/entry/2021/08/19/073000</id>
-        <link href="https://topisyu.hatenablog.com/entry/2021/08/19/073000"/>
-        <updated>2021-08-18T22:53:02.000Z</updated>
-        <summary type="html"><![CDATA[8月も後半にさしかかり、地域によっては今週から二学期が始まっているのではないでしょうか。 最近は、神奈川の塾でクラスターが発生したり、甲子園球児が試合の出場を辞退したりと、これまでは感染者が少なかった10代以下での新型コロナウイルスの感染例が目立ってきています。 実際、感染者数のグラフで見ても、例えば...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

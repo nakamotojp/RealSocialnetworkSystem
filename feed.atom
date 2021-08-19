@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T20:12:56.211Z</id>
+    <id>urn:2021-08-19T21:10:14.714Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T20:12:56.211Z</updated>
+    <updated>2021-08-19T21:10:14.714Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[千葉真一さんワクチン接種せず ｜ 共同通信]]></title>
+        <id>https://nordot.app/801090087967031296</id>
+        <link href="https://nordot.app/801090087967031296"/>
+        <updated>2021-08-19T14:08:27.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスによる肺炎で死去した俳優千葉真一さんの所属事務所によると、千葉さんはワクチンを接種していなかったという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俳優の千葉真一さん死去 82歳 新型コロナ感染による肺炎 | おくやみ | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210819/k10013213051000.html</id>
@@ -51,6 +61,16 @@
         <link href="https://www.oricon.co.jp/news/2204126/full/"/>
         <updated>2021-08-19T12:50:07.000Z</updated>
         <summary type="html"><![CDATA[俳優の千葉真一さんが19日午後5時26分、新型コロナウイルスによる肺炎のため千葉県・君津市の病院で亡くなった。82歳。同日、所属事務所が発表した。 事務所によると、千葉さんは8月8日より新型コロナによる肺炎が悪化したため入院。酸素吸入を続けている状態だったが、回復に至らず息を引き取ったという。 千葉さんは19...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「苦しい 助けて…」息子の電話 入院まで1週間 母が感じたこと | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210819/k10013212121000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013212121000.html"/>
+        <updated>2021-08-19T11:03:11.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大で医療体制が危機的な状況となる中、本来であれば入院が必要な中等症2の患者が自宅で療養を続けざるをえない事態が相次いでいます。東京都内では中等症2の患者を中心に往診するクリニックも出てきており、医師は「医療崩壊が起きている」と強い懸念を示しています。 入院必要な中等症2の患...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ自宅療養者 首都圏1都3県で6万人近くに | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211861000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211861000.html"/>
-        <updated>2021-08-19T06:50:52.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスへの感染が確認された人のうち、自宅療養している人が首都圏の1都3県で6万人近くに上っていることが分かりました。 このうち、 ▽東京都では18日時点で2万2226人が自宅療養をしています。 また、 ▽神奈川県では17日時点で1万3342人となっているほか、 ▽千葉県では18日時点で8506人となっています。 こ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[この一年の話（後編）｜小野マトペ｜note]]></title>
         <id>https://note.com/ono_matope/n/na66bbfdfb9e3</id>
         <link href="https://note.com/ono_matope/n/na66bbfdfb9e3"/>
@@ -281,16 +291,6 @@
         <link href="https://courrier.jp/news/archives/257513/"/>
         <updated>2021-08-18T22:42:39.000Z</updated>
         <summary type="html"><![CDATA[1年前の「モデルナ」は、儲からない企業だった。市販製品はなく、有望な技術はひとつあったが、まったく実証されていなかった。開発中の試験薬やワクチンで、大規模な臨床試験を完了したものもなかった。 メッセンジャーRNA（mRNA）ベースの新型コロナワクチンが第III相臨床試験に入ろうとしていたが、それが従来の確立...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自宅療養の妊婦 受け入れ先見つからず出産 赤ちゃん死亡｜NHK 首都圏のニュース]]></title>
-        <id>https://www3.nhk.or.jp/shutoken-news/20210819/1000069082.html</id>
-        <link href="https://www3.nhk.or.jp/shutoken-news/20210819/1000069082.html"/>
-        <updated>2021-08-18T21:59:25.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの首都圏での医療体制が危機的な状況となる中、自宅療養中の妊婦が入院調整が行われたものの受け入れ先が見つからず、そのまま自宅で出産し、赤ちゃんが亡くなったことが関係者への取材で分かりました。 産婦人科医らのグループは緊急の会議を開き、感染した妊婦の急な出産に備え、事前に受け入れ先を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

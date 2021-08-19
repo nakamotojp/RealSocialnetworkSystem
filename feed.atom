@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T19:09:24.996Z</id>
+    <id>urn:2021-08-19T20:12:56.211Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T19:09:24.996Z</updated>
+    <updated>2021-08-19T20:12:56.211Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[俳優の千葉真一さん死去 82歳 新型コロナ感染による肺炎 | おくやみ | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210819/k10013213051000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013213051000.html"/>
+        <updated>2021-08-19T13:22:04.000Z</updated>
+        <summary type="html"><![CDATA[大胆なアクションで知られ、映画やテレビドラマなどで活躍した俳優の千葉真一さんが19日夕方、新型コロナウイルスの感染による肺炎のため千葉県内の病院で亡くなりました。82歳でした。 千葉さんは福岡市で生まれ、大学で体操を学んだ後に俳優をめざし、昭和35年、テレビの特撮ヒーロー番組の主人公役でデビューしました...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杉田副長官が検査入院：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021081901130&amp;g=pol</id>
@@ -21,6 +31,16 @@
         <link href="https://anond.hatelabo.jp/20210819215636"/>
         <updated>2021-08-19T13:00:48.000Z</updated>
         <summary type="html"><![CDATA[ぶっちゃけあれ必要？ いきなり本編が始まった方がよくない？ 実際、配信サイトだと飛ばせる仕様になっているところもあるし。 あれってなんの意味があってつけてるの？ 思考停止で「そういうもんだから」で作ってない？]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都で10代以下のコロナ感染も急増　塾や学校でクラスター発生 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210819/k00/00m/040/302000c</id>
+        <link href="https://mainichi.jp/articles/20210819/k00/00m/040/302000c"/>
+        <updated>2021-08-19T12:50:11.000Z</updated>
+        <summary type="html"><![CDATA[東京都内で新型コロナウイルスに感染した10代以下は、7月上旬はおおむね1日当たり100人以下で推移していたが、新規感染者の急増に伴って増え、19日は856人となった。都によると、感染者全体に占める10代以下の割合は7月以降、十数％で推移し、夏休み期間中も減少する兆しはみられない。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[津田大介 on Twitter: "フジロック出演を辞退しました。近隣の医療機関の状況や、新潟市内の音楽教室でマスクをしていた子供たちにクラスターが発生したこと、抗原検査がPCR検査で陽性となる患者の59％（米疾病対策センター）〜42％（NFL所属医師らの調査）を見… https://t.co/aaE2Hc37kr"]]></title>
+        <id>https://twitter.com/tsuda/status/1428281252423946245</id>
+        <link href="https://twitter.com/tsuda/status/1428281252423946245"/>
+        <updated>2021-08-19T09:14:35.000Z</updated>
+        <summary type="html"><![CDATA[フジロック出演を辞退しました。近隣の医療機関の状況や、新潟市内の音楽教室でマスクをしていた子供たちにクラスターが発生したこと、抗原検査がPCR検査で陽性となる患者の59％（米疾病対策センター）〜42％（NFL所属医師らの調査）を見… https://t.co/aaE2Hc37kr]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小池百合子都知事の修学旅行の中止・延期要請に学生絶望の声「パラ観戦はいいのに…」「高校生活返して」（スポーツ報知） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/11f0c122405292a9055a0c949d652552c14a453c</id>
         <link href="https://news.yahoo.co.jp/articles/11f0c122405292a9055a0c949d652552c14a453c"/>
@@ -131,6 +161,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211791000.html"/>
         <updated>2021-08-19T07:50:26.000Z</updated>
         <summary type="html"><![CDATA[東京都は19日、これまでで2番目に多い5534人が都内で新たに新型コロナウイルスに感染していることを確認したと発表しました。5000人を超えるのは2日連続で、感染の急拡大が続いています。また、都は感染が確認された4人が死亡したことを明らかにしました。 東京都は19日、都内で新たに10歳未満から90代までの男女合わせ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ自宅療養者 首都圏1都3県で6万人近くに | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211861000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211861000.html"/>
+        <updated>2021-08-19T06:50:52.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスへの感染が確認された人のうち、自宅療養している人が首都圏の1都3県で6万人近くに上っていることが分かりました。 このうち、 ▽東京都では18日時点で2万2226人が自宅療養をしています。 また、 ▽神奈川県では17日時点で1万3342人となっているほか、 ▽千葉県では18日時点で8506人となっています。 こ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【独自】都内のコロナ救急要請 病院見つからぬ例多発 ６割搬送せず｜TBS NEWS]]></title>
-        <id>http://news.tbs.co.jp/newseye/tbs_newseye4340391.html</id>
-        <link href="http://news.tbs.co.jp/newseye/tbs_newseye4340391.html"/>
-        <updated>2021-08-19T05:06:39.000Z</updated>
-        <summary type="html"><![CDATA[自宅などで新型コロナの症状が悪化し救急搬送を要請した都内の患者のうち、およそ６割が、受け入れ先の病院が見つからないなどの理由で搬送されていなかったことが分かりました。 東京都では新型コロナに感染しても「自宅療養」や「入院調整中」などとなっている人が３万人を超えて増え続け、肺炎が悪化するなどして本来...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「ではビートルズ、イン・マイ・ライフをどうぞ」　ポッドキャストなのに商用音楽を使った音楽番組ができるSpotify「Music + Talk」が楽しすぎる：CloseBox（1/2 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/19/news091.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/19/news091.html"/>
@@ -226,26 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[16年住んで不満ナシ。マーティ・フリードマンが新宿をトコトン愛する理由 - SUUMOタウン]]></title>
-        <id>https://suumo.jp/town/entry/shinjuku-marty_friedman/</id>
-        <link href="https://suumo.jp/town/entry/shinjuku-marty_friedman/"/>
-        <updated>2021-08-19T02:00:12.000Z</updated>
-        <summary type="html"><![CDATA[インタビューと文章： 古澤誠一郎　写真：小高雅也 日本に暮らす外国人は、どのような「角度」から街を見ているのでしょうか。彼ら・彼女らの街に対する愛着や意外な暮らしぶりにフォーカスし、街の魅力を掘り下げるインタビュー企画「日本に住んでみた」をお届けします。 ◆◆◆ 今回ご登場いただくのは、新宿で暮らすギタ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年を取るにつれて代謝が落ちるは間違いだった。20歳から60歳までは安定しているという研究結果 : カラパイア]]></title>
-        <id>https://karapaia.com/archives/52305040.html</id>
-        <link href="https://karapaia.com/archives/52305040.html"/>
-        <updated>2021-08-19T01:04:07.000Z</updated>
-        <summary type="html"><![CDATA[中年になってぽっこりと膨らんだお腹を見て、「いやー、もう歳だから。代謝が落ちちゃってさ〜」という言い訳はできなくなるかもしれない。 代謝は、生物体がエネルギーなどを外部から取り込み、体内で化学的に変化させ、不用なものを消費する反応のことだが、年を取ると代謝が落ち、肥満や便秘の原因になると言われてい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人びとを「プア」から「ワーキングプア」に全力でクラスチェンジさせようとしている国で生きるということ - いつか電池がきれるまで]]></title>
         <id>https://fujipon.hatenablog.com/entry/2021/08/19/084500</id>
         <link href="https://fujipon.hatenablog.com/entry/2021/08/19/084500"/>
@@ -261,16 +271,6 @@
         <link href="https://anond.hatelabo.jp/20210819083427"/>
         <updated>2021-08-18T23:53:58.000Z</updated>
         <summary type="html"><![CDATA[3万円分の楽天ポイントが月末で期限切れになっちゃうので3万円くらいでQOLがちょっと上がりそうな良いものを買いたい。何か思いついたら教えてほしい。 ＋1万円くらいまでだったら追加しても良いかなと考えている。 候補としては ・Panasonicの良いドライヤー ・高級シャワーヘッド とか。 3万じゃなくても、最近これ買...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京パラ “学校観戦”に都教委反対 教育庁は実施前提に準備 | オリンピック・パラリンピック | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211141000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211141000.html"/>
-        <updated>2021-08-18T22:55:28.000Z</updated>
-        <summary type="html"><![CDATA[東京パラリンピックの会場で子どもたちが試合を見ることについて、18日夜に開かれた都の教育委員会で、出席した委員全員が感染の急拡大を理由に反対しました。 これに対して都の教育庁は「現場から強い希望がある」などとして、実施を前提に準備を進める考えを示しました。 今月24日に開幕するパラリンピックは原則、無...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

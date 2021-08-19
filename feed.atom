@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T08:13:47.596Z</id>
+    <id>urn:2021-08-19T09:12:21.558Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T08:13:47.596Z</updated>
+    <updated>2021-08-19T09:12:21.558Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 5534人感染確認 2日連続で5000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211791000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211791000.html"/>
+        <updated>2021-08-19T07:50:26.000Z</updated>
+        <summary type="html"><![CDATA[東京都は19日、これまでで2番目に多い5534人が都内で新たに新型コロナウイルスに感染していることを確認したと発表しました。 5000人を超えるのは2日連続で、感染の急拡大が続いています。 また、都は感染が確認された4人が死亡したことを明らかにしました。 東京都は19日、都内で新たに10歳未満から90代までの男女合わ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[この一年の話（後編）｜小野マトペ｜note]]></title>
         <id>https://note.com/ono_matope/n/na66bbfdfb9e3</id>
@@ -26,11 +36,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【独自】都内のコロナ救急要請 病院見つからぬ例多発 ６割搬送せず｜TBS NEWS]]></title>
+        <id>http://news.tbs.co.jp/newseye/tbs_newseye4340391.html</id>
+        <link href="http://news.tbs.co.jp/newseye/tbs_newseye4340391.html"/>
+        <updated>2021-08-19T05:06:39.000Z</updated>
+        <summary type="html"><![CDATA[自宅などで新型コロナの症状が悪化し救急搬送を要請した都内の患者のうち、およそ６割が、受け入れ先の病院が見つからないなどの理由で搬送されていなかったことが分かりました。 東京都では新型コロナに感染しても「自宅療養」や「入院調整中」などとなっている人が３万人を超えて増え続け、肺炎が悪化するなどして本来...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「ではビートルズ、イン・マイ・ライフをどうぞ」　ポッドキャストなのに商用音楽を使った音楽番組ができるSpotify「Music + Talk」が楽しすぎる：CloseBox（1/2 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/19/news091.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/19/news091.html"/>
         <updated>2021-08-19T04:34:51.000Z</updated>
         <summary type="html"><![CDATA[8月19日午前8時過ぎに日本でも利用可能になったSpotifyの「Music + Talk」。Spotifyが扱っている商用音楽をポッドキャストの中で自由に使えるというものだ。ポッドキャストがラジオと同等になる、ポッドキャスト誕生以来、最も革命的な出来事だといってもいいくらいだ。 さっそくやってみたので、制作の流れを簡単に紹介...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高齢化社会に合わせてこれからの漫画アニメゲームは]]></title>
+        <id>https://anond.hatelabo.jp/20210819125940</id>
+        <link href="https://anond.hatelabo.jp/20210819125940"/>
+        <updated>2021-08-19T04:06:48.000Z</updated>
+        <summary type="html"><![CDATA[６０代、７０代の老人の主人公がバリバリ活躍するようにするべし プリキュアはおばあちゃんたちが和菓子工場でパートをしながら悪と戦う内容に変更 和菓子工場の内部事情も描けて一挙両得 クレヨンしんちゃんもしんのすけはサブキャラにして しんのすけのおじいちゃんが自由奔放にいたずらしまくる内容に変更 ちょうどし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,16 +81,6 @@
         <link href="https://togetter.com/li/1762002"/>
         <updated>2021-08-19T02:18:19.000Z</updated>
         <summary type="html"><![CDATA[福島の人（外道）ω @fukushimanohito 朝、職場について、いつもの如く惣菜パンとコーヒーで朝食を食べていると。 昨日から勤務していて、私と交代する職員がやってきて、眼の前で話しかけてきた。食事中の人間はしゃべるな、話しかけるなを徹底しているところであるので、何だおめえと思いながら「緊急ですか」と聞くと...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さかいとしゆき (Sakai Toshiyuki) on Twitter: "さんざんマスクもワクチンもしなくていいと訴えてきたテキサス州知事のアボット氏。本人は毎日検査を欠かさず、陽性反応が出るやいなや無症状でも念のため抗体カクテル療法を受けるという徹底ぶり。ワクチンはしなくていいと訴えてきた本人は三度目… https://t.co/eSUnBBxryF"]]></title>
-        <id>https://twitter.com/SakaiToshiyuki0/status/1428011308591550466</id>
-        <link href="https://twitter.com/SakaiToshiyuki0/status/1428011308591550466"/>
-        <updated>2021-08-19T02:16:23.000Z</updated>
-        <summary type="html"><![CDATA[さんざんマスクもワクチンもしなくていいと訴えてきたテキサス州知事のアボット氏。本人は毎日検査を欠かさず、陽性反応が出るやいなや無症状でも念のため抗体カクテル療法を受けるという徹底ぶり。ワクチンはしなくていいと訴えてきた本人は三度目… https://t.co/eSUnBBxryF]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ししとうの存在意義がわからない なんであんなロシアンルーレット食べるん]]></title>
-        <id>https://anond.hatelabo.jp/20210818223923</id>
-        <link href="https://anond.hatelabo.jp/20210818223923"/>
-        <updated>2021-08-18T22:33:23.000Z</updated>
-        <summary type="html"><![CDATA[ししとうの存在意義がわからない なんであんなロシアンルーレット食べるん]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新型コロナ 自宅療養中の妊婦 搬送先なく早産で新生児死亡 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html"/>
@@ -221,16 +231,6 @@
         <link href="https://www3.nhk.or.jp/shutoken-news/20210819/1000069082.html"/>
         <updated>2021-08-18T21:59:25.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの首都圏での医療体制が危機的な状況となる中、自宅療養中の妊婦が出血があったために救急車を呼んだものの受け入れ先が見つからず、そのまま自宅で出産し、赤ちゃんが亡くなったことが関係者への取材で分かりました。 産婦人科医らのグループは緊急の会議を開き、感染した妊婦の急な出産に備え、事前...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファイザーワクチン3回目接種で86％発症予防か イスラエル調査 | 新型コロナ ワクチン（世界） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211161000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211161000.html"/>
-        <updated>2021-08-18T21:19:16.000Z</updated>
-        <summary type="html"><![CDATA[中東イスラエルの医療保険制度を担う機関は、新型コロナウイルスの3回目のワクチン接種の有効性について、60歳以上では発症を予防する効果が86％と推定されるという調査結果を発表しました。 16歳以上の8割以上が2回目のワクチン接種を終えているイスラエルでは、一時、感染者が激減しましたが、感染力が強い変異ウイル...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

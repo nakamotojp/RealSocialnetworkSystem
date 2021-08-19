@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T07:11:41.716Z</id>
+    <id>urn:2021-08-19T08:13:47.596Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T07:11:41.716Z</updated>
+    <updated>2021-08-19T08:13:47.596Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://note.com/ono_matope/n/na66bbfdfb9e3"/>
         <updated>2021-08-19T05:48:37.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首相、出勤7割削減を要請　テレワーク徹底、同友会に（共同通信） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/de5916f8b443557bc3c140d93bacfd672100d234</id>
+        <link href="https://news.yahoo.co.jp/articles/de5916f8b443557bc3c140d93bacfd672100d234"/>
+        <updated>2021-08-19T05:30:55.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は19日、東京都千代田区の経済同友会で桜田謙悟代表幹事らと会談し、出勤者の7割削減に向けテレワークを徹底するよう要請した。桜田氏は協力する姿勢を示した上で「営業などの現場で、顧客の要望を受けて出勤しているケースもある」として、対面にこだわらない取引が広がるよう、政府に環境整備を求めた。 【...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,21 +196,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ 自宅療養中の妊婦 搬送先なく早産で新生児死亡 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html"/>
-        <updated>2021-08-18T22:29:19.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの首都圏での医療体制が危機的な状況となる中、自宅療養中の妊婦が出血があったために救急車を呼んだものの受け入れ先が見つからず、そのまま自宅で出産し、赤ちゃんが亡くなったことが関係者への取材で分かりました。 産婦人科医らのグループは緊急の会議を開き、感染した妊婦の急な出産に備え、事前...]]></summary>
+        <title type="html"><![CDATA[ししとうの存在意義がわからない なんであんなロシアンルーレット食べるん]]></title>
+        <id>https://anond.hatelabo.jp/20210818223923</id>
+        <link href="https://anond.hatelabo.jp/20210818223923"/>
+        <updated>2021-08-18T22:33:23.000Z</updated>
+        <summary type="html"><![CDATA[ししとうの存在意義がわからない なんであんなロシアンルーレット食べるん]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[わずかな火でも…自宅療養者 酸素吸入装置使用時の火災に注意 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013210891000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013210891000.html"/>
-        <updated>2021-08-18T22:19:46.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの自宅療養者が急増し、在宅で酸素を吸入するための装置を使うケースが多くなっていますが、たばこなどの火が近くにあると燃え移って火災が起きるおそれがあるとして、消防や業界団体が注意を呼びかけています。 新型コロナウイルスに感染してもすぐに入院できず自宅で療養する人が急増していますが、...]]></summary>
+        <title type="html"><![CDATA[新型コロナ 自宅療養中の妊婦 搬送先なく早産で新生児死亡 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html"/>
+        <updated>2021-08-18T22:29:19.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの首都圏での医療体制が危機的な状況となる中、自宅療養中の妊婦が出血があったために救急車を呼んだものの受け入れ先が見つからず、そのまま自宅で出産し、赤ちゃんが亡くなったことが関係者への取材で分かりました。 産婦人科医らのグループは緊急の会議を開き、感染した妊婦の急な出産に備え、事前...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://blog.kyash.co/entry/2021/08/18/163430"/>
         <updated>2021-08-18T11:12:45.000Z</updated>
         <summary type="html"><![CDATA[はじめまして。Kyashでデータエンジニアリングを担当しているKyashデータマンです。この記事では、Kyash社内のデータ分析の基礎に関するドキュメントを紹介します。 Kyashでは、データエンジニアリング・ガバナンス・セキュリティなど様々な角度から、公正なデータの取扱いと活用を推進しています。従来は、一部の訓練さ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「東京五輪へ波風立てないでほしい」　専門家提言に「圧力」電話 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210818/k00/00m/040/258000c</id>
-        <link href="https://mainichi.jp/articles/20210818/k00/00m/040/258000c"/>
-        <updated>2021-08-18T10:52:49.000Z</updated>
-        <summary type="html"><![CDATA[記者会見する新型コロナウイルス感染症対策分科会の尾身茂会長＝東京都千代田区で2021年8月12日午後4時50分、宮間俊樹撮影 東京オリンピック・パラリンピックについて、政府の「新型コロナウイルス感染症対策分科会」の専門家らがまとめたリスク評価の提言を巡り、政府から専門家に対してさまざまな「圧力」があったこと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

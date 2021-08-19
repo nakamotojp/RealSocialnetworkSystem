@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T13:19:07.604Z</id>
+    <id>urn:2021-08-19T14:11:15.177Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T13:19:07.604Z</updated>
+    <updated>2021-08-19T14:11:15.177Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[俳優・千葉真一さん死去　82歳　新型コロナによる肺炎のため | ORICON NEWS]]></title>
+        <id>https://www.oricon.co.jp/news/2204126/full/</id>
+        <link href="https://www.oricon.co.jp/news/2204126/full/"/>
+        <updated>2021-08-19T12:50:07.000Z</updated>
+        <summary type="html"><![CDATA[俳優の千葉真一さんが19日午後5時26分、新型コロナウイルスによる肺炎のため千葉県・君津市の病院で亡くなった。82歳。同日、所属事務所が発表した。 事務所によると、千葉さんは8月8日より新型コロナによる肺炎が悪化したため入院。酸素吸入を続けている状態だったが、回復に至らず息を引き取ったという。 千葉さんは19...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小池知事　尾身氏の慎重論を一蹴「五輪でも指摘いただいたが、安全にやり切った」子どものパラ観戦で：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/125490</id>
+        <link href="https://www.tokyo-np.co.jp/article/125490"/>
+        <updated>2021-08-19T10:54:54.000Z</updated>
+        <summary type="html"><![CDATA[東京都の小池百合子知事は１９日、政府の新型コロナウイルス感染症対策分科会の尾身茂会長が東京パラリンピックで、児童や生徒に観戦機会を提供する「学校連携観戦プログラム」を行うことに慎重な姿勢を見せていることについて、都庁で報道陣の取材に応じた。小池氏は「尾身会長からは、オリンピックの際も、同様のご指...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「何で今まで知らなかったんだ」日帰り温泉・銭湯マップ「ゆる〜と」があまりにも便利すぎて温泉通いが捗りそう！ - Togetter]]></title>
+        <id>https://togetter.com/li/1762133</id>
+        <link href="https://togetter.com/li/1762133"/>
+        <updated>2021-08-19T09:52:57.000Z</updated>
+        <summary type="html"><![CDATA[リンク yuru-to.net ゆる～と - 全国日帰り温泉・銭湯マップ ゆる～とは、全国の日帰り温泉・銭湯マップです。日帰り入浴可能な施設（日帰り温泉や銭湯、温泉宿、足湯など）が、15,000件以上登録されています。一番近い銭湯を探したり、温泉地マップを表示したり、料金などの条件で検索することができます。Googleに登録...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神奈川 相模原 小中学校を月末まで臨時休校 感染急拡大受け | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210819/k10013212521000.html</id>
@@ -196,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[障害発生！全員集合？ － オンコールアンチパターンからの一歩前進 - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
-        <id>https://blog.cybozu.io/entry/2021/08/19/082049</id>
-        <link href="https://blog.cybozu.io/entry/2021/08/19/082049"/>
-        <updated>2021-08-19T00:19:43.000Z</updated>
-        <summary type="html"><![CDATA[8月だというのに涼しい日が続きますね。 kintone.comのDevOpsをしている@ueokandeです。 もうすぐAWS版kintoneのローンチからから2年が経過しようとしています。 この2年間、DevOpsチームではkintone.comのサービス安定化やスケーラビリティに注力してきました。 時には本番環境の障害で休日や深夜に障害対応することも...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人びとを「プア」から「ワーキングプア」に全力でクラスチェンジさせようとしている国で生きるということ - いつか電池がきれるまで]]></title>
         <id>https://fujipon.hatenablog.com/entry/2021/08/19/084500</id>
         <link href="https://fujipon.hatenablog.com/entry/2021/08/19/084500"/>
@@ -221,16 +241,6 @@
         <link href="https://anond.hatelabo.jp/20210819083427"/>
         <updated>2021-08-18T23:53:58.000Z</updated>
         <summary type="html"><![CDATA[3万円分の楽天ポイントが月末で期限切れになっちゃうので3万円くらいでQOLがちょっと上がりそうな良いものを買いたい。何か思いついたら教えてほしい。 ＋1万円くらいまでだったら追加しても良いかなと考えている。 候補としては ・Panasonicの良いドライヤー ・高級シャワーヘッド とか。 3万じゃなくても、最近これ買...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン接種後に亡くなった人々は何をしていたのか？具体例を紹介（NEWSポストセブン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/a0c76c59e819101aab5fc4c4baab4b9ffa8c9c7e</id>
-        <link href="https://news.yahoo.co.jp/articles/a0c76c59e819101aab5fc4c4baab4b9ffa8c9c7e"/>
-        <updated>2021-08-18T23:47:29.000Z</updated>
-        <summary type="html"><![CDATA[国内でワクチンを1回以上接種した人数は、人口のほぼ半分になった。その一方、ワクチン接種後に亡くなった人も増え続けている。彼らが残した「データ」を読み解くと、いままで当たり前にとっていた行動が危険になる可能性を示唆している。 【写真】ワクチン接種後に注意すべき行動とは？ 「6月下旬に関西に住む70代の母...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://www3.nhk.or.jp/shutoken-news/20210819/1000069082.html"/>
         <updated>2021-08-18T21:59:25.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの首都圏での医療体制が危機的な状況となる中、自宅療養中の妊婦が入院調整が行われたものの受け入れ先が見つからず、そのまま自宅で出産し、赤ちゃんが亡くなったことが関係者への取材で分かりました。 産婦人科医らのグループは緊急の会議を開き、感染した妊婦の急な出産に備え、事前に受け入れ先を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「生活保護で風俗やめられた」　なまぽちゃんが伝えたいこと | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210818/k00/00m/040/255000c</id>
-        <link href="https://mainichi.jp/articles/20210818/k00/00m/040/255000c"/>
-        <updated>2021-08-18T20:39:56.000Z</updated>
-        <summary type="html"><![CDATA[取材に応じる「なまぽちゃん」＝2021年8月6日午後3時6分、山下智恵撮影（画像の一部を加工しています） ＜お金に困って風俗やるしかないかもと思ってる女の子みんな生活保護受給すること＞。生活保護を受給する女性がツイッターとブログで、こう呼びかけていた。SNS（ネット交流サービス）上で「なまぽちゃん」と名乗る...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

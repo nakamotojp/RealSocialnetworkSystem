@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T12:19:37.062Z</id>
+    <id>urn:2021-08-19T13:19:07.604Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T12:19:37.062Z</updated>
+    <updated>2021-08-19T13:19:07.604Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[神奈川 相模原 小中学校を月末まで臨時休校 感染急拡大受け | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210819/k10013212521000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013212521000.html"/>
+        <updated>2021-08-19T09:46:29.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染の急拡大を受けて、相模原市は今月25日から2学期が始まる予定だった相模原市立の小中学校について、今月末まで臨時休校にすることを決めました。 相模原市内では新型コロナウイルスへの感染が確認された小中学生が、1学期は1日1人ほどでしたが、夏休みに入って6倍以上に増えました。 2学期は今月2...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[救急要請も959人搬送せず　都内のコロナ療養患者ら ｜ 共同通信]]></title>
         <id>https://nordot.app/801019507101876224</id>
@@ -206,6 +216,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3万円でQOLあげたい]]></title>
+        <id>https://anond.hatelabo.jp/20210819083427</id>
+        <link href="https://anond.hatelabo.jp/20210819083427"/>
+        <updated>2021-08-18T23:53:58.000Z</updated>
+        <summary type="html"><![CDATA[3万円分の楽天ポイントが月末で期限切れになっちゃうので3万円くらいでQOLがちょっと上がりそうな良いものを買いたい。何か思いついたら教えてほしい。 ＋1万円くらいまでだったら追加しても良いかなと考えている。 候補としては ・Panasonicの良いドライヤー ・高級シャワーヘッド とか。 3万じゃなくても、最近これ買...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ワクチン接種後に亡くなった人々は何をしていたのか？具体例を紹介（NEWSポストセブン） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/a0c76c59e819101aab5fc4c4baab4b9ffa8c9c7e</id>
         <link href="https://news.yahoo.co.jp/articles/a0c76c59e819101aab5fc4c4baab4b9ffa8c9c7e"/>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自宅療養中の妊婦 受け入れ先見つからず早産で新生児死亡 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013211121000.html"/>
-        <updated>2021-08-18T22:29:19.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの首都圏での医療体制が危機的な状況となる中、自宅療養中の妊婦が入院調整が行われたものの受け入れ先が見つからず、そのまま自宅で出産し、赤ちゃんが亡くなったことが関係者への取材で分かりました。産婦人科医らのグループは緊急の会議を開き、感染した妊婦の急な出産に備え、事前に受け入れ先を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自宅療養の妊婦 受け入れ先見つからず出産 赤ちゃん死亡｜NHK 首都圏のニュース]]></title>
         <id>https://www3.nhk.or.jp/shutoken-news/20210819/1000069082.html</id>
         <link href="https://www3.nhk.or.jp/shutoken-news/20210819/1000069082.html"/>
@@ -271,16 +281,6 @@
         <link href="https://mainichi.jp/articles/20210818/k00/00m/040/255000c"/>
         <updated>2021-08-18T20:39:56.000Z</updated>
         <summary type="html"><![CDATA[取材に応じる「なまぽちゃん」＝2021年8月6日午後3時6分、山下智恵撮影（画像の一部を加工しています） ＜お金に困って風俗やるしかないかもと思ってる女の子みんな生活保護受給すること＞。生活保護を受給する女性がツイッターとブログで、こう呼びかけていた。SNS（ネット交流サービス）上で「なまぽちゃん」と名乗る...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アフガニスタン覚書]]></title>
-        <id>https://anond.hatelabo.jp/20210818013407</id>
-        <link href="https://anond.hatelabo.jp/20210818013407"/>
-        <updated>2021-08-18T10:47:24.000Z</updated>
-        <summary type="html"><![CDATA[たぶん専門の人から見るといろいろ間違っていると思う。 アフガニスタン国土現在の国境線は英領インドとロシア（とペルシア）との緩衝国として残ったもの。ほぼ乾燥した山。 国民山がちな国土もあって民族構成は複雑。パキスタンにまたがるパシュトゥーン人（最大勢力）・バローチ人、タジキスタンにまたがるタジク人、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

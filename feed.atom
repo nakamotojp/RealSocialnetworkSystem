@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T01:44:57.505Z</id>
+    <id>urn:2021-08-19T02:20:40.516Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T01:44:57.505Z</updated>
+    <updated>2021-08-19T02:20:40.516Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[これからはこの実装がオススメ！ブラウザの高さいっぱい、iOSでアドレスバーがあっても高さいっぱいに表示するCSSのテクニック | コリス]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/css/css-cover-the-entire-height-of-the-screen.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-cover-the-entire-height-of-the-screen.html"/>
+        <updated>2021-08-19T00:42:35.000Z</updated>
+        <summary type="html"><![CDATA[高さいっぱいに表示したい時、古くはheight: 100%;、そしてmin-height: 100%;で実装していたと思います。現在ではビューポートの単位min-height: 100vh;が使用できるようになりました。 しかし、iOSでは100vhを使用してもアドレスバーが表示されていると下がその分隠れて表示されてしまい、高さいっぱいになりません。Ja...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人びとを「プア」から「ワーキングプア」に全力でクラスチェンジさせようとしている国で生きるということ - いつか電池がきれるまで]]></title>
         <id>https://fujipon.hatenablog.com/entry/2021/08/19/084500</id>
@@ -96,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DaiGo動画の“壁一面の本棚”製造会社が使用例紹介ページを削除　差別的発言は「決して許されない」（スポニチアネックス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/d3c373b96a36fc27b1468e0cb394970f798d0975</id>
+        <link href="https://news.yahoo.co.jp/articles/d3c373b96a36fc27b1468e0cb394970f798d0975"/>
+        <updated>2021-08-18T18:56:37.000Z</updated>
+        <summary type="html"><![CDATA[メンタリストのDaiGo（34）が自身のYouTubeチャンネルで路上生活者（ホームレス）や生活保護受給者に対して差別的な発言を行い、謝罪した問題を受けて、動画の背景に映っていた本棚の製造会社が18日までに公式サイトに声明を発表。DaiGoの発言について「どのような環境下でも決して許されるものではなく、弊社としても大...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前川さんの後ろから - 川田大智 | 少年ジャンプ＋]]></title>
         <id>https://shonenjumpplus.com/episode/3269754496451565272</id>
         <link href="https://shonenjumpplus.com/episode/3269754496451565272"/>
@@ -151,16 +171,6 @@
         <link href="https://togetter.com/li/1761766"/>
         <updated>2021-08-18T13:35:39.000Z</updated>
         <summary type="html"><![CDATA[桜野 春月 @sakuranoharu 副反応で休む人間多発して業務止まると困るから職域接種やらんって言ったそばからクラスター発生して全面的に業務止まってる事例を見かけた。 反面教師として出来すぎてる。 2021-08-17 15:55:56]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相、総裁選前の解散見送り　コロナ感染拡大で困難に | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210818/k00/00m/010/296000c</id>
-        <link href="https://mainichi.jp/articles/20210818/k00/00m/010/296000c"/>
-        <updated>2021-08-18T12:43:46.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症対策本部の会合後、記者会見する菅義偉首相＝首相官邸で2021年8月17日午後9時9分、竹内幹撮影 菅義偉首相は自身の自民党総裁任期満了（9月30日）に伴う総裁選前の衆院解散を見送る方針を固めた。首相は総裁選で再選し、その後に解散に踏み切るか、衆院任期満了に伴う衆院選を目指す方針。 複数...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日医会長が「野戦病院」設置提言　中等症患者の受け入れ目的 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210818/k00/00m/040/202000c</id>
-        <link href="https://mainichi.jp/articles/20210818/k00/00m/040/202000c"/>
-        <updated>2021-08-18T09:56:09.000Z</updated>
-        <summary type="html"><![CDATA[日本医師会の中川俊男会長は18日の記者会見で、新型コロナウイルスの感染拡大で医療体制が逼迫（ひっぱく）しているとして、大規模イベント会場や体育館を利用した臨時の医療施設を設置すべきだとの認識を示した。いわゆる「野戦病院」の設置を提言したもので、「一番の目的は、中等症患者の入院場所とイメージしている...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小池百合子都知事、コロナ禍の五輪開催「東京と我が国の底力示した」パラ“必ず成功”強調（スポーツ報知） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/81dc7c949c63997d29f28805c38e150156e4702a</id>
         <link href="https://news.yahoo.co.jp/articles/81dc7c949c63997d29f28805c38e150156e4702a"/>
@@ -276,11 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[総当たり攻撃時のパスワード最大解読時間の表(by 上野宣)について分析した - Qiita]]></title>
-        <id>https://qiita.com/ockeghem/items/5a5e73528eb0ee055428</id>
-        <link href="https://qiita.com/ockeghem/items/5a5e73528eb0ee055428"/>
-        <updated>2021-08-18T04:51:51.000Z</updated>
-        <summary type="html"><![CDATA[昨日、上野宣（@sen_u）さんがパスワードの総当りに要する時間の表をツイートされ、話題になっています。 総当たり攻撃時のパスワード最大解読時間の表を日本語化した。https://t.co/cVSNUZkAKv pic.twitter.com/rtS8ixwOqi — Sen UENO (@sen_u) August 17, 2021 1万件を超えるリツイートがありますね。大変よく読まれて...]]></summary>
+        <title type="html"><![CDATA[横浜市長選の結果で、2ヶ月後に「初の女性総理」が生まれる]]></title>
+        <id>https://anond.hatelabo.jp/20210818131339</id>
+        <link href="https://anond.hatelabo.jp/20210818131339"/>
+        <updated>2021-08-18T08:42:17.000Z</updated>
+        <summary type="html"><![CDATA[風が吹けば桶屋が儲かる。 横浜市長選挙で山中竹春（立民候補）が勝つと、日本初の女性総理・高市早苗が誕生する。 来月末に総裁任期満了を控えて、菅義偉が絶体絶命である。 自民党の重鎮・派閥の幹部たちは「菅・無投票再選」を画策している。 議席を減らしても野党になることはない。 それなら自分たちの権力やポスト...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

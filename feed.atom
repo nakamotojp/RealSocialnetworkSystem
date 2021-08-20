@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T15:13:32.196Z</id>
+    <id>urn:2021-08-20T16:18:07.529Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T15:13:32.196Z</updated>
+    <updated>2021-08-20T16:18:07.529Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[｢日本人のコロナ自粛はすごかった｣上から目線で"緩み"に怒る人はこれ以上なにを望むのか 被害甚大な欧米がマスクなしのワケ | PRESIDENT Online（プレジデントオンライン）]]></title>
+        <id>https://president.jp/articles/-/49087</id>
+        <link href="https://president.jp/articles/-/49087"/>
+        <updated>2021-08-20T11:38:12.000Z</updated>
+        <summary type="html"><![CDATA[欧米ではコロナ禍に終わりが見え、「マスクなし」の生活に戻りつつある。なぜ日本は後れているのか。評論家の山形浩生さんは「日本人のコロナ自粛は、欧米先進国に比べれば、よっぽどすごかった。各国の被害は日本以上だが、コロナ禍に見切りをつけて、いまのような“戒厳令もどき”を意図的に終わらせようとしている。日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アフガン タリバン戦闘員がドイツのジャーナリストの家族殺害 | アフガニスタン | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210820/k10013214771000.html</id>
@@ -131,6 +141,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210820/k10013213971000.html"/>
         <updated>2021-08-20T06:43:27.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスワクチンの職域接種をめぐって、国が申請を受け付けたあともワクチンが届かないといった理由で、7月下旬までに420余りの会場が職域接種を取りやめたことがわかりました。接種人数にするとおよそ310万人分に相当し、取り下げはさらに増えているということです。 国は1000人程度に接種を行える企業や大...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学術会議 任命拒否の理由不開示 研究者6人が不服審査請求 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210820/k10013213861000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210820/k10013213861000.html"/>
+        <updated>2021-08-20T06:16:54.000Z</updated>
+        <summary type="html"><![CDATA[日本学術会議の会員人事をめぐり菅総理大臣から任命されなかった6人の研究者が、任命拒否の理由を明らかにするために行った情報開示の請求が認められなかったのは違法だとして、国の処分の取り消しを求める不服審査請求を行いました。 不服審査請求を行ったのは日本学術会議の会員に任命されなかった6人の大学教授で、内...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[丸川大臣、五輪が感染拡大の原因でない根拠問われテレビ視聴率読み上げる（日刊スポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/3f5957ed249c8e3d818187e14cbbc00fa00d4f46</id>
-        <link href="https://news.yahoo.co.jp/articles/3f5957ed249c8e3d818187e14cbbc00fa00d4f46"/>
-        <updated>2021-08-19T18:21:32.000Z</updated>
-        <summary type="html"><![CDATA[丸川珠代五輪担当相は19日、参院内閣委員会の閉会中審査で、共産党の田村智子氏からパラリンピックの医師、看護師の配置人数を問われ、「コロナ対応に従事していないスポーツドクターや潜在看護師を中心に競技数がピークとなる8月28日で医師は120人程度、看護師は150人程度を想定している」と述べた。 【写真】8日に行わ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[フジロックに行く人みんな地獄に落ちてほしい]]></title>
         <id>https://anond.hatelabo.jp/20210819195139</id>
         <link href="https://anond.hatelabo.jp/20210819195139"/>
         <updated>2021-08-19T16:24:37.000Z</updated>
         <summary type="html"><![CDATA[湯沢町ではないが、新潟県内の若者の一人の気持ちだ。この一年と数ヶ月ずっと真面目に我慢していた。それが馬鹿みたいだ。友人との飲み会やおでかけもしていない。今まではライブだ舞台だテーマパークだとしょっちゅう行っていた県外へも一度も行っていない。祭りやイベントもない。あっても行っていない。県外に暮らし...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【閲覧注意】子ども向け漫画雑誌『ちゃお』web版に掲載された読み切り「笑顔の世界」が大人でも怖すぎる - Togetter]]></title>
-        <id>https://togetter.com/li/1762210</id>
-        <link href="https://togetter.com/li/1762210"/>
-        <updated>2021-08-19T15:59:19.000Z</updated>
-        <summary type="html"><![CDATA[リンク http://ciaocomi.tameshiyo.me/ 笑顔の世界 ここでは皆が笑顔の世界。衝撃のラストに全読者が息を呑む… 228 users 782]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

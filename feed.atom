@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T23:12:07.868Z</id>
+    <id>urn:2021-08-20T00:38:49.125Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T23:12:07.868Z</updated>
+    <updated>2021-08-20T00:38:49.125Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[みずほ銀行でシステム障害、窓口の取引できず: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUB200S20Q1A820C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUB200S20Q1A820C2000000/"/>
+        <updated>2021-08-20T00:05:35.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら みずほ銀行は20日、システムの障害により窓口での入出金や振り込みができない事態が起きていると発表した。店舗での取引を処理するシステムの部品故障が原因といい、AT...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[横浜市長選、菅総理側近がゼネコンを“恫喝”　小此木八郎への支援を要請…「無礼千万な脅し」（デイリー新潮） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/4397cbafaf626cf4b933bfc2dede9b0616ebd622</id>
+        <link href="https://news.yahoo.co.jp/articles/4397cbafaf626cf4b933bfc2dede9b0616ebd622"/>
+        <updated>2021-08-19T22:06:42.000Z</updated>
+        <summary type="html"><![CDATA[総理官邸が気を揉むのが、間近に迫る横浜市長選（8月8日告示・22日投開票）だ。総理のお膝元にもかかわらず、保守分裂に候補者乱立のカオス状態。さらに総理側近による“恫喝”騒動が持ち上がるなど、混迷の度合いを深めている。 【写真4枚】現市長の「林文子」 *** 市長選史上最多の8人が名乗りを上げた横浜市長選。当選...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子どもの感染急増 夏休み後 学校での対策徹底呼びかけへ 政府 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210820/k10013212821000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210820/k10013212821000.html"/>
+        <updated>2021-08-19T21:41:01.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに感染する子どもが急増する中、政府は多くの地域で夏休み明けとなる来月以降にはさらに感染が広がるおそれがあるとして、発熱などの症状のある児童・生徒の登校を見合わせるなど、感染対策を徹底するよう改めて呼びかける方針です。 厚生労働省によりますと、新型コロナウイルスに感染した子どもの数...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パラ指定病院、組織委の要請断る　「コロナ対応を優先」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8M740VP8MULBJ00B.html</id>
+        <link href="https://www.asahi.com/articles/ASP8M740VP8MULBJ00B.html"/>
+        <updated>2021-08-19T21:37:07.000Z</updated>
+        <summary type="html"><![CDATA[24日に開幕する東京パラリンピックで、競技会場で大会関係者に傷病者が出た場合に受け入れる「指定病院」の都立墨東病院（墨田区）が、救急で重症者を受け入れてほしいとの要請を断っていた。新型コロナウイルス感染症の感染爆発で、医療が逼迫（ひっぱく）していることが理由という。ほかの複数の病院にも同様の動きが...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫画家・みなもと太郎さん死去　74歳　「風雲児たち」：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8M6VXRP8MUCVL016.html</id>
@@ -126,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「苦しい 助けて…」息子の電話 入院まで1週間 母が感じたこと | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210819/k10013212121000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210819/k10013212121000.html"/>
-        <updated>2021-08-19T11:03:11.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大で医療体制が危機的な状況となる中、本来であれば入院が必要な中等症2の患者が自宅で療養を続けざるをえない事態が相次いでいます。東京都内では中等症2の患者を中心に往診するクリニックも出てきており、医師は「医療崩壊が起きている」と強い懸念を示しています。 入院必要な中等症2の患...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[フジ榎並アナ号泣報道、感染拡大で妊婦入院できず赤ちゃん死亡に感情あふれ - 芸能 : 日刊スポーツ]]></title>
         <id>https://www.nikkansports.com/entertainment/news/202108190000720.html</id>
         <link href="https://www.nikkansports.com/entertainment/news/202108190000720.html"/>
@@ -226,6 +256,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ワクチン後に風〇で本番したら死にかけた]]></title>
+        <id>https://anond.hatelabo.jp/20210819173053</id>
+        <link href="https://anond.hatelabo.jp/20210819173053"/>
+        <updated>2021-08-19T08:38:26.000Z</updated>
+        <summary type="html"><![CDATA[こういう話はなかなか表に出ないと思うので体験談を記録しておきます。 42歳の既婚者で、嫁には内緒でよく風〇行ってます。 2度目のモデルナワクチン接種後、翌日は副反応で39度の熱が出ました。 翌々日に回復したので、ずっと自粛していたお風呂屋さんにレッツゴー。 ウッキウキでした。 だってそうでしょ、もし仮に接...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[感染急拡大 “パラリンピック中止を” 政府に緊急提案 共産党 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210819/k10013212131000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210819/k10013212131000.html"/>
@@ -251,36 +291,6 @@
         <link href="https://anond.hatelabo.jp/20210819143351"/>
         <updated>2021-08-19T05:48:30.000Z</updated>
         <summary type="html"><![CDATA[前回：からし 前々回：納豆炒め 3回前：柚子胡椒 4回前：生卵 5回前：キムチマヨ 他に何かバリエーションある？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ではビートルズ、イン・マイ・ライフをどうぞ」　ポッドキャストなのに商用音楽を使った音楽番組ができるSpotify「Music + Talk」が楽しすぎる：CloseBox（1/2 ページ） - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/19/news091.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/19/news091.html"/>
-        <updated>2021-08-19T04:34:51.000Z</updated>
-        <summary type="html"><![CDATA[8月19日午前8時過ぎに日本でも利用可能になったSpotifyの「Music + Talk」。Spotifyが扱っている商用音楽をポッドキャストの中で自由に使えるというものだ。ポッドキャストがラジオと同等になる、ポッドキャスト誕生以来、最も革命的な出来事だといってもいいくらいだ。 さっそくやってみたので、制作の流れを簡単に紹介...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[笑顔の世界]]></title>
-        <id>https://ciaocomi.tameshiyo.me/D210004X001X01</id>
-        <link href="https://ciaocomi.tameshiyo.me/D210004X001X01"/>
-        <updated>2021-08-19T04:06:59.000Z</updated>
-        <summary type="html"><![CDATA[しばらく経ってもこの画面に変化がない場合は、Javascript を on にして再度読み込んで下さい。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「今朝から職場が恐慌状態」職員から「実は2日前から咳が出て体の節々、喉が痛いのに出勤していた」と報告受けた方のツイート - Togetter]]></title>
-        <id>https://togetter.com/li/1762002</id>
-        <link href="https://togetter.com/li/1762002"/>
-        <updated>2021-08-19T02:18:19.000Z</updated>
-        <summary type="html"><![CDATA[福島の人（外道）ω @fukushimanohito 朝、職場について、いつもの如く惣菜パンとコーヒーで朝食を食べていると。 昨日から勤務していて、私と交代する職員がやってきて、眼の前で話しかけてきた。食事中の人間はしゃべるな、話しかけるなを徹底しているところであるので、何だおめえと思いながら「緊急ですか」と聞くと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

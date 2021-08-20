@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T20:12:25.121Z</id>
+    <id>urn:2021-08-20T21:11:07.021Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T20:12:25.121Z</updated>
+    <updated>2021-08-20T21:11:07.021Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[亡命希望のロシア人が北海道に　「国後島から泳いできた」 ｜ 共同通信]]></title>
+        <id>https://nordot.app/801496777239543808</id>
+        <link href="https://nordot.app/801496777239543808"/>
+        <updated>2021-08-20T17:09:21.000Z</updated>
+        <summary type="html"><![CDATA[ロシア人の男性1人が北海道東部に上陸し、道警が事情を聴いていることが20日、政府関係者らへの取材で分かった。「亡命のために国後島から泳いできた」と話しているという。 国後島から北海道東部の沿岸部までは約20キロ。政府関係者らによると、札幌出入国在留管理局に男性の身柄を移し、実際に泳いできたのかも含めて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「専門家は言い切らないが、インフルエンサー的存在は断言するので後者を信用する」人もいる事をどう考えればいいのか - Togetter]]></title>
         <id>https://togetter.com/li/1762519</id>
@@ -71,6 +81,26 @@
         <link href="https://nazology.net/archives/95025"/>
         <updated>2021-08-20T10:20:34.000Z</updated>
         <summary type="html"><![CDATA[Credit:Canva . ナゾロジー編集部 全ての画像を見る コロナ禍において人類は、2種類のウイルスと戦っていました。 最近、World Organizationの研究者たちにより『Pathogens』に掲載された論文によれば、新型コロナウイルスによる長引く後遺症が「EBウイルス」と呼ばれる、既に体内にある別のウイルスの再活性化によって...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mouseover 中に表示される DOM のデバッグ | blog.jxck.io]]></title>
+        <id>https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html</id>
+        <link href="https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html"/>
+        <updated>2021-08-20T10:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Intro 先日、後輩が「mouseover 中にしか表示されない DOM のデバッグ」に手こずっていたのを見て、たまには小ネタもということで、いくつかのテクニックを紹介する。 実際には、発生しているイベントを制御するというテクニックなので、応用すると色々使えるだろう。 mouseover tooltip 対象として、 Github のユーザア...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【やじうまPC Watch】“自宅”で1,200トランジスタの半導体を製造したYouTuber現る - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/yajiuma/1345268.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/1345268.html"/>
+        <updated>2021-08-20T09:51:18.000Z</updated>
+        <summary type="html"><![CDATA[YouTuberのSam Zeloof氏は14日、自身のYouTubeチャンネルにおいて、“自宅ファブ”で1,200トランジスタを集積した半導体「twelve Z2」の製造に成功したことを発表した。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京パラ学校連携観戦は開催ＯＫ「感染対策の上で」　組織委コロナ専門家会議 - 東京2020パラリンピック : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/olympic/tokyo2020/paralympic/news/202108200000479.html</id>
-        <link href="https://www.nikkansports.com/olympic/tokyo2020/paralympic/news/202108200000479.html"/>
-        <updated>2021-08-20T06:53:56.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会は20日、新型コロナウイルス対策を話し合う専門家会議の第5回会合を都内で開催した。座長を務める岡部信彦・川崎市健康安全研究所所長はパラリンピック開催に向けて「医療を圧迫する形も考え、中止は常に考えておくべき」としながら「今日の時点ではその状況にない」と開催できるとの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[職域接種 ワクチン届かず420余の会場で取りやめ 310万人分相当 | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210820/k10013213971000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210820/k10013213971000.html"/>
@@ -271,26 +291,6 @@
         <link href="https://magazine.cainz.com/article/54912"/>
         <updated>2021-08-20T03:10:48.000Z</updated>
         <summary type="html"><![CDATA[ヨッピー 『オモコロ』『SPOT』『Yahoo!ニュース個人』『みんなのごはん』など、さまざまなWebメディアで活躍中のライター。週に8回、銭湯に行く。 古民家付き、2,000坪の土地でキャンプ場をDIY！ こんにちは、ヨッピーです。上の写真は、マキタの電動工具を片手に喜んでいる僕です。 実は知り合いの大金持ちが、古民家...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリティ事故が起こるといくらお金がかかるのか、JNSAが画期的資料公表 | ScanNetSecurity]]></title>
-        <id>https://scan.netsecurity.ne.jp/article/2021/08/20/46161.html</id>
-        <link href="https://scan.netsecurity.ne.jp/article/2021/08/20/46161.html"/>
-        <updated>2021-08-20T01:15:12.000Z</updated>
-        <summary type="html"><![CDATA[特定非営利活動法人日本ネットワークセキュリティ協会（JNSA）は8月18日、「インシデント損害額調査レポート」2021年版を公表した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「関東ナンバーが数倍に…」フジロック開始、住民の不安 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8M6TKKP8MUOHB00K.html</id>
-        <link href="https://www.asahi.com/articles/ASP8M6TKKP8MUOHB00K.html"/>
-        <updated>2021-08-20T00:56:20.000Z</updated>
-        <summary type="html"><![CDATA[新潟県湯沢町の苗場スキー場を舞台に、国内最大級の野外音楽イベント「フジロックフェスティバル」が20日から始まる。昨年はコロナ禍で中止、今年は13都府県に緊急事態宣言が出ている中での開催となる。主催者は感染対策を万全にして開催するといい、コロナ禍で打撃を受ける地元の観光団体からは歓迎の声がある一方で、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

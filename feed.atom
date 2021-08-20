@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T19:10:02.889Z</id>
+    <id>urn:2021-08-20T20:12:25.121Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T19:10:02.889Z</updated>
+    <updated>2021-08-20T20:12:25.121Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://president.jp/articles/-/49087"/>
         <updated>2021-08-20T11:38:12.000Z</updated>
         <summary type="html"><![CDATA[欧米ではコロナ禍に終わりが見え、「マスクなし」の生活に戻りつつある。なぜ日本は後れているのか。評論家の山形浩生さんは「日本人のコロナ自粛は、欧米先進国に比べれば、よっぽどすごかった。各国の被害は日本以上だが、コロナ禍に見切りをつけて、いまのような“戒厳令もどき”を意図的に終わらせようとしている。日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[｢いつまで"最後の我慢"を続けるのか｣これ以上､高齢者のために子供を犠牲にするべきではない 自粛の後遺症を考えたことがあるか | PRESIDENT Online（プレジデントオンライン）]]></title>
+        <id>https://president.jp/articles/-/49085</id>
+        <link href="https://president.jp/articles/-/49085"/>
+        <updated>2021-08-20T10:45:21.000Z</updated>
+        <summary type="html"><![CDATA[8月4日、1都3県の知事は「最後の我慢」を訴え、旅行、帰省の原則中止や積極的なワクチン接種への協力を呼びかけた。評論家の山形浩生さんは「これまで何度、この手の台詞を聞いたことか。こんな呼びかけはいつまでも続けられるものではない。高齢者の命を守るために、若者や子供を犠牲にするのは、もうやめるべきだ」と...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,6 +101,16 @@
         <link href="https://togetter.com/li/1762518"/>
         <updated>2021-08-20T09:12:30.000Z</updated>
         <summary type="html"><![CDATA[テラヤマアニ @kowagari 今読んでるめっちゃオモロいマンガなんだけど、「こんな4万程度の鮨」は4貫いっぺんに供されることは絶対ないんだよなあ……。惜しい。 pic.twitter.com/N9xpaVEhMI 2021-08-19 19:40:55]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BCP想定を上回ったニップンへのサイバー攻撃についてまとめてみた - piyolog]]></title>
+        <id>https://piyolog.hatenadiary.jp/entry/2021/08/20/180000</id>
+        <link href="https://piyolog.hatenadiary.jp/entry/2021/08/20/180000"/>
+        <updated>2021-08-20T09:03:44.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月9日、ニップンは社内でウイルス感染に起因したシステム障害が発生したと公表。8月16日時点で完全復旧に至っておらず、早期復旧が困難だとして第1四半期の決算報告を延期する対応がとられました。ここでは関連する情報をまとめます。 専門家が「例がない」と評価した攻撃 ニップンビジネスシステムが運用、管理...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「特別手当を支給する」感染者が判明した後も、濃厚接触者に出勤を促す　20人以上が次々感染（沖縄タイムス） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/f6bb492f5c83dab72ced722bcb63c55340a9aeee</id>
-        <link href="https://news.yahoo.co.jp/articles/f6bb492f5c83dab72ced722bcb63c55340a9aeee"/>
-        <updated>2021-08-20T04:12:46.000Z</updated>
-        <summary type="html"><![CDATA[沖縄本島中部の食品加工会社で今月上旬以降、20人以上が新型コロナウイルスに感染していたことが、19日までに関係者への取材で分かった。感染者が判明した後も、社内の濃厚接触者とみられる従業員らに「特別手当を支給する」と呼び掛け、出勤を促していたという。会社側は従業員に「旧盆（20～22日）前で生産ラインを止...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ソフトウェアエンジニアとしての姿勢と心構え / Software Engineer's Survival Guide - Speaker Deck]]></title>
         <id>https://speakerdeck.com/recruitengineers/software-engineers-survival-guide</id>
         <link href="https://speakerdeck.com/recruitengineers/software-engineers-survival-guide"/>
@@ -271,16 +281,6 @@
         <link href="https://scan.netsecurity.ne.jp/article/2021/08/20/46161.html"/>
         <updated>2021-08-20T01:15:12.000Z</updated>
         <summary type="html"><![CDATA[特定非営利活動法人日本ネットワークセキュリティ協会（JNSA）は8月18日、「インシデント損害額調査レポート」2021年版を公表した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国人やインド人が、すぐにちゃぶ台返しをする理由：日経ビジネス電子版]]></title>
-        <id>https://business.nikkei.com/atcl/seminar/20/00046/081700004/</id>
-        <link href="https://business.nikkei.com/atcl/seminar/20/00046/081700004/"/>
-        <updated>2021-08-20T01:08:49.000Z</updated>
-        <summary type="html"><![CDATA[グローバルチームを率いる日本人に、ぜひ頭に入れておいてほしい日本文化の特徴がある、というメイヤー教授。国内のみで活動する企業で、文化を分析する意義についても尋ねた。 INSEAD（インシアード）のエリン・メイヤー教授が提唱する多文化分析のツール「カルチャー・マップ」は、各国の文化を多面的かつ相対的に捉え...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

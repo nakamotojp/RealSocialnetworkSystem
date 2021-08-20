@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T10:13:22.828Z</id>
+    <id>urn:2021-08-20T11:10:09.285Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T10:13:22.828Z</updated>
+    <updated>2021-08-20T11:10:09.285Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[落語家 笑福亭仁鶴さん死去 84歳 テレビ ラジオでも幅広く活躍 | おくやみ | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210820/k10013214621000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210820/k10013214621000.html"/>
+        <updated>2021-08-20T08:26:26.000Z</updated>
+        <summary type="html"><![CDATA[上方落語を代表する落語家でテレビやラジオでも幅広く活躍した笑福亭仁鶴さんが、今月17日、骨髄異形成症候群のため大阪府内の自宅で亡くなりました。 84歳でした。 大阪市出身の笑福亭仁鶴さんは高校を卒業後に上方落語の四天王と称された6代目笑福亭松鶴さんに入門しました。 演芸場で活躍するかたわら、ラジオの深夜...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 7人死亡 5405人感染確認 3日連続で5000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210820/k10013214121000.html</id>
@@ -30,7 +40,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210820/k10013213971000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210820/k10013213971000.html"/>
         <updated>2021-08-20T06:43:27.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスワクチンの職域接種をめぐって、国が申請を受け付けたあとも、ワクチンが届かないといった理由で、7月下旬までに420余りの会場が職域接種を取りやめたことがわかりました。接種人数にすると、およそ310万人分に相当し、取り下げはさらに増えているということです。 国は1000人程度に接種を行える企業...]]></summary>
+        <summary type="html"><![CDATA[新型コロナウイルスワクチンの職域接種をめぐって、国が申請を受け付けたあともワクチンが届かないといった理由で、7月下旬までに420余りの会場が職域接種を取りやめたことがわかりました。接種人数にするとおよそ310万人分に相当し、取り下げはさらに増えているということです。 国は1000人程度に接種を行える企業や大...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://togetter.com/li/1762133"/>
         <updated>2021-08-19T09:52:57.000Z</updated>
         <summary type="html"><![CDATA[リンク yuru-to.net ゆる～と - 全国日帰り温泉・銭湯マップ ゆる～とは、全国の日帰り温泉・銭湯マップです。日帰り入浴可能な施設（日帰り温泉や銭湯、温泉宿、足湯など）が、15,000件以上登録されています。一番近い銭湯を探したり、温泉地マップを表示したり、料金などの条件で検索することができます。Googleに登録...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ながら充電」や「100％のまま充電」はNG？　スマホのバッテリー寿命を延ばす方法（1/2 ページ） - ITmedia Mobile]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2108/19/news070.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2108/19/news070.html"/>
-        <updated>2021-08-19T03:06:51.000Z</updated>
-        <summary type="html"><![CDATA[「ながら充電」や「100％のまま充電」はNG？　スマホのバッテリー寿命を延ばす方法（1/2 ページ） スマートフォンを使う上で「バッテリーの寿命をどれだけ延ばせるか」は重要なポイントだ。充電のタイミングや方法によってはバッテリーを劣化させる恐れがある。少しでもバッテリーの寿命を長くするには、どんなことに注...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

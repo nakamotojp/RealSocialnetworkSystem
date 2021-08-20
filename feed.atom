@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T01:51:23.126Z</id>
+    <id>urn:2021-08-20T02:21:57.940Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T01:51:23.126Z</updated>
+    <updated>2021-08-20T02:21:57.940Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -266,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小池百合子都知事の修学旅行の中止・延期要請に学生絶望の声「パラ観戦はいいのに…」「高校生活返して」（スポーツ報知） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/11f0c122405292a9055a0c949d652552c14a453c</id>
-        <link href="https://news.yahoo.co.jp/articles/11f0c122405292a9055a0c949d652552c14a453c"/>
-        <updated>2021-08-19T08:43:27.000Z</updated>
-        <summary type="html"><![CDATA[東京都の小池百合子知事が１９日、都立学校での都と県をまたぐ修学旅行などについて、中止や延期することを求めた。一方、学校行事には必要との考えを示し、感染対策の徹底を呼びかけた。 これにネット上では「え、もう泣きそう。体育祭も文化祭も校外学習も修学旅行もなんも出来んくて何この高校生活、、、」「国を跨ぐ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[この一年の話（後編）｜小野マトペ｜note]]></title>
         <id>https://note.com/ono_matope/n/na66bbfdfb9e3</id>
         <link href="https://note.com/ono_matope/n/na66bbfdfb9e3"/>
@@ -291,6 +281,16 @@
         <link href="https://anond.hatelabo.jp/20210819143351"/>
         <updated>2021-08-19T05:48:30.000Z</updated>
         <summary type="html"><![CDATA[前回：からし 前々回：納豆炒め 3回前：柚子胡椒 4回前：生卵 5回前：キムチマヨ 他に何かバリエーションある？]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ながら充電」や「100％のまま充電」はNG？　スマホのバッテリー寿命を延ばす方法（1/2 ページ） - ITmedia Mobile]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/19/news070.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/19/news070.html"/>
+        <updated>2021-08-19T03:06:51.000Z</updated>
+        <summary type="html"><![CDATA[「ながら充電」や「100％のまま充電」はNG？　スマホのバッテリー寿命を延ばす方法（1/2 ページ） スマートフォンを使う上で「バッテリーの寿命をどれだけ延ばせるか」は重要なポイントだ。充電のタイミングや方法によってはバッテリーを劣化させる恐れがある。少しでもバッテリーの寿命を長くするには、どんなことに注...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

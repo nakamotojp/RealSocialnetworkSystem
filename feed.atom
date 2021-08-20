@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T04:15:36.911Z</id>
+    <id>urn:2021-08-20T05:11:21.326Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T04:15:36.911Z</updated>
+    <updated>2021-08-20T05:11:21.326Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[株式会社リクルート　エンジニアコース新人研修の内容を公開します！（2021年度版） | リクルート　メンバーズブログ]]></title>
+        <id>https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/</id>
+        <link href="https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/"/>
+        <updated>2021-08-20T03:16:02.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ Webフロントエンドエンジニアの眞野 隼輔です。 毎年大きな反響を頂いている、エンジニアコースの新人研修の内容を紹介させていただきます。 研修の概要 リクルートでは、エンジニアコースでスペシャリスト採用された新卒のエンジニアを対象に、現場で培われた「本当に必要な生きた知識・技術」を取り入れ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロラパルーザ、約40万人が集まったフェスでコロナ感染者は203人だった - フロントロウ -海外セレブ＆海外カルチャー情報を発信]]></title>
         <id>https://front-row.jp/_ct/17475012</id>
@@ -26,11 +36,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[セキュリティ事故が起こるといくらお金がかかるのか、JNSAが画期的資料公表 | ScanNetSecurity]]></title>
+        <id>https://scan.netsecurity.ne.jp/article/2021/08/20/46161.html</id>
+        <link href="https://scan.netsecurity.ne.jp/article/2021/08/20/46161.html"/>
+        <updated>2021-08-20T01:15:12.000Z</updated>
+        <summary type="html"><![CDATA[特定非営利活動法人日本ネットワークセキュリティ協会（JNSA）は8月18日、「インシデント損害額調査レポート」2021年版を公表した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「関東ナンバーが数倍に…」フジロック開始、住民の不安 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8M6TKKP8MUOHB00K.html</id>
         <link href="https://www.asahi.com/articles/ASP8M6TKKP8MUOHB00K.html"/>
         <updated>2021-08-20T00:56:20.000Z</updated>
         <summary type="html"><![CDATA[新潟県湯沢町の苗場スキー場を舞台に、国内最大級の野外音楽イベント「フジロックフェスティバル」が20日から始まる。昨年はコロナ禍で中止、今年は13都府県に緊急事態宣言が出ている中での開催となる。主催者は感染対策を万全にして開催するといい、コロナ禍で打撃を受ける地元の観光団体からは歓迎の声がある一方で、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公開レイプ、中世のような拷問部屋…ウイグルの強制収容所を逃れたあるカザフ人女性の証言（現代ビジネス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/1074354c15adc6d7b6c821eeeada6e6d704f907d</id>
+        <link href="https://news.yahoo.co.jp/articles/1074354c15adc6d7b6c821eeeada6e6d704f907d"/>
+        <updated>2021-08-20T00:48:09.000Z</updated>
+        <summary type="html"><![CDATA[長いあいだ書こうと思って、どうしても書けなかった。草思社から出ている『重要証人: ウイグルの強制収容所を逃れて』という本についてだ。 【写真】中国・習近平「ウイグル人に容赦するな」極秘文書流出、衝撃の全貌 なぜ、書けなかったかというと、ちゃんと読めなかったからで、正直にいうと、今でも完璧には読んでい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[千葉真一さんワクチン接種せず ｜ 共同通信]]></title>
-        <id>https://nordot.app/801090087967031296</id>
-        <link href="https://nordot.app/801090087967031296"/>
-        <updated>2021-08-19T14:08:27.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスによる肺炎で死去した俳優千葉真一さんの所属事務所によると、千葉さんはワクチンを接種していなかったという。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[実を言うと大学のサークル文化はもうダメです。2、3年後にはコロナ以前を知る学生が卒業します。それが終わりの合図です。 - Togetter]]></title>
         <id>https://togetter.com/li/1762205</id>
         <link href="https://togetter.com/li/1762205"/>
@@ -246,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都で10代以下のコロナ感染も急増　塾や学校でクラスター発生 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210819/k00/00m/040/302000c</id>
-        <link href="https://mainichi.jp/articles/20210819/k00/00m/040/302000c"/>
-        <updated>2021-08-19T12:50:11.000Z</updated>
-        <summary type="html"><![CDATA[東京都内で新型コロナウイルスに感染した10代以下は、7月上旬はおおむね1日当たり100人以下で推移していたが、新規感染者の急増に伴って増え、19日は856人となった。都によると、感染者全体に占める10代以下の割合は7月以降、十数％で推移し、夏休み期間中も減少する兆しはみられない。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小池知事　尾身氏の慎重論を一蹴「五輪でも指摘いただいたが、安全にやり切った」子どものパラ観戦で：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/125490</id>
         <link href="https://www.tokyo-np.co.jp/article/125490"/>
         <updated>2021-08-19T10:54:54.000Z</updated>
         <summary type="html"><![CDATA[東京都の小池百合子知事は１９日、政府の新型コロナウイルス感染症対策分科会の尾身茂会長が東京パラリンピックで、児童や生徒に観戦機会を提供する「学校連携観戦プログラム」を行うことに慎重な姿勢を見せていることについて、都庁で報道陣の取材に応じた。小池氏は「尾身会長からは、オリンピックの際も、同様のご指...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】子どもの夏休み延長を議論、自民コロナ対策本部｜TBS NEWS]]></title>
-        <id>http://news.tbs.co.jp/newseye/tbs_newseye4340732.html</id>
-        <link href="http://news.tbs.co.jp/newseye/tbs_newseye4340732.html"/>
-        <updated>2021-08-19T10:53:34.000Z</updated>
-        <summary type="html"><![CDATA[自民党は１９日、新型コロナ対策本部の幹部会合を開きました。学校でクラスターの発生が相次いでいることから夏休みの延長などを求める声が相次ぎました。 自民党の新型コロナ対策本部の幹部会合では午後、急拡大する新型コロナへの対応策などについて意見が交わされました。 会合では小中学校などでクラスターが増えて...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

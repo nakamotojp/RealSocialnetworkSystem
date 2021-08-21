@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T01:51:12.461Z</id>
+    <id>urn:2021-08-21T02:24:32.146Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T01:51:12.461Z</updated>
+    <updated>2021-08-21T02:24:32.146Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210821/k10013215231000.html"/>
         <updated>2021-08-20T19:35:35.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が続く中、子どもの感染も急増しています。 夏休みが明けて小学校などで授業が始まるのを前に小児科医からは「早期の把握など学校で感染が増えるのを前提に対策を進めるべきだ」という指摘が出ています。 東京都内の小児科医でつくる「東京小児科医会」の時田章史理事は、東京 港区で小児科...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla、人型ロボット開発に参入　2022年にプロトタイプ公開（ITmedia NEWS） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b</id>
+        <link href="https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b"/>
+        <updated>2021-08-20T18:16:04.000Z</updated>
+        <summary type="html"><![CDATA[電気自動車を手掛ける米Teslaは8月19日（米国時間）、同社のイベント「AI Day」の中で、人型ロボット「Tesla Bot」の開発を発表した。2022年にプロトタイプを公開するという。 【画像】Tesla Botの身長や重量、移動速度など詳細スペック ロボットの身長は約173cmで重量は約57kg。約20kgまでの荷物を持って時速8kmで移動...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,6 +186,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[旭川中2女子の死体検案書に誤った病名 ｜ 共同通信]]></title>
+        <id>https://nordot.app/801390642292670464</id>
+        <link href="https://nordot.app/801390642292670464"/>
+        <updated>2021-08-20T11:48:08.000Z</updated>
+        <summary type="html"><![CDATA[北海道旭川市で3月、中学2年の女子生徒が凍死しているのが見つかった問題で、実際はかかっていなかった精神疾患名が死体検案書の一部に記入されていたことが20日、関係者への取材で分かった。道警の誤った情報を基に医師が書いたとみられる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[｢日本人のコロナ自粛はすごかった｣上から目線で"緩み"に怒る人はこれ以上なにを望むのか 被害甚大な欧米がマスクなしのワケ | PRESIDENT Online（プレジデントオンライン）]]></title>
         <id>https://president.jp/articles/-/49087</id>
         <link href="https://president.jp/articles/-/49087"/>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mouseover 中に表示される DOM のデバッグ | blog.jxck.io]]></title>
-        <id>https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html</id>
-        <link href="https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html"/>
-        <updated>2021-08-20T10:13:59.000Z</updated>
-        <summary type="html"><![CDATA[Intro 先日、後輩が「mouseover 中にしか表示されない DOM のデバッグ」に手こずっていたのを見て、たまには小ネタもということで、いくつかのテクニックを紹介する。 実際には、発生しているイベントを制御するというテクニックなので、応用すると色々使えるだろう。 mouseover tooltip 対象として、 Github のユーザア...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[折坂悠太｜OrisakaYuta on Twitter: "今回、フジロック出演を辞退します。 直前の報告となってしまい、申し訳ありません。 https://t.co/rLLbaQbJpy"]]></title>
         <id>https://twitter.com/madon36/status/1428643020807630853</id>
         <link href="https://twitter.com/madon36/status/1428643020807630853"/>
@@ -271,16 +281,6 @@
         <link href="https://anond.hatelabo.jp/20210820160050"/>
         <updated>2021-08-20T07:29:30.000Z</updated>
         <summary type="html"><![CDATA[テレワークやってる奴らとかマジで仕事舐めてんだろ 俺なんてくっさいゴミ回収の仕事して 年収たった200万円台やぞ ゴミの回収は、無かったらお前らだけじゃなく お前以外の皆全員が困るが、お前らがやってるテレワークなんて なくてもお前らやお前の身内以外誰も困らんわボケ そもそもテレワークなんてただのお遊びやん...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファーストガンダムを視聴してるのだが、割と感動している]]></title>
-        <id>https://anond.hatelabo.jp/20210404105223</id>
-        <link href="https://anond.hatelabo.jp/20210404105223"/>
-        <updated>2021-08-20T05:12:41.000Z</updated>
-        <summary type="html"><![CDATA[エヴァの完結を見届けてから初めてファーストガンダムに手を出すようなニワカは今のところ少数派だろうけど、こりゃ確かに名作だわ。 ガンダムはXから入って、∀、Seed、Gガン、鉄血と見てきたが、ファーストが一番いいな。 ロボットは別にリアルじゃないけど、運用や作戦行動の推移や、フォーカスを当てる場所がかなり良...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

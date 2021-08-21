@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T06:14:30.443Z</id>
+    <id>urn:2021-08-21T07:11:39.975Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T06:14:30.443Z</updated>
+    <updated>2021-08-21T07:11:39.975Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -206,6 +206,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「妊婦の一生恨み文化」「女のみんなで損する文化」]]></title>
+        <id>https://anond.hatelabo.jp/20210820185218</id>
+        <link href="https://anond.hatelabo.jp/20210820185218"/>
+        <updated>2021-08-20T13:38:10.000Z</updated>
+        <summary type="html"><![CDATA[まず同情します。 夫は身勝手なガキだと思うし諭さない共通の友人たちもまあガキです。 ただそういう友人の輪を築いてきた一人があなたなんじゃね？となったけど まあでもよくいる身勝手なガキ人間たちです。 あなたと夫たちについては夫たちが圧倒的に悪い。 好きなことしながら体大事にしてほしい。 ただあなたの、と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「愛知？何もないよ？」と言いがちな愛知県民を論破してきた_PR | SPOT]]></title>
         <id>https://travel.spot-app.jp/aichi_hiyashitabi/</id>
         <link href="https://travel.spot-app.jp/aichi_hiyashitabi/"/>
@@ -251,16 +261,6 @@
         <link href="https://nordot.app/801390642292670464"/>
         <updated>2021-08-20T11:48:08.000Z</updated>
         <summary type="html"><![CDATA[北海道旭川市で3月、中学2年の女子生徒が凍死しているのが見つかった問題で、実際はかかっていなかった精神疾患名が死体検案書の一部に記入されていたことが20日、関係者への取材で分かった。道警の誤った情報を基に医師が書いたとみられる。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[｢日本人のコロナ自粛はすごかった｣上から目線で"緩み"に怒る人はこれ以上なにを望むのか 被害甚大な欧米がマスクなしのワケ | PRESIDENT Online（プレジデントオンライン）]]></title>
-        <id>https://president.jp/articles/-/49087</id>
-        <link href="https://president.jp/articles/-/49087"/>
-        <updated>2021-08-20T11:38:12.000Z</updated>
-        <summary type="html"><![CDATA[欧米ではコロナ禍に終わりが見え、「マスクなし」の生活に戻りつつある。なぜ日本は後れているのか。評論家の山形浩生さんは「日本人のコロナ自粛は、欧米先進国に比べれば、よっぽどすごかった。各国の被害は日本以上だが、コロナ禍に見切りをつけて、いまのような“戒厳令もどき”を意図的に終わらせようとしている。日...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

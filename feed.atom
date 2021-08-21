@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T05:10:21.488Z</id>
+    <id>urn:2021-08-21T06:14:30.443Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T05:10:21.489Z</updated>
+    <updated>2021-08-21T06:14:30.443Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://mono-no-aware.jp/fujirock/"/>
         <updated>2021-08-20T23:20:08.000Z</updated>
         <summary type="html"><![CDATA[2021.08.20（金） FUJI ROCK FESTIVAL ’21 ご来場予定の皆さんへ １） MONO NO AWAREはフジロックに出演する予定です。そして、改めてご来場予定の皆さんにお願いがあります。 フジロックは、出演者、スタッフ、お客さんのそれぞれが感染症対策を行いながら開催されます。 すでに公式HPなどをチェックされている方も多く...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰かを批判しても悲しんでも誰も守ってはくれません。近づいてくるのはコロナだけです。 - teruyastarはかく語りき]]></title>
+        <id>https://teruyastar.hatenablog.com/entry/2021/08/20/225041</id>
+        <link href="https://teruyastar.hatenablog.com/entry/2021/08/20/225041"/>
+        <updated>2021-08-20T23:18:39.000Z</updated>
+        <summary type="html"><![CDATA[とてもいい言葉だったので。 www3.nhk.or.jp 妊婦でコロナ感染者の受け入れ先が見つからず赤ちゃん死亡という痛ましい出来事があった。ブコメは人災だと五輪や政権批判で燃えてるが、批判するときは五輪と政府がこの事件にどれだけ影響したか調べてからの方がいいと思う。 デルタがあまりに感染力高すぎたのか、五輪を開...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -86,21 +96,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[子どものコロナ感染急増 小児科医「学校で感染前提に対策を」 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210821/k10013215231000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210821/k10013215231000.html"/>
-        <updated>2021-08-20T19:35:35.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が続く中、子どもの感染も急増しています。 夏休みが明けて小学校などで授業が始まるのを前に小児科医からは「早期の把握など学校で感染が増えるのを前提に対策を進めるべきだ」という指摘が出ています。 東京都内の小児科医でつくる「東京小児科医会」の時田章史理事は、東京 港区で小児科...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[クボユウスケという人がマジですごい]]></title>
         <id>https://anond.hatelabo.jp/20210821031048</id>
         <link href="https://anond.hatelabo.jp/20210821031048"/>
         <updated>2021-08-20T18:17:13.000Z</updated>
         <summary type="html"><![CDATA[#kutooo 運動の創始者である石川優実氏が、ここ最近ビジフェミ界の猛り狂う邪神と化しているのを知って以来、野次馬根性からか彼女を観察するのをやめられなくなってしまった。「こうすれば炎上するに違いない」という打算と本物のヒステリックな怒りが入り混じった意味不明な言動、そしてそれを用いた猛獣の如き全方位...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla、人型ロボット開発に参入　2022年にプロトタイプ公開（ITmedia NEWS） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b</id>
+        <link href="https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b"/>
+        <updated>2021-08-20T18:16:04.000Z</updated>
+        <summary type="html"><![CDATA[電気自動車を手掛ける米Teslaは8月19日（米国時間）、同社のイベント「AI Day」の中で、人型ロボット「Tesla Bot」の開発を発表した。2022年にプロトタイプを公開するという。 【画像】Tesla Botの身長や重量、移動速度など詳細スペック ロボットの身長は約173cmで重量は約57kg。約20kgまでの荷物を持って時速8kmで移動...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://speakerdeck.com/recruitengineers/browser-b45d3a59-af2b-449c-992e-fd7563745f80"/>
         <updated>2021-08-20T14:56:31.000Z</updated>
         <summary type="html"><![CDATA[Transcript Browser 2021/04/06 @ Recruit Twitter: @yosuke_furukawa Github: yosuke-furukawa Browser • ஌ͬͯΔΑ͏Ͱ஌Βͳ͍ • ΢ΣϒΞϓϦέʔγϣϯΛ࡞Δ࣌ʹඞͣ࢖͏ ΋ͷͷɺத਎͕Ͳ͏ͳͬͯΔ͔Λઆ໌ͯ͘͠ ͍ͩ͞ͱݴΘΕΔͱͲ͏ͨ͠Β͍͍͔Θ͔Β ͳ͍΋ͷ • ࠓճ͸ͦΜͳϒϥ΢βʹ৮ΕΑ͏ͱࢥ͍·͢ Browse + er ோΊΔ΋ͷ ຊߨٛͷͶΒ͍ • օ͞Μʹϒϥ΢βͷத਎Λೝࣝͯ͠΋Β͍ɺ಄ͷதʹ ϚοϓΛ࡞ͬͯ΋Β͏ɻ • ϒϥ΢βͷ஍ਤΛ࡞্ͬͨͰ͜ͷ͋ͱͷߨٛʢύ ϑΥʔϚϯεɺηΩϡϦςΟɺJavaScript/ TypeScriptʣΛड͚ͯ΋Β͏͜ͱͰཧղ౓ΛਂΊΔɻ • ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生まれて初めての『マツケンサンバ』に立ち尽くす子供たち→令和生まれにマツケンは刺激が強かったか？ - Togetter]]></title>
-        <id>https://togetter.com/li/1762633</id>
-        <link href="https://togetter.com/li/1762633"/>
-        <updated>2021-08-20T14:24:58.000Z</updated>
-        <summary type="html"><![CDATA[昼と夜 @dayandnight00 うちの2歳児がマツケンサンバを前にして呆然と立ちすくんでます。令和boyには刺激が強すぎるようだ。（One Night Carnivalは踊ってた） pic.twitter.com/I6NtwWf8yl 2021-08-20 21:06:48]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

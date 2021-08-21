@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T12:18:09.179Z</id>
+    <id>urn:2021-08-21T13:16:56.274Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T12:18:09.179Z</updated>
+    <updated>2021-08-21T13:16:56.274Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[反ワクチンでもないし、接種券も来たのに、謎の理由で予約ができずワクチンがいつまでも打てない人がいる - Togetter]]></title>
+        <id>https://togetter.com/li/1762983</id>
+        <link href="https://togetter.com/li/1762983"/>
+        <updated>2021-08-21T10:09:16.000Z</updated>
+        <summary type="html"><![CDATA[えらいてんちょう @eraitencho 観測範囲内で反ワクチンでもなんでもないし接種券もきたけれど謎の理由で予約の電話ができずにワクチン接種が永久にできないみたいな人類がかなりいる 2021-08-20 22:38:09]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 5074人感染確認 4日連続5000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210821/k10013215871000.html</id>
@@ -86,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[山吹オルカ🥼 on Twitter: "フジロックの混雑っぷり、この感染爆発と医療崩壊の中で行われたイベントとは信じられない。 これじゃあRock is Dead (ロックは死んだ) ならぬ Rock is Deadly (ロックが命取り) だよ……😭😭😭 https://t.co/Srv9W7jRPF"]]></title>
+        <id>https://twitter.com/YamabukiOrca/status/1428832472175808515</id>
+        <link href="https://twitter.com/YamabukiOrca/status/1428832472175808515"/>
+        <updated>2021-08-21T01:55:30.000Z</updated>
+        <summary type="html"><![CDATA[フジロックの混雑っぷり、この感染爆発と医療崩壊の中で行われたイベントとは信じられない。 これじゃあRock is Dead (ロックは死んだ) ならぬ Rock is Deadly (ロックが命取り) だよ……😭😭😭 https://t.co/Srv9W7jRPF]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[助けてくれ⋯百貨店は隠してんだ⋯休業すべきなんだ⋯⋯⋯]]></title>
         <id>https://anond.hatelabo.jp/20210821101437</id>
         <link href="https://anond.hatelabo.jp/20210821101437"/>
@@ -151,16 +171,6 @@
         <link href="https://togetter.com/li/1762672"/>
         <updated>2021-08-20T21:29:42.000Z</updated>
         <summary type="html"><![CDATA[あっちゃん。🐋 @SNARK_METAL @altms_10 あるあるが過ぎて泣いた。😭 身体じゃなくてもバッグが出っ張ってくることある。 自分のサイズくらい脳ミソがあればわかるはずだから、自分や荷物がはみ出してること気付かない寄っかかってくる人がおかしいと思います。 2021-08-20 13:14:22]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[病床ひっ迫 体育館など活用の臨時医療施設の開設検討を 厚労省 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210821/k10013215041000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210821/k10013215041000.html"/>
-        <updated>2021-08-20T21:23:29.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大で、病床がひっ迫し、自宅療養者が増える中、厚生労働省は軽症や中等症の患者に対応するため、地域の体育館などを活用した臨時の医療施設の開設を検討するよう自治体に呼びかけることにしています。 新型コロナウイルスの感染確認が、20日も全国で2万5000人を超えて、一日の発表としては、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://automaton-media.com/articles/newsjp/20210820-173078/"/>
         <updated>2021-08-20T11:59:38.000Z</updated>
         <summary type="html"><![CDATA[オープンワールドRPG『The Elder Scrolls V: Skyrim（以下、Skyrim）』 海外プレイヤーを中心に長年囁かれてきたある噂について、同作元開発者が興味深い事実を明かした。その噂は「キツネを追うと宝や重要な場所に辿り着く」というもの。キツネは宝を追っているのか否か、その答えはゲームの仕組みの内側にあったようだ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旭川中2女子の死体検案書に誤った病名 ｜ 共同通信]]></title>
-        <id>https://nordot.app/801390642292670464</id>
-        <link href="https://nordot.app/801390642292670464"/>
-        <updated>2021-08-20T11:48:08.000Z</updated>
-        <summary type="html"><![CDATA[北海道旭川市で3月、中学2年の女子生徒が凍死しているのが見つかった問題で、実際はかかっていなかった精神疾患名が死体検案書の一部に記入されていたことが20日、関係者への取材で分かった。道警の誤った情報を基に医師が書いたとみられる。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

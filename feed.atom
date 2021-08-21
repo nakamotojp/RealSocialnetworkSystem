@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T18:14:00.929Z</id>
+    <id>urn:2021-08-21T19:09:15.735Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T18:14:00.929Z</updated>
+    <updated>2021-08-21T19:09:15.735Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://anond.hatelabo.jp/20210820215935"/>
         <updated>2021-08-21T12:31:46.000Z</updated>
         <summary type="html"><![CDATA[この↓増田は自分の読書歴を晒してないので何の漫画を読んでそう思ったのか全くわからず第三者が検討しようがないクソ増田であるが、見出しだけ見れば思うところはあり、 フィクションまで正しい人間が勝つのが息苦しい https://anond.hatelabo.jp/20210820123355 最近のフィクションは主人公がみんな体制側についていて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】政府が「災害専門ボランティア」育成へ…避難所運営の専門家、被災地へ派遣（読売新聞オンライン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/997e779eb7fc8fa65006ac9353bae100faf133cb</id>
+        <link href="https://news.yahoo.co.jp/articles/997e779eb7fc8fa65006ac9353bae100faf133cb"/>
+        <updated>2021-08-21T11:10:19.000Z</updated>
+        <summary type="html"><![CDATA[政府は来年度、災害時に避難所運営にあたる「災害専門ボランティア」の育成に乗り出す方針を固めた。災害が頻発し、マンパワーの確保が難しい自治体に代わり、住民に避難所の衛生管理や被災者の健康ケアを担ってもらい、災害関連死を防ぐのが狙いだ。ボランティア向けの研修を行い、受講者を各地の被災地へ派遣できるよ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -111,16 +121,6 @@
         <link href="https://news.yahoo.co.jp/articles/1324eef754528197c30250a441299020a2415e2c"/>
         <updated>2021-08-21T06:55:19.000Z</updated>
         <summary type="html"><![CDATA[全国中学校体育大会第５日は２１日、群馬県高崎市の高崎アリーナなどであり、バスケットボール男子は、本山南（神戸市東灘区）など準決勝に進出した全４校が棄権したため、大会規定で異例の４校同時優勝となった。本山南は初優勝。兵庫勢の優勝は１９７４年の衣川（明石市）以来４７年ぶり２度目となる。 【写真】試合開...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「素人がいきなりターンテーブルを買ってもいい理由」と読者が 「買ってよかったもの」を紹介します！ :: デイリーポータルZ]]></title>
-        <id>https://dailyportalz.jp/dpq/katteyokatta-2021-08-21</id>
-        <link href="https://dailyportalz.jp/dpq/katteyokatta-2021-08-21"/>
-        <updated>2021-08-21T06:32:39.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、編集部藤原です。休みの日に「思いっきり寝てやれ～」と思って寝たら、びっくりするくらい寝てしまい、我ながら加減を知らんのかと思いました。ほぼ1日寝てました。 ということで、今回の「買ってよかったもの」です。読者の買ってよかったものを紹介するコーナーです。 デイリーポータルZのサイト上のアン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

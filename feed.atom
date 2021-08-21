@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T02:24:32.146Z</id>
+    <id>urn:2021-08-21T03:13:03.070Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T02:24:32.146Z</updated>
+    <updated>2021-08-21T03:13:03.070Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[英、満員観戦で6千人超感染　サッカー欧州選手権 ｜ 共同通信]]></title>
+        <id>https://nordot.app/801632294909493248</id>
+        <link href="https://nordot.app/801632294909493248"/>
+        <updated>2021-08-21T02:07:27.000Z</updated>
+        <summary type="html"><![CDATA[【ロンドン共同】新型コロナウイルスの感染対策の効果を実証するため、英政府が大人数の観客の入場を認めた6～7月のサッカー欧州選手権で、観客計約6400人が感染したとみられることが、政府が20日に公表した調査報告書で明らかになった。調査した研究者らは、密接状態で「ウイルスがいかに容易に広がるかが示された」と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「幸せな低酸素症」に注意 自宅療養者 息苦しさ感じず重症化も | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210821/k10013214951000.html</id>
@@ -116,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[猫が…入院拒んだ自宅療養の男性死亡　熊本市 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8N779HP8NTIPE02L.html</id>
+        <link href="https://www.asahi.com/articles/ASP8N779HP8NTIPE02L.html"/>
+        <updated>2021-08-20T14:03:11.000Z</updated>
+        <summary type="html"><![CDATA[熊本市は20日、新型コロナウイルスに感染して自宅療養中だった50代の男性会社員が死亡したと発表した。熊本県内で自宅療養者が亡くなるのは初めて。県内の死者はこれで計122人となった。 市によると、亡くなった男性は今月12日に発熱し、13日に抗原検査を受けて陽性と判明。一人暮らしで基礎疾患があったが、医師から軽...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[大森靖子の騒動:ロマン優光連載193 - ブッチNEWS（ブッチニュース）]]></title>
         <id>https://bucchinews.com/subcul/6841.html</id>
         <link href="https://bucchinews.com/subcul/6841.html"/>
@@ -141,16 +161,6 @@
         <link href="https://www.asahi.com/articles/ASP8N6D4RP8NUTIL022.html"/>
         <updated>2021-08-20T13:16:46.000Z</updated>
         <summary type="html"><![CDATA[東京都は20日、新型コロナウイルス対応のモニタリング会議を開き、感染者のうち入院に至った割合（入院率）が9・5%と「極めて低い水準」になっていることが報告された。1カ月前の25・2%から大きく低下し、感染しても入院しにくい状況になっている。重症病床の使用率も9割に迫り、専門家は現状の感染ペースが続くだけで、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 今月27日から渋谷駅近くで若者向けワクチン接種実施へ | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210820/k10013214971000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210820/k10013214971000.html"/>
-        <updated>2021-08-20T13:08:57.000Z</updated>
-        <summary type="html"><![CDATA[東京都が若者向けに渋谷駅近くに設けるワクチン接種会場は、今月27日から運用が始まり、1日当たり200人程度の接種を行うことになりました。 場所は、渋谷区神南にある「区立勤労福祉会館」で、自治体から送られてくる接種券と、本人であることを証明するものがあれば、事前の予約なしで接種が受けられます。 対象は、16...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -211,16 +221,6 @@
         <link href="https://www.tokyo-np.co.jp/article/125739"/>
         <updated>2021-08-20T10:48:57.000Z</updated>
         <summary type="html"><![CDATA[記者からは、医療提供体制が非常に厳しい中で大会を開き、学校連携観戦も行うことに都民の理解を得られると認識しているかを問う質問があり、小池知事は「はい。ぜひ理解していただきたいと思います」と答えた。 小池知事は会見の冒頭、１０代以下の感染拡大に触れ、各家庭で毎日、子どもの検温をすることなどの健康観察...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[｢いつまで"最後の我慢"を続けるのか｣これ以上､高齢者のために子供を犠牲にするべきではない 自粛の後遺症を考えたことがあるか | PRESIDENT Online（プレジデントオンライン）]]></title>
-        <id>https://president.jp/articles/-/49085</id>
-        <link href="https://president.jp/articles/-/49085"/>
-        <updated>2021-08-20T10:45:21.000Z</updated>
-        <summary type="html"><![CDATA[8月4日、1都3県の知事は「最後の我慢」を訴え、旅行、帰省の原則中止や積極的なワクチン接種への協力を呼びかけた。評論家の山形浩生さんは「これまで何度、この手の台詞を聞いたことか。こんな呼びかけはいつまでも続けられるものではない。高齢者の命を守るために、若者や子供を犠牲にするのは、もうやめるべきだ」と...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T08:13:32.667Z</id>
+    <id>urn:2021-08-21T09:11:54.407Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T08:13:32.667Z</updated>
+    <updated>2021-08-21T09:11:54.408Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 5074人感染確認 4日連続5000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210821/k10013215871000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210821/k10013215871000.html"/>
+        <updated>2021-08-21T07:50:08.000Z</updated>
+        <summary type="html"><![CDATA[東京都は21日、都内で新たに5074人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の土曜日より20人減りましたが、初めて4日連続で5000人を超えました。 都の基準で集計した21日時点の重症患者は、前日（20日）より3人減って270人でした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菅首相が書面回答　パラ開催しながら国民に自粛要請の「矛盾」には答えず：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/125866</id>
@@ -31,16 +41,6 @@
         <link href="https://nordot.app/801632294909493248"/>
         <updated>2021-08-21T02:07:27.000Z</updated>
         <summary type="html"><![CDATA[【ロンドン共同】新型コロナウイルスの感染対策の効果を実証するため、英政府が大人数の観客の入場を認めた6～7月のサッカー欧州選手権で、観客計約6400人が感染したとみられることが、政府が20日に公表した調査報告書で明らかになった。調査した研究者らは、密接状態で「ウイルスがいかに容易に広がるかが示された」と...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山吹オルカ🥼 on Twitter: "フジロックの混雑っぷり、この感染爆発と医療崩壊の中で行われたイベントとは信じられない。 これじゃあRock is Dead (ロックは死んだ) ならぬ Rock is Deadly (ロックが命取り) だよ……😭😭😭 https://t.co/Srv9W7jRPF"]]></title>
-        <id>https://twitter.com/YamabukiOrca/status/1428832472175808515</id>
-        <link href="https://twitter.com/YamabukiOrca/status/1428832472175808515"/>
-        <updated>2021-08-21T01:55:30.000Z</updated>
-        <summary type="html"><![CDATA[フジロックの混雑っぷり、この感染爆発と医療崩壊の中で行われたイベントとは信じられない。 これじゃあRock is Dead (ロックは死んだ) ならぬ Rock is Deadly (ロックが命取り) だよ……😭😭😭 https://t.co/Srv9W7jRPF]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,31 +236,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「愛知？何もないよ？」と言いがちな愛知県民を論破してきた_PR | SPOT]]></title>
-        <id>https://travel.spot-app.jp/aichi_hiyashitabi/</id>
-        <link href="https://travel.spot-app.jp/aichi_hiyashitabi/"/>
-        <updated>2021-08-20T13:20:15.000Z</updated>
-        <summary type="html"><![CDATA[※本日の記事はJR東海の提供でお送りします。 ※なお、本記事は「愛知県の方々にこそ愛知県の良さを知って欲しい」という思いで7月上旬に取材を実施いたしましたが、新型コロナウィルスの感染が拡大しており、現時点での旅行は推奨いたしません。愛知県外の方々には「愛知県にはこんなにいい場所がある」という事を知って...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感染爆発の東京、入院率9・5%どまり　迫る医療の限界 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8N6D4RP8NUTIL022.html</id>
-        <link href="https://www.asahi.com/articles/ASP8N6D4RP8NUTIL022.html"/>
-        <updated>2021-08-20T13:16:46.000Z</updated>
-        <summary type="html"><![CDATA[東京都は20日、新型コロナウイルス対応のモニタリング会議を開き、感染者のうち入院に至った割合（入院率）が9・5%と「極めて低い水準」になっていることが報告された。1カ月前の25・2%から大きく低下し、感染しても入院しにくい状況になっている。重症病床の使用率も9割に迫り、専門家は現状の感染ペースが続くだけで、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「大谷さんは何者なのか？」アメリカで人間扱いされていない大谷翔平選手がどう呼ばれているのかを収集した結果が面白い - Togetter]]></title>
         <id>https://togetter.com/li/1762566</id>
         <link href="https://togetter.com/li/1762566"/>
         <updated>2021-08-20T12:55:35.000Z</updated>
         <summary type="html"><![CDATA[MLB Japan @MLBJapan 【 #エンゼルス 】#大谷翔平 特大の第40号ホームラン！！そして自身最長の8回を投げ、無四球1失点8奪三振の好投🙌 『1番・投手』が投打に輝き8勝目です✨ #日本人選手情報 pic.twitter.com/qaXlnCnNSq 2021-08-19 12:12:42 リンク Full-Count（フルカウント） ― 野球ニュース・速報・コラム ― 大谷...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『Skyrim』のキツネはプレイヤーをお宝に導くか。発売直後から囁かれてきた噂の真相を元開発者が明かす | AUTOMATON]]></title>
+        <id>https://automaton-media.com/articles/newsjp/20210820-173078/</id>
+        <link href="https://automaton-media.com/articles/newsjp/20210820-173078/"/>
+        <updated>2021-08-20T11:59:38.000Z</updated>
+        <summary type="html"><![CDATA[オープンワールドRPG『The Elder Scrolls V: Skyrim（以下、Skyrim）』 海外プレイヤーを中心に長年囁かれてきたある噂について、同作元開発者が興味深い事実を明かした。その噂は「キツネを追うと宝や重要な場所に辿り着く」というもの。キツネは宝を追っているのか否か、その答えはゲームの仕組みの内側にあったようだ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -301,6 +291,16 @@
         <link href="https://nazology.net/archives/95025"/>
         <updated>2021-08-20T10:20:34.000Z</updated>
         <summary type="html"><![CDATA[Credit:Canva . ナゾロジー編集部 全ての画像を見る コロナ禍において人類は、2種類のウイルスと戦っていました。 最近、World Organizationの研究者たちにより『Pathogens』に掲載された論文によれば、新型コロナウイルスによる長引く後遺症が「EBウイルス」と呼ばれる、既に体内にある別のウイルスの再活性化によって...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[妊婦です。夫がフジロックに行きました。]]></title>
+        <id>https://anond.hatelabo.jp/20210820152752</id>
+        <link href="https://anond.hatelabo.jp/20210820152752"/>
+        <updated>2021-08-20T07:35:47.000Z</updated>
+        <summary type="html"><![CDATA[やっほー！こんにちは！元気な妊婦だよ！！今は妊娠七か月！！ でも夫がフジロックに行ったよ！！ いつも行ってる友達数人と行ったよ！ ざっけんな前は私も一緒にそのメンツと行ってたのに、自分だけでいくなんてずるいずるいずるい～～！！ という事を言いたいわけではもちろんなく なんで行くのかなあ？オリンピックは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

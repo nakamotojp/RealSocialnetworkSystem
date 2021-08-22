@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T04:15:36.709Z</id>
+    <id>urn:2021-08-22T05:10:21.168Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T04:15:36.709Z</updated>
+    <updated>2021-08-22T05:10:21.168Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[新型コロナ　東京都の新規感染者数はピークアウトが近いと言えるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
+        <title type="html"><![CDATA[新型コロナ　東京都で診断されていない感染者はどれくらいいるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353"/>
         <updated>2021-08-22T02:52:52.000Z</updated>
         <summary type="html"><![CDATA[東京都の新規感染者数は現在も5000人前後と非常に高い水準で推移していますが、SNSなどでは「ピークアウトが近いのでは？」という声が聞かれるようになってきました。 一方、東京都の専門家は診断されていない感染者が多くいるのではないかという懸念を示しています。 都内の感染者は本当に減ってきているのでしょうか？...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[松本人志　コロナワクチン2回接種完了も「何のために打ったのか」　長引く自粛に私見（スポニチアネックス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/1168c83c85d69833b0b7fa10579d0d3c8da5066a</id>
+        <link href="https://news.yahoo.co.jp/articles/1168c83c85d69833b0b7fa10579d0d3c8da5066a"/>
+        <updated>2021-08-22T02:29:33.000Z</updated>
+        <summary type="html"><![CDATA[お笑いコンビ「ダウンタウン」の松本人志（57）が22日放送のフジテレビ「ワイドナショー」（日曜前10・00）に出演。新型コロナウイルスのワクチン接種についての考えを述べた。 「ワクチンというのは、あくまでも例えですけど、車で言うところのシートベルトみたいなもんじゃないかと。バイクでいうとヘルメット。ワクチ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岐阜県がコロナ感染者の行動歴まとめを公表→具体的で超参考になる一方、「大人数・食事・カラオケ」がほぼ全てで...となる - Togetter]]></title>
+        <id>https://togetter.com/li/1763346</id>
+        <link href="https://togetter.com/li/1763346"/>
+        <updated>2021-08-22T02:07:04.000Z</updated>
+        <summary type="html"><![CDATA[リンク 岐阜新聞Web ＢＢＱ、帰省や旅行が温床に 岐阜県が新型コロナ感染者の行動歴公表 新型コロナウイルス感染の第５波が全国で猛威を振るう中、県内では感染者３００人台が２１日までに５日間続く厳しい状況だ。一部の感染者の行動歴から、夏休みやお盆が本格化して人の動きが活発化し、帰省や旅行、会食、バーベキュ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +51,16 @@
         <link href="https://twitter.com/merori54546787/status/1429069772654669826"/>
         <updated>2021-08-22T01:10:55.000Z</updated>
         <summary type="html"><![CDATA[発熱外来で「会食しましたか？」と質問すると 「高級店には行ってない」 会食＝高級店での食事 と思い込んでる人結構いる。 初めは驚いてたけど最近はまたかとなってる。 「会食」って人々が集まって一緒に食事をするって意味なんよ…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弁護士「男子数人がゲーム感覚で女子トイレを盗撮することがあるんだけど「あなたが被害届をださなければ、３人の生徒が助かる」とか、フツーに言われる」 - Togetter]]></title>
+        <id>https://togetter.com/li/1763016</id>
+        <link href="https://togetter.com/li/1763016"/>
+        <updated>2021-08-22T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[らめーん @shouwarame これ、いじめをはじめとして生徒間の事件とかでよく学校が言うやつ。男子数人がゲーム感覚で女子トイレを盗撮することがあるんだけど「あなたが被害届をださなければ、３人の生徒が助かる」とか、フツーに言われる。 twitter.com/CatRobotP/stat… 2021-08-19 12:41:26 らめーん @shouwarame 生徒の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,26 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[反ワクチンでもないし、接種券も来たのに、謎の理由で予約ができずワクチンがいつまでも打てない人がいる - Togetter]]></title>
-        <id>https://togetter.com/li/1762983</id>
-        <link href="https://togetter.com/li/1762983"/>
-        <updated>2021-08-21T10:09:16.000Z</updated>
-        <summary type="html"><![CDATA[えらいてんちょう @eraitencho 観測範囲内で反ワクチンでもなんでもないし接種券もきたけれど謎の理由で予約の電話ができずにワクチン接種が永久にできないみたいな人類がかなりいる 2021-08-20 22:38:09]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ケンコバ「お笑い界は破滅する」 雨上がり決死隊の解散翌日に語った危機とは?（マイナビニュース） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/91d132e5bb2ef87e71fc624ac2747b4c6ece76db</id>
-        <link href="https://news.yahoo.co.jp/articles/91d132e5bb2ef87e71fc624ac2747b4c6ece76db"/>
-        <updated>2021-08-21T09:57:29.000Z</updated>
-        <summary type="html"><![CDATA[お笑い芸人のケンドーコバヤシが主催するお笑いライブ「地獄寄席(じごくよせ)」が、東京・世田谷区の北沢タウンホールで8月29日18時より開催される。出演者も内容も謎だらけの同ライブの話を伺うべく設定された取材日は、8月18日。奇しくもその前夜に雨上がり決死隊が解散した。翌18日、神妙な面持ちで現場に現れたケン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[助けてくれ⋯百貨店は隠してんだ⋯休業すべきなんだ⋯⋯⋯]]></title>
         <id>https://archive.md/2021.08.21-063555/https://anond.hatelabo.jp/20210821101437</id>
         <link href="https://archive.md/2021.08.21-063555/https://anond.hatelabo.jp/20210821101437"/>
@@ -272,16 +282,6 @@
         <link href="https://togetter.com/li/1762930"/>
         <updated>2021-08-21T07:35:02.000Z</updated>
         <summary type="html"><![CDATA[すきえんてぃあ@書け @cicada3301_kig 雑談ができない人、ぶっちゃけ「そうだね」「よかったね」「大変だったね」に相当する3種類の応答をループしながら、合間に相手が好きそうな話題を探して尋ねる、という簡単なアルゴリズムを組むだけで日常生活できるよ。表情は機械的に相手と同期させるだけでいい。 2021-08-20 07...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太平洋の無人島に漂着した16人の日本人が腹いっぱい堪能した｢牛肉よりうまい動物｣の名前 海水で煮た潮煮は最高だった | PRESIDENT Online（プレジデントオンライン）]]></title>
-        <id>https://president.jp/articles/-/48852</id>
-        <link href="https://president.jp/articles/-/48852"/>
-        <updated>2021-08-21T05:07:42.000Z</updated>
-        <summary type="html"><![CDATA[1899年、漁業調査をしていた日本の帆船が座礁し、16人の乗組員が太平洋の無人島に漂着した。彼らは十分な食糧をもっていなかったが、島にやってくるある生き物のおかげで「贅沢」とも言える食生活をおくったという。作家の椎名誠さんが解説する――。（第2回） 門外不出の『無人島に生きる十六人』 漂流記にはカテゴリーが...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

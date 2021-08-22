@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T22:11:48.028Z</id>
+    <id>urn:2021-08-22T23:11:48.110Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T22:11:48.028Z</updated>
+    <updated>2021-08-22T23:11:48.110Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ANN世論調査　菅内閣支持率が発足後、最低を更新｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_politics/articles/000226360.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_politics/articles/000226360.html"/>
+        <updated>2021-08-22T21:52:33.000Z</updated>
+        <summary type="html"><![CDATA[ANNの世論調査で菅内閣の支持率が25.8％となり、政権発足以来、最低となりました。 調査は21日、22日に行いました。 菅内閣の支持率は25.8％で、先月の前回調査から3.8ポイント下がりました。 一方で「支持しない」が政権発足以来、最も高い48.7％となりました。 東京オリンピックについて、この時期に開催して「よかっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染激減インドから日本へ「絶対参考にしないで…」｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_international/articles/000226343.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_international/articles/000226343.html"/>
+        <updated>2021-08-22T20:16:52.000Z</updated>
+        <summary type="html"><![CDATA[感染が広がるデルタ株、日本だけでなく世界中で猛威を振るっています。そのウイルスが最初に確認されたインドでは、ピーク時に比べ感染が激減しています。一体、何が起こったのでしょうか。 ▽インド 1日40万人感染が一転…酒も解禁 （ニューデリー近郊に住む中村ゆりさん）「ここはグルガオン市内にあるローカルマーケッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小此木八郎氏が政界引退の意向「結果を受け止める」　横浜市長選 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210822/k00/00m/010/307000c</id>
+        <link href="https://mainichi.jp/articles/20210822/k00/00m/010/307000c"/>
+        <updated>2021-08-22T16:20:54.000Z</updated>
+        <summary type="html"><![CDATA[任期満了に伴う横浜市長選は22日に投開票され、元横浜市立大教授の山中竹春氏（48）＝立憲民主党推薦＝が、前国家公安委員長の小此木八郎氏（56）や4選を目指した現職の林文子氏（75）ら7人を破って初当選した。 小此木氏は落選が決まると、横浜市中区の事務所で「結果をしっかり受け止める」と語った。今後については「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「雨上がり」解散で吉本芸人と御用マスコミの宮迫博之バッシングが理不尽すぎる！ 解散に追い込んだのは吉本上層部なのに｜LITERA／リテラ]]></title>
+        <id>https://lite-ra.com/2021/08/post-5996.html</id>
+        <link href="https://lite-ra.com/2021/08/post-5996.html"/>
+        <updated>2021-08-22T14:12:59.000Z</updated>
+        <summary type="html"><![CDATA[「雨上がり」解散で吉本芸人と御用マスコミの宮迫博之バッシングが理不尽すぎる！ 解散に追い込んだのは吉本上層部なのに これはもう、ほとんどいじめだろう。宮迫博之と蛍原徹のお笑いコンビ「雨上がり決死隊」が吉本興業のYouTubeチャンネルとABEMAで解散を報告する動画を配信して以降、ネットや芸能マスコミだけでな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【横浜市長選】小此木八郎氏、政界引退を表明「もう選挙には立候補しない」　首相はメールで「ご苦労さま」（カナロコ by 神奈川新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/abd03a747cae1b81131d0885ed8dce7f1295cad2</id>
@@ -41,6 +81,16 @@
         <link href="https://anond.hatelabo.jp/20210822215448"/>
         <updated>2021-08-22T12:57:44.000Z</updated>
         <summary type="html"><![CDATA[40代会社員。 コロナ始まって依頼交通機関も基本的に使わないし、昼夜外食もしないし、人前でマスクを外すこともありませんでした。 なのにコロナになった。 今までの感染報告は、なんだかんだ会食したり人前でマスク外したりして、結局はそこだよなっていうものばっかりでした。 だから自分が感染するとは思わなかった...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[維新、自公と部分連合も　衆院選後、政策実現条件に - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210822-IUCPOPNW4ZJJTP2WQQ6VFI72TI/</id>
+        <link href="https://www.sankei.com/article/20210822-IUCPOPNW4ZJJTP2WQQ6VFI72TI/"/>
+        <updated>2021-08-22T12:40:37.000Z</updated>
+        <summary type="html"><![CDATA[大阪市内で取材に応じる日本維新の会の馬場伸幸幹事長＝７月４日夜日本維新の会の馬場伸幸幹事長は２２日放送のＢＳテレ東番組で、次期衆院選の結果を踏まえ、自民、公明両党と政策ごとに連携する部分連合に含みを持たせた。番組の司会者から部分連合の可能性を問われ「ゼロとは言わない。大改革をやるために、われわれ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,21 +216,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大使の香取慎吾さん「パラには社会を変える力がある」：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8Q54W2P8QUTQP014.html</id>
-        <link href="https://www.asahi.com/articles/ASP8Q54W2P8QUTQP014.html"/>
-        <updated>2021-08-22T07:20:49.000Z</updated>
-        <summary type="html"><![CDATA[東京パラリンピック開幕を2日後に控えた22日、国際パラリンピック委員会（IPC）特別親善大使を務める元SMAPの香取慎吾さんと稲垣吾郎さん、草彅剛さんの3人が東京都内で会見し、それぞれ大会に向けた思いを語った。 3人は2018年7月にIPCのアンドリュー・パーソンズ会長から要請を受け、大会やパラスポーツの盛り上げ役を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丸山宗利 Maruyama on Twitter: "北海道で広く定着していて、致死的な寄生虫感染症を引き起こすエキノコックスが、愛知県知多半島で継続的に見つかっており、定着している可能性が高い。北海道の例から、すぐに駆虫薬の散布等で食い止めないと、各地に広まってしまう。手遅れになる… https://t.co/TDX8IZk2rg"]]></title>
-        <id>https://twitter.com/dantyutei/status/1429267292815126530</id>
-        <link href="https://twitter.com/dantyutei/status/1429267292815126530"/>
-        <updated>2021-08-22T04:43:11.000Z</updated>
-        <summary type="html"><![CDATA[北海道で広く定着していて、致死的な寄生虫感染症を引き起こすエキノコックスが、愛知県知多半島で継続的に見つかっており、定着している可能性が高い。北海道の例から、すぐに駆虫薬の散布等で食い止めないと、各地に広まってしまう。手遅れになる… https://t.co/TDX8IZk2rg]]></summary>
+        <title type="html"><![CDATA[肉米『にくべぇ』 on Twitter: "閉店前40分(19時20分)に御来店のお客様が食べるところを生配信したい。との事でしたので他のお客様を映さない条件で許可しました。食事を終え20時4分に会計され帰られました。20時6分お店に電話があり、生配信見てました20時を過ぎ… https://t.co/qTCSiGebLb"]]></title>
+        <id>https://twitter.com/Nikube_osu/status/1429054269626355717</id>
+        <link href="https://twitter.com/Nikube_osu/status/1429054269626355717"/>
+        <updated>2021-08-22T05:36:54.000Z</updated>
+        <summary type="html"><![CDATA[閉店前40分(19時20分)に御来店のお客様が食べるところを生配信したい。との事でしたので他のお客様を映さない条件で許可しました。食事を終え20時4分に会計され帰られました。20時6分お店に電話があり、生配信見てました20時を過ぎ… https://t.co/qTCSiGebLb]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,36 +231,6 @@
         <link href="https://jbpress.ismedia.jp/articles/-/66583"/>
         <updated>2021-08-22T03:39:12.000Z</updated>
         <summary type="html"><![CDATA[7月12日、一週間後に行動制限を解除することを正式に発表するジョンソン首相（写真：代表撮影/ロイター/アフロ） （黒木亮・作家） ワクチン接種が十分でないところにデルタ株が猛威をふるっている日本の現状は、筆者が住む英国の去年の秋から冬にかけての状況を彷彿させる。ただ違う点が1つある。英国では医療が崩壊す...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靖国神社にある三浦春馬氏を利用したヘイトスピーチ的陰謀論絵馬について - 電脳塵芥]]></title>
-        <id>https://nou-yunyun.hatenablog.com/entry/2021/08/22/120000</id>
-        <link href="https://nou-yunyun.hatenablog.com/entry/2021/08/22/120000"/>
-        <updated>2021-08-22T03:22:35.000Z</updated>
-        <summary type="html"><![CDATA[以上の様な三浦春馬氏への思いを綴りながらも彼の自死を利用したヘイトスピーチにあたるであろう絵馬が靖国神社で散見されました。この絵馬については8月15日ごろに一部ツイッターで話題になっていたもので、それを受けて実際に自分も靖国神社で確認しましたが現状の絵馬の大部分は三浦春馬氏に関するものでした。その数...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ　東京都で診断されていない感染者はどれくらいいるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353</id>
-        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353"/>
-        <updated>2021-08-22T02:52:52.000Z</updated>
-        <summary type="html"><![CDATA[東京都の新規感染者数は現在も1日当たり5000人前後と非常に高い水準で推移していますが、SNSなどでは「ピークアウトが近いのでは？」という声が聞かれるようになってきました。 一方、東京都の専門家は「診断されていない感染者が多くいるのではないか」という懸念を示しています。 都内の感染者は本当に減ってきている...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[松本人志　コロナワクチン2回接種完了も「何のために打ったのか」　長引く自粛に私見（スポニチアネックス） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/1168c83c85d69833b0b7fa10579d0d3c8da5066a</id>
-        <link href="https://news.yahoo.co.jp/articles/1168c83c85d69833b0b7fa10579d0d3c8da5066a"/>
-        <updated>2021-08-22T02:29:33.000Z</updated>
-        <summary type="html"><![CDATA[お笑いコンビ「ダウンタウン」の松本人志（57）が22日放送のフジテレビ「ワイドナショー」（日曜前10・00）に出演。新型コロナウイルスのワクチン接種についての考えを述べた。 「ワクチンというのは、あくまでも例えですけど、車で言うところのシートベルトみたいなもんじゃないかと。バイクでいうとヘルメット。ワクチ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,16 +271,6 @@
         <link href="https://togetter.com/li/1763016"/>
         <updated>2021-08-22T00:42:00.000Z</updated>
         <summary type="html"><![CDATA[らめーん @shouwarame これ、いじめをはじめとして生徒間の事件とかでよく学校が言うやつ。男子数人がゲーム感覚で女子トイレを盗撮することがあるんだけど「あなたが被害届をださなければ、３人の生徒が助かる」とか、フツーに言われる。 twitter.com/CatRobotP/stat… 2021-08-19 12:41:26 らめーん @shouwarame 生徒の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相休みなし連続執務１４７日、安倍氏に並ぶ - 産経ニュース]]></title>
-        <id>https://www.sankei.com/article/20210822-FI6BKDEXGFJQ5A3VO7O4C3RG2Y/</id>
-        <link href="https://www.sankei.com/article/20210822-FI6BKDEXGFJQ5A3VO7O4C3RG2Y/"/>
-        <updated>2021-08-22T00:36:55.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相（春名中撮影）菅義偉（すが・よしひで）首相は２１日、東京都渋谷区のＪＲ東京総合病院を受診した。首相はこの日で休みなしの連続執務が１４６日となり、２２日、安倍晋三前首相の昨年の連続執務記録と並んだ。政府・与党内からは体調を心配する声もあがっている。 首相は同病院に約３０分間滞在した後、衆院...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

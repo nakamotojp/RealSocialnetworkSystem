@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T16:17:12.975Z</id>
+    <id>urn:2021-08-22T17:15:59.550Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T16:17:12.975Z</updated>
+    <updated>2021-08-22T17:15:59.550Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「妻に怒られた」――権力者が謝罪で家族を持ち出すのはなぜ？違和感の理由を探る（治部れんげ） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/jiburenge/20210822-00252091</id>
+        <link href="https://news.yahoo.co.jp/byline/jiburenge/20210822-00252091"/>
+        <updated>2021-08-22T09:56:14.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪に関連して、不用意な発言や組織運営に対するリーダーの謝罪が続いた。もとの発言に含まれる問題に限らず、釈明や謝罪の際、「女房に怒られた」などと妻や娘など家族を持ちだすことにもSNSなどで批判が集まった。職場で、リーダーが釈明時にこうしたセリフを持ち出すのを聞いたことがある人もいるのではないだろ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 4392人感染確認 日曜日として最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html"/>
@@ -146,21 +156,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ　東京都で診断されていない感染者はどれくらいいるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353</id>
-        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353"/>
-        <updated>2021-08-22T02:52:52.000Z</updated>
-        <summary type="html"><![CDATA[東京都の新規感染者数は現在も1日当たり5000人前後と非常に高い水準で推移していますが、SNSなどでは「ピークアウトが近いのでは？」という声が聞かれるようになってきました。 一方、東京都の専門家は「診断されていない感染者が多くいるのではないか」という懸念を示しています。 都内の感染者は本当に減ってきている...]]></summary>
+        <title type="html"><![CDATA[西村経済再生相「人出減らず対策強化を検討」NHK日曜討論 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210822/k10013216721000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216721000.html"/>
+        <updated>2021-08-22T03:02:17.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり西村経済再生担当大臣は、NHKの「日曜討論」で、人の流れが十分に抑制できていないとして、今の法律の枠組みの中で対策を強化できないか検討する考えを示しました。 この中で、西村経済再生担当大臣は「今回の緊急事態宣言では、新型コロナに慣れてきた面や、『自粛疲れ』が出てきている...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【独自】みずほ障害、データ移行失敗でバックアップ機能せず（読売新聞オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/22c2a834875e4baf3a0904eef906cce874514ff0</id>
-        <link href="https://news.yahoo.co.jp/articles/22c2a834875e4baf3a0904eef906cce874514ff0"/>
-        <updated>2021-08-22T02:37:23.000Z</updated>
-        <summary type="html"><![CDATA[システム障害で、全国の店舗窓口で取引の受け付けができなくなったみずほ銀行（２０日午前１０時９分、東京都千代田区で）＝三浦邦彦撮影 みずほ銀行の全店窓口で２０日に取引ができなくなった障害で、故障した機器を管理するデータをバックアップ用予備機に移行するのに失敗していたことが２１日わかった。このため機器...]]></summary>
+        <title type="html"><![CDATA[新型コロナ　東京都で診断されていない感染者はどれくらいいるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353</id>
+        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353"/>
+        <updated>2021-08-22T02:52:52.000Z</updated>
+        <summary type="html"><![CDATA[東京都の新規感染者数は現在も1日当たり5000人前後と非常に高い水準で推移していますが、SNSなどでは「ピークアウトが近いのでは？」という声が聞かれるようになってきました。 一方、東京都の専門家は「診断されていない感染者が多くいるのではないか」という懸念を示しています。 都内の感染者は本当に減ってきている...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://www.sankei.com/article/20210822-FI6BKDEXGFJQ5A3VO7O4C3RG2Y/"/>
         <updated>2021-08-22T00:36:55.000Z</updated>
         <summary type="html"><![CDATA[菅義偉首相（春名中撮影）菅義偉（すが・よしひで）首相は２１日、東京都渋谷区のＪＲ東京総合病院を受診した。首相はこの日で休みなしの連続執務が１４６日となり、２２日、安倍晋三前首相の昨年の連続執務記録と並んだ。政府・与党内からは体調を心配する声もあがっている。 首相は同病院に約３０分間滞在した後、衆院...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評：並行プログラミング入門 - Software Transactional Memo]]></title>
-        <id>https://kumagi.hatenablog.com/entry/concurrent-programming-book</id>
-        <link href="https://kumagi.hatenablog.com/entry/concurrent-programming-book"/>
-        <updated>2021-08-22T00:03:01.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR 並行処理を実装する人のこれからのスタンダードになる一冊。買い。 買ったら思いの外早く届いたのでパラパラと読み始めたら一気に読み終えてしまった。 総評 敢えて雑な喩え方をするなら The Art of Multiprocessor Programming (通称TAoMP本) の内容を薄めてRustやアセンブラや計算モデルを足したような本だった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

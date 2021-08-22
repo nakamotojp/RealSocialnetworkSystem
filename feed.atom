@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T07:11:30.905Z</id>
+    <id>urn:2021-08-22T08:13:13.345Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T07:11:30.905Z</updated>
+    <updated>2021-08-22T08:13:13.345Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[丸山宗利 Maruyama on Twitter: "北海道で広く定着していて、致死的な寄生虫感染症を引き起こすエキノコックスが、愛知県知多半島で継続的に見つかっており、定着している可能性が高い。北海道の例から、すぐに駆虫薬の散布等で食い止めないと、各地に広まってしまう。手遅れになる… https://t.co/TDX8IZk2rg"]]></title>
+        <id>https://twitter.com/dantyutei/status/1429267292815126530</id>
+        <link href="https://twitter.com/dantyutei/status/1429267292815126530"/>
+        <updated>2021-08-22T04:43:11.000Z</updated>
+        <summary type="html"><![CDATA[北海道で広く定着していて、致死的な寄生虫感染症を引き起こすエキノコックスが、愛知県知多半島で継続的に見つかっており、定着している可能性が高い。北海道の例から、すぐに駆虫薬の散布等で食い止めないと、各地に広まってしまう。手遅れになる… https://t.co/TDX8IZk2rg]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[靖国神社にある三浦春馬氏を利用したヘイトスピーチ的陰謀論絵馬について - 電脳塵芥]]></title>
         <id>https://nou-yunyun.hatenablog.com/entry/2021/08/22/120000</id>
@@ -216,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最近は体制側の主人公の漫画が多すぎて息苦しい]]></title>
-        <id>https://anond.hatelabo.jp/20210820215935</id>
-        <link href="https://anond.hatelabo.jp/20210820215935"/>
-        <updated>2021-08-21T12:31:46.000Z</updated>
-        <summary type="html"><![CDATA[この↓増田は自分の読書歴を晒してないので何の漫画を読んでそう思ったのか全くわからず第三者が検討しようがないクソ増田であるが、見出しだけ見れば思うところはあり、 フィクションまで正しい人間が勝つのが息苦しい https://anond.hatelabo.jp/20210820123355 最近のフィクションは主人公がみんな体制側についていて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazonから注文していない商品が次々と届く、しかし代引きではない… - xckb的雑記帳]]></title>
         <id>https://xckb.hatenablog.com/entry/2021/08/21/193757</id>
         <link href="https://xckb.hatenablog.com/entry/2021/08/21/193757"/>
@@ -266,17 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[助けてくれ⋯百貨店は隠してんだ⋯休業すべきなんだ⋯⋯⋯]]></title>
-        <id>https://archive.md/2021.08.21-063555/https://anond.hatelabo.jp/20210821101437</id>
-        <link href="https://archive.md/2021.08.21-063555/https://anond.hatelabo.jp/20210821101437"/>
-        <updated>2021-08-21T09:27:50.000Z</updated>
-        <summary type="html"><![CDATA[助けてくれ⋯百貨店は隠してんだ⋯休業すべきなんだ⋯⋯⋯
- アーカイブされた 2021年8月21日 06:35:55 UTC  {{cite web...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[橋下徹 on Twitter: "ペナルティは保険医指定の取り消しくらいの強烈なことを。医療制度には多額の税が投入されているのだから当たり前のこと。"]]></title>
         <id>https://twitter.com/hashimoto_lo/status/1428940150948597763</id>
         <link href="https://twitter.com/hashimoto_lo/status/1428940150948597763"/>
@@ -292,6 +281,16 @@
         <link href="https://www.pref.wakayama.lg.jp/chiji/message/20210817.html?s=09"/>
         <updated>2021-08-21T08:34:33.000Z</updated>
         <summary type="html"><![CDATA[知事からのメッセージを紹介します。 令和3年8月17日のメッセージ 新型コロナウイルス感染症対策（その70）　最近時における状況と対策 最近における新型コロナウィルスの感染拡大ぶりは凄まじく、毎日全国のほとんどの県で2ケタの感染者が報告され、それも結構多くの県で3ケタを記録するなど、これまでになかったような...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOW＠新作出すよ on Twitter: "そういえば、「医師の説明よりもYouTuberのデマを信じる人達」の考察で、医師の説明はあくまで可能性を提示し選択と決定の材料を示すのに対して、YouTuberは「断定」してくれるからってのを見て、要は「自分で決められない人」が増えてんだなぁと。"]]></title>
+        <id>https://twitter.com/sow_LIBRA11/status/1428723191501885445</id>
+        <link href="https://twitter.com/sow_LIBRA11/status/1428723191501885445"/>
+        <updated>2021-08-21T04:05:20.000Z</updated>
+        <summary type="html"><![CDATA[そういえば、「医師の説明よりもYouTuberのデマを信じる人達」の考察で、医師の説明はあくまで可能性を提示し選択と決定の材料を示すのに対して、YouTuberは「断定」してくれるからってのを見て、要は「自分で決められない人」が増えてんだなぁと。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

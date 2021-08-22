@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T03:13:05.253Z</id>
+    <id>urn:2021-08-22T04:15:36.709Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T03:13:05.253Z</updated>
+    <updated>2021-08-22T04:15:36.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ　東京都の新規感染者数はピークアウトが近いと言えるのか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353</id>
+        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353"/>
+        <updated>2021-08-22T02:52:52.000Z</updated>
+        <summary type="html"><![CDATA[東京都の新規感染者数は現在も5000人前後と非常に高い水準で推移していますが、SNSなどでは「ピークアウトが近いのでは？」という声が聞かれるようになってきました。 一方、東京都の専門家は診断されていない感染者が多くいるのではないかという懸念を示しています。 都内の感染者は本当に減ってきているのでしょうか？...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高円寺阿波おどり、“演舞はマスク着用NG”！巨大な密イベントが強行開催へ（週刊女性PRIME） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/3e444eab882f98a47a080bbc669f898076f9da92</id>
@@ -16,11 +26,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[めろり。 on Twitter: "発熱外来で「会食しましたか？」と質問すると 「高級店には行ってない」 会食＝高級店での食事 と思い込んでる人結構いる。 初めは驚いてたけど最近はまたかとなってる。 「会食」って人々が集まって一緒に食事をするって意味なんよ…"]]></title>
+        <id>https://twitter.com/merori54546787/status/1429069772654669826</id>
+        <link href="https://twitter.com/merori54546787/status/1429069772654669826"/>
+        <updated>2021-08-22T01:10:55.000Z</updated>
+        <summary type="html"><![CDATA[発熱外来で「会食しましたか？」と質問すると 「高級店には行ってない」 会食＝高級店での食事 と思い込んでる人結構いる。 初めは驚いてたけど最近はまたかとなってる。 「会食」って人々が集まって一緒に食事をするって意味なんよ…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相休みなし連続執務１４７日、安倍氏に並ぶ - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210822-FI6BKDEXGFJQ5A3VO7O4C3RG2Y/</id>
+        <link href="https://www.sankei.com/article/20210822-FI6BKDEXGFJQ5A3VO7O4C3RG2Y/"/>
+        <updated>2021-08-22T00:36:55.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相（春名中撮影）菅義偉（すが・よしひで）首相は２１日、東京都渋谷区のＪＲ東京総合病院を受診した。首相はこの日で休みなしの連続執務が１４６日となり、２２日、安倍晋三前首相の昨年の連続執務記録と並んだ。政府・与党内からは体調を心配する声もあがっている。 首相は同病院に約３０分間滞在した後、衆院...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[書評：並行プログラミング入門 - Software Transactional Memo]]></title>
         <id>https://kumagi.hatenablog.com/entry/concurrent-programming-book</id>
         <link href="https://kumagi.hatenablog.com/entry/concurrent-programming-book"/>
         <updated>2021-08-22T00:03:01.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR 並行処理を実装する人のこれからのスタンダードになる一冊。買い。 買ったら思いの外早く届いたのでパラパラと読み始めたら一気に読み終えてしまった。 総評 敢えて雑な喩え方をするなら The Art of Multiprocessor Programming の内容を薄めてRustやアセンブラや計算モデルを足したような本だった。 日本語の書籍...]]></summary>
+        <summary type="html"><![CDATA[TL;DR 並行処理を実装する人のこれからのスタンダードになる一冊。買い。 買ったら思いの外早く届いたのでパラパラと読み始めたら一気に読み終えてしまった。 総評 敢えて雑な喩え方をするなら The Art of Multiprocessor Programming (通称TAoMP本) の内容を薄めてRustやアセンブラや計算モデルを足したような本だった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[フラットで可愛いイラスト素材を無料でダウンロードできるサイト10選 | ワードプレステーマTCD]]></title>
+        <id>https://tcd-theme.com/2021/08/free-illustrations.html</id>
+        <link href="https://tcd-theme.com/2021/08/free-illustrations.html"/>
+        <updated>2021-08-21T13:14:58.000Z</updated>
+        <summary type="html"><![CDATA[目に見えないものや内容が複雑なものを表現するのにイラストは最適です。実際にWebサイトや資料制作など、様々なシーンでイラストを取り入れることが増えてきました。 当記事では、高品質かつ商用利用可能なイラスト素材を無料でダウンロードできるサイトをまとめましたので、オシャレなイラストを手軽に手に入れたい方...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「イジメはなかった。彼女の中には以前から死にたいって気持ちがあったんだと思います」旭川14歳女子凍死　中学校長を直撃《遺族が手記公開》 | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/48037</id>
         <link href="https://bunshun.jp/articles/-/48037"/>
@@ -126,21 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ルーマニア、45万回分のモデルナ社製ワクチンを韓国に寄付…「ワクチンを受け取る物乞いになったか」＝韓国野党議員（WoW!Korea） - Yahoo!ニュース]]></title>
+        <title type="html"><![CDATA[ルーマニア、45万回分のモデルナ社製ワクチンを韓国に寄付…韓国は「物乞いになったか」＝大統領候補（WoW!Korea） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/e3b9c0f5f9e9e5b6e2ff461df593da50f05e0e8e</id>
         <link href="https://news.yahoo.co.jp/articles/e3b9c0f5f9e9e5b6e2ff461df593da50f05e0e8e"/>
         <updated>2021-08-21T11:42:03.000Z</updated>
-        <summary type="html"><![CDATA[韓国保守系の野党「国民の力」の大統領候補であるホン・ジュンピョ議員が、ルーマニア政府からモデルナ社製ワクチンを供与されることに対して、「ワクチンを受け取る物乞いになったか」と批判した。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】政府が「災害専門ボランティア」育成へ…避難所運営の専門家、被災地へ派遣（読売新聞オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/997e779eb7fc8fa65006ac9353bae100faf133cb</id>
-        <link href="https://news.yahoo.co.jp/articles/997e779eb7fc8fa65006ac9353bae100faf133cb"/>
-        <updated>2021-08-21T11:10:19.000Z</updated>
-        <summary type="html"><![CDATA[政府は来年度、災害時に避難所運営にあたる「災害専門ボランティア」の育成に乗り出す方針を固めた。災害が頻発し、マンパワーの確保が難しい自治体に代わり、住民に避難所の衛生管理や被災者の健康ケアを担ってもらい、災害関連死を防ぐのが狙いだ。ボランティア向けの研修を行い、受講者を各地の被災地へ派遣できるよ...]]></summary>
+        <summary type="html"><![CDATA[ルーマニア、45万回分のモデルナ社製ワクチンを韓国に寄付…「ワクチンを受け取る物乞いになったか」＝韓国野党議員（画像提供：wowkorea） 韓国保守系の野党「国民の力」の大統領候補であるホン・ジュンピョ議員が、ルーマニア政府からモデルナ社製ワクチンを供与されることに対して、「ワクチンを受け取る物乞いになっ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -247,16 +277,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消されゆくミャンマーの実態を“正しい記録”として伝えるために、いまテレビができること | いくつもの「市民の映像」を分析し、弾圧の闇を明らかに | クーリエ・ジャポン]]></title>
-        <id>https://courrier.jp/news/archives/257995/</id>
-        <link href="https://courrier.jp/news/archives/257995/"/>
-        <updated>2021-08-21T06:54:24.000Z</updated>
-        <summary type="html"><![CDATA[ミャンマーでは、2月1日のクーデター以来、軍政に反対する市民が弾圧され、少なくとも1006人以上の市民が殺害、7338人以上が拘束されるなど（人権団体AAPP調べ。8月18日現在）、混乱状態が続いている。 現地では報道機関も軍の標的にされ、その実態が外から見えにくくなるなか、多くの市民たちが現地の状況をSNS上で発信...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[太平洋の無人島に漂着した16人の日本人が腹いっぱい堪能した｢牛肉よりうまい動物｣の名前 海水で煮た潮煮は最高だった | PRESIDENT Online（プレジデントオンライン）]]></title>
         <id>https://president.jp/articles/-/48852</id>
         <link href="https://president.jp/articles/-/48852"/>
@@ -267,31 +287,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[松井市長に提言書を送った久保校長を処分、「見せしめ」なのか（前屋毅） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/maeyatsuyoshi/20210821-00254224</id>
-        <link href="https://news.yahoo.co.jp/byline/maeyatsuyoshi/20210821-00254224"/>
-        <updated>2021-08-21T04:53:37.000Z</updated>
-        <summary type="html"><![CDATA[松井一郎大阪市長に提言書を送ったことで、大阪市立木川南小学校の久保敬校長を大阪市教育委員会（市教委）は20日、文書訓告とした。久保校長の提言書に正面から向き合うことをせず、市長や市教委の方針に異を唱えたことに対する「見せしめ」のような処分は、これから波紋を広げることになるだろう。 ｜混乱を招いたのは...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SOW＠新作出すよ on Twitter: "そういえば、「医師の説明よりもYouTuberのデマを信じる人達」の考察で、医師の説明はあくまで可能性を提示し選択と決定の材料を示すのに対して、YouTuberは「断定」してくれるからってのを見て、要は「自分で決められない人」が増えてんだなぁと。"]]></title>
         <id>https://twitter.com/sow_LIBRA11/status/1428723191501885445</id>
         <link href="https://twitter.com/sow_LIBRA11/status/1428723191501885445"/>
         <updated>2021-08-21T04:05:20.000Z</updated>
         <summary type="html"><![CDATA[そういえば、「医師の説明よりもYouTuberのデマを信じる人達」の考察で、医師の説明はあくまで可能性を提示し選択と決定の材料を示すのに対して、YouTuberは「断定」してくれるからってのを見て、要は「自分で決められない人」が増えてんだなぁと。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[omion on Twitter: "「コロナ感染が広がった責任は政府にある」って人は、国家権力に夜の街や路上飲みを取り締まり罰則や罰金を課して、人流を制限して止め必要な買い物も制限して、強制的に手を洗わせ不織布マスクをさせて欲しかったんだろうか。"]]></title>
-        <id>https://twitter.com/16331633/status/1428642755857719311</id>
-        <link href="https://twitter.com/16331633/status/1428642755857719311"/>
-        <updated>2021-08-20T10:20:37.000Z</updated>
-        <summary type="html"><![CDATA[「コロナ感染が広がった責任は政府にある」って人は、国家権力に夜の街や路上飲みを取り締まり罰則や罰金を課して、人流を制限して止め必要な買い物も制限して、強制的に手を洗わせ不織布マスクをさせて欲しかったんだろうか。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

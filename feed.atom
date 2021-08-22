@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T11:10:01.637Z</id>
+    <id>urn:2021-08-22T12:18:19.051Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T11:10:01.637Z</updated>
+    <updated>2021-08-22T12:18:19.051Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[横浜市長選 立民推薦の山中竹春氏 当選確実 小此木氏ら及ばず | 選挙 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210822/k10013216971000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216971000.html"/>
+        <updated>2021-08-22T11:01:18.000Z</updated>
+        <summary type="html"><![CDATA[過去最多の8人が立候補した横浜市長選挙は、立憲民主党が推薦した元横浜市立大学教授の山中竹春氏の初めての当選が確実になりました。菅総理大臣が支援した元国家公安委員長の小此木八郎氏や4期目を目指した現職の林文子氏らは及びませんでした。 横浜市長選挙の投票は、午後8時で締め切られ、9時すぎから開票が始まりま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 4392人感染確認 日曜日として最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html"/>
         <updated>2021-08-22T07:49:18.000Z</updated>
-        <summary type="html"><![CDATA[東京都は22日、都内で新たに4392人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の日曜日より97人増えて、日曜日としてはこれまでで最も多くなりました。 一方、都の基準で集計した22日時点の重症の患者は21日より1人増えて271人でした。]]></summary>
+        <summary type="html"><![CDATA[東京都内では22日、日曜日としてはこれまでで最も多い4392人が新型コロナウイルスに感染していることが確認されました。 また、都は、感染が確認された8人が死亡したことを明らかにしました。 東京都は、22日都内で新たに10歳未満から100歳以上までの男女あわせて4392人が新型コロナウイルスに感染していることを確認し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -70,7 +80,7 @@
         <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353</id>
         <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210822-00254353"/>
         <updated>2021-08-22T02:52:52.000Z</updated>
-        <summary type="html"><![CDATA[東京都の新規感染者数は現在も5000人前後と非常に高い水準で推移していますが、SNSなどでは「ピークアウトが近いのでは？」という声が聞かれるようになってきました。 一方、東京都の専門家は診断されていない感染者が多くいるのではないかという懸念を示しています。 都内の感染者は本当に減ってきているのでしょうか？...]]></summary>
+        <summary type="html"><![CDATA[東京都の新規感染者数は現在も1日当たり5000人前後と非常に高い水準で推移していますが、SNSなどでは「ピークアウトが近いのでは？」という声が聞かれるようになってきました。 一方、東京都の専門家は「診断されていない感染者が多くいるのではないか」という懸念を示しています。 都内の感染者は本当に減ってきている...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://bunshun.jp/articles/-/48037"/>
         <updated>2021-08-21T13:10:39.000Z</updated>
         <summary type="html"><![CDATA[今年3月、北海道旭川市の公園で凍った状態で発見された廣瀬爽彩（さあや）さんの遺族の代理人が8月18日、市内で記者会見を開き、遺族の手記を公開した。 文春オンラインでは、これまで、爽彩さんが凄惨なイジメを受けていたこと、失踪直前までそのイジメによるPTSDに悩まされていた事実などを報じてきた。これらの報道を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonから注文していない商品が次々と届く、しかし代引きではない… - xckb的雑記帳]]></title>
-        <id>https://xckb.hatenablog.com/entry/2021/08/21/193757</id>
-        <link href="https://xckb.hatenablog.com/entry/2021/08/21/193757"/>
-        <updated>2021-08-21T10:38:24.000Z</updated>
-        <summary type="html"><![CDATA[さて、先日から自分のもとに、全く身に覚えの無い謎の雑貨の類が次々とAmazonから届くようになった。これが代引きなら典型的な送りつけ詐欺なのだけれども、代引きではない。 そんな体験をしたことがあるだろうか。 継続中案件なので詳細な部分に関しては適宜フェイクを混ぜるが、全体の趣旨としては問題ないようにして...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

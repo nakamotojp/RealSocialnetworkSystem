@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T13:17:19.726Z</id>
+    <id>urn:2021-08-22T14:10:23.548Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T13:17:19.726Z</updated>
+    <updated>2021-08-22T14:10:23.548Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「妻に怒られた」――権力者が謝罪で家族を持ち出すのはなぜ？違和感の理由を探る（治部れんげ） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/jiburenge/20210822-00252091</id>
+        <link href="https://news.yahoo.co.jp/byline/jiburenge/20210822-00252091"/>
+        <updated>2021-08-22T09:56:14.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪に関連して、不用意な発言や組織運営に対するリーダーの謝罪が続いた。もとの発言に含まれる問題に限らず、釈明や謝罪の際、「女房に怒られた」などと妻や娘など家族を持ちだすことにもSNSなどで批判が集まった。職場で、リーダーが釈明時にこうしたセリフを持ち出すのを聞いたことがある人もいるのではないだろ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 4392人感染確認 日曜日として最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html"/>
         <updated>2021-08-22T07:49:18.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では22日、日曜日としてはこれまでで最も多い4392人が新型コロナウイルスに感染していることが確認されました。 また、都は、感染が確認された8人が死亡したことを明らかにしました。 東京都は、22日都内で新たに10歳未満から100歳以上までの男女あわせて4392人が新型コロナウイルスに感染していることを確認し...]]></summary>
+        <summary type="html"><![CDATA[東京都内では22日、日曜日としてはこれまでで最も多い4392人が新型コロナウイルスに感染していることが確認されました。 入院患者や宿泊療養者、それに入院するのか自宅や宿泊施設で療養するのかなどを調整中の人の数がいずれも過去最多となりました。 また、1人暮らしで自宅で療養していた60代の男性が亡くなり、今月、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://www.sankei.com/article/20210822-LF6BD3H5G5POTJPMOZPD2G625A/"/>
         <updated>2021-08-21T23:37:04.000Z</updated>
         <summary type="html"><![CDATA[東京アクアティクスセンター外観＝東京都江東区（納冨康撮影）東京都が新型コロナウイルスの感染急拡大に伴う医療提供体制の逼迫（ひっぱく）に対し、臨時医療施設の設置に向け検討を始めたことが２１日、関係者への取材で分かった。東京五輪・パラリンピックの競技会場など関連施設の転用案が浮上している。医療向けの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相、周囲の危機感に「なんで?」　専門家の「乱」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8N4DS0P7ZUTFK001.html</id>
-        <link href="https://www.asahi.com/articles/ASP8N4DS0P7ZUTFK001.html"/>
-        <updated>2021-08-21T21:09:33.000Z</updated>
-        <summary type="html"><![CDATA[2カ月半に及んだ2度目の緊急事態宣言の全面解除を決めた3月18日、菅義偉首相は記者会見で「新規感染者数はもちろん、病床の逼迫（ひっぱく）状況も解除の目安を下回っている」と強調した。 ただ、この時すでに感染再拡大（リバウンド）の兆候は表れていた。東京都の新規感染者数は増加傾向にあり、前日17日には1カ月ぶり...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

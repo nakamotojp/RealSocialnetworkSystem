@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T15:13:11.808Z</id>
+    <id>urn:2021-08-22T16:17:12.975Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T15:13:11.808Z</updated>
+    <updated>2021-08-22T16:17:12.975Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[横浜市長選の投票率は49.05％ ｜ 共同通信]]></title>
+        <id>https://nordot.app/802163168901120000</id>
+        <link href="https://nordot.app/802163168901120000"/>
+        <updated>2021-08-22T13:29:16.000Z</updated>
+        <summary type="html"><![CDATA[横浜市選挙管理委員会によると、22日の横浜市長選の投票率は49.05％で、前回2017年を11.84ポイント上回った。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[行動経済学の『ずる』は予想以上に不合理 - 本しゃぶり]]></title>
         <id>https://honeshabri.hatenablog.com/entry/The_Honest_Truth_About_Dishonesty</id>
@@ -21,6 +31,16 @@
         <link href="https://anond.hatelabo.jp/20210822215448"/>
         <updated>2021-08-22T12:57:44.000Z</updated>
         <summary type="html"><![CDATA[40代会社員。 コロナ始まって依頼交通機関も基本的に使わないし、昼夜外食もしないし、人前でマスクを外すこともありませんでした。 なのにコロナになった。 今までの感染報告は、なんだかんだ会食したり人前でマスク外したりして、結局はそこだよなっていうものばっかりでした。 だから自分が感染するとは思わなかった...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「賃貸の更新料謎すぎる 更新するんだから逆にお金くれよ」→借りる側、貸す側の反応さまざま - Togetter]]></title>
+        <id>https://togetter.com/li/1763542</id>
+        <link href="https://togetter.com/li/1763542"/>
+        <updated>2021-08-22T11:57:48.000Z</updated>
+        <summary type="html"><![CDATA[地球のお魚ぽんちゃん @bakanoakachan 漫画家。 #一線こせないカテキョと生徒 電子書籍全4巻、『男子高校生とふれあう方法』(双葉社)全3巻、『猥談バーで逢いましょう』(新潮社)全2巻発売中／『サボり先輩』(オモコロ)連載中 instagram.com/bakanoakachan/ lit.link/bakanoakachan]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -50,7 +70,7 @@
         <id>https://www3.nhk.or.jp/news/html/20210822/k10013216971000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216971000.html"/>
         <updated>2021-08-22T11:01:18.000Z</updated>
-        <summary type="html"><![CDATA[過去最多の8人が立候補した横浜市長選挙は、立憲民主党が推薦した元横浜市立大学教授の山中竹春氏の初めての当選が確実になりました。菅総理大臣が支援した元国家公安委員長の小此木八郎氏や4期目を目指した現職の林文子氏らは及びませんでした。 横浜市長選挙の投票は、午後8時で締め切られ、9時すぎから開票が始まりま...]]></summary>
+        <summary type="html"><![CDATA[過去最多の8人が立候補した横浜市長選挙は、立憲民主党が推薦した元横浜市立大学教授の山中竹春氏の初めての当選が確実になりました。菅総理大臣が支援した元国家公安委員長の小此木八郎氏や4期目を目指した現職の林文子氏らは及びませんでした。 横浜市長選挙は、NHKが行っている開票所での取材や、22日投票した有権者...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -61,6 +81,16 @@
         <link href="https://note.com/nikonote/n/n1896258c40d9"/>
         <updated>2021-08-22T10:48:37.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橋下徹 on Twitter: "必要なのは事前確率（陽性確率）の高い者への検査。事前確率の低い者へ闇雲に検査をして陽性率が低くなると、その偽陰性率から陽性的中率も低くなる。つまり検査の信用度が低くなる。陽性率が高いということは陽性的中率も高く検査信用度も高いということ。"]]></title>
+        <id>https://twitter.com/hashimoto_lo/status/1429366063515328515</id>
+        <link href="https://twitter.com/hashimoto_lo/status/1429366063515328515"/>
+        <updated>2021-08-22T10:31:44.000Z</updated>
+        <summary type="html"><![CDATA[必要なのは事前確率（陽性確率）の高い者への検査。事前確率の低い者へ闇雲に検査をして陽性率が低くなると、その偽陰性率から陽性的中率も低くなる。つまり検査の信用度が低くなる。陽性率が高いということは陽性的中率も高く検査信用度も高いということ。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -111,16 +141,6 @@
         <link href="https://nou-yunyun.hatenablog.com/entry/2021/08/22/120000"/>
         <updated>2021-08-22T03:22:35.000Z</updated>
         <summary type="html"><![CDATA[以上の様な三浦春馬氏への思いを綴りながらも彼の自死を利用したヘイトスピーチにあたるであろう絵馬が靖国神社で散見されました。この絵馬については8月15日ごろに一部ツイッターで話題になっていたもので、それを受けて実際に自分も靖国神社で確認しましたが現状の絵馬の大部分は三浦春馬氏に関するものでした。その数...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西村経済再生相「人出減らず対策強化を検討」NHK日曜討論 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210822/k10013216721000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216721000.html"/>
-        <updated>2021-08-22T03:02:17.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり西村経済再生担当大臣は、NHKの「日曜討論」で、人の流れが十分に抑制できていないとして、今の法律の枠組みの中で対策を強化できないか検討する考えを示しました。 この中で、西村経済再生担当大臣は「今回の緊急事態宣言では、新型コロナに慣れてきた面や、『自粛疲れ』が出てきている...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,26 +291,6 @@
         <link href="https://tcd-theme.com/2021/08/free-illustrations.html"/>
         <updated>2021-08-21T13:14:58.000Z</updated>
         <summary type="html"><![CDATA[目に見えないものや内容が複雑なものを表現するのにイラストは最適です。実際にWebサイトや資料制作など、様々なシーンでイラストを取り入れることが増えてきました。 当記事では、高品質かつ商用利用可能なイラスト素材を無料でダウンロードできるサイトをまとめましたので、オシャレなイラストを手軽に手に入れたい方...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『（実働）7時間15分で会社を辞めた話』作者さん「自社の服を強制的に買わせて着ないと仕事させないアパレルの悪習、違法だと知ってほしい」 - Togetter]]></title>
-        <id>https://togetter.com/li/1763015</id>
-        <link href="https://togetter.com/li/1763015"/>
-        <updated>2021-08-21T10:32:27.000Z</updated>
-        <summary type="html"><![CDATA[zettdot/ZENZO @zettdot 『シオンの庭で逢いましょう』（不定期更新）Comic artist | Illustrator | Commission | Fanart | Star Fox (Dash Bowman) | シュガーイラストレーターズクラブ会員 | 2019年悟空杯長編漫画部門日本代表 zenzo-leopardzscsh.wixsite.com/digdig]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東浩紀氏「フジロック出る人は一時のノリで五輪反対いうべきじゃなかった」（日刊スポーツ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/6b4f88c2f2ec7554513913f0b79ffcf86f4c0ef8</id>
-        <link href="https://news.yahoo.co.jp/articles/6b4f88c2f2ec7554513913f0b79ffcf86f4c0ef8"/>
-        <updated>2021-08-21T10:25:24.000Z</updated>
-        <summary type="html"><![CDATA[批評家の東浩紀氏（50）が、国内最大級の野外音楽イベント「フジロックフェスティバル」開催への私見を述べた。 20～22日に新潟県湯沢町の苗場スキー場で「フジロックフェスティバル」が行われる。新型コロナウイルスが感染拡大する中、厳戒態勢での開催ではあるが、批判の声は多い。 東氏は20日、「フジロック出る予定...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

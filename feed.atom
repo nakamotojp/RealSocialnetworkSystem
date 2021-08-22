@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T18:13:27.930Z</id>
+    <id>urn:2021-08-22T19:09:25.936Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T18:13:27.930Z</updated>
+    <updated>2021-08-22T19:09:25.936Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -166,6 +166,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「一日の感染者5万人」でも英国が「医療崩壊の心配ゼロ」の理由 病院の9割が国営、データサイエンス用い医療資源を効率的に配分(1/5) | JBpress (ジェイビープレス)]]></title>
+        <id>https://jbpress.ismedia.jp/articles/-/66583</id>
+        <link href="https://jbpress.ismedia.jp/articles/-/66583"/>
+        <updated>2021-08-22T03:39:12.000Z</updated>
+        <summary type="html"><![CDATA[7月12日、一週間後に行動制限を解除することを正式に発表するジョンソン首相（写真：代表撮影/ロイター/アフロ） （黒木亮・作家） ワクチン接種が十分でないところにデルタ株が猛威をふるっている日本の現状は、筆者が住む英国の去年の秋から冬にかけての状況を彷彿させる。ただ違う点が1つある。英国では医療が崩壊す...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[靖国神社にある三浦春馬氏を利用したヘイトスピーチ的陰謀論絵馬について - 電脳塵芥]]></title>
         <id>https://nou-yunyun.hatenablog.com/entry/2021/08/22/120000</id>
         <link href="https://nou-yunyun.hatenablog.com/entry/2021/08/22/120000"/>
@@ -201,16 +211,6 @@
         <link href="https://togetter.com/li/1763346"/>
         <updated>2021-08-22T02:07:04.000Z</updated>
         <summary type="html"><![CDATA[リンク 岐阜新聞Web ＢＢＱ、帰省や旅行が温床に 岐阜県が新型コロナ感染者の行動歴公表 新型コロナウイルス感染の第５波が全国で猛威を振るう中、県内では感染者３００人台が２１日までに５日間続く厳しい状況だ。一部の感染者の行動歴から、夏休みやお盆が本格化して人の動きが活発化し、帰省や旅行、会食、バーベキュ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【老害】歌手・加藤登紀子氏（77歳）、タリバンのアフガン制圧を擁護「タリバンの復活は、アフガン人の宿願だったはず」→ツッコミ殺到。 - Togetter]]></title>
-        <id>https://togetter.com/li/1763306</id>
-        <link href="https://togetter.com/li/1763306"/>
-        <updated>2021-08-22T02:03:56.000Z</updated>
-        <summary type="html"><![CDATA[加藤登紀子 @TokikoKato アフガン情勢について沢山の方々議論されていますが、私が中村哲さんの足跡を辿り、今思うことは、「アフガン人の、アフガン人によるアフガン人のための」と言う原則です。96年のタリバン政権は、2001年9.11のテロの後アメリカによって崩壊させられたのです。その復活は、アフガン人の宿願だった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

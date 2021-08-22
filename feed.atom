@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T05:10:21.168Z</id>
+    <id>urn:2021-08-22T06:14:33.585Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T05:10:21.168Z</updated>
+    <updated>2021-08-22T06:14:33.585Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://togetter.com/li/1763346"/>
         <updated>2021-08-22T02:07:04.000Z</updated>
         <summary type="html"><![CDATA[リンク 岐阜新聞Web ＢＢＱ、帰省や旅行が温床に 岐阜県が新型コロナ感染者の行動歴公表 新型コロナウイルス感染の第５波が全国で猛威を振るう中、県内では感染者３００人台が２１日までに５日間続く厳しい状況だ。一部の感染者の行動歴から、夏休みやお盆が本格化して人の動きが活発化し、帰省や旅行、会食、バーベキュ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【老害】歌手・加藤登紀子氏（77歳）、タリバンのアフガン制圧を擁護「タリバンの復活は、アフガン人の宿願だったはず」→ツッコミ殺到。 - Togetter]]></title>
+        <id>https://togetter.com/li/1763306</id>
+        <link href="https://togetter.com/li/1763306"/>
+        <updated>2021-08-22T02:03:56.000Z</updated>
+        <summary type="html"><![CDATA[加藤登紀子 @TokikoKato アフガン情勢について沢山の方々議論されていますが、私が中村哲さんの足跡を辿り、今思うことは、「アフガン人の、アフガン人によるアフガン人のための」と言う原則です。96年のタリバン政権は、2001年9.11のテロの後アメリカによって崩壊させられたのです。その復活は、アフガン人の宿願だった...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -272,16 +282,6 @@
         <link href="https://www.pref.wakayama.lg.jp/chiji/message/20210817.html?s=09"/>
         <updated>2021-08-21T08:34:33.000Z</updated>
         <summary type="html"><![CDATA[知事からのメッセージを紹介します。 令和3年8月17日のメッセージ 新型コロナウイルス感染症対策（その70）　最近時における状況と対策 最近における新型コロナウィルスの感染拡大ぶりは凄まじく、毎日全国のほとんどの県で2ケタの感染者が報告され、それも結構多くの県で3ケタを記録するなど、これまでになかったような...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「雑談ができない人」はこの簡単なアルゴリズムに従っているだけで日常生活を送れます「これはガチ」「そこが難しい…」 - Togetter]]></title>
-        <id>https://togetter.com/li/1762930</id>
-        <link href="https://togetter.com/li/1762930"/>
-        <updated>2021-08-21T07:35:02.000Z</updated>
-        <summary type="html"><![CDATA[すきえんてぃあ@書け @cicada3301_kig 雑談ができない人、ぶっちゃけ「そうだね」「よかったね」「大変だったね」に相当する3種類の応答をループしながら、合間に相手が好きそうな話題を探して尋ねる、という簡単なアルゴリズムを組むだけで日常生活できるよ。表情は機械的に相手と同期させるだけでいい。 2021-08-20 07...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

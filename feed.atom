@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-22T21:10:23.452Z</id>
+    <id>urn:2021-08-22T22:11:48.028Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T21:10:23.452Z</updated>
+    <updated>2021-08-22T22:11:48.028Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【横浜市長選】小此木八郎氏、政界引退を表明「もう選挙には立候補しない」　首相はメールで「ご苦労さま」（カナロコ by 神奈川新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/abd03a747cae1b81131d0885ed8dce7f1295cad2</id>
+        <link href="https://news.yahoo.co.jp/articles/abd03a747cae1b81131d0885ed8dce7f1295cad2"/>
+        <updated>2021-08-22T13:49:31.000Z</updated>
+        <summary type="html"><![CDATA[前国家公安委員長の小此木八郎氏（５６）は２２日夜、横浜市長選での落選が確実となり、政界を引退する意向を明らかにした。横浜市中区の事務所で記者団の取材に応じ、「もう選挙には立候補しない。どのような形で生まれたまち横浜に貢献できるかを考えたい」と述べた。 【記事まとめ】2021年 横浜市長選：特集 小此木氏...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[横浜市長選の投票率は49.05％ ｜ 共同通信]]></title>
         <id>https://nordot.app/802163168901120000</id>
@@ -66,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[首相のおひざ元でも敗北、求心力低下は必至　横浜市長選 [横浜市長選挙]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8Q5GY0P8QUTFK001.html</id>
+        <link href="https://www.asahi.com/articles/ASP8Q5GY0P8QUTFK001.html"/>
+        <updated>2021-08-22T11:17:29.000Z</updated>
+        <summary type="html"><![CDATA[横浜市長選は22日投開票され、新顔で元横浜市立大教授の山中竹春氏（48）=立憲民主推薦=が、新顔で元国家公安委員長の小此木八郎氏（56）や現職の林文子氏（75）らを破り、初当選を決めた。 菅義偉首相が全面支援した小此木八郎元国家公安委員長の敗北により、政局は一気に流動化しかねない情勢となった。現下のコロナ感...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[横浜市長選 立民推薦の山中竹春氏 当選確実 小此木氏ら及ばず | 選挙 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210822/k10013216971000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216971000.html"/>
@@ -106,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[邦画は面白くない、洋画は面白いと言われるのにはこんな理由があるのでは「でもあの映画は渡ってくる」 - Togetter]]></title>
+        <id>https://togetter.com/li/1763501</id>
+        <link href="https://togetter.com/li/1763501"/>
+        <updated>2021-08-22T10:01:17.000Z</updated>
+        <summary type="html"><![CDATA[かなかわ @kanakawa12 なぜ邦画は面白く無く、洋画は面白いと言われがちなのかについてなんですが、個人的には、「洋画にもそれなりにクソ映画はあるけど、そもそもクソつまんない洋画は海を超えてこない」って言うのがあると思います 2021-08-21 14:28:42]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「妻に怒られた」――権力者が謝罪で家族を持ち出すのはなぜ？違和感の理由を探る（治部れんげ） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/jiburenge/20210822-00252091</id>
         <link href="https://news.yahoo.co.jp/byline/jiburenge/20210822-00252091"/>
@@ -121,16 +151,6 @@
         <link href="https://www.kyoto-np.co.jp/articles/-/622939"/>
         <updated>2021-08-22T08:15:35.000Z</updated>
         <summary type="html"><![CDATA[滋賀県出身のミュージシャン西川貴教さんが２２日、新型コロナウイルスの感染拡大を受け、滋賀県草津市の烏丸半島で９月１８、１９日に開催予定だった「イナズマロックフェス２０２１」を中止すると発表した。 代替の取り組みを実施するかは未定。昨年はコロナ禍でオンライン開催に切り替えた。２年前の同フェスには２日...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 4392人感染確認 日曜日として最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210822/k10013216891000.html"/>
-        <updated>2021-08-22T07:49:18.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では22日、日曜日としてはこれまでで最も多い4392人が新型コロナウイルスに感染していることが確認されました。 入院患者や宿泊療養者、それに入院するのか自宅や宿泊施設で療養するのかなどを調整中の人の数がいずれも過去最多となりました。 また、1人暮らしで自宅で療養していた60代の男性が亡くなり、今月、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,11 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「全国転勤OK」「成果主義賛成」と答える若い世代は、「自分は優秀だから無問題・給料が上がる」と考えている...？ - Togetter]]></title>
-        <id>https://togetter.com/li/1763339</id>
-        <link href="https://togetter.com/li/1763339"/>
-        <updated>2021-08-22T04:34:41.000Z</updated>
-        <summary type="html"><![CDATA[KENZO @KENZO52302058 「全国転勤あるけど大丈夫？」と聞かれて「はい」と答える新卒の多くは「自分は優秀だから本社勤務するはず」と思ってるし、「成果主義を導入する」と言われて賛成してる若手は「自分は優秀だから成果主義になれば給料上がる」と思ってる気がする。 じゃないと異動や評価でこんなに揉めないよね。 ...]]></summary>
+        <title type="html"><![CDATA[「一日の感染者5万人」でも英国が「医療崩壊の心配ゼロ」の理由 病院の9割が国営、データサイエンス用い医療資源を効率的に配分(1/5) | JBpress (ジェイビープレス)]]></title>
+        <id>https://jbpress.ismedia.jp/articles/-/66583</id>
+        <link href="https://jbpress.ismedia.jp/articles/-/66583"/>
+        <updated>2021-08-22T03:39:12.000Z</updated>
+        <summary type="html"><![CDATA[7月12日、一週間後に行動制限を解除することを正式に発表するジョンソン首相（写真：代表撮影/ロイター/アフロ） （黒木亮・作家） ワクチン接種が十分でないところにデルタ株が猛威をふるっている日本の現状は、筆者が住む英国の去年の秋から冬にかけての状況を彷彿させる。ただ違う点が1つある。英国では医療が崩壊す...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +241,6 @@
         <link href="https://ascii.jp/elem/000/004/066/4066675/"/>
         <updated>2021-08-22T01:55:22.000Z</updated>
         <summary type="html"><![CDATA[自宅のネットワークなどで、接続しているPCを全部見つけたいことがある。エクスプローラーのネットワークから見つけることもできるが、スクリプトなどで処理したい場合に手入力するのは面倒だ。そんなときには、PowerShellのGet-NetNeighborコマンドが利用できる。 PowerShellのGet-NetNeighborコマンドは、ネットワーク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[めろり。 on Twitter: "発熱外来で「会食しましたか？」と質問すると 「高級店には行ってない」 会食＝高級店での食事 と思い込んでる人結構いる。 初めは驚いてたけど最近はまたかとなってる。 「会食」って人々が集まって一緒に食事をするって意味なんよ…"]]></title>
-        <id>https://twitter.com/merori54546787/status/1429069772654669826</id>
-        <link href="https://twitter.com/merori54546787/status/1429069772654669826"/>
-        <updated>2021-08-22T01:10:55.000Z</updated>
-        <summary type="html"><![CDATA[発熱外来で「会食しましたか？」と質問すると 「高級店には行ってない」 会食＝高級店での食事 と思い込んでる人結構いる。 初めは驚いてたけど最近はまたかとなってる。 「会食」って人々が集まって一緒に食事をするって意味なんよ…]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

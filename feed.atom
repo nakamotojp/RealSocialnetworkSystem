@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T10:13:47.329Z</id>
+    <id>urn:2021-08-23T11:10:14.770Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T10:13:47.329Z</updated>
+    <updated>2021-08-23T11:10:14.770Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,11 +46,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[初心者がストVを遊んで心折れて挫折した話｜TCP｜note]]></title>
+        <id>https://note.com/bluewoodsun/n/ne235ce94b497</id>
+        <link href="https://note.com/bluewoodsun/n/ne235ce94b497"/>
+        <updated>2021-08-23T06:33:56.000Z</updated>
+        <summary type="html"><![CDATA[ストリートファイターVを初心者が遊んだ結果、心が折れた。 筆者はスマブラ勢であり、(格闘ゲーマーというほどではないが)スマブラ以外にも遥か昔、他の格闘ゲーム自体をプレイしていて格ゲー経験はあったのだが、ストVは挫折して挫折して挫折しまくった。 ストVが初心者向けというのはある程度格ゲーをやりこんだ経験者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「すべて私が悪かった」　名古屋の河村市長、市職員に謝罪文 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210823/k00/00m/040/082000c</id>
         <link href="https://mainichi.jp/articles/20210823/k00/00m/040/082000c"/>
         <updated>2021-08-23T04:59:05.000Z</updated>
         <summary type="html"><![CDATA[名古屋市の河村たかし市長（72）が23日、東京オリンピック・ソフトボール日本代表の後藤希友（みう）選手（20）＝トヨタ自動車＝の金メダルをかじり批判された問題を受け、市職員に謝罪文を出した。殺到した苦情への対応に追われた市職員に「すべて私が悪かった」と謝っている。 謝罪文は「名古屋市職員の皆様へ」の書き...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再帰的な構造のデータの同値性判定はどうしたらいいか - 貳佰伍拾陸夜日記]]></title>
+        <id>https://tarao.hatenablog.com/entry/deep-equality</id>
+        <link href="https://tarao.hatenablog.com/entry/deep-equality"/>
+        <updated>2021-08-23T03:54:36.000Z</updated>
+        <summary type="html"><![CDATA[数日前にTwitterで, JavaScriptのオブジェクトに対する===の挙動が初心者には難しいみたいな話を見かけた. 発端や周辺の議論をちゃんと追いかけてないからとくに出典は貼らない. たぶん元々の話は「へぇ, こういう挙動なんだ, 簡単ではないね」くらいの話だったのかもしれない. 自分のタイムラインの観測範囲では「そう...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[＜独自＞岸田氏、自民党総裁選に出馬意向 - 産経ニュース]]></title>
-        <id>https://www.sankei.com/article/20210823-ABCQCNXBIFKB7BYEX4O3QV2QSI/</id>
-        <link href="https://www.sankei.com/article/20210823-ABCQCNXBIFKB7BYEX4O3QV2QSI/"/>
-        <updated>2021-08-22T22:34:49.000Z</updated>
-        <summary type="html"><![CDATA[自民党の岸田文雄前政調会長（川口良介撮影）自民党の岸田文雄前政調会長（６４）は菅義偉首相（７２）の任期満了（９月３０日）に伴う党総裁選に出馬する方向で調整に入った。複数の関係者への取材で分かった。自民は２６日に総裁選の日程を決定する予定で、「９月１７日告示－２９日投開票」が有力視されている。岸田...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【圧倒的歌唱力】歌手・MISIAさん、フジロックフェスにて国歌『君が代』を熱唱→フジロック推しのいつもの界隈の皆さん困惑。 - Togetter]]></title>
         <id>https://togetter.com/li/1763695</id>
         <link href="https://togetter.com/li/1763695"/>
@@ -261,16 +271,6 @@
         <link href="https://www.tokyo-sports.co.jp/entame/news/3549904/"/>
         <updated>2021-08-22T14:37:29.000Z</updated>
         <summary type="html"><![CDATA[有吉弘行 お笑いタレントの有吉弘行が２２日、ＪＦＮ系ラジオ「ＳＵＮＤＡＹ　ＮＩＧＨＴ　ＤＲＥＡＭＥＲ」に出演。日本ハムからトレードで巨人に移籍した中田翔内野手について言及した。 有吉は「日ハムの中田翔が巨人へ」とニュース原稿を読み「まだやんちゃ、治らないんだね、３２歳だってよ。３２歳で体育会系はち...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「雨上がり」解散で吉本芸人と御用マスコミの宮迫博之バッシングが理不尽すぎる！ 解散に追い込んだのは吉本上層部なのに｜LITERA／リテラ]]></title>
-        <id>https://lite-ra.com/2021/08/post-5996.html</id>
-        <link href="https://lite-ra.com/2021/08/post-5996.html"/>
-        <updated>2021-08-22T14:12:59.000Z</updated>
-        <summary type="html"><![CDATA[「雨上がり」解散で吉本芸人と御用マスコミの宮迫博之バッシングが理不尽すぎる！ 解散に追い込んだのは吉本上層部なのに これはもう、ほとんどいじめだろう。宮迫博之と蛍原徹のお笑いコンビ「雨上がり決死隊」が吉本興業のYouTubeチャンネルとABEMAで解散を報告する動画を配信して以降、ネットや芸能マスコミだけでな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

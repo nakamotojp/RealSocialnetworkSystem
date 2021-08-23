@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T21:10:35.581Z</id>
+    <id>urn:2021-08-23T22:12:47.844Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T21:10:35.581Z</updated>
+    <updated>2021-08-23T22:12:47.844Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,11 +26,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ワッシュ on Twitter: "これは……。 ←去年１２月　　　今日→ https://t.co/LWE7OJ7xwU"]]></title>
+        <id>https://twitter.com/washburn1975/status/1429790755711709200</id>
+        <link href="https://twitter.com/washburn1975/status/1429790755711709200"/>
+        <updated>2021-08-23T14:12:12.000Z</updated>
+        <summary type="html"><![CDATA[これは……。 ←去年１２月　　　今日→ https://t.co/LWE7OJ7xwU]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OSS ライセンスの最近の潮流: PolyForm License について]]></title>
         <id>https://tech.bitbank.cc/20210823/</id>
         <link href="https://tech.bitbank.cc/20210823/"/>
         <updated>2021-08-23T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[まえがき開発中のソフトウェアのライセンスを策定するため、現時点でのベストプラクティスについて探っていたところ、ここ数年の OSS ライセンスの動向が面白かったので復習も兼ねてまとめました。 特に、Umbrel が採用したという PolyForm という新しいライセンス形態が面白かったので、これについて詳しく述べます。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 【フジロック】アジカン後藤「ネトウヨやめてよ、ガースーもうやめて」政府批判の替え歌が物議　ヘルメットには韓国国旗 - ライブドアブログ]]></title>
+        <id>http://blog.livedoor.jp/dqnplus/archives/2010034.html</id>
+        <link href="http://blog.livedoor.jp/dqnplus/archives/2010034.html"/>
+        <updated>2021-08-23T13:54:27.000Z</updated>
+        <summary type="html"><![CDATA[【フジロック】アジカン後藤「ネトウヨやめてよ、ガースーもうやめて」政府批判の替え歌が物議　ヘルメットには韓国国旗 1 名前：muffin ★：2021/08/23(月) 18:37:57.08 ID:CAP_USER9 ロックバンド・ASIAN KUNG-FU GENERATIONの後藤正文が20日から22日に行われたロックフェス・フジロックに出演し、ステージで政府批判を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -56,6 +76,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[News Up ”我が子からコロナに感染した” 母親が気付いたこと | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210823/k10013218121000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210823/k10013218121000.html"/>
+        <updated>2021-08-23T11:43:11.000Z</updated>
+        <summary type="html"><![CDATA[「10代の行動力と拡散力を止められず。本当に死ぬかと思いました」 こうSNSに投稿したのは、高校生の娘から感染したという40代の母親です。 自宅療養中に高熱にうなされ続け、中等症まで症状が悪化して入院を余儀なくされました。 夏休みが明けて新学期が始まるこの時期に知ってほしい、子どもから大人に感染した、家庭...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中田翔の出場停止解除は脱法的行為 - 弁護士三浦義隆のブログ]]></title>
+        <id>https://miurayoshitaka.hatenablog.com/entry/2021/08/23/%E4%B8%AD%E7%94%B0%E7%BF%94%E3%81%AE%E5%87%BA%E5%A0%B4%E5%81%9C%E6%AD%A2%E8%A7%A3%E9%99%A4%E3%81%AF%E8%84%B1%E6%B3%95%E7%9A%84%E8%A1%8C%E7%82%BA</id>
+        <link href="https://miurayoshitaka.hatenablog.com/entry/2021/08/23/%E4%B8%AD%E7%94%B0%E7%BF%94%E3%81%AE%E5%87%BA%E5%A0%B4%E5%81%9C%E6%AD%A2%E8%A7%A3%E9%99%A4%E3%81%AF%E8%84%B1%E6%B3%95%E7%9A%84%E8%A1%8C%E7%82%BA"/>
+        <updated>2021-08-23T11:13:27.000Z</updated>
+        <summary type="html"><![CDATA[1. 中田翔のトレードと出場停止解除の経緯 長く日本ハムファイターズの主力を務めてきた中田翔選手が、チームメイトへの暴行によって出場停止中だった2021年8月20日、電撃的に読売巨人軍に無償トレードされた。 チームメイトへの暴力という重大な不祥事があったから、放出そのものは驚くに値しない。しかし、日ハムが8月...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[効くのか?効かないのか? イベルメクチン コロナ治療に効果は… | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210823/k10013218191000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210823/k10013218191000.html"/>
@@ -76,31 +116,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[神奈川県 新型コロナ 2人死亡 2579人感染確認 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210823/k10013219251000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210823/k10013219251000.html"/>
-        <updated>2021-08-23T09:31:37.000Z</updated>
-        <summary type="html"><![CDATA[神奈川県内では23日、合わせて2579人が新型コロナウイルスに感染したことが確認されたと発表されました。一日に発表された感染者の数が2000人を超えるのは11日連続で、1週間前の月曜日に比べて5人少なくなりましたが、感染の拡大傾向が続いています。 また横浜市と茅ヶ崎市は、合わせて2人の死亡を確認したと発表しまし...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【令和最新版】はてな初心者のためのブクマカ持ちネタ集]]></title>
         <id>https://anond.hatelabo.jp/20210823180350</id>
         <link href="https://anond.hatelabo.jp/20210823180350"/>
         <updated>2021-08-23T09:11:33.000Z</updated>
         <summary type="html"><![CDATA[b:id:aox相撲で解決あらゆる揉め事を当事者に相撲で対決させる事で解決しようとする。 当人の「相撲で解決」タグを参照。 物心着く前に子宮を男性に移植男女論関係の記事で解決策として提示しがち。 b:id:aukusoe俺だ俺だ俺だった全文は 「 耳が長くてウサギちゃん！ 首が長くてキリンさん！ ブコメが面白くてaukusoe！ ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[永遠に隅に寄り続けるトイレタオル…その怪奇現象を止めたのは | CHANTO WEB]]></title>
-        <id>https://chanto.jp.net/comic/reviewourrule/252757/</id>
-        <link href="https://chanto.jp.net/comic/reviewourrule/252757/"/>
-        <updated>2021-08-23T09:05:29.000Z</updated>
-        <summary type="html"><![CDATA[共働き夫婦にとって、避けて通れないのは「いかに双方が納得のいくかたちで家事の分担をおこなうか」という問題。「家事に対する感覚や双方の性格の違いでなかなかうまくいかない…」という経験は、皆さんも一度はあるのではないでしょうか。 Twitterで8.8万人のフォロワーに支持されるイラストレーター・倉田けいさんも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,26 +211,6 @@
         <link href="https://note.com/bluewoodsun/n/ne235ce94b497"/>
         <updated>2021-08-23T06:33:56.000Z</updated>
         <summary type="html"><![CDATA[ストリートファイターVを初心者が遊んだ結果、心が折れた。 筆者はスマブラ勢であり、(格闘ゲーマーというほどではないが)スマブラ以外にも遥か昔、他の格闘ゲーム自体をプレイしていて格ゲー経験はあったのだが、ストVは挫折して挫折して挫折しまくった。 ストVが初心者向けというのはある程度格ゲーをやりこんだ経験者...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「戦場で精神を病み、帰還後に家族との関係が壊れた」戦後PTSDになった日本軍兵士についてNHKが特集 #目撃にっぽん - Togetter]]></title>
-        <id>https://togetter.com/li/1763953</id>
-        <link href="https://togetter.com/li/1763953"/>
-        <updated>2021-08-23T05:49:03.000Z</updated>
-        <summary type="html"><![CDATA[印度洋一郎 Yoichiro Indo @ven12665 そういえば今朝のNHK総合の「目撃にっぽん　ずっと父親が嫌いだった」は、このところNHKが熱心に伝えている「PTSDの日本軍兵士の戦後」だった。ものごころついた頃から、無気力で働かない父親のために貧しい暮らしを強いられ、ずっと父を軽蔑していた息子が、戦時中の父について調べ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「すべて私が悪かった」　名古屋の河村市長、市職員に謝罪文 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210823/k00/00m/040/082000c</id>
-        <link href="https://mainichi.jp/articles/20210823/k00/00m/040/082000c"/>
-        <updated>2021-08-23T04:59:05.000Z</updated>
-        <summary type="html"><![CDATA[名古屋市の河村たかし市長（72）が23日、東京オリンピック・ソフトボール日本代表の後藤希友（みう）選手（20）＝トヨタ自動車＝の金メダルをかじり批判された問題を受け、市職員に謝罪文を出した。殺到した苦情への対応に追われた市職員に「すべて私が悪かった」と謝っている。 謝罪文は「名古屋市職員の皆様へ」の書き...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

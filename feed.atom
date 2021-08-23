@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T19:09:05.080Z</id>
+    <id>urn:2021-08-23T20:12:37.547Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T19:09:05.080Z</updated>
+    <updated>2021-08-23T20:12:37.547Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -156,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「戦場で精神を病み、帰還後に家族との関係が壊れた」戦後PTSDになった日本軍兵士についてNHKが特集 #目撃にっぽん - Togetter]]></title>
-        <id>https://togetter.com/li/1763953</id>
-        <link href="https://togetter.com/li/1763953"/>
-        <updated>2021-08-23T05:49:03.000Z</updated>
-        <summary type="html"><![CDATA[印度洋一郎 Yoichiro Indo @ven12665 そういえば今朝のNHK総合の「目撃にっぽん　ずっと父親が嫌いだった」は、このところNHKが熱心に伝えている「PTSDの日本軍兵士の戦後」だった。ものごころついた頃から、無気力で働かない父親のために貧しい暮らしを強いられ、ずっと父を軽蔑していた息子が、戦時中の父について調べ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「すべて私が悪かった」　名古屋の河村市長、市職員に謝罪文 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210823/k00/00m/040/082000c</id>
         <link href="https://mainichi.jp/articles/20210823/k00/00m/040/082000c"/>
@@ -216,6 +206,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[タリバン戦闘員「食事がまずい」、女性に火をつけて殺害…女学校の閉鎖相次ぐ（読売新聞オンライン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c48e3e6b3fc9ac8eaef6b57f9a35922779a406a3</id>
+        <link href="https://news.yahoo.co.jp/articles/c48e3e6b3fc9ac8eaef6b57f9a35922779a406a3"/>
+        <updated>2021-08-23T02:43:09.000Z</updated>
+        <summary type="html"><![CDATA[【テヘラン＝水野翔太】アフガニスタンの親米民主政権が倒れてから、２２日で１週間となった。全土を掌握したイスラム主義勢力タリバンは、女性の人権侵害などを懸念する国際社会の承認を得るため、融和路線を強調する。国内では、それとは裏腹の締め付けが始まり、国民の間で、先行きへの悲観が強まる一方だ。 首都カブ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[なぜ音源の「放送」はできて「配信」は許されないのか～著作権法上の違いを確認してみた～ | STORIA法律事務所]]></title>
         <id>https://storialaw.jp/blog/8014</id>
         <link href="https://storialaw.jp/blog/8014"/>
@@ -236,21 +236,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[妻に異性としてもうみれないと宣言された]]></title>
-        <id>https://anond.hatelabo.jp/20210823084005</id>
-        <link href="https://anond.hatelabo.jp/20210823084005"/>
-        <updated>2021-08-22T23:42:53.000Z</updated>
-        <summary type="html"><![CDATA[先日妻にもう異性としては見れない、スキンシップなども無理と言われた。 結婚してまだ半年である。もちろん子供もいない。 妻曰く「結婚して私によくみられたい」みたいな気持ちが 感じられる身なりが粗野でださい。髪型くらいちゃんとセットして、格好についても もっとちゃんとしてほしい。（先日妻の誕生日をホテル...]]></summary>
+        <title type="html"><![CDATA[メルカリShops のフロントエンド | メルカリエンジニアリング]]></title>
+        <id>https://engineering.mercari.com/blog/entry/20210823-a57631d32e/</id>
+        <link href="https://engineering.mercari.com/blog/entry/20210823-a57631d32e/"/>
+        <updated>2021-08-23T01:06:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【圧倒的歌唱力】歌手・MISIAさん、フジロックフェスにて国歌『君が代』を熱唱→フジロック推しのいつもの界隈の皆さん困惑。 - Togetter]]></title>
-        <id>https://togetter.com/li/1763695</id>
-        <link href="https://togetter.com/li/1763695"/>
-        <updated>2021-08-22T22:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Misia.jp @MISIA Sing with Me ♪ ▼HP： misia.jp ▼YouTube： youtube.com/user/Rhythmedi… ▼Twitter：@MISIA ▼Instagram：misia.staff instagram.com/misia.staff/]]></summary>
+        <title type="html"><![CDATA[妻に異性としてもうみれないと宣言された]]></title>
+        <id>https://anond.hatelabo.jp/20210823084005</id>
+        <link href="https://anond.hatelabo.jp/20210823084005"/>
+        <updated>2021-08-22T23:42:53.000Z</updated>
+        <summary type="html"><![CDATA[先日妻にもう異性としては見れない、スキンシップなども無理と言われた。 結婚してまだ半年である。もちろん子供もいない。 妻曰く「結婚して私によくみられたい」みたいな気持ちが 感じられる身なりが粗野でださい。髪型くらいちゃんとセットして、格好についても もっとちゃんとしてほしい。（先日妻の誕生日をホテル...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

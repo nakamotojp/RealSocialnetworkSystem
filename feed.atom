@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T08:14:28.693Z</id>
+    <id>urn:2021-08-23T09:12:19.353Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T08:14:28.693Z</updated>
+    <updated>2021-08-23T09:12:19.353Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210823/k10013218851000.html"/>
         <updated>2021-08-23T07:51:24.000Z</updated>
         <summary type="html"><![CDATA[東京都は23日、都内で新たに2447人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の月曜日より515人減りました。 ただ、23日までの7日間平均は4659.3人となり、1週間前の109.0％と増えています。 一方、都の基準で集計した23日時点の重症の患者は22日より1人増えて272人でした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「すべて私が悪かった」　名古屋の河村市長、市職員に謝罪文 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210823/k00/00m/040/082000c</id>
+        <link href="https://mainichi.jp/articles/20210823/k00/00m/040/082000c"/>
+        <updated>2021-08-23T04:59:05.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市の河村たかし市長（72）が23日、東京オリンピック・ソフトボール日本代表の後藤希友（みう）選手（20）＝トヨタ自動車＝の金メダルをかじり批判された問題を受け、市職員に謝罪文を出した。殺到した苦情への対応に追われた市職員に「すべて私が悪かった」と謝っている。 謝罪文は「名古屋市職員の皆様へ」の書き...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://bunshun.jp/articles/-/48076"/>
         <updated>2021-08-22T22:08:35.000Z</updated>
         <summary type="html"><![CDATA[愛新覚羅氏をご存知だろうか？　かつて中国大陸を支配していた「清」という王朝の皇帝の一族である。 もともと、現在の北朝鮮の国境とほど近い地域（現在の撫順市と通化市の間あたり）を拠点とした満洲族（女真族）の首長・ヌルハチがご先祖だ。ヌルハチは1616年に即位し、次代のホンタイジが国号を「大清」に改め、3代...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野党勝利の裏に元「自民党プリンス」　若手連れ黄門行脚 [横浜市長選挙]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8Q4VY9P8LUTFK00C.html</id>
-        <link href="https://www.asahi.com/articles/ASP8Q4VY9P8LUTFK00C.html"/>
-        <updated>2021-08-22T22:08:34.000Z</updated>
-        <summary type="html"><![CDATA[かつて「自民党のプリンス」と呼ばれ、逮捕を経験しても当選14回を誇る「無敗の男」。立憲民主党の中村喜四郎衆院議員（72）が、次期衆院選に向けて全国を奔走している。立憲の若手議員を引き連れ、アポ無しで自民党に近い団体にも乗り込んでいく姿はまるで水戸黄門のようだ。全国行脚で「喜四郎流」選挙手法や心構えを...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

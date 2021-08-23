@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T18:16:02.707Z</id>
+    <id>urn:2021-08-23T19:09:05.080Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T18:16:02.707Z</updated>
+    <updated>2021-08-23T19:09:05.080Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[リクルート、新人エンジニア向け社内研修資料を公開　AWS入門やマネジメント手法など20講座以上 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/23/news099.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/23/news099.html"/>
+        <updated>2021-08-23T06:34:14.000Z</updated>
+        <summary type="html"><![CDATA[リクルートが、新人エンジニア向けの社内研修資料を無償公開した。Webブラウザの仕組みやAWS入門、トヨタ生産方式など20講座以上の資料を公開している。 リクルートは8月20日、同社の新人エンジニア向け研修資料を無償公開した。Amazon Web Services（AWS）やJavaScriptなど技術分野だけでなく、トヨタ生産方式のような...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[初心者がストVを遊んで心折れて挫折した話｜TCP｜note]]></title>
         <id>https://note.com/bluewoodsun/n/ne235ce94b497</id>
         <link href="https://note.com/bluewoodsun/n/ne235ce94b497"/>
@@ -221,16 +231,6 @@
         <link href="https://comemo.nikkei.com/n/nd4de034b8a25"/>
         <updated>2021-08-23T01:13:43.000Z</updated>
         <summary type="html"><![CDATA[「女性の社会進出が進むから少子化が加速するんだ！」と思っている人！ 逆ですよ！ 先進国では、ジェンダーギャップが縮まるほど出生率が上がります。そして、女性の社会進出には「男性の家庭進出」が必須です！ 少子化克服の鍵を握っているのは、男性です。男たちこそ、今の働き方を見直すべき pic.twitter.com/lqIKZsl...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルカリShops のフロントエンド | メルカリエンジニアリング]]></title>
-        <id>https://engineering.mercari.com/blog/entry/20210823-a57631d32e/</id>
-        <link href="https://engineering.mercari.com/blog/entry/20210823-a57631d32e/"/>
-        <updated>2021-08-23T01:06:01.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

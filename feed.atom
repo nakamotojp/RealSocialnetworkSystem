@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T00:36:17.387Z</id>
+    <id>urn:2021-08-23T01:46:25.150Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T00:36:17.387Z</updated>
+    <updated>2021-08-23T01:46:25.150Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,11 +56,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[コロナ禍でのフジロックが非難されているが、そんなんで年末のコミックマーケットは大丈夫か？ - Togetter]]></title>
+        <id>https://togetter.com/li/1763731</id>
+        <link href="https://togetter.com/li/1763731"/>
+        <updated>2021-08-22T17:31:45.000Z</updated>
+        <summary type="html"><![CDATA[藤堂志摩子提督 @eternalsisters 案の定、コロナ禍にフジロックをやることに批判が集まってるけど、一つだけ言える。フジロックは、ただの音楽フェスではなく常に自然との闘いである。ステージ前が“密”になって地獄絵図というが、参加者は、大雨の洪水、台風の直撃、「死ぬのでは？」いう本物の地獄絵図を経験した者たち...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小此木八郎氏が政界引退の意向「結果を受け止める」　横浜市長選 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210822/k00/00m/010/307000c</id>
         <link href="https://mainichi.jp/articles/20210822/k00/00m/010/307000c"/>
         <updated>2021-08-22T16:20:54.000Z</updated>
         <summary type="html"><![CDATA[任期満了に伴う横浜市長選は22日に投開票され、元横浜市立大教授の山中竹春氏（48）＝立憲民主党推薦＝が、前国家公安委員長の小此木八郎氏（56）や4選を目指した現職の林文子氏（75）ら7人を破って初当選した。 小此木氏は落選が決まると、横浜市中区の事務所で「結果をしっかり受け止める」と語った。今後については「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40代になって昔の邦画の面白さに気づいてしまった]]></title>
+        <id>https://anond.hatelabo.jp/20210823004058</id>
+        <link href="https://anond.hatelabo.jp/20210823004058"/>
+        <updated>2021-08-22T15:43:32.000Z</updated>
+        <summary type="html"><![CDATA[普段そんなに映画を観るタイプではないのだが 友人に勧められた黒澤明監督の『七人の侍』を観てから 40代にして初めて昔の邦画の面白さに気づいてしまった （もっと早く気づいていればと後悔） 最近観て面白かった昔の邦画は、 ・七人の侍（黒澤明監督、1954年公開） ・座頭市物語（三隅研次監督、1962年公開） ・仁義な...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【横浜市長選】小此木八郎氏、政界引退を表明「もう選挙には立候補しない」　首相はメールで「ご苦労さま」（カナロコ by 神奈川新聞） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/abd03a747cae1b81131d0885ed8dce7f1295cad2</id>
-        <link href="https://news.yahoo.co.jp/articles/abd03a747cae1b81131d0885ed8dce7f1295cad2"/>
-        <updated>2021-08-22T13:49:31.000Z</updated>
-        <summary type="html"><![CDATA[前国家公安委員長の小此木八郎氏（５６）は２２日夜、横浜市長選での落選が確実となり、政界を引退する意向を明らかにした。横浜市中区の事務所で記者団の取材に応じ、「もう選挙には立候補しない。どのような形で生まれたまち横浜に貢献できるかを考えたい」と述べた。 【記事まとめ】2021年 横浜市長選：特集 小此木氏...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[横浜市長選の投票率は49.05％ ｜ 共同通信]]></title>
         <id>https://nordot.app/802163168901120000</id>
         <link href="https://nordot.app/802163168901120000"/>
@@ -131,6 +141,16 @@
         <link href="https://honeshabri.hatenablog.com/entry/The_Honest_Truth_About_Dishonesty"/>
         <updated>2021-08-22T13:27:33.000Z</updated>
         <summary type="html"><![CDATA[ダン・アリエリーの論文の一つに再現性が無い。 調査の結果、データが全部捏造されたものだという。 どうしてこうなった。 ダン・アリエリーへの疑い ベストセラーとなった行動経済学の本に『予想どおりに不合理』がある。このブログでも何度かお勧めしている本で、読んだ人も多いだろう。 予想どおりに不合理　　行動経...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions上のRustアプリのDockerイメージビルドを高速化する - blog.endflow.net]]></title>
+        <id>https://blog.endflow.net/build-rust-app-image-faster/</id>
+        <link href="https://blog.endflow.net/build-rust-app-image-faster/"/>
+        <updated>2021-08-22T13:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Rust + Docker + GitHub Actions = めちゃ遅い 以前、GitHub Actions 上の Rust ビルドを高速化する記事を書いたけど、 今回は Kubernetes 環境にスムーズに移行できるよう Docker イメージ化するという要件も加わったことで、改めて試行錯誤する必要が出てきた。 それぞれに対するビルド速度の最適化は存在しているもの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[邦画は面白くない、洋画は面白いと言われるのにはこんな理由があるのでは「でもあの映画は渡ってくる」 - Togetter]]></title>
-        <id>https://togetter.com/li/1763501</id>
-        <link href="https://togetter.com/li/1763501"/>
-        <updated>2021-08-22T10:01:17.000Z</updated>
-        <summary type="html"><![CDATA[かなかわ @kanakawa12 なぜ邦画は面白く無く、洋画は面白いと言われがちなのかについてなんですが、個人的には、「洋画にもそれなりにクソ映画はあるけど、そもそもクソつまんない洋画は海を超えてこない」って言うのがあると思います 2021-08-21 14:28:42]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[渡辺直美、ニューヨーク移住で感じた日本人に対する意識「みんなに伝えたい話がある」（スポニチアネックス） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/5ce274523617966cf62cf5d0cf74f0434baca483</id>
         <link href="https://news.yahoo.co.jp/articles/5ce274523617966cf62cf5d0cf74f0434baca483"/>
         <updated>2021-08-22T09:30:45.000Z</updated>
         <summary type="html"><![CDATA[拠点を米国に移して活動中のお笑いタレントの渡辺直美（33）が21日、自身のYouTubeチャンネルを更新。ニューヨークで感じた、現地の人々が持つ、日本人に対しての意識について語る場面があった。 【写真】歯が1本しかない天狗下駄をはいてスクワットをする渡辺直美（インスタより） 「ニューヨークに住んでいる中で、み...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宮本亞門氏が爆笑・太田に猛然と反論「パラをやる理由がどこにあるんですか！」（東スポWeb） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/e2c84011cb8bd1bbb4b07075a97253c83244357b</id>
-        <link href="https://news.yahoo.co.jp/articles/e2c84011cb8bd1bbb4b07075a97253c83244357b"/>
-        <updated>2021-08-22T07:42:23.000Z</updated>
-        <summary type="html"><![CDATA[演出家・宮本亞門氏（６３）が２２日放送の「サンデー・ジャポン」（ＴＢＳ系）に爆笑問題の太田光に猛然と反論する場面があった。 【写真】パラ集火式でもボケまくったサンドウィッチマン 番組は、子どもたちのパラリンピック（２４日開幕）生観戦について特集。現在、１９歳以下の陽性者数は増加の一途で、５月と比べ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T01:46:25.150Z</id>
+    <id>urn:2021-08-23T02:21:17.686Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T01:46:25.150Z</updated>
+    <updated>2021-08-23T02:21:17.686Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[メルカリShops のフロントエンド | メルカリエンジニアリング]]></title>
+        <id>https://engineering.mercari.com/blog/entry/20210823-a57631d32e/</id>
+        <link href="https://engineering.mercari.com/blog/entry/20210823-a57631d32e/"/>
+        <updated>2021-08-23T01:06:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＜独自＞岸田氏、自民党総裁選に出馬意向 - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210823-ABCQCNXBIFKB7BYEX4O3QV2QSI/</id>
+        <link href="https://www.sankei.com/article/20210823-ABCQCNXBIFKB7BYEX4O3QV2QSI/"/>
+        <updated>2021-08-22T22:34:49.000Z</updated>
+        <summary type="html"><![CDATA[自民党の岸田文雄前政調会長（川口良介撮影）自民党の岸田文雄前政調会長（６４）は菅義偉首相（７２）の任期満了（９月３０日）に伴う党総裁選に出馬する方向で調整に入った。複数の関係者への取材で分かった。自民は２６日に総裁選の日程を決定する予定で、「９月１７日告示－２９日投開票」が有力視されている。岸田...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「普通なんですが…」ネットを騒がせる“眼科の愛新覚羅先生”が明かす、やっぱり凄い“わが半生” | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/48076</id>
@@ -56,6 +76,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「フジロック見てたら23世紀の宗教の教祖みたいな人出てて…詳細教えてください」のツイートに対する情報提供リプ「その先は地獄だぞ」 - Togetter]]></title>
+        <id>https://togetter.com/li/1763730</id>
+        <link href="https://togetter.com/li/1763730"/>
+        <updated>2021-08-22T19:02:57.000Z</updated>
+        <summary type="html"><![CDATA[旭☀️ @LWfdAILyPRMOPZD 暇だからフジロック 見てたら23世紀の宗教の教祖みたいな人出ててすごい気になる笑 のの人の詳細知ってる人教えて下さい。 #フジロック2021 pic.twitter.com/37wrvDB028 2021-08-22 21:32:56]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[コロナ禍でのフジロックが非難されているが、そんなんで年末のコミックマーケットは大丈夫か？ - Togetter]]></title>
         <id>https://togetter.com/li/1763731</id>
         <link href="https://togetter.com/li/1763731"/>
@@ -71,6 +101,16 @@
         <link href="https://mainichi.jp/articles/20210822/k00/00m/010/307000c"/>
         <updated>2021-08-22T16:20:54.000Z</updated>
         <summary type="html"><![CDATA[任期満了に伴う横浜市長選は22日に投開票され、元横浜市立大教授の山中竹春氏（48）＝立憲民主党推薦＝が、前国家公安委員長の小此木八郎氏（56）や4選を目指した現職の林文子氏（75）ら7人を破って初当選した。 小此木氏は落選が決まると、横浜市中区の事務所で「結果をしっかり受け止める」と語った。今後については「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛タン定食は主艦の対ご飯戦闘力が低いので強力な援軍が配備されている？→おかずの「ご飯戦闘力」についてのお話 - Togetter]]></title>
+        <id>https://togetter.com/li/1763613</id>
+        <link href="https://togetter.com/li/1763613"/>
+        <updated>2021-08-22T15:54:27.000Z</updated>
+        <summary type="html"><![CDATA[イナダシュンスケ @inadashunsuke エリックサウスとかの中の人／ジャンルを問わず何にでも喰いつく変態料理人／ナチュラルボーン食いしん坊／近著は「おいしいものでできている（リトルモア）」「だいたい1ステップか2ステップ！なのに本格インドカレー（柴田書店）」／質問箱peing.net/ja/inadashunsu… イナダシュンス...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[橋下徹 on Twitter: "必要なのは事前確率（陽性確率）の高い者への検査。事前確率の低い者へ闇雲に検査をして陽性率が低くなると、その偽陰性率から陽性的中率も低くなる。つまり検査の信用度が低くなる。陽性率が高いということは陽性的中率も高く検査信用度も高いということ。"]]></title>
-        <id>https://twitter.com/hashimoto_lo/status/1429366063515328515</id>
-        <link href="https://twitter.com/hashimoto_lo/status/1429366063515328515"/>
-        <updated>2021-08-22T10:31:44.000Z</updated>
-        <summary type="html"><![CDATA[必要なのは事前確率（陽性確率）の高い者への検査。事前確率の低い者へ闇雲に検査をして陽性率が低くなると、その偽陰性率から陽性的中率も低くなる。つまり検査の信用度が低くなる。陽性率が高いということは陽性的中率も高く検査信用度も高いということ。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3ヶ月980円のコロナ保険は割りとアリな気がしてきた - ゆとりずむ]]></title>
         <id>https://www.yutorism.jp/entry/2021/08/22/190044</id>
         <link href="https://www.yutorism.jp/entry/2021/08/22/190044"/>
@@ -266,41 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASCII.jp：WindowsのコマンドでLAN内のデバイスを探す (1/2)]]></title>
-        <id>https://ascii.jp/elem/000/004/066/4066675/</id>
-        <link href="https://ascii.jp/elem/000/004/066/4066675/"/>
-        <updated>2021-08-22T01:55:22.000Z</updated>
-        <summary type="html"><![CDATA[自宅のネットワークなどで、接続しているPCを全部見つけたいことがある。エクスプローラーのネットワークから見つけることもできるが、スクリプトなどで処理したい場合に手入力するのは面倒だ。そんなときには、PowerShellのGet-NetNeighborコマンドが利用できる。 PowerShellのGet-NetNeighborコマンドは、ネットワーク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俺も Amazon のギフト券で BAN された レビューを書いたら中華の業者からメー..]]></title>
-        <id>https://anond.hatelabo.jp/20210822050930</id>
-        <link href="https://anond.hatelabo.jp/20210822050930"/>
-        <updated>2021-08-22T01:05:05.000Z</updated>
-        <summary type="html"><![CDATA[俺も Amazon のギフト券で BAN された レビューを書いたら中華の業者からメールが来て星を4から5に変更するとギフト券プレゼントしますと言われ600円ぶんのギフト券をもらった それから数年後 中華製品が故障して保証期間だったのでサポートに連絡するとギフト券で返金しますということでギフト券をもらった それでしば...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[行動経済学論文のデータ捏造を暴いた記事の大意を和訳してお届けします｜瀬川知己のノート｜note]]></title>
         <id>https://note.com/chiki_note/n/na8b256b8b788</id>
         <link href="https://note.com/chiki_note/n/na8b256b8b788"/>
         <updated>2021-08-21T15:23:47.000Z</updated>
         <summary type="html"><![CDATA[昨日Twitterを眺めていたら、衝撃的な論文が飛び込んできた。「行動経済学」に関する論文で取り扱われたデータが捏造だったのではないか、と疑義を投げかける論文である。そこで今回は、この論文の論証の大意を日本語でお届けしたい。また、その前後に、行動経済学とは、また、行動経済学の今後は、等についても、簡単に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フラットで可愛いイラスト素材を無料でダウンロードできるサイト10選 | ワードプレステーマTCD]]></title>
-        <id>https://tcd-theme.com/2021/08/free-illustrations.html</id>
-        <link href="https://tcd-theme.com/2021/08/free-illustrations.html"/>
-        <updated>2021-08-21T13:14:58.000Z</updated>
-        <summary type="html"><![CDATA[目に見えないものや内容が複雑なものを表現するのにイラストは最適です。実際にWebサイトや資料制作など、様々なシーンでイラストを取り入れることが増えてきました。 当記事では、高品質かつ商用利用可能なイラスト素材を無料でダウンロードできるサイトをまとめましたので、オシャレなイラストを手軽に手に入れたい方...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

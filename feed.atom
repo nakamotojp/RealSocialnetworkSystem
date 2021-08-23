@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T16:18:49.050Z</id>
+    <id>urn:2021-08-23T17:14:34.150Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T16:18:49.050Z</updated>
+    <updated>2021-08-23T17:14:34.150Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FUJI ROCK FESTIVAL '21に3日通し参加したので会場の様子を書く]]></title>
+        <id>https://anond.hatelabo.jp/20210824003850</id>
+        <link href="https://anond.hatelabo.jp/20210824003850"/>
+        <updated>2021-08-23T15:43:17.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染爆発という状況下で開催され批判が相次いでいるフジロックについて、実際に参加した目線で開催の様子を発信したいと思った。 自分のメンタルではもし炎上したら耐えられないこと、賛成、反対についてのコメントも無責任にできることから、増田に残すことにする。 結論できる限りは尽くしていた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OSS ライセンスの最近の潮流: PolyForm License について]]></title>
         <id>https://tech.bitbank.cc/20210823/</id>
@@ -71,6 +81,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210823/k10013213611000.html"/>
         <updated>2021-08-23T07:31:37.000Z</updated>
         <summary type="html"><![CDATA[デルタ株の脅威がいま医療現場を直撃しています。 基礎疾患がない20代が急激に重症化、これまでの治療法も通用しなくなっています。 新型コロナの重症者病棟を取材し続けて1年半。 私は今回ほど“医療崩壊”ということばを意識したことはありません。治療の最前線で今、何が起きているのか報告します。 （社会番組部チーフ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文科省、教員免許更新制を廃止へ ｜ 共同通信]]></title>
+        <id>https://nordot.app/802438983164592128</id>
+        <link href="https://nordot.app/802438983164592128"/>
+        <updated>2021-08-23T07:27:09.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省は、教員免許に10年の期限を設けている教員免許更新制を廃止することを決めた。23日、更新制の在り方を議論する中教審の小委員会に「発展的に解消する」との審議まとめ案を提示した。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,31 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「下手くそなイラストかと思ったら本当に写真だった」何度見ても写真だと理解できない調理器具に混乱する人たち - Togetter]]></title>
-        <id>https://togetter.com/li/1763897</id>
-        <link href="https://togetter.com/li/1763897"/>
-        <updated>2021-08-23T02:56:50.000Z</updated>
-        <summary type="html"><![CDATA[ふぁい @neconocc いやいや最初の1枚だけはイラストでしょう、と思ったけど、画像いじったら確かに写真だった。（白レベル下げてみた） twitter.com/Dominion525/st… pic.twitter.com/bFp9uWKxEQ 2021-08-22 19:01:45]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[俺たちがBBQだと思ってたのはBBQじゃなかった]]></title>
         <id>https://anond.hatelabo.jp/20210823095615</id>
         <link href="https://anond.hatelabo.jp/20210823095615"/>
         <updated>2021-08-23T02:45:57.000Z</updated>
         <summary type="html"><![CDATA[ステイホーム辛いよな 俺も辛い ネトフリでアメリカンバーベーキュー最強決戦！というのがあるから見たわけよ 飯テロされんのかなー アメリカの勝負する料理番組どんな感じなのかなー そんな軽い気持ちで見たわけよ そしたら全然知らない単語や工程が出てくるわけ デザートは定番のコブラーとか言ってるわけ はぁ？ デザ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タリバン戦闘員「食事がまずい」、女性に火をつけて殺害…女学校の閉鎖相次ぐ（読売新聞オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/c48e3e6b3fc9ac8eaef6b57f9a35922779a406a3</id>
-        <link href="https://news.yahoo.co.jp/articles/c48e3e6b3fc9ac8eaef6b57f9a35922779a406a3"/>
-        <updated>2021-08-23T02:43:09.000Z</updated>
-        <summary type="html"><![CDATA[【テヘラン＝水野翔太】アフガニスタンの親米民主政権が倒れてから、２２日で１週間となった。全土を掌握したイスラム主義勢力タリバンは、女性の人権侵害などを懸念する国際社会の承認を得るため、融和路線を強調する。国内では、それとは裏腹の締め付けが始まり、国民の間で、先行きへの悲観が強まる一方だ。 首都カブ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -211,6 +211,16 @@
         <link href="https://engineering.mercari.com/blog/entry/20210823-a57631d32e/"/>
         <updated>2021-08-23T01:06:01.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好きだったバンドを嫌いになった話 - 海の日]]></title>
+        <id>https://momonoki0012.hatenadiary.jp/entry/2021/08/21/214044</id>
+        <link href="https://momonoki0012.hatenadiary.jp/entry/2021/08/21/214044"/>
+        <updated>2021-08-23T00:59:07.000Z</updated>
+        <summary type="html"><![CDATA[好きだったバンドの話をします。 RADWIMPSのことが大好きだった。 はじめて聞いたとき、わたしは14歳で、飛行機の中だった。そこで流れていたのは「25ｺ目の染色体」だった。 聞いた瞬間に、すぐに好きになった。着いた先で最初にしたことは、CDショップに行って、そのシングルを買うことだった。何回も聞いた。アルバム...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://bunshun.jp/articles/-/48076"/>
         <updated>2021-08-22T22:08:35.000Z</updated>
         <summary type="html"><![CDATA[愛新覚羅氏をご存知だろうか？　かつて中国大陸を支配していた「清」という王朝の皇帝の一族である。 もともと、現在の北朝鮮の国境とほど近い地域（現在の撫順市と通化市の間あたり）を拠点とした満洲族（女真族）の首長・ヌルハチがご先祖だ。ヌルハチは1616年に即位し、次代のホンタイジが国号を「大清」に改め、3代...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナ禍でのフジロックが非難されているが、そんなんで年末のコミックマーケットは大丈夫か？ - Togetter]]></title>
-        <id>https://togetter.com/li/1763731</id>
-        <link href="https://togetter.com/li/1763731"/>
-        <updated>2021-08-22T17:31:45.000Z</updated>
-        <summary type="html"><![CDATA[藤堂志摩子提督 @eternalsisters 案の定、コロナ禍にフジロックをやることに批判が集まってるけど、一つだけ言える。フジロックは、ただの音楽フェスではなく常に自然との闘いである。ステージ前が“密”になって地獄絵図というが、参加者は、大雨の洪水、台風の直撃、「死ぬのでは？」いう本物の地獄絵図を経験した者たち...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

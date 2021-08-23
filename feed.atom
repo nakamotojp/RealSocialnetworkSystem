@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T11:10:14.770Z</id>
+    <id>urn:2021-08-23T12:19:37.602Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T11:10:14.770Z</updated>
+    <updated>2021-08-23T12:19:37.602Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210823/k10013218851000.html"/>
         <updated>2021-08-23T07:51:24.000Z</updated>
         <summary type="html"><![CDATA[東京都は23日、都内で新たに2447人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の月曜日より515人減りました。 ただ、23日までの7日間平均は4659.3人となり、1週間前の109.0％と増えています。 一方、都の基準で集計した23日時点の重症の患者は22日より1人増えて272人でした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB特集 デルタ株“これまでの治療法が通用しない”～密着・重症者病棟 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210823/k10013213611000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210823/k10013213611000.html"/>
+        <updated>2021-08-23T07:31:37.000Z</updated>
+        <summary type="html"><![CDATA[デルタ株の脅威がいま医療現場を直撃しています。 基礎疾患がない20代が急激に重症化、これまでの治療法も通用しなくなっています。 新型コロナの重症者病棟を取材し続けて1年半。 私は今回ほど“医療崩壊”ということばを意識したことはありません。治療の最前線で今、何が起きているのか報告します。 （社会番組部チーフ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +91,16 @@
         <link href="https://courrier.jp/news/archives/258231/"/>
         <updated>2021-08-23T03:24:58.000Z</updated>
         <summary type="html"><![CDATA[「勝ったのはイスラム原理主義ではない。20年に及ぶこの戦争で勝ったのはヘロインである」 組織犯罪に詳しいイタリア人作家ロベルト・サヴィアーノが、タリバンのカブール制圧に関して、伊「コリエーレ・デラ・セラ」紙のコラムで独自の分析を披露している。 サヴィアーノに言わせれば、タリバンをイスラム原理主義の民...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沖縄のプロ野球球団　遠征先でキャバクラ　15人感染（RBC琉球放送） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/6f9911eefd4aeaa11216738ae8139c7a43de6ae2</id>
+        <link href="https://news.yahoo.co.jp/articles/6f9911eefd4aeaa11216738ae8139c7a43de6ae2"/>
+        <updated>2021-08-23T03:13:02.000Z</updated>
+        <summary type="html"><![CDATA[沖縄のプロ野球チーム、琉球ブルーオーシャンズは、15人の新型コロナ感染者が出たと発表しました。複数のコーチと選手が、遠征先のキャバクラ店で、深夜まで飲酒していました。 球団の発表によりますと、今月11日、コーチと選手とその知人3人の合わせて5人が当時、まん延防止等重点措置が出されていた福岡県内で、深夜0...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ANN世論調査　菅内閣支持率が発足後、最低を更新｜テレ朝news-テレビ朝日のニュースサイト]]></title>
-        <id>https://news.tv-asahi.co.jp/news_politics/articles/000226360.html</id>
-        <link href="https://news.tv-asahi.co.jp/news_politics/articles/000226360.html"/>
-        <updated>2021-08-22T21:52:33.000Z</updated>
-        <summary type="html"><![CDATA[ANNの世論調査で菅内閣の支持率が25.8％となり、政権発足以来、最低となりました。 調査は21日、22日に行いました。 菅内閣の支持率は25.8％で、先月の前回調査から3.8ポイント下がりました。 一方で「支持しない」が政権発足以来、最も高い48.7％となりました。 東京オリンピックについて、この時期に開催して「よかっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[感染激減インドから日本へ「絶対参考にしないで…」｜テレ朝news-テレビ朝日のニュースサイト]]></title>
         <id>https://news.tv-asahi.co.jp/news_international/articles/000226343.html</id>
         <link href="https://news.tv-asahi.co.jp/news_international/articles/000226343.html"/>
@@ -261,16 +271,6 @@
         <link href="http://fujirockexpress.net/21/p_4455"/>
         <updated>2021-08-22T15:09:36.000Z</updated>
         <summary type="html"><![CDATA[フジロック２０２１。ここに来た人、来るのを断念した人、出演した人、出演するのを断念した人。「行くも地獄、退くも地獄」って言ってね。世の中、何が正解かわかんねえ状態で、それぞれ考えて、それぞれ行動して。そんな今年のフジロック。 俺はね、３日間終わって残ったのが、いつもの遊び疲れと、あと二日酔い。二日...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有吉弘行 中田翔に痛烈皮肉「宮迫さんも闇営業の次の日に太田プロ来てたら謹慎なかった」 | 東スポのニュースに関するニュースを掲載]]></title>
-        <id>https://www.tokyo-sports.co.jp/entame/news/3549904/</id>
-        <link href="https://www.tokyo-sports.co.jp/entame/news/3549904/"/>
-        <updated>2021-08-22T14:37:29.000Z</updated>
-        <summary type="html"><![CDATA[有吉弘行 お笑いタレントの有吉弘行が２２日、ＪＦＮ系ラジオ「ＳＵＮＤＡＹ　ＮＩＧＨＴ　ＤＲＥＡＭＥＲ」に出演。日本ハムからトレードで巨人に移籍した中田翔内野手について言及した。 有吉は「日ハムの中田翔が巨人へ」とニュース原稿を読み「まだやんちゃ、治らないんだね、３２歳だってよ。３２歳で体育会系はち...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

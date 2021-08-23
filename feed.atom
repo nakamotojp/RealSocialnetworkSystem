@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T17:14:34.150Z</id>
+    <id>urn:2021-08-23T18:16:02.707Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T17:14:34.150Z</updated>
+    <updated>2021-08-23T18:16:02.707Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[現状は半分人災、ロックダウンを　岩田健太郎医師の警鐘：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8R42P9P8QUHMC001.html</id>
+        <link href="https://www.asahi.com/articles/ASP8R42P9P8QUHMC001.html"/>
+        <updated>2021-08-23T06:58:38.000Z</updated>
+        <summary type="html"><![CDATA[国内の新型コロナウイルス感染症は現在、「感染爆発」「医療崩壊」と専門家たちが警告してきたような状況が広がっています。なぜこんな事態になり、今から何ができるのか――。昨年2月、集団感染が起きたクルーズ船「ダイヤモンド・プリンセス」に乗り込んで、対策の不備を指摘した感染症内科医の岩田健太郎・神戸大学教授...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[みずほ銀行、ATM130台一時使えず　今年6回目の障害: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUB235AT0T20C21A8000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOUB235AT0T20C21A8000000/"/>
@@ -131,6 +141,16 @@
         <link href="https://note.com/bluewoodsun/n/ne235ce94b497"/>
         <updated>2021-08-23T06:33:56.000Z</updated>
         <summary type="html"><![CDATA[ストリートファイターVを初心者が遊んだ結果、心が折れた。 筆者はスマブラ勢であり、(格闘ゲーマーというほどではないが)スマブラ以外にも遥か昔、他の格闘ゲーム自体をプレイしていて格ゲー経験はあったのだが、ストVは挫折して挫折して挫折しまくった。 ストVが初心者向けというのはある程度格ゲーをやりこんだ経験者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「戦場で精神を病み、帰還後に家族との関係が壊れた」戦後PTSDになった日本軍兵士についてNHKが特集 #目撃にっぽん - Togetter]]></title>
+        <id>https://togetter.com/li/1763953</id>
+        <link href="https://togetter.com/li/1763953"/>
+        <updated>2021-08-23T05:49:03.000Z</updated>
+        <summary type="html"><![CDATA[印度洋一郎 Yoichiro Indo @ven12665 そういえば今朝のNHK総合の「目撃にっぽん　ずっと父親が嫌いだった」は、このところNHKが熱心に伝えている「PTSDの日本軍兵士の戦後」だった。ものごころついた頃から、無気力で働かない父親のために貧しい暮らしを強いられ、ずっと父を軽蔑していた息子が、戦時中の父について調べ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -211,26 +231,6 @@
         <link href="https://engineering.mercari.com/blog/entry/20210823-a57631d32e/"/>
         <updated>2021-08-23T01:06:01.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好きだったバンドを嫌いになった話 - 海の日]]></title>
-        <id>https://momonoki0012.hatenadiary.jp/entry/2021/08/21/214044</id>
-        <link href="https://momonoki0012.hatenadiary.jp/entry/2021/08/21/214044"/>
-        <updated>2021-08-23T00:59:07.000Z</updated>
-        <summary type="html"><![CDATA[好きだったバンドの話をします。 RADWIMPSのことが大好きだった。 はじめて聞いたとき、わたしは14歳で、飛行機の中だった。そこで流れていたのは「25ｺ目の染色体」だった。 聞いた瞬間に、すぐに好きになった。着いた先で最初にしたことは、CDショップに行って、そのシングルを買うことだった。何回も聞いた。アルバム...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストローなどプラ製品に有料化・再利用義務　罰則規定も: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUA222C20S1A820C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUA222C20S1A820C2000000/"/>
-        <updated>2021-08-23T00:53:54.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 環境省と経済産業省は23日、プラスチックの使用量削減やリサイクルを促進する新制度の具体案を示した。買い物をすると無償で配られるストローやスプーンといった使い捨...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

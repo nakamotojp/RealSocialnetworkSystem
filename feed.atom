@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T02:21:17.686Z</id>
+    <id>urn:2021-08-23T03:12:48.347Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T02:21:17.686Z</updated>
+    <updated>2021-08-23T03:12:48.347Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,46 @@
         <link href="https://engineering.mercari.com/blog/entry/20210823-a57631d32e/"/>
         <updated>2021-08-23T01:06:01.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストローなどプラ製品に有料化・再利用義務　罰則規定も: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUA222C20S1A820C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUA222C20S1A820C2000000/"/>
+        <updated>2021-08-23T00:53:54.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 環境省と経済産業省は23日、プラスチックの使用量削減やリサイクルを促進する新制度の具体案を示した。買い物をすると無償で配られるストローやスプーンといった使い捨...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マクロス７みたいな作品最近無いよな]]></title>
+        <id>https://anond.hatelabo.jp/20210823022801</id>
+        <link href="https://anond.hatelabo.jp/20210823022801"/>
+        <updated>2021-08-22T23:29:47.000Z</updated>
+        <summary type="html"><![CDATA[ナヨナヨしたアイドルが歌ってるか、そもそも歌っててもロボに乗ってない作品ばかりじゃん。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デルタ株に効く？ 安全性は？ 「新型コロナのmRNAワクチン」…研究の第一人者に聞いてようやくわかった“本当の評価”（サイエンスZERO） | 現代ビジネス | 講談社（1/6）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/86304</id>
+        <link href="https://gendai.ismedia.jp/articles/-/86304"/>
+        <updated>2021-08-22T23:28:17.000Z</updated>
+        <summary type="html"><![CDATA[デルタ株に効く？ 安全性は？ 「新型コロナのmRNAワクチン」…研究の第一人者に聞いてようやくわかった“本当の評価” 新型コロナウイルスのワクチン接種が日本で始まっておよそ半年が経ちました。ワクチン接種がいち早く進んだ70-80代の高齢者における感染者の増加が抑えられているなど、ワクチンの効果も出始めています。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ちょっと「言語化能力」とダライアス外伝についての話をさせてください。 | Books&Apps]]></title>
+        <id>https://blog.tinect.jp/?p=72222</id>
+        <link href="https://blog.tinect.jp/?p=72222"/>
+        <updated>2021-08-22T22:50:47.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと「言語化能力」とダライアス外伝についての話をさせてください。 この記事で書きたいことは、大体以下のような内容になります。 ・言語化能力は非常に重要ですよね ・言語化の際に意識するべきなのは「明確さ」と「再現性」 ・その為にテンプレートを用意しておくことが非常に有効 ・ところで私は言語化能力をダ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -96,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小此木八郎氏が政界引退の意向「結果を受け止める」　横浜市長選 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210822/k00/00m/010/307000c</id>
-        <link href="https://mainichi.jp/articles/20210822/k00/00m/010/307000c"/>
-        <updated>2021-08-22T16:20:54.000Z</updated>
-        <summary type="html"><![CDATA[任期満了に伴う横浜市長選は22日に投開票され、元横浜市立大教授の山中竹春氏（48）＝立憲民主党推薦＝が、前国家公安委員長の小此木八郎氏（56）や4選を目指した現職の林文子氏（75）ら7人を破って初当選した。 小此木氏は落選が決まると、横浜市中区の事務所で「結果をしっかり受け止める」と語った。今後については「...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[牛タン定食は主艦の対ご飯戦闘力が低いので強力な援軍が配備されている？→おかずの「ご飯戦闘力」についてのお話 - Togetter]]></title>
         <id>https://togetter.com/li/1763613</id>
         <link href="https://togetter.com/li/1763613"/>
@@ -121,16 +151,6 @@
         <link href="https://anond.hatelabo.jp/20210823004058"/>
         <updated>2021-08-22T15:43:32.000Z</updated>
         <summary type="html"><![CDATA[普段そんなに映画を観るタイプではないのだが 友人に勧められた黒澤明監督の『七人の侍』を観てから 40代にして初めて昔の邦画の面白さに気づいてしまった （もっと早く気づいていればと後悔） 最近観て面白かった昔の邦画は、 ・七人の侍（黒澤明監督、1954年公開） ・座頭市物語（三隅研次監督、1962年公開） ・仁義な...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恐怖の右のーちん改革 on Twitter: "千葉真一のコロナからの肺炎死亡、ワクチン未接種という報道がなされた時に最初に頭に浮かんだのが実はこれでして… 案の定ページから消したのですね。 そりゃそうだよね、「サプリ飲んでる人からコロナ感染者は居ない」とか「癌に効く」とか謳っ… https://t.co/NxOtig6QrF"]]></title>
-        <id>https://twitter.com/takanori_nochin/status/1428501267538604034</id>
-        <link href="https://twitter.com/takanori_nochin/status/1428501267538604034"/>
-        <updated>2021-08-22T15:33:17.000Z</updated>
-        <summary type="html"><![CDATA[千葉真一のコロナからの肺炎死亡、ワクチン未接種という報道がなされた時に最初に頭に浮かんだのが実はこれでして… 案の定ページから消したのですね。 そりゃそうだよね、「サプリ飲んでる人からコロナ感染者は居ない」とか「癌に効く」とか謳っ… https://t.co/NxOtig6QrF]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Actions上のRustアプリのDockerイメージビルドを高速化する - blog.endflow.net]]></title>
-        <id>https://blog.endflow.net/build-rust-app-image-faster/</id>
-        <link href="https://blog.endflow.net/build-rust-app-image-faster/"/>
-        <updated>2021-08-22T13:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Rust + Docker + GitHub Actions = めちゃ遅い 以前、GitHub Actions 上の Rust ビルドを高速化する記事を書いたけど、 今回は Kubernetes 環境にスムーズに移行できるよう Docker イメージ化するという要件も加わったことで、改めて試行錯誤する必要が出てきた。 それぞれに対するビルド速度の最適化は存在しているもの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[本当に感染経路不明だった]]></title>
         <id>https://anond.hatelabo.jp/20210822215448</id>
         <link href="https://anond.hatelabo.jp/20210822215448"/>
@@ -211,16 +221,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210822/k10013217651000.html"/>
         <updated>2021-08-22T12:52:05.000Z</updated>
         <summary type="html"><![CDATA[虐待を受けるなどして入院し、治療の必要がなくなっても受け入れ先がないなどの理由で退院できずにいる子どもがおととし全国で327人にのぼったことが国の調査でわかりました。 専門家は「病院は子どもが育つ環境として好ましい場所ではなく、保護者への支援や受け皿づくりが必要だ」と指摘しています。 調査は厚生労働省...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維新、自公と部分連合も　衆院選後、政策実現条件に - 産経ニュース]]></title>
-        <id>https://www.sankei.com/article/20210822-IUCPOPNW4ZJJTP2WQQ6VFI72TI/</id>
-        <link href="https://www.sankei.com/article/20210822-IUCPOPNW4ZJJTP2WQQ6VFI72TI/"/>
-        <updated>2021-08-22T12:40:37.000Z</updated>
-        <summary type="html"><![CDATA[大阪市内で取材に応じる日本維新の会の馬場伸幸幹事長＝７月４日夜日本維新の会の馬場伸幸幹事長は２２日放送のＢＳテレ東番組で、次期衆院選の結果を踏まえ、自民、公明両党と政策ごとに連携する部分連合に含みを持たせた。番組の司会者から部分連合の可能性を問われ「ゼロとは言わない。大改革をやるために、われわれ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

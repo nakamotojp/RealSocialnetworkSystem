@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T00:37:44.328Z</id>
+    <id>urn:2021-08-24T01:49:35.216Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T00:37:44.328Z</updated>
+    <updated>2021-08-24T01:49:35.216Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アクリル板はコロナ予防効果が低いどころか、感染リスクを上げてしまう可能性も | 米紙が指摘する「死角」とは | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/258293/</id>
+        <link href="https://courrier.jp/news/archives/258293/"/>
+        <updated>2021-08-24T00:20:01.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染対策として、レストランや学校などでプラスチック製の仕切りが活用されているが、米紙「ニューヨーク・タイムズ」によれば、たいした予防効果がないどころか、かえって感染リスクを上げる可能性もあるという。 問題は、そうした仕切りによって、室内の本来の気流や換気が妨げられてしまうことだ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快走スノーピーク､33歳新社長の知られざる手腕 | 専門店･ブランド･消費財 | 東洋経済オンライン | 社会をよくする経済ニュース]]></title>
+        <id>https://toyokeizai.net/articles/-/449246</id>
+        <link href="https://toyokeizai.net/articles/-/449246"/>
+        <updated>2021-08-23T23:25:13.000Z</updated>
+        <summary type="html"><![CDATA[テント用品大手のスノーピークが快走している。8月12日に発表した2021年12月期の中間決算は売上高が前年同期比77.6%増の116億円、本業の儲けを示す営業利益は6.1倍の16億円。4期連続の最高益に向けて突き進んでいる。 好業績の主な要因は、コロナ禍による3密回避のキャンプ需要の高まりに加え、昨春、社長に就任した創業...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflixの実写版「カウボーイビバップ」は11月19日配信　新画像も公開 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/24/news075.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/24/news075.html"/>
+        <updated>2021-08-23T22:01:07.000Z</updated>
+        <summary type="html"><![CDATA[製作はNetflixとTomorrow Studiosで、全10話。1998年製作の原作アニメの監督、渡辺信一郎氏がコンサルタントとして参加する。音楽はオリジナルアニメのサウンドトラックを担当した菅野よう子。 原作アニメはサンライズが1998年に制作したテレビ向けSF作品。アニメではスパイク役は山寺宏一、ジェット・ブラック役は石塚...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サイバー先進国・中国で「キャッシュレス」「スマート社会」が終わった日 | 文春オンライン]]></title>
         <id>https://bunshun.jp/articles/-/48097</id>
         <link href="https://bunshun.jp/articles/-/48097"/>
         <updated>2021-08-23T21:32:03.000Z</updated>
         <summary type="html"><![CDATA[スマートフォンひとつで何でもできるネット先進国中国。その中国で、もしもインターネットがつながらなくなったらどうなるのか。ものすごい有事にでもならない限り起きえないと思ってましたが、オリンピックの直前にひっそりと起きていました。 内陸の河南省に、前例がないほどの豪雨 世界的に報じられる東京オリンピッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大型商業施設のクラスター 共通とみられる特徴が 国立感染症研 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210824/k10013219701000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210824/k10013219701000.html"/>
+        <updated>2021-08-23T20:43:11.000Z</updated>
+        <summary type="html"><![CDATA[各地の大型商業施設での新型コロナウイルスのクラスターについて、調査の支援にあたっている国立感染症研究所は、売り場や従業員の食堂が密集していたケースもあったとして、入場者数を調整することや食堂では会話をしないことなどを呼びかけています。 先月以降確認されたデパートやショッピングセンターなどでの従業員...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[News Up ”我が子からコロナに感染した” 母親が気付いたこと | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210823/k10013218121000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210823/k10013218121000.html"/>
-        <updated>2021-08-23T11:43:11.000Z</updated>
-        <summary type="html"><![CDATA[「10代の行動力と拡散力を止められず。本当に死ぬかと思いました」 こうSNSに投稿したのは、高校生の娘から感染したという40代の母親です。 自宅療養中に高熱にうなされ続け、中等症まで症状が悪化して入院を余儀なくされました。 夏休みが明けて新学期が始まるこの時期に知ってほしい、子どもから大人に感染した、家庭...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[お金がたまる節約の極意教えるよ]]></title>
         <id>https://anond.hatelabo.jp/20210823201439</id>
         <link href="https://anond.hatelabo.jp/20210823201439"/>
@@ -236,26 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WEB特集 デルタ株“これまでの治療法が通用しない”～密着・重症者病棟 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210823/k10013213611000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210823/k10013213611000.html"/>
-        <updated>2021-08-23T07:31:37.000Z</updated>
-        <summary type="html"><![CDATA[デルタ株の脅威がいま医療現場を直撃しています。 基礎疾患がない20代が急激に重症化、これまでの治療法も通用しなくなっています。 新型コロナの重症者病棟を取材し続けて1年半。 私は今回ほど“医療崩壊”ということばを意識したことはありません。治療の最前線で今、何が起きているのか報告します。 （社会番組部チーフ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[とあるおもちゃ屋の転売ヤー対策が目からウロコ「作りたい人にはノーダメージで転売ヤーだけ致命傷」 - Togetter]]></title>
-        <id>https://togetter.com/li/1763996</id>
-        <link href="https://togetter.com/li/1763996"/>
-        <updated>2021-08-23T07:26:16.000Z</updated>
-        <summary type="html"><![CDATA[🇯🇵第4のペロリンガ🗾 @4perorinnga @gunblazesix 昔、よく通っていた模型屋さんの店長さんにプラモデルの返品に関して聞いた事が有りますが、 袋からランナーを出したプラモデルは基本的に返品対応に応じないと話してましたね。 袋から出してランナーを一部カットされていれば返品はできなそうですね。 2021-08-23 07:35...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[厚労省と都、病床確保を要請へ　拒否すれば病院名公表 ｜ 共同通信]]></title>
         <id>https://nordot.app/802429070194589696</id>
         <link href="https://nordot.app/802429070194589696"/>
@@ -281,16 +291,6 @@
         <link href="https://note.com/bluewoodsun/n/ne235ce94b497"/>
         <updated>2021-08-23T06:33:56.000Z</updated>
         <summary type="html"><![CDATA[ストリートファイターVを初心者が遊んだ結果、心が折れた。 筆者はスマブラ勢であり、(格闘ゲーマーというほどではないが)スマブラ以外にも遥か昔、他の格闘ゲーム自体をプレイしていて格ゲー経験はあったのだが、ストVは挫折して挫折して挫折しまくった。 ストVが初心者向けというのはある程度格ゲーをやりこんだ経験者...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妻に異性としてもうみれないと宣言された]]></title>
-        <id>https://anond.hatelabo.jp/20210823084005</id>
-        <link href="https://anond.hatelabo.jp/20210823084005"/>
-        <updated>2021-08-22T23:42:53.000Z</updated>
-        <summary type="html"><![CDATA[先日妻にもう異性としては見れない、スキンシップなども無理と言われた。 結婚してまだ半年である。もちろん子供もいない。 妻曰く「結婚して私によくみられたい」みたいな気持ちが 感じられる身なりが粗野でださい。髪型くらいちゃんとセットして、格好についても もっとちゃんとしてほしい。（先日妻の誕生日をホテル...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T06:14:28.919Z</id>
+    <id>urn:2021-08-24T07:12:12.847Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T06:14:28.919Z</updated>
+    <updated>2021-08-24T07:12:12.847Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://nordot.app/802725772834668544"/>
         <updated>2021-08-24T02:33:19.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスに感染して自宅療養中などに症状が悪化し、16～22日の1週間に救急搬送を要請した東京消防庁管内の患者1983人のうち1160人が搬送されなかったことが24日、同庁への取材で分かった。保健所の判断で自宅療養を継続することになったケースが多いという。 同庁によると、搬送された823人のうち、要請から医...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食べられるうちに挑戦したい！ドーナツの食べ放題に行く :: デイリーポータルZ]]></title>
+        <id>https://dailyportalz.jp/kiji/i-can-eat-all-donuts-here</id>
+        <link href="https://dailyportalz.jp/kiji/i-can-eat-all-donuts-here"/>
+        <updated>2021-08-24T02:15:10.000Z</updated>
+        <summary type="html"><![CDATA[1988年神奈川県生まれ。普通の会社員です。運だけで何とか生きてきました。好きな言葉は「半熟卵はトッピングしますか？」です。もちろんトッピングします。（動画インタビュー） 前の記事：自撮りのさびしさをどうにかしたい ドーナツの食べ放題がある ドーナツ。口の中に広がる甘さをコーヒーで流し込んで食べると、ス...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://anond.hatelabo.jp/20210816171759"/>
         <updated>2021-08-23T10:37:17.000Z</updated>
         <summary type="html"><![CDATA[本厚木に引っ越してきたが住みにくい。 小田急経由で本厚木駅を利用する人であれば、本厚木行きがあるので便利かもしれないが、実際に住んでみると住みにくい。 本厚木は地方都市としては当たり前だが、自動車がないと生活が不自由だ。 公共交通機関としてはバスが充実しているが、20分、30分乗らないと、土地の価格が下...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リクルート、新人エンジニア向け社内研修資料を公開　AWS入門やマネジメント手法など20講座以上 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/23/news099.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/23/news099.html"/>
-        <updated>2021-08-23T06:34:14.000Z</updated>
-        <summary type="html"><![CDATA[リクルートが、新人エンジニア向けの社内研修資料を無償公開した。Webブラウザの仕組みやAWS入門、トヨタ生産方式など20講座以上の資料を公開している。 リクルートは8月20日、同社の新人エンジニア向け研修資料を無償公開した。Amazon Web Services（AWS）やJavaScriptなど技術分野だけでなく、トヨタ生産方式のような...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

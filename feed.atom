@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T09:12:16.395Z</id>
+    <id>urn:2021-08-24T10:13:36.938Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T09:12:16.395Z</updated>
+    <updated>2021-08-24T10:13:36.938Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 4220人感染確認 2日連続前週同じ曜日下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 9人死亡 4220人感染確認 2日連続前週下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210824/k10013220481000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210824/k10013220481000.html"/>
         <updated>2021-08-24T07:48:31.000Z</updated>
-        <summary type="html"><![CDATA[東京都は24日、都内で新たに4220人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の火曜日より157人減りました。前の週の同じ曜日を下回るのは2日連続です。 24日までの7日間平均は4636.9人となり、前の週の102.4％です。 一方、都の基準で集計した24日時点の重症の患者は23日より4人減って2...]]></summary>
+        <summary type="html"><![CDATA[東京都内では24日、新たに4220人が新型コロナウイルスに感染していることが確認され1週間前の火曜日より157人減り、2日連続で前の週の同じ曜日を下回りました。 また、都は、感染が確認された9人が死亡したことを明らかにしました。 東京都は24日、都内で新たに10歳未満から100歳以上までの男女合わせて4220人が新型コロ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +31,16 @@
         <link href="https://www.jiji.com/jc/article?k=2021082400736&amp;g=soc"/>
         <updated>2021-08-24T06:58:06.000Z</updated>
         <summary type="html"><![CDATA[作家の竹田氏、二審も敗訴　差別指摘は「公正」―東京高裁 2021年08月24日15時45分 東京高裁などが入る裁判所合同庁舎＝東京都千代田区 ツイッターで「差別主義者」「いじめの常習者」などと指摘されたのは名誉毀損（きそん）だとして、作家の竹田恒泰氏が紛争史研究家の山崎雅弘氏に５５０万円の損害賠償と投稿の削除な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パラリンピック 子どもたちの観戦 江戸川区と江東区が中止決定 | オリンピック・パラリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210824/k10013220241000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210824/k10013220241000.html"/>
+        <updated>2021-08-24T05:54:14.000Z</updated>
+        <summary type="html"><![CDATA[24日開幕する東京パラリンピックの学校連携観戦チケットによる子どもたちの観戦について、希望する子どもが参加するとしていた東京・江戸川区は、新型コロナウイルスの感染が拡大していることから、24日、参加の中止を決め、学校を通じて保護者に通知したことがわかりました。 江戸川区教育委員会は、保護者に通知した文...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://tech.bitbank.cc/20210823/"/>
         <updated>2021-08-23T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[まえがき開発中のソフトウェアのライセンスを策定するため、現時点でのベストプラクティスについて探っていたところ、ここ数年の OSS ライセンスの動向が面白かったので復習も兼ねてまとめました。 特に、Umbrel が採用したという PolyForm という新しいライセンス形態が面白かったので、これについて詳しく述べます。 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オタクの中でもテロリストが素直に嫌われるようになってきたのを感じる]]></title>
-        <id>https://anond.hatelabo.jp/20210822062654</id>
-        <link href="https://anond.hatelabo.jp/20210822062654"/>
-        <updated>2021-08-23T11:52:03.000Z</updated>
-        <summary type="html"><![CDATA[5chとかふたばとかTwitterでの作品語りを見てると、昔に比べてテロリストが嫌われるようになってるのを感じる。 いわゆるテロリストキャラじゃなくても、正義っぽい、たとえば反乱軍とかレジスタンスとか独立武装集団とかが主役の場合、「こいつら結局テロリストじゃん」みたいなツッコミが入る。 そのツッコミが出るこ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T02:20:29.206Z</id>
+    <id>urn:2021-08-24T03:12:42.273Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T02:20:29.206Z</updated>
+    <updated>2021-08-24T03:12:42.273Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[英音楽祭で5千人、コロナ感染か　規制撤廃後、大半が若者 ｜ 共同通信]]></title>
+        <id>https://nordot.app/802714984962113536</id>
+        <link href="https://nordot.app/802714984962113536"/>
+        <updated>2021-08-24T01:59:56.000Z</updated>
+        <summary type="html"><![CDATA[英南西部で開催されたイベントで、ステージ前に密集する参加者たち＝15日、コーンウォール（Boardmasters提供・英PA通信＝共同） 【ロンドン共同】今月中旬、英南西部コーンウォールで開催された音楽とサーフィンのイベントで、参加者の約1割に当たる約4700人が新型コロナウイルスに感染した可能性があることが分かり、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アクリル板はコロナ予防効果が低いどころか、感染リスクを上げてしまう可能性も | 米紙が指摘する「死角」とは | クーリエ・ジャポン]]></title>
         <id>https://courrier.jp/news/archives/258293/</id>
@@ -31,6 +41,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/24/news075.html"/>
         <updated>2021-08-23T22:01:07.000Z</updated>
         <summary type="html"><![CDATA[製作はNetflixとTomorrow Studiosで、全10話。1998年製作の原作アニメの監督、渡辺信一郎氏がコンサルタントとして参加する。音楽はオリジナルアニメのサウンドトラックを担当した菅野よう子。 原作アニメはサンライズが1998年に制作したテレビ向けSF作品。アニメではスパイク役は山寺宏一、ジェット・ブラック役は石塚...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画をブラウザーだけで変換 ～「FFmpeg」をWebAssembly/JavaScriptへ移植した「ffmpeg.wasm」に期待 - やじうまの杜 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345710.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345710.html"/>
+        <updated>2021-08-23T21:59:53.000Z</updated>
+        <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,31 +266,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「自宅療養」、言葉を破壊する菅政権　中島岳志さん：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8R52W4P8MUPQJ00B.html</id>
-        <link href="https://www.asahi.com/articles/ASP8R52W4P8MUPQJ00B.html"/>
-        <updated>2021-08-23T10:31:49.000Z</updated>
-        <summary type="html"><![CDATA[変異株が猛威をふるい、急増する新型コロナウイルスの感染者。病床は枯渇し、誰がいつ感染してもおかしくない状況です。政府は、入院は重症化リスクの高い人に重点化し、あとは基本「自宅療養で」という方針を示しました。しかし、どうしてももやもやしたり不安になったりしてしまう。それはなぜなのか、政治学者の中島...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[まつうら姫 on Twitter: "運動能力が母親からの遺伝のみで決まるかのような与太話で説得しようとしたり、それであっさり説得されたりする登場人物たち、作者のリテラシーの低さの表れという感じがしてつらい。（『ミステリと言う勿れ』3巻、147-9頁） まあ確かに現実… https://t.co/MRFEC2BMnD"]]></title>
         <id>https://twitter.com/lyricalium/status/1429488866315014144</id>
         <link href="https://twitter.com/lyricalium/status/1429488866315014144"/>
         <updated>2021-08-23T09:25:47.000Z</updated>
         <summary type="html"><![CDATA[運動能力が母親からの遺伝のみで決まるかのような与太話で説得しようとしたり、それであっさり説得されたりする登場人物たち、作者のリテラシーの低さの表れという感じがしてつらい。（『ミステリと言う勿れ』3巻、147-9頁） まあ確かに現実… https://t.co/MRFEC2BMnD]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【令和最新版】はてな初心者のためのブクマカ持ちネタ集]]></title>
-        <id>https://anond.hatelabo.jp/20210823180350</id>
-        <link href="https://anond.hatelabo.jp/20210823180350"/>
-        <updated>2021-08-23T09:11:33.000Z</updated>
-        <summary type="html"><![CDATA[b:id:aox相撲で解決あらゆる揉め事を当事者に相撲で対決させる事で解決しようとする。 当人の「相撲で解決」タグを参照。 物心着く前に子宮を男性に移植男女論関係の記事で解決策として提示しがち。 b:id:aukusoe俺だ俺だ俺だった全文は 「 耳が長くてウサギちゃん！ 首が長くてキリンさん！ ブコメが面白くてaukusoe！ ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

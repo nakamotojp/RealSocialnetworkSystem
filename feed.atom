@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T15:13:14.010Z</id>
+    <id>urn:2021-08-24T16:18:19.185Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T15:13:14.010Z</updated>
+    <updated>2021-08-24T16:18:19.185Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[野菜の焼き浸し]]></title>
+        <id>https://anond.hatelabo.jp/20210824132422</id>
+        <link href="https://anond.hatelabo.jp/20210824132422"/>
+        <updated>2021-08-24T10:32:33.000Z</updated>
+        <summary type="html"><![CDATA[野菜の1番うまい食べ方夏部門は焼き浸しで決まり！ 最近はナスを焼いてはめんつゆに浸して食べてるってことを狂ったかのようにずっとしてる 昨日もスーパーに行ってナスを買いに行ったんだけど、たまたまししとうが足元の棚に置いてるのをみて はるか昔にししとうを農家さんからたんまりもらったのをどうにかして醤油漬...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[京都弁クイズ「コーヒーを飲んでいいのは一つだけ、さてどれ？」 - Togetter]]></title>
         <id>https://togetter.com/li/1764451</id>
         <link href="https://togetter.com/li/1764451"/>
@@ -51,6 +61,16 @@
         <link href="https://news.yahoo.co.jp/articles/ce93abb96530fc03b596e24bcb568c328bf804b4"/>
         <updated>2021-08-24T09:03:31.000Z</updated>
         <summary type="html"><![CDATA[今月20日から22日まで新潟・苗場スキー場で開催された日本最大規模の野外ロックフェス『FUJI ROCK FESTIVAL’21』の公式サイトが24日、「終了のご報告」として3日間の“延べ”来場者数が3万5449人だったと発表した。内訳は20日が1万2636人、21日が1万3513人、22日が9300人。 【写真】「生きる希望になりました！」RAD＆菅田...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンプラ白雪姫]]></title>
+        <id>https://anond.hatelabo.jp/20210824174907</id>
+        <link href="https://anond.hatelabo.jp/20210824174907"/>
+        <updated>2021-08-24T08:54:46.000Z</updated>
+        <summary type="html"><![CDATA[むかしむかし、とっても美しい（※注１）けれど、心の美しさについては評価が分かれることもある、王のパートナーの方（※注２）がいました。王のパートナーの方は魔法（※注３）のカガミを持っていて、いつも魔法のカガミにたずねます。 「カガミよカガミよ、この世で一番美しい（※注１）のは誰？」 王のパートナーの方は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[友人の娘さんの友人（21歳）が枠売って15分待機中に亡くなったそうです。そしたら市役所？政府？（管轄どこの方か忘れてしまいました）が「口外しないでくれ」と💴包んで持ってきたそうです。拒否出来ない状況らしくもう泣き寝入りしかなかったそうです。 - Togetter]]></title>
+        <id>https://togetter.com/li/1764239</id>
+        <link href="https://togetter.com/li/1764239"/>
+        <updated>2021-08-24T06:53:40.000Z</updated>
+        <summary type="html"><![CDATA[絹* @UgZo5VFCxSAL10E 今日聞きました。 友人の娘さんの友人（21歳）が枠売って15分待機中に亡くなったそうです。そしたら市役所？政府？（管轄どこの方か忘れてしまいました）が「口外しないでくれ」と💴包んで持ってきたそうです。拒否出来ない状況らしくもう泣き寝入りしかなかったそうです。もちろんニュースにも 20...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[パラリンピック 子どもたちの観戦 江戸川区と江東区が中止決定 | オリンピック・パラリンピック | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210824/k10013220241000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210824/k10013220241000.html"/>
@@ -196,31 +226,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1160人救急搬送されず、東京　新型コロナの自宅療養患者 ｜ 共同通信]]></title>
-        <id>https://nordot.app/802725772834668544</id>
-        <link href="https://nordot.app/802725772834668544"/>
-        <updated>2021-08-24T02:33:19.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスに感染して自宅療養中などに症状が悪化し、16～22日の1週間に救急搬送を要請した東京消防庁管内の患者1983人のうち1160人が搬送されなかったことが24日、同庁への取材で分かった。保健所の判断で自宅療養を継続することになったケースが多いという。 同庁によると、搬送された823人のうち、要請から医...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自転車に乗って景色を眺めていると、ストレスが解消されていった。僕が最近ハマっている「サイクリングロード」のススメ]]></title>
-        <id>https://card-media.money.rakuten.co.jp/articles/2021/08/24/01/</id>
-        <link href="https://card-media.money.rakuten.co.jp/articles/2021/08/24/01/"/>
-        <updated>2021-08-24T02:00:15.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。ライターの斎藤充博です。 仕事に疲れて、外で気晴らしがしたい。でもそんなに遠出するほどの時間があるわけでもない。そんなときに僕は自転車で家の近くの「サイクリングロード」に行くことにしています。 サイクリングロードと聞くと、スポーツ自転車専用の施設かなと思う人もいるかもしれませんが、違い...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英音楽祭で5千人、コロナ感染か　規制撤廃後、大半が若者 ｜ 共同通信]]></title>
-        <id>https://nordot.app/802714984962113536</id>
-        <link href="https://nordot.app/802714984962113536"/>
-        <updated>2021-08-24T01:59:56.000Z</updated>
-        <summary type="html"><![CDATA[英南西部で開催されたイベントで、ステージ前に密集する参加者たち＝15日、コーンウォール（Boardmasters提供・英PA通信＝共同） 【ロンドン共同】今月中旬、英南西部コーンウォールで開催された音楽とサーフィンのイベントで、参加者の約1割に当たる約4700人が新型コロナウイルスに感染した可能性があることが分かり、...]]></summary>
+        <title type="html"><![CDATA[フジロックがOKなら旅行にいこっと]]></title>
+        <id>https://anond.hatelabo.jp/20210824113551</id>
+        <link href="https://anond.hatelabo.jp/20210824113551"/>
+        <updated>2021-08-24T02:36:24.000Z</updated>
+        <summary type="html"><![CDATA[2週間隔離されろ、期間中はバブルにいろ外に出るなワクチン2回接種しろ毎日検査を受けろ現地の人との接触は必要最小限に抑えろ公共の交通機関を使うなってオリパラ基準の感染症対策を求められるなら、旅行なんて無理だなって思ってたけど アルコール除菌とマスクして、1ｍ離れてれば、何千人で群れても、会話しなければ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://dot.asahi.com/dot/2021082300013.html"/>
         <updated>2021-08-23T23:57:01.000Z</updated>
         <summary type="html"><![CDATA[佐藤佳（さとう・けい）／山形県出身。京都大学大学院医学研究科博士課程修了。医学博士。日本ウイルス学会杉浦奨励賞、文部科学大臣表彰若手科学者賞など（写真：本人提供） 新型コロナのデルタ株が猛威を振るうなか、同等の感染力を持つとされるラムダ株が空港検疫で検出され、新たな変異株襲来の可能性に警戒感が高ま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接種率78％｢イスラエル｣で死亡者増加のなぜ | The New York Times | 東洋経済オンライン | 社会をよくする経済ニュース]]></title>
-        <id>https://toyokeizai.net/articles/-/450304</id>
-        <link href="https://toyokeizai.net/articles/-/450304"/>
-        <updated>2021-08-23T23:09:49.000Z</updated>
-        <summary type="html"><![CDATA[ワクチン接種がいち早く進んだイスラエルだったが、ここへきて急激な感染爆発に襲われている（写真：Kobi Wolf／Bloomberg） 今年春、ワクチン接種を驚くべき速度で進めたイスラエルは新型コロナ対策の世界的模範と目されていた。感染者は大幅に減り、接種完了者は電子的な接種証明書「グリーンパス」を提示することで屋...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

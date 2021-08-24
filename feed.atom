@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T01:49:35.216Z</id>
+    <id>urn:2021-08-24T02:20:29.206Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T01:49:35.216Z</updated>
+    <updated>2021-08-24T02:20:29.206Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -101,6 +101,16 @@
         <link href="https://anond.hatelabo.jp/20210824003850"/>
         <updated>2021-08-23T15:43:17.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染爆発という状況下で開催され批判が相次いでいるフジロックについて、実際に参加した目線で開催の様子を発信したいと思った。 自分のメンタルではもし炎上したら耐えられないこと、賛成、反対についてのコメントも無責任にできることから、増田に残すことにする。 結論できる限りは尽くしていた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フジロックさん、早速日本人KILLへ意欲を見せる]]></title>
+        <id>https://anond.hatelabo.jp/20210824003512</id>
+        <link href="https://anond.hatelabo.jp/20210824003512"/>
+        <updated>2021-08-23T15:36:03.000Z</updated>
+        <summary type="html"><![CDATA[tarify（@tarify6） ①金曜日のフジロックから帰宅後、一昨日の夕方頃からこれまでに経験した事のないような倦怠感と38.8℃の発熱。 昨日PCR検査を受けコロナ陽性が判明しました。 会場内で誰かに感染させてたらと思うと辛いです。。。 私と同じような人他にもいるのかなぁ。 #FUJIROCKFESTIVAL2021 #フジロック ②もちろん...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/23/news099.html"/>
         <updated>2021-08-23T06:34:14.000Z</updated>
         <summary type="html"><![CDATA[リクルートが、新人エンジニア向けの社内研修資料を無償公開した。Webブラウザの仕組みやAWS入門、トヨタ生産方式など20講座以上の資料を公開している。 リクルートは8月20日、同社の新人エンジニア向け研修資料を無償公開した。Amazon Web Services（AWS）やJavaScriptなど技術分野だけでなく、トヨタ生産方式のような...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初心者がストVを遊んで心折れて挫折した話｜TCP｜note]]></title>
-        <id>https://note.com/bluewoodsun/n/ne235ce94b497</id>
-        <link href="https://note.com/bluewoodsun/n/ne235ce94b497"/>
-        <updated>2021-08-23T06:33:56.000Z</updated>
-        <summary type="html"><![CDATA[ストリートファイターVを初心者が遊んだ結果、心が折れた。 筆者はスマブラ勢であり、(格闘ゲーマーというほどではないが)スマブラ以外にも遥か昔、他の格闘ゲーム自体をプレイしていて格ゲー経験はあったのだが、ストVは挫折して挫折して挫折しまくった。 ストVが初心者向けというのはある程度格ゲーをやりこんだ経験者...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

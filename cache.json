@@ -6,13 +6,49 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://news.tv-asahi.co.jp/news_international/articles/000226585.html",
+          "author": null,
+          "description": "動物虐待に厳しい香港警察が、大量の塩をまいて複数のカタツムリを殺したとして26歳の大学院生の男を逮捕しました。 中国・香港の地元メディアによりますと、香港警察は今月16日、「数匹のカタツムリに大量の塩をまき、殺した」として26歳の大学院生の男を逮捕しました。 近所からの通報を受け、香港警察内にある動物虐...",
+          "link": "https://news.tv-asahi.co.jp/news_international/articles/000226585.html",
+          "publishedOn": "2021-08-24T13:12:20.000Z",
+          "wordCount": 24,
+          "title": "塩でカタツムリ数匹殺した疑い　26歳男逮捕　香港｜テレ朝news-テレビ朝日のニュースサイト"
+        },
+        {
+          "id": "https://www.huffingtonpost.jp/entry/story_jp_61246d78e4b0ec33fa075d37",
+          "author": null,
+          "description": "ムーミン、DHCとのコラボ中止へ　本国の著作権管理会社がコメント「いかなる差別も容認しません」 「ムーミンの作者であるトーベ・ヤンソンが示した価値観とはまったく相容れない」。DHCとのコラボをめぐり、本国の著作権管理会社がコメントしました。 人気キャラクター「ムーミン」に関する著作権を管理するフィンラン...",
+          "link": "https://www.huffingtonpost.jp/entry/story_jp_61246d78e4b0ec33fa075d37",
+          "publishedOn": "2021-08-24T10:51:53.000Z",
+          "wordCount": 244,
+          "title": "ムーミン、DHCとのコラボ中止へ　本国の著作権管理会社がコメント「いかなる差別も容認しません」 | ハフポスト"
+        },
+        {
+          "id": "https://www.moomin.co.jp/news/other/95191",
+          "author": null,
+          "description": "ムーミンを大切にしてくださる皆様へ 平素より、ムーミンをご愛顧いただきありがとうございます。 この度、当社がライセンス管理をする一部製品に関しまして、皆様へ不快な思いをさせてしまいましたこと、心よりお詫び申し上げます。 本国フィンランドのムーミンキャラクターズ社は、“いかなる差別も、助長ないし許容す...",
+          "link": "https://www.moomin.co.jp/news/other/95191",
+          "publishedOn": "2021-08-24T10:34:51.000Z",
+          "wordCount": 127,
+          "title": "ムーミン公式サイトより重要なお知らせ - ムーミン公式サイト"
+        },
+        {
           "id": "https://togetter.com/li/1764451",
           "author": null,
           "description": "木口雄人 @kiguchi_yuto 【京都人にコーヒーすすめられたら】 これ当たってた...京都に4年住んだだけある。笑 皆さんわかりますか、これ。 西と東で正答率変わるのかどうか興味深い... 答えは続きのコメントに貼るので、考えてみてください！ pic.twitter.com/JXx8V5cqcg 2020-04-01 20:10:47",
           "link": "https://togetter.com/li/1764451",
           "publishedOn": "2021-08-24T09:19:15.000Z",
-          "wordCount": 952,
+          "wordCount": 1040,
           "title": "京都弁クイズ「コーヒーを飲んでいいのは一つだけ、さてどれ？」 - Togetter"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ce93abb96530fc03b596e24bcb568c328bf804b4",
+          "author": null,
+          "description": "今月20日から22日まで新潟・苗場スキー場で開催された日本最大規模の野外ロックフェス『FUJI ROCK FESTIVAL’21』の公式サイトが24日、「終了のご報告」として3日間の“延べ”来場者数が3万5449人だったと発表した。内訳は20日が1万2636人、21日が1万3513人、22日が9300人。 【写真】「生きる希望になりました！」RAD＆菅田...",
+          "link": "https://news.yahoo.co.jp/articles/ce93abb96530fc03b596e24bcb568c328bf804b4",
+          "publishedOn": "2021-08-24T09:03:31.000Z",
+          "wordCount": 72,
+          "title": "フジロック、3日間の延べ来場者数は3万5449人　現在のところ陽性者の確認なし（オリコン） - Yahoo!ニュース"
         },
         {
           "id": "https://www.asahi.com/articles/ASP8S5RZGP8SULFA00R.html",
@@ -56,7 +92,7 @@
           "description": "巨大ロボ除く",
           "link": "https://anond.hatelabo.jp/20210824151056",
           "publishedOn": "2021-08-24T07:34:00.000Z",
-          "wordCount": 149,
+          "wordCount": 176,
           "title": "ネコ型じゃないよ。ヒト型のロボットって今ならだれを思い浮かべるよ？"
         },
         {
@@ -65,7 +101,7 @@
           "description": "リンク Engaging Data Real Country Sizes Shown on Mercator Projection (Updated) - Engaging Data This interactive map shows the real size of countries on a mercator projection map. The animation shows some countries shrinking to show their true size. 14 users 4966 にゃんこそば🌥️データ可視化 @Shinaga...",
           "link": "https://togetter.com/li/1764415",
           "publishedOn": "2021-08-24T07:13:11.000Z",
-          "wordCount": 743,
+          "wordCount": 742,
           "title": "「ロシアってそんなに小さいの！？」メルカトル図法で描かれた世界地図を\"正しい\"サイズに切り替えられるサイトがとても面白い - Togetter"
         },
         {
@@ -74,7 +110,7 @@
           "description": "作家の竹田氏、二審も敗訴　差別指摘は「公正」―東京高裁 2021年08月24日15時45分 東京高裁などが入る裁判所合同庁舎＝東京都千代田区 ツイッターで「差別主義者」「いじめの常習者」などと指摘されたのは名誉毀損（きそん）だとして、作家の竹田恒泰氏が紛争史研究家の山崎雅弘氏に５５０万円の損害賠償と投稿の削除な...",
           "link": "https://www.jiji.com/jc/article?k=2021082400736&g=soc",
           "publishedOn": "2021-08-24T06:58:06.000Z",
-          "wordCount": 345,
+          "wordCount": 347,
           "title": "作家の竹田氏、二審も敗訴　差別指摘は「公正」―東京高裁：時事ドットコム"
         },
         {
@@ -119,7 +155,7 @@
           "description": "Twitterで「ワクチン　迷ってる」というキーワードで検索していたところ「一生迷ってる」という表現を複数の人が使っていた。 気になったので今度は「一生迷ってる」で検索したら山ほどヒットした。 何か元ネタのある流行り言葉なのか？　わざと大袈裟な言い回しをする面白さを楽しんでいるのか？　などと思っていたとこ...",
           "link": "https://anond.hatelabo.jp/20210824122103",
           "publishedOn": "2021-08-24T03:23:44.000Z",
-          "wordCount": 247,
+          "wordCount": 245,
           "title": "若者の間で「一生」の意味が変化してる？"
         },
         {
@@ -128,7 +164,7 @@
           "description": "Jun Tamaoki / 玉置絢 @OKtamajun いま飲み会自粛に強いストレスを感じたり我慢できず酒盛りする人に対して、「これまでの人生で飲み会がメンタルを保つ手段だったんだから辛いよね」というコメを見た。 そうか！　過去のあの絡まれ呼ばれのつらい飲み会付き合いはそういう人がメンタル保つルーチンに付き合わされてたっ...",
           "link": "https://togetter.com/li/1764332",
           "publishedOn": "2021-08-24T03:21:58.000Z",
-          "wordCount": 1324,
+          "wordCount": 1331,
           "title": "飲み会自粛が辛い人「飲み会がメンタルを保つ手段だった」→つらい飲み会の慣習って他者を用いたストレス解消目的だった...?と気づいてしまった - Togetter"
         },
         {
@@ -137,7 +173,7 @@
           "description": "◆◆◆ ――今日はお時間いただきありがとうございます。オリンピックの主役はアスリートではなく観光客だったという指摘にはハッとしました。 マライ　こちらこそありがとうございます。私自身はそれほど特別なことを言ったつもりはなかったので、反響に驚いています。ただ東京オリンピックって合計で4兆円くらいかかってい...",
           "link": "https://bunshun.jp/articles/-/48087",
           "publishedOn": "2021-08-24T02:57:18.000Z",
-          "wordCount": 167,
+          "wordCount": 166,
           "title": "「海老蔵さんの衣装の重さとか…知らんし（笑）」ドイツ公共放送で開会式を解説したマライさんが嘆く「無」のオリンピック | 文春オンライン"
         },
         {
@@ -150,21 +186,12 @@
           "title": "1160人救急搬送されず、東京　新型コロナの自宅療養患者 ｜ 共同通信"
         },
         {
-          "id": "https://dailyportalz.jp/kiji/i-can-eat-all-donuts-here",
-          "author": null,
-          "description": "1988年神奈川県生まれ。普通の会社員です。運だけで何とか生きてきました。好きな言葉は「半熟卵はトッピングしますか？」です。もちろんトッピングします。（動画インタビュー） 前の記事：自撮りのさびしさをどうにかしたい ドーナツの食べ放題がある ドーナツ。口の中に広がる甘さをコーヒーで流し込んで食べると、ス...",
-          "link": "https://dailyportalz.jp/kiji/i-can-eat-all-donuts-here",
-          "publishedOn": "2021-08-24T02:15:10.000Z",
-          "wordCount": 186,
-          "title": "食べられるうちに挑戦したい！ドーナツの食べ放題に行く :: デイリーポータルZ"
-        },
-        {
           "id": "https://card-media.money.rakuten.co.jp/articles/2021/08/24/01/",
           "author": null,
           "description": "こんにちは。ライターの斎藤充博です。 仕事に疲れて、外で気晴らしがしたい。でもそんなに遠出するほどの時間があるわけでもない。そんなときに僕は自転車で家の近くの「サイクリングロード」に行くことにしています。 サイクリングロードと聞くと、スポーツ自転車専用の施設かなと思う人もいるかもしれませんが、違い...",
           "link": "https://card-media.money.rakuten.co.jp/articles/2021/08/24/01/",
           "publishedOn": "2021-08-24T02:00:15.000Z",
-          "wordCount": 207,
+          "wordCount": 208,
           "title": "自転車に乗って景色を眺めていると、ストレスが解消されていった。僕が最近ハマっている「サイクリングロード」のススメ"
         },
         {
@@ -179,20 +206,11 @@
         {
           "id": "https://anond.hatelabo.jp/20210824070938",
           "author": null,
-          "description": "そこには誰もツッコまなくてワロタ 生活のためとかどうでもいいならリーマンにも仕事やめろォ！って喚いてこいや https://anond.hatelabo.jp/20210824003512",
+          "description": "そこには誰もツッコまなくてワロタ 生活のためとかどうでもいいならリーマンにも仕事やめろォ！って喚いてこいや https://anond.hatelabo.jp/20210824003512 オリンピック反対してたのに一貫性がぁ！とか言ってるアホいるけど、フジロック批判して通勤批判してないやつもたたけよ 一貫性とパンティがないゾ〜",
           "link": "https://anond.hatelabo.jp/20210824070938",
           "publishedOn": "2021-08-24T01:27:56.000Z",
-          "wordCount": 717,
+          "wordCount": 759,
           "title": "フジロックに行くより、都内で通勤電車に乗って生活してる方が感染リスク高そう"
-        },
-        {
-          "id": "https://courrier.jp/news/archives/258293/",
-          "author": null,
-          "description": "新型コロナウイルスの感染対策として、レストランや学校などでプラスチック製の仕切りが活用されているが、米紙「ニューヨーク・タイムズ」によれば、たいした予防効果がないどころか、かえって感染リスクを上げる可能性もあるという。 問題は、そうした仕切りによって、室内の本来の気流や換気が妨げられてしまうことだ...",
-          "link": "https://courrier.jp/news/archives/258293/",
-          "publishedOn": "2021-08-24T00:20:01.000Z",
-          "wordCount": 193,
-          "title": "アクリル板はコロナ予防効果が低いどころか、感染リスクを上げてしまう可能性も | 米紙が指摘する「死角」とは | クーリエ・ジャポン"
         },
         {
           "id": "https://dot.asahi.com/dot/2021082300013.html",
@@ -200,17 +218,8 @@
           "description": "佐藤佳（さとう・けい）／山形県出身。京都大学大学院医学研究科博士課程修了。医学博士。日本ウイルス学会杉浦奨励賞、文部科学大臣表彰若手科学者賞など（写真：本人提供） 新型コロナのデルタ株が猛威を振るうなか、同等の感染力を持つとされるラムダ株が空港検疫で検出され、新たな変異株襲来の可能性に警戒感が高ま...",
           "link": "https://dot.asahi.com/dot/2021082300013.html",
           "publishedOn": "2021-08-23T23:57:01.000Z",
-          "wordCount": 210,
+          "wordCount": 212,
           "title": "都内のコロナ陽性率20％超えは「はっきり言って異常」　ウイルス研究者が警告 (1/3) 〈dot.〉｜AERA dot. (アエラドット)"
-        },
-        {
-          "id": "https://toyokeizai.net/articles/-/449246",
-          "author": null,
-          "description": "テント用品大手のスノーピークが快走している。8月12日に発表した2021年12月期の中間決算は売上高が前年同期比77.6%増の116億円、本業の儲けを示す営業利益は6.1倍の16億円。4期連続の最高益に向けて突き進んでいる。 好業績の主な要因は、コロナ禍による3密回避のキャンプ需要の高まりに加え、昨春、社長に就任した創業...",
-          "link": "https://toyokeizai.net/articles/-/449246",
-          "publishedOn": "2021-08-23T23:25:13.000Z",
-          "wordCount": 325,
-          "title": "快走スノーピーク､33歳新社長の知られざる手腕 | 専門店･ブランド･消費財 | 東洋経済オンライン | 社会をよくする経済ニュース"
         },
         {
           "id": "https://toyokeizai.net/articles/-/450304",
@@ -222,21 +231,12 @@
           "title": "接種率78％｢イスラエル｣で死亡者増加のなぜ | The New York Times | 東洋経済オンライン | 社会をよくする経済ニュース"
         },
         {
-          "id": "https://togetter.com/li/1764199",
-          "author": null,
-          "description": "きんどう @zoknd 【重要】Amazonギフト券を転売サイトから購入しないでください → amazon.co.jp/b?ie=UTF8&node… 詐欺など不正取得の可能性のあるAmazonギフト券を利用したなどで、Amazonアカウントの停止が話題になっていますね。上記リンク先に名指しで転売サイトが載っているのでご確認ください。 pic.twitter.com/rD...",
-          "link": "https://togetter.com/li/1764199",
-          "publishedOn": "2021-08-23T22:20:09.000Z",
-          "wordCount": 746,
-          "title": "安く購入したAmazonギフト券を使ったらアカウントを凍結された→「ギフト券を転売屋から購入しないで」公式からも注意喚起 - Togetter"
-        },
-        {
           "id": "https://bunshun.jp/articles/-/48097",
           "author": null,
           "description": "スマートフォンひとつで何でもできるネット先進国中国。その中国で、もしもインターネットがつながらなくなったらどうなるのか。ものすごい有事にでもならない限り起きえないと思ってましたが、オリンピックの直前にひっそりと起きていました。 内陸の河南省に、前例がないほどの豪雨 世界的に報じられる東京オリンピッ...",
           "link": "https://bunshun.jp/articles/-/48097",
           "publishedOn": "2021-08-23T21:32:03.000Z",
-          "wordCount": 157,
+          "wordCount": 159,
           "title": "サイバー先進国・中国で「キャッシュレス」「スマート社会」が終わった日 | 文春オンライン"
         },
         {
@@ -254,7 +254,7 @@
           "description": "tarify（@tarify6） ①金曜日のフジロックから帰宅後、一昨日の夕方頃からこれまでに経験した事のないような倦怠感と38.8℃の発熱。 昨日PCR検査を受けコロナ陽性が判明しました。 会場内で誰かに感染させてたらと思うと辛いです。。。 私と同じような人他にもいるのかなぁ。 #FUJIROCKFESTIVAL2021 #フジロック ②もちろん...",
           "link": "https://anond.hatelabo.jp/20210824003512",
           "publishedOn": "2021-08-23T15:36:03.000Z",
-          "wordCount": 721,
+          "wordCount": 763,
           "title": "フジロックさん、早速日本人KILLへ意欲を見せる"
         },
         {
@@ -272,7 +272,7 @@
           "description": "お金っていうのは、当たり前だけど、減らすか増やすかしないと減ったり増えたりしない。お金を増やす方よりもお金が出ていくのを減らす方が簡単なのでそれを教えるよ。 1. 貯めたい分だけ先に抜くどこでもまず最初に言われているのがこの手法。王道。これは貯まる。「抜いただけでは貯まらんでしょ？」と思ってる方、貯...",
           "link": "https://anond.hatelabo.jp/20210823201439",
           "publishedOn": "2021-08-23T11:16:00.000Z",
-          "wordCount": 169,
+          "wordCount": 167,
           "title": "お金がたまる節約の極意教えるよ"
         }
       ]

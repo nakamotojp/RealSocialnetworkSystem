@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T13:18:26.426Z</id>
+    <id>urn:2021-08-25T14:11:17.405Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T13:18:26.426Z</updated>
+    <updated>2021-08-25T14:11:17.405Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「国会の議論もオンライン化を」尾身会長が提言（テレビ朝日系（ANN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266</id>
+        <link href="https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266"/>
+        <updated>2021-08-25T11:02:02.000Z</updated>
+        <summary type="html"><![CDATA[テレワークを求める政治家に国会こそオンライン化するよう提言です。 政府新型コロナ分科会・尾身会長：「今こういう時期ですから、国会の議論もできる範囲でテレワーク、オンラインですね、それでやるとメッセージになる」 政府が経済界に対してテレワークなどで出勤者を7割削減するように求めているなか、政府の分科会...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“出演者が痛がる様子を笑いにする番組演出” BPOが審議へ | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html"/>
+        <updated>2021-08-25T10:15:56.000Z</updated>
+        <summary type="html"><![CDATA[出演者が痛がる様子を笑いの対象にするようなバラエティー番組の演出について、BPO＝放送倫理・番組向上機構は、青少年に与える影響の重大性を考慮して審議することを決めました。 BPOによりますと出演者に痛がるような行為をしかけ、その様子をみんなで笑うようなバラエティー番組について、視聴者などから「不快に思う...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 11人死亡 4228人感染確認 重症277人で最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210825/k10013222421000.html</id>
@@ -51,6 +71,16 @@
         <link href="https://kahoku.news/articles/20210824khn000048.html"/>
         <updated>2021-08-25T05:12:12.000Z</updated>
         <summary type="html"><![CDATA[店主急逝の模型店、惜しまれつつ閉店へ　「おんちゃんいる？」訪れた少年の手には… 2021年08月25日 06:00 模型倶楽部の閉店セールに多くの常連客らが列をなした＝２１日 戦闘機、航空機、戦車、外車。模型の箱が天井まで積み重なる。仙台市宮城野区二の森の「模型倶楽部（くらぶ）」が今月末、創業３６年の歴史に幕を閉...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文科省、次世代半導体研究を強化　概算9億円要求へ、拠点化図る ｜ 共同通信]]></title>
+        <id>https://nordot.app/803098581090598912</id>
+        <link href="https://nordot.app/803098581090598912"/>
+        <updated>2021-08-25T04:54:24.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省は25日までに、大幅な省電力などが期待される次世代半導体の開発を目指す研究や人材育成の態勢強化に乗り出す方針を固めた。来年度予算の概算要求に9億円を盛り込む方向で調整している。新しい記憶装置（メモリー）、中央演算処理装置（CPU）などの設計から製造までを一貫して研究するチームを“拠点”とし、予...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大江千里氏が「ラーメン1杯2200円」の米国から語る、安い日本の深刻問題（ダイヤモンド・オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/1eb706b57d791ada1859d950c8c90c24021a983a</id>
-        <link href="https://news.yahoo.co.jp/articles/1eb706b57d791ada1859d950c8c90c24021a983a"/>
-        <updated>2021-08-25T00:17:54.000Z</updated>
-        <summary type="html"><![CDATA[今や先進国でも賃金の低い国になってしまった日本。ポップミュージシャンからジャズマンに大胆転身し、米国で活躍する大江千里氏は、「日本は賃金や物価が安くなるにつれ、保守的で閉鎖的な社会になっているんじゃないかな」と指摘する。『週刊ダイヤモンド』8月28日号の第1特集『安すぎ日本 沈む給料、買われる企業』に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「～だわ」「～のよ」、翻訳の女言葉に感じる不自然さ：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8S4GDNP8MUPQJ003.html</id>
         <link href="https://www.asahi.com/articles/ASP8S4GDNP8MUPQJ003.html"/>
@@ -161,16 +181,6 @@
         <link href="https://www.asahi.com/articles/ASP8S6WZQP8SUDCB009.html"/>
         <updated>2021-08-25T00:15:45.000Z</updated>
         <summary type="html"><![CDATA[千葉県市川市庁舎の市長室の家具購入費が約1千万円だったことについて、村越祐民市長は24日の会見で「市長室の什器（じゅうき、家具）に関しては議会で決裁し、正式な手続きを踏んで調達を行っている。特段問題はない」との認識を示した。 家具は昨夏の市庁舎完成に合わせて購入され、市長の執務机約157万円、執務用イス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレワークでは出会いが足りてない！ バーチャルオフィス「oVice」に毎日3万人が“出勤”している理由 ～ oVice Summitで考える“テレワークとオフラインのバランス”【甲斐祐樹の Work From ____ ：第8回】 - INTERNET Watch]]></title>
-        <id>https://internet.watch.impress.co.jp/docs/column/work_from/1345549.html</id>
-        <link href="https://internet.watch.impress.co.jp/docs/column/work_from/1345549.html"/>
-        <updated>2021-08-24T23:24:28.000Z</updated>
-        <summary type="html"><![CDATA[2020年春から1年半以上も続くコロナ禍の影響で、ワークスタイルとして着実に普及が進む“リモートワーク（テレワーク）”。筆者のようなフリーランスは当然のことながら、これまでは対面での打ち合わせが中心だったような大企業でも、Web会議サービスを使った打ち合わせが当然のように使われ始めている。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,16 +251,6 @@
         <link href="https://diamond.jp/articles/-/280295"/>
         <updated>2021-08-24T20:05:44.000Z</updated>
         <summary type="html"><![CDATA[週刊ダイヤモンド特集セレクション 「週刊ダイヤモンド」の特集バックナンバーから、タイムリーな記事を再編集してお届けします。 バックナンバー一覧 今や先進国でも賃金の低い国になってしまった日本。ポップミュージシャンからジャズマンに大胆転身し、米国で活躍する大江千里氏は、「日本は賃金や物価が安くなるにつ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナワクチン時系列 - やしお]]></title>
-        <id>https://yashio.hatenablog.com/entry/20210824/1629810465</id>
-        <link href="https://yashio.hatenablog.com/entry/20210824/1629810465"/>
-        <updated>2021-08-24T14:09:45.000Z</updated>
-        <summary type="html"><![CDATA[現在のワクチン 現在世界で承認している国が多いものは以下の8種類ほど。 日本はファイザー、モデルナ、アストラゼネカの3種を承認済み、J&Jが承認申請。 【mRNA】 ファイザー(米)(ビオンテック:独) モデルナ(米) 【ウイルスベクター】 アストラゼネカ(英)(オックスフォード大:英) ジョンソン・エンド・ジョンソン(J&J)(...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

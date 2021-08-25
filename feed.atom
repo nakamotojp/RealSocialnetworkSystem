@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T10:14:30.603Z</id>
+    <id>urn:2021-08-25T11:10:00.744Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T10:14:30.603Z</updated>
+    <updated>2021-08-25T11:10:00.744Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 4228人感染確認 重症患者は277人で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 11人死亡 4228人感染確認 重症277人で最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210825/k10013222421000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210825/k10013222421000.html"/>
         <updated>2021-08-25T07:49:04.000Z</updated>
-        <summary type="html"><![CDATA[東京都は25日、都内で新たに4228人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の水曜日より1158人減りました。 25日までの7日間平均は4471.4人で、前の週の95.2％となり、減少しました。 7日間平均が前の週を下回るのは、ことし6月19日以来です。 一方、都の基準で集計した25日時点の重...]]></summary>
+        <summary type="html"><![CDATA[東京都内では25日、新たに4228人が新型コロナウイルスに感染していることが確認され、1週間前の水曜日より1158人減り、25日までの7日間平均は、前の週から減少しました。 一方、重症の患者は277人で、これまでで最も多くなりました。 また、都は、感染が確認された11人が死亡したことを明らかにしました。 東京都は25日...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +31,26 @@
         <link href="https://amass.jp/150220/"/>
         <updated>2021-08-25T05:16:10.000Z</updated>
         <summary type="html"><![CDATA[ニルヴァーナ（Nirvana）のメンバーと、カート・コバーン（Kurt Cobain）の遺産を管理するエステートは、アルバム『Nevermind』のジャケット・カヴァーに赤ん坊として登場したスペンサー・エルデンから訴えられたと報じられています。エルデンは、バンドが連邦児童ポルノ法に違反し、児童の性的搾取を行ったと主張してい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[店主急逝の模型店、惜しまれつつ閉店　在庫処分セールに行列 | 河北新報オンラインニュース / ONLINE NEWS]]></title>
+        <id>https://kahoku.news/articles/20210824khn000048.html</id>
+        <link href="https://kahoku.news/articles/20210824khn000048.html"/>
+        <updated>2021-08-25T05:12:12.000Z</updated>
+        <summary type="html"><![CDATA[店主急逝の模型店、惜しまれつつ閉店　在庫処分セールに行列 2021年08月25日 06:00 模型倶楽部の閉店セールに多くの常連客らが列をなした＝２１日 戦闘機、航空機、戦車、外車。模型の箱が天井まで積み重なる。仙台市宮城野区二の森の「模型倶楽部（くらぶ）」が今月末、創業３６年の歴史に幕を閉じる。店主の内田吉彦さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「バッハ会長なんで来るのか。銀座行ったはず」　尾身氏が再来日批判 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210825/k00/00m/010/176000c</id>
+        <link href="https://mainichi.jp/articles/20210825/k00/00m/010/176000c"/>
+        <updated>2021-08-25T04:14:40.000Z</updated>
+        <summary type="html"><![CDATA[政府の新型コロナウイルス感染症対策分科会の尾身茂会長は25日の衆院厚生労働委員会の閉会中審査で、東京パラリンピック開会式のために再来日した国際オリンピック委員会（IOC）のバッハ会長について、「なんで来るのか。銀座も1回行ったはずだ。必要ならなぜオンラインでできないのか」と批判した。 立憲民主党の尾辻か...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[白金高輪駅 液体かけられ2人やけど 逃げた男の画像公開 警視庁 | 事件 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210825/k10013221561000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013221561000.html"/>
-        <updated>2021-08-24T21:21:24.000Z</updated>
-        <summary type="html"><![CDATA[24日夜、東京 港区の駅の構内で20代の男性が男に突然液体をかけられ顔などにやけどを負う大けがをしたほか、近くにいた女性も足にやけどを負いました。液体は硫酸とみられるということで、警視庁は防犯カメラの画像を公開して逃げた男の行方を捜査しています。 警視庁や東京消防庁によりますと、24日午後9時すぎ、東京 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大江千里氏が「ラーメン1杯2200円」の米国から語る、安い日本の深刻問題 | 週刊ダイヤモンド特集セレクション | ダイヤモンド・オンライン]]></title>
         <id>https://diamond.jp/articles/-/280295</id>
         <link href="https://diamond.jp/articles/-/280295"/>
@@ -231,16 +241,6 @@
         <link href="https://news.yahoo.co.jp/articles/90f2c27a4c9ba2c80c1a9265780f21961104f8ed"/>
         <updated>2021-08-24T13:38:43.000Z</updated>
         <summary type="html"><![CDATA[パソナグループ会長で慶應大名誉教授の竹中平蔵氏が２４日までにツイッターを投稿し、「医療ムラを解体しないと、日本はよくならない」と指摘した。 現在、全国的に新型コロナウイルスの感染者が拡大し、特に首都圏では医療ひっ迫が深刻化している。 その中で、竹中氏は「コロナ問題最大の課題は、病床不足で医療逼迫す...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the_spoiler on Twitter: "ロックが反抗の音楽だというなら「俺たちは政府の方針に従わない。その代わり政府の世話にはならない」でなければおかしい。「俺たちは政府の方針に従わない。その結果何かが起こったら政府のせいにする」なら単なる甘えの音楽に過ぎない。社会に迷惑をかけて文句ばかり言うのはただの駄々っ子。"]]></title>
-        <id>https://twitter.com/don_jardine/status/1430007492805758993</id>
-        <link href="https://twitter.com/don_jardine/status/1430007492805758993"/>
-        <updated>2021-08-24T13:15:35.000Z</updated>
-        <summary type="html"><![CDATA[ロックが反抗の音楽だというなら「俺たちは政府の方針に従わない。その代わり政府の世話にはならない」でなければおかしい。「俺たちは政府の方針に従わない。その結果何かが起こったら政府のせいにする」なら単なる甘えの音楽に過ぎない。社会に迷惑をかけて文句ばかり言うのはただの駄々っ子。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

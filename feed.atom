@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T17:18:09.780Z</id>
+    <id>urn:2021-08-25T18:13:56.242Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T17:18:09.780Z</updated>
+    <updated>2021-08-25T18:13:56.242Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,11 +66,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【独自】デジタル庁事務方トップに石倉洋子・一橋大名誉教授起用へ（TBS系（JNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/e9af19bddf345f1eb0c2582ea20a0aaa202753a7</id>
+        <link href="https://news.yahoo.co.jp/articles/e9af19bddf345f1eb0c2582ea20a0aaa202753a7"/>
+        <updated>2021-08-25T08:17:09.000Z</updated>
+        <summary type="html"><![CDATA[政府が、９月に発足する「デジタル庁」の事務方トップに、一橋大学名誉教授の、石倉洋子氏をあてる方向で最終調整していることがわかりました。 デジタル庁は来月１日に、民間出身者１００人以上を含む５００人規模でスタートする予定で、その事務方トップの「デジタル監」に石倉氏を充てる方向で詰めの調整をしていると...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 11人死亡 4228人感染確認 重症277人で最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210825/k10013222421000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210825/k10013222421000.html"/>
         <updated>2021-08-25T07:49:04.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では25日、新たに4228人が新型コロナウイルスに感染していることが確認され、1週間前の水曜日より1158人減り、25日までの7日間平均は、前の週から減少しました。 一方、重症の患者は277人で、これまでで最も多くなりました。 また、都は、感染が確認された11人が死亡したことを明らかにしました。 東京都は25日...]]></summary>
+        <summary type="html"><![CDATA[東京都内では25日、新たに4228人が新型コロナウイルスに感染していることが確認され、1週間前の水曜日より1158人減り、25日までの7日間平均は前の週から減少しました。都の担当者は「減少が続くのかどうかはもうしばらく見ないとわからない」と話しています。また、都は、感染が確認された11人が死亡したことを明らかに...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -101,6 +111,16 @@
         <link href="https://bunshun.jp/articles/-/48139"/>
         <updated>2021-08-25T07:34:00.000Z</updated>
         <summary type="html"><![CDATA[横浜市の副市長を務める平原敏英氏（62）が、カジノIR構想への参入を狙う業者から、2016年当時、度々高級料亭で接待を受けていたことが森功氏（ノンフィクション作家）の取材で分かった。森氏は業者側が後に参入計画を巡ってトラブルになり民事調停を行った際の資料を入手。そこには接待の詳細な記録や、費用を負担した...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープン化が進むC++の現状と展望 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang</id>
+        <link href="https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang"/>
+        <updated>2021-08-25T07:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Transcript オープン化が進むC++の 現状と展望 ⾼橋 晶 (Akira Takahashi) cpp_akira@Twitter faithandbrave@GitHub 2021/08/25 (⽔) OSS X Users Meeting #31 ⾃⼰紹介 • ⾼橋 晶 (Akira Takahashi) • C++⽇本語リファレンスサイトcpprefjp のコアメンバ • C++の勉強会C++ MIXの運営 • 著書 • 『C++テンプレートテクニ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者インタビュー]]></title>
-        <id>https://www.dtmstation.com/archives/45880.html</id>
-        <link href="https://www.dtmstation.com/archives/45880.html"/>
-        <updated>2021-08-25T01:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Home VOCALOID・歌声合成・音声合成 なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者、Kanru Huaさんインタビュー 2021/08/25 なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者、Kanru Huaさんインタビュー 2018年のクリス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「四川料理のスゴい人」これまでの全レシピ14品目の振り返り＆総まとめ - メシ通 | ホットペッパーグルメ]]></title>
         <id>https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545</id>
         <link href="https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545"/>
@@ -251,16 +261,6 @@
         <link href="https://qiita.com/k__watanabe/items/0dc5b31ea960db118926"/>
         <updated>2021-08-25T00:15:52.000Z</updated>
         <summary type="html"><![CDATA[Help us understand the problem. What is going on with this article?]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トヨタ新型ランクル、電動化見送り「生きて帰るため」: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUC178WH0X10C21A8000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUC178WH0X10C21A8000000/"/>
-        <updated>2021-08-24T23:16:47.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら トヨタ自動車が14年ぶりに全面改良して発売した新型の多目的スポーツ車（SUV）「ランドクルーザー」。気になるのは、電動化という時代の大潮流に逆行するようなパワー...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

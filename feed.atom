@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T18:13:56.242Z</id>
+    <id>urn:2021-08-25T19:09:54.499Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T18:13:56.242Z</updated>
+    <updated>2021-08-25T19:09:54.499Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[首相「明かりは見え始めている」…ワクチンは「デルタ株にも効果」と強調（読売新聞オンライン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/bf8202d737d64169757f5bc2ab3a0e02594dbc42</id>
+        <link href="https://news.yahoo.co.jp/articles/bf8202d737d64169757f5bc2ab3a0e02594dbc42"/>
+        <updated>2021-08-25T14:59:12.000Z</updated>
+        <summary type="html"><![CDATA[菅首相は２５日夜、新型コロナウイルス対策として緊急事態宣言の追加発令などを決めたことを受け、首相官邸で記者会見した。首相は「国民の協力をいただきながらこの危機を何としても乗り越えていく」と述べた。そのうえで、１兆４０００億円の予備費の使用を週内に決定することを明らかにした。 【動画】菅首相の似顔絵...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[News Up フジロックから考える コロナ禍の“分断” | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html</id>
@@ -51,6 +61,16 @@
         <link href="https://anond.hatelabo.jp/20210825190424"/>
         <updated>2021-08-25T10:04:34.000Z</updated>
         <summary type="html"><![CDATA[あぶない刑事の木の実ナナとか。 新鮮組！の堺雅人さんとか。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[調布のワクチン地域接種のローカルルールを告発したい]]></title>
+        <id>https://anond.hatelabo.jp/20210825174800</id>
+        <link href="https://anond.hatelabo.jp/20210825174800"/>
+        <updated>2021-08-25T08:59:24.000Z</updated>
+        <summary type="html"><![CDATA[私は都内で働く内科医である。 ここ数か月ワクチン接種問診バイトというものが医師求人サイトに掲載されており、私も時間が空くと勤務している。 主な仕事は問診し接種可能か不可能かを判断し、可能な場合は接種後の待機時間を15分か30分か判断することである。 判断基準は厚生労働省が発布する手引き（https://www.mhlw...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尾身会長 “新学期の開始時期の延期も検討すべき” 衆院厚労委 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210825/k10013221941000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013221941000.html"/>
-        <updated>2021-08-25T03:03:09.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの子どもへの感染が増える中、政府の分科会の尾身会長は、衆議院厚生労働委員会で、学校が再開されれば感染が拡大し、さらに医療がひっ迫するおそれがあるとして、自治体の判断で、新学期の開始時期の延期も検討すべきだという考えを示しました。 この中で、尾身会長は、現在の感染状況について「東京...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人殺しの顔をすれば旅行やフェスに行ってもいいんだよね？]]></title>
         <id>https://anond.hatelabo.jp/20210825104747</id>
         <link href="https://anond.hatelabo.jp/20210825104747"/>
@@ -271,16 +281,6 @@
         <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html"/>
         <updated>2021-08-24T22:09:51.000Z</updated>
         <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大江千里氏が「ラーメン1杯2200円」の米国から語る、安い日本の深刻問題 | 週刊ダイヤモンド特集セレクション | ダイヤモンド・オンライン]]></title>
-        <id>https://diamond.jp/articles/-/280295</id>
-        <link href="https://diamond.jp/articles/-/280295"/>
-        <updated>2021-08-24T20:05:44.000Z</updated>
-        <summary type="html"><![CDATA[週刊ダイヤモンド特集セレクション 「週刊ダイヤモンド」の特集バックナンバーから、タイムリーな記事を再編集してお届けします。 バックナンバー一覧 今や先進国でも賃金の低い国になってしまった日本。ポップミュージシャンからジャズマンに大胆転身し、米国で活躍する大江千里氏は、「日本は賃金や物価が安くなるにつ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T08:13:47.182Z</id>
+    <id>urn:2021-08-25T09:12:06.012Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T08:13:47.182Z</updated>
+    <updated>2021-08-25T09:12:06.012Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 4228人感染確認 重症患者は277人で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210825/k10013222421000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013222421000.html"/>
+        <updated>2021-08-25T07:49:04.000Z</updated>
+        <summary type="html"><![CDATA[東京都は25日、都内で新たに4228人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の水曜日より1158人減りました。 25日までの7日間平均は4471.4人で、前の週の95.2％となり、減少しました。 7日間平均が前の週を下回るのは、ことし6月19日以来です。 一方、都の基準で集計した25日時点の重...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『Nevermind』のカヴァー・ベイビー、ニルヴァーナを児童ポルノで提訴 - amass]]></title>
         <id>https://amass.jp/150220/</id>
@@ -191,16 +201,6 @@
         <link href="https://www.publickey1.jp/blog/21/2021nftaiml.html"/>
         <updated>2021-08-24T14:40:09.000Z</updated>
         <summary type="html"><![CDATA[ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど 米調査会社のガートナーは、「先進テクノロジのハイプ・サイクル：2021年」を発表しました。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青春18きっぷの旅、食費や宿泊代を考えると新幹線の方が安いのでは？→気づいた瞬間が青春の終わり - Togetter]]></title>
-        <id>https://togetter.com/li/1764508</id>
-        <link href="https://togetter.com/li/1764508"/>
-        <updated>2021-08-24T14:16:29.000Z</updated>
-        <summary type="html"><![CDATA[まっち💫 COMITIA137 J04a💉 @fullmalion 「あれ？青春18きっぷで移動したら、途中の食費とか宿泊代とかかって、トータルで考えると新幹線のほうが安くね？」と気づいた瞬間、青春は終わるのだ。 そして君はエクスプレス予約会員になる。 2021-08-24 00:06:59 リンク JR東日本：東日本旅客鉄道株式会社 おトクなきっぷ：...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

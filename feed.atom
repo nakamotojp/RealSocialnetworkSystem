@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T19:09:54.499Z</id>
+    <id>urn:2021-08-25T20:12:54.511Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T19:09:54.499Z</updated>
+    <updated>2021-08-25T20:12:54.511Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,26 @@
         <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html"/>
         <updated>2021-08-25T12:54:19.000Z</updated>
         <summary type="html"><![CDATA[国内最大級のロックの祭典「フジロックフェスティバル」 新型コロナの影響で、2年ぶりの開催となりました。 アーティストは、出演するか、取りやめるか。 観客も、現地に行くか、オンライン配信で見るか。 対応は分かれました。 新型コロナの感染が確認されてから1年半。 “分断”を生まないために、何が必要なのでしょう...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3大イラッとする誤字]]></title>
+        <id>https://anond.hatelabo.jp/20210825132748</id>
+        <link href="https://anond.hatelabo.jp/20210825132748"/>
+        <updated>2021-08-25T11:17:07.000Z</updated>
+        <summary type="html"><![CDATA[ワクチン摂取 永遠と あと1つ何？]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん」→医者「21世紀の日本でこんな病気なる人いないよ！！！！！」 - Togetter]]></title>
+        <id>https://togetter.com/li/1764894</id>
+        <link href="https://togetter.com/li/1764894"/>
+        <updated>2021-08-25T11:14:13.000Z</updated>
+        <summary type="html"><![CDATA[詩秘 恵瑠 / CPL @sh1p1_ele 20歳ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん天才かな？あれっ体がだるくて足に違和感があるぞ」 医者「何やってんのあんた！21世紀の日本でこんな病気なる人いないよ！！！！！」 2021-08-24 09:19:51]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -190,7 +210,7 @@
         <id>https://mainichi.jp/articles/20210825/k00/00m/010/176000c</id>
         <link href="https://mainichi.jp/articles/20210825/k00/00m/010/176000c"/>
         <updated>2021-08-25T04:14:40.000Z</updated>
-        <summary type="html"><![CDATA[政府の新型コロナウイルス感染症対策分科会の尾身茂会長は25日の衆院厚生労働委員会の閉会中審査で、東京パラリンピック開会式のために再来日した国際オリンピック委員会（IOC）のバッハ会長について、「なんで来るのか。銀座も1回行ったはずだ。必要ならなぜオンラインでできないのか」と批判した。 立憲民主党の尾辻か...]]></summary>
+        <summary type="html"><![CDATA[警護がつく中、東京・銀座を歩くIOCのバッハ会長（中央）＝東京都中央区で2021年8月9日午後4時6分（読者提供） 政府の新型コロナウイルス感染症対策分科会の尾身茂会長は25日の衆院厚生労働委員会の閉会中審査で、東京パラリンピック開会式のために再来日した国際オリンピック委員会（IOC）のバッハ会長について、「なん...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +241,6 @@
         <link href="https://anond.hatelabo.jp/20210825122148"/>
         <updated>2021-08-25T03:28:01.000Z</updated>
         <summary type="html"><![CDATA[「ゲイでもない異性愛者の男性達が女性を除け者にして仲良くしているのが気に食わん」って事？ 「異性愛者の男は全てのゲイと女性を馬鹿にしている差別主義者で謝罪すべきである、反省して自分達がゲイと認めてホモセックスしろ」って言いたいの？ でも貴方達BL好きな腐女子って男所帯の集団に女性が混じったら率先して...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尾身氏、バッハ会長を批判　再来日「なぜわざわざ」 ｜ 共同通信]]></title>
-        <id>https://nordot.app/803101478848233472</id>
-        <link href="https://nordot.app/803101478848233472"/>
-        <updated>2021-08-25T03:21:10.000Z</updated>
-        <summary type="html"><![CDATA[衆院厚労委の閉会中審査で答弁する新型コロナ感染症対策分科会の尾身茂会長。右手前は田村厚労相＝25日午前 政府の新型コロナウイルス感染症対策分科会の尾身茂会長は25日の衆院厚生労働委員会で、国際オリンピック委員会（IOC）のバッハ会長が再来日したことについて「なんでわざわざ来るのか。常識で判断できるはずだ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,16 +291,6 @@
         <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html"/>
         <updated>2021-08-24T22:09:51.000Z</updated>
         <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB特集 念願の正社員、でも「安かった」 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210824/k10013219431000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210824/k10013219431000.html"/>
-        <updated>2021-08-24T12:12:54.000Z</updated>
-        <summary type="html"><![CDATA[正社員として働いていて、自分が1時間あたり、いくらで働いているか計算してみたことはありますか。 「あれ、これ、ほぼ最低賃金だ…」 都内で働く25歳の女性は、あらためて自分の給与を計算してショックを受けました。 「正社員でも自立した生活が送れない」 そんな人たちが、今、日本で増えていると言います。 （社会部...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

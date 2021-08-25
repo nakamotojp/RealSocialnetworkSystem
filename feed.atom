@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T14:11:17.405Z</id>
+    <id>urn:2021-08-25T15:12:49.155Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T14:11:17.405Z</updated>
+    <updated>2021-08-25T15:12:49.155Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[News Up フジロックから考える コロナ禍の“分断” | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html"/>
+        <updated>2021-08-25T12:54:19.000Z</updated>
+        <summary type="html"><![CDATA[国内最大級のロックの祭典「フジロックフェスティバル」 新型コロナの影響で、2年ぶりの開催となりました。 アーティストは、出演するか、取りやめるか。 観客も、現地に行くか、オンライン配信で見るか。 対応は分かれました。 新型コロナの感染が確認されてから1年半。 “分断”を生まないために、何が必要なのでしょう...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「国会の議論もオンライン化を」尾身会長が提言（テレビ朝日系（ANN）） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266</id>
@@ -21,6 +31,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html"/>
         <updated>2021-08-25T10:15:56.000Z</updated>
         <summary type="html"><![CDATA[出演者が痛がる様子を笑いの対象にするようなバラエティー番組の演出について、BPO＝放送倫理・番組向上機構は、青少年に与える影響の重大性を考慮して審議することを決めました。 BPOによりますと出演者に痛がるような行為をしかけ、その様子をみんなで笑うようなバラエティー番組について、視聴者などから「不快に思う...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ米前大統領、集会で支持者にワクチン接種推奨してブーイング - ハリウッド : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/entertainment/news/202108240000268.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=nikkansports_ogp</id>
+        <link href="https://www.nikkansports.com/entertainment/news/202108240000268.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=nikkansports_ogp"/>
+        <updated>2021-08-25T08:42:04.000Z</updated>
+        <summary type="html"><![CDATA[米アラバマ州で集会を開いたトランプ米前大統領が21日、集まった支持者に新型コロナウイルスのワクチン接種を推奨してブーイングを浴びたと米USAトゥデイ紙などが報じた。 昨年10月にメラニア夫人と共に新型コロナに感染して入院治療を受けていたトランプ氏は、退任前の今年1月にいち早くワクチンを接種していたが、その...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,31 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[家具購入に公費1千万円　市長「なぜ問題？理解苦しむ」：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8S6WZQP8SUDCB009.html</id>
-        <link href="https://www.asahi.com/articles/ASP8S6WZQP8SUDCB009.html"/>
-        <updated>2021-08-25T00:15:45.000Z</updated>
-        <summary type="html"><![CDATA[千葉県市川市庁舎の市長室の家具購入費が約1千万円だったことについて、村越祐民市長は24日の会見で「市長室の什器（じゅうき、家具）に関しては議会で決裁し、正式な手続きを踏んで調達を行っている。特段問題はない」との認識を示した。 家具は昨夏の市庁舎完成に合わせて購入され、市長の執務机約157万円、執務用イス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[トヨタ新型ランクル、電動化見送り「生きて帰るため」: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUC178WH0X10C21A8000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOUC178WH0X10C21A8000000/"/>
         <updated>2021-08-24T23:16:47.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら トヨタ自動車が14年ぶりに全面改良して発売した新型の多目的スポーツ車（SUV）「ランドクルーザー」。気になるのは、電動化という時代の大潮流に逆行するようなパワー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お互いに集合場所とか決めて殺しあえばいいのに]]></title>
-        <id>https://anond.hatelabo.jp/20210825071059</id>
-        <link href="https://anond.hatelabo.jp/20210825071059"/>
-        <updated>2021-08-24T23:12:02.000Z</updated>
-        <summary type="html"><![CDATA[いつも君たち、イライラしてたり延々と終わらない罵倒合戦してるよね ならもう互いの住所教え合ったり集合場所決めて、直接出向いて殺しあえばいいのに 気に食わないやつを血だるまにしたら気持ちがいいだろうし、永遠に対抗意見を一つ封殺し、自分に生意気な口を聞いた輩が泣きながら命乞いする様を見れるかもしれない...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

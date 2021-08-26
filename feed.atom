@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T09:11:51.412Z</id>
+    <id>urn:2021-08-26T10:13:34.603Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T09:11:51.412Z</updated>
+    <updated>2021-08-26T10:13:34.603Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210826/k10013224641000.html"/>
         <updated>2021-08-26T07:51:15.000Z</updated>
         <summary type="html"><![CDATA[東京都内では26日、新たに4704人が新型コロナウイルスに感染していることが確認されました。1週間前の木曜日より830人減り、4日連続で前の週の同じ曜日を下回りました。また、都は感染が確認された11人が死亡したことを明らかにしました。 東京都は、26日都内で新たに10歳未満から100歳以上までの男女合わせて4704人が新...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「どんな文章も3行に要約するAI」デモサイト、東大松尾研発ベンチャーが公開　「正確性は人間に匹敵」 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/26/news134.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/26/news134.html"/>
+        <updated>2021-08-26T07:48:43.000Z</updated>
+        <summary type="html"><![CDATA[文章の「3行要約」を生成するAIのデモサイトを、東大・松尾豊研究室発のAIベンチャーが公開。会話文の要約も得意だ。要約の正確性は「人間に匹敵する」という。 東京大学・松尾豊研究室発のAIベンチャーELYZA（イライザ／東京都文京区）は8月26日、文章の要約文を生成するAI「ELYZA DIGEST」を試せるデモサイトを公開し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html"/>
         <updated>2021-08-25T10:15:56.000Z</updated>
         <summary type="html"><![CDATA[出演者が痛がる様子を笑いの対象にするようなバラエティー番組の演出について、BPO＝放送倫理・番組向上機構は、青少年に与える影響の重大性を考慮して審議することを決めました。 BPOによりますと出演者に痛がるような行為をしかけ、その様子をみんなで笑うようなバラエティー番組について、視聴者などから「不快に思う...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年のフジロックに参加して｜有泉智子｜note]]></title>
-        <id>https://note.com/tomokoariizumi/n/n345a06bff596</id>
-        <link href="https://note.com/tomokoariizumi/n/n345a06bff596"/>
-        <updated>2021-08-25T02:54:12.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

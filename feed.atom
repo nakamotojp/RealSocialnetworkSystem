@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T00:37:01.236Z</id>
+    <id>urn:2021-08-26T01:49:47.190Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T00:37:01.236Z</updated>
+    <updated>2021-08-26T01:49:47.190Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[塩つぶサイズのチップを注射で埋め込み　超音波で電力供給と無線通信実現：Innovative Tech - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/26/news045.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/26/news045.html"/>
+        <updated>2021-08-25T23:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 米コロンビア大学とオランダ・デルフト工科大学の研究チームが開発した「Application of a sub–0.1-mm3 implantable mote for in ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ファスト映画」公開 1000万円超の賠償金で映画会社と和解 | 事件 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210826/k10013223621000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210826/k10013223621000.html"/>
+        <updated>2021-08-25T22:13:51.000Z</updated>
+        <summary type="html"><![CDATA[映画の内容を無断で10分程度にまとめてストーリーを明かす「ファスト映画」と呼ばれる違法な動画の公開をめぐり、著作権法違反の疑いで摘発されたグループの1人が、1000万円を超える賠償金を支払うことを条件に映画会社の1社と和解したことがわかりました。 「ファスト映画」は、映画の映像を無断で使用し字幕やナレーシ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナ: 地方に感染急拡大　43都道府県、新規感染者ステージ4に: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/</id>
@@ -21,6 +41,16 @@
         <link href="https://gendai.ismedia.jp/articles/-/86584"/>
         <updated>2021-08-25T21:49:17.000Z</updated>
         <summary type="html"><![CDATA[今後の未来像は 予防接種という行為は、接種者自身はもちろんのこと、それ以外の方の感染機会を減らすことに繋がる。そのため、そのような間接的な防御が人口内で積み重なり、流行自体を防ぐ効果が得られたものを集団免疫効果と呼ぶ。そして、流行排除のための閾値について、従来株の場合、予防接種率が60％超程度ではな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東映の時価総額、東映アニメの半分　親子上場放置のつけ: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC185TW0Y1A810C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC185TW0Y1A810C2000000/"/>
+        <updated>2021-08-25T21:12:38.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 東映が主力の映画事業の価値向上を問われている。新型コロナ禍で映画事業は不振が続く一方、アニメを手がける上場子会社、東映アニメーションは海外コンテンツ事業が好...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -106,11 +136,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[level=0 から始める PHPStan(Larastan) 導入ガイド - Shin x Blog]]></title>
-        <id>https://blog.shin1x1.com/entry/getting-stated-with-phpstan</id>
-        <link href="https://blog.shin1x1.com/entry/getting-stated-with-phpstan"/>
-        <updated>2021-08-25T13:04:18.000Z</updated>
-        <summary type="html"><![CDATA[PHP にはアプリケーションを実行せずに静的にコード品質をチェックする静的解析ツールがいくつかあります。有名なところでは、PHPStan や Psalm、Phan、PHPMD などがあります。本エントリでは、まだこうした静的解析ツールを導入していないプロジェクト向けに PHPStan 導入の流れをまとめてみました。 3(4) 行まとめ サ...]]></summary>
+        <title type="html"><![CDATA[オンライン会議と混同　首相、テレワークの質問に ｜ 共同通信]]></title>
+        <id>https://nordot.app/803270265040158720</id>
+        <link href="https://nordot.app/803270265040158720"/>
+        <updated>2021-08-25T14:40:53.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相が25日の記者会見でテレワークについて問われた際、オンライン会議と取り違えて回答する一幕があった。終了前になって「混同してお答えしてしまった。おわび申し上げたい」と陳謝した。自ら推進を呼び掛ける新型コロナウイルス対策を巡り認識不足を露呈した格好だ。 首相は質問に対し「テレワークは率先してや...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,6 +246,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[電子書籍は漫画家にどんな夢を見せるのか？｜星野茂樹｜note]]></title>
+        <id>https://note.com/kotonakare/n/n75b5a8e28014</id>
+        <link href="https://note.com/kotonakare/n/n75b5a8e28014"/>
+        <updated>2021-08-25T09:11:04.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[調布のワクチン地域接種のローカルルールを告発したい]]></title>
         <id>https://anond.hatelabo.jp/20210825174800</id>
         <link href="https://anond.hatelabo.jp/20210825174800"/>
@@ -246,51 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[オープン化が進むC++の現状と展望 - Speaker Deck]]></title>
-        <id>https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang</id>
-        <link href="https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang"/>
-        <updated>2021-08-25T07:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Transcript オープン化が進むC++の 現状と展望 ⾼橋 晶 (Akira Takahashi) cpp_akira@Twitter faithandbrave@GitHub 2021/08/25 (⽔) OSS X Users Meeting #31 ⾃⼰紹介 • ⾼橋 晶 (Akira Takahashi) • C++⽇本語リファレンスサイトcpprefjp のコアメンバ • C++の勉強会C++ MIXの運営 • 著書 • 『C++テンプレートテクニ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Nevermind』のカヴァー・ベイビー、ニルヴァーナを児童ポルノで提訴 - amass]]></title>
-        <id>https://amass.jp/150220/</id>
-        <link href="https://amass.jp/150220/"/>
-        <updated>2021-08-25T05:16:10.000Z</updated>
-        <summary type="html"><![CDATA[ニルヴァーナ（Nirvana）のメンバーと、カート・コバーン（Kurt Cobain）の遺産を管理するエステートは、アルバム『Nevermind』のジャケット・カヴァーに赤ん坊として登場したスペンサー・エルデンから訴えられたと報じられています。エルデンは、バンドが連邦児童ポルノ法に違反し、児童の性的搾取を行ったと主張してい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナ感染 人工呼吸器６日間眠り続け生還の記録 | NHK政治マガジン]]></title>
-        <id>https://www.nhk.or.jp/politics/articles/feature/66133.html</id>
-        <link href="https://www.nhk.or.jp/politics/articles/feature/66133.html"/>
-        <updated>2021-08-25T03:55:51.000Z</updated>
-        <summary type="html"><![CDATA[夜中も響く電子音、指先には24時間酸素飽和度を測る機器がついている。 53歳。NHKで選挙報道の仕事をしている私は、新型コロナウイルス感染症により7月下旬から1か月間都内の病院に入院した。肺炎で一時重症にもなり、6日間人工呼吸器につながり眠り続けた。 いま、自宅療養者が十分な医療を受けられないことが問題とな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[若冲のデコトラに乗った布袋がキルビルを弾く「パラリンピック開会式」がまさに求めていたものすぎた - Togetter]]></title>
-        <id>https://togetter.com/li/1764795</id>
-        <link href="https://togetter.com/li/1764795"/>
-        <updated>2021-08-25T03:32:48.000Z</updated>
-        <summary type="html"><![CDATA[iek @iekiek1984 パラリンピック開会式の流れ 片翼の飛行機「わたしは飛べないの(´・ω・`)」 仲間たち「わたしは目が見えないけど飛べたよ！」「ワイは小さいけど飛べたで！」 片翼の飛行機「でもなぁ…(´・ω・`)」 デコトラに乗ったHOTEI「俺のギターを聴け！」ｷﾞｭﾜｰﾝ 片翼の飛行機「よし、飛ぶ！！(`・ω・´)」 2021-08-...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「四川料理のスゴい人」これまでの全レシピ14品目の振り返り＆総まとめ - メシ通 | ホットペッパーグルメ]]></title>
-        <id>https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545</id>
-        <link href="https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545"/>
-        <updated>2021-08-25T01:33:58.000Z</updated>
-        <summary type="html"><![CDATA[人長さんのこれまでの記事を総ざらい 「四川料理のスゴい人」こと、日本橋の四川料理店リバヨンアタック料理長・人長良次さん。 人長さんのレシピを集めた書籍も絶賛発売中です。 ▼人長さん初の著書『四川料理のスゴい人 自宅でつくる本格中華レシピ』（三才ブックス） www.sansaibooks.co.jp これまで『メシ通』でもさ...]]></summary>
+        <title type="html"><![CDATA[＜インタビュー＞荒木飛呂彦『ジョジョ』シリーズでともに歩んできたプリンスを語る | Special | Billboard JAPAN]]></title>
+        <id>https://www.billboard-japan.com/special/detail/3283</id>
+        <link href="https://www.billboard-japan.com/special/detail/3283"/>
+        <updated>2021-08-25T04:20:52.000Z</updated>
+        <summary type="html"><![CDATA[プリンスが急逝してから早5年――今もなお、世界中のアーティストやリスナーを虜にしている孤高の天才が、2010年にレコーディングしたものの、お蔵入りにしていた“幻のアルバム”『ウェルカム・2・アメリカ』が、11年の時を経てリリースされた。そこには、彼が長年頭を悩ませてきたマスメディアによる情報のコントロールや...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

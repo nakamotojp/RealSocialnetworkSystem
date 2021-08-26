@@ -6,6 +6,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/26/news045.html",
+          "author": null,
+          "description": "Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 米コロンビア大学とオランダ・デルフト工科大学の研究チームが開発した「Application of a sub–0.1-mm3 implantable mote for in ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/26/news045.html",
+          "publishedOn": "2021-08-25T23:06:34.000Z",
+          "wordCount": 171,
+          "title": "塩つぶサイズのチップを注射で埋め込み　超音波で電力供給と無線通信実現：Innovative Tech - ITmedia NEWS"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210826/k10013223621000.html",
+          "author": null,
+          "description": "映画の内容を無断で10分程度にまとめてストーリーを明かす「ファスト映画」と呼ばれる違法な動画の公開をめぐり、著作権法違反の疑いで摘発されたグループの1人が、1000万円を超える賠償金を支払うことを条件に映画会社の1社と和解したことがわかりました。 「ファスト映画」は、映画の映像を無断で使用し字幕やナレーシ...",
+          "link": "https://www3.nhk.or.jp/news/html/20210826/k10013223621000.html",
+          "publishedOn": "2021-08-25T22:13:51.000Z",
+          "wordCount": 24,
+          "title": "「ファスト映画」公開 1000万円超の賠償金で映画会社と和解 | 事件 | NHKニュース"
+        },
+        {
           "id": "https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/",
           "author": null,
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新型コロナウイルス感染拡大の「第5波」が全国に波及している。インド型（デルタ型）変異ウイルスが地方に広がり、43都道府県で新規感染者数が国基準で最も深刻な「ス...",
@@ -24,12 +42,21 @@
           "title": "西浦博教授が考える「ワクチン接種が進む日本」でこれから先に見込まれる“展開”（西浦 博） | 現代ビジネス | 講談社（1/5）"
         },
         {
+          "id": "https://www.nikkei.com/article/DGXZQOUC185TW0Y1A810C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 東映が主力の映画事業の価値向上を問われている。新型コロナ禍で映画事業は不振が続く一方、アニメを手がける上場子会社、東映アニメーションは海外コンテンツ事業が好...",
+          "link": "https://www.nikkei.com/article/DGXZQOUC185TW0Y1A810C2000000/",
+          "publishedOn": "2021-08-25T21:12:38.000Z",
+          "wordCount": 124,
+          "title": "東映の時価総額、東映アニメの半分　親子上場放置のつけ: 日本経済新聞"
+        },
+        {
           "id": "https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html",
           "author": null,
           "description": "4度目となる緊急事態宣言下では、新型コロナウイルスの感染状況が改善する兆しが見えなかった。7月下旬、政府は宣言の対象を拡大、延長する検討に入った。政府に助言する専門家たちには「リーダーの言葉が国民に届いていない」と、菅義偉首相の発信に対する不満が広がっていた。 「国民の気持ちに寄り添うようなメッセー...",
           "link": "https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html",
           "publishedOn": "2021-08-25T21:10:58.000Z",
-          "wordCount": 233,
+          "wordCount": 232,
           "title": "首相「圧倒的にうまくやってる」　目を背けた厳しい現実：朝日新聞デジタル"
         },
         {
@@ -56,7 +83,7 @@
           "description": "ファイザー製の新型コロナウイルスのワクチン接種後にできる、ウイルスに対抗するための抗体の量は、１回目接種の３か月後には、４分の１に減ったことがわかりました。それでも、自然感染で得られる抗体よりは多い量だということです。 藤田医科大学は、ファイザー製のワクチンを接種した職員２０９人について、新型コロ...",
           "link": "https://news.yahoo.co.jp/articles/5b4b207dc3dca45c3f6d53a0d0afc0d4171335cb",
           "publishedOn": "2021-08-25T17:45:10.000Z",
-          "wordCount": 74,
+          "wordCount": 70,
           "title": "ファイザー“抗体量”３か月後４分の１に減（日本テレビ系（NNN）） - Yahoo!ニュース"
         },
         {
@@ -65,7 +92,7 @@
           "description": "ねえね　猫の座布団 @Doragonsyoten 「誰もが文字が書いてあると反射的に読むわけではない」ってのは文字があると全部読む族の人には盲点だったりするんよな。家庭内に対面口語コミュニケーションしかなかった人達ってのはわりと多いんよ。そして親が文字読まないと子供もそれを読む習慣はつかないらしいんよね。 2021-0...",
           "link": "https://togetter.com/li/1765035",
           "publishedOn": "2021-08-25T16:42:31.000Z",
-          "wordCount": 977,
+          "wordCount": 1114,
           "title": "「誰もが文字が書いてあると反射的に読むわけではない」ってのは､文字があると全部読む族の人には盲点だったりする - Togetter"
         },
         {
@@ -83,7 +110,7 @@
           "description": "記憶が鮮明なうちに記録しておくのはいいかもしれない、と思ったので書く。 スペック30代後半都内のIT系企業で働くwebエンジニアリモートワーク仕事関係の人間関係は良好（だと思う）友達少ない。恋人3年超いない。インテリアは特に詳しくない。 賃貸派だった理由色んな街に住むのが楽しい。 出身が地方だったこともあり...",
           "link": "https://anond.hatelabo.jp/20210825234710",
           "publishedOn": "2021-08-25T15:02:53.000Z",
-          "wordCount": 148,
+          "wordCount": 157,
           "title": "独身アラフォーwebエンジニアが中古マンションを買ってリノベした"
         },
         {
@@ -92,17 +119,17 @@
           "description": "菅首相は２５日夜、新型コロナウイルス対策として緊急事態宣言の追加発令などを決めたことを受け、首相官邸で記者会見した。首相は「国民の協力をいただきながらこの危機を何としても乗り越えていく」と述べた。そのうえで、１兆４０００億円の予備費の使用を週内に決定することを明らかにした。 【動画】菅首相の似顔絵...",
           "link": "https://news.yahoo.co.jp/articles/bf8202d737d64169757f5bc2ab3a0e02594dbc42",
           "publishedOn": "2021-08-25T14:59:12.000Z",
-          "wordCount": 67,
+          "wordCount": 63,
           "title": "首相「明かりは見え始めている」…ワクチンは「デルタ株にも効果」と強調（読売新聞オンライン） - Yahoo!ニュース"
         },
         {
-          "id": "https://blog.shin1x1.com/entry/getting-stated-with-phpstan",
+          "id": "https://nordot.app/803270265040158720",
           "author": null,
-          "description": "PHP にはアプリケーションを実行せずに静的にコード品質をチェックする静的解析ツールがいくつかあります。有名なところでは、PHPStan や Psalm、Phan、PHPMD などがあります。本エントリでは、まだこうした静的解析ツールを導入していないプロジェクト向けに PHPStan 導入の流れをまとめてみました。 3(4) 行まとめ サ...",
-          "link": "https://blog.shin1x1.com/entry/getting-stated-with-phpstan",
-          "publishedOn": "2021-08-25T13:04:18.000Z",
-          "wordCount": 1105,
-          "title": "level=0 から始める PHPStan(Larastan) 導入ガイド - Shin x Blog"
+          "description": "菅義偉首相が25日の記者会見でテレワークについて問われた際、オンライン会議と取り違えて回答する一幕があった。終了前になって「混同してお答えしてしまった。おわび申し上げたい」と陳謝した。自ら推進を呼び掛ける新型コロナウイルス対策を巡り認識不足を露呈した格好だ。 首相は質問に対し「テレワークは率先してや...",
+          "link": "https://nordot.app/803270265040158720",
+          "publishedOn": "2021-08-25T14:40:53.000Z",
+          "wordCount": 41,
+          "title": "オンライン会議と混同　首相、テレワークの質問に ｜ 共同通信"
         },
         {
           "id": "https://togetter.com/li/1764952",
@@ -110,7 +137,7 @@
           "description": "これまでのあらすじ 1、安久工機に工場見学希望の電話が 2、電話主の息子さん（小学生）が人工心臓に興味を持っているとのこと 3、さらに詳しく話を聞くと、少年の知識のガチさに現場パニック 4、安久工機、大喜びで工場見学を受け入れる 5、安久工機、少年の見学を成功させるべく万全の準備に取り組む",
           "link": "https://togetter.com/li/1764952",
           "publishedOn": "2021-08-25T13:02:17.000Z",
-          "wordCount": 811,
+          "wordCount": 832,
           "title": "『人工心臓ガチ勢の小学生』による安久工機の工場見学が実現！初日からフルパワーで対応する大人たちがステキ - Togetter"
         },
         {
@@ -137,7 +164,7 @@
           "description": "ワクチン摂取 永遠と あと1つ何？",
           "link": "https://anond.hatelabo.jp/20210825132748",
           "publishedOn": "2021-08-25T11:17:07.000Z",
-          "wordCount": 113,
+          "wordCount": 152,
           "title": "3大イラッとする誤字"
         },
         {
@@ -146,7 +173,7 @@
           "description": "詩秘 恵瑠 / CPL @sh1p1_ele 20歳ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん天才かな？あれっ体がだるくて足に違和感があるぞ」 医者「何やってんのあんた！21世紀の日本でこんな病気なる人いないよ！！！！！」 2021-08-24 09:19:51",
           "link": "https://togetter.com/li/1764894",
           "publishedOn": "2021-08-25T11:14:13.000Z",
-          "wordCount": 1380,
+          "wordCount": 1428,
           "title": "ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん」→医者「21世紀の日本でこんな病気なる人いないよ！！！！！」 - Togetter"
         },
         {
@@ -155,7 +182,7 @@
           "description": "例えば、カレーはルーの箱の裏に書いてある通りに作れば、一応及第点のものが出来る。 その上で、具を小間切れ肉と玉ねぎだけにしてしまえば、包丁使うのは玉ねぎ切るだけで煮込みは省略という、まさに簡単で美味しいレシピとなる。 このうち、特に重要なのが包丁を使う手間で、キッチンシンクが低すぎる状態で料理する...",
           "link": "https://anond.hatelabo.jp/20210825140256",
           "publishedOn": "2021-08-25T11:11:12.000Z",
-          "wordCount": 92,
+          "wordCount": 100,
           "title": "フレンチもイタリアンも敷居が高い"
         },
         {
@@ -164,7 +191,7 @@
           "description": "バイトして車買った。軽自動車だけどカスタムされてあるし車屋さんも「これは軽に見えないよ」って言ってくれてうれしかった。 友達同士でオレの車に乗って海に行こうぜってなって表題の件。 6人全員乗れるかって話になって、カスタムされてあるから大丈夫って言ってるのにグループの中でうるさい女が軽自動車は4人しか...",
           "link": "https://anond.hatelabo.jp/20210825132034",
           "publishedOn": "2021-08-25T11:10:39.000Z",
-          "wordCount": 127,
+          "wordCount": 133,
           "title": "女友達に660馬力の車乗ってるなんて男と思えないと言われた"
         },
         {
@@ -173,7 +200,7 @@
           "description": "テレワークを求める政治家に国会こそオンライン化するよう提言です。 政府新型コロナ分科会・尾身会長：「今こういう時期ですから、国会の議論もできる範囲でテレワーク、オンラインですね、それでやるとメッセージになる」 政府が経済界に対してテレワークなどで出勤者を7割削減するように求めているなか、政府の分科会...",
           "link": "https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266",
           "publishedOn": "2021-08-25T11:02:02.000Z",
-          "wordCount": 69,
+          "wordCount": 70,
           "title": "「国会の議論もオンライン化を」尾身会長が提言（テレビ朝日系（ANN）） - Yahoo!ニュース"
         },
         {
@@ -191,8 +218,17 @@
           "description": "あぶない刑事の木の実ナナとか。 新鮮組！の堺雅人さんとか。",
           "link": "https://anond.hatelabo.jp/20210825190424",
           "publishedOn": "2021-08-25T10:04:34.000Z",
-          "wordCount": 126,
+          "wordCount": 137,
           "title": "「登場が少ないけどぜったいに外せない脇役」っていうのある？"
+        },
+        {
+          "id": "https://note.com/kotonakare/n/n75b5a8e28014",
+          "author": null,
+          "description": "新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...",
+          "link": "https://note.com/kotonakare/n/n75b5a8e28014",
+          "publishedOn": "2021-08-25T09:11:04.000Z",
+          "wordCount": 158,
+          "title": "電子書籍は漫画家にどんな夢を見せるのか？｜星野茂樹｜note"
         },
         {
           "id": "https://anond.hatelabo.jp/20210825174800",
@@ -200,7 +236,7 @@
           "description": "私は都内で働く内科医である。 ここ数か月ワクチン接種問診バイトというものが医師求人サイトに掲載されており、私も時間が空くと勤務している。 主な仕事は問診し接種可能か不可能かを判断し、可能な場合は接種後の待機時間を15分か30分か判断することである。 判断基準は厚生労働省が発布する手引き（https://www.mhlw...",
           "link": "https://anond.hatelabo.jp/20210825174800",
           "publishedOn": "2021-08-25T08:59:24.000Z",
-          "wordCount": 90,
+          "wordCount": 98,
           "title": "調布のワクチン地域接種のローカルルールを告発したい"
         },
         {
@@ -218,53 +254,17 @@
           "description": "横浜市の副市長を務める平原敏英氏（62）が、カジノIR構想への参入を狙う業者から、2016年当時、度々高級料亭で接待を受けていたことが森功氏（ノンフィクション作家）の取材で分かった。森氏は業者側が後に参入計画を巡ってトラブルになり民事調停を行った際の資料を入手。そこには接待の詳細な記録や、費用を負担した...",
           "link": "https://bunshun.jp/articles/-/48139",
           "publishedOn": "2021-08-25T07:34:00.000Z",
-          "wordCount": 174,
+          "wordCount": 173,
           "title": "菅首相“側近”　横浜市副市長がカジノIR業者から高級料亭で61万円接待 | 文春オンライン"
         },
         {
-          "id": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
+          "id": "https://www.billboard-japan.com/special/detail/3283",
           "author": null,
-          "description": "Transcript オープン化が進むC++の 現状と展望 ⾼橋 晶 (Akira Takahashi) cpp_akira@Twitter faithandbrave@GitHub 2021/08/25 (⽔) OSS X Users Meeting #31 ⾃⼰紹介 • ⾼橋 晶 (Akira Takahashi) • C++⽇本語リファレンスサイトcpprefjp のコアメンバ • C++の勉強会C++ MIXの運営 • 著書 • 『C++テンプレートテクニ...",
-          "link": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
-          "publishedOn": "2021-08-25T07:33:13.000Z",
-          "wordCount": 563,
-          "title": "オープン化が進むC++の現状と展望 - Speaker Deck"
-        },
-        {
-          "id": "https://amass.jp/150220/",
-          "author": null,
-          "description": "ニルヴァーナ（Nirvana）のメンバーと、カート・コバーン（Kurt Cobain）の遺産を管理するエステートは、アルバム『Nevermind』のジャケット・カヴァーに赤ん坊として登場したスペンサー・エルデンから訴えられたと報じられています。エルデンは、バンドが連邦児童ポルノ法に違反し、児童の性的搾取を行ったと主張してい...",
-          "link": "https://amass.jp/150220/",
-          "publishedOn": "2021-08-25T05:16:10.000Z",
-          "wordCount": 47,
-          "title": "『Nevermind』のカヴァー・ベイビー、ニルヴァーナを児童ポルノで提訴 - amass"
-        },
-        {
-          "id": "https://www.nhk.or.jp/politics/articles/feature/66133.html",
-          "author": null,
-          "description": "夜中も響く電子音、指先には24時間酸素飽和度を測る機器がついている。 53歳。NHKで選挙報道の仕事をしている私は、新型コロナウイルス感染症により7月下旬から1か月間都内の病院に入院した。肺炎で一時重症にもなり、6日間人工呼吸器につながり眠り続けた。 いま、自宅療養者が十分な医療を受けられないことが問題とな...",
-          "link": "https://www.nhk.or.jp/politics/articles/feature/66133.html",
-          "publishedOn": "2021-08-25T03:55:51.000Z",
-          "wordCount": 149,
-          "title": "コロナ感染 人工呼吸器６日間眠り続け生還の記録 | NHK政治マガジン"
-        },
-        {
-          "id": "https://togetter.com/li/1764795",
-          "author": null,
-          "description": "iek @iekiek1984 パラリンピック開会式の流れ 片翼の飛行機「わたしは飛べないの(´・ω・`)」 仲間たち「わたしは目が見えないけど飛べたよ！」「ワイは小さいけど飛べたで！」 片翼の飛行機「でもなぁ…(´・ω・`)」 デコトラに乗ったHOTEI「俺のギターを聴け！」ｷﾞｭﾜｰﾝ 片翼の飛行機「よし、飛ぶ！！(`・ω・´)」 2021-08-...",
-          "link": "https://togetter.com/li/1764795",
-          "publishedOn": "2021-08-25T03:32:48.000Z",
-          "wordCount": 1077,
-          "title": "若冲のデコトラに乗った布袋がキルビルを弾く「パラリンピック開会式」がまさに求めていたものすぎた - Togetter"
-        },
-        {
-          "id": "https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545",
-          "author": null,
-          "description": "人長さんのこれまでの記事を総ざらい 「四川料理のスゴい人」こと、日本橋の四川料理店リバヨンアタック料理長・人長良次さん。 人長さんのレシピを集めた書籍も絶賛発売中です。 ▼人長さん初の著書『四川料理のスゴい人 自宅でつくる本格中華レシピ』（三才ブックス） www.sansaibooks.co.jp これまで『メシ通』でもさ...",
-          "link": "https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545",
-          "publishedOn": "2021-08-25T01:33:58.000Z",
-          "wordCount": 269,
-          "title": "「四川料理のスゴい人」これまでの全レシピ14品目の振り返り＆総まとめ - メシ通 | ホットペッパーグルメ"
+          "description": "プリンスが急逝してから早5年――今もなお、世界中のアーティストやリスナーを虜にしている孤高の天才が、2010年にレコーディングしたものの、お蔵入りにしていた“幻のアルバム”『ウェルカム・2・アメリカ』が、11年の時を経てリリースされた。そこには、彼が長年頭を悩ませてきたマスメディアによる情報のコントロールや...",
+          "link": "https://www.billboard-japan.com/special/detail/3283",
+          "publishedOn": "2021-08-25T04:20:52.000Z",
+          "wordCount": 1706,
+          "title": "＜インタビュー＞荒木飛呂彦『ジョジョ』シリーズでともに歩んできたプリンスを語る | Special | Billboard JAPAN"
         },
         {
           "id": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
@@ -272,7 +272,7 @@
           "description": "Help us understand the problem. What is going on with this article?",
           "link": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
           "publishedOn": "2021-08-25T00:15:52.000Z",
-          "wordCount": 592,
+          "wordCount": 595,
           "title": "フロントエンドの慣習のまとめ - Qiita"
         }
       ]

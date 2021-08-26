@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T03:13:32.252Z</id>
+    <id>urn:2021-08-26T04:15:46.251Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T03:13:32.252Z</updated>
+    <updated>2021-08-26T04:15:46.251Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,46 @@
         <link href="https://www.onecareer.jp/articles/2683"/>
         <updated>2021-08-26T01:43:06.000Z</updated>
         <summary type="html"><![CDATA[「インタビュアーは好きな人に会いに行けて良いですね、羨ましい」と編集者の友人に話したところ、彼は「では、企画を立てて、インタビューの機会をつくるので、好きな人へ一緒に会いに行きませんか？」と返してきた。羨ましいとは思いながら、誰に会いたいのかはっきりしたイメージのなかった私は答えに窮してしま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[そろそろRailsプロジェクトに型を導入したい人向けの資料]]></title>
+        <id>https://ksss.ink/blog/posts/10-ruby-type</id>
+        <link href="https://ksss.ink/blog/posts/10-ruby-type"/>
+        <updated>2021-08-26T01:35:00.000Z</updated>
+        <summary type="html"><![CDATA[すべての説明はイチRubyユーザーの個人的で期間も限定的な観測範囲に基づきます。 「Rubyには型がない」 ある日、同僚とプログラミング言語に関する雑談をしていたときに言われた一言です。 私はその日までRubyの型機能は使っていませんでした。忙しい毎日を送り、キャッチアップを疎かにしていたのです。後日このことは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火を使わずに湯を得る。サバイバル力を確実に上げる「湯作り」の技術 | となりのカインズさん]]></title>
+        <id>https://magazine.cainz.com/article/56242</id>
+        <link href="https://magazine.cainz.com/article/56242"/>
+        <updated>2021-08-26T01:08:13.000Z</updated>
+        <summary type="html"><![CDATA[馬場吉成 工業製造業系ライター。かつては光ファイバーや半導体関係の装置の設計とかをやっていたが、今はライターや飲食店経営。学生時代はプロボクサーだったことも。100kmぐらいなら自分の足で走ります。 突然お湯が必要になったらどうしますか？ こんにちは、工業製造業系ライターの馬場です。 災害でガスや電気が止...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NY州、コロナ死者数大幅上積み　累計5万5000人　新知事発表 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210826/k00/00m/030/035000c</id>
+        <link href="https://mainichi.jp/articles/20210826/k00/00m/030/035000c"/>
+        <updated>2021-08-26T01:04:20.000Z</updated>
+        <summary type="html"><![CDATA[米東部ニューヨーク州のホークル新知事は、新型コロナウイルス感染による州の死者数について、クオモ前知事が正式に認めていなかった自宅での死亡など約1万2000人を新たに認定、死者数は累計で約5万5000人となった。米メディアが25日、伝えた。 セクハラ問題で辞任したクオモ氏に対しては、新型コロナの死者数を過少発表...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勝川 俊雄 on Twitter: "菅さんの説明しない姿勢は、パンデミック下のリーダーとして失格です。しかしながら、菅政権が良い仕事をした部分は評価をする必要があります。世界中で争奪戦のワクチンを確保して、現在の接種数は世界第4位です。これは菅内閣の手腕に寄るところ… https://t.co/aNV9JYm9Tc"]]></title>
+        <id>https://twitter.com/katukawa/status/1430665116656103428</id>
+        <link href="https://twitter.com/katukawa/status/1430665116656103428"/>
+        <updated>2021-08-26T00:09:20.000Z</updated>
+        <summary type="html"><![CDATA[菅さんの説明しない姿勢は、パンデミック下のリーダーとして失格です。しかしながら、菅政権が良い仕事をした部分は評価をする必要があります。世界中で争奪戦のワクチンを確保して、現在の接種数は世界第4位です。これは菅内閣の手腕に寄るところ… https://t.co/aNV9JYm9Tc]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,31 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん」→医者「21世紀の日本でこんな病気なる人いないよ！！！！！」 - Togetter]]></title>
-        <id>https://togetter.com/li/1764894</id>
-        <link href="https://togetter.com/li/1764894"/>
-        <updated>2021-08-25T11:14:13.000Z</updated>
-        <summary type="html"><![CDATA[詩秘 恵瑠 / CPL @sh1p1_ele 20歳ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん天才かな？あれっ体がだるくて足に違和感があるぞ」 医者「何やってんのあんた！21世紀の日本でこんな病気なる人いないよ！！！！！」 2021-08-24 09:19:51]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[フレンチもイタリアンも敷居が高い]]></title>
         <id>https://anond.hatelabo.jp/20210825140256</id>
         <link href="https://anond.hatelabo.jp/20210825140256"/>
         <updated>2021-08-25T11:11:12.000Z</updated>
         <summary type="html"><![CDATA[例えば、カレーはルーの箱の裏に書いてある通りに作れば、一応及第点のものが出来る。 その上で、具を小間切れ肉と玉ねぎだけにしてしまえば、包丁使うのは玉ねぎ切るだけで煮込みは省略という、まさに簡単で美味しいレシピとなる。 このうち、特に重要なのが包丁を使う手間で、キッチンシンクが低すぎる状態で料理する...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女友達に660馬力の車乗ってるなんて男と思えないと言われた]]></title>
-        <id>https://anond.hatelabo.jp/20210825132034</id>
-        <link href="https://anond.hatelabo.jp/20210825132034"/>
-        <updated>2021-08-25T11:10:39.000Z</updated>
-        <summary type="html"><![CDATA[バイトして車買った。軽自動車だけどカスタムされてあるし車屋さんも「これは軽に見えないよ」って言ってくれてうれしかった。 友達同士でオレの車に乗って海に行こうぜってなって表題の件。 6人全員乗れるかって話になって、カスタムされてあるから大丈夫って言ってるのにグループの中でうるさい女が軽自動車は4人しか...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,41 +286,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「登場が少ないけどぜったいに外せない脇役」っていうのある？]]></title>
-        <id>https://anond.hatelabo.jp/20210825190424</id>
-        <link href="https://anond.hatelabo.jp/20210825190424"/>
-        <updated>2021-08-25T10:04:34.000Z</updated>
-        <summary type="html"><![CDATA[あぶない刑事の木の実ナナとか。 新鮮組！の堺雅人さんとか。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子書籍は漫画家にどんな夢を見せるのか？｜星野茂樹｜note]]></title>
-        <id>https://note.com/kotonakare/n/n75b5a8e28014</id>
-        <link href="https://note.com/kotonakare/n/n75b5a8e28014"/>
-        <updated>2021-08-25T09:11:04.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アニメ】アイドルマスターシリーズ コンセプトムービー2021『VOY@GER』【アイドルマスター】]]></title>
-        <id>https://www.youtube.com/watch?v=HJKqSYK_z0w</id>
-        <link href="https://www.youtube.com/watch?v=HJKqSYK_z0w"/>
-        <updated>2021-08-25T07:42:41.000Z</updated>
-        <summary type="html"><![CDATA[アイドルマスターシリーズ15周年のその先の未来へ向け、TVアニメ「アイドルマスター」チームが再集結。 錦織監督とCloverworksによる完全新作アニメーションコンセプトムービー。 本作はさらにスタジオカラーがビジュアル制作として制作に参加し、 15人のアイドルたちによるイメージソング『VOY@GER』が、コンセプトムー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[＜インタビュー＞荒木飛呂彦『ジョジョ』シリーズでともに歩んできたプリンスを語る | Special | Billboard JAPAN]]></title>
         <id>https://www.billboard-japan.com/special/detail/3283</id>
         <link href="https://www.billboard-japan.com/special/detail/3283"/>
         <updated>2021-08-25T04:20:52.000Z</updated>
         <summary type="html"><![CDATA[プリンスが急逝してから早5年――今もなお、世界中のアーティストやリスナーを虜にしている孤高の天才が、2010年にレコーディングしたものの、お蔵入りにしていた“幻のアルバム”『ウェルカム・2・アメリカ』が、11年の時を経てリリースされた。そこには、彼が長年頭を悩ませてきたマスメディアによる情報のコントロールや...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年のフジロックに参加して｜有泉智子｜note]]></title>
+        <id>https://note.com/tomokoariizumi/n/n345a06bff596</id>
+        <link href="https://note.com/tomokoariizumi/n/n345a06bff596"/>
+        <updated>2021-08-25T02:54:12.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T14:11:21.574Z</id>
+    <id>urn:2021-08-26T15:12:53.505Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T14:11:21.574Z</updated>
+    <updated>2021-08-26T15:12:53.505Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[障害者が主人公の漫画]]></title>
+        <id>https://anond.hatelabo.jp/20210826191156</id>
+        <link href="https://anond.hatelabo.jp/20210826191156"/>
+        <updated>2021-08-26T10:23:09.000Z</updated>
+        <summary type="html"><![CDATA[パラリンピックを見ててふと思ったけど、障害者が主人公の漫画って結構あるな。 「リアル」とかストレートに障害を扱ったのは別にして、 コブラ　左腕欠損 鋼の錬金術師　右腕・左足欠損 ベルセルク　左腕欠損・右眼失明 スティール・ボール・ラン　下半身不随 機動戦士ガンダム サンダーボルト　両腕・両脚欠損 どろろ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モデルナワクチン 異物混入は粒子状の金属か 厚労省が特定急ぐ | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210826/k10013224361000.html</id>
@@ -41,6 +51,16 @@
         <link href="https://anond.hatelabo.jp/20210826165444"/>
         <updated>2021-08-26T08:50:35.000Z</updated>
         <summary type="html"><![CDATA[ハテブのロム専を１０年くらいやってるんだけど、「ん？」と思うことが割とよくある。 ついさっきは電子書籍の話題で「月に１万～３万使う」というコメントがあって、「いやいや使いすぎだし」と思った。 けど逆に、このコメ主くらいの金銭感覚が普通なんだろうか？とも感じている。 さて。 いきなり自分語りを始めると...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シンエヴァンゲリオンは教科書に載るようなアニメじゃない - シロクマの屑籠]]></title>
+        <id>https://p-shirokuma.hatenadiary.com/entry/20210826/1629959400</id>
+        <link href="https://p-shirokuma.hatenadiary.com/entry/20210826/1629959400"/>
+        <updated>2021-08-26T08:12:02.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com タイトルで内容を言い切っているので、タイトルしか読まない人はここで回れ右を。なぜわざわざブログに書くのかといったら、知人と約束してしまったからだ。 そもそも教科書に載るような作品、たとえば国語の資料集に載るような作品とは １．表現様式に目新しさがあり、しかも優れていること。たとえば...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NY州、コロナ死者数大幅上積み　累計5万5000人　新知事発表 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210826/k00/00m/030/035000c</id>
-        <link href="https://mainichi.jp/articles/20210826/k00/00m/030/035000c"/>
-        <updated>2021-08-26T01:04:20.000Z</updated>
-        <summary type="html"><![CDATA[米東部ニューヨーク州のホークル新知事は、新型コロナウイルス感染による州の死者数について、クオモ前知事が正式に認めていなかった自宅での死亡など約1万2000人を新たに認定、死者数は累計で約5万5000人となった。米メディアが25日、伝えた。 セクハラ問題で辞任したクオモ氏に対しては、新型コロナの死者数を過少発表...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[勝川 俊雄 on Twitter: "菅さんの説明しない姿勢は、パンデミック下のリーダーとして失格です。しかしながら、菅政権が良い仕事をした部分は評価をする必要があります。世界中で争奪戦のワクチンを確保して、現在の接種数は世界第4位です。これは菅内閣の手腕に寄るところ… https://t.co/aNV9JYm9Tc"]]></title>
         <id>https://twitter.com/katukawa/status/1430665116656103428</id>
         <link href="https://twitter.com/katukawa/status/1430665116656103428"/>
@@ -281,16 +291,6 @@
         <link href="https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html"/>
         <updated>2021-08-25T21:10:58.000Z</updated>
         <summary type="html"><![CDATA[4度目となる緊急事態宣言下では、新型コロナウイルスの感染状況が改善する兆しが見えなかった。7月下旬、政府は宣言の対象を拡大、延長する検討に入った。政府に助言する専門家たちには「リーダーの言葉が国民に届いていない」と、菅義偉首相の発信に対する不満が広がっていた。 「国民の気持ちに寄り添うようなメッセー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「誰もが文字が書いてあると反射的に読むわけではない」ってのは､文字があると全部読む族の人には盲点だったりする - Togetter]]></title>
-        <id>https://togetter.com/li/1765035</id>
-        <link href="https://togetter.com/li/1765035"/>
-        <updated>2021-08-25T16:42:31.000Z</updated>
-        <summary type="html"><![CDATA[ねえね　猫の座布団 @Doragonsyoten 「誰もが文字が書いてあると反射的に読むわけではない」ってのは文字があると全部読む族の人には盲点だったりするんよな。家庭内に対面口語コミュニケーションしかなかった人達ってのはわりと多いんよ。そして親が文字読まないと子供もそれを読む習慣はつかないらしいんよね。 2021-0...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

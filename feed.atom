@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T02:20:53.828Z</id>
+    <id>urn:2021-08-26T03:13:32.252Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T02:20:53.828Z</updated>
+    <updated>2021-08-26T03:13:32.252Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「留年して、建設省への就職がおじゃんに。それで大学院のあと、野村総研へ入るんです」──山形浩生さん（前編）｜就活サイト【ONE CAREER】]]></title>
+        <id>https://www.onecareer.jp/articles/2683</id>
+        <link href="https://www.onecareer.jp/articles/2683"/>
+        <updated>2021-08-26T01:43:06.000Z</updated>
+        <summary type="html"><![CDATA[「インタビュアーは好きな人に会いに行けて良いですね、羨ましい」と編集者の友人に話したところ、彼は「では、企画を立てて、インタビューの機会をつくるので、好きな人へ一緒に会いに行きませんか？」と返してきた。羨ましいとは思いながら、誰に会いたいのかはっきりしたイメージのなかった私は答えに窮してしま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アパート大家の山本一郎が見た、安物件に集うコロナ下の人生模様 自己破産の元経営者やシングルマザー、独居老人のそれぞれの人生(1/7) | JBpress (ジェイビープレス)]]></title>
         <id>https://jbpress.ismedia.jp/articles/-/66639</id>
@@ -176,6 +186,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[｢ついに安倍首相も上回った｣菅首相が"戦後で最悪最低の首相"になった根本原因 ｢日本をダメにした8人｣より悪い | PRESIDENT Online（プレジデントオンライン）]]></title>
+        <id>https://president.jp/articles/-/49228</id>
+        <link href="https://president.jp/articles/-/49228"/>
+        <updated>2021-08-25T12:02:53.000Z</updated>
+        <summary type="html"><![CDATA[お膝元で敗北しても「菅続投」を決めたようだ 菅首相は終わった。 8月22日に投開票が行われた横浜市長選で、菅首相が強く推した小此木八郎元国家公安委員長が敗れたと報じられた時、多くの有権者はそう思ったはずである。 ところが新聞各紙の政局予測を読むと、そうはならない可能性もあるというのだ。それは、安倍晋三...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[江川紹子氏、パラ開会式での片翼飛行機表現「まったく不適切だと思います」（デイリースポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801</id>
         <link href="https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801"/>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[調布のワクチン地域接種のローカルルールを告発したい]]></title>
-        <id>https://anond.hatelabo.jp/20210825174800</id>
-        <link href="https://anond.hatelabo.jp/20210825174800"/>
-        <updated>2021-08-25T08:59:24.000Z</updated>
-        <summary type="html"><![CDATA[私は都内で働く内科医である。 ここ数か月ワクチン接種問診バイトというものが医師求人サイトに掲載されており、私も時間が空くと勤務している。 主な仕事は問診し接種可能か不可能かを判断し、可能な場合は接種後の待機時間を15分か30分か判断することである。 判断基準は厚生労働省が発布する手引き（https://www.mhlw...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【アニメ】アイドルマスターシリーズ コンセプトムービー2021『VOY@GER』【アイドルマスター】]]></title>
         <id>https://www.youtube.com/watch?v=HJKqSYK_z0w</id>
         <link href="https://www.youtube.com/watch?v=HJKqSYK_z0w"/>
@@ -291,16 +301,6 @@
         <link href="https://www.billboard-japan.com/special/detail/3283"/>
         <updated>2021-08-25T04:20:52.000Z</updated>
         <summary type="html"><![CDATA[プリンスが急逝してから早5年――今もなお、世界中のアーティストやリスナーを虜にしている孤高の天才が、2010年にレコーディングしたものの、お蔵入りにしていた“幻のアルバム”『ウェルカム・2・アメリカ』が、11年の時を経てリリースされた。そこには、彼が長年頭を悩ませてきたマスメディアによる情報のコントロールや...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フロントエンドの慣習のまとめ - Qiita]]></title>
-        <id>https://qiita.com/k__watanabe/items/0dc5b31ea960db118926</id>
-        <link href="https://qiita.com/k__watanabe/items/0dc5b31ea960db118926"/>
-        <updated>2021-08-25T00:15:52.000Z</updated>
-        <summary type="html"><![CDATA[Help us understand the problem. What is going on with this article?]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

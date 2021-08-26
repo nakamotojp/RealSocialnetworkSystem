@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T06:14:28.758Z</id>
+    <id>urn:2021-08-26T07:11:46.458Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T06:14:28.758Z</updated>
+    <updated>2021-08-26T07:11:46.458Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://eh-career.com/engineerhub/entry/2021/08/26/110000"/>
         <updated>2021-08-26T03:21:00.000Z</updated>
         <summary type="html"><![CDATA[エンジニアHub > 記事一覧 > 「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ 「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ エンジニアHubでは2019年に「がんばらないTypeS...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30半ばを過ぎた位から、「全部自分を通して」病、「オレ私聞いてない」病の発症に注意せねばならない… - Togetter]]></title>
+        <id>https://togetter.com/li/1765179</id>
+        <link href="https://togetter.com/li/1765179"/>
+        <updated>2021-08-26T02:52:41.000Z</updated>
+        <summary type="html"><![CDATA[研究員くろこ @feketekoroleva 30半ばを過ぎた位から、男女共に「全部自分を通して」病、「オレ私聞いてない」病の発症に注意せねばならない… 放置すると酷くなり、40代や50代になる頃には病から妖怪と化している場合がある 組織長や決裁者じゃない人がこれになると大変。チクリと自分の胸に何かを感じ始めた時から冷静...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -131,16 +141,6 @@
         <link href="https://gendai.ismedia.jp/articles/-/86584"/>
         <updated>2021-08-25T21:49:17.000Z</updated>
         <summary type="html"><![CDATA[今後の未来像は 予防接種という行為は、接種者自身はもちろんのこと、それ以外の方の感染機会を減らすことに繋がる。そのため、そのような間接的な防御が人口内で積み重なり、流行自体を防ぐ効果が得られたものを集団免疫効果と呼ぶ。そして、流行排除のための閾値について、従来株の場合、予防接種率が60％超程度ではな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東映の時価総額、東映アニメの半分　親子上場放置のつけ: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUC185TW0Y1A810C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUC185TW0Y1A810C2000000/"/>
-        <updated>2021-08-25T21:12:38.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 東映が主力の映画事業の価値向上を問われている。新型コロナ禍で映画事業は不振が続く一方、アニメを手がける上場子会社、東映アニメーションは海外コンテンツ事業が好...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

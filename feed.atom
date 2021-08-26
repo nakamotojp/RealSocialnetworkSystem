@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T12:19:39.955Z</id>
+    <id>urn:2021-08-26T13:18:38.973Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T12:19:39.955Z</updated>
+    <updated>2021-08-26T13:18:38.973Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[モデルナワクチン 異物混入は粒子状の金属か 厚労省が特定急ぐ | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210826/k10013224361000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210826/k10013224361000.html"/>
+        <updated>2021-08-26T09:36:54.000Z</updated>
+        <summary type="html"><![CDATA[モデルナの新型コロナウイルスワクチンの一部に異物が混入していた問題で、混入したのは、粒子状の金属と見られることが、厚生労働省への取材で分かりました。 厚生労働省は、製造工程で入り込んだとみて特定を急いでいます。 今月16日以降、全国8か所の接種会場で、モデルナのワクチンの未開封の容器の一部に異物が混入...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「私が格差を拡大したとか、利益誘導をしていると言うが、何を言っているのか全然分からない」竹中平蔵氏がネットの批判に厳しく反論（ABEMA TIMES） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/eb3bb734311f21cea24c0ede2b2d69b293082977</id>
@@ -36,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[［CEDEC 2021］フランス人開発者が，日本のゲーム業界の常識を斬る。「日本で世界規模の競争力のあるゲーム開発は可能なのか？」聴講レポート]]></title>
+        <id>https://www.4gamer.net/games/999/G999905/20210826081/</id>
+        <link href="https://www.4gamer.net/games/999/G999905/20210826081/"/>
+        <updated>2021-08-26T08:10:05.000Z</updated>
+        <summary type="html"><![CDATA[［CEDEC 2021］フランス人開発者が，日本のゲーム業界の常識を斬る。「日本で世界規模の競争力のあるゲーム開発は可能なのか？」聴講レポート ライター：箭本進一 日本で活躍するフランス人開発者が，日本ゲーム業界の問題点を指摘するという講演「Is Worldwide Competitive Game Development possible in Japan?／日本...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 新たに4704人感染確認 11人死亡 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210826/k10013224641000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210826/k10013224641000.html"/>
@@ -51,6 +71,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/26/news134.html"/>
         <updated>2021-08-26T07:48:43.000Z</updated>
         <summary type="html"><![CDATA[文章の「3行要約」を生成するAIのデモサイトを、東大・松尾豊研究室発のAIベンチャーが公開。会話文の要約も得意だ。要約の正確性は「人間に匹敵する」という。 東京大学・松尾豊研究室発のAIベンチャーELYZA（イライザ／東京都文京区）は8月26日、文章の要約文を生成するAI「ELYZA DIGEST」を試せるデモサイトを公開し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロリータになりたかった :: デイリーポータルZ]]></title>
+        <id>https://dailyportalz.jp/kiji/i_wanted_to_wear_lolita_fashion</id>
+        <link href="https://dailyportalz.jp/kiji/i_wanted_to_wear_lolita_fashion"/>
+        <updated>2021-08-26T07:09:43.000Z</updated>
+        <summary type="html"><![CDATA[1971年東京生まれ。イラストレーター。ドクロ服、ドクロ雑貨集めに情熱を燃やしすぎている。ほかにはワニ、ウツボ、ハダカデバネズミなど毛の生えていない動物も好む。著書に「しろねこくん」、「ココロミくん」、「ひとみしり道」、「ばかスイーツ」などがある。（動画インタビュー） 前の記事：ガラスでも輝かせたらほ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「ファスト映画」公開 1000万円超の賠償金で映画会社と和解 | 事件 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210826/k10013223621000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210826/k10013223621000.html"/>
-        <updated>2021-08-25T22:13:51.000Z</updated>
-        <summary type="html"><![CDATA[映画の内容を無断で10分程度にまとめてストーリーを明かす「ファスト映画」と呼ばれる違法な動画の公開をめぐり、著作権法違反の疑いで摘発されたグループの1人が、1000万円を超える賠償金を支払うことを条件に映画会社の1社と和解したことがわかりました。 「ファスト映画」は、映画の映像を無断で使用し字幕やナレーシ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[西浦博教授が考える「ワクチン接種が進む日本」でこれから先に見込まれる“展開”（西浦 博） | 現代ビジネス | 講談社（1/5）]]></title>
         <id>https://gendai.ismedia.jp/articles/-/86584</id>
         <link href="https://gendai.ismedia.jp/articles/-/86584"/>
@@ -281,26 +301,6 @@
         <link href="https://anond.hatelabo.jp/20210825234710"/>
         <updated>2021-08-25T15:02:53.000Z</updated>
         <summary type="html"><![CDATA[記憶が鮮明なうちに記録しておくのはいいかもしれない、と思ったので書く。 スペック30代後半都内のIT系企業で働くwebエンジニアリモートワーク仕事関係の人間関係は良好（だと思う）友達少ない。恋人3年超いない。インテリアは特に詳しくない。 賃貸派だった理由色んな街に住むのが楽しい。 出身が地方だったこともあり...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『人工心臓ガチ勢の小学生』による安久工機の工場見学が実現！初日からフルパワーで対応する大人たちがステキ - Togetter]]></title>
-        <id>https://togetter.com/li/1764952</id>
-        <link href="https://togetter.com/li/1764952"/>
-        <updated>2021-08-25T13:02:17.000Z</updated>
-        <summary type="html"><![CDATA[これまでのあらすじ 1、安久工機に工場見学希望の電話が 2、電話主の息子さん（小学生）が人工心臓に興味を持っているとのこと 3、さらに詳しく話を聞くと、少年の知識のガチさに現場パニック 4、安久工機、大喜びで工場見学を受け入れる 5、安久工機、少年の見学を成功させるべく万全の準備に取り組む]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[｢ついに安倍首相も上回った｣菅首相が"戦後で最悪最低の首相"になった根本原因 ｢日本をダメにした8人｣より悪い | PRESIDENT Online（プレジデントオンライン）]]></title>
-        <id>https://president.jp/articles/-/49228</id>
-        <link href="https://president.jp/articles/-/49228"/>
-        <updated>2021-08-25T12:02:53.000Z</updated>
-        <summary type="html"><![CDATA[お膝元で敗北しても「菅続投」を決めたようだ 菅首相は終わった。 8月22日に投開票が行われた横浜市長選で、菅首相が強く推した小此木八郎元国家公安委員長が敗れたと報じられた時、多くの有権者はそう思ったはずである。 ところが新聞各紙の政局予測を読むと、そうはならない可能性もあるというのだ。それは、安倍晋三...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

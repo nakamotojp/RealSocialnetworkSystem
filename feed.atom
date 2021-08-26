@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T10:13:34.603Z</id>
+    <id>urn:2021-08-26T11:10:14.466Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T10:13:34.603Z</updated>
+    <updated>2021-08-26T11:10:14.466Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「私が格差を拡大したとか、利益誘導をしていると言うが、何を言っているのか全然分からない」竹中平蔵氏がネットの批判に厳しく反論（ABEMA TIMES） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/eb3bb734311f21cea24c0ede2b2d69b293082977</id>
+        <link href="https://news.yahoo.co.jp/articles/eb3bb734311f21cea24c0ede2b2d69b293082977"/>
+        <updated>2021-08-26T09:01:10.000Z</updated>
+        <summary type="html"><![CDATA[25日の『ABEMA Prime』に慶應義塾大学名誉教授の竹中平蔵氏が生出演。ネット上の激しい“竹中批判”について「私が叩かれているときは正しいことを言っていると思ってくれれば」と反論した。 【映像】竹中平蔵氏に生直撃 “医療ムラ解体“論の真意とは? ネットの意見を踏まえ、アイドルグループ「アンジュルム」の元リーダー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 新たに4704人感染確認 11人死亡 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210826/k10013224641000.html</id>
@@ -51,6 +61,16 @@
         <link href="https://twitter.com/k_usuta/status/1430759567839821825"/>
         <updated>2021-08-26T06:05:34.000Z</updated>
         <summary type="html"><![CDATA[できればこの手だけは使いたくなかったんですがツイートさせてください…。実は札幌に引っ越す前に住んでた家を売りに出していたのですが、もう２年半以上も売れていません。北鎌倉ののどかな場所です。どなたか興味のある方いらっしゃいませんでし… https://t.co/OeeUdKiyw5]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】“硫酸”かけた男　事件当日、被害男性の勤務先周辺で待機か｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4345718.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4345718.html"/>
+        <updated>2021-08-26T05:44:07.000Z</updated>
+        <summary type="html"><![CDATA[東京・港区で、男が、硫酸とみられる液体を２０代の男性にかけて逃走している事件で、男が、犯行前に、被害男性の勤務先の周辺をうろついていたとみられることがわかりました。 おととい夜、港区の白金高輪駅で、男が、会社員の男性（２２）に対し、追い抜きざまに硫酸とみられる液体をかけ、逃走しています。被害にあっ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,26 +301,6 @@
         <link href="https://president.jp/articles/-/49228"/>
         <updated>2021-08-25T12:02:53.000Z</updated>
         <summary type="html"><![CDATA[お膝元で敗北しても「菅続投」を決めたようだ 菅首相は終わった。 8月22日に投開票が行われた横浜市長選で、菅首相が強く推した小此木八郎元国家公安委員長が敗れたと報じられた時、多くの有権者はそう思ったはずである。 ところが新聞各紙の政局予測を読むと、そうはならない可能性もあるというのだ。それは、安倍晋三...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3大イラッとする誤字]]></title>
-        <id>https://anond.hatelabo.jp/20210825132748</id>
-        <link href="https://anond.hatelabo.jp/20210825132748"/>
-        <updated>2021-08-25T11:17:07.000Z</updated>
-        <summary type="html"><![CDATA[ワクチン摂取 永遠と あと1つ何？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“出演者が痛がる様子を笑いにする番組演出” BPOが審議へ | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html"/>
-        <updated>2021-08-25T10:15:56.000Z</updated>
-        <summary type="html"><![CDATA[出演者が痛がる様子を笑いの対象にするようなバラエティー番組の演出について、BPO＝放送倫理・番組向上機構は、青少年に与える影響の重大性を考慮して審議することを決めました。 BPOによりますと出演者に痛がるような行為をしかけ、その様子をみんなで笑うようなバラエティー番組について、視聴者などから「不快に思う...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

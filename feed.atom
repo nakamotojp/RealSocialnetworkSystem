@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T04:15:46.251Z</id>
+    <id>urn:2021-08-26T05:10:43.321Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T04:15:46.251Z</updated>
+    <updated>2021-08-26T05:10:43.321Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -236,6 +236,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[フロントエンドから取り組むデザインシステムの改善 #UI - Yahoo! JAPAN Tech Blog]]></title>
+        <id>https://techblog.yahoo.co.jp/entry/2021082530175149/</id>
+        <link href="https://techblog.yahoo.co.jp/entry/2021082530175149/"/>
+        <updated>2021-08-25T11:36:08.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、フロントエンドエンジニアの近藤です。Yahoo! JAPANのスマートフォンのウェブトップページのフロントエンド開発業務と、社内で利用されているデザインシステムの開発に携わっています。 近年、デジタルプロダクトを持つ多くの企業で、デザインシステムが活用されています。デザインシステムには、ビジュアル...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[江川紹子氏、パラ開会式での片翼飛行機表現「まったく不適切だと思います」（デイリースポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801</id>
         <link href="https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801"/>
@@ -251,16 +261,6 @@
         <link href="https://anond.hatelabo.jp/20210825132748"/>
         <updated>2021-08-25T11:17:07.000Z</updated>
         <summary type="html"><![CDATA[ワクチン摂取 永遠と あと1つ何？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フレンチもイタリアンも敷居が高い]]></title>
-        <id>https://anond.hatelabo.jp/20210825140256</id>
-        <link href="https://anond.hatelabo.jp/20210825140256"/>
-        <updated>2021-08-25T11:11:12.000Z</updated>
-        <summary type="html"><![CDATA[例えば、カレーはルーの箱の裏に書いてある通りに作れば、一応及第点のものが出来る。 その上で、具を小間切れ肉と玉ねぎだけにしてしまえば、包丁使うのは玉ねぎ切るだけで煮込みは省略という、まさに簡単で美味しいレシピとなる。 このうち、特に重要なのが包丁を使う手間で、キッチンシンクが低すぎる状態で料理する...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

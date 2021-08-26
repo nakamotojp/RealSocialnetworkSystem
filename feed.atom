@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T11:10:14.466Z</id>
+    <id>urn:2021-08-26T12:19:39.955Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T11:10:14.466Z</updated>
+    <updated>2021-08-26T12:19:39.955Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://news.yahoo.co.jp/articles/eb3bb734311f21cea24c0ede2b2d69b293082977"/>
         <updated>2021-08-26T09:01:10.000Z</updated>
         <summary type="html"><![CDATA[25日の『ABEMA Prime』に慶應義塾大学名誉教授の竹中平蔵氏が生出演。ネット上の激しい“竹中批判”について「私が叩かれているときは正しいことを言っていると思ってくれれば」と反論した。 【映像】竹中平蔵氏に生直撃 “医療ムラ解体“論の真意とは? ネットの意見を踏まえ、アイドルグループ「アンジュルム」の元リーダー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[しょうもないのに忘れられない言葉]]></title>
+        <id>https://anond.hatelabo.jp/20210826174448</id>
+        <link href="https://anond.hatelabo.jp/20210826174448"/>
+        <updated>2021-08-26T08:53:31.000Z</updated>
+        <summary type="html"><![CDATA[たぶん自分以外は全く気にしていないだろうふとした言葉が、どうしても頭から離れず残っていることはないだろうか。心に残る名言とかそういったものではなく、もう少し生産性のないもので、忘れてもまったく困らないようなことなのに、なぜか忘れられずに頭にこびりついていること。 暇になったので、私の人生の各地点に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普通の大人(はてなー)は、趣味にどのくらいお金をかけているの？]]></title>
+        <id>https://anond.hatelabo.jp/20210826165444</id>
+        <link href="https://anond.hatelabo.jp/20210826165444"/>
+        <updated>2021-08-26T08:50:35.000Z</updated>
+        <summary type="html"><![CDATA[ハテブのロム専を１０年くらいやってるんだけど、「ん？」と思うことが割とよくある。 ついさっきは電子書籍の話題で「月に１万～３万使う」というコメントがあって、「いやいや使いすぎだし」と思った。 けど逆に、このコメ主くらいの金銭感覚が普通なんだろうか？とも感じている。 さて。 いきなり自分語りを始めると...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -71,6 +91,16 @@
         <link href="https://news.tbs.co.jp/newseye/tbs_newseye4345718.html"/>
         <updated>2021-08-26T05:44:07.000Z</updated>
         <summary type="html"><![CDATA[東京・港区で、男が、硫酸とみられる液体を２０代の男性にかけて逃走している事件で、男が、犯行前に、被害男性の勤務先の周辺をうろついていたとみられることがわかりました。 おととい夜、港区の白金高輪駅で、男が、会社員の男性（２２）に対し、追い抜きざまに硫酸とみられる液体をかけ、逃走しています。被害にあっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】【詳報】「想定外の超弩級プリニー式噴火」福徳岡ノ場、専門家語る（衛星写真あり） | NewsDigest]]></title>
+        <id>https://newsdigest.jp/news/d3f94e38-3d02-4183-91a7-35770e93100e</id>
+        <link href="https://newsdigest.jp/news/d3f94e38-3d02-4183-91a7-35770e93100e"/>
+        <updated>2021-08-26T05:08:39.000Z</updated>
+        <summary type="html"><![CDATA[今月13日に噴火が確認された小笠原諸島付近の海底火山「福徳岡ノ場」。JX通信社は、人工衛星を自社開発・運営する宇宙ベンチャー「アクセルスペース」と協同し、噴火直後の様子を衛星写真で4日続けて撮影した。今回、噴火の特徴や今後備えるべきリスクについて、火山学者で静岡大学防災総合センターの小山真人教授に分析...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナ: 地方に感染急拡大　43都道府県、新規感染者ステージ4に: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/"/>
-        <updated>2021-08-25T21:56:48.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新型コロナウイルス感染拡大の「第5波」が全国に波及している。インド型（デルタ型）変異ウイルスが地方に広がり、43都道府県で新規感染者数が国基準で最も深刻な「ス...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[西浦博教授が考える「ワクチン接種が進む日本」でこれから先に見込まれる“展開”（西浦 博） | 現代ビジネス | 講談社（1/5）]]></title>
         <id>https://gendai.ismedia.jp/articles/-/86584</id>
         <link href="https://gendai.ismedia.jp/articles/-/86584"/>
@@ -241,26 +261,6 @@
         <link href="https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html"/>
         <updated>2021-08-25T21:10:58.000Z</updated>
         <summary type="html"><![CDATA[4度目となる緊急事態宣言下では、新型コロナウイルスの感染状況が改善する兆しが見えなかった。7月下旬、政府は宣言の対象を拡大、延長する検討に入った。政府に助言する専門家たちには「リーダーの言葉が国民に届いていない」と、菅義偉首相の発信に対する不満が広がっていた。 「国民の気持ちに寄り添うようなメッセー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モデルナのワクチン 一部に異物混入 約160万回分使用見合わせ | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210826/k10013223821000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210826/k10013223821000.html"/>
-        <updated>2021-08-25T20:21:44.000Z</updated>
-        <summary type="html"><![CDATA[モデルナの新型コロナウイルスワクチンの一部に異物が混入しているのが相次いで見つかり、厚生労働省は同じ工程で製造されたワクチンの使用を見合わせることを決めました。対象となるワクチンは合わせておよそ160万回分で、これまでのところ健康被害は報告されていないということです。 厚生労働省などによりますと、今...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ: モデルナワクチンの異物、一部は金属の可能性も　厚労省: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUA25EKV0V20C21A8000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUA25EKV0V20C21A8000000/"/>
-        <updated>2021-08-25T18:29:15.000Z</updated>
-        <summary type="html"><![CDATA[厚生労働省は26日、米モデルナ製の新型コロナウイルスワクチンについて異物の混入が見つかったとして、約160万回分の接種を見合わせると発表した。一部はすでに接種されているものの、現時点で健康被害は報告されていない。異物の詳細はモデルナ社が確認中という。 同省は同日、混入していた物質が金属である可能性を明...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

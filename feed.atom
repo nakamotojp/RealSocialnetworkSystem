@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T05:10:43.321Z</id>
+    <id>urn:2021-08-26T06:14:28.758Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T05:10:43.321Z</updated>
+    <updated>2021-08-26T06:14:28.758Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「とてもつらい」「よろしい ならば戦争だ」インターネットミームになった漫画のセリフおもろい→他にも見たことあるフレーズたくさん - Togetter]]></title>
+        <id>https://togetter.com/li/1765183</id>
+        <link href="https://togetter.com/li/1765183"/>
+        <updated>2021-08-26T03:26:33.000Z</updated>
+        <summary type="html"><![CDATA[コロモー @coromoo_JP サクッと答えをアゲられる新Q＆Aサービス「コロモー」の公式Twitterです。コロモーの最新情報をおとどけします。 【公式note】note.com/coromoo coromoo.com リンク Wikipedia インターネット・ミーム インターネット・ミーム（Internet meme）とはインターネットを通じて人から人へと、通常は模倣...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ - エンジニアHub｜Webエンジニアのキャリアを考える！]]></title>
+        <id>https://eh-career.com/engineerhub/entry/2021/08/26/110000</id>
+        <link href="https://eh-career.com/engineerhub/entry/2021/08/26/110000"/>
+        <updated>2021-08-26T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[エンジニアHub > 記事一覧 > 「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ 「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ エンジニアHubでは2019年に「がんばらないTypeS...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「留年して、建設省への就職がおじゃんに。それで大学院のあと、野村総研へ入るんです」──山形浩生さん（前編）｜就活サイト【ONE CAREER】]]></title>
         <id>https://www.onecareer.jp/articles/2683</id>
@@ -71,6 +91,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/26/news045.html"/>
         <updated>2021-08-25T23:06:34.000Z</updated>
         <summary type="html"><![CDATA[Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 米コロンビア大学とオランダ・デルフト工科大学の研究チームが開発した「Application of a sub–0.1-mm3 implantable mote for in ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不倫で処分された男女の巡査、復縁して再び処分　「相手への思い断ち切れなかった」｜総合｜神戸新聞NEXT]]></title>
+        <id>https://www.kobe-np.co.jp/news/sougou/202108/0014622117.shtml</id>
+        <link href="https://www.kobe-np.co.jp/news/sougou/202108/0014622117.shtml"/>
+        <updated>2021-08-25T22:24:09.000Z</updated>
+        <summary type="html"><![CDATA[１度処分されたにもかかわらず、同じ相手と不倫関係を続けたとして、兵庫県警が阪神地域の警察署で勤務する２０代の男性巡査と、西播地域の警察署で勤務する２０代女性巡査の２人をそれぞれ警務部長訓戒と、所属長訓戒にしたことが２５日、神戸新聞社の情報公開請求で分かった。男性巡査は「相手への思いが断ち切れなか...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[タリバン「日本人は必要 自衛隊は撤退を」　FNNの取材に応じる]]></title>
-        <id>https://www.fnn.jp/articles/-/229731</id>
-        <link href="https://www.fnn.jp/articles/-/229731"/>
-        <updated>2021-08-25T15:43:41.000Z</updated>
-        <summary type="html"><![CDATA[アフガニスタンの武装勢力タリバンが、「日本人を必要としている」などと協力を呼びかける一方、自衛隊には、早期撤退を求めた。 タリバン・ムジャヒド報道官「われわれは、日本人のアフガニスタンからの退避を望んでいません。しかし、自衛隊は退去してほしい」 タリバンの報道官は、FNNの取材に対し、「われわれは日本...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[独身アラフォーwebエンジニアが中古マンションを買ってリノベした]]></title>
         <id>https://anond.hatelabo.jp/20210825234710</id>
         <link href="https://anond.hatelabo.jp/20210825234710"/>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[フロントエンドから取り組むデザインシステムの改善 #UI - Yahoo! JAPAN Tech Blog]]></title>
-        <id>https://techblog.yahoo.co.jp/entry/2021082530175149/</id>
-        <link href="https://techblog.yahoo.co.jp/entry/2021082530175149/"/>
-        <updated>2021-08-25T11:36:08.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、フロントエンドエンジニアの近藤です。Yahoo! JAPANのスマートフォンのウェブトップページのフロントエンド開発業務と、社内で利用されているデザインシステムの開発に携わっています。 近年、デジタルプロダクトを持つ多くの企業で、デザインシステムが活用されています。デザインシステムには、ビジュアル...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[江川紹子氏、パラ開会式での片翼飛行機表現「まったく不適切だと思います」（デイリースポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801</id>
         <link href="https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801"/>
@@ -261,16 +271,6 @@
         <link href="https://anond.hatelabo.jp/20210825132748"/>
         <updated>2021-08-25T11:17:07.000Z</updated>
         <summary type="html"><![CDATA[ワクチン摂取 永遠と あと1つ何？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「国会の議論もオンライン化を」尾身会長が提言（テレビ朝日系（ANN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266</id>
-        <link href="https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266"/>
-        <updated>2021-08-25T11:02:02.000Z</updated>
-        <summary type="html"><![CDATA[テレワークを求める政治家に国会こそオンライン化するよう提言です。 政府新型コロナ分科会・尾身会長：「今こういう時期ですから、国会の議論もできる範囲でテレワーク、オンラインですね、それでやるとメッセージになる」 政府が経済界に対してテレワークなどで出勤者を7割削減するように求めているなか、政府の分科会...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

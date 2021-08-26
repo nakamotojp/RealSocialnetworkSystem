@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T15:12:53.505Z</id>
+    <id>urn:2021-08-26T16:19:21.315Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T15:12:53.505Z</updated>
+    <updated>2021-08-26T16:19:21.315Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[衆院選候補選び「大事な要素は女、女子」　県議が発言：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8V744NP8VPISC00K.html</id>
+        <link href="https://www.asahi.com/articles/ASP8V744NP8VPISC00K.html"/>
+        <updated>2021-08-26T13:55:39.000Z</updated>
+        <summary type="html"><![CDATA[候補者選考委員会の会合の冒頭で発言する下沢佳充県議。問題の発言は会合後の取材で出た=2021年8月25日午後5時33分、金沢市内の自民党石川県連 自民党の下沢佳充（よしたか）・石川県議（60）=7期=が25日夜、金沢市内での報道陣の囲み取材に、次期衆院選の候補者選びに絡み、「若い細いかっこいいが有利だ」と発言した。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB特集 50年間、口外してはならない 極秘調査・兵士たちの“心の傷” | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210826/k10013219911000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210826/k10013219911000.html"/>
+        <updated>2021-08-26T12:02:40.000Z</updated>
+        <summary type="html"><![CDATA[先の大戦中、戦場でのストレスなどが原因で精神疾患を発症した兵士たちがいました。 しかし、その存在は「皇軍の恥」とされ、ひた隠しにされてきました。 ことし、兵士たちを追跡調査したおよそ60年前の極秘資料が、NHKの取材班にはじめて開示されました。800ページにわたる資料には、壮絶な戦場での体験から戦後も病に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[障害者が主人公の漫画]]></title>
         <id>https://anond.hatelabo.jp/20210826191156</id>
@@ -146,6 +166,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[韓国で文化大革命が進行中なんだけど知ってる？]]></title>
+        <id>https://anond.hatelabo.jp/20210826142608</id>
+        <link href="https://anond.hatelabo.jp/20210826142608"/>
+        <updated>2021-08-26T05:27:55.000Z</updated>
+        <summary type="html"><![CDATA[韓国でめちゃくちゃな法案が可決された。 これめちゃくちゃ面白いと思うんだけど、今のところはてなではホッテントリにもなってないね。みんな勿体ないよｗ https://news.yahoo.co.jp/articles/5fdaa40d302f158ded7a7f3d552ad179d0638c42 具体的にどういうことかを言うと 韓国では慰安婦問題で韓国人が信じていること以...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【速報】【詳報】「想定外の超弩級プリニー式噴火」福徳岡ノ場、専門家語る（衛星写真あり） | NewsDigest]]></title>
         <id>https://newsdigest.jp/news/d3f94e38-3d02-4183-91a7-35770e93100e</id>
         <link href="https://newsdigest.jp/news/d3f94e38-3d02-4183-91a7-35770e93100e"/>
@@ -216,21 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[そろそろRailsプロジェクトに型を導入したい人向けの資料]]></title>
-        <id>https://ksss.ink/blog/posts/10-ruby-type</id>
-        <link href="https://ksss.ink/blog/posts/10-ruby-type"/>
-        <updated>2021-08-26T01:35:00.000Z</updated>
-        <summary type="html"><![CDATA[すべての説明はイチRubyユーザーの個人的で期間も限定的な観測範囲に基づきます。 「Rubyには型がない」 ある日、同僚とプログラミング言語に関する雑談をしていたときに言われた一言です。 私はその日までRubyの型機能は使っていませんでした。忙しい毎日を送り、キャッチアップを疎かにしていたのです。後日このことは...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火を使わずに湯を得る。サバイバル力を確実に上げる「湯作り」の技術 | となりのカインズさん]]></title>
-        <id>https://magazine.cainz.com/article/56242</id>
-        <link href="https://magazine.cainz.com/article/56242"/>
-        <updated>2021-08-26T01:08:13.000Z</updated>
-        <summary type="html"><![CDATA[馬場吉成 工業製造業系ライター。かつては光ファイバーや半導体関係の装置の設計とかをやっていたが、今はライターや飲食店経営。学生時代はプロボクサーだったことも。100kmぐらいなら自分の足で走ります。 突然お湯が必要になったらどうしますか？ こんにちは、工業製造業系ライターの馬場です。 災害でガスや電気が止...]]></summary>
+        <title type="html"><![CDATA[ELYZA DIGEST]]></title>
+        <id>https://www.digest.elyza.ai/</id>
+        <link href="https://www.digest.elyza.ai/"/>
+        <updated>2021-08-26T01:02:04.000Z</updated>
+        <summary type="html"><![CDATA[※ 本モデルはデモンストレーション用の小さなモデルです。精度面で不十分なケースもございます。ご了承ください。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -281,26 +301,6 @@
         <link href="https://gendai.ismedia.jp/articles/-/86584"/>
         <updated>2021-08-25T21:49:17.000Z</updated>
         <summary type="html"><![CDATA[今後の未来像は 予防接種という行為は、接種者自身はもちろんのこと、それ以外の方の感染機会を減らすことに繋がる。そのため、そのような間接的な防御が人口内で積み重なり、流行自体を防ぐ効果が得られたものを集団免疫効果と呼ぶ。そして、流行排除のための閾値について、従来株の場合、予防接種率が60％超程度ではな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首相「圧倒的にうまくやってる」　目を背けた厳しい現実：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html</id>
-        <link href="https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html"/>
-        <updated>2021-08-25T21:10:58.000Z</updated>
-        <summary type="html"><![CDATA[4度目となる緊急事態宣言下では、新型コロナウイルスの感染状況が改善する兆しが見えなかった。7月下旬、政府は宣言の対象を拡大、延長する検討に入った。政府に助言する専門家たちには「リーダーの言葉が国民に届いていない」と、菅義偉首相の発信に対する不満が広がっていた。 「国民の気持ちに寄り添うようなメッセー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独身アラフォーwebエンジニアが中古マンションを買ってリノベした]]></title>
-        <id>https://anond.hatelabo.jp/20210825234710</id>
-        <link href="https://anond.hatelabo.jp/20210825234710"/>
-        <updated>2021-08-25T15:02:53.000Z</updated>
-        <summary type="html"><![CDATA[記憶が鮮明なうちに記録しておくのはいいかもしれない、と思ったので書く。 スペック30代後半都内のIT系企業で働くwebエンジニアリモートワーク仕事関係の人間関係は良好（だと思う）友達少ない。恋人3年超いない。インテリアは特に詳しくない。 賃貸派だった理由色んな街に住むのが楽しい。 出身が地方だったこともあり...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

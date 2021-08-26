@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T21:10:48.557Z</id>
+    <id>urn:2021-08-26T22:12:16.103Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T21:10:48.557Z</updated>
+    <updated>2021-08-26T22:12:16.103Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hiromitsu Takagi on Twitter: "この解説記事、解説だと思って読むと、サラッととんでもない新事実が書かれてる。1面スクープ並みの新事案発生じゃないの？ https://t.co/4khOA7rsya https://t.co/TsLmEkT6LN"]]></title>
+        <id>https://twitter.com/HiromitsuTakagi/status/1430914020026970112</id>
+        <link href="https://twitter.com/HiromitsuTakagi/status/1430914020026970112"/>
+        <updated>2021-08-26T15:35:13.000Z</updated>
+        <summary type="html"><![CDATA[この解説記事、解説だと思って読むと、サラッととんでもない新事実が書かれてる。1面スクープ並みの新事案発生じゃないの？ https://t.co/4khOA7rsya https://t.co/TsLmEkT6LN]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フリーダム - 大鳥雄介 | 少年ジャンプ＋]]></title>
         <id>https://shonenjumpplus.com/episode/3269754496463544332</id>
@@ -16,11 +26,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[竹中平蔵ってなんか悪いやつなんだろうなと思ってたけど]]></title>
+        <id>https://anond.hatelabo.jp/20210826230244</id>
+        <link href="https://anond.hatelabo.jp/20210826230244"/>
+        <updated>2021-08-26T14:33:07.000Z</updated>
+        <summary type="html"><![CDATA[いざ反論を聞いてみると至極全うなことを言ってる 一方、ブクマカやリベラル界隈からは印象論、感情論のオンパレード この内容について論理的かつ客観的に反論出来る人いる？ 出来ないならはっきり言って中世の魔女狩りみたいなもんだとおもうけど 「私が格差を拡大したとか、利益誘導をしていると言うが、何を言ってい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[衆院選候補選び「大事な要素は女、女子」　県議が発言：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP8V744NP8VPISC00K.html</id>
         <link href="https://www.asahi.com/articles/ASP8V744NP8VPISC00K.html"/>
         <updated>2021-08-26T13:55:39.000Z</updated>
         <summary type="html"><![CDATA[候補者選考委員会の会合の冒頭で発言する下沢佳充県議。問題の発言は会合後の取材で出た=2021年8月25日午後5時33分、金沢市内の自民党石川県連 自民党の下沢佳充（よしたか）・石川県議（60）=7期=が25日夜、金沢市内での報道陣の囲み取材に、次期衆院選の候補者選びに絡み、「若い細いかっこいいが有利だ」と発言した。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「稼げる大学」へ外部の知恵導入　意思決定機関設置、来年法改正：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021082601191&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021082601191&amp;g=pol"/>
+        <updated>2021-08-26T13:18:59.000Z</updated>
+        <summary type="html"><![CDATA[「稼げる大学」へ外部の知恵導入　意思決定機関設置、来年法改正 2021年08月26日21時54分 総合科学技術・イノベーション会議で発言する菅義偉首相（左）＝２６日午後、首相官邸 政府は２６日、総合科学技術・イノベーション会議（議長・菅義偉首相）を首相官邸で開き、世界トップレベルの研究開発を目指す大学の経営力向...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +81,26 @@
         <link href="https://news.tv-asahi.co.jp/news_society/articles/000226855.html"/>
         <updated>2021-08-26T11:37:12.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が続くなかで、医療関係者と患者との間のトラブルも増えているといいます。陽性を取り下げろと要求する患者、こんな非常識な人もいるようです。 目黒の大鳥神社前クリニック・北村直人院長：「正直やってらんないって感じですね。もうそうですね、こっちは本当に…」 医療の最前線で踏ん張っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNN.co.jp : ７０００年前に死んだ１０代女性のＤＮＡから未知の現生人類の系統を発見　インドネシア - (1/2)]]></title>
+        <id>https://www.cnn.co.jp/fringe/35175771.html</id>
+        <link href="https://www.cnn.co.jp/fringe/35175771.html"/>
+        <updated>2021-08-26T11:13:57.000Z</updated>
+        <summary type="html"><![CDATA[スラウェシ島の洞窟の中で、大きめの石と並べて埋められた少女の骨格の残骸/University of Hasanuddin （ＣＮＮ） ７０００年以上前にインドネシアのスラウェシ島で死んだ狩猟採集民の１０代女性のＤＮＡを分析したところ、これまで世界のどこからも見つかっていない現生人類の系統に属していることが分かった。 ２５日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工藤会トップの法廷発言、弁護団が説明「脅す意図ない」 [裁かれる工藤会]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8V5WNCP8VTIPE02F.html</id>
+        <link href="https://www.asahi.com/articles/ASP8V5WNCP8VTIPE02F.html"/>
+        <updated>2021-08-26T11:00:19.000Z</updated>
+        <summary type="html"><![CDATA[4件の市民襲撃事件で殺人罪などに問われ、福岡地裁で死刑を言い渡された特定危険指定暴力団・工藤会（北九州市）のトップで総裁の野村悟被告（74）が閉廷後に「生涯後悔するぞ」などと裁判長に発言したことについて、弁護団が26日、「報復や脅しの意図はなかった」との見解を報道機関に説明した。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 新たに4704人感染確認 11人死亡 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210826/k10013224641000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210826/k10013224641000.html"/>
-        <updated>2021-08-26T07:51:15.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では26日、新たに4704人が新型コロナウイルスに感染していることが確認されました。1週間前の木曜日より830人減り、4日連続で前の週の同じ曜日を下回りました。また、都は感染が確認された11人が死亡したことを明らかにしました。 東京都は、26日都内で新たに10歳未満から100歳以上までの男女合わせて4704人が新...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「どんな文章も3行に要約するAI」デモサイト、東大松尾研発ベンチャーが公開　「正確性は人間に匹敵」 - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/26/news134.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/26/news134.html"/>
@@ -216,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「とてもつらい」「よろしい ならば戦争だ」インターネットミームになった漫画のセリフおもろい→他にも見たことあるフレーズたくさん - Togetter]]></title>
-        <id>https://togetter.com/li/1765183</id>
-        <link href="https://togetter.com/li/1765183"/>
-        <updated>2021-08-26T03:26:33.000Z</updated>
-        <summary type="html"><![CDATA[コロモー @coromoo_JP サクッと答えをアゲられる新Q＆Aサービス「コロモー」の公式Twitterです。コロモーの最新情報をおとどけします。 【公式note】note.com/coromoo coromoo.com リンク Wikipedia インターネット・ミーム インターネット・ミーム（Internet meme）とはインターネットを通じて人から人へと、通常は模倣...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ - エンジニアHub｜Webエンジニアのキャリアを考える！]]></title>
         <id>https://eh-career.com/engineerhub/entry/2021/08/26/110000</id>
         <link href="https://eh-career.com/engineerhub/entry/2021/08/26/110000"/>
@@ -246,41 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[イタリアンは簡単だけど、フレンチは大変]]></title>
-        <id>https://anond.hatelabo.jp/20210826110315</id>
-        <link href="https://anond.hatelabo.jp/20210826110315"/>
-        <updated>2021-08-26T02:10:48.000Z</updated>
-        <summary type="html"><![CDATA[anond:20210825140256 中華や和食、タイ料理など東アジア圏の料理は簡単なのよ。これは調味料が旨味を持ってるから。 醤油でも味噌でもジャンでもナンプラーでも良いけど、とりあえず発酵調味料を使えば旨味が足せる。 で、昔は中華が味の素ばかりみたいな揶揄もされたよね。 でも日本人だって、だしの素やらコンソメキ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「留年して、建設省への就職がおじゃんに。それで大学院のあと、野村総研へ入るんです」──山形浩生さん（前編）｜就活サイト【ONE CAREER】]]></title>
-        <id>https://www.onecareer.jp/articles/2683</id>
-        <link href="https://www.onecareer.jp/articles/2683"/>
-        <updated>2021-08-26T01:43:06.000Z</updated>
-        <summary type="html"><![CDATA[「インタビュアーは好きな人に会いに行けて良いですね、羨ましい」と編集者の友人に話したところ、彼は「では、企画を立てて、インタビューの機会をつくるので、好きな人へ一緒に会いに行きませんか？」と返してきた。羨ましいとは思いながら、誰に会いたいのかはっきりしたイメージのなかった私は答えに窮してしま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ELYZA DIGEST]]></title>
         <id>https://www.digest.elyza.ai/</id>
         <link href="https://www.digest.elyza.ai/"/>
         <updated>2021-08-26T01:02:04.000Z</updated>
         <summary type="html"><![CDATA[※ 本モデルはデモンストレーション用の小さなモデルです。精度面で不十分なケースもございます。ご了承ください。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勝川 俊雄 on Twitter: "菅さんの説明しない姿勢は、パンデミック下のリーダーとして失格です。しかしながら、菅政権が良い仕事をした部分は評価をする必要があります。世界中で争奪戦のワクチンを確保して、現在の接種数は世界第4位です。これは菅内閣の手腕に寄るところ… https://t.co/aNV9JYm9Tc"]]></title>
-        <id>https://twitter.com/katukawa/status/1430665116656103428</id>
-        <link href="https://twitter.com/katukawa/status/1430665116656103428"/>
-        <updated>2021-08-26T00:09:20.000Z</updated>
-        <summary type="html"><![CDATA[菅さんの説明しない姿勢は、パンデミック下のリーダーとして失格です。しかしながら、菅政権が良い仕事をした部分は評価をする必要があります。世界中で争奪戦のワクチンを確保して、現在の接種数は世界第4位です。これは菅内閣の手腕に寄るところ… https://t.co/aNV9JYm9Tc]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

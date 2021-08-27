@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T13:18:10.531Z</id>
+    <id>urn:2021-08-27T14:11:17.768Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T13:18:10.531Z</updated>
+    <updated>2021-08-27T14:11:17.768Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[早朝 渋谷に長蛇の列“若者接種”想定大幅超 あすから抽せんに | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210827/k10013226311000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210827/k10013226311000.html"/>
+        <updated>2021-08-27T09:34:12.000Z</updated>
+        <summary type="html"><![CDATA[「せっかく並んだのに…」 「休暇を取って来たのにどうしてくれる」 東京都が若い世代を対象に渋谷に設けた新型コロナウイルスのワクチン接種会場に初日の27日、想定を大幅に超える人が訪れました。このため都は、開始時間を待たずに受け付けを終了しました。 事前の予約なしに接種できることがポイントでしたが、接種で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都設置　ワクチン大規模接種会場 on Twitter: "【受付方法の変更について】 8/28(土)から渋谷若者ワクチン接種センターの受付方法を抽選方式に変更します。 ■午前9時から10時30分の間に会場にお越しいただいた方に、抽選券を配布します。 ■午前11時30分頃に抽選結果(接種時… https://t.co/fi7DPv9EOW"]]></title>
         <id>https://twitter.com/tocho_vaccine/status/1431172613322117125</id>
         <link href="https://twitter.com/tocho_vaccine/status/1431172613322117125"/>
         <updated>2021-08-27T09:21:18.000Z</updated>
         <summary type="html"><![CDATA[【受付方法の変更について】 8/28(土)から渋谷若者ワクチン接種センターの受付方法を抽選方式に変更します。 ■午前9時から10時30分の間に会場にお越しいただいた方に、抽選券を配布します。 ■午前11時30分頃に抽選結果(接種時… https://t.co/fi7DPv9EOW]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiroshi Tsuji on Twitter: "コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU"]]></title>
+        <id>https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571</id>
+        <link href="https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571"/>
+        <updated>2021-08-27T09:07:43.000Z</updated>
+        <summary type="html"><![CDATA[コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,26 +211,6 @@
         <link href="https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9"/>
         <updated>2021-08-26T23:18:44.000Z</updated>
         <summary type="html"><![CDATA[新型コロナワクチンの「3回目接種」が世界的に加速している。イスラエルでは8月1日から3回目接種を開始しており、日本でも来年以降に3回目を検討している。そんななか、日本国内ですでに「4回目」を打った人物がいる。 【写真】明るい部屋の六芒星の前でイスラエル首相の母が3回目のワクチン接種 「勤め先の社長から『お...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都のモニタリング検査、コロナ陽性率が2ヶ月で18倍に…感染気付かず出歩く人が急増：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/127059</id>
-        <link href="https://www.tokyo-np.co.jp/article/127059"/>
-        <updated>2021-08-26T23:08:35.000Z</updated>
-        <summary type="html"><![CDATA[東京都が繁華街などで実施する新型コロナウイルスのモニタリング検査で、陽性率が右肩上がりになっている。7月初旬と比べ陽性率は約18倍になり、街を出歩く無症状者が急増。都内の新規感染者は横ばいだが、実際にはもっと多いとみられる。都内の感染状況について専門家は「制御不能な状況は続いている。全体の数を追えて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経産省がフジロックに交付を決定した1億5000万円の補助金、J-LODlive2とは - Togetter]]></title>
-        <id>https://togetter.com/li/1765384</id>
-        <link href="https://togetter.com/li/1765384"/>
-        <updated>2021-08-26T23:04:05.000Z</updated>
-        <summary type="html"><![CDATA[リンク FUJIROCK EXPRESS '21 | フジロック会場から最新レポートをお届け 【THA BLUE HERB】ライブMC全文書き起こし | FUJIROCK EXPRESS '21 | フジロック会場から最新レポートをお届け FUJI ROCK FESTIVAL（フジロックフェスティバル）を開催地苗場からリアルタイムでライブレポート・会場レポートをお届け！ 564 users...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

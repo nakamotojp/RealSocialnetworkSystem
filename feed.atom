@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T08:13:53.982Z</id>
+    <id>urn:2021-08-27T09:11:49.992Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T08:13:53.982Z</updated>
+    <updated>2021-08-27T09:11:49.992Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 4227人感染確認 重症者は294人で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210827/k10013226851000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210827/k10013226851000.html"/>
+        <updated>2021-08-27T07:49:05.000Z</updated>
+        <summary type="html"><![CDATA[東京都は27日、都内で新たに4227人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の金曜日より1178人減りました。前の週の同じ曜日を下回るのはこれで5日連続です。 一方、都の基準で集計した27日時点の重症の患者は26日より18人増えて過去最多の294人になり、300人に迫っています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「NHKネット配信、未契約者にも」　総務相が実証を要請: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUA26CDO0W1A820C2000000/</id>
@@ -251,16 +261,6 @@
         <link href="https://anond.hatelabo.jp/20210826230244"/>
         <updated>2021-08-26T14:33:07.000Z</updated>
         <summary type="html"><![CDATA[いざ反論を聞いてみると至極全うなことを言ってる 一方、ブクマカやリベラル界隈からは印象論、感情論のオンパレード この内容について論理的かつ客観的に反論出来る人いる？ 出来ないならはっきり言って中世の魔女狩りみたいなもんだとおもうけど 「私が格差を拡大したとか、利益誘導をしていると言うが、何を言ってい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衆院選候補選び「大事な要素は女、女子」　県議が発言：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8V744NP8VPISC00K.html</id>
-        <link href="https://www.asahi.com/articles/ASP8V744NP8VPISC00K.html"/>
-        <updated>2021-08-26T13:55:39.000Z</updated>
-        <summary type="html"><![CDATA[候補者選考委員会の会合の冒頭で発言する下沢佳充県議。問題の発言は会合後の取材で出た=2021年8月25日午後5時33分、金沢市内の自民党石川県連 自民党の下沢佳充（よしたか）・石川県議（60）=7期=が25日夜、金沢市内での報道陣の囲み取材に、次期衆院選の候補者選びに絡み、「若い細いかっこいいが有利だ」と発言した。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

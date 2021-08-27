@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T21:11:23.176Z</id>
+    <id>urn:2021-08-27T22:11:49.666Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T21:11:23.176Z</updated>
+    <updated>2021-08-27T22:11:49.666Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://aru47.hatenablog.com/entry/2021/08/27/220051"/>
         <updated>2021-08-27T13:17:58.000Z</updated>
         <summary type="html"><![CDATA["Locality is efficiency, Efficiency is power, Power is performance, Performance is King", Bill Dally マルチスレッディングとは？ CPUとGPUのマルチスレッディングの違いをブログにまとめていたけど例によって誰も興味なさそう— arutema47 (@arutema47) 2021年8月16日 つぶやいたら読みたい方が多そうだったので完...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コロナは空気感染が主たる経路」　研究者らが対策提言（朝日新聞デジタル） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/694fc9ee7cb1a79c830e23126ba994f8ca93f64a</id>
+        <link href="https://news.yahoo.co.jp/articles/694fc9ee7cb1a79c830e23126ba994f8ca93f64a"/>
+        <updated>2021-08-27T13:06:09.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染対策について、感染症や科学技術社会論などの研究者らが、「空気感染が主な感染経路」という前提でさらなる対策を求める声明を出した。「いまだ様々な方法が残されており、それらによる感染拡大の阻止は可能である」と訴えている。 ■空気、飛沫、接触…コロナの感染経路は？ 声明は、東北大の本...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -41,6 +51,16 @@
         <link href="https://www.asahi.com/articles/ASP8W72TTP8WPLFA00C.html"/>
         <updated>2021-08-27T12:46:26.000Z</updated>
         <summary type="html"><![CDATA[大阪市福島区で「松本病院」を経営する医療法人友愛会が26日、大阪地裁に民事再生法の適用を申請し、弁済禁止の保全処分と監督命令を受けた。帝国データバンク大阪支社が27日に発表した。新型コロナウイルスに感染した入院患者を受け入れる病院が倒産したのは全国で初めてだという。負債総額は約52億円。 同支社によると...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実家の犬に　弔辞]]></title>
+        <id>https://anond.hatelabo.jp/20210827211340</id>
+        <link href="https://anond.hatelabo.jp/20210827211340"/>
+        <updated>2021-08-27T12:20:04.000Z</updated>
+        <summary type="html"><![CDATA[実家の犬が昨日亡くなったそうだ。東京からは帰省も出来ず、会えなかった。 我が家には過ぎるくらいのいい犬だった。 犬との思い出を書こうと思ったが、そんなことをしていたら辞書くらいの分量がいる。 どうしてもなにか書きとめておきたいｋら、誰に聞かせるわけでもないけれど弔辞だけ書いた。 犬よ おれが１０歳のと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 4227人感染確認 重症者は294人で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210827/k10013226851000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210827/k10013226851000.html"/>
-        <updated>2021-08-27T07:49:05.000Z</updated>
-        <summary type="html"><![CDATA[東京都は27日、都内で新たに4227人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の金曜日より1178人減りました。前の週の同じ曜日を下回るのはこれで5日連続です。 一方、都の基準で集計した27日時点の重症の患者は26日より18人増えて過去最多の294人になり、300人に迫っています。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[田母神俊雄 on Twitter: "コロナ騒動はどこかの国または団体などから仕掛けられている。死亡者が少ないのに、それにのせられて大騒ぎだ。政府や自治体はコロナ感染から国民を守るよりは、コロナ騒動から国民生活を守ることが重要だ。感染防止を目標にすることは自粛過剰を強制し国民生活を壊している。感染自体を気にし過ぎだ。"]]></title>
         <id>https://twitter.com/toshio_tamogami/status/1431038583272398848</id>
         <link href="https://twitter.com/toshio_tamogami/status/1431038583272398848"/>
@@ -201,16 +211,6 @@
         <link href="https://anond.hatelabo.jp/20210827083411"/>
         <updated>2021-08-27T04:09:17.000Z</updated>
         <summary type="html"><![CDATA[フジロックにはあれだけぎゃんぎゃん言ってたのに 所詮お前らはアニオタだったってことなのか 俺は推しが出ないからアニサマ中止になってほしい 推しが出るなら開催してください]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「NHKネット配信、未契約者にも」　総務相が実証を要請: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUA26CDO0W1A820C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUA26CDO0W1A820C2000000/"/>
-        <updated>2021-08-27T03:26:22.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 武田良太総務相は27日の閣議後の記者会見で、NHKに番組のインターネット配信を未契約者に提供する社会実証を要請すると表明した。2022年4月の開始を想定する。ネットし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

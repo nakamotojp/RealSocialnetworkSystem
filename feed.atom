@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T19:09:33.590Z</id>
+    <id>urn:2021-08-27T20:12:33.360Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T19:09:33.590Z</updated>
+    <updated>2021-08-27T20:12:33.360Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -266,6 +266,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[コロナワクチン4回接種した80代男性「早く5回目を打ちたい」（NEWSポストセブン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9</id>
+        <link href="https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9"/>
+        <updated>2021-08-26T23:18:44.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナワクチンの「3回目接種」が世界的に加速している。イスラエルでは8月1日から3回目接種を開始しており、日本でも来年以降に3回目を検討している。そんななか、日本国内ですでに「4回目」を打った人物がいる。 【写真】明るい部屋の六芒星の前でイスラエル首相の母が3回目のワクチン接種 「勤め先の社長から『お...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[どうも「水素社会」はうまくいかない気がするな]]></title>
         <id>https://anond.hatelabo.jp/20210820195856</id>
         <link href="https://anond.hatelabo.jp/20210820195856"/>
@@ -281,16 +291,6 @@
         <link href="https://anond.hatelabo.jp/20210827002706"/>
         <updated>2021-08-26T16:59:05.000Z</updated>
         <summary type="html"><![CDATA[序、破までは普通に楽しめていた。 なぜなら新劇場版で登場するのは、TVアニメ版でも再三出てきた「人類補完計画」や「セカンドインパクト」など、ニワカファンの俺でも理解できるワードばかりだったからだ。 ところがQで出るわ出るわ、わけわからん新ワード。「アダムスの器」、「インフィニティのなり損ない」などなど...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画館は危険だわ]]></title>
-        <id>https://anond.hatelabo.jp/20210825230012</id>
-        <link href="https://anond.hatelabo.jp/20210825230012"/>
-        <updated>2021-08-26T08:50:11.000Z</updated>
-        <summary type="html"><![CDATA[先日竜とそばかすの姫を観てきた。シンエヴァ以来だから映画館行くの結構久しぶりだった。 一番いい席で観たいから人が少し空いてきた頃にと思って行ったのだけど、思いっきり隣席にカップルが来やがった。 冴えないオッサンと不釣り合いな美女だった。(俺がとってない方の)いい席に女が来たが、それは俺の隣になる。 そ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

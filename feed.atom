@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T05:10:25.302Z</id>
+    <id>urn:2021-08-27T06:14:44.190Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T05:10:25.302Z</updated>
+    <updated>2021-08-27T06:14:44.190Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://togetter.com/li/1765592"/>
         <updated>2021-08-27T02:28:29.000Z</updated>
         <summary type="html"><![CDATA[東京都設置　ワクチン大規模接種会場 @tocho_vaccine 【若者ワクチン接種センターを開設】 8/27（金）から、若者を対象とした #ワクチン接種 会場を渋谷に開設します。 接種券と身分証をお持ちの方に、予約なしで接種を行います。 ■対象：16～39歳の方（都内在住、在勤・在学） ■接種人数：1日200人程度 詳細はこちらか...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[木村拓哉さん、西川貴教さん…感染対策やワクチン接種をSNSで発信している姿を見ると、子供の頃憧れた彼らは本当にヒーローだったんだなと思う - Togetter]]></title>
+        <id>https://togetter.com/li/1765596</id>
+        <link href="https://togetter.com/li/1765596"/>
+        <updated>2021-08-27T02:26:16.000Z</updated>
+        <summary type="html"><![CDATA[MRN @05marina14 キムタクのインスタ、自宅か自分一人しかいない部屋以外では絶対マスクして自撮りっていう徹底ぶりやねんけど、今日の投稿も驚いた。これ多分周りは「写真の時だけ」でマスク外してるんやろうけど、キムタクだけはマスク着用。しかも不織布マスクの上から映画ロゴ入りの布マスク着用という徹底ぶり！ pi...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,16 +241,6 @@
         <link href="https://www.asahi.com/articles/ASP8V744NP8VPISC00K.html"/>
         <updated>2021-08-26T13:55:39.000Z</updated>
         <summary type="html"><![CDATA[候補者選考委員会の会合の冒頭で発言する下沢佳充県議。問題の発言は会合後の取材で出た=2021年8月25日午後5時33分、金沢市内の自民党石川県連 自民党の下沢佳充（よしたか）・石川県議（60）=7期=が25日夜、金沢市内での報道陣の囲み取材に、次期衆院選の候補者選びに絡み、「若い細いかっこいいが有利だ」と発言した。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「稼げる大学」へ外部の知恵導入　意思決定機関設置、来年法改正：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021082601191&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021082601191&amp;g=pol"/>
-        <updated>2021-08-26T13:18:59.000Z</updated>
-        <summary type="html"><![CDATA[「稼げる大学」へ外部の知恵導入　意思決定機関設置、来年法改正 2021年08月26日21時54分 総合科学技術・イノベーション会議で発言する菅義偉首相（左）＝２６日午後、首相官邸 政府は２６日、総合科学技術・イノベーション会議（議長・菅義偉首相）を首相官邸で開き、世界トップレベルの研究開発を目指す大学の経営力向...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T16:18:00.347Z</id>
+    <id>urn:2021-08-27T17:17:15.108Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T16:18:00.347Z</updated>
+    <updated>2021-08-27T17:17:15.108Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CPUとGPUのマルチスレッディングの違いについて - arutema47's blog]]></title>
+        <id>https://aru47.hatenablog.com/entry/2021/08/27/220051</id>
+        <link href="https://aru47.hatenablog.com/entry/2021/08/27/220051"/>
+        <updated>2021-08-27T13:17:58.000Z</updated>
+        <summary type="html"><![CDATA["Locality is efficiency, Efficiency is power, Power is performance, Performance is King", Bill Dally マルチスレッディングとは？ CPUとGPUのマルチスレッディングの違いをブログにまとめていたけど例によって誰も興味なさそう— arutema47 (@arutema47) 2021年8月16日 つぶやいたら読みたい方が多そうだったので完...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本人1人が自衛隊機でアフガニスタンからパキスタンに退避 | アフガニスタン | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210827/k10013228231000.html</id>
@@ -226,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[木村拓哉さん、西川貴教さん…感染対策やワクチン接種をSNSで発信している姿を見ると、子供の頃憧れた彼らは本当にヒーローだったんだなと思う - Togetter]]></title>
-        <id>https://togetter.com/li/1765596</id>
-        <link href="https://togetter.com/li/1765596"/>
-        <updated>2021-08-27T02:26:16.000Z</updated>
-        <summary type="html"><![CDATA[MRN @05marina14 キムタクのインスタ、自宅か自分一人しかいない部屋以外では絶対マスクして自撮りっていう徹底ぶりやねんけど、今日の投稿も驚いた。これ多分周りは「写真の時だけ」でマスク外してるんやろうけど、キムタクだけはマスク着用。しかも不織布マスクの上から映画ロゴ入りの布マスク着用という徹底ぶり！ pi...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[君に届け!滑稽新聞@空気を変える on Twitter: "すげー。今度、自民党総裁選に出るっていう高市早苗のスピーチ。恐ろしいこと言ってるよ 「さもしい顔して貰える物は貰おう。弱者のフリして得しよう。そんな国民ばかりじゃ国は滅びる。人様に迷惑かけない社会へ。もう一度、日本を奴らから取り戻… https://t.co/YUCKqTXbiM"]]></title>
         <id>https://twitter.com/akasakaromantei/status/1430863377039912972</id>
         <link href="https://twitter.com/akasakaromantei/status/1430863377039912972"/>
@@ -266,21 +266,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[平松新（ひらまつあらた) on Twitter: "コロナウィルスで兄が亡くなりました。 40代でした。 発症から10日で死亡、家族は濃厚接触者に。保健所からの自宅療養指示、入院先確保の困難。基礎疾患のリスク。 エクモ装着。火葬には立ち会えない。今見える世界。 皆様の安全を願い、遺族から見たこれらの現状をお伝えします。"]]></title>
-        <id>https://twitter.com/hiramatsu_arata/status/1430867291088982156</id>
-        <link href="https://twitter.com/hiramatsu_arata/status/1430867291088982156"/>
-        <updated>2021-08-26T21:39:23.000Z</updated>
-        <summary type="html"><![CDATA[コロナウィルスで兄が亡くなりました。 40代でした。 発症から10日で死亡、家族は濃厚接触者に。保健所からの自宅療養指示、入院先確保の困難。基礎疾患のリスク。 エクモ装着。火葬には立ち会えない。今見える世界。 皆様の安全を願い、遺族から見たこれらの現状をお伝えします。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[どうも「水素社会」はうまくいかない気がするな]]></title>
         <id>https://anond.hatelabo.jp/20210820195856</id>
         <link href="https://anond.hatelabo.jp/20210820195856"/>
         <updated>2021-08-26T21:36:01.000Z</updated>
         <summary type="html"><![CDATA[「MIRAIには未来はない」理由を、理系のはてなーにわかるように書く の続きで、バス・トラックのFCV化の可能性について書こうとしたんだけど、そこからだんだん水素社会自体について考え始めてしまったのでダダ漏れで書きます。 バス・トラックのFCV化はまだ目があるのか前増田のブコメで「バス・トラック分野については...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シンエヴァの造語がわかりにくすぎたので解説サイトで全部調べた]]></title>
+        <id>https://anond.hatelabo.jp/20210827002706</id>
+        <link href="https://anond.hatelabo.jp/20210827002706"/>
+        <updated>2021-08-26T16:59:05.000Z</updated>
+        <summary type="html"><![CDATA[序、破までは普通に楽しめていた。 なぜなら新劇場版で登場するのは、TVアニメ版でも再三出てきた「人類補完計画」や「セカンドインパクト」など、ニワカファンの俺でも理解できるワードばかりだったからだ。 ところがQで出るわ出るわ、わけわからん新ワード。「アダムスの器」、「インフィニティのなり損ない」などなど...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

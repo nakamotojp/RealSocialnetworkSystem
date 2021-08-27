@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T11:09:59.190Z</id>
+    <id>urn:2021-08-27T12:19:25.490Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T11:09:59.190Z</updated>
+    <updated>2021-08-27T12:19:25.490Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://www.asahi.com/articles/ASP8W5CJMP8WUTIL02N.html"/>
         <updated>2021-08-27T07:22:14.000Z</updated>
         <summary type="html"><![CDATA[東京都中央区の東京パラリンピック選手村で26日、柔道（視覚障害）男子81キロ級の北薗（きたぞの）新光選手（30）と自動運転の大型電気自動車が接触する事故があったことが警視庁への取材で分かった。北薗選手は頭と両足を打ち、約2週間のけがを負ったという。 同庁によると、26日午後2時ごろ、居住棟と食事を提供するメ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4本足の新種クジラの化石、エジプトで発見 - BBCニュース]]></title>
+        <id>https://www.bbc.com/japanese/58352258</id>
+        <link href="https://www.bbc.com/japanese/58352258"/>
+        <updated>2021-08-27T04:58:32.000Z</updated>
+        <summary type="html"><![CDATA[画像説明, 4本足のクジラの骨格の一部がエジプトの西方砂漠で見つかった（画像提供：論文共著者のロバート・W・ベーセネッカー博士）]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[耐え難い悪臭が…50代男性が経験した高級マンションの「罠」《カメムシ発生、カラスも飛来》（文春オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/d2a4abc6ceebe7b2ed728b7590f737a1cf68c25c</id>
-        <link href="https://news.yahoo.co.jp/articles/d2a4abc6ceebe7b2ed728b7590f737a1cf68c25c"/>
-        <updated>2021-08-26T23:24:23.000Z</updated>
-        <summary type="html"><![CDATA[念願のマンションを購入して住みはじめると隣人とのトラブルに悩まされたり、騒音などにより生活に支障をきたしたり、予期せぬ問題が発生することがある。 【画像】羽アリ、カメムシも発生…“被害”をすべて見る（10枚） 自営業の山田一郎さん（50代=仮名）の場合は、耐えきれないほどの「悪臭」に襲われたことだった。 山...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[コロナワクチン4回接種した80代男性「早く5回目を打ちたい」（NEWSポストセブン） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9</id>
         <link href="https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9"/>
@@ -241,16 +241,6 @@
         <link href="https://twitter.com/HiromitsuTakagi/status/1430914020026970112"/>
         <updated>2021-08-26T15:35:13.000Z</updated>
         <summary type="html"><![CDATA[この解説記事、解説だと思って読むと、サラッととんでもない新事実が書かれてる。1面スクープ並みの新事案発生じゃないの？ https://t.co/4khOA7rsya https://t.co/TsLmEkT6LN]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQLに初めてINSERTするとアクセスが発生するファイルは何かという質問をどう調べるのか - oranie's blog]]></title>
-        <id>https://oranie.hatenablog.com/entry/2021/08/26/233701</id>
-        <link href="https://oranie.hatenablog.com/entry/2021/08/26/233701"/>
-        <updated>2021-08-26T14:42:59.000Z</updated>
-        <summary type="html"><![CDATA[yokuo825さんのカッコいいインタビュー記事を t.co 読んで、この部分ですね ──例えばどのような話をしましたか？ 「インストールされたばかりのMySQLがあるとして、特定テーブルに1件のレコードを最初にINSERTした場合、アクセスが発生するファイルとその理由をすべて教えてください」と質問されたのを覚えています。 具...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

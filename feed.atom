@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T17:17:15.108Z</id>
+    <id>urn:2021-08-27T18:13:51.694Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T17:17:15.108Z</updated>
+    <updated>2021-08-27T18:13:51.694Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ある時、親との会話の中で『親が稼いだ金だし』みたいな事を言ったら注意された「神みたいな模範解答」「その親聖人ですね…」 - Togetter]]></title>
+        <id>https://togetter.com/li/1765632</id>
+        <link href="https://togetter.com/li/1765632"/>
+        <updated>2021-08-27T08:29:22.000Z</updated>
+        <summary type="html"><![CDATA[のぼりくだり @nbrkdrnfnht あるとき親との会話の中で「親が稼いだ金だし」みたいなことを言ったのだが、「親が稼いだ金であることを主張されると、親が家庭内での絶対的な権力者になってしまうため、そういうことは絶対に言うな」と注意された 2021-08-26 15:21:28]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 4227人感染確認 重症者は294人で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210827/k10013226851000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210827/k10013226851000.html"/>
@@ -156,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[政府統一Webサイト、暫定版を12月までに公開　製作事業者決定 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/27/news108.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/27/news108.html"/>
-        <updated>2021-08-27T03:47:23.000Z</updated>
-        <summary type="html"><![CDATA[中央省庁の情報を集約した「政府統一Webサイト」の構築に向けた実証事業の競争入札が行れ、事業者がANNAIに決まった。12月末までにサイトデザインや基盤作りのルールを整備し、暫定版サイトを公開する。 内閣官房IT総合戦略室（IT室）は8月26日、中央省庁の情報を集約した「政府統一Webサイト」の構築に向けた実証事業の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「NHKネット配信、未契約者にも」　総務相が実証を要請: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUA26CDO0W1A820C2000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOUA26CDO0W1A820C2000000/"/>
@@ -181,16 +181,6 @@
         <link href="https://www3.nhk.or.jp/shutoken-news/20210827/1000069459.html"/>
         <updated>2021-08-27T03:14:41.000Z</updated>
         <summary type="html"><![CDATA[東京都が若い世代を対象に渋谷に設けた会場で新型コロナウイルスのワクチン接種が２７日から始まりましたが、想定を大幅に超える人が訪れたため、開始時間の正午を待たず、午前７時半すぎに受け付けを終了しました。 接種会場が設けられたのは渋谷区神南にある「区立勤労福祉会館」で、対象となるのは１６歳から３９歳ま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、他社決済も容認　米アプリ開発者と合意：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021082700540&amp;g=int</id>
-        <link href="https://www.jiji.com/jc/article?k=2021082700540&amp;g=int"/>
-        <updated>2021-08-27T03:08:25.000Z</updated>
-        <summary type="html"><![CDATA[アップル、他社決済も容認　米アプリ開発者と合意 2021年08月27日12時18分 アップルのロゴマーク 【シリコンバレー時事】米アップルは２６日、スマートフォンアプリについて、自社以外の決済手段の提供を認めると発表した。規則変更により、アプリ開発者が利用者に電子メールなどで他社決済について知らせることを認める...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,6 +251,16 @@
         <link href="https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9"/>
         <updated>2021-08-26T23:18:44.000Z</updated>
         <summary type="html"><![CDATA[新型コロナワクチンの「3回目接種」が世界的に加速している。イスラエルでは8月1日から3回目接種を開始しており、日本でも来年以降に3回目を検討している。そんななか、日本国内ですでに「4回目」を打った人物がいる。 【写真】明るい部屋の六芒星の前でイスラエル首相の母が3回目のワクチン接種 「勤め先の社長から『お...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平松新（ひらまつあらた) on Twitter: "コロナウィルスで兄が亡くなりました。 40代でした。 発症から10日で死亡、家族は濃厚接触者に。保健所からの自宅療養指示、入院先確保の困難。基礎疾患のリスク。 エクモ装着。火葬には立ち会えない。今見える世界。 皆様の安全を願い、遺族から見たこれらの現状をお伝えします。"]]></title>
+        <id>https://twitter.com/hiramatsu_arata/status/1430867291088982156</id>
+        <link href="https://twitter.com/hiramatsu_arata/status/1430867291088982156"/>
+        <updated>2021-08-26T21:39:23.000Z</updated>
+        <summary type="html"><![CDATA[コロナウィルスで兄が亡くなりました。 40代でした。 発症から10日で死亡、家族は濃厚接触者に。保健所からの自宅療養指示、入院先確保の困難。基礎疾患のリスク。 エクモ装着。火葬には立ち会えない。今見える世界。 皆様の安全を願い、遺族から見たこれらの現状をお伝えします。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

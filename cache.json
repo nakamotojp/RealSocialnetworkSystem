@@ -6,6 +6,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://anond.hatelabo.jp/20210828000542",
+          "author": null,
+          "description": "今年前半にワクチン接種先進国での目覚ましい効果の報告を目にしていた頃は、これで日常が戻ってくるとの期待がありました。が、もう諦めるしかないのでは、最近はそんな風に思うことが多くなりました。 デルタ株の伝染力は半端なく、押さえ込みが成功していた台湾で感染が広まったのも1人のパイロットからでした。現在...",
+          "link": "https://anond.hatelabo.jp/20210828000542",
+          "publishedOn": "2021-08-27T15:26:12.000Z",
+          "wordCount": 131,
+          "title": "世界は変わってしまったのか"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7",
+          "author": null,
+          "description": "政府が中央省庁の情報システムを統合するため昨年10月に開始した「共通プラットフォーム」の運用を打ち切ることが27日、総務省などへの取材で分かった。約720件ある政府情報システムのうち利用は約40件と低迷。総務省が今年6月、各省庁に来年度以降の受け入れ中止を通知した。年間予算約100億円を見込んだ事業は開始から...",
+          "link": "https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7",
+          "publishedOn": "2021-08-27T15:08:45.000Z",
+          "wordCount": 67,
+          "title": "中央省庁の共通システム打ち切り　利用低迷、年間100億の事業（共同通信） - Yahoo!ニュース"
+        },
+        {
           "id": "https://aru47.hatenablog.com/entry/2021/08/27/220051",
           "author": null,
           "description": "\"Locality is efficiency, Efficiency is power, Power is performance, Performance is King\", Bill Dally マルチスレッディングとは？ CPUとGPUのマルチスレッディングの違いをブログにまとめていたけど例によって誰も興味なさそう— arutema47 (@arutema47) 2021年8月16日 つぶやいたら読みたい方が多そうだったので完...",
@@ -13,15 +31,6 @@
           "publishedOn": "2021-08-27T13:17:58.000Z",
           "wordCount": 537,
           "title": "CPUとGPUのマルチスレッディングの違いについて - arutema47's blog"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/694fc9ee7cb1a79c830e23126ba994f8ca93f64a",
-          "author": null,
-          "description": "新型コロナウイルスの感染対策について、感染症や科学技術社会論などの研究者らが、「空気感染が主な感染経路」という前提でさらなる対策を求める声明を出した。「いまだ様々な方法が残されており、それらによる感染拡大の阻止は可能である」と訴えている。 ■空気、飛沫、接触…コロナの感染経路は？ 声明は、東北大の本...",
-          "link": "https://news.yahoo.co.jp/articles/694fc9ee7cb1a79c830e23126ba994f8ca93f64a",
-          "publishedOn": "2021-08-27T13:06:09.000Z",
-          "wordCount": 82,
-          "title": "「コロナは空気感染が主たる経路」　研究者らが対策提言（朝日新聞デジタル） - Yahoo!ニュース"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210827/k10013228231000.html",
@@ -60,13 +69,13 @@
           "title": "実家の犬に　弔辞"
         },
         {
-          "id": "https://mainichi.jp/articles/20210827/k00/00m/040/333000c",
+          "id": "https://www.kyoto-np.co.jp/articles/-/627091",
           "author": null,
-          "description": "新型コロナウイルスの軽症・中等症患者を受け入れていた医療法人「友愛会」（大阪市福島区）が26日、民事再生法の適用を大阪地裁に申請した。帝国データバンク大阪支社によると、コロナの入院患者を受け入れていた医療法人の倒産は全国で初めて。コロナ患者の受け入れが経営悪化の一因になったとしている。 友愛会は、福...",
-          "link": "https://mainichi.jp/articles/20210827/k00/00m/040/333000c",
-          "publishedOn": "2021-08-27T12:01:19.000Z",
-          "wordCount": 467,
-          "title": "コロナ患者受け入れ病院倒産　全国初　「外来」減少で経営悪化 | 毎日新聞"
+          "description": "甲子園４強の京都国際に差別的ネット投稿　ヤフコメやツイッター、市民団体が問題視 2021年8月27日 20:25 開催中の全国高校野球選手権大会でベスト４に進出した京都国際高（京都市東山区）に対し、インターネット上で民族差別とみられるコメントが多数投稿されている。事態を問題視した京都市内の市民団体が２７日、京都...",
+          "link": "https://www.kyoto-np.co.jp/articles/-/627091",
+          "publishedOn": "2021-08-27T12:08:41.000Z",
+          "wordCount": 355,
+          "title": "甲子園４強の京都国際に差別的ネット投稿　ヤフコメやツイッター、市民団体が問題視｜社会｜地域のニュース｜京都新聞"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210827/k10013225891000.html",
@@ -141,6 +150,15 @@
           "title": "Hiroshi Tsuji on Twitter: \"コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU\""
         },
         {
+          "id": "https://togetter.com/li/1765688",
+          "author": null,
+          "description": "福田ナオ絵 @fukku7010gmail1 福田ナオ(@otona_o)の絵練習アカウントです。インターネットとTwitterが大好き。毎日更新を続けたいです。疲れている日はマルとかしか描きません。それもやり忘れた日は500円貯金します。いつも見てくださりありがとうございます。ファンボはじめました→naofukuda.fanbox.cc 福田ナオ絵 @fu...",
+          "link": "https://togetter.com/li/1765688",
+          "publishedOn": "2021-08-27T08:48:00.000Z",
+          "wordCount": 1571,
+          "title": "「ネットで素顔や本名は絶対晒すなよ」というあの頃の教えを未だに守ってるの、もしやほぼオタクだけなのでは - Togetter"
+        },
+        {
           "id": "https://togetter.com/li/1765632",
           "author": null,
           "description": "のぼりくだり @nbrkdrnfnht あるとき親との会話の中で「親が稼いだ金だし」みたいなことを言ったのだが、「親が稼いだ金であることを主張されると、親が家庭内での絶対的な権力者になってしまうため、そういうことは絶対に言うな」と注意された 2021-08-26 15:21:28",
@@ -168,21 +186,12 @@
           "title": "選手村で自動運転車と接触、パラ柔道・北薗選手が負傷：朝日新聞デジタル"
         },
         {
-          "id": "https://togetter.com/li/1765656",
-          "author": null,
-          "description": "「州知事がクオモでよかった目がハートの笑顔」てtweetしてた人たち。なぜ人々は騙されてしまったのか。",
-          "link": "https://togetter.com/li/1765656",
-          "publishedOn": "2021-08-27T06:52:37.000Z",
-          "wordCount": 669,
-          "title": "「州知事がクオモでよかった」のまとめ - Togetter"
-        },
-        {
           "id": "https://www.bbc.com/japanese/58352258",
           "author": null,
           "description": "画像説明, 4本足のクジラの骨格の一部がエジプトの西方砂漠で見つかった（画像提供：論文共著者のロバート・W・ベーセネッカー博士）",
           "link": "https://www.bbc.com/japanese/58352258",
           "publishedOn": "2021-08-27T04:58:32.000Z",
-          "wordCount": 64,
+          "wordCount": 61,
           "title": "4本足の新種クジラの化石、エジプトで発見 - BBCニュース"
         },
         {
@@ -249,21 +258,12 @@
           "title": "君に届け!滑稽新聞@空気を変える on Twitter: \"すげー。今度、自民党総裁選に出るっていう高市早苗のスピーチ。恐ろしいこと言ってるよ 「さもしい顔して貰える物は貰おう。弱者のフリして得しよう。そんな国民ばかりじゃ国は滅びる。人様に迷惑かけない社会へ。もう一度、日本を奴らから取り戻… https://t.co/YUCKqTXbiM\""
         },
         {
-          "id": "https://www.hokkaido-np.co.jp/article/582551",
-          "author": null,
-          "description": "北方領土国後島から来たというロシア人男性が根室管内標津町で保護され、２６日で１週間が過ぎた。日本への亡命を求めているとされるが、事情を聴いている札幌出入国在留管理局（札幌入管）は詳細を明らかにしておらず、渡航方法も不明のままだ。北方四島を「固有の領土」とする日本政府の立場に沿えば、男性は国内を移...",
-          "link": "https://www.hokkaido-np.co.jp/article/582551",
-          "publishedOn": "2021-08-27T00:57:14.000Z",
-          "wordCount": 243,
-          "title": "「国後から来た」なら「国内移動」　ロシア人男性処遇に日本政府苦慮　標津で保護１週間：北海道新聞 どうしん電子版"
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210827002706",
           "author": null,
           "description": "序、破までは普通に楽しめていた。 なぜなら新劇場版で登場するのは、TVアニメ版でも再三出てきた「人類補完計画」や「セカンドインパクト」など、ニワカファンの俺でも理解できるワードばかりだったからだ。 ところがQで出るわ出るわ、わけわからん新ワード。「アダムスの器」、「インフィニティのなり損ない」などなど...",
           "link": "https://anond.hatelabo.jp/20210827002706",
           "publishedOn": "2021-08-26T16:59:05.000Z",
-          "wordCount": 110,
+          "wordCount": 112,
           "title": "シンエヴァの造語がわかりにくすぎたので解説サイトで全部調べた"
         }
       ]

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T04:15:32.370Z</id>
+    <id>urn:2021-08-27T05:10:25.302Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T04:15:32.370Z</updated>
+    <updated>2021-08-27T05:10:25.302Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京の若者向けワクチン接種 想定超える人数に急きょ整理券｜NHK 首都圏のニュース]]></title>
+        <id>https://www3.nhk.or.jp/shutoken-news/20210827/1000069459.html</id>
+        <link href="https://www3.nhk.or.jp/shutoken-news/20210827/1000069459.html"/>
+        <updated>2021-08-27T03:14:41.000Z</updated>
+        <summary type="html"><![CDATA[東京都が若い世代を対象に渋谷に設けた会場で新型コロナウイルスのワクチン接種が２７日から始まりましたが、想定を大幅に超える人が訪れたため、開始時間の正午を待たず、午前７時半すぎに受け付けを終了しました。 接種会場が設けられたのは渋谷区神南にある「区立勤労福祉会館」で、対象となるのは１６歳から３９歳ま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、他社決済も容認　米アプリ開発者と合意：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021082700540&amp;g=int</id>
@@ -61,6 +71,16 @@
         <link href="https://news.yahoo.co.jp/articles/d2a4abc6ceebe7b2ed728b7590f737a1cf68c25c"/>
         <updated>2021-08-26T23:24:23.000Z</updated>
         <summary type="html"><![CDATA[念願のマンションを購入して住みはじめると隣人とのトラブルに悩まされたり、騒音などにより生活に支障をきたしたり、予期せぬ問題が発生することがある。 【画像】羽アリ、カメムシも発生…“被害”をすべて見る（10枚） 自営業の山田一郎さん（50代=仮名）の場合は、耐えきれないほどの「悪臭」に襲われたことだった。 山...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナワクチン4回接種した80代男性「早く5回目を打ちたい」（NEWSポストセブン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9</id>
+        <link href="https://news.yahoo.co.jp/articles/30961fa679d59ffe49386794e141dc4ab4f5d7e9"/>
+        <updated>2021-08-26T23:18:44.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナワクチンの「3回目接種」が世界的に加速している。イスラエルでは8月1日から3回目接種を開始しており、日本でも来年以降に3回目を検討している。そんななか、日本国内ですでに「4回目」を打った人物がいる。 【写真】明るい部屋の六芒星の前でイスラエル首相の母が3回目のワクチン接種 「勤め先の社長から『お...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,31 +266,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[障害者が主人公の漫画]]></title>
-        <id>https://anond.hatelabo.jp/20210826191156</id>
-        <link href="https://anond.hatelabo.jp/20210826191156"/>
-        <updated>2021-08-26T10:23:09.000Z</updated>
-        <summary type="html"><![CDATA[パラリンピックを見ててふと思ったけど、障害者が主人公の漫画って結構あるな。 「リアル」とかストレートに障害を扱ったのは別にして、 コブラ　左腕欠損 鋼の錬金術師　右腕・左足欠損 ベルセルク　左腕欠損・右眼失明 スティール・ボール・ラン　下半身不随 機動戦士ガンダム サンダーボルト　両腕・両脚欠損 どろろ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「私が格差を拡大したとか、利益誘導をしていると言うが、何を言っているのか全然分からない」竹中平蔵氏がネットの批判に厳しく反論（ABEMA TIMES） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/eb3bb734311f21cea24c0ede2b2d69b293082977</id>
-        <link href="https://news.yahoo.co.jp/articles/eb3bb734311f21cea24c0ede2b2d69b293082977"/>
-        <updated>2021-08-26T09:01:10.000Z</updated>
-        <summary type="html"><![CDATA[25日の『ABEMA Prime』に慶應義塾大学名誉教授の竹中平蔵氏が生出演。ネット上の激しい“竹中批判”について「私が叩かれているときは正しいことを言っていると思ってくれれば」と反論した。 【映像】竹中平蔵氏に生直撃 “医療ムラ解体“論の真意とは? ネットの意見を踏まえ、アイドルグループ「アンジュルム」の元リーダー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[しょうもないのに忘れられない言葉]]></title>
         <id>https://anond.hatelabo.jp/20210826174448</id>
         <link href="https://anond.hatelabo.jp/20210826174448"/>
         <updated>2021-08-26T08:53:31.000Z</updated>
         <summary type="html"><![CDATA[たぶん自分以外は全く気にしていないだろうふとした言葉が、どうしても頭から離れず残っていることはないだろうか。心に残る名言とかそういったものではなく、もう少し生産性のないもので、忘れてもまったく困らないようなことなのに、なぜか忘れられずに頭にこびりついていること。 暇になったので、私の人生の各地点に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画館は危険だわ]]></title>
+        <id>https://anond.hatelabo.jp/20210825230012</id>
+        <link href="https://anond.hatelabo.jp/20210825230012"/>
+        <updated>2021-08-26T08:50:11.000Z</updated>
+        <summary type="html"><![CDATA[先日竜とそばかすの姫を観てきた。シンエヴァ以来だから映画館行くの結構久しぶりだった。 一番いい席で観たいから人が少し空いてきた頃にと思って行ったのだけど、思いっきり隣席にカップルが来やがった。 冴えないオッサンと不釣り合いな美女だった。(俺がとってない方の)いい席に女が来たが、それは俺の隣になる。 そ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2108/26/news134.html"/>
         <updated>2021-08-26T07:48:43.000Z</updated>
         <summary type="html"><![CDATA[文章の「3行要約」を生成するAIのデモサイトを、東大・松尾豊研究室発のAIベンチャーが公開。会話文の要約も得意だ。要約の正確性は「人間に匹敵する」という。 東京大学・松尾豊研究室発のAIベンチャーELYZA（イライザ／東京都文京区）は8月26日、文章の要約文を生成するAI「ELYZA DIGEST」を試せるデモサイトを公開し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「運転席ないバス」市街地公道を自動走行　岐阜市が１０月実証実験 | 岐阜新聞Web]]></title>
-        <id>https://www.gifu-np.co.jp/news/20210826/20210826-100273.html</id>
-        <link href="https://www.gifu-np.co.jp/news/20210826/20210826-100273.html"/>
-        <updated>2021-08-26T00:16:17.000Z</updated>
-        <summary type="html"><![CDATA[公共交通機関への自動運転技術の導入を目指す岐阜市は２５日、１０月２３日から９日間、小型バスタイプの電気自動車に人を乗せて市中心市街地の一般道を走る自動運転の実証実験を行うと発表した。車両と信号機を通信でつないで信号の色を自動で判断して走行したり、車両に搭載するセンサーで横断者と障害者を自動で検知...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

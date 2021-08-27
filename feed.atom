@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T10:13:23.449Z</id>
+    <id>urn:2021-08-27T11:09:59.190Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T10:13:23.449Z</updated>
+    <updated>2021-08-27T11:09:59.190Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://anond.hatelabo.jp/20210827115758"/>
         <updated>2021-08-27T03:04:25.000Z</updated>
         <summary type="html"><![CDATA[「職場と家の往復しかしていない」 「完全リモートワーク、最低限の買い物しか外出していない」 って増田とかブクマで書いてる人たちね。 こういう人たちに聞きたいんだけど、散髪、どうしてる？バリカンで坊主？リモートワーク民はまあいいかもしれないけど、出社してる民は最低限の身なりは整えないといけないと思うん...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「役に立たない機械」早慶戦 :: デイリーポータルZ]]></title>
+        <id>https://dailyportalz.jp/kiji/yakuni-tatanai-kikai-sokei-sen</id>
+        <link href="https://dailyportalz.jp/kiji/yakuni-tatanai-kikai-sokei-sen"/>
+        <updated>2021-08-27T02:33:34.000Z</updated>
+        <summary type="html"><![CDATA[「役に立たない機械」という、早稲田建築の名物課題がある。学生が全力で役に立たない機械を作るのだ。実は慶応にも同じ課題が出される授業があり、今年、初の早慶戦が行われた。 「役に立たない機械」の早慶戦が開催された 「役に立たない機械」とは、早稲田大学の建築学科の一年生に対する名物課題で、役に立たない機...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://news.yahoo.co.jp/articles/6f5dfd274016cb89315ef2dbf2bf6da6655179ac"/>
         <updated>2021-08-26T21:35:03.000Z</updated>
         <summary type="html"><![CDATA[島根県の丸山達也知事が２６日、次回の全国知事会で採択する声明文の「４７都道府県で連携して新型コロナウイルスの感染対策に取り組む」との文言を削除するよう提案する考えを示した。東京都の感染対策に不信感があるという。 丸山知事は、東京五輪・パラリンピック組織委員会が２３日夜に都内で開いた国際パラリンピッ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ医療崩壊の原因は開業医の不作為だ | 新型コロナ、長期戦の混沌 | 東洋経済オンライン | 社会をよくする経済ニュース]]></title>
-        <id>https://toyokeizai.net/articles/-/450974</id>
-        <link href="https://toyokeizai.net/articles/-/450974"/>
-        <updated>2021-08-26T21:32:50.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス・デルタ株の流行で連日のように医療現場の窮状が伝えられている。医療提供体制の問題が指摘されながら拡大がなかなか進まない。 東京都は改正感染症法16条の2に基づき民間病院への協力を要請したが効果はあるのだろうか。何しろ、市井の多くの診療所やクリニックは1年半以上も「熱のある方は保健所へ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T06:14:44.190Z</id>
+    <id>urn:2021-08-27T07:12:07.520Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T06:14:44.190Z</updated>
+    <updated>2021-08-27T07:12:07.520Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://natrom.hatenablog.com/entry/2021/08/27/104850"/>
         <updated>2021-08-27T01:53:40.000Z</updated>
         <summary type="html"><![CDATA[イベルメクチンに対する「熱狂」 一部の界隈で新型コロナウイルス感染症に対するイベルメクチンへの期待が高まっている。熱狂的であるとすら言える。「海外ではイベルメクチンが大きな成果を上げているのに日本で使用が制限されているのはけしからん」といった具合だ。反ワクチンや陰謀論（「安価なイベルメクチンで新型...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「国後から来た」なら「国内移動」　ロシア人男性処遇に日本政府苦慮　標津で保護１週間：北海道新聞 どうしん電子版]]></title>
+        <id>https://www.hokkaido-np.co.jp/article/582551</id>
+        <link href="https://www.hokkaido-np.co.jp/article/582551"/>
+        <updated>2021-08-27T00:57:14.000Z</updated>
+        <summary type="html"><![CDATA[北方領土国後島から来たというロシア人男性が根室管内標津町で保護され、２６日で１週間が過ぎた。日本への亡命を求めているとされるが、事情を聴いている札幌出入国在留管理局（札幌入管）は詳細を明らかにしておらず、渡航方法も不明のままだ。北方四島を「固有の領土」とする日本政府の立場に沿えば、男性は国内を移...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://www.4gamer.net/games/999/G999905/20210826081/"/>
         <updated>2021-08-26T08:10:05.000Z</updated>
         <summary type="html"><![CDATA[［CEDEC 2021］フランス人開発者が，日本のゲーム業界の常識を斬る。「日本で世界規模の競争力のあるゲーム開発は可能なのか？」聴講レポート ライター：箭本進一 日本で活躍するフランス人開発者が，日本ゲーム業界の問題点を指摘するという講演「Is Worldwide Competitive Game Development possible in Japan?／日本...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「どんな文章も3行に要約するAI」デモサイト、東大松尾研発ベンチャーが公開　「正確性は人間に匹敵」 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/26/news134.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/26/news134.html"/>
-        <updated>2021-08-26T07:48:43.000Z</updated>
-        <summary type="html"><![CDATA[文章の「3行要約」を生成するAIのデモサイトを、東大・松尾豊研究室発のAIベンチャーが公開。会話文の要約も得意だ。要約の正確性は「人間に匹敵する」という。 東京大学・松尾豊研究室発のAIベンチャーELYZA（イライザ／東京都文京区）は8月26日、文章の要約文を生成するAI「ELYZA DIGEST」を試せるデモサイトを公開し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

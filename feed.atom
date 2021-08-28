@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T13:16:00.335Z</id>
+    <id>urn:2021-08-28T14:10:43.355Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T13:16:00.335Z</updated>
+    <updated>2021-08-28T14:10:43.355Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,11 +26,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 3581人感染確認 重症者は297人で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 19人死亡3581人感染 重症者297人過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210828/k10013229041000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210828/k10013229041000.html"/>
         <updated>2021-08-28T07:50:04.000Z</updated>
-        <summary type="html"><![CDATA[東京都は28日、都内で新たに3581人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の土曜日より1493人減りました。 前の週の同じ曜日を下回るのはこれで6日連続です。 一方、都の基準で集計した28日時点の重症の患者は過去最多だった27日からさらに3人増えて297人となり、最多を更新しました。]]></summary>
+        <summary type="html"><![CDATA[東京都内では28日、新たに3581人が新型コロナウイルスに感染していることが確認され6日連続で前の週の同じ曜日を下回りました。一方、重症患者と入院している人はいずれも過去最多となり医療体制の危機的な状況が続いています。 また都は自宅療養中に死亡した2人を含む19人の死亡を発表し、一日の発表としては今回の第5...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -61,6 +61,16 @@
         <link href="https://togetter.com/li/1765997"/>
         <updated>2021-08-28T02:47:59.000Z</updated>
         <summary type="html"><![CDATA[現地にいた人によると炎天下に5〜6000人は並んでいるのではとのこと。 都庁などでのワクチン予約枠も若者向けに開放されることになったので、接種希望される方はそちらもご検討ください。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元チア部の私が思い出す「彼氏が甲子園球児だった青春時代」 スポーツの強さは“社会との断絶”と引き換えなのか？ - 高校野球 - Number Web - ナンバー]]></title>
+        <id>https://number.bunshun.jp/articles/-/849555</id>
+        <link href="https://number.bunshun.jp/articles/-/849555"/>
+        <updated>2021-08-28T02:20:02.000Z</updated>
+        <summary type="html"><![CDATA[オリンピックがはじまる少し前、開幕の是非を討論するテレビ番組を見た。そこで出演者の有森裕子さんが、「アスリートファーストではなく、社会ファーストで考えるべき」という主旨の発言をしていて、深く心に残った。 討論番組の放送時よりもさらに事態は悪化しているが、パラリンピックも開幕している。開幕直前、国際...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -110,7 +120,7 @@
         <id>https://news.yahoo.co.jp/articles/a874a05af1b6144da45a2518ae0764f5bda0141b</id>
         <link href="https://news.yahoo.co.jp/articles/a874a05af1b6144da45a2518ae0764f5bda0141b"/>
         <updated>2021-08-28T00:51:05.000Z</updated>
-        <summary type="html"><![CDATA[8月27～29日に群馬県利根郡片品村のほたか牧場キャンプ場で開催される音楽イベント「GLOBAL ARK 2021　－The 10th Anniversary－」が設けた「不織布マスクNG」といったルールに対して、ネット上で批判の声が続出している。 今年10周年を迎える同イベントは公式サイトにて、「おしゃれマスク」がドレスコードで、「不織布...]]></summary>
+        <summary type="html"><![CDATA[8月27～29日に群馬県利根郡片品村のほたか牧場キャンプ場で開催される音楽イベント「GLOBAL ARK 2021　－The 10th Anniversary－」が設けた「不織布マスクNG」といったルールに対して、ネット上で批判の声が続出している。 【写真】太眉卒業の井上咲楽が小顔シルエットマスクを持つ 今年10周年を迎える同イベントは公式...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://ameblo.jp/darvish-yu-blog/entry-12694637030.html"/>
         <updated>2021-08-27T21:23:47.000Z</updated>
         <summary type="html"><![CDATA[中田翔選手についてコメントをというリプがTwitterにちらほらきていたので書きたいと思います。2007年ドラフト1位でファイターズが獲得した時はチームメイトになるのが凄く嬉しかった記憶があります。2008年に初めて会い、見かけによらず愛嬌があり憎めないいい子だったのですぐに仲良くなりました。当時は結構ビッグマ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン接種後死亡1002人「接種と因果関係」結論づけられず | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210828/k10013228011000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210828/k10013228011000.html"/>
-        <updated>2021-08-27T21:23:20.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスのワクチン接種後に副反応の疑いがあると報告された事例について、厚生労働省が最新の分析結果を公表しました。8月8日までに死亡した人で「接種と因果関係がある」と結論づけられた人はいなかったということです。 厚生労働省によりますと、新型コロナウイルスのワクチン接種を受けたあとに死亡が確認...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T10:12:48.131Z</id>
+    <id>urn:2021-08-28T11:09:50.067Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T10:12:48.131Z</updated>
+    <updated>2021-08-28T11:09:50.067Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -216,6 +216,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[忽那賢志 on Twitter: "大変光栄なことに、吉村府知事からご依頼をいただき本プロジェクトの体制整備の指揮役を務めさせていただくことになりました。関係各所の皆さま、新参者ですがよろしくお願い致します。 阪大の一員として、府知事の熱いお気持ちに応えるべく、また… https://t.co/qjK685Bw5Y"]]></title>
+        <id>https://twitter.com/kutsunasatoshi/status/1431273481434386433</id>
+        <link href="https://twitter.com/kutsunasatoshi/status/1431273481434386433"/>
+        <updated>2021-08-27T15:16:10.000Z</updated>
+        <summary type="html"><![CDATA[大変光栄なことに、吉村府知事からご依頼をいただき本プロジェクトの体制整備の指揮役を務めさせていただくことになりました。関係各所の皆さま、新参者ですがよろしくお願い致します。 阪大の一員として、府知事の熱いお気持ちに応えるべく、また… https://t.co/qjK685Bw5Y]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中央省庁の共通システム打ち切り　利用低迷、年間100億の事業（共同通信） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7</id>
         <link href="https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7"/>
@@ -281,16 +291,6 @@
         <link href="https://twitter.com/honnoinosisi555/status/1430855477651415048"/>
         <updated>2021-08-27T12:03:27.000Z</updated>
         <summary type="html"><![CDATA[賛同できない主張。これを大型書店の店長が言う絶望感。 「ぼくは「ヘイト本」を店頭から排除しません。「ヘイト本」を「ヘイト本」たらしめているのが「排除の思想」であるなら、みずからも同じ排除の構えを取りたくないからです。」（福嶋聡・文… https://t.co/XFDX9dywAn]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiroshi Tsuji on Twitter: "コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU"]]></title>
-        <id>https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571</id>
-        <link href="https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571"/>
-        <updated>2021-08-27T09:07:43.000Z</updated>
-        <summary type="html"><![CDATA[コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

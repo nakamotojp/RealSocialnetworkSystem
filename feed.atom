@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T06:13:49.195Z</id>
+    <id>urn:2021-08-28T07:11:30.521Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T06:13:49.195Z</updated>
+    <updated>2021-08-28T07:11:30.521Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[韓国、アフガンから390人脱出成功　特殊部隊「ミラクル」作戦 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210827/k00/00m/030/283000c</id>
+        <link href="https://mainichi.jp/articles/20210827/k00/00m/030/283000c"/>
+        <updated>2021-08-27T21:29:50.000Z</updated>
+        <summary type="html"><![CDATA[韓国政府は27日までに、アフガニスタンで韓国政府に協力していた現地スタッフとその家族390人を脱出させ、韓国で難民ではなく「特別功労者」として受け入れた。作戦名は「ミラクル」（奇跡）。首都カブールの国際空港への接近が難しい状況下で、在アフガニスタン韓国大使館職員以外に60人余の特殊任務部隊を編成し、希望...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[渋谷に若者殺到　「マジで意味ない」東京都のワクチンＰＲ事業10億円、小池知事与党からも疑問の声：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/127281</id>
         <link href="https://www.tokyo-np.co.jp/article/127281"/>
@@ -161,6 +171,16 @@
         <link href="https://togetter.com/li/1765837"/>
         <updated>2021-08-27T17:52:10.000Z</updated>
         <summary type="html"><![CDATA[もくめ@ゆるキャリOL @mokuyoku99 都内ゆるキャリOL｜31歳メーカー勤務🌸｜ジュエリー｜美容｜カフェ｜ヴァンクリ♡｜お得情報｜芸能情報｜OLが日常生活で考える戯言｜今を幸せに生きるための思考術｜etcのバラエティ豊かなアカウント。ジュエリー載せているインスタ同じ名前でやってます🥺ブログもやってます💕商品紹介...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外資に優秀人材、取られちゃう日本企業 「うちには外資にない魅力がある！そこをアピールしなきゃ！！（ｷﾘｯ）」 - Togetter]]></title>
+        <id>https://togetter.com/li/1765860</id>
+        <link href="https://togetter.com/li/1765860"/>
+        <updated>2021-08-27T15:31:38.000Z</updated>
+        <summary type="html"><![CDATA[加藤公一（はむかず） @hamukazu 外資にどんどん優秀人材取られちゃうので、「弊社も給与水準をあげよう」という日本企業も出てきてるんですけど、「うちには外資にない魅力があるからそこをアピールしなきゃ」になりがちなのがアレなんですよね。 2021-08-26 11:26:01]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -266,31 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「コロナは空気感染が主たる経路」　研究者らが対策提言 [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8W6KSKP8WULBJ00H.html</id>
-        <link href="https://www.asahi.com/articles/ASP8W6KSKP8WULBJ00H.html"/>
-        <updated>2021-08-27T11:37:55.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染対策について、感染症や科学技術社会論などの研究者らが、「空気感染が主な感染経路」という前提でさらなる対策を求める声明を出した。「いまだ様々な方法が残されており、それらによる感染拡大の阻止は可能である」と訴えている。 空気、飛沫、接触…コロナの感染経路は？　声明は、東北大の本...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hiroshi Tsuji on Twitter: "コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU"]]></title>
         <id>https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571</id>
         <link href="https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571"/>
         <updated>2021-08-27T09:07:43.000Z</updated>
         <summary type="html"><![CDATA[コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ネットで素顔や本名は絶対晒すなよ」というあの頃の教えを未だに守ってるの、もしやほぼオタクだけなのでは - Togetter]]></title>
-        <id>https://togetter.com/li/1765688</id>
-        <link href="https://togetter.com/li/1765688"/>
-        <updated>2021-08-27T08:48:00.000Z</updated>
-        <summary type="html"><![CDATA[福田ナオ絵 @fukku7010gmail1 福田ナオ(@otona_o)の絵練習アカウントです。インターネットとTwitterが大好き。毎日更新を続けたいです。疲れている日はマルとかしか描きません。それもやり忘れた日は500円貯金します。いつも見てくださりありがとうございます。ファンボはじめました→naofukuda.fanbox.cc 福田ナオ絵 @fu...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

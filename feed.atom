@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T21:10:22.820Z</id>
+    <id>urn:2021-08-28T22:11:28.082Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T21:10:22.820Z</updated>
+    <updated>2021-08-28T22:11:28.082Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,16 @@
         <summary type="html"><![CDATA[28日、格闘家のぱんちゃん璃奈（27）がワクチン接種後の副反応に関して声を上げた。
 
 　ぱんちゃんは22日に二度目の新型コロナウイルスワクチンの接種を行ったが、「普段は出ない何かのアレルギーがワク]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[よくわかるcontextの使い方]]></title>
+        <id>https://zenn.dev/hsaki/books/golang-context</id>
+        <link href="https://zenn.dev/hsaki/books/golang-context"/>
+        <updated>2021-08-28T12:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Goの標準パッケージにはcontextパッケージというものが存在します。 このパッケージは、net/httpやdatabase/sqlのような現実の事象と対応している何かが存在するようなパッケージではないため、初学者にとっては使い道がわからない、となってしまいがちです。 しかしcontextパッケージは、複数のゴールーチンを跨いだ処...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -148,6 +158,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大阪 吉村知事「1000床単位の野戦病院を作りたい」阪大に相談 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210828/k10013229081000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210828/k10013229081000.html"/>
+        <updated>2021-08-28T07:18:57.000Z</updated>
+        <summary type="html"><![CDATA[大阪府の吉村知事は、読売テレビの番組「ウェークアップ」で、新型コロナウイルスの感染拡大で、病床がひっ迫しつつある状況を踏まえ、大阪・住之江区の国際展示場「インテックス大阪」に、1000床程度を備えた臨時の患者の受け入れ施設を設置する方向で調整に入ったことを明らかにしました。 この中で、大阪府の吉村知事...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[笑っちゃうよな。氷河期世代は抽選すら参加できないんだぜ。]]></title>
+        <id>https://anond.hatelabo.jp/20210827203034</id>
+        <link href="https://anond.hatelabo.jp/20210827203034"/>
+        <updated>2021-08-28T06:40:52.000Z</updated>
+        <summary type="html"><![CDATA[渋谷で若い世代にワクチン接種を進めたいって、いいことだと思うよ。 だけどさ、なんで年齢が39歳までなんだ？ 40～49はどうしたんだよ。 おれんとこの自治体、予約始まったけど9月末まで打てないんだけど。 高齢者から始まって、働き盛りで感染リスク高いことわかってたけど今までずっと我慢してきて、ここにきて順番抜...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[羽鳥 だいすけ・中野区議会議員（日本共産党）・「種の保存」に関わってない人 on Twitter: "いやいや・・・。まさにその予算を削る修正案をつい先日（8/20）の都議会で共産・立憲・生活者ネットで提出して、あなたたち都民ファーストは自民党・公明党と一緒になって否決したじゃない？ いかにも理解者ぶっておいて、こういうの本当にズ… https://t.co/LSaKN4IHfq"]]></title>
         <id>https://twitter.com/HatoriDaisuke/status/1431223243118047233</id>
         <link href="https://twitter.com/HatoriDaisuke/status/1431223243118047233"/>
@@ -228,41 +258,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[製薬会社が厚労省に警告「HPVワクチン廃棄なら国際的に批判」]]></title>
-        <id>https://www.buzzfeed.com/jp/naokoiwanaga/hpvv-msd</id>
-        <link href="https://www.buzzfeed.com/jp/naokoiwanaga/hpvv-msd"/>
-        <updated>2021-08-28T02:16:21.000Z</updated>
-        <summary type="html"><![CDATA[製薬会社が厚労省に警告「HPVワクチン廃棄なら国際的に批判」積極的勧奨再開の議論に向けて動き始めている日本ですが、公式な手続きは始まっていません。再開に向けて日本向けのワクチンを確保した製薬会社が、「廃棄するようなことがあれば、今後の供給にも悪影響を与える」と警告する文書を厚労省に渡していたことがわ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福山哲郎・立憲民主党 on Twitter: "派遣された自衛隊員のご尽力に敬意を表します。しかし、なぜわずか1人なのですか。退避を希望する日本人やアフガン人のスタッフなど500人程度の想定だったのではないですか。ロシアも韓国もEUも数百人規模で退避しています。 https://t.co/2WF6XHx4zR"]]></title>
-        <id>https://twitter.com/fuku_tetsu/status/1431253275068694531</id>
-        <link href="https://twitter.com/fuku_tetsu/status/1431253275068694531"/>
-        <updated>2021-08-28T01:05:55.000Z</updated>
-        <summary type="html"><![CDATA[派遣された自衛隊員のご尽力に敬意を表します。しかし、なぜわずか1人なのですか。退避を希望する日本人やアフガン人のスタッフなど500人程度の想定だったのではないですか。ロシアも韓国もEUも数百人規模で退避しています。 https://t.co/2WF6XHx4zR]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「不織布マスクＮＧ」ルールの音楽イベントにネット上で批判の声（日刊スポーツ） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/a874a05af1b6144da45a2518ae0764f5bda0141b</id>
         <link href="https://news.yahoo.co.jp/articles/a874a05af1b6144da45a2518ae0764f5bda0141b"/>
         <updated>2021-08-28T00:51:05.000Z</updated>
         <summary type="html"><![CDATA[8月27～29日に群馬県利根郡片品村のほたか牧場キャンプ場で開催される音楽イベント「GLOBAL ARK 2021　－The 10th Anniversary－」が設けた「不織布マスクNG」といったルールに対して、ネット上で批判の声が続出している。 【写真】太眉卒業の井上咲楽が小顔シルエットマスクを持つ 今年10周年を迎える同イベントは公式...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[結婚しない自分はどうなるんだろう？ってのが分からない]]></title>
-        <id>https://anond.hatelabo.jp/20210828075307</id>
-        <link href="https://anond.hatelabo.jp/20210828075307"/>
-        <updated>2021-08-27T22:53:18.000Z</updated>
-        <summary type="html"><![CDATA[結婚しない or 出来ない自分がどうなるのか？分からない、というか実感を伴って想像できない。 私の親族は全員が早くに結婚していて、子供も持っており、年を経ても大変ながらも幸せな夫婦であり続けている。 一生を独身で過ごしているサンプルが身近にいないので、未来が想像できない。一人でいる事で起こりえる諸問題...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

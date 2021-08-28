@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T03:12:35.520Z</id>
+    <id>urn:2021-08-28T04:15:23.178Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T03:12:35.520Z</updated>
+    <updated>2021-08-28T04:15:23.178Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[エアロゾルが空気感染である事について - Togetter]]></title>
+        <id>https://togetter.com/li/1765948</id>
+        <link href="https://togetter.com/li/1765948"/>
+        <updated>2021-08-27T23:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Hiroshi Tsuji @Hiroshi_Tsuji ・スピーチでは、100μm以上の飛沫に対して、100倍-1000倍の100μm未満のエアロゾルが生成 ・子供は大人に比べてウイルスを含んだエアロゾルの発生が少ない ・いくつかの呼吸器系ウイルスを対象とした研究では、大きなエアロゾルよりも小さな（5μm未満）エアロゾルのほうがウイルスRNAが多か...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[結婚しない自分はどうなるんだろう？ってのが分からない]]></title>
         <id>https://anond.hatelabo.jp/20210828075307</id>
         <link href="https://anond.hatelabo.jp/20210828075307"/>
@@ -41,6 +51,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210828/k10013228021000.html"/>
         <updated>2021-08-27T22:50:58.000Z</updated>
         <summary type="html"><![CDATA[モデルナの新型コロナウイルスワクチンを接種したあと、腕が赤くなったり、かゆみが出たりする「モデルナ・アーム」と呼ばれる症状について、4万人余りを対象にした大規模な調査の結果、およそ18人に1人に見られたと自衛隊中央病院が公表しました。 これまでの調査より高い割合ですが、調査に関わった医師は「症状は比較...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[退避は、もうほぼ時間切れ。24ヵ国の自国民とアフガニスタン関係者らの避難状況は。日本との比較。（今井佐緒里） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/saorii/20210828-00255358</id>
+        <link href="https://news.yahoo.co.jp/byline/saorii/20210828-00255358"/>
+        <updated>2021-08-27T22:29:28.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンのハミド・カルザイ空港で米空軍C-17で退避するアフガン人。22日（提供:U.S. Air Force/ロイター/アフロ） アメリカ国防総省は、アメリカ軍は、必要に応じて8月31日までカブール空港からの退避を継続するが、最後の数日は軍事力（軍人）と軍需品の撤退を優先させると述べた。 これで合点がいった。 筆者は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パルスパワー高電圧スイカ割り（5kJ） - HTLAB.NET（高エネルギー技術研究室）]]></title>
-        <id>https://htlab.net/electronics/pulsepower/watermelon-5kj-01/</id>
-        <link href="https://htlab.net/electronics/pulsepower/watermelon-5kj-01/"/>
-        <updated>2021-08-27T09:38:53.000Z</updated>
-        <summary type="html"><![CDATA[パルスパワー高電圧スイカ割り（5kJ） 6000Vの高電圧でスイカを割ってみました。 そもそも事の発端はこれです。 スイカ割りという概念に引っかかればOKらしいので、パルスパワーで割ってみます。 つまり、コンデンサに充電した電気を一気に流す装置を作るということです。 といっても、コンデンサとスイッチ、充電回路を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hiroshi Tsuji on Twitter: "コロナパンデミックで加速した科学や流体力学の知見から、従来の飛沫、空気感染(=airborne transmission）の定義の再考を行うべきとするレビュー(参考文献なんと206!)が、今朝のScience誌に。 はしかや結核… https://t.co/eKLQH2mIuU"]]></title>
         <id>https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571</id>
         <link href="https://twitter.com/Hiroshi_Tsuji/status/1431163084140269571"/>
@@ -271,16 +281,6 @@
         <link href="https://togetter.com/li/1765688"/>
         <updated>2021-08-27T08:48:00.000Z</updated>
         <summary type="html"><![CDATA[福田ナオ絵 @fukku7010gmail1 福田ナオ(@otona_o)の絵練習アカウントです。インターネットとTwitterが大好き。毎日更新を続けたいです。疲れている日はマルとかしか描きません。それもやり忘れた日は500円貯金します。いつも見てくださりありがとうございます。ファンボはじめました→naofukuda.fanbox.cc 福田ナオ絵 @fu...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ある時、親との会話の中で『親が稼いだ金だし』みたいな事を言ったら注意された「神みたいな模範解答」「その親聖人ですね…」 - Togetter]]></title>
-        <id>https://togetter.com/li/1765632</id>
-        <link href="https://togetter.com/li/1765632"/>
-        <updated>2021-08-27T08:29:22.000Z</updated>
-        <summary type="html"><![CDATA[のぼりくだり @nbrkdrnfnht あるとき親との会話の中で「親が稼いだ金だし」みたいなことを言ったのだが、「親が稼いだ金であることを主張されると、親が家庭内での絶対的な権力者になってしまうため、そういうことは絶対に言うな」と注意された 2021-08-26 15:21:28]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

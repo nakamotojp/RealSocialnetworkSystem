@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T04:15:23.178Z</id>
+    <id>urn:2021-08-28T05:10:16.858Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T04:15:23.178Z</updated>
+    <updated>2021-08-28T05:10:16.858Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[地下鉄 硫酸による傷害事件 容疑者の男 沖縄で身柄確保し逮捕 | 事件 | NHKニュース]]></title>
+        <title type="html"><![CDATA[渋谷 ワクチン接種会場 抽せん変更のきょうも長い列 約1キロに | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210828/k10013228761000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210828/k10013228761000.html"/>
+        <updated>2021-08-28T03:00:56.000Z</updated>
+        <summary type="html"><![CDATA[27日、想定を超える人が訪れて混乱した若い世代向けの渋谷のワクチン接種会場では、抽せんに変更された28日も朝早くから大勢の人たちが訪れて長い列ができたため、予定より40分ほど早く抽せん券の配布が始まりました。列は一時、およそ1キロに達したということです。 東京都が渋谷区の「区立勤労福祉会館」に設けた若い...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渋谷の「若者ワクチン接種センター」抽選方式になった結果、原宿まで伸びる大行列に - Togetter]]></title>
+        <id>https://togetter.com/li/1765997</id>
+        <link href="https://togetter.com/li/1765997"/>
+        <updated>2021-08-28T02:47:59.000Z</updated>
+        <summary type="html"><![CDATA[現地にいた人によると炎天下に5〜6000人は並んでいるのではとのこと。 都庁などでのワクチン予約枠も若者向けに開放されることになったので、接種希望される方はそちらもご検討ください。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京 地下鉄 硫酸による傷害事件 沖縄で容疑者を発見し逮捕 | 事件 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210828/k10013228661000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210828/k10013228661000.html"/>
         <updated>2021-08-28T02:06:43.000Z</updated>
-        <summary type="html"><![CDATA[今月24日、東京・港区の地下鉄の駅で男性が硫酸をかけられて大けがをし近くにいた女性もけがをした事件で、警視庁は先ほど沖縄県内で容疑者の身柄を確保し傷害の疑いで逮捕しました。被害者の男性とは大学時代に同じサークルだったということで警視庁はトラブルがなかったかなどを調べています。 逮捕されたのは静岡市葵...]]></summary>
+        <summary type="html"><![CDATA[今月24日、東京・港区の地下鉄の駅で男性が硫酸を顔にかけられて大けがをした事件で、警視庁は沖縄県内で容疑者の身柄を確保し傷害の疑いで逮捕しました。被害者の男性とは大学時代に同じサークルだったということで警視庁が詳しいいきさつを調べています。 逮捕されたのは静岡市葵区の職業不詳、花森弘卓容疑者（25）で...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ノリの軽い後輩の「コロナワクチン接種の例え」が本当にノリが軽い…「良い例え」「たしかにそう」と共感の反応も - Togetter]]></title>
-        <id>https://togetter.com/li/1765874</id>
-        <link href="https://togetter.com/li/1765874"/>
-        <updated>2021-08-27T17:27:31.000Z</updated>
-        <summary type="html"><![CDATA[マルキン @ma_ru_kin 普段からノリが軽い後輩がワクチン接種のことを「コロナ体験版インストール」って呼んでて本当にノリ軽いなこいつって思った。 2021-08-26 21:29:37]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[世界は変わってしまったのか]]></title>
         <id>https://anond.hatelabo.jp/20210828000542</id>
         <link href="https://anond.hatelabo.jp/20210828000542"/>
@@ -191,16 +201,6 @@
         <link href="https://car.watch.impress.co.jp/docs/news/1346893.html"/>
         <updated>2021-08-27T12:52:49.000Z</updated>
         <summary type="html"><![CDATA[トヨタ自動車 代表取締役社長 豊田章男氏は8月27日、同社のオウンドメディアである「トヨタイムズ放送部」に緊急生出演。8月26日14時ごろ発生した同社の自動運転車「e-Palette（eパレット）」とパラリンピック選手の接触に関して、現状話ができることについて語ったほか、放送後にオンラインによる会見を行なった。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トーチweb ブログ 【追悼 みなもと太郎先生（担当編集者より）】]]></title>
-        <id>http://to-ti.in/blog/20210827</id>
-        <link href="http://to-ti.in/blog/20210827"/>
-        <updated>2021-08-27T12:47:23.000Z</updated>
-        <summary type="html"><![CDATA[みなもと太郎先生が逝去された。 8月7日午前2時。入院中の病院で亡くなったと奥様からご連絡があった。昨年来、先生は肺がんの療養のため入退院を繰り返す生活を送られていたが、『風雲児たち』の連載再開を目指して前向きに病と向き合われていた。病状は深刻なものだったけれどお会いする度にお元気で、本当にこのまま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

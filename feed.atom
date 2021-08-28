@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T11:09:50.067Z</id>
+    <id>urn:2021-08-28T12:17:45.506Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T11:09:50.067Z</updated>
+    <updated>2021-08-28T12:17:45.506Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[菅内閣支持率26％　最低更新　不支持66％　毎日新聞世論調査 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210828/k00/00m/010/251000c</id>
+        <link href="https://mainichi.jp/articles/20210828/k00/00m/010/251000c"/>
+        <updated>2021-08-28T08:53:33.000Z</updated>
+        <summary type="html"><![CDATA[毎日新聞と社会調査研究センターは28日、全国世論調査を実施した。菅内閣の支持率は26％で、7月17日の前回調査の30％から4ポイント下落した。2020年9月の政権発足以降で初めて30％を切り、最低を更新した。調査方法は異なるが、第2次安倍政権で最も低かった17年7月の支持率と並んだ。不支持率は66％で前回の62％から4ポ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルナ製接種の２人死亡　見合わせ対象のワクチン使用―新型コロナ：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021082800412&amp;g=soc</id>
+        <link href="https://www.jiji.com/jc/article?k=2021082800412&amp;g=soc"/>
+        <updated>2021-08-28T08:41:09.000Z</updated>
+        <summary type="html"><![CDATA[モデルナ製接種の２人死亡　見合わせ対象のワクチン使用―新型コロナ 2021年08月28日17時54分 厚生労働省、環境省が入る中央合同庁舎第５号館＝東京都千代田区霞が関 米モデルナ製の新型コロナウイルスワクチンから異物が見つかった問題で、厚生労働省は２８日、異物が混入したワクチンと同時期に製造された製品を接種さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 3581人感染確認 重症者は297人で過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210828/k10013229041000.html</id>
@@ -61,6 +81,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210828/k10013228661000.html"/>
         <updated>2021-08-28T02:06:43.000Z</updated>
         <summary type="html"><![CDATA[今月24日、東京・港区の地下鉄の駅で男性が硫酸を顔にかけられて大けがをした事件で、警視庁は沖縄県内で容疑者の身柄を確保し傷害の疑いで逮捕しました。被害者の男性とは大学時代に同じサークルだったということで警視庁が詳しいいきさつを調べています。 逮捕されたのは静岡市葵区の職業不詳、花森弘卓容疑者（25）で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福山哲郎・立憲民主党 on Twitter: "派遣された自衛隊員のご尽力に敬意を表します。しかし、なぜわずか1人なのですか。退避を希望する日本人やアフガン人のスタッフなど500人程度の想定だったのではないですか。ロシアも韓国もEUも数百人規模で退避しています。 https://t.co/2WF6XHx4zR"]]></title>
+        <id>https://twitter.com/fuku_tetsu/status/1431253275068694531</id>
+        <link href="https://twitter.com/fuku_tetsu/status/1431253275068694531"/>
+        <updated>2021-08-28T01:05:55.000Z</updated>
+        <summary type="html"><![CDATA[派遣された自衛隊員のご尽力に敬意を表します。しかし、なぜわずか1人なのですか。退避を希望する日本人やアフガン人のスタッフなど500人程度の想定だったのではないですか。ロシアも韓国もEUも数百人規模で退避しています。 https://t.co/2WF6XHx4zR]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -226,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中央省庁の共通システム打ち切り　利用低迷、年間100億の事業（共同通信） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7</id>
-        <link href="https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7"/>
-        <updated>2021-08-27T15:08:45.000Z</updated>
-        <summary type="html"><![CDATA[政府が中央省庁の情報システムを統合するため昨年10月に開始した「共通プラットフォーム」の運用を打ち切ることが27日、総務省などへの取材で分かった。約720件ある政府情報システムのうち利用は約40件と低迷。総務省が今年6月、各省庁に来年度以降の受け入れ中止を通知した。年間予算約100億円を見込んだ事業は開始から...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[楳図かずおからのお知らせ]]></title>
         <id>https://umezz-art.jp/</id>
         <link href="https://umezz-art.jp/"/>
@@ -251,16 +271,6 @@
         <link href="https://togetter.com/li/1765812"/>
         <updated>2021-08-27T13:34:02.000Z</updated>
         <summary type="html"><![CDATA[肉巻きキャベツ @meetmeatmeetto 弊社の総務にITわからないマンが異動してきたときサーバールームを「誰もいないのに電源つけっぱなしにしてる」と思ってコンセント全部抜いてエアコンを切った事例がありましてな 2021-08-27 13:26:56]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPUとGPUのマルチスレッディングの違いについて - arutema47's blog]]></title>
-        <id>https://aru47.hatenablog.com/entry/2021/08/27/220051</id>
-        <link href="https://aru47.hatenablog.com/entry/2021/08/27/220051"/>
-        <updated>2021-08-27T13:17:58.000Z</updated>
-        <summary type="html"><![CDATA["Locality is efficiency, Efficiency is power, Power is performance, Performance is King", Bill Dally マルチスレッディングとは？ CPUとGPUのマルチスレッディングの違いをブログにまとめていたけど例によって誰も興味なさそう— arutema47 (@arutema47) 2021年8月16日 つぶやいたら読みたい方が多そうだったので完...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,16 +301,6 @@
         <link href="https://twitter.com/honnoinosisi555/status/1430855477651415048"/>
         <updated>2021-08-27T12:03:27.000Z</updated>
         <summary type="html"><![CDATA[賛同できない主張。これを大型書店の店長が言う絶望感。 「ぼくは「ヘイト本」を店頭から排除しません。「ヘイト本」を「ヘイト本」たらしめているのが「排除の思想」であるなら、みずからも同じ排除の構えを取りたくないからです。」（福嶋聡・文… https://t.co/XFDX9dywAn]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シンエヴァの造語がわかりにくすぎたので解説サイトで全部調べた]]></title>
-        <id>https://anond.hatelabo.jp/20210827002706</id>
-        <link href="https://anond.hatelabo.jp/20210827002706"/>
-        <updated>2021-08-26T16:59:05.000Z</updated>
-        <summary type="html"><![CDATA[序、破までは普通に楽しめていた。 なぜなら新劇場版で登場するのは、TVアニメ版でも再三出てきた「人類補完計画」や「セカンドインパクト」など、ニワカファンの俺でも理解できるワードばかりだったからだ。 ところがQで出るわ出るわ、わけわからん新ワード。「アダムスの器」、「インフィニティのなり損ない」などなど...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T20:12:02.681Z</id>
+    <id>urn:2021-08-29T21:10:15.560Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T20:12:02.681Z</updated>
+    <updated>2021-08-29T21:10:15.560Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -156,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ブログ: なぜ、ハイパーリンクは青色なのか?]]></title>
+        <id>https://okuranagaimo.blogspot.com/2021/08/blog-post_33.html</id>
+        <link href="https://okuranagaimo.blogspot.com/2021/08/blog-post_33.html"/>
+        <updated>2021-08-29T08:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Mozillaブログより。 エリーゼ・ブランチャード インターネットは私たちの生活のあらゆる場面に浸透していますが、デジタルの世界では当たり前のように使われているものがあります。それは、多くのリンク、特にハイパーリンクが青色であることに気づいたことがありますか? 同僚が何気なく「なぜ、リンクが青いのか」と聞...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 14人死亡 3081人感染確認 重症者は296人 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210829/k10013230811000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210829/k10013230811000.html"/>
@@ -241,16 +251,6 @@
         <link href="https://twitter.com/excel_kariyushi/status/1431600625570103303"/>
         <updated>2021-08-29T02:44:18.000Z</updated>
         <summary type="html"><![CDATA[個人的に一番感動したショートカットキーです。 https://t.co/loUuFoCjCm]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebookが火をつけた「メタバース革命」は、スマホの次の時代の扉を開くか（徳力基彦） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/tokurikimotohiko/20210829-00255514</id>
-        <link href="https://news.yahoo.co.jp/byline/tokurikimotohiko/20210829-00255514"/>
-        <updated>2021-08-29T02:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Facebookが、スマートフォン時代の後継者として仮想空間「メタバース」に5000億円以上を投下すると発表し、業界での注目が俄然高まっています。 特に注目されるのは、先週末にβ版を発表したばかりの仮想空間の会議サービス「Horizon Workrooms」でしょう。 筆者も実際に体験してみましたが、従来のVRサービスの制約を明...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T21:10:15.560Z</id>
+    <id>urn:2021-08-29T22:11:29.878Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T21:10:15.560Z</updated>
+    <updated>2021-08-29T22:11:29.879Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://togetter.com/li/1766881"/>
         <updated>2021-08-29T14:57:59.000Z</updated>
         <summary type="html"><![CDATA[いやはやこれは… 普段世の中に中指立てたりしてる界隈みたいな認識だけどまだ常識を持った上での敢えての乱痴気だと思っていたけど、流石に今の世間の状況観てこんなフェスが可能と判断する神経がそもそも別次元の莫迦集団だとしか思えんわ…。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近の冷蔵庫にはマグネットがつかないことに衝撃…SHARP公式も反応「ガラスドアが主流になったのが原因」 - Togetter]]></title>
+        <id>https://togetter.com/li/1766804</id>
+        <link href="https://togetter.com/li/1766804"/>
+        <updated>2021-08-29T13:44:39.000Z</updated>
+        <summary type="html"><![CDATA[まかべひろし @sinpen (有)MCF代表取締役プログラマ。個人の発言で馬鹿ばっか言ってます。ガジェット/食い道楽/専門学校講師/ベーマガ/PGはPC,スマホ,CS,組込他何でも/背はホビット。【まとめBlog転載禁止】Switchフレコ:SW-6164-6684-5412 mcf.cn]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[針刺し時に栓のゴムが混入の可能性と厚労省 ｜ 共同通信]]></title>
+        <id>https://nordot.app/804646162903891968</id>
+        <link href="https://nordot.app/804646162903891968"/>
+        <updated>2021-08-29T09:39:54.000Z</updated>
+        <summary type="html"><![CDATA[沖縄県で使用予定だった米モデルナ製の新型コロナウイルスワクチンの瓶などから異物が見つかった問題で、厚生労働省は29日、注射器の針を瓶に刺した際にゴム栓が削り取られてゴムの破片が混入した可能性が高いとする調査結果を発表した。ワクチンの品質に問題はないとしている。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[バリバリの男性ボーカル曲を、かわいい女の子たちが歌うのを聞きたい]]></title>
         <id>https://anond.hatelabo.jp/20210829154717</id>
         <link href="https://anond.hatelabo.jp/20210829154717"/>
@@ -131,6 +151,16 @@
         <link href="https://twitter.com/takkunmania/status/1431859711188504585"/>
         <updated>2021-08-29T09:00:18.000Z</updated>
         <summary type="html"><![CDATA[流石にちょっとな。 https://t.co/MnfaGgUFli]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[土人でブラックな黒兎 on Twitter: "イギリスの場合、「社会を元に戻す」ことが目的で、感染者数や死者数はその指標の一つに過ぎないという感じだけど、日本の場合はまず感染者数や死者数を減らすことが目的になっていて、社会を元に戻すためにどの程度なら許容しうるかという話にたどりつかず、ほぼゼロコロナが目的化している。"]]></title>
+        <id>https://twitter.com/no_minsu/status/1430866985663885313</id>
+        <link href="https://twitter.com/no_minsu/status/1430866985663885313"/>
+        <updated>2021-08-29T08:57:17.000Z</updated>
+        <summary type="html"><![CDATA[イギリスの場合、「社会を元に戻す」ことが目的で、感染者数や死者数はその指標の一つに過ぎないという感じだけど、日本の場合はまず感染者数や死者数を減らすことが目的になっていて、社会を元に戻すためにどの程度なら許容しうるかという話にたどりつかず、ほぼゼロコロナが目的化している。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -161,16 +191,6 @@
         <link href="https://okuranagaimo.blogspot.com/2021/08/blog-post_33.html"/>
         <updated>2021-08-29T08:04:38.000Z</updated>
         <summary type="html"><![CDATA[Mozillaブログより。 エリーゼ・ブランチャード インターネットは私たちの生活のあらゆる場面に浸透していますが、デジタルの世界では当たり前のように使われているものがあります。それは、多くのリンク、特にハイパーリンクが青色であることに気づいたことがありますか? 同僚が何気なく「なぜ、リンクが青いのか」と聞...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 14人死亡 3081人感染確認 重症者は296人 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210829/k10013230811000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210829/k10013230811000.html"/>
-        <updated>2021-08-29T07:50:31.000Z</updated>
-        <summary type="html"><![CDATA[東京都内では29日、新たに3081人が新型コロナウイルスに感染していることが確認され、7日連続で前の週の同じ曜日を下回りました。 一方、29日時点の重症の患者は296人で、過去最多だった28日から1人減りました。 また、都は、感染が確認された14人が死亡したことを明らかにしました。 東京都は29日、都内で新たに10歳未...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -261,26 +281,6 @@
         <link href="https://anond.hatelabo.jp/20210829092913"/>
         <updated>2021-08-29T01:05:27.000Z</updated>
         <summary type="html"><![CDATA[92年生まれだけど、氷河期世代の被害者意識の強さが本当に嫌い。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25歳年下の女の子から告白されているのだが]]></title>
-        <id>https://anond.hatelabo.jp/20210829075307</id>
-        <link href="https://anond.hatelabo.jp/20210829075307"/>
-        <updated>2021-08-28T23:40:10.000Z</updated>
-        <summary type="html"><![CDATA[突然に申し訳ない。 タイトルの通り、年下の女の子から告白をされて困っている。 俺は47歳のKKOで、相手は22歳の新卒入社した女の子。 自分たちはコロナ禍でも出社しなければいけない職種で、業務上必要なことがあり何度か話をしていると、ある日の残業中に女の子から告白をされた。 好きだから付き合って欲しいと言われ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富野由悠季監督が語る『閃光のハサウェイ』と『Ｇのレコンギスタ』 「そうか、僕は手塚治虫先生と同じ立場になっちゃったんだな」 - エンタメ - ニュース｜週プレNEWS［週刊プレイボーイのニュースサイト］]]></title>
-        <id>https://wpb.shueisha.co.jp/news/entertainment/2021/08/29/114298/</id>
-        <link href="https://wpb.shueisha.co.jp/news/entertainment/2021/08/29/114298/"/>
-        <updated>2021-08-28T22:11:31.000Z</updated>
-        <summary type="html"><![CDATA[「現場で仕事できるのは残り３年」と語る富野監督。だが、その旺盛な創作意欲はいまだ尽きることがないようだ 『機動戦士ガンダム　閃光のハサウェイ』や劇場版『Ｇのレコンギスタ』のヒットで盛り上がるガンダム。初の実写化作品がＮｅｔｆｌｉｘで全世界配信されることが４月に発表されるなど、ワールドワイドに。そん...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

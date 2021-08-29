@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T19:09:12.689Z</id>
+    <id>urn:2021-08-29T20:12:02.681Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T19:09:12.689Z</updated>
+    <updated>2021-08-29T20:12:02.681Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -286,11 +286,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日本の研究力、低落の一途　注目論文数10位に: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUC209AC0Q1A820C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUC209AC0Q1A820C2000000/"/>
-        <updated>2021-08-28T19:31:21.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 「科学技術立国」を掲げる日本の国際的な存在感が低下している。文部科学省の研究所が8月上旬にまとめた報告書では、科学論文の影響力や評価を示す指標でインドに抜か...]]></summary>
+        <title type="html"><![CDATA[【人体の新常識】肛門の「とてつもない機能」を知っていますか？ | すばらしい人体 | ダイヤモンド・オンライン]]></title>
+        <id>https://diamond.jp/articles/-/280627</id>
+        <link href="https://diamond.jp/articles/-/280627"/>
+        <updated>2021-08-28T19:03:42.000Z</updated>
+        <summary type="html"><![CDATA[(やまもと・たけひと)。2010年、京都大学医学部卒業。博士（医学）。外科専門医、消化器病専門医、消化器外科専門医、感染症専門医、がん治療認定医など。運営する医療情報サイト「外科医の視点」は開設３年で1000万ページビューを超える。Yahoo!ニュース個人、時事メディカルなどのウェブメディアで定期連載。Twitter(...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

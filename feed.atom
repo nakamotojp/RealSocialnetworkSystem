@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T03:12:30.805Z</id>
+    <id>urn:2021-08-29T04:15:15.455Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T03:12:30.805Z</updated>
+    <updated>2021-08-29T04:15:15.455Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,6 +91,16 @@
         <link href="https://www.nikkei.com/article/DGXZQOUC209AC0Q1A820C2000000/"/>
         <updated>2021-08-28T19:31:21.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 「科学技術立国」を掲げる日本の国際的な存在感が低下している。文部科学省の研究所が8月上旬にまとめた報告書では、科学論文の影響力や評価を示す指標でインドに抜か...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンデータ、使ってほしいけどオススメしづらい3つの理由 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/shishamous/opundeta-shi-tutehosiikedoosusumesidurai3tufalseli-you</id>
+        <link href="https://speakerdeck.com/shishamous/opundeta-shi-tutehosiikedoosusumesidurai3tufalseli-you"/>
+        <updated>2021-08-28T15:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Transcript Φʔϓϯσʔλɺ ࢖ͬͯ΄͍͚͠Ͳ Φεεϝͮ͠Β͍ �ͭͷཧ༝ Լࢁ ࣿ୅ࢠ Ұൠࣾஂ๏ਓϦϯΫσʔλ ୅දཧࣄ %JHJUBM�)BDL�%BZ�ఏڙςΫϊϩδʔ঺հΠϕϯτ ���������� 4BU� � Enterprise Public Sector Civic Tech 2 2021/8/28 Sayoko Shimoyama, LinkData ό ỽ υ Φ ồ ϓ ϯ σ ồ λ ڙ ཆ ࣉ https://bad-data.rip/ ॅ ৬ Լ ࢁ ό ỽ υ Φ ồ ϓ ϯ σ ồ λ ͱ ͸ u ෼ ੳ Λ ͠ ͨ Γ ỏ α ồ Ϗ ε Λ ࡞ ỳ ͨ Γ ͠ Α ͏ ͱ ͠...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -218,31 +228,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「在宅スマホ副業で7日で20万円稼げる人続出中！」Googleのアップデートによって国民生活センターの公式サイトがヤバいことになってしまった - Togetter]]></title>
-        <id>https://togetter.com/li/1766150</id>
-        <link href="https://togetter.com/li/1766150"/>
-        <updated>2021-08-28T11:54:50.000Z</updated>
-        <summary type="html"><![CDATA[ワカジツ＠Writing Hacks講師 @wakajitsukohei Googleが記事のタイトルを勝手に変更するアップデートによって、国民生活センターの公式サイトがヤバい pic.twitter.com/dTm3jCwglW 2021-08-28 15:47:15]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[異世界ものと呼ばないで……｜たけのこ｜note]]></title>
-        <id>https://note.com/ajinohiraki/n/n8d9148db9e8f</id>
-        <link href="https://note.com/ajinohiraki/n/n8d9148db9e8f"/>
-        <updated>2021-08-28T10:13:23.000Z</updated>
-        <summary type="html"><![CDATA[いやもう単なるお願いなんですけどね……。 異世界もの、流行ってるじゃないですか。小説家になろうあたりの発祥のものが多く、トラックにひかれたりして現世では死んでしまい、目を開けたら見たこともないファンタジー世界でした、というのがテンプレ。死因とか転生後の能力、状況等に関しては作品ごとにいろんな状況があ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安倍晋三 on Twitter: "@katsuyatakasu 高須先生。素敵です。"]]></title>
-        <id>https://twitter.com/AbeShinzo/status/1431509230402490368</id>
-        <link href="https://twitter.com/AbeShinzo/status/1431509230402490368"/>
-        <updated>2021-08-28T08:14:08.000Z</updated>
-        <summary type="html"><![CDATA[@katsuyatakasu 高須先生。素敵です。]]></summary>
+        <title type="html"><![CDATA[自民党ふさわしい総裁　1位石破氏、2位河野氏　毎日新聞世論調査 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210828/k00/00m/010/290000c</id>
+        <link href="https://mainichi.jp/articles/20210828/k00/00m/010/290000c"/>
+        <updated>2021-08-28T11:33:24.000Z</updated>
+        <summary type="html"><![CDATA[毎日新聞と社会調査研究センターが28日に実施した全国世論調査では、携帯電話での回答者774人を対象に「自民党の総裁にふさわしいと思う政治家の名前」を1人だけ挙げてもらった。104人（13％）が挙げた石破茂元幹事長がトップで、82人（11％）の河野太郎行政改革担当相が2位で続いた。 9月に行われる自民党総裁選に石破...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -303,6 +293,16 @@
         <link href="https://www.jcp-tokyo.net/2021/0821/61794"/>
         <updated>2021-08-25T08:03:08.000Z</updated>
         <summary type="html"><![CDATA[東京国家公務員・独立行政法人労働組合共闘会議（東京国公）は、人事院勧告が国家公務員の賃上げを据え置いた結果、東京都内で23区以外は、地域手当を加算しても、軒並み公務員高卒初任給が最低賃金割れになると発表しました。 最賃は、今年の改定で全国加重平均902円から930円に引き上げられましたが、国家公務員の高卒...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20年前の「障害の再発防止策の考え方」は今でも通用する説 - Qiita]]></title>
+        <id>https://qiita.com/y-some/items/21c6b4f584dd67c1dbdb</id>
+        <link href="https://qiita.com/y-some/items/21c6b4f584dd67c1dbdb"/>
+        <updated>2021-08-17T03:23:10.000Z</updated>
+        <summary type="html"><![CDATA[障害の再発防止策は、 1. メカニズム 2. ツール 3. ルール 4. チェックリスト の順番に検討せよ。 上記は、私が20年前に所属していたパッケージソフト開発会社の標語です。 ※転職したので現在の所属会社ではありません。 当時はまだインターネットが今ほど普及しておらず、修正パッチはCD-Rで配布していました。 特に、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

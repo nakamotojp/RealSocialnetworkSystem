@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T11:09:36.793Z</id>
+    <id>urn:2021-08-29T12:17:54.978Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T11:09:36.793Z</updated>
+    <updated>2021-08-29T12:17:54.978Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 新たに3081人感染確認 重症者は296人 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京大学、Pythonプログラミング無料入門 pandasやJupyterなど幅広い | Ledge.ai]]></title>
+        <id>https://ledge.ai/ut-python/</id>
+        <link href="https://ledge.ai/ut-python/"/>
+        <updated>2021-08-29T10:17:31.000Z</updated>
+        <summary type="html"><![CDATA[画像は公式サイト（HTML）より 今回は東京大学（東大）が無料公開している、Pythonの初心者にもオススメの教材「Pythonプログラミング入門」を紹介する。SNS上では「ホントいい」「初心者にもわかりやすい」などと評判になっている。 本教材では「Colaboratoryによるノートブックの使い方」「文字列（string）」「条件分...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟体動物多様性学会【公式】 on Twitter: "肉抜き話の続き。先にご紹介した通り、我々日本の貝人にとって肉抜きは日常の一齣であり、改めて説明するまでもない当たり前のこととして受け止められてきました（画像は最近私が肉抜きした南三陸産エゾチグサとホソウミニナ）。日本の貝類図鑑の多… https://t.co/OCY0asqvwn"]]></title>
+        <id>https://twitter.com/SocStudMollDiv/status/1431838585838129152</id>
+        <link href="https://twitter.com/SocStudMollDiv/status/1431838585838129152"/>
+        <updated>2021-08-29T08:46:32.000Z</updated>
+        <summary type="html"><![CDATA[肉抜き話の続き。先にご紹介した通り、我々日本の貝人にとって肉抜きは日常の一齣であり、改めて説明するまでもない当たり前のこととして受け止められてきました（画像は最近私が肉抜きした南三陸産エゾチグサとホソウミニナ）。日本の貝類図鑑の多… https://t.co/OCY0asqvwn]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 14人死亡 3081人感染確認 重症者は296人 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210829/k10013230811000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210829/k10013230811000.html"/>
         <updated>2021-08-29T07:50:31.000Z</updated>
-        <summary type="html"><![CDATA[東京都は29日、都内で新たに3081人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の日曜日より1311人減り、7日連続で前の週の同じ曜日を下回りました。 一方、都の基準で集計した29日時点の重症の患者は296人で、過去最多だった28日から1人減りました。]]></summary>
+        <summary type="html"><![CDATA[東京都内では29日、新たに3081人が新型コロナウイルスに感染していることが確認され、7日連続で前の週の同じ曜日を下回りました。 一方、29日時点の重症の患者は296人で、過去最多だった28日から1人減りました。 また、都は、感染が確認された14人が死亡したことを明らかにしました。 東京都は29日、都内で新たに10歳未...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -21,6 +41,16 @@
         <link href="https://togetter.com/li/1766617"/>
         <updated>2021-08-29T06:27:21.000Z</updated>
         <summary type="html"><![CDATA[かりゆし｜Excel図解 @excel_kariyushi 【大募集】 初心者大歓迎のExcelオンラインスクールやってます！ 「全くExcelができない…」 「Excelをゼロから習得したい…」 「Excelの応用をマスターしたい…」 など、上記に当てはまる方は一度ご相談ください😊 少しでもExcelが得意・好きになる人を増やしたい！ online-excelstu...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドレスを着たパリスヒルトンがグリッターマシマシで料理するNetflix『パリスとお料理』が最高すぎて元気が出る - Togetter]]></title>
+        <id>https://togetter.com/li/1766593</id>
+        <link href="https://togetter.com/li/1766593"/>
+        <updated>2021-08-29T05:10:14.000Z</updated>
+        <summary type="html"><![CDATA[ISO @iso_zin_ Netflixの新シリーズ『パリスとお料理』面白かった！パリス・ヒルトンが豪華ゲストを招いて独創的すぎる料理を披露するクッキング番組。料理番組としては0点だけどコメディとしては100点！買い物から料理、実食まで全部面白い。料理出来ないのに自己肯定力MAXのパリスを見てると何故か元気が出てくる。 pi...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -66,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[カツカレーブームが英国で拡大　在英邦人がSNSで拡散も（日本食糧新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/51fd2eae961ed1c23050b9efd50b34619189e9e4</id>
+        <link href="https://news.yahoo.co.jp/articles/51fd2eae961ed1c23050b9efd50b34619189e9e4"/>
+        <updated>2021-08-29T04:17:03.000Z</updated>
+        <summary type="html"><![CDATA[英国でのカツカレーブームの拡大が続いている。日本食レストランはもちろん、日本食以外のレストランやスーパーマーケットでも販売され、2021年初めには英マクドナルドでもカツカレーナゲットが期間限定販売されるなど、カツカレーブームが収束する気配はない。 英国はインドを植民地化していた時代があり、インドとの関...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[若い世代向けワクチン接種「“予約なし”は無謀」規制改革相 | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210829/k10013230331000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210829/k10013230331000.html"/>
@@ -91,16 +131,6 @@
         <link href="https://news.yahoo.co.jp/byline/tokurikimotohiko/20210829-00255514"/>
         <updated>2021-08-29T02:19:56.000Z</updated>
         <summary type="html"><![CDATA[Facebookが、スマートフォン時代の後継者として仮想空間「メタバース」に5000億円以上を投下すると発表し、業界での注目が俄然高まっています。 特に注目されるのは、先週末にβ版を発表したばかりの仮想空間の会議サービス「Horizon Workrooms」でしょう。 筆者も実際に体験してみましたが、従来のVRサービスの制約を明...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自衛隊、退避作戦に法的制約　安全確保できず、空港くぎ付け―アフガン：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021082800467&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021082800467&amp;g=pol"/>
-        <updated>2021-08-29T00:10:03.000Z</updated>
-        <summary type="html"><![CDATA[自衛隊、退避作戦に法的制約　安全確保できず、空港くぎ付け―アフガン 2021年08月29日08時41分 アフガニスタンの首都カブールの空港周辺で爆発が起き、対応に追われる防衛省＝２７日午前、東京都新宿区 日本政府によるアフガニスタンからの邦人や大使館の現地スタッフの退避作戦は、事実上の活動期限である２７日を過ぎ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[独身の妹が母親から結婚はどうとかやりたい事はないかと問われ返した言葉に「それな」となった - Togetter]]></title>
-        <id>https://togetter.com/li/1766308</id>
-        <link href="https://togetter.com/li/1766308"/>
-        <updated>2021-08-28T21:31:04.000Z</updated>
-        <summary type="html"><![CDATA[はやし(^p^) @iori_chandesu 実家住みの独身の妹。心配する母親から、結婚はどうか、なにかやりたい事はないのか？と問われ「なにもしたくない。誰しもが何かしら目指すべきで、目指したいはず、という前提やめてほしい」と言っていた。それな。 2021-08-27 19:37:32]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自民ベテラン「首相の首をすげ替えないと」　世論調査、支持率最低 | 毎日新聞]]></title>
         <id>https://mainichi.jp/articles/20210828/k00/00m/010/344000c</id>
         <link href="https://mainichi.jp/articles/20210828/k00/00m/010/344000c"/>
@@ -226,31 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[カルノフ on Twitter: "日本の縮図すぎて草 https://t.co/GIxK5JaApy"]]></title>
-        <id>https://twitter.com/kalnove/status/1431450211235205127</id>
-        <link href="https://twitter.com/kalnove/status/1431450211235205127"/>
-        <updated>2021-08-28T13:26:54.000Z</updated>
-        <summary type="html"><![CDATA[日本の縮図すぎて草 https://t.co/GIxK5JaApy]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[共産 志位委員長 野党共闘による政権交代目指す考え強調 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210828/k10013229891000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210828/k10013229891000.html"/>
         <updated>2021-08-28T13:16:52.000Z</updated>
         <summary type="html"><![CDATA[政府の新型コロナウイルス対策をめぐり、共産党の志位委員長はオンラインで開いた演説会で、今の医療のひっ迫は菅政権による人災だと批判し、命を守る政治に転換するため、次の衆議院選挙で野党共闘による政権交代を目指す考えを重ねて強調しました。 この中で志位氏は、新型コロナウイルスの感染拡大で医療がひっ迫した...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[よくわかるcontextの使い方]]></title>
-        <id>https://zenn.dev/hsaki/books/golang-context</id>
-        <link href="https://zenn.dev/hsaki/books/golang-context"/>
-        <updated>2021-08-28T12:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Goの標準パッケージにはcontextパッケージというものが存在します。 このパッケージは、net/httpやdatabase/sqlのような現実の事象と対応している何かが存在するようなパッケージではないため、初学者にとっては使い道がわからない、となってしまいがちです。 しかしcontextパッケージは、複数のゴールーチンを跨いだ処...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

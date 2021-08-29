@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T06:13:45.028Z</id>
+    <id>urn:2021-08-29T07:11:20.716Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T06:13:45.028Z</updated>
+    <updated>2021-08-29T07:11:20.716Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210829/k10013230331000.html"/>
         <updated>2021-08-29T03:06:40.000Z</updated>
         <summary type="html"><![CDATA[東京都が若い世代向けに行っているワクチン接種について、河野規制改革担当大臣は、予約を取らずに行うのは無謀だと指摘し、インターネットを活用した予約や抽せんを行うのが望ましいという考えを示しました。 河野規制改革担当大臣はフジテレビの番組「日曜報道 THE PRIME」に出演し、東京都が若い世代向けに渋谷区で行...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かりゆし｜Excel図解 on Twitter: "個人的に一番感動したショートカットキーです。 https://t.co/loUuFoCjCm"]]></title>
+        <id>https://twitter.com/excel_kariyushi/status/1431600625570103303</id>
+        <link href="https://twitter.com/excel_kariyushi/status/1431600625570103303"/>
+        <updated>2021-08-29T02:44:18.000Z</updated>
+        <summary type="html"><![CDATA[個人的に一番感動したショートカットキーです。 https://t.co/loUuFoCjCm]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,18 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[金属片混入疑ワクチンと同ロット接種で金属アレルギー持ちの女子格闘家が顔の腫れと呼吸困難へ！「大切な身体で人生で初めてあんな副作用が出た」（バトル・ニュース） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/09793970ea24efccaf4bf7792eb41c1ec46fb164</id>
-        <link href="https://news.yahoo.co.jp/articles/09793970ea24efccaf4bf7792eb41c1ec46fb164"/>
-        <updated>2021-08-28T13:04:54.000Z</updated>
-        <summary type="html"><![CDATA[28日、格闘家のぱんちゃん璃奈（27）がワクチン接種後の副反応に関して声を上げた。
-
-　ぱんちゃんは22日に二度目の新型コロナウイルスワクチンの接種を行ったが、「普段は出ない何かのアレルギーがワク]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[よくわかるcontextの使い方]]></title>
         <id>https://zenn.dev/hsaki/books/golang-context</id>
         <link href="https://zenn.dev/hsaki/books/golang-context"/>
@@ -278,11 +276,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[橋下徹氏「野戦病院は日本ではできない」→吉村洋文知事「大阪で大規模な野戦病院を作る」 - Togetter]]></title>
-        <id>https://togetter.com/li/1766038</id>
-        <link href="https://togetter.com/li/1766038"/>
-        <updated>2021-08-28T04:59:02.000Z</updated>
-        <summary type="html"><![CDATA[橋下徹 @hashimoto_lo 月４回火曜配信のメールマガジン、直接討論が出来るサロンhashimoto.president.co.jpなど、橋下徹からの発信・各種情報は下記ホームページへ。Youtubeアカウントはこちら→youtube.com/channel/UC862U… toru-hashimoto.com 橋下徹 @hashimoto_lo その医師と看護師が、今持っている仕事はどうするの...]]></summary>
+        <title type="html"><![CDATA[正直男性を根絶しても問題ないのでは？]]></title>
+        <id>https://anond.hatelabo.jp/20210828084952</id>
+        <link href="https://anond.hatelabo.jp/20210828084952"/>
+        <updated>2021-08-27T23:59:02.000Z</updated>
+        <summary type="html"><![CDATA[まだ実用には程遠いけどiPS細胞で女性のみでも妊娠、出産が可能になる そうでなくても必要最低限の精子さえ培養できれば、男性なしでも繁栄はできる 治安や環境の観点から言っても今の倍以上は美化、清潔になるだろうし 非力な分は重機や自動機械を用いれば難なくこなせます 女性の方がスマートな視点で物事を解決できる...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

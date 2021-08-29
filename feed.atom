@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T02:23:00.861Z</id>
+    <id>urn:2021-08-29T03:12:30.805Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T02:23:00.861Z</updated>
+    <updated>2021-08-29T03:12:30.805Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[自衛隊、退避作戦に法的制約　安全確保できず、空港くぎ付け―アフガン：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021082800467&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021082800467&amp;g=pol"/>
+        <updated>2021-08-29T00:10:03.000Z</updated>
+        <summary type="html"><![CDATA[自衛隊、退避作戦に法的制約　安全確保できず、空港くぎ付け―アフガン 2021年08月29日08時41分 アフガニスタンの首都カブールの空港周辺で爆発が起き、対応に追われる防衛省＝２７日午前、東京都新宿区 日本政府によるアフガニスタンからの邦人や大使館の現地スタッフの退避作戦は、事実上の活動期限である２７日を過ぎ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「『不織布NG』はマスク着用促す意図」 緊急事態宣言下の野外イベントで主催者 「中止すると賠償が…」（上毛新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/645848b4c5da3d9f1beb931662f261be2c920e05</id>
+        <link href="https://news.yahoo.co.jp/articles/645848b4c5da3d9f1beb931662f261be2c920e05"/>
+        <updated>2021-08-29T00:06:56.000Z</updated>
+        <summary type="html"><![CDATA[群馬県片品村の武尊牧場キャンプ場で27～29日に開かれているダンス音楽の野外イベント「グローバルアーク2021」について、新型コロナウイルス感染拡大を防ぐ緊急事態宣言の発令中に実施され、主催者が「不織布マスクはNG」とした点などにインターネット上で批判や疑問の声が上がっている。主催者は28日に取材に応じ、補...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワクチン接種者と偽薬接種者の死亡率が同じ　ファイザー公表データの意味（NEWSポストセブン） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/0e155350d5c1ff80d4c0bfc0dca7f94c23a74b80</id>
@@ -208,11 +228,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅内閣支持率26％　最低更新　不支持66％　毎日新聞世論調査 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210828/k00/00m/010/251000c</id>
-        <link href="https://mainichi.jp/articles/20210828/k00/00m/010/251000c"/>
-        <updated>2021-08-28T08:53:33.000Z</updated>
-        <summary type="html"><![CDATA[菅政権の新型コロナウイルス対策を「評価する」と答えた人は14％で、前回（19％）から5ポイント減少し、「評価しない」の70％（前回63％）を大幅に下回った。「どちらとも言えない」は16％（同18％）だった。 日本の医療が崩壊する不安を感じるかとの問いには、「不安だ」との回答が70％に上り、「不安はない」の15％を...]]></summary>
+        <title type="html"><![CDATA[異世界ものと呼ばないで……｜たけのこ｜note]]></title>
+        <id>https://note.com/ajinohiraki/n/n8d9148db9e8f</id>
+        <link href="https://note.com/ajinohiraki/n/n8d9148db9e8f"/>
+        <updated>2021-08-28T10:13:23.000Z</updated>
+        <summary type="html"><![CDATA[いやもう単なるお願いなんですけどね……。 異世界もの、流行ってるじゃないですか。小説家になろうあたりの発祥のものが多く、トラックにひかれたりして現世では死んでしまい、目を開けたら見たこともないファンタジー世界でした、というのがテンプレ。死因とか転生後の能力、状況等に関しては作品ごとにいろんな状況があ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -258,16 +278,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[モデルナ異物混入ワクチンがぞろぞろ判明…埼玉県では6月に発見＆回収されていた（日刊ゲンダイDIGITAL） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/bbc970ef5d714091f250d675f3ecf8fb698614f2</id>
-        <link href="https://news.yahoo.co.jp/articles/bbc970ef5d714091f250d675f3ecf8fb698614f2"/>
-        <updated>2021-08-28T05:45:08.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナワクチンの米モデルナ製の一部に金属片とみられる異物が混入していた問題にはゾッとする。田村厚労相は27日の会見で「早急に原因を究明し、モデルナ社と（国内流通を手掛ける）武田薬品工業に再発防止を対応してもらわないといけない」と発言。SNS上では〈怖すぎるよ～！〉〈打ちたくないなぁ〉と当然のリアク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[橋下徹氏「野戦病院は日本ではできない」→吉村洋文知事「大阪で大規模な野戦病院を作る」 - Togetter]]></title>
         <id>https://togetter.com/li/1766038</id>
         <link href="https://togetter.com/li/1766038"/>
@@ -283,16 +293,6 @@
         <link href="https://anond.hatelabo.jp/20210827222237"/>
         <updated>2021-08-28T04:51:28.000Z</updated>
         <summary type="html"><![CDATA[https://www3.nhk.or.jp/shutoken-news/20210827/1000069459.html 渋谷区のワクチン予約が全然埋まっていないからなんだよね。 俺は渋谷区に住んでる25歳だけど、渋谷区のワクチン予約サイトにアクセスするとびっくりするくらい枠が空いてる。 例えば現時点(8/27)で予約しようとしてみると、9月で土日平日どの日付でも予...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開示請求】東京2020オリンピックの延長・中止についての内閣府資料 - 電脳塵芥]]></title>
-        <id>https://nou-yunyun.hatenablog.com/entry/2021/08/28/120000</id>
-        <link href="https://nou-yunyun.hatenablog.com/entry/2021/08/28/120000"/>
-        <updated>2021-08-28T04:42:34.000Z</updated>
-        <summary type="html"><![CDATA[東京2020オリンピックが閉会して久しいですが、説明するまでもなくこの2020東京オリンピックは2021年に1年延期しています。で、この1年延期の論議の際には2年延期論もされていたという*1。そして2021年の本大会が始まる前には新型コロナの感染拡大によって世間では中止論が盛り上がっていました。ただ外部側では内部で延...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T19:09:54.140Z</id>
+    <id>urn:2021-08-30T20:12:41.506Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T19:09:54.140Z</updated>
+    <updated>2021-08-30T20:12:41.506Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210830/k10013233121000.html"/>
         <updated>2021-08-30T09:56:56.000Z</updated>
         <summary type="html"><![CDATA[航空自衛隊は、東京パラリンピックの開会式の日に展示飛行を行った「ブルーインパルス」が、基地に着陸する際、適正な高度より低い高度でカラースモークを使用したと発表しました。 基地周辺のおよそ300台の車に染料が付着しているという連絡が寄せられていて、航空自衛隊は「ご心配をおかけしたことをおわびします」と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＜野党に問う＞日本維新の会・片山虎之助共同代表インタビュー　「日本大改革プランを準備」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/127670</id>
+        <link href="https://www.tokyo-np.co.jp/article/127670"/>
+        <updated>2021-08-30T08:24:00.000Z</updated>
+        <summary type="html"><![CDATA[「最初に議員や公務員の身を切る改革を行って国民の信頼と支持を確保する。それをバックに諸改革に取り組み、成果を出す。大阪では知事と大阪市長その他首長を輩出し、議会でも多数を得て維新改革を実行してきた。新型コロナウイルス対策では緊急事態宣言の発令、解除についても独自に『大阪方式』を提唱し、高い評価を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://kaden.watch.impress.co.jp/docs/news/1347007.html"/>
         <updated>2021-08-30T05:30:13.000Z</updated>
         <summary type="html"><![CDATA[アピックスインターナショナルは、レトルト専用調理器「レトルト亭 ARM-110」の先行販売を、8月30日よりMakuakeで開始した。一般販売価格は7,680円だが、Makuakeでは20％オフの6,140円から購入できる。期間は2021年10月8日まで。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【識者の眼】「デルタ株は空気感染するのか」岩田健太郎｜Web医事新報|日本医事新報社]]></title>
-        <id>https://www.jmedj.co.jp/journal/paper/detail.php?id=17913</id>
-        <link href="https://www.jmedj.co.jp/journal/paper/detail.php?id=17913"/>
-        <updated>2021-08-30T04:26:15.000Z</updated>
-        <summary type="html"><![CDATA[デルタ株は空気感染だ、空気感染が主な感染経路だ、といった言葉がSNSなどで僕の耳に入ってくる。 しかし、これを裏付ける科学的な実証データが見つからない。 それも当然だ。デルタ株そのものが2020年10月にインドで初めて見つかったのだ。日本など先進国で見つかり流行するようになったのもごく最近のことで、日本では...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

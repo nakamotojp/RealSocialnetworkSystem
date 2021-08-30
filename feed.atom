@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T07:12:04.476Z</id>
+    <id>urn:2021-08-30T08:14:08.656Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T07:12:04.476Z</updated>
+    <updated>2021-08-30T08:14:08.656Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[千葉県 東京パラリンピックの「学校連携観戦」中止の方針決定 | オリンピック・パラリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210830/k10013232351000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210830/k10013232351000.html"/>
+        <updated>2021-08-30T06:26:03.000Z</updated>
+        <summary type="html"><![CDATA[千葉県は、現在、実施している東京パラリンピックの「学校連携観戦」チケットによる子どもたちの観戦について、一転して中止する方針を決めました。 このあと午後4時半から、熊谷知事が臨時の記者会見を開いて、詳しい内容を説明する見込みです。 千葉県内の学校連携観戦をめぐっては、29日、千葉市の市立中学校で、今月...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[庶民（感覚の金持ち）が高級車に乗って幸せになるのか]]></title>
         <id>https://anond.hatelabo.jp/20210830142224</id>
         <link href="https://anond.hatelabo.jp/20210830142224"/>
         <updated>2021-08-30T05:31:32.000Z</updated>
         <summary type="html"><![CDATA[先週末親父に呼ばれ、一緒にディーラー巡りをした。 今年還暦を迎え、現在再雇用中の親父。 親父は定年前、定年後も真面目に働いているため、お金もそこそこある。 そんな親父がおそらく最後の車になるだろうということで、高級車に乗りたいと言っており、ベンツとレクサスに行った。 ただ、俺は親父は高級車に乗るべき...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「極めて遺憾」大村知事が抗議　愛知で開催の「密状態」野外フェス | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210830/k00/00m/040/092000c</id>
+        <link href="https://mainichi.jp/articles/20210830/k00/00m/040/092000c"/>
+        <updated>2021-08-30T04:28:12.000Z</updated>
+        <summary type="html"><![CDATA[野外音楽イベントの主催者に抗議する意向を示した愛知県の大村秀章知事＝愛知県庁で2021年8月30日午前10時38分、高井瞳撮影 愛知県国際展示場（常滑市）の野外会場で29日に音楽イベント「NAMIMONOGATARI（波物語）2021」が開催され、酒類が提供されたり、マスクを外した観衆が密集したりするなど新型コロナウイルスの感...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -96,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17歳JKだけど、インターン先で「彼氏いるの？」って聞かれた]]></title>
-        <id>https://anond.hatelabo.jp/20210830091245</id>
-        <link href="https://anond.hatelabo.jp/20210830091245"/>
-        <updated>2021-08-30T00:15:05.000Z</updated>
-        <summary type="html"><![CDATA[田舎の高校三年生です。 先輩がいるから、って先生の推薦で ワンデイインターンシップ行ってきました。 作業服きた社員さんのうちの一人から「ＯＯちゃんは彼氏いるの？」って 至近距離で聞かれて怖かったです。 ガタイもよくて・・・ 男女比率を聞いてもあいまいにされたし、 男性ばかりの職場だったので毎日やっていけ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[結局、「漫画村」は死んでないのではないか：小寺信良のIT大作戦（1/3 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/30/news065.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/30/news065.html"/>
@@ -131,6 +141,16 @@
         <link href="https://coliss.com/articles/freebies/google-fonts-for-japanese.html"/>
         <updated>2021-08-29T23:24:10.000Z</updated>
         <summary type="html"><![CDATA[フリーフォントが大好物な人に朗報です！ 🎉 先週、Google Fontsに日本語フォントが追加されたので、紹介します。これでさらに、たくさんの日本語フォントがGoogle Fontsで使用できます。 新しく追加された日本語のGoogle Fonts 他にもたくさんある日本語のGoogle Fonts Google FontsのライセンスはほとんどがSIL Open F...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲームプレーヤーを精神疾患にするディストピア――久里浜医療センター「ゲーム障害の有病率5.1％」論文のからくり/井出草平 - SYNODOS]]></title>
+        <id>https://synodos.jp/opinion/society/27314/</id>
+        <link href="https://synodos.jp/opinion/society/27314/"/>
+        <updated>2021-08-29T23:15:13.000Z</updated>
+        <summary type="html"><![CDATA[ゲームプレーヤーを精神疾患にするディストピア――久里浜医療センター「ゲーム障害の有病率5.1％」論文のからくり 井出草平 社会学 社会 エグゼクティブ・サマリ 久里浜医療センターの樋口進氏らのグループが発表した論文から、ゲーム障害を過剰診断していく方針が読み取れる。この論文は厚労省・文科省の政策にも影響が...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[＜新型コロナ＞「亡くなるべくして亡くなっている」　一家感染の50代夫婦、支援体制の不備や自宅療養の苦しさ激白：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/127650</id>
-        <link href="https://www.tokyo-np.co.jp/article/127650"/>
-        <updated>2021-08-29T13:39:08.000Z</updated>
-        <summary type="html"><![CDATA[＜新型コロナ＞「亡くなるべくして亡くなっている」　一家感染の50代夫婦、支援体制の不備や自宅療養の苦しさ激白 家族３人全員が感染し、自宅とホテルに分かれて療養を経験した神奈川県内の５０代夫婦が、本紙の取材に応じた。県が緊急連絡先として広報している電話番号にかけても具体的な対応はなく、不安な日々が続い...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shin🇧🇪⚽️ on Twitter: "ベルギーの民放で日本特集やってて、「日本人はクリエイティブで誠実な民族だが、30年間経済成長が止まっており、人々は内向的で、50年以上名だたる新興グローバル企業が出てきていない」という内容でつらい。 https://t.co/x9OB3gwf1A"]]></title>
         <id>https://twitter.com/Shinnosukee07/status/1431513366623924226</id>
         <link href="https://twitter.com/Shinnosukee07/status/1431513366623924226"/>
@@ -241,16 +251,6 @@
         <link href="https://honeshabri.hatenablog.com/entry/aftershokz-air2"/>
         <updated>2021-08-29T12:59:46.000Z</updated>
         <summary type="html"><![CDATA[骨伝導ヘッドセットAfterShokzを使い始めて1年以上。 もう完全に手放せない。 メガネと同じくらい装着しっぱなしの生活になっている。 骨伝導ヘッドセットを使い始めて1年 1年ほど前に骨伝導ヘッドセットの記事を書いた。 この時は使い始めて1ヶ月の時点だった。今回はさらに1年使った感想である。まずは前回の復習から...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】パラ学校観戦、引率の教員感染　生徒ら１５０人検査へ　千葉市、観戦は継続の方針 | 千葉日報オンライン]]></title>
-        <id>https://www.chibanippo.co.jp/news/national/825715</id>
-        <link href="https://www.chibanippo.co.jp/news/national/825715"/>
-        <updated>2021-08-29T12:52:11.000Z</updated>
-        <summary type="html"><![CDATA[千葉市教委は２９日、若葉区の市立貝塚中学校で教諭６人が新型コロナウイルスに感染し、夏休み明けの３０日から９月３日まで同校を休校にすると発表した。６人のうち２人は東京パラリンピックの学校連携観戦で生徒を引率していた。市教委はバスに同乗した生徒ら計約１５０人に検査を行う。今のところ、体調不良を訴える...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

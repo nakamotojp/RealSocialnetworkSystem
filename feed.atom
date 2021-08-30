@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T09:11:56.582Z</id>
+    <id>urn:2021-08-30T10:13:21.581Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T09:11:56.582Z</updated>
+    <updated>2021-08-30T10:13:21.581Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[千葉県 東京パラリンピックの「学校連携観戦」中止の方針決定 | オリンピック・パラリンピック | NHKニュース]]></title>
+        <title type="html"><![CDATA[自民党総裁選前の臨時国会召集見送り ｜ 共同通信]]></title>
+        <id>https://nordot.app/804977838975844352</id>
+        <link href="https://nordot.app/804977838975844352"/>
+        <updated>2021-08-30T07:45:52.000Z</updated>
+        <summary type="html"><![CDATA[政府、与党は30日、野党が求めていた自民党総裁選前の臨時国会召集を見送る方針を固めた。複数の与党関係者が明らかにした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新たなデルタ株を初確認　アルファ株の類似変異も―東京医科歯科大：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021083000595&amp;g=soc</id>
+        <link href="https://www.jiji.com/jc/article?k=2021083000595&amp;g=soc"/>
+        <updated>2021-08-30T06:55:49.000Z</updated>
+        <summary type="html"><![CDATA[新たなデルタ株を初確認　アルファ株の類似変異も―東京医科歯科大 2021年08月30日14時53分 東京医科歯科大学医学部付属病院＝東京都文京区 東京医科歯科大は３０日、流行する新型コロナウイルスのデルタ株について、英国由来のアルファ株に類似した変異を持つ新たなタイプを国内で初めて確認したと発表した。世界では８...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千葉県 東京パラリンピックの「学校連携観戦」中止を決定 | オリンピック・パラリンピック | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210830/k10013232351000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210830/k10013232351000.html"/>
         <updated>2021-08-30T06:26:03.000Z</updated>
-        <summary type="html"><![CDATA[千葉県は、現在、実施している東京パラリンピックの「学校連携観戦」チケットによる子どもたちの観戦について、一転して中止する方針を決めました。 このあと午後4時半から、熊谷知事が臨時の記者会見を開いて、詳しい内容を説明する見込みです。 千葉県内の学校連携観戦をめぐっては、29日、千葉市の市立中学校で、今月...]]></summary>
+        <summary type="html"><![CDATA[千葉県は、現在実施している東京パラリンピックの「学校連携観戦」チケットによる子どもたちの観戦について、一転して中止する方針を決めました。 熊谷知事は「直前のキャンセルが多く、多くの保護者が安心して送り出せない以上、実施にこだわるべきではない」と説明しています。 東京パラリンピックの会場で、児童・生...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -36,11 +56,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「極めて遺憾」大村知事が抗議　愛知で開催の「密状態」野外フェス | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210830/k00/00m/040/092000c</id>
-        <link href="https://mainichi.jp/articles/20210830/k00/00m/040/092000c"/>
-        <updated>2021-08-30T04:28:12.000Z</updated>
-        <summary type="html"><![CDATA[野外音楽イベントの主催者に抗議する意向を示した愛知県の大村秀章知事＝愛知県庁で2021年8月30日午前10時38分、高井瞳撮影 愛知県国際展示場（常滑市）の野外会場で29日に音楽イベント「NAMIMONOGATARI（波物語）2021」が開催され、酒類が提供されたり、マスクを外した観衆が密集したりするなど新型コロナウイルスの感...]]></summary>
+        <title type="html"><![CDATA[お湯を使わないレトルト専用調理器「レトルト亭」アピックスから - 家電 Watch]]></title>
+        <id>https://kaden.watch.impress.co.jp/docs/news/1347007.html</id>
+        <link href="https://kaden.watch.impress.co.jp/docs/news/1347007.html"/>
+        <updated>2021-08-30T05:30:13.000Z</updated>
+        <summary type="html"><![CDATA[アピックスインターナショナルは、レトルト専用調理器「レトルト亭 ARM-110」の先行販売を、8月30日よりMakuakeで開始した。一般販売価格は7,680円だが、Makuakeでは20％オフの6,140円から購入できる。期間は2021年10月8日まで。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ハート形や八角形のディスクなんて見たことないよねぇ」CDプレーヤー取説記載へのツッコミに、証拠画像が続々集まる「ホントにあるのかよ！！！」 - Togetter]]></title>
+        <id>https://togetter.com/li/1767051</id>
+        <link href="https://togetter.com/li/1767051"/>
+        <updated>2021-08-30T04:36:59.000Z</updated>
+        <summary type="html"><![CDATA[8cm CDならアダプタで対応できるけど、変な形のはトレー型とか初期のゲーム機みたいなはめ込みタイプじゃないともうどうしようもないよな。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17歳JKだけど、インターン先で「彼氏いるの？」って聞かれた]]></title>
-        <id>https://anond.hatelabo.jp/20210830091245</id>
-        <link href="https://anond.hatelabo.jp/20210830091245"/>
-        <updated>2021-08-30T00:15:05.000Z</updated>
-        <summary type="html"><![CDATA[田舎の高校三年生です。 先輩がいるから、って先生の推薦で ワンデイインターンシップ行ってきました。 作業服きた社員さんのうちの一人から「ＯＯちゃんは彼氏いるの？」って 至近距離で聞かれて怖かったです。 ガタイもよくて・・・ 男女比率を聞いてもあいまいにされたし、 男性ばかりの職場だったので毎日やっていけ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[結局、「漫画村」は死んでないのではないか：小寺信良のIT大作戦（1/3 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2108/30/news065.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2108/30/news065.html"/>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大阪・池田市長選、滝沢氏当選　サウナ問題、前市長破る：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8Y7SG5P8RPPTB009.html</id>
-        <link href="https://www.asahi.com/articles/ASP8Y7SG5P8RPPTB009.html"/>
-        <updated>2021-08-29T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[大阪府池田市で、市長が家庭用サウナを市役所に持ち込むなどした問題で辞職したことに伴う市長選が、29日に投開票された。新顔で前市議の滝沢智子氏（40）=大阪維新の会=が、前市長の冨田裕樹氏（45）=無所属=、新顔で前市議の渡辺千芳（ちよし）氏（67）=同=、新顔で元市議の内藤勝氏（74）=同=を破り、初当選を決めた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大学時代にコミュニケーションの上手い人から聞いた話だと、いろんな人に..]]></title>
         <id>https://anond.hatelabo.jp/20210829221204</id>
         <link href="https://anond.hatelabo.jp/20210829221204"/>
@@ -251,16 +261,6 @@
         <link href="https://honeshabri.hatenablog.com/entry/aftershokz-air2"/>
         <updated>2021-08-29T12:59:46.000Z</updated>
         <summary type="html"><![CDATA[骨伝導ヘッドセットAfterShokzを使い始めて1年以上。 もう完全に手放せない。 メガネと同じくらい装着しっぱなしの生活になっている。 骨伝導ヘッドセットを使い始めて1年 1年ほど前に骨伝導ヘッドセットの記事を書いた。 この時は使い始めて1ヶ月の時点だった。今回はさらに1年使った感想である。まずは前回の復習から...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90代陸上リレーチーム 世界記録上回る 世界新認定申請へ 青森 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210829/k10013231221000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210829/k10013231221000.html"/>
-        <updated>2021-08-29T12:12:57.000Z</updated>
-        <summary type="html"><![CDATA[青森県内に住む90代の男性4人のチームが、陸上大会で400メートルと1600メートルのリレーに出場し、同じ年代の世界記録を大きく上回るタイムを出しました。 大会の主催者は世界新記録の認定に向けて申請を行うことにしています。 青森県弘前市では29日、「青森マスターズ陸上競技選手権大会」が開かれ、23歳から92歳のお...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

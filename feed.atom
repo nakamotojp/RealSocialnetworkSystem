@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T17:18:03.373Z</id>
+    <id>urn:2021-08-30T18:14:08.568Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T17:18:03.373Z</updated>
+    <updated>2021-08-30T18:14:08.568Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[都内女子高生行方不明 群馬県内居住の20代夫婦「殺害した」 | 事件 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210830/k10013233651000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210830/k10013233651000.html"/>
+        <updated>2021-08-30T13:48:21.000Z</updated>
+        <summary type="html"><![CDATA[東京都内に住む高校3年生の女子生徒が3日前の今月27日から行方が分からなくなっていることが捜査関係者への取材で分かりました。 警視庁が行方を探していましたが、群馬県内に住む20代の夫婦が女子生徒と接触していたことが分かり事情を聴いたところ、「女子生徒を殺害した」などと話したということです。警視庁が夫婦か...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愛知県の大村秀章知事「もう二度と場所を貸さない」　波物語「密」報告で炎上に怒り｜ニフティニュース]]></title>
         <id>https://news.nifty.com/article/economy/business/12117-18655/</id>
@@ -81,6 +91,16 @@
         <link href="https://twitter.com/konijnenhofje/status/1431918375840608261"/>
         <updated>2021-08-30T07:35:31.000Z</updated>
         <summary type="html"><![CDATA[キリスト教図像学の講義では「イエス・キリストは馬小屋で生まれたのではない。くれぐれも〈厩戸皇子〉と呼ばれた聖徳太子の伝説と混同しないように」といつも念を押してきたのだが、教養人にもこの誤解を免れていない方がおられるのを昨日知ったので、この論題について連続ツイートすることにします。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT Tech Review: 登 大遊「イノベーションは“いんちき遊び”から生まれる」]]></title>
+        <id>https://www.technologyreview.jp/s/254889/the-genius-programmer-says-innovation-is-born-from-playfulness/</id>
+        <link href="https://www.technologyreview.jp/s/254889/the-genius-programmer-says-innovation-is-born-from-playfulness/"/>
+        <updated>2021-08-30T07:30:12.000Z</updated>
+        <summary type="html"><![CDATA[「デジタル敗戦」という言葉が確定した事実かのように語られる日本のICTの現状に対し、天才プログラマーの登 大遊氏は「あまり心配する必要はない」と話す。日本に必要なのは大企業の「遊び」だと言う。 by Yasuhiro Hatabe2021.08.30 311 81 3 2 独創的な若きイノベーターを選出する世界的アワード「Innovators Under 3...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zeebra on Twitter: "昨日のNAMIMONOGATARI、県のルールに則ってると聞いていたので出演しましたが、開けてみたら危険な状況でした。会場に向かう最中SNSで会場の写真を見て、すぐにスタッフに連絡をし、司会からマスクの着用を徹底させる様に伝えました。"]]></title>
-        <id>https://twitter.com/zeebrathedaddy/status/1432160376490057728</id>
-        <link href="https://twitter.com/zeebrathedaddy/status/1432160376490057728"/>
-        <updated>2021-08-30T02:16:30.000Z</updated>
-        <summary type="html"><![CDATA[昨日のNAMIMONOGATARI、県のルールに則ってると聞いていたので出演しましたが、開けてみたら危険な状況でした。会場に向かう最中SNSで会場の写真を見て、すぐにスタッフに連絡をし、司会からマスクの着用を徹底させる様に伝えました。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ミシェル・ウエルベック「安楽死を合法化する国、社会、文明は敬意に値しない」 | むしろ破滅させることが望ましい | クーリエ・ジャポン]]></title>
         <id>https://courrier.jp/news/archives/256261/</id>
         <link href="https://courrier.jp/news/archives/256261/"/>
@@ -231,16 +241,6 @@
         <link href="https://gothedistance.hatenadiary.jp/entry/2021/08/30/110000"/>
         <updated>2021-08-30T02:05:12.000Z</updated>
         <summary type="html"><![CDATA[最短でイッセンマンITエンジニアを目指すなら大炎上プロジェクトがオススメ！！経験浅でも採用の可能性が上がるし、週最大7日間1日15時間以上、プロに揉まれながらスキルを磨けるので面倒な家での積み上げは不要！やり遂げた際の経験値はヤバいし、活躍によってはPMが次のPJに引っ張ってくれるよ！— 代表取締役 岩元仁＠...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マック店員 日本最高齢９３歳　週４夜勤「働くことが好き」（北日本新聞） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/be8e4d497dc6b6e780b123f6bea361dc1a0899a9</id>
-        <link href="https://news.yahoo.co.jp/articles/be8e4d497dc6b6e780b123f6bea361dc1a0899a9"/>
-        <updated>2021-08-30T01:03:02.000Z</updated>
-        <summary type="html"><![CDATA[全国のマクドナルド店舗約２９００店の最高齢スタッフ、薮田義光さん（９３）＝富山県砺波市＝が、同県高岡市駅南の高岡駅南店で働いている。２０１９年から勤務を続け「働くことが好き。一緒に働く仲間の存在がとても大きい」とやりがいを語る。精力的な仕事ぶりは店を支えるばかりではない。同僚が「人は何歳からでも...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T00:39:26.827Z</id>
+    <id>urn:2021-08-30T01:52:08.884Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T00:39:26.827Z</updated>
+    <updated>2021-08-30T01:52:08.884Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,6 +66,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[アフガン退避で日本と韓国の差！ 外交官は逃げて民間人と現地職員を置き去りの日本、外交官がアフガンに戻り390人を退避させた韓国｜LITERA／リテラ]]></title>
+        <id>https://lite-ra.com/2021/08/post-6003.html</id>
+        <link href="https://lite-ra.com/2021/08/post-6003.html"/>
+        <updated>2021-08-29T14:30:53.000Z</updated>
+        <summary type="html"><![CDATA[アフガン退避で日本と韓国の差！ 外交官は逃げて民間人と現地職員を置き去りの日本、外交官がアフガンに戻り390人を退避させた韓国 日本政府の棄民姿勢はコロナ対策だけではなかったらしい。タリバンが権力を掌握したアフガニスタンで、日本の自衛隊がJICA職員など民間の在留邦人や大使館の現地スタッフの退避作戦を展開...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCP の Application Default Credentials を使った認証 - ぽ靴な缶]]></title>
+        <id>https://blog.pokutuna.com/entry/application-default-credentials</id>
+        <link href="https://blog.pokutuna.com/entry/application-default-credentials"/>
+        <updated>2021-08-29T14:18:29.000Z</updated>
+        <summary type="html"><![CDATA[公式ドキュメントで説明されているけど、同僚に何度か説明する機会があったり、作る必要のないサービスアカウントキーを目にすることも多いのでまとめておく。 認証情報が登場しないアプリケーションコード 例えば以下のコードで Secret Manager に保存したトークンを取得することができる。SecretManagerServiceClient ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[村上春樹氏、菅首相を痛烈批判「聞く耳持たないけど、目だけは良いのかも」 - 社会 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/general/nikkan/news/202108290001243.html</id>
+        <link href="https://www.nikkansports.com/general/nikkan/news/202108290001243.html"/>
+        <updated>2021-08-29T14:15:16.000Z</updated>
+        <summary type="html"><![CDATA[作家の村上春樹氏（72）が29日、TOKYO FM系で放送された自らDJを務めるラジオ番組「村上RADIO」の番組内で、菅義偉首相（72）の新型コロナウイルスに対する発言を、痛烈に批判。「この人、聞く耳をあまり持たないみたいだけど、目だけは良いのかもしれない。あるいは見たい物だけ見ているのかも知れない」と“一刀両断”し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[最近の冷蔵庫にはマグネットがつかないことに衝撃…SHARP公式も反応「ガラスドアが主流になったのが原因」 - Togetter]]></title>
         <id>https://togetter.com/li/1766804</id>
         <link href="https://togetter.com/li/1766804"/>
@@ -91,6 +121,16 @@
         <link href="https://twitter.com/Shinnosukee07/status/1431513366623924226"/>
         <updated>2021-08-29T13:18:59.000Z</updated>
         <summary type="html"><![CDATA[ベルギーの民放で日本特集やってて、「日本人はクリエイティブで誠実な民族だが、30年間経済成長が止まっており、人々は内向的で、50年以上名だたる新興グローバル企業が出てきていない」という内容でつらい。 https://t.co/x9OB3gwf1A]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学時代にコミュニケーションの上手い人から聞いた話だと、いろんな人に..]]></title>
+        <id>https://anond.hatelabo.jp/20210829221204</id>
+        <link href="https://anond.hatelabo.jp/20210829221204"/>
+        <updated>2021-08-29T13:14:35.000Z</updated>
+        <summary type="html"><![CDATA[大学時代にコミュニケーションの上手い人から聞いた話だと、いろんな人に何回も同じ話をすると言ってたな そうするとその話のウケの良かった部分や悪かった部分が出てきて、次に話すときにそこを修正して試すことができる それを繰り返すと、エピソードトークが完成するし、次に話しかけるときのハードルも自分の中で下...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,6 +186,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[90代陸上リレーチーム 世界記録上回る 世界新認定申請へ 青森 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210829/k10013231221000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210829/k10013231221000.html"/>
+        <updated>2021-08-29T12:12:57.000Z</updated>
+        <summary type="html"><![CDATA[青森県内に住む90代の男性4人のチームが、陸上大会で400メートルと1600メートルのリレーに出場し、同じ年代の世界記録を大きく上回るタイムを出しました。 大会の主催者は世界新記録の認定に向けて申請を行うことにしています。 青森県弘前市では29日、「青森マスターズ陸上競技選手権大会」が開かれ、23歳から92歳のお...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[まさか自分が30になってまで、いろんなことから逃げ、何一つ重大な決断を一..]]></title>
         <id>https://anond.hatelabo.jp/20210829203330</id>
         <link href="https://anond.hatelabo.jp/20210829203330"/>
@@ -181,16 +231,6 @@
         <link href="https://anond.hatelabo.jp/20210829154717"/>
         <updated>2021-08-29T09:13:36.000Z</updated>
         <summary type="html"><![CDATA[昔、「輪るピングドラム」というアニメがあって、その挿入歌をトリプルHという女の子たちが歌っていた。 しかし、その歌詞はかなり重たい内容で、調べれば、ARBという昔の男性ロックバンドの曲だったりした。 「古い革袋に新しい酒」という言葉があるが、トリプルHの曲はまさにそういった良さがあった。 いかにも男性な...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[たっくんマニア on Twitter: "流石にちょっとな。 https://t.co/MnfaGgUFli"]]></title>
-        <id>https://twitter.com/takkunmania/status/1431859711188504585</id>
-        <link href="https://twitter.com/takkunmania/status/1431859711188504585"/>
-        <updated>2021-08-29T09:00:18.000Z</updated>
-        <summary type="html"><![CDATA[流石にちょっとな。 https://t.co/MnfaGgUFli]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,46 +281,6 @@
         <link href="https://togetter.com/li/1766593"/>
         <updated>2021-08-29T05:10:14.000Z</updated>
         <summary type="html"><![CDATA[ISO @iso_zin_ Netflixの新シリーズ『パリスとお料理』面白かった！パリス・ヒルトンが豪華ゲストを招いて独創的すぎる料理を披露するクッキング番組。料理番組としては0点だけどコメディとしては100点！買い物から料理、実食まで全部面白い。料理出来ないのに自己肯定力MAXのパリスを見てると何故か元気が出てくる。 pi...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : ひろゆき「味噌汁って美味しくない。日本人は好きな人多いけど本当に美味しかったら世界に広がってる」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2010137.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2010137.html"/>
-        <updated>2021-08-29T04:38:36.000Z</updated>
-        <summary type="html"><![CDATA[ひろゆき「味噌汁って美味しくない。日本人は好きな人多いけど本当に美味しかったら世界に広がってる」 1 名前：リゾビウム(茸) [US]：2021/08/29(日) 10:36:13.51 ID:21cTit360 https://tr.twipple.jp/p/d1/53281b.html 3: シネルギステス(ジパング) [US] 2021/08/29(日) 10:37:29.31 ID:F/bdig/w0 つまりひろゆきは日...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『本当は気持ちよかったんやろ』『濡れとったで』HIPHOPの人気作曲家が交際相手の連れ子（16）に対するわいせつ行為で服役中《監護者わいせつ罪で懲役2年》 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/48231</id>
-        <link href="https://bunshun.jp/articles/-/48231"/>
-        <updated>2021-08-29T04:31:08.000Z</updated>
-        <summary type="html"><![CDATA[「主文。被告人を懲役2年に処する」 黒の短髪にスーツを着たやや小柄の男が、下を向いて裁判長の話を聞いている。首と手にはタトゥーを覆うようにベージュ色のテーピング。一見しても、この男がHIPHOP界を騒がせたプロデューサーであるMURVSAKI（ムラサキ）とは誰も気がつかないだろう――。 「文春オンライン」の取材で、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教習所でもっと気合い入れて教えて欲しかったこと]]></title>
-        <id>https://anond.hatelabo.jp/20210829122513</id>
-        <link href="https://anond.hatelabo.jp/20210829122513"/>
-        <updated>2021-08-29T04:19:34.000Z</updated>
-        <summary type="html"><![CDATA[・立体交差 カーナビないと身動き取れない運転下手なんだけど、「この先5km以上道なりです」って言われた後に「100m先、右です」て言われた時の私の発狂振りに共感してくれる人いませんか。 立体交差って入口が交差点の300mくらい前にあるから「えっ、えっ、これなに？？ この道なに？？？ 入っちゃったらどうなるの？？...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かりゆし｜Excel図解 on Twitter: "個人的に一番感動したショートカットキーです。 https://t.co/loUuFoCjCm"]]></title>
-        <id>https://twitter.com/excel_kariyushi/status/1431600625570103303</id>
-        <link href="https://twitter.com/excel_kariyushi/status/1431600625570103303"/>
-        <updated>2021-08-29T02:44:18.000Z</updated>
-        <summary type="html"><![CDATA[個人的に一番感動したショートカットキーです。 https://t.co/loUuFoCjCm]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

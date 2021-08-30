@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T21:10:37.592Z</id>
+    <id>urn:2021-08-30T22:11:41.470Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T21:10:37.592Z</updated>
+    <updated>2021-08-30T22:11:41.470Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,6 +56,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ブルーインパルス、カラースモーク不適正噴射　パラ開会日、車に粒子 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210830/k00/00m/050/294000c</id>
+        <link href="https://mainichi.jp/articles/20210830/k00/00m/050/294000c"/>
+        <updated>2021-08-30T12:37:25.000Z</updated>
+        <summary type="html"><![CDATA[東京パラリンピック開会式当日に都心上空を飛行する航空自衛隊のブルーインパルス＝東京都新宿区の防衛省で2021年8月24日午後2時11分、吉田航太撮影 東京パラリンピックの開会日に東京都心を飛行した航空自衛隊のアクロバット飛行チーム「ブルーインパルス」を巡り、空自は30日、入間基地（埼玉県）に着陸する直前に3色...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[世界第10位の研究力になってしまった我が国：国立大学「独法化」と財務省の「選択と集中」政策の「成果」 - 物理屋の不定期ブログ]]></title>
         <id>https://biran2008.hatenablog.com/entry/2021/08/15/180634</id>
         <link href="https://biran2008.hatenablog.com/entry/2021/08/15/180634"/>
@@ -66,11 +76,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HPVワクチンの「積極的勧奨」再開、厚労省検討へ　22年度視野に | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210830/k00/00m/040/286000c</id>
+        <link href="https://mainichi.jp/articles/20210830/k00/00m/040/286000c"/>
+        <updated>2021-08-30T12:17:19.000Z</updated>
+        <summary type="html"><![CDATA[子宮頸（けい）がんなどの原因となるHPV（ヒトパピローマウイルス）の感染を防ぐとされるワクチンについて、厚生労働省は2013年から差し控えている積極的な接種呼びかけの再開に向け、議論を始める。審議会に諮り、来年度からの再開も視野に検討する。 HPVワクチンは小学6年～高校1年の女子は無料で接種できる「定期接種...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「アムロ殴られ待ち現象」について]]></title>
         <id>https://anond.hatelabo.jp/20210830193754</id>
         <link href="https://anond.hatelabo.jp/20210830193754"/>
         <updated>2021-08-30T10:43:34.000Z</updated>
         <summary type="html"><![CDATA[尾崎紅葉の「金色夜叉」を読み始めた。普段はこんなに格式ばった文体のものを読まないため中々に難儀しており、１日に数ページずつゆっくりと読み進めているのだが、今日も数ページ進めたところで青空文庫を閉じると、「お宮まだ蹴られないのかなぁ」と思っている自分に気づいた。いや、別にそういった趣味があるわけで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テント内に侵入し、荷物を漁った末に寝た野生のヤマネ。仕方ないから一緒に寝た「すごく可愛いんですけど天然記念物だから飼えない……」 - Togetter]]></title>
+        <id>https://togetter.com/li/1767162</id>
+        <link href="https://togetter.com/li/1767162"/>
+        <updated>2021-08-30T10:24:58.000Z</updated>
+        <summary type="html"><![CDATA[🍀望月灯P(望月雪見) 強竜翔天 ☺︎ @YukiM_1988 @mapleroro 凄い可愛いんですけど、’75年（46年前）に国の天然記念物に指定されているので、現在は飼育出来ないんですって 山小屋や巣箱に営巣することもあり、山小屋の布団やタンスの中で冬眠する場合もたまにあるそうです タンスの中で丸くなるヤマネさんも想像したらめち...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -91,16 +121,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210830/k10013233121000.html"/>
         <updated>2021-08-30T09:56:56.000Z</updated>
         <summary type="html"><![CDATA[航空自衛隊は、東京パラリンピックの開会式の日に展示飛行を行った「ブルーインパルス」が、基地に着陸する際、適正な高度より低い高度でカラースモークを使用したと発表しました。 基地周辺のおよそ300台の車に染料が付着しているという連絡が寄せられていて、航空自衛隊は「ご心配をおかけしたことをおわびします」と...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜野党に問う＞日本維新の会・片山虎之助共同代表インタビュー　「日本大改革プランを準備」：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/127670</id>
-        <link href="https://www.tokyo-np.co.jp/article/127670"/>
-        <updated>2021-08-30T08:24:00.000Z</updated>
-        <summary type="html"><![CDATA[「最初に議員や公務員の身を切る改革を行って国民の信頼と支持を確保する。それをバックに諸改革に取り組み、成果を出す。大阪では知事と大阪市長その他首長を輩出し、議会でも多数を得て維新改革を実行してきた。新型コロナウイルス対策では緊急事態宣言の発令、解除についても独自に『大阪方式』を提唱し、高い評価を...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -206,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[庶民（感覚の金持ち）が高級車に乗って幸せになるのか]]></title>
-        <id>https://anond.hatelabo.jp/20210830142224</id>
-        <link href="https://anond.hatelabo.jp/20210830142224"/>
-        <updated>2021-08-30T05:31:32.000Z</updated>
-        <summary type="html"><![CDATA[先週末親父に呼ばれ、一緒にディーラー巡りをした。 今年還暦を迎え、現在再雇用中の親父。 親父は定年前、定年後も真面目に働いているため、お金もそこそこある。 そんな親父がおそらく最後の車になるだろうということで、高級車に乗りたいと言っており、ベンツとレクサスに行った。 ただ、俺は親父は高級車に乗るべき...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[お湯を使わないレトルト専用調理器「レトルト亭」アピックスから - 家電 Watch]]></title>
         <id>https://kaden.watch.impress.co.jp/docs/news/1347007.html</id>
         <link href="https://kaden.watch.impress.co.jp/docs/news/1347007.html"/>
@@ -241,16 +251,6 @@
         <link href="https://www.nikkei.com/article/DGXZQOUA293EG0Z20C21A8000000/"/>
         <updated>2021-08-30T02:27:31.000Z</updated>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 立憲民主党の枝野幸男代表は29日、子育てや教育の負担軽減をめざす考えを示した。「国公立大学の授業料を半額にする」と述べ、小中学校などの給食は「国費で自治体に支...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミシェル・ウエルベック「安楽死を合法化する国、社会、文明は敬意に値しない」 | むしろ破滅させることが望ましい | クーリエ・ジャポン]]></title>
-        <id>https://courrier.jp/news/archives/256261/</id>
-        <link href="https://courrier.jp/news/archives/256261/"/>
-        <updated>2021-08-30T02:14:18.000Z</updated>
-        <summary type="html"><![CDATA[2021年4月、自殺幇助を合法化する法案がフランス議会で審議されたことを受け、公の場ではめったに発言しないフランス人著名作家のミシェル・ウエルベックが口を開いた。結果的に議決にはいたらず審議期限を迎えたこの「安楽死法案」だが、ウエルベックは仏「フィガロ」紙に寄稿し、激しい反対意見を述べている。 命題そ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

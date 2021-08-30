@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T13:18:32.426Z</id>
+    <id>urn:2021-08-30T14:11:25.186Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T13:18:32.426Z</updated>
+    <updated>2021-08-30T14:11:25.186Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「アムロ殴られ待ち現象」について]]></title>
+        <id>https://anond.hatelabo.jp/20210830193754</id>
+        <link href="https://anond.hatelabo.jp/20210830193754"/>
+        <updated>2021-08-30T10:43:34.000Z</updated>
+        <summary type="html"><![CDATA[尾崎紅葉の「金色夜叉」を読み始めた。普段はこんなに格式ばった文体のものを読まないため中々に難儀しており、１日に数ページずつゆっくりと読み進めているのだが、今日も数ページ進めたところで青空文庫を閉じると、「お宮まだ蹴られないのかなぁ」と思っている自分に気づいた。いや、別にそういった趣味があるわけで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナで自宅療養中の女性死亡 死後3日か 千葉 柏 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210830/k10013232981000.html</id>
@@ -266,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大学時代にコミュニケーションの上手い人から聞いた話だと、いろんな人に..]]></title>
-        <id>https://anond.hatelabo.jp/20210829221204</id>
-        <link href="https://anond.hatelabo.jp/20210829221204"/>
-        <updated>2021-08-29T13:14:35.000Z</updated>
-        <summary type="html"><![CDATA[大学時代にコミュニケーションの上手い人から聞いた話だと、いろんな人に何回も同じ話をすると言ってたな そうするとその話のウケの良かった部分や悪かった部分が出てきて、次に話すときにそこを修正して試すことができる それを繰り返すと、エピソードトークが完成するし、次に話しかけるときのハードルも自分の中で下...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[鬼滅の刃を「幼稚園で強制的に」観せられた！！]]></title>
         <id>https://anond.hatelabo.jp/20210829210959</id>
         <link href="https://anond.hatelabo.jp/20210829210959"/>
@@ -296,11 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[夏野 剛 Takeshi Natsuno on Twitter: "税金をほとんど払っていないのに公共事業や行政サービスを要求する人たちをフリーライダーという。フリーライダーが増えれば増えるほど国が成り立たなくなる。竹中さんにもう10年大臣やって欲しかったな。 / 日本... http://t.co/j1ImDJwWDk #NewsPicks"]]></title>
-        <id>https://twitter.com/tnatsu/status/516762346300002304</id>
-        <link href="https://twitter.com/tnatsu/status/516762346300002304"/>
-        <updated>2021-08-29T08:23:32.000Z</updated>
-        <summary type="html"><![CDATA[税金をほとんど払っていないのに公共事業や行政サービスを要求する人たちをフリーライダーという。フリーライダーが増えれば増えるほど国が成り立たなくなる。竹中さんにもう10年大臣やって欲しかったな。 / 日本... http://t.co/j1ImDJwWDk #NewsPicks]]></summary>
+        <title type="html"><![CDATA[こびナビの人がPCR検査抑制のデマを流した張本人だったことを忘れてはいけない。｜伊賀 治　デマ撲滅ファクトチェック集｜note]]></title>
+        <id>https://note.com/osamu_iga/n/nd17e78fe4a1b</id>
+        <link href="https://note.com/osamu_iga/n/nd17e78fe4a1b"/>
+        <updated>2021-08-07T08:20:33.000Z</updated>
+        <summary type="html"><![CDATA[こびナビの人がPCR検査抑制のデマを流した張本人だったことを忘れてはいけない。PCR検査抑制もワクチン推進も、政府のプロパガンダや時流に合わせただけ。変節するならまず訂正が先。良い子面しても過去の発言は消せない。 【解説】 「PCR検査は偽陽性だらけになる」「検査精度は良くて7割」と解説し、無症状者への大規...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

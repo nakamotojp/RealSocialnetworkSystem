@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T11:10:13.695Z</id>
+    <id>urn:2021-08-30T12:18:51.210Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T11:10:13.695Z</updated>
+    <updated>2021-08-30T12:18:51.210Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナで自宅療養中の女性死亡 死後3日か 千葉 柏 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210830/k10013232981000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210830/k10013232981000.html"/>
+        <updated>2021-08-30T10:04:15.000Z</updated>
+        <summary type="html"><![CDATA[千葉県柏市で新型コロナウイルスに感染し、自宅で療養していた60代の女性が死後およそ3日たって発見されたことがわかりました。 当初、女性は軽症で夫と同居していたため、保健所は優先度を下げて対応したとしていますが、夫は屋外で倒れて会話ができない状態で病院に搬送されていたということです。 死亡したのは柏市に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昔話感の強い昔話といえば？「携帯がデカい」「HDDの上限が40MB」「土曜も働いてた」「アボカドとかキウイが無い」 - Togetter]]></title>
         <id>https://togetter.com/li/1767111</id>
@@ -31,6 +41,16 @@
         <link href="https://nordot.app/804977838975844352"/>
         <updated>2021-08-30T07:45:52.000Z</updated>
         <summary type="html"><![CDATA[政府、与党は30日、野党が求めていた自民党総裁選前の臨時国会召集を見送る方針を固めた。複数の与党関係者が明らかにした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民二階幹事長、岸田氏の党改革案に不快感（共同通信） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/7dccb9a77c81c7c2e4f90180abdab6197b682e5a</id>
+        <link href="https://news.yahoo.co.jp/articles/7dccb9a77c81c7c2e4f90180abdab6197b682e5a"/>
+        <updated>2021-08-30T07:28:28.000Z</updated>
+        <summary type="html"><![CDATA[自民党の二階俊博幹事長は30日、共同通信のインタビューで、総裁選出馬を表明した岸田文雄前政調会長による「総裁を除く党役員は1期1年、連続3期まで」との党改革案に不快感を示した。「失敬だ」と述べた。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ドライフルーツで果実酒を仕込むとすごい :: デイリーポータルZ]]></title>
-        <id>https://dailyportalz.jp/kiji/dried_fruit-spirits</id>
-        <link href="https://dailyportalz.jp/kiji/dried_fruit-spirits"/>
-        <updated>2021-08-30T02:19:28.000Z</updated>
-        <summary type="html"><![CDATA[季節のフルーツでしか果実酒が仕込めないことに、ずっと勿体なさを感じていた。いつでも仕込めて、すぐに楽しめる果実酒があったらいいのに。 そうだ、ドライフルーツを酒に浸けたらどうなるんだろう。 2度目の梅雨がきて、雨の勢いが凄いなあなどと考えてるうちにまた夏になった。今年の天気はどうしてしまったのだろう...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zeebra on Twitter: "昨日のNAMIMONOGATARI、県のルールに則ってると聞いていたので出演しましたが、開けてみたら危険な状況でした。会場に向かう最中SNSで会場の写真を見て、すぐにスタッフに連絡をし、司会からマスクの着用を徹底させる様に伝えました。"]]></title>
         <id>https://twitter.com/zeebrathedaddy/status/1432160376490057728</id>
         <link href="https://twitter.com/zeebrathedaddy/status/1432160376490057728"/>
@@ -211,16 +221,6 @@
         <link href="https://pc.watch.impress.co.jp/docs/topic/special/1343877.html"/>
         <updated>2021-08-29T22:54:59.000Z</updated>
         <summary type="html"><![CDATA[みなさんにとって「SSD」というのは、もはや聞き慣れたワードのはずだ。メインストレージにSSDを使っていないPCなんて、今となっては探すのが難しいほど。大容量データを長く保管するために、セカンドストレージにHDDを使っている、という人はいるかもしれないが、HDDが取って代わられる領域は徐々に広がり、SSDの存在感が確実に増している。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接種後死亡の男性、解熱後に急変　父親「まさか息子が」　使用保留のロット　広島（中国新聞デジタル） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/c734df05ae56887dd1e3fa7f49fb43e8ffc8384f</id>
-        <link href="https://news.yahoo.co.jp/articles/c734df05ae56887dd1e3fa7f49fb43e8ffc8384f"/>
-        <updated>2021-08-29T22:20:06.000Z</updated>
-        <summary type="html"><![CDATA[米モデルナ製の新型コロナウイルスワクチンに異物が混入していた問題で、広島県南部の会社員男性（30）が、使用を見合わせているロットのワクチン接種後に亡くなっていたことが29日、分かった。厚生労働省が28日に公表した30代男性2人の死亡事例のうちの1人とみられる。会社員男性の父親（63）が中国新聞の取材に応じ、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

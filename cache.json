@@ -6,12 +6,30 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://gothedistance.hatenadiary.jp/entry/2021/08/30/110000",
+          "author": null,
+          "description": "最短でイッセンマンITエンジニアを目指すなら大炎上プロジェクトがオススメ！！経験浅でも採用の可能性が上がるし、週最大7日間1日15時間以上、プロに揉まれながらスキルを磨けるので面倒な家での積み上げは不要！やり遂げた際の経験値はヤバいし、活躍によってはPMが次のPJに引っ張ってくれるよ！— 代表取締役 岩元仁＠...",
+          "link": "https://gothedistance.hatenadiary.jp/entry/2021/08/30/110000",
+          "publishedOn": "2021-08-30T02:05:12.000Z",
+          "wordCount": 142,
+          "title": "炎上プロジェクトでスキルを会得する前にお前は死ぬ - GoTheDistance"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/30/news065.html",
+          "author": null,
+          "description": "法改正が効いたのならなぜ類似サイトが繁栄しているのか。漫画村運営者への判決が出た後、状況はどう変わったのかを分析する。 2018年ごろ、世間を大いに騒がし、その後の法改正に大きな影響を与えた「漫画村」事件。まだ3年前の話なので記憶も新しいところだが、21年6月2日、福岡地裁にて元運営者に対する判決が出た。...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/30/news065.html",
+          "publishedOn": "2021-08-29T23:52:48.000Z",
+          "wordCount": 144,
+          "title": "結局、「漫画村」は死んでないのではないか：小寺信良のIT大作戦（1/3 ページ） - ITmedia NEWS"
+        },
+        {
           "id": "https://coliss.com/articles/freebies/google-fonts-for-japanese.html",
           "author": null,
           "description": "フリーフォントが大好物な人に朗報です！ 🎉 先週、Google Fontsに日本語フォントが追加されたので、紹介します。これでさらに、たくさんの日本語フォントがGoogle Fontsで使用できます。 新しく追加された日本語のGoogle Fonts 他にもたくさんある日本語のGoogle Fonts Google FontsのライセンスはほとんどがSIL Open F...",
           "link": "https://coliss.com/articles/freebies/google-fonts-for-japanese.html",
           "publishedOn": "2021-08-29T23:24:10.000Z",
-          "wordCount": 787,
+          "wordCount": null,
           "title": "日本語フォントがGoogle Fontsに大量追加！すべてのフォントが商用利用も無料のフリーフォントです | コリス"
         },
         {
@@ -47,7 +65,7 @@
           "description": "いやはやこれは… 普段世の中に中指立てたりしてる界隈みたいな認識だけどまだ常識を持った上での敢えての乱痴気だと思っていたけど、流石に今の世間の状況観てこんなフェスが可能と判断する神経がそもそも別次元の莫迦集団だとしか思えんわ…。",
           "link": "https://togetter.com/li/1766881",
           "publishedOn": "2021-08-29T14:57:59.000Z",
-          "wordCount": 2209,
+          "wordCount": 2427,
           "title": "コロナ病床逼迫状況1位の愛知県でHIP HOP系の野外フェス『波物語 #NAMIMONOGATARI 』が感染対策なんてどこ吹く風の超密開催で絶句 - Togetter"
         },
         {
@@ -56,7 +74,7 @@
           "description": "わらびもち@warabi_mochinコロナワクチンの四天王！ ・ファイザー(アメリカ) →優等生だがデルタ株が苦手 ・モデルナ(アメリカ) →効き目はいいけど副反応が強くてたまに異物混入 ・アストラゼネカ(イギリス) →効き目が1番弱く、献血できない身体になる ・シノバック(中国) →効かない 2021/08/26 16:55:02 じゃい@夏休みア...",
           "link": "https://kabumatome.doorblog.jp/archives/65984737.html",
           "publishedOn": "2021-08-29T14:44:51.000Z",
-          "wordCount": 902,
+          "wordCount": 960,
           "title": "楽天、ガメすぎた職域接種ワクチンを世田谷区民だけでは捌き切れず川崎市民にも開放 : 市況かぶ全力２階建"
         },
         {
@@ -65,7 +83,7 @@
           "description": "大阪府池田市で、市長が家庭用サウナを市役所に持ち込むなどした問題で辞職したことに伴う市長選が、29日に投開票された。新顔で前市議の滝沢智子氏（40）=大阪維新の会=が、前市長の冨田裕樹氏（45）=無所属=、新顔で前市議の渡辺千芳（ちよし）氏（67）=同=、新顔で元市議の内藤勝氏（74）=同=を破り、初当選を決めた...",
           "link": "https://www.asahi.com/articles/ASP8Y7SG5P8RPPTB009.html",
           "publishedOn": "2021-08-29T14:36:47.000Z",
-          "wordCount": 219,
+          "wordCount": 220,
           "title": "大阪・池田市長選、滝沢氏当選　サウナ問題、前市長破る：朝日新聞デジタル"
         },
         {
@@ -83,17 +101,8 @@
           "description": "公式ドキュメントで説明されているけど、同僚に何度か説明する機会があったり、作る必要のないサービスアカウントキーを目にすることも多いのでまとめておく。 認証情報が登場しないアプリケーションコード 例えば以下のコードで Secret Manager に保存したトークンを取得することができる。SecretManagerServiceClient ...",
           "link": "https://blog.pokutuna.com/entry/application-default-credentials",
           "publishedOn": "2021-08-29T14:18:29.000Z",
-          "wordCount": 570,
+          "wordCount": 573,
           "title": "GCP の Application Default Credentials を使った認証 - ぽ靴な缶"
-        },
-        {
-          "id": "https://www.nikkansports.com/general/nikkan/news/202108290001243.html",
-          "author": null,
-          "description": "作家の村上春樹氏（72）が29日、TOKYO FM系で放送された自らDJを務めるラジオ番組「村上RADIO」の番組内で、菅義偉首相（72）の新型コロナウイルスに対する発言を、痛烈に批判。「この人、聞く耳をあまり持たないみたいだけど、目だけは良いのかもしれない。あるいは見たい物だけ見ているのかも知れない」と“一刀両断”し...",
-          "link": "https://www.nikkansports.com/general/nikkan/news/202108290001243.html",
-          "publishedOn": "2021-08-29T14:15:16.000Z",
-          "wordCount": 503,
-          "title": "村上春樹氏、菅首相を痛烈批判「聞く耳持たないけど、目だけは良いのかも」 - 社会 : 日刊スポーツ"
         },
         {
           "id": "https://togetter.com/li/1766804",
@@ -101,7 +110,7 @@
           "description": "まかべひろし @sinpen (有)MCF代表取締役プログラマ。個人の発言で馬鹿ばっか言ってます。ガジェット/食い道楽/専門学校講師/ベーマガ/PGはPC,スマホ,CS,組込他何でも/背はホビット。【まとめBlog転載禁止】Switchフレコ:SW-6164-6684-5412 mcf.cn",
           "link": "https://togetter.com/li/1766804",
           "publishedOn": "2021-08-29T13:44:39.000Z",
-          "wordCount": 1211,
+          "wordCount": 1230,
           "title": "最近の冷蔵庫にはマグネットがつかないことに衝撃…SHARP公式も反応「ガラスドアが主流になったのが原因」 - Togetter"
         },
         {
@@ -110,7 +119,7 @@
           "description": "＜新型コロナ＞「亡くなるべくして亡くなっている」　一家感染の50代夫婦、支援体制の不備や自宅療養の苦しさ激白 家族３人全員が感染し、自宅とホテルに分かれて療養を経験した神奈川県内の５０代夫婦が、本紙の取材に応じた。県が緊急連絡先として広報している電話番号にかけても具体的な対応はなく、不安な日々が続い...",
           "link": "https://www.tokyo-np.co.jp/article/127650",
           "publishedOn": "2021-08-29T13:39:08.000Z",
-          "wordCount": 302,
+          "wordCount": 301,
           "title": "＜新型コロナ＞「亡くなるべくして亡くなっている」　一家感染の50代夫婦、支援体制の不備や自宅療養の苦しさ激白：東京新聞 TOKYO Web"
         },
         {
@@ -137,7 +146,7 @@
           "description": "不法滞在などの外国人を収容する東日本入国管理センター（茨城県牛久市、略称・牛久入管）は29日、収容中の男性が業務委託先の民間会社の警備員から暴行を受け、全治2週間のけがをしたと発表した。警備員は入管に「ふざけてヘッドロックをした」と説明しているが、被害男性は「首を絞められた」と訴えているという。 牛...",
           "link": "https://mainichi.jp/articles/20210829/k00/00m/040/322000c",
           "publishedOn": "2021-08-29T13:06:08.000Z",
-          "wordCount": 457,
+          "wordCount": 460,
           "title": "入管で警備員が収容者暴行「ふざけて」　被害男性「首絞められた」 | 毎日新聞"
         },
         {
@@ -186,15 +195,6 @@
           "title": "まさか自分が30になってまで、いろんなことから逃げ、何一つ重大な決断を一.."
         },
         {
-          "id": "https://mainichi.jp/articles/20210829/k00/00m/040/291000c",
-          "author": null,
-          "description": "東京都港区の東京メトロ南北線白金高輪駅で硫酸をかけたとして、大学生の花森弘卓（ひろたか）容疑者（25）＝静岡市＝が傷害容疑で逮捕された事件で、重傷を負った都内に住む会社員の男性（22）が警視庁に対し「大学時代に（花森容疑者に）ため口を使ってトラブルになった」と話していることが捜査関係者への取材で判",
-          "link": "https://mainichi.jp/articles/20210829/k00/00m/040/291000c",
-          "publishedOn": "2021-08-29T11:39:10.000Z",
-          "wordCount": 385,
-          "title": "白金高輪駅の硫酸事件　被害者「学生時代にため口でトラブルに」 | 毎日新聞"
-        },
-        {
           "id": "https://ledge.ai/ut-python/",
           "author": null,
           "description": "画像は公式サイト（HTML）より 今回は東京大学（東大）が無料公開している、Pythonの初心者にもオススメの教材「Pythonプログラミング入門」を紹介する。SNS上では「ホントいい」「初心者にもわかりやすい」などと評判になっている。 本教材では「Colaboratoryによるノートブックの使い方」「文字列（string）」「条件分...",
@@ -227,7 +227,7 @@
           "description": "もりべ @mo_ri_be ヨドバシアキバのスイーツパラダイス横のあるこの木、ベッコウダケに寄生されててちょっとヤバいですね 幼菌から子実体になってる所もあるので、幹の中や根っこはかなり腐敗が進んでる可能性がありそうです 人通りのある所に20mほどある木なので、強風時は倒壊に備えて離れた方が良いかも #akiba pic.t...",
           "link": "https://togetter.com/li/1766670",
           "publishedOn": "2021-08-29T08:26:50.000Z",
-          "wordCount": 751,
+          "wordCount": 758,
           "title": "『街路樹がやばい腐朽菌ベッコウタケに寄生されてる』キノコに詳しい方による注意喚起がタメになる「近所のも注意して見てみよう」 - Togetter"
         },
         {
@@ -254,7 +254,7 @@
           "description": "ISO @iso_zin_ Netflixの新シリーズ『パリスとお料理』面白かった！パリス・ヒルトンが豪華ゲストを招いて独創的すぎる料理を披露するクッキング番組。料理番組としては0点だけどコメディとしては100点！買い物から料理、実食まで全部面白い。料理出来ないのに自己肯定力MAXのパリスを見てると何故か元気が出てくる。 pi...",
           "link": "https://togetter.com/li/1766593",
           "publishedOn": "2021-08-29T05:10:14.000Z",
-          "wordCount": 690,
+          "wordCount": 703,
           "title": "ドレスを着たパリス・ヒルトンがグリッターマシマシで料理するNetflix『パリスとお料理』が最高すぎて元気が出る - Togetter"
         },
         {

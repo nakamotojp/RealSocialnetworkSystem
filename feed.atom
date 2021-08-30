@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T02:21:57.263Z</id>
+    <id>urn:2021-08-30T03:13:23.906Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T02:21:57.263Z</updated>
+    <updated>2021-08-30T03:13:23.906Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[炎上プロジェクトでスキルを会得する前にお前は死ぬ - GoTheDistance]]></title>
+        <id>https://gothedistance.hatenadiary.jp/entry/2021/08/30/110000</id>
+        <link href="https://gothedistance.hatenadiary.jp/entry/2021/08/30/110000"/>
+        <updated>2021-08-30T02:05:12.000Z</updated>
+        <summary type="html"><![CDATA[最短でイッセンマンITエンジニアを目指すなら大炎上プロジェクトがオススメ！！経験浅でも採用の可能性が上がるし、週最大7日間1日15時間以上、プロに揉まれながらスキルを磨けるので面倒な家での積み上げは不要！やり遂げた際の経験値はヤバいし、活躍によってはPMが次のPJに引っ張ってくれるよ！— 代表取締役 岩元仁＠...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結局、「漫画村」は死んでないのではないか：小寺信良のIT大作戦（1/3 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/30/news065.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/30/news065.html"/>
+        <updated>2021-08-29T23:52:48.000Z</updated>
+        <summary type="html"><![CDATA[法改正が効いたのならなぜ類似サイトが繁栄しているのか。漫画村運営者への判決が出た後、状況はどう変わったのかを分析する。 2018年ごろ、世間を大いに騒がし、その後の法改正に大きな影響を与えた「漫画村」事件。まだ3年前の話なので記憶も新しいところだが、21年6月2日、福岡地裁にて元運営者に対する判決が出た。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本語フォントがGoogle Fontsに大量追加！すべてのフォントが商用利用も無料のフリーフォントです | コリス]]></title>
         <id>https://coliss.com/articles/freebies/google-fonts-for-japanese.html</id>
@@ -91,16 +111,6 @@
         <link href="https://blog.pokutuna.com/entry/application-default-credentials"/>
         <updated>2021-08-29T14:18:29.000Z</updated>
         <summary type="html"><![CDATA[公式ドキュメントで説明されているけど、同僚に何度か説明する機会があったり、作る必要のないサービスアカウントキーを目にすることも多いのでまとめておく。 認証情報が登場しないアプリケーションコード 例えば以下のコードで Secret Manager に保存したトークンを取得することができる。SecretManagerServiceClient ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[村上春樹氏、菅首相を痛烈批判「聞く耳持たないけど、目だけは良いのかも」 - 社会 : 日刊スポーツ]]></title>
-        <id>https://www.nikkansports.com/general/nikkan/news/202108290001243.html</id>
-        <link href="https://www.nikkansports.com/general/nikkan/news/202108290001243.html"/>
-        <updated>2021-08-29T14:15:16.000Z</updated>
-        <summary type="html"><![CDATA[作家の村上春樹氏（72）が29日、TOKYO FM系で放送された自らDJを務めるラジオ番組「村上RADIO」の番組内で、菅義偉首相（72）の新型コロナウイルスに対する発言を、痛烈に批判。「この人、聞く耳をあまり持たないみたいだけど、目だけは良いのかもしれない。あるいは見たい物だけ見ているのかも知れない」と“一刀両断”し...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://anond.hatelabo.jp/20210829203330"/>
         <updated>2021-08-29T11:39:40.000Z</updated>
         <summary type="html"><![CDATA[まさか自分が30になってまで、いろんなことから逃げ、何一つ重大な決断を一人でできないとは思わなかった。 本当に情けない大人になってしまった。 本当にしつこく逃げてきた結果、今更どうやったらそういう機会に落ち合えるのかもわからないので、 こうやってありもしない心配に頭を悩ますしかない、悲しい悲しい孤独な...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白金高輪駅の硫酸事件　被害者「学生時代にため口でトラブルに」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210829/k00/00m/040/291000c</id>
-        <link href="https://mainichi.jp/articles/20210829/k00/00m/040/291000c"/>
-        <updated>2021-08-29T11:39:10.000Z</updated>
-        <summary type="html"><![CDATA[東京都港区の東京メトロ南北線白金高輪駅で硫酸をかけたとして、大学生の花森弘卓（ひろたか）容疑者（25）＝静岡市＝が傷害容疑で逮捕された事件で、重傷を負った都内に住む会社員の男性（22）が警視庁に対し「大学時代に（花森容疑者に）ため口を使ってトラブルになった」と話していることが捜査関係者への取材で判]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

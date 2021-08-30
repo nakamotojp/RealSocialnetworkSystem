@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T04:15:35.252Z</id>
+    <id>urn:2021-08-30T05:10:40.068Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T04:15:35.252Z</updated>
+    <updated>2021-08-30T05:10:40.068Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,6 +91,16 @@
         <link href="https://pc.watch.impress.co.jp/docs/topic/special/1343877.html"/>
         <updated>2021-08-29T22:54:59.000Z</updated>
         <summary type="html"><![CDATA[みなさんにとって「SSD」というのは、もはや聞き慣れたワードのはずだ。メインストレージにSSDを使っていないPCなんて、今となっては探すのが難しいほど。大容量データを長く保管するために、セカンドストレージにHDDを使っている、という人はいるかもしれないが、HDDが取って代わられる領域は徐々に広がり、SSDの存在感が確実に増している。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接種後死亡の男性、解熱後に急変　父親「まさか息子が」　使用保留のロット　広島（中国新聞デジタル） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c734df05ae56887dd1e3fa7f49fb43e8ffc8384f</id>
+        <link href="https://news.yahoo.co.jp/articles/c734df05ae56887dd1e3fa7f49fb43e8ffc8384f"/>
+        <updated>2021-08-29T22:20:06.000Z</updated>
+        <summary type="html"><![CDATA[米モデルナ製の新型コロナウイルスワクチンに異物が混入していた問題で、広島県南部の会社員男性（30）が、使用を見合わせているロットのワクチン接種後に亡くなっていたことが29日、分かった。厚生労働省が28日に公表した30代男性2人の死亡事例のうちの1人とみられる。会社員男性の父親（63）が中国新聞の取材に応じ、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://anond.hatelabo.jp/20210829221204"/>
         <updated>2021-08-29T13:14:35.000Z</updated>
         <summary type="html"><![CDATA[大学時代にコミュニケーションの上手い人から聞いた話だと、いろんな人に何回も同じ話をすると言ってたな そうするとその話のウケの良かった部分や悪かった部分が出てきて、次に話すときにそこを修正して試すことができる それを繰り返すと、エピソードトークが完成するし、次に話しかけるときのハードルも自分の中で下...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入管で警備員が収容者暴行「ふざけて」　被害男性「首絞められた」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210829/k00/00m/040/322000c</id>
-        <link href="https://mainichi.jp/articles/20210829/k00/00m/040/322000c"/>
-        <updated>2021-08-29T13:06:08.000Z</updated>
-        <summary type="html"><![CDATA[不法滞在などの外国人を収容する東日本入国管理センター（茨城県牛久市、略称・牛久入管）は29日、収容中の男性が業務委託先の民間会社の警備員から暴行を受け、全治2週間のけがをしたと発表した。警備員は入管に「ふざけてヘッドロックをした」と説明しているが、被害男性は「首を絞められた」と訴えているという。 牛...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

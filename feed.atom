@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T06:14:39.392Z</id>
+    <id>urn:2021-08-30T07:12:04.476Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T06:14:39.392Z</updated>
+    <updated>2021-08-30T07:12:04.476Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[庶民（感覚の金持ち）が高級車に乗って幸せになるのか]]></title>
+        <id>https://anond.hatelabo.jp/20210830142224</id>
+        <link href="https://anond.hatelabo.jp/20210830142224"/>
+        <updated>2021-08-30T05:31:32.000Z</updated>
+        <summary type="html"><![CDATA[先週末親父に呼ばれ、一緒にディーラー巡りをした。 今年還暦を迎え、現在再雇用中の親父。 親父は定年前、定年後も真面目に働いているため、お金もそこそこある。 そんな親父がおそらく最後の車になるだろうということで、高級車に乗りたいと言っており、ベンツとレクサスに行った。 ただ、俺は親父は高級車に乗るべき...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鳩山友紀夫（由紀夫）Yukio Hatoyama on Twitter: "お寿司屋さんから気で人の病を治す道に転じた「さだじい」の講演を妻が主宰する会で行いました。幽体離脱など不思議な経験を沢山話されました。みんなで気の練習をやりました。後で四十肩の方をあっという間に治されました。科学を超えています。癌… https://t.co/XBYHUKvtde"]]></title>
         <id>https://twitter.com/hatoyamayukio/status/1432022158893457416</id>
@@ -181,16 +191,6 @@
         <link href="https://www.asahi.com/articles/ASP8Y7SG5P8RPPTB009.html"/>
         <updated>2021-08-29T14:36:47.000Z</updated>
         <summary type="html"><![CDATA[大阪府池田市で、市長が家庭用サウナを市役所に持ち込むなどした問題で辞職したことに伴う市長選が、29日に投開票された。新顔で前市議の滝沢智子氏（40）=大阪維新の会=が、前市長の冨田裕樹氏（45）=無所属=、新顔で前市議の渡辺千芳（ちよし）氏（67）=同=、新顔で元市議の内藤勝氏（74）=同=を破り、初当選を決めた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCP の Application Default Credentials を使った認証 - ぽ靴な缶]]></title>
-        <id>https://blog.pokutuna.com/entry/application-default-credentials</id>
-        <link href="https://blog.pokutuna.com/entry/application-default-credentials"/>
-        <updated>2021-08-29T14:18:29.000Z</updated>
-        <summary type="html"><![CDATA[公式ドキュメントで説明されているけど、同僚に何度か説明する機会があったり、作る必要のないサービスアカウントキーを目にすることも多いのでまとめておく。 認証情報が登場しないアプリケーションコード 例えば以下のコードで Secret Manager に保存したトークンを取得することができる。SecretManagerServiceClient ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

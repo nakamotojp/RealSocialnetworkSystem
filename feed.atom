@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T01:52:08.884Z</id>
+    <id>urn:2021-08-30T02:21:57.263Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T01:52:08.884Z</updated>
+    <updated>2021-08-30T02:21:57.263Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://coliss.com/articles/freebies/google-fonts-for-japanese.html"/>
         <updated>2021-08-29T23:24:10.000Z</updated>
         <summary type="html"><![CDATA[フリーフォントが大好物な人に朗報です！ 🎉 先週、Google Fontsに日本語フォントが追加されたので、紹介します。これでさらに、たくさんの日本語フォントがGoogle Fontsで使用できます。 新しく追加された日本語のGoogle Fonts 他にもたくさんある日本語のGoogle Fonts Google FontsのライセンスはほとんどがSIL Open F...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コイツは万能すぎる! スティック型SSDの高速版がバッファローから。もはや最強の使い勝手に - PC Watch[Sponsored]]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/topic/special/1343877.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/topic/special/1343877.html"/>
+        <updated>2021-08-29T22:54:59.000Z</updated>
+        <summary type="html"><![CDATA[みなさんにとって「SSD」というのは、もはや聞き慣れたワードのはずだ。メインストレージにSSDを使っていないPCなんて、今となっては探すのが難しいほど。大容量データを長く保管するために、セカンドストレージにHDDを使っている、という人はいるかもしれないが、HDDが取って代わられる領域は徐々に広がり、SSDの存在感が確実に増している。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://honeshabri.hatenablog.com/entry/aftershokz-air2"/>
         <updated>2021-08-29T12:59:46.000Z</updated>
         <summary type="html"><![CDATA[骨伝導ヘッドセットAfterShokzを使い始めて1年以上。 もう完全に手放せない。 メガネと同じくらい装着しっぱなしの生活になっている。 骨伝導ヘッドセットを使い始めて1年 1年ほど前に骨伝導ヘッドセットの記事を書いた。 この時は使い始めて1ヶ月の時点だった。今回はさらに1年使った感想である。まずは前回の復習から...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】パラ学校観戦、引率の教員感染　生徒ら約150人検査へ　千葉市、学校観戦は継続の方針（千葉日報オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/f65d22f944e2df9cfe6d98e1ca34419a0516793b</id>
-        <link href="https://news.yahoo.co.jp/articles/f65d22f944e2df9cfe6d98e1ca34419a0516793b"/>
-        <updated>2021-08-29T12:59:11.000Z</updated>
-        <summary type="html"><![CDATA[千葉市教委は29日、若葉区の市立貝塚中学校で教諭6人が新型コロナウイルスに感染し、夏休み明けの30日から9月3日まで同校を休校にすると発表した。6人のうち2人は東京パラリンピックの学校連携観戦で生徒を引率していた。市教委はバスに同乗した生徒ら計約150人に検査を行う。今のところ、体調不良を訴える生徒の報告は...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

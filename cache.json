@@ -11,8 +11,17 @@
           "description": "政党交付金という多額の税金が入る各政党本部。そこから有力議員に多額の資金が流れる仕組みがある。特に、自民党本部はその金額が突出しており、公開されている最新の2019年の記録では二階俊博幹事長に10億円超払われている。こうして二階幹事長に流れた資金は、幹事長就任から総額で37億円超にのぼる。ところが、それ...",
           "link": "https://news.yahoo.co.jp/byline/tateiwayoichiro/20210831-00253894",
           "publishedOn": "2021-08-31T03:02:32.000Z",
-          "wordCount": 72,
+          "wordCount": 70,
           "title": "37億円超が自民党本部から二階幹事長へ　「適正に処理」？　使途は公表されず【政治資金の闇①】（立岩陽一郎） - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://gigazine.net/news/20210831-google-upscaling-low-resolution-images/",
+          "author": null,
+          "description": "GoogleのAI研究チームであるGoogle AIが、低解像度画像にあえてノイズを追加して「純粋なノイズ」になるまで加工し、そこから高解像度画像を生成する「diffusion model(拡散モデル)」という手法を改善する新たなアプローチを発表しました。「画質の悪い低解像度画像から高解像度画像を生成する技術」には、古い写真の復...",
+          "link": "https://gigazine.net/news/20210831-google-upscaling-low-resolution-images/",
+          "publishedOn": "2021-08-31T03:01:59.000Z",
+          "wordCount": 227,
+          "title": "Googleが「ガビガビの低解像度画像を高解像度画像に変換するAIモデル」の性能を改善、人間が判別できないレベルに - GIGAZINE"
         },
         {
           "id": "https://anond.hatelabo.jp/20210831114802",
@@ -20,7 +29,7 @@
           "description": "コロナが流行し始めてから、ホッテントリ入りしてくるはてなの論調を見てると、本当にアホなんだなって思う事しかない。 マスク不要論流行概ねアベノマスクへの反発だけが理由だと理解してるけど、岩田だのWHOだの論調に乗っかってコロナにはマスク不要と言ってた時期があったね。 https://b.hatena.ne.jp/entry/s/this....",
           "link": "https://anond.hatelabo.jp/20210831114802",
           "publishedOn": "2021-08-31T02:48:19.000Z",
-          "wordCount": 186,
+          "wordCount": 255,
           "title": "あの日、はてな民は「マスク不要」と叫んだ"
         },
         {
@@ -33,6 +42,24 @@
           "title": "いなげやを扱ったマンガを投稿し続けたら、公式にコラボすることになった川尻こだま先生が存分に愛を語る - メシ通 | ホットペッパーグルメ"
         },
         {
+          "id": "https://nordot.app/804570002572197888",
+          "author": null,
+          "description": "アニメは日本の宝である。とはいえ評価が定まった名作を除けば、生み出され続ける作品は玉石混交。手探りで「玉」をよりすぐるのは手間がかかる。そこでこう問おう。君は脚本家、花田十輝（じゅっき）を知っているか―。 １９６９年東京生まれ、仙台市育ち。祖父は作家安部公房の盟友で、大江健三郎や芸術家岡本太郎に影...",
+          "link": "https://nordot.app/804570002572197888",
+          "publishedOn": "2021-08-31T01:55:30.000Z",
+          "wordCount": 59,
+          "title": "君は花田十輝さんを知っているか　アニメ脚本家の実像に迫る（前編） ｜ 47NEWS"
+        },
+        {
+          "id": "https://baigie.me/officialblog/2021/08/31/baigie-workflow/",
+          "author": null,
+          "description": "営業、受注、制作、納品、運用と、ウェブ制作の活動は長期に渡り、そのタスクの種類と量は膨大です。だからこそ、基本的なプロセスや使用するドキュメントなどを明確に定義しておかないと、サービスの品質が担当者により大きく変わることになります。 ベイジは社員がまだ5名の頃、各人に委ねた進め方によって以下のよう...",
+          "link": "https://baigie.me/officialblog/2021/08/31/baigie-workflow/",
+          "publishedOn": "2021-08-31T00:47:43.000Z",
+          "wordCount": 637,
+          "title": "ベイジのウェブ制作ワークフロー2021年版（約100のタスクと解説） | knowledge / baigie"
+        },
+        {
           "id": "https://tech-blog.monotaro.com/entry/2021/08/31/090000",
           "author": null,
           "description": "Software Design連載開始 こんにちは。金谷です。 このたび、モノタロウにおけるPython大規模開発に関する取り組みを、技術評論社様で発刊されている Software Design に連載させていただくことになりました。 モノタロウがPythonを用いて開発を始めたのが2003年。2021年の現在もPythonを用いた開発が続けられています。...",
@@ -40,6 +67,15 @@
           "publishedOn": "2021-08-31T00:05:06.000Z",
           "wordCount": 589,
           "title": "Software Design連載 2021年8月号 Python製のレガシー＆大規模システムをどうリファクタリングするか - MonotaRO Tech Blog"
+        },
+        {
+          "id": "https://togetter.com/li/1767423",
+          "author": null,
+          "description": "サンノジ（sannoji） @sannoji30 食べたスイカの種を発芽させて、ここまで来たけど、身が割れてしまったので収穫。 直径は5センチ弱。 味はしっかり甘くて美味しかった👍 そして種までちゃんとあることに感動。 また、来年やってみよう。 pic.twitter.com/kGmtVfEWEZ 2021-08-30 19:39:06",
+          "link": "https://togetter.com/li/1767423",
+          "publishedOn": "2021-08-30T23:02:52.000Z",
+          "wordCount": 687,
+          "title": "食べ終わったスイカの種を発芽させたらめっちゃ可愛いスイカが育って感動「小さいもの好きにはたまらない」 - Togetter"
         },
         {
           "id": "https://gendai.ismedia.jp/articles/-/86740",
@@ -92,17 +128,8 @@
           "description": "システム障害を相次ぎ起こしたみずほフィナンシャルグループ（ＦＧ）が、新しい中枢システムを全面導入した後に担当の社員数を４割に減らしていたことが３０日、わかった。運用や保守・管理に関するノウハウが十分に引き継がれずトラブルの遠因になった可能性もあるとみて、金融庁はみずほ側に原因究明を求めている。 ２...",
           "link": "https://news.yahoo.co.jp/articles/a23a60bded5184596492c183ec923f6769323cf4",
           "publishedOn": "2021-08-30T21:55:34.000Z",
-          "wordCount": 63,
+          "wordCount": 65,
           "title": "【独自】みずほ、新システム導入後に要員６割減らす…トラブル遠因になった可能性（読売新聞オンライン） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://gigazine.net/news/20210831-online-trolls-real-life/",
-          "author": null,
-          "description": "SNSやインターネット上の掲示板では、相手に暴言を投げかけたり政治的な議論中に攻撃的な態度を見せたりする人が散見されるので、メディアなどではよく「顔の見えないインターネットの匿名性が人を攻撃的にする」と説明されています。しかし、この言説は誤りで、実際にはネット上で攻撃的な人は実生活でも攻撃的だという...",
-          "link": "https://gigazine.net/news/20210831-online-trolls-real-life/",
-          "publishedOn": "2021-08-30T21:45:03.000Z",
-          "wordCount": 213,
-          "title": "ネット上の荒らしは「現実世界でも攻撃的」との研究結果、ネットの方が誹謗中傷が多く見えるのは「現実より暴言が可視化されやすい」から - GIGAZINE"
         },
         {
           "id": "https://www.nikkei.com/article/DGXZQOUB30BTT0Q1A830C2000000/",
@@ -110,7 +137,7 @@
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら みずほフィナンシャルグループ（FG）が2021年に入り6度のシステム障害を起こした問題で、新システムの総点検やバックアップが機能しない場合の復旧手順の整備などを盛...",
           "link": "https://www.nikkei.com/article/DGXZQOUB30BTT0Q1A830C2000000/",
           "publishedOn": "2021-08-30T21:34:53.000Z",
-          "wordCount": 113,
+          "wordCount": 111,
           "title": "みずほ報告書の全容判明、システム「設計通りか点検」: 日本経済新聞"
         },
         {
@@ -173,7 +200,7 @@
           "description": "Kentaro Ebisawa @ebiken 東京電力YouTube「電気の原理」シリーズ、神コンテンツで必見 \"新型コロナウィルス感染症拡大を受けて、ご自宅等で電気について学習されている方々向けに、発電所・変電所等に設置されている電力機器や電力ネットワーク、電気の基礎・原理について詳しく解説した映像をご紹介\" youtube.com/play...",
           "link": "https://togetter.com/li/1767243",
           "publishedOn": "2021-08-30T13:30:44.000Z",
-          "wordCount": 436,
+          "wordCount": 439,
           "title": "東京電力がYouTubeで配信している「電気の原理」シリーズは神コンテンツなので電気に興味があるなら必見である - Togetter"
         },
         {
@@ -182,7 +209,7 @@
           "description": "みずほ銀行の今月のシステム障害で、実態や原因を金融庁へ報告する期限を31日迎える。機器の故障後、何重ものバックアップがうまく働かなかったのはなぜか。発足以来20年あまり、幾度も繰り返すトラブルに、みずほ固有の課題を問う声が強まっている。 「障害が起きた原因はわかりつつあるが、まだ最終的に結論づけるとこ...",
           "link": "https://www.asahi.com/articles/ASP8Z73NMP8ZULFA01F.html",
           "publishedOn": "2021-08-30T13:27:49.000Z",
-          "wordCount": 207,
+          "wordCount": 209,
           "title": "何重ものバックアップ、「ことごとく失敗」　みずほ障害：朝日新聞デジタル"
         },
         {
@@ -200,7 +227,7 @@
           "description": "宇多丸さんが2021年8月30日放送のTBSラジオ『アフター6ジャンクション』の中で野外フェス『波物語（NAMIMONOGATARI）』が新型コロナウイルス感染拡大対策を軽視して開催されていた件について話していました。 （宇多丸）いや、本当にでもこれだけ気をつけていたってね、その特にデルタ株の感染力ね、めちゃめちゃ強くて...",
           "link": "https://miyearnzzlabo.com/archives/76168",
           "publishedOn": "2021-08-30T12:45:30.000Z",
-          "wordCount": 168,
+          "wordCount": 158,
           "title": "宇多丸 野外フェス『波物語2021』問題を語る"
         },
         {
@@ -231,31 +258,13 @@
           "title": "全国を巡りながらコレクションできるものまとめ"
         },
         {
-          "id": "https://anond.hatelabo.jp/20210830193754",
-          "author": null,
-          "description": "尾崎紅葉の「金色夜叉」を読み始めた。普段はこんなに格式ばった文体のものを読まないため中々に難儀しており、１日に数ページずつゆっくりと読み進めているのだが、今日も数ページ進めたところで青空文庫を閉じると、「お宮まだ蹴られないのかなぁ」と思っている自分に気づいた。いや、別にそういった趣味があるわけで...",
-          "link": "https://anond.hatelabo.jp/20210830193754",
-          "publishedOn": "2021-08-30T10:43:34.000Z",
-          "wordCount": 133,
-          "title": "「アムロ殴られ待ち現象」について"
-        },
-        {
           "id": "https://www.technologyreview.jp/s/254889/the-genius-programmer-says-innovation-is-born-from-playfulness/",
           "author": null,
           "description": "「デジタル敗戦」という言葉が確定した事実かのように語られる日本のICTの現状に対し、天才プログラマーの登 大遊氏は「あまり心配する必要はない」と話す。日本に必要なのは大企業の「遊び」だと言う。 by Yasuhiro Hatabe2021.08.30 634 354 382 4 独創的な若きイノベーターを選出する世界的アワード「Innovators Unde...",
           "link": "https://www.technologyreview.jp/s/254889/the-genius-programmer-says-innovation-is-born-from-playfulness/",
           "publishedOn": "2021-08-30T07:30:12.000Z",
-          "wordCount": 713,
+          "wordCount": 687,
           "title": "MIT Tech Review: 登 大遊「イノベーションは“いんちき遊び”から生まれる」"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0c188393b1d37dc72ce8416dd72b7f57398a3643",
-          "author": null,
-          "description": "タリバンがアフガニスタンの有名な歌手を殺害したと元内務大臣が語った。 歌手のファワド・アンダラビは、彼が住む渓谷の家から連れ出され、銃殺されたという。 「イスラム教では音楽は禁じられている」とタリバンの報道官が述べた数日後のことだった。 タリバンは、アフガニスタンの公共の場で音楽を演奏することを禁止...",
-          "link": "https://news.yahoo.co.jp/articles/0c188393b1d37dc72ce8416dd72b7f57398a3643",
-          "publishedOn": "2021-08-30T07:14:39.000Z",
-          "wordCount": 106,
-          "title": "タリバン、人気歌手を殺害…「イスラムでは音楽は禁止」と述べた数日後に（BUSINESS INSIDER JAPAN） - Yahoo!ニュース"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/850cf52659cd20096b4a9a65ad4a3d28eda940ea",
@@ -263,17 +272,8 @@
           "description": "青森県弘前市は１１月ごろ、市内の学生らに名物のアップルパイを１個ずつ提供する。新型コロナウイルスの影響を受ける若者の食を支援する目的だが「食パン１斤の方がうれしい」といった批判もあり、桜田宏市長は２５日の定例記者会見で「菓子店などへの支援にもなる」と理解を求めた。 配布は市内の大学や専門学校に通う...",
           "link": "https://news.yahoo.co.jp/articles/850cf52659cd20096b4a9a65ad4a3d28eda940ea",
           "publishedOn": "2021-08-26T05:25:09.000Z",
-          "wordCount": 71,
+          "wordCount": 73,
           "title": "「食パンの方がうれしい」　市のアップルパイ配布計画に批判（河北新報） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://note.com/osamu_iga/n/nd17e78fe4a1b",
-          "author": null,
-          "description": "新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...",
-          "link": "https://note.com/osamu_iga/n/nd17e78fe4a1b",
-          "publishedOn": "2021-08-07T08:20:33.000Z",
-          "wordCount": 478,
-          "title": "PCR検査抑制論の年譜と語録｜伊賀 治　デマ撲滅ファクトチェック集｜note"
         }
       ]
     }

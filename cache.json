@@ -6,13 +6,31 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210831/k00/00m/050/154000c",
+          "author": null,
+          "description": "東京オリンピック・パラリンピック組織委員会が入っている晴海トリトンスクエア＝東京都中央区で、丸山博撮影 東京オリンピック・パラリンピック組織委員会は31日、五輪9会場で未使用の医療用マスクやガウンなどを計約500万円分を廃棄したと発表した。医療関係者への譲渡は手続きに時間がかかり、保管場所がないため捨て...",
+          "link": "https://mainichi.jp/articles/20210831/k00/00m/050/154000c",
+          "publishedOn": "2021-08-31T08:05:45.000Z",
+          "wordCount": 492,
+          "title": "五輪組織委、未使用マスクなど500万円分廃棄　「保管場所ない」 | 毎日新聞"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210831/k10013234891000.html",
           "author": null,
-          "description": "東京都は31日、都内で新たに2909人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より1311人減り、9日連続で前の週の同じ曜日を下回りました。 一方、都の基準で集計した31日時点の重症の患者は30日と同じ287人でした。",
+          "description": "東京都内では31日、新たに2909人が新型コロナウイルスに感染していることが確認され9日連続で前の週の同じ曜日を下回りました。また、都は感染が確認された15人が死亡したことを明らかにしました。 東京都は31日、都内で新たに10歳未満から90代までの男女合わせて2909人が新型コロナウイルスに感染していることを確認し...",
           "link": "https://www3.nhk.or.jp/news/html/20210831/k10013234891000.html",
           "publishedOn": "2021-08-31T07:49:09.000Z",
           "wordCount": 26,
           "title": "東京都 新型コロナ 2909人感染確認 9日連続前の週を下回る | 新型コロナ 国内感染者数 | NHKニュース"
+        },
+        {
+          "id": "https://twitter.com/ohmura_hideaki/status/1432574698567593989",
+          "author": null,
+          "description": "②そうした状況の中で、昨夜、突然主催者側から「お詫びと経緯のご説明」という文書が配信されました。 しかしながら、その内容には、自分達に都合の良いように事実と異なる記述がなされていますので、ここに指摘をさせて頂きます。 https://t.co/65oBKeSSjI",
+          "link": "https://twitter.com/ohmura_hideaki/status/1432574698567593989",
+          "publishedOn": "2021-08-31T06:13:25.000Z",
+          "wordCount": 196,
+          "title": "大村秀章 on Twitter: \"②そうした状況の中で、昨夜、突然主催者側から「お詫びと経緯のご説明」という文書が配信されました。 しかしながら、その内容には、自分達に都合の良いように事実と異なる記述がなされていますので、ここに指摘をさせて頂きます。 https://t.co/65oBKeSSjI\""
         },
         {
           "id": "https://twitter.com/ohmura_hideaki/status/1432574691823132674",
@@ -29,7 +47,7 @@
           "description": "原曲よりもイケてるカバー曲を知るのが好きで 俺が原曲よりもイケてるって思ってるカバー曲は １，フェイウォン　- 夢中人（原曲　クランベリーズ - dreams) ２，エルレガーデン - FunnyBunny (原曲 pillows - FunnyBunny ３， I Will Always Love You - Whitney Houston ( 原曲 ドリー・パートン - I Will Always Love ...",
           "link": "https://anond.hatelabo.jp/20210831141155",
           "publishedOn": "2021-08-31T05:19:56.000Z",
-          "wordCount": 191,
+          "wordCount": 218,
           "title": "原曲を越えたカバー曲"
         },
         {
@@ -56,7 +74,7 @@
           "description": "GoogleのAI研究チームであるGoogle AIが、低解像度画像にあえてノイズを追加して「純粋なノイズ」になるまで加工し、そこから高解像度画像を生成する「diffusion model(拡散モデル)」という手法を改善する新たなアプローチを発表しました。「画質の悪い低解像度画像から高解像度画像を生成する技術」には、古い写真の復...",
           "link": "https://gigazine.net/news/20210831-google-upscaling-low-resolution-images/",
           "publishedOn": "2021-08-31T03:01:59.000Z",
-          "wordCount": 227,
+          "wordCount": 224,
           "title": "Googleが「ガビガビの低解像度画像を高解像度画像に変換するAIモデル」の性能を改善、人間が判別できないレベルに - GIGAZINE"
         },
         {
@@ -65,7 +83,7 @@
           "description": "コロナが流行し始めてから、ホッテントリ入りしてくるはてなの論調を見てると、本当にアホなんだなって思う事しかない。 マスク不要論流行概ねアベノマスクへの反発だけが理由だと理解してるけど、岩田だのWHOだの論調に乗っかってコロナにはマスク不要と言ってた時期があったね。 https://b.hatena.ne.jp/entry/s/this....",
           "link": "https://anond.hatelabo.jp/20210831114802",
           "publishedOn": "2021-08-31T02:48:19.000Z",
-          "wordCount": 439,
+          "wordCount": 469,
           "title": "あの日、はてな民は「マスク不要」と叫んだ"
         },
         {
@@ -85,6 +103,15 @@
           "publishedOn": "2021-08-31T01:55:30.000Z",
           "wordCount": 59,
           "title": "君は花田十輝さんを知っているか　アニメ脚本家の実像に迫る（前編） ｜ 47NEWS"
+        },
+        {
+          "id": "https://togetter.com/li/1767439",
+          "author": null,
+          "description": "金星 @i_kinboshi ☆漫画・イラストを描いています。 ☆『ゼクシィBaby』『すくパラ倶楽部NEWS』にて連載中 ☆インスタグラム⇒instagram.com/kinboshi1981/ ご依頼はDMから kinboshi.blog.jp",
+          "link": "https://togetter.com/li/1767439",
+          "publishedOn": "2021-08-31T00:53:15.000Z",
+          "wordCount": 1035,
+          "title": "授業で絵を描くとき、先生が手を入れると自分の絵じゃなくなるので不愉快だった→同じ経験のある人・自分を貫いて成績を落とされた人など - Togetter"
         },
         {
           "id": "https://baigie.me/officialblog/2021/08/31/baigie-workflow/",
@@ -110,7 +137,7 @@
           "description": "「Wi-Fi」と聞いて、何を思い浮かべますか？ IT機器に詳しくない人と話す際、認識の違いに驚かされる言葉がいくつかある。 特に最近、SNSなどでも話題になることが多いのが、「Wi-Fi（ワイファイ）」という言葉を聞いて思い浮かべるものの違いだ。 どう違うのかについては、あえてのちほど述べることにするが、この「Wi-...",
           "link": "https://gendai.ismedia.jp/articles/-/86740",
           "publishedOn": "2021-08-30T22:53:16.000Z",
-          "wordCount": 172,
+          "wordCount": 175,
           "title": "「Wi-Fiってなに？」日本人の大多数が、意外と理解してない問題（西田 宗千佳） | ブルーバックス | 講談社（1/4）"
         },
         {
@@ -182,7 +209,7 @@
           "description": "三原理絵🇯🇵🇵🇰🇶🇦カラチ→ドーハ @RieMIHARA パキスタン5年→カタール。シンディービリヤニ/着物/鮭といくら/茶碗蒸し/日本酒/モフモフが好物。健康を軸に医療/飲食/美容に関する仕事をしてます。火傷治療病院と識字の寺子屋をカラチに作るべく、カタール初の🍜専門店Ninja Ramenの立ち上げ屋さんをしています。 makotoya.co...",
           "link": "https://togetter.com/li/1767247",
           "publishedOn": "2021-08-30T17:40:20.000Z",
-          "wordCount": 715,
+          "wordCount": 707,
           "title": "「全部が嘘だらけ」「拳銃を見せてきた」パキスタンに住んでいた日本人女性が現地で体験した犯罪系エピソードが生々しくてこわい - Togetter"
         },
         {
@@ -195,21 +222,12 @@
           "title": "記者に「プログラミングのスキル」って必要なの？ちなみにNHKニュースの画像生成も記者がコードを書いてます｜NHK取材ノート｜note"
         },
         {
-          "id": "https://news.yahoo.co.jp/articles/14f4c4e17b753bfcd072fa34bb37a1d594ccc454",
-          "author": null,
-          "description": "マスクをしていない男性をスコップで殴るなどしたとして、多摩署は３０日、傷害の疑いで、自称川崎市多摩区菅北浦、アルバイトの男（３８）を現行犯逮捕した。 逮捕容疑は同日午後２時１５分ごろ、同所の路上で、無職男性（３１）＝同区＝の顔を鉄製のスコップで殴ったり、腕をかむなどしたりして顔や腕に軽傷を負わせた...",
-          "link": "https://news.yahoo.co.jp/articles/14f4c4e17b753bfcd072fa34bb37a1d594ccc454",
-          "publishedOn": "2021-08-30T13:59:59.000Z",
-          "wordCount": 67,
-          "title": "マスクなしの男性をスコップで殴り、腕をかむ　川崎・多摩区（カナロコ by 神奈川新聞） - Yahoo!ニュース"
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210830181418",
           "author": null,
           "description": "Vガンダム ビジュアル系バンド vtuber 海外ドラマ「V（ビジター侵略者）」 V Programming Language コンバトラーV",
           "link": "https://anond.hatelabo.jp/20210830181418",
           "publishedOn": "2021-08-30T13:57:01.000Z",
-          "wordCount": 115,
+          "wordCount": 118,
           "title": "Vという文字に対してどう思うか"
         },
         {
@@ -218,17 +236,8 @@
           "description": "Kentaro Ebisawa @ebiken 東京電力YouTube「電気の原理」シリーズ、神コンテンツで必見 \"新型コロナウィルス感染症拡大を受けて、ご自宅等で電気について学習されている方々向けに、発電所・変電所等に設置されている電力機器や電力ネットワーク、電気の基礎・原理について詳しく解説した映像をご紹介\" youtube.com/play...",
           "link": "https://togetter.com/li/1767243",
           "publishedOn": "2021-08-30T13:30:44.000Z",
-          "wordCount": 439,
+          "wordCount": 445,
           "title": "東京電力がYouTubeで配信している「電気の原理」シリーズは神コンテンツなので電気に興味があるなら必見である - Togetter"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP8Z73NMP8ZULFA01F.html",
-          "author": null,
-          "description": "みずほ銀行の今月のシステム障害で、実態や原因を金融庁へ報告する期限を31日迎える。機器の故障後、何重ものバックアップがうまく働かなかったのはなぜか。発足以来20年あまり、幾度も繰り返すトラブルに、みずほ固有の課題を問う声が強まっている。 「障害が起きた原因はわかりつつあるが、まだ最終的に結論づけるとこ...",
-          "link": "https://www.asahi.com/articles/ASP8Z73NMP8ZULFA01F.html",
-          "publishedOn": "2021-08-30T13:27:49.000Z",
-          "wordCount": 205,
-          "title": "何重ものバックアップ、「ことごとく失敗」　みずほ障害：朝日新聞デジタル"
         },
         {
           "id": "https://togetter.com/li/1767215",
@@ -240,21 +249,12 @@
           "title": "水害にあった資料がカビにやられる前に素早く脱水する【スクウェルチ・パッキング法】が役立ちそう「布団の圧縮袋にこんな使い方が！」 - Togetter"
         },
         {
-          "id": "https://news.nifty.com/article/economy/business/12117-18655/",
-          "author": null,
-          "description": "音楽フェス「NAMIMONOGATARI」の参加者が「密」になっている状態が報告され、炎上 開催場所となった愛知県の大村秀章知事は、「これが最後。終わり」と怒りを露わに SNSでは動画・写真で会場の「密」状態や、酒類の提供があったことも確認されている 参加者が「密」になっている状態がネットで報告され、大炎上している...",
-          "link": "https://news.nifty.com/article/economy/business/12117-18655/",
-          "publishedOn": "2021-08-30T12:45:10.000Z",
-          "wordCount": 139,
-          "title": "愛知県の大村秀章知事「もう二度と場所を貸さない」　波物語「密」報告で炎上に怒り｜ニフティニュース"
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210830195415",
           "author": null,
           "description": "なかなか旅行に行けないので収束とGotoトラベル復活に向けて，今まで旅行中に自分が見つけたコレクションできるモノ達を備忘録的にまとめました．他にもいろいろあると思うので教えて下さい． ダムカードみなさんお馴染み？ダムカード。同じダムでも限定バージョンが多く1000種類以上存在する。ダムは超山奥が多いのでド...",
           "link": "https://anond.hatelabo.jp/20210830195415",
           "publishedOn": "2021-08-30T10:59:41.000Z",
-          "wordCount": 137,
+          "wordCount": 141,
           "title": "全国を巡りながらコレクションできるものまとめ"
         },
         {
@@ -272,7 +272,7 @@
           "description": "青森県弘前市は１１月ごろ、市内の学生らに名物のアップルパイを１個ずつ提供する。新型コロナウイルスの影響を受ける若者の食を支援する目的だが「食パン１斤の方がうれしい」といった批判もあり、桜田宏市長は２５日の定例記者会見で「菓子店などへの支援にもなる」と理解を求めた。 配布は市内の大学や専門学校に通う...",
           "link": "https://news.yahoo.co.jp/articles/850cf52659cd20096b4a9a65ad4a3d28eda940ea",
           "publishedOn": "2021-08-26T05:25:09.000Z",
-          "wordCount": 73,
+          "wordCount": 80,
           "title": "「食パンの方がうれしい」　市のアップルパイ配布計画に批判（河北新報） - Yahoo!ニュース"
         }
       ]

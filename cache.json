@@ -11,7 +11,7 @@
           "description": "Arm はもともとイギリスの企業だったが、2016年に日本のソフトバンクに買収された。 そして、ソフトバンクは Arm の IP 事業を中国で行うため、中国子会社であるArm Technology の持ち株の51％を中国投資コンソーシアムに売却し、2018年に安谋科技(Arm China)として合弁企業化した。 これは、中国でビジネスを行うとき、...",
           "link": "http://www.gamecast-blog.com/archives/65984795.html",
           "publishedOn": "2021-08-30T22:44:37.000Z",
-          "wordCount": 335,
+          "wordCount": 336,
           "title": "Armの中国合弁会社がArmからの独立を宣言し、中国市場を乗っ取り。ArmのIP売上から作られた中国独自製品も発表"
         },
         {
@@ -24,6 +24,24 @@
           "title": "政治家個人への寄付、禁止なのに...「抜け穴」から与野党が計22億円　使い道報告義務なく：東京新聞 TOKYO Web"
         },
         {
+          "id": "https://gigazine.net/news/20210831-online-trolls-real-life/",
+          "author": null,
+          "description": "SNSやインターネット上の掲示板では、相手に暴言を投げかけたり政治的な議論中に攻撃的な態度を見せたりする人が散見されるので、メディアなどではよく「顔の見えないインターネットの匿名性が人を攻撃的にする」と説明されています。しかし、この言説は誤りで、実際にはネット上で攻撃的な人は実生活でも攻撃的だという...",
+          "link": "https://gigazine.net/news/20210831-online-trolls-real-life/",
+          "publishedOn": "2021-08-30T21:45:03.000Z",
+          "wordCount": 213,
+          "title": "ネット上の荒らしは「現実世界でも攻撃的」との研究結果、ネットの方が誹謗中傷が多く見えるのは「現実より暴言が可視化されやすい」から - GIGAZINE"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUB30BTT0Q1A830C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら みずほフィナンシャルグループ（FG）が2021年に入り6度のシステム障害を起こした問題で、新システムの総点検やバックアップが機能しない場合の復旧手順の整備などを盛...",
+          "link": "https://www.nikkei.com/article/DGXZQOUB30BTT0Q1A830C2000000/",
+          "publishedOn": "2021-08-30T21:34:53.000Z",
+          "wordCount": 113,
+          "title": "みずほ報告書の全容判明、システム「設計通りか点検」: 日本経済新聞"
+        },
+        {
           "id": "https://gigazine.net/news/20210831-arm-china-robbed-ip/",
           "author": null,
           "description": "半導体企業・Armが開発したArmアーキテクチャは、携帯電話や自動車、マイクロコントローラー、Amazon Web Services(AWS)のサーバーなどで使われる何十億ものチップで採用されています。Armはイギリスの企業でしたが、2016年にソフトバンクに買収されました。その後、NVIDIAへ売却されることが発表されたものの、中国国内...",
@@ -31,6 +49,42 @@
           "publishedOn": "2021-08-30T20:07:22.000Z",
           "wordCount": 220,
           "title": "Armの中国合弁企業がArmからの独立を宣言、一部ライセンスや中国市場の顧客をそのまま横取り - GIGAZINE"
+        },
+        {
+          "id": "https://m.youtube.com/playlist?list=PLqDUF2hCxwuBuZf1kxmFRpjJq3HTNeX2I",
+          "author": null,
+          "description": "新型コロナウィルス感染症拡大を受けて、ご自宅等で電気について学習されている方々向けに、発電所・変電所等に設置されている電力機器や電力ネットワーク、電気の基礎・原理について詳しく解説した映像をご紹介します。 （2001年、2007年 制作）",
+          "link": "https://m.youtube.com/playlist?list=PLqDUF2hCxwuBuZf1kxmFRpjJq3HTNeX2I",
+          "publishedOn": "2021-08-30T19:19:27.000Z",
+          "wordCount": 13,
+          "title": "映像解説「電気の原理」 - YouTube"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210831/k10013233451000.html",
+          "author": null,
+          "description": "新型コロナウイルスの流行の主流となっている感染力の強い変異ウイルス、「デルタ株」について、新たな変異があるウイルスが国内で初めて検出されたと、東京医科歯科大学のグループが発表しました。感染力などに影響があるかどうかは分かっていないということで、グループはさらに解析を進めるとしています。 これは東京...",
+          "link": "https://www3.nhk.or.jp/news/html/20210831/k10013233451000.html",
+          "publishedOn": "2021-08-30T19:15:21.000Z",
+          "wordCount": 21,
+          "title": "新たな変異ある「デルタ株」検出 感染力への影響分からず | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8Z7HPSP8ZUTFK01Z.html",
+          "author": null,
+          "description": "菅義偉首相は次の衆院選を前に、自民党役員人事を行う検討に入った。二階俊博幹事長は交代させる方向だ。また、衆院選について、解散権を行使せず閣議決定で衆院選の日程を決める任期満了選挙案が浮上。10月5日公示、同17日投開票を軸にした調整が行われている。 複数の政権幹部が明らかにした。人事をめぐっては、二階...",
+          "link": "https://www.asahi.com/articles/ASP8Z7HPSP8ZUTFK01Z.html",
+          "publishedOn": "2021-08-30T14:43:45.000Z",
+          "wordCount": 211,
+          "title": "菅首相、二階幹事長交代へ　衆院選は10月17日浮上：朝日新聞デジタル"
+        },
+        {
+          "id": "https://note.com/nhk_syuzai/n/n9ccbd599da50",
+          "author": null,
+          "description": "新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...",
+          "link": "https://note.com/nhk_syuzai/n/n9ccbd599da50",
+          "publishedOn": "2021-08-30T14:17:25.000Z",
+          "wordCount": 53,
+          "title": "記者に「プログラミングのスキル」って必要なの？ちなみにNHKニュースの画像生成も記者がコードを書いてます｜NHK取材ノート｜note"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210830/k10013233651000.html",
@@ -56,7 +110,7 @@
           "description": "みずほ銀行の今月のシステム障害で、実態や原因を金融庁へ報告する期限を31日迎える。機器の故障後、何重ものバックアップがうまく働かなかったのはなぜか。発足以来20年あまり、幾度も繰り返すトラブルに、みずほ固有の課題を問う声が強まっている。 「障害が起きた原因はわかりつつあるが、まだ最終的に結論づけるとこ...",
           "link": "https://www.asahi.com/articles/ASP8Z73NMP8ZULFA01F.html",
           "publishedOn": "2021-08-30T13:27:49.000Z",
-          "wordCount": 208,
+          "wordCount": 206,
           "title": "何重ものバックアップ、「ことごとく失敗」　みずほ障害：朝日新聞デジタル"
         },
         {
@@ -74,7 +128,7 @@
           "description": "木登りヤギ@細くて甘いあの夜空 @kinoboriyagi 水害にあった紙資料がカビにやられる前に素早く脱水するスクウェルチ・パッキング法、博物館関係者用の資料だけど、知っておいたら役に立つ場面がありそうな気がする。 元資料のダウンロードはこちら→omnh.repo.nii.ac.jp/?action=pages_… pic.twitter.com/bbYQGmyi13 2021...",
           "link": "https://togetter.com/li/1767215",
           "publishedOn": "2021-08-30T12:58:40.000Z",
-          "wordCount": 356,
+          "wordCount": 362,
           "title": "水害にあった資料がカビにやられる前に素早く脱水する【スクウェルチ・パッキング法】が役立ちそう「布団の圧縮袋にこんな使い方が！」 - Togetter"
         },
         {
@@ -83,7 +137,7 @@
           "description": "宇多丸さんが2021年8月30日放送のTBSラジオ『アフター6ジャンクション』の中で野外フェス『波物語（NAMIMONOGATARI）』が新型コロナウイルス感染拡大対策を軽視して開催されていた件について話していました。 （宇多丸）いや、本当にでもこれだけ気をつけていたってね、その特にデルタ株の感染力ね、めちゃめちゃ強くて...",
           "link": "https://miyearnzzlabo.com/archives/76168",
           "publishedOn": "2021-08-30T12:45:30.000Z",
-          "wordCount": 139,
+          "wordCount": 153,
           "title": "宇多丸 野外フェス『波物語2021』問題を語る"
         },
         {
@@ -94,15 +148,6 @@
           "publishedOn": "2021-08-30T12:45:10.000Z",
           "wordCount": 139,
           "title": "愛知県の大村秀章知事「もう二度と場所を貸さない」　波物語「密」報告で炎上に怒り｜ニフティニュース"
-        },
-        {
-          "id": "https://www.j-cast.com/2021/08/30419226.html?p=all",
-          "author": null,
-          "description": "愛知県常滑市内で2021年8月29日に行われたヒップホップ系の野外フェスティバル「NAMIMONOGATARI」で、参加者らが密状態になって踊るような写真や動画がツイッターなどに投稿され、物議を醸している。 ラッパーのZeebraさん（50）らが問題を認めて、ツイッターで謝罪する事態になった。ルール違反があったとして、愛知県...",
-          "link": "https://www.j-cast.com/2021/08/30419226.html?p=all",
-          "publishedOn": "2021-08-30T12:40:11.000Z",
-          "wordCount": 184,
-          "title": "「ヤバい、ヤバい」女性悲鳴も...体ぶつけ合う観客たち　批判殺到「密フェス」現場のカオスな実態: J-CAST ニュース【全文表示】"
         },
         {
           "id": "https://togetter.com/li/1767161",
@@ -123,21 +168,12 @@
           "title": "世界第10位の研究力になってしまった我が国：国立大学「独法化」と財務省の「選択と集中」政策の「成果」 - 物理屋の不定期ブログ"
         },
         {
-          "id": "https://mainichi.jp/articles/20210830/k00/00m/040/286000c",
-          "author": null,
-          "description": "子宮頸（けい）がんなどの原因となるHPV（ヒトパピローマウイルス）の感染を防ぐとされるワクチンについて、厚生労働省は2013年から差し控えている積極的な接種呼びかけの再開に向け、議論を始める。審議会に諮り、来年度からの再開も視野に検討する。 HPVワクチンは小学6年～高校1年の女子は無料で接種できる「定期接種...",
-          "link": "https://mainichi.jp/articles/20210830/k00/00m/040/286000c",
-          "publishedOn": "2021-08-30T12:17:19.000Z",
-          "wordCount": 390,
-          "title": "HPVワクチンの「積極的勧奨」再開、厚労省検討へ　22年度視野に | 毎日新聞"
-        },
-        {
           "id": "https://news.yahoo.co.jp/articles/14ac84a08e7f515913ff96dfafc4829a8808c92e",
           "author": null,
           "description": "西アフリカの小国、ガンビア。先日の東京五輪には柔道や陸上に4人の選手を派遣したが、この国を知る日本人がどれだけいるだろうか。そんなガンビアの家庭料理レストランが名古屋にある。日本人の味覚にも合うメニューの数々を味わえるのだが、店のおかみさんが実は、外交官でもあるのだ。（ジャーナリスト：室橋裕和／撮...",
           "link": "https://news.yahoo.co.jp/articles/14ac84a08e7f515913ff96dfafc4829a8808c92e",
           "publishedOn": "2021-08-30T11:47:38.000Z",
-          "wordCount": 76,
+          "wordCount": 75,
           "title": "「名古屋いいとこだよ、めっちゃ好き」　食堂の名物おかみ、実はガンビア総領事（Yahoo!ニュース オリジナル 特集）"
         },
         {
@@ -146,7 +182,7 @@
           "description": "なかなか旅行に行けないので収束とGotoトラベル復活に向けて，今まで旅行中に自分が見つけたコレクションできるモノ達を備忘録的にまとめました．他にもいろいろあると思うので教えて下さい． ダムカードみなさんお馴染み？ダムカード。同じダムでも限定バージョンが多く1000種類以上存在する。ダムは超山奥が多いのでド...",
           "link": "https://anond.hatelabo.jp/20210830195415",
           "publishedOn": "2021-08-30T10:59:41.000Z",
-          "wordCount": 88,
+          "wordCount": 89,
           "title": "全国を巡りながらコレクションできるものまとめ"
         },
         {
@@ -155,7 +191,7 @@
           "description": "尾崎紅葉の「金色夜叉」を読み始めた。普段はこんなに格式ばった文体のものを読まないため中々に難儀しており、１日に数ページずつゆっくりと読み進めているのだが、今日も数ページ進めたところで青空文庫を閉じると、「お宮まだ蹴られないのかなぁ」と思っている自分に気づいた。いや、別にそういった趣味があるわけで...",
           "link": "https://anond.hatelabo.jp/20210830193754",
           "publishedOn": "2021-08-30T10:43:34.000Z",
-          "wordCount": 100,
+          "wordCount": 105,
           "title": "「アムロ殴られ待ち現象」について"
         },
         {
@@ -168,36 +204,18 @@
           "title": "新型コロナで自宅療養中の女性死亡 死後3日か 千葉 柏 | 新型コロナウイルス | NHKニュース"
         },
         {
-          "id": "https://www3.nhk.or.jp/news/html/20210830/k10013233121000.html",
-          "author": null,
-          "description": "航空自衛隊は、東京パラリンピックの開会式の日に展示飛行を行った「ブルーインパルス」が、基地に着陸する際、適正な高度より低い高度でカラースモークを使用したと発表しました。 基地周辺のおよそ300台の車に染料が付着しているという連絡が寄せられていて、航空自衛隊は「ご心配をおかけしたことをおわびします」と...",
-          "link": "https://www3.nhk.or.jp/news/html/20210830/k10013233121000.html",
-          "publishedOn": "2021-08-30T09:56:56.000Z",
-          "wordCount": 22,
-          "title": "空自 ブルーインパルス 低い高度でカラースモークを不適正使用 | 自衛隊 | NHKニュース"
-        },
-        {
           "id": "https://togetter.com/li/1767111",
           "author": null,
           "description": "ystk @lawkus 弁護士。仕事の話はほぼしません。DM開放してますがDMでの法律相談はお受けできません（相談予約希望のご連絡はDMでも可）。 日々の行動を投稿する場合、日時や場所は故意に改変していることがあります。 ブログはこちら→ miurayoshitaka.hatenablog.com 千葉県弁護士会所属 三浦義隆 otakalaw.com",
           "link": "https://togetter.com/li/1767111",
           "publishedOn": "2021-08-30T08:19:21.000Z",
-          "wordCount": 2908,
+          "wordCount": 2936,
           "title": "昔話感の強い昔話といえば？「携帯がデカい」「HDDの上限が40MB」「土曜も働いてた」「アボカドとかキウイが無い」 - Togetter"
-        },
-        {
-          "id": "https://nordot.app/804977838975844352",
-          "author": null,
-          "description": "政府、与党は30日、野党が求めていた自民党総裁選前の臨時国会召集を見送る方針を固めた。複数の与党関係者が明らかにした。",
-          "link": "https://nordot.app/804977838975844352",
-          "publishedOn": "2021-08-30T07:45:52.000Z",
-          "wordCount": 37,
-          "title": "自民党総裁選前の臨時国会召集見送り ｜ 共同通信"
         },
         {
           "id": "https://www.technologyreview.jp/s/254889/the-genius-programmer-says-innovation-is-born-from-playfulness/",
           "author": null,
-          "description": "「デジタル敗戦」という言葉が確定した事実かのように語られる日本のICTの現状に対し、天才プログラマーの登 大遊氏は「あまり心配する必要はない」と話す。日本に必要なのは大企業の「遊び」だと言う。 by Yasuhiro Hatabe2021.08.30 311 81 3 2 独創的な若きイノベーターを選出する世界的アワード「Innovators Under 3...",
+          "description": "「デジタル敗戦」という言葉が確定した事実かのように語られる日本のICTの現状に対し、天才プログラマーの登 大遊氏は「あまり心配する必要はない」と話す。日本に必要なのは大企業の「遊び」だと言う。 by Yasuhiro Hatabe2021.08.30 634 354 382 4 独創的な若きイノベーターを選出する世界的アワード「Innovators Unde...",
           "link": "https://www.technologyreview.jp/s/254889/the-genius-programmer-says-innovation-is-born-from-playfulness/",
           "publishedOn": "2021-08-30T07:30:12.000Z",
           "wordCount": 713,
@@ -209,7 +227,7 @@
           "description": "タリバンがアフガニスタンの有名な歌手を殺害したと元内務大臣が語った。 歌手のファワド・アンダラビは、彼が住む渓谷の家から連れ出され、銃殺されたという。 「イスラム教では音楽は禁じられている」とタリバンの報道官が述べた数日後のことだった。 タリバンは、アフガニスタンの公共の場で音楽を演奏することを禁止...",
           "link": "https://news.yahoo.co.jp/articles/0c188393b1d37dc72ce8416dd72b7f57398a3643",
           "publishedOn": "2021-08-30T07:14:39.000Z",
-          "wordCount": 105,
+          "wordCount": 106,
           "title": "タリバン、人気歌手を殺害…「イスラムでは音楽は禁止」と述べた数日後に（BUSINESS INSIDER JAPAN） - Yahoo!ニュース"
         },
         {
@@ -218,7 +236,7 @@
           "description": "きゃんてぃ @6A3OcSOHELyAJ73 母子家庭育ちなのもあってそれなりに家事できて今も育児含めて世間並にはしてる自負はあるけど、今まで付き合ってきた子とかにそこを重視された経験って無いんだよね。偶然披露する機会があった時に多少驚かれるだけ。だから今ツイで「旦那が家事育児しない！」って騒いでる女→ 2021-08-30 ...",
           "link": "https://togetter.com/li/1767068",
           "publishedOn": "2021-08-30T05:37:50.000Z",
-          "wordCount": 1009,
+          "wordCount": 1021,
           "title": "なぜ女性は結婚相手を決める時に家事育児スキルを大して重視しないのに、結婚後にいきなりやって当然とか言い出すのか？ - Togetter"
         },
         {
@@ -229,24 +247,6 @@
           "publishedOn": "2021-08-30T02:38:00.000Z",
           "wordCount": 88,
           "title": "職務経歴書／履歴書からカルチャーフィットを読み解く方法｜tebiki開発ブログ｜note"
-        },
-        {
-          "id": "https://coliss.com/articles/freebies/google-fonts-for-japanese.html",
-          "author": null,
-          "description": "フリーフォントが大好物な人に朗報です！ 🎉 先週、Google Fontsに日本語フォントが追加されたので、紹介します。これでさらに、たくさんの日本語フォントがGoogle Fontsで使用できます。 新しく追加された日本語のGoogle Fonts 他にもたくさんある日本語のGoogle Fonts Google FontsのライセンスはほとんどがSIL Open F...",
-          "link": "https://coliss.com/articles/freebies/google-fonts-for-japanese.html",
-          "publishedOn": "2021-08-29T23:24:10.000Z",
-          "wordCount": 792,
-          "title": "日本語フォントがGoogle Fontsに大量追加！すべてのフォントが商用利用も無料のフリーフォントです | コリス"
-        },
-        {
-          "id": "https://synodos.jp/opinion/society/27314/",
-          "author": null,
-          "description": "ゲームプレーヤーを精神疾患にするディストピア――久里浜医療センター「ゲーム障害の有病率5.1％」論文のからくり 井出草平 社会学 社会 エグゼクティブ・サマリ 久里浜医療センターの樋口進氏らのグループが発表した論文から、ゲーム障害を過剰診断していく方針が読み取れる。この論文は厚労省・文科省の政策にも影響が...",
-          "link": "https://synodos.jp/opinion/society/27314/",
-          "publishedOn": "2021-08-29T23:15:13.000Z",
-          "wordCount": 482,
-          "title": "ゲームプレーヤーを精神疾患にするディストピア――久里浜医療センター「ゲーム障害の有病率5.1％」論文のからくり/井出草平 - SYNODOS"
         },
         {
           "id": "http://namimonogatari.com/",
@@ -263,7 +263,7 @@
           "description": "青森県弘前市は１１月ごろ、市内の学生らに名物のアップルパイを１個ずつ提供する。新型コロナウイルスの影響を受ける若者の食を支援する目的だが「食パン１斤の方がうれしい」といった批判もあり、桜田宏市長は２５日の定例記者会見で「菓子店などへの支援にもなる」と理解を求めた。 配布は市内の大学や専門学校に通う...",
           "link": "https://news.yahoo.co.jp/articles/850cf52659cd20096b4a9a65ad4a3d28eda940ea",
           "publishedOn": "2021-08-26T05:25:09.000Z",
-          "wordCount": 75,
+          "wordCount": 73,
           "title": "「食パンの方がうれしい」　市のアップルパイ配布計画に批判（河北新報） - Yahoo!ニュース"
         },
         {

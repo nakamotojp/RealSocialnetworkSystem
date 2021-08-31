@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-31T16:18:15.863Z</id>
+    <id>urn:2021-08-31T17:17:45.788Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-31T16:18:15.863Z</updated>
+    <updated>2021-08-31T17:17:45.788Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://note.com/tiyu/n/n34e917d87120"/>
         <updated>2021-08-31T09:58:45.000Z</updated>
         <summary type="html"><![CDATA[この記事は無料です。 8月21日にTBS系で放送された『カノジョも彼女』の第8話に、次のシーンがありました。 「これが巷で噂の、寝取られ趣味ってやつー？！」 こういうのを見ると、「NTR」という言葉も一般化したものだと、しみじみ感じます。 そこで今日は、この「NTR」という言葉の発祥について書いてみます。 「寝取...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民、臨時国会の召集を拒否　野党は「憲法違反」と批判：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP805R5KP80UTFK01Y.html</id>
+        <link href="https://www.asahi.com/articles/ASP805R5KP80UTFK01Y.html"/>
+        <updated>2021-08-31T08:49:31.000Z</updated>
+        <summary type="html"><![CDATA[自民党の森山裕国会対策委員長は31日、立憲民主党の安住淳国対委員長と国会内で会談し、野党が憲法53条に基づいて求めていた臨時国会の召集に応じない考えを伝えた。野党側は「明白な憲法違反」（立憲の枝野幸男代表）と批判を強めている。 立憲など野党4党は7月16日、憲法の規定に基づいて、臨時国会の召集を求める要求...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[授業で絵を描くとき、先生が手を入れると自分の絵じゃなくなるので不愉快だった→同じ経験のある人・自分を貫いて成績を落とされた人など - Togetter]]></title>
-        <id>https://togetter.com/li/1767439</id>
-        <link href="https://togetter.com/li/1767439"/>
-        <updated>2021-08-31T00:53:15.000Z</updated>
-        <summary type="html"><![CDATA[金星 @i_kinboshi ☆漫画・イラストを描いています。 ☆『ゼクシィBaby』『すくパラ倶楽部NEWS』にて連載中 ☆インスタグラム⇒instagram.com/kinboshi1981/ ご依頼はDMから kinboshi.blog.jp]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ベイジのウェブ制作ワークフロー2021年版（約100のタスクと解説） | knowledge / baigie]]></title>
         <id>https://baigie.me/officialblog/2021/08/31/baigie-workflow/</id>
         <link href="https://baigie.me/officialblog/2021/08/31/baigie-workflow/"/>
@@ -266,6 +266,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ビーフストロガノフはどのくらい強いのか - Qiita]]></title>
+        <id>https://qiita.com/Hirata-Masato/items/775ecd86f26f305fd393</id>
+        <link href="https://qiita.com/Hirata-Masato/items/775ecd86f26f305fd393"/>
+        <updated>2021-08-30T15:01:40.000Z</updated>
+        <summary type="html"><![CDATA[食べ物で強そうな名前のものは？というお題があったときに出がちなのは「ビーフストロガノフ」です。確かに強そうですが、もっと強そうな食べ物もあるような気がします。 今回はディープラーニングの一種であるLSTMとライブラリKerasを使って、食べ物に限らず単語の強さの定量化をしてみようと思います。 方針 まず、件...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[記者に「プログラミングのスキル」って必要なの？ちなみにNHKニュースの画像生成も記者がコードを書いてます｜NHK取材ノート｜note]]></title>
         <id>https://note.com/nhk_syuzai/n/n9ccbd599da50</id>
         <link href="https://note.com/nhk_syuzai/n/n9ccbd599da50"/>
@@ -281,16 +291,6 @@
         <link href="https://togetter.com/li/1767243"/>
         <updated>2021-08-30T13:30:44.000Z</updated>
         <summary type="html"><![CDATA[Kentaro Ebisawa @ebiken 東京電力YouTube「電気の原理」シリーズ、神コンテンツで必見 "新型コロナウィルス感染症拡大を受けて、ご自宅等で電気について学習されている方々向けに、発電所・変電所等に設置されている電力機器や電力ネットワーク、電気の基礎・原理について詳しく解説した映像をご紹介" youtube.com/play...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国を巡りながらコレクションできるものまとめ]]></title>
-        <id>https://anond.hatelabo.jp/20210830195415</id>
-        <link href="https://anond.hatelabo.jp/20210830195415"/>
-        <updated>2021-08-30T10:59:41.000Z</updated>
-        <summary type="html"><![CDATA[なかなか旅行に行けないので収束とGotoトラベル復活に向けて，今まで旅行中に自分が見つけたコレクションできるモノ達を備忘録的にまとめました．他にもいろいろあると思うので教えて下さい． ダムカードみなさんお馴染み？ダムカード。同じダムでも限定バージョンが多く1000種類以上存在する。ダムは超山奥が多いのでド...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

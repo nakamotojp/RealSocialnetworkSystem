@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-31T08:14:06.303Z</id>
+    <id>urn:2021-08-31T09:12:55.709Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-31T08:14:06.303Z</updated>
+    <updated>2021-08-31T09:12:55.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 2909人感染確認 9日連続前の週を下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210831/k10013234891000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210831/k10013234891000.html"/>
+        <updated>2021-08-31T07:49:09.000Z</updated>
+        <summary type="html"><![CDATA[東京都は31日、都内で新たに2909人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の火曜日より1311人減り、9日連続で前の週の同じ曜日を下回りました。 一方、都の基準で集計した31日時点の重症の患者は30日と同じ287人でした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大村秀章 on Twitter: "①「NAMIMONOGATARI2021」の開催について、愛知県は昨日8月30日付で、抗議文を送付させて頂き、実行委員会側に対し、早急に事実関係の報告としかるべき対応を求めているところです。 https://t.co/4hUYtAuYW0"]]></title>
+        <id>https://twitter.com/ohmura_hideaki/status/1432574691823132674</id>
+        <link href="https://twitter.com/ohmura_hideaki/status/1432574691823132674"/>
+        <updated>2021-08-31T05:28:56.000Z</updated>
+        <summary type="html"><![CDATA[①「NAMIMONOGATARI2021」の開催について、愛知県は昨日8月30日付で、抗議文を送付させて頂き、実行委員会側に対し、早急に事実関係の報告としかるべき対応を求めているところです。 https://t.co/4hUYtAuYW0]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原曲を越えたカバー曲]]></title>
         <id>https://anond.hatelabo.jp/20210831141155</id>
@@ -146,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【独自】みずほ、新システム導入後に要員６割減らす…トラブル遠因になった可能性（読売新聞オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/a23a60bded5184596492c183ec923f6769323cf4</id>
-        <link href="https://news.yahoo.co.jp/articles/a23a60bded5184596492c183ec923f6769323cf4"/>
-        <updated>2021-08-30T21:55:34.000Z</updated>
-        <summary type="html"><![CDATA[システム障害を相次ぎ起こしたみずほフィナンシャルグループ（ＦＧ）が、新しい中枢システムを全面導入した後に担当の社員数を４割に減らしていたことが３０日、わかった。運用や保守・管理に関するノウハウが十分に引き継がれずトラブルの遠因になった可能性もあるとみて、金融庁はみずほ側に原因究明を求めている。 ２...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[みずほ報告書の全容判明、システム「設計通りか点検」: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUB30BTT0Q1A830C2000000/</id>
         <link href="https://www.nikkei.com/article/DGXZQOUB30BTT0Q1A830C2000000/"/>
@@ -261,16 +271,6 @@
         <link href="https://news.nifty.com/article/economy/business/12117-18655/"/>
         <updated>2021-08-30T12:45:10.000Z</updated>
         <summary type="html"><![CDATA[音楽フェス「NAMIMONOGATARI」の参加者が「密」になっている状態が報告され、炎上 開催場所となった愛知県の大村秀章知事は、「これが最後。終わり」と怒りを露わに SNSでは動画・写真で会場の「密」状態や、酒類の提供があったことも確認されている 参加者が「密」になっている状態がネットで報告され、大炎上している...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界第10位の研究力になってしまった我が国：国立大学「独法化」と財務省の「選択と集中」政策の「成果」 - 物理屋の不定期ブログ]]></title>
-        <id>https://biran2008.hatenablog.com/entry/2021/08/15/180634</id>
-        <link href="https://biran2008.hatenablog.com/entry/2021/08/15/180634"/>
-        <updated>2021-08-30T12:21:12.000Z</updated>
-        <summary type="html"><![CDATA[日本の研究が世界10位になったという報道があった。これに関連して、2018年12月に書いたものに手を加えたものを掲載する。 %%%%%%%% 大学は、独法化とそれに期を一にして取られた「選択と集中」政策のために、組織も人も貧困化している。「貧すれば鈍する」、これが今回の数字に表れた帰結である。 ます誤解を解かないと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

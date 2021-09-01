@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-01T09:12:07.963Z</id>
+    <id>urn:2021-09-01T10:13:34.740Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-01T09:12:07.963Z</updated>
+    <updated>2021-09-01T10:13:34.740Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[大阪府 新型コロナ 12人死亡 3004人感染確認 3000人超は初 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210901/k10013236791000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210901/k10013236791000.html"/>
+        <updated>2021-09-01T08:13:35.000Z</updated>
+        <summary type="html"><![CDATA[大阪府は、1日、これまでで最も多い3004人が新型コロナウイルスに感染していることが新たに確認されたと発表しました。 大阪府内で一日に発表された感染者数が3000人を超えるのは初めてです。 また大阪府は、先月30日と31日に発表した感染者、合わせて2人が重複していたとして取り下げました。府内の感染者の累計は17万1...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[河村たかし市長が新型コロナに感染　名古屋市 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP915K8DP91OIPE01D.html</id>
@@ -21,6 +31,16 @@
         <link href="https://bunshun.jp/articles/-/48318"/>
         <updated>2021-09-01T07:16:50.000Z</updated>
         <summary type="html"><![CDATA[会議には河野氏のほか、内閣府の山田正人参事官と、エネ庁の山下隆一次長、小澤典明統括調整官の3名が参加した。「週刊文春」はこの会議の様子を録音した約28分間の音声を入手。河野氏が山下氏と小澤氏を大声で怒鳴りつける様子が収録されていた。 議題となったのは、3年に一度見直しが行われる「エネルギー基本計画」だ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO、「ミュー株」を注目すべき変異株に　写真4枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3364266</id>
+        <link href="https://www.afpbb.com/articles/-/3364266"/>
+        <updated>2021-09-01T05:19:12.000Z</updated>
+        <summary type="html"><![CDATA[コロンビア・メデジンの公園で新型コロナウイルスのワクチン接種を受ける人（2021年8月5日撮影）。(c)JOAQUIN SARMIENTO / AFP 【9月1日 AFP】世界保健機関（WHO）は8月31日、1月にコロンビアで最初に確認された新型コロナウイルス変異株「ミュー株」を注視していると明らかにした。 WHOは新型ウイルスのパンデミック（...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -231,26 +251,6 @@
         <link href="https://news.yahoo.co.jp/articles/fc782e9c79a5ec8044f3a17cf7686b994f235ba2"/>
         <updated>2021-08-31T11:52:12.000Z</updated>
         <summary type="html"><![CDATA[れいわ新選組代表で前参議院議員の山本太郎氏（４６）が３１日、ツイッターでワクチン義務化に反対の意向を示した。 【写真】れいわの異色候補・元グラドルの八幡愛氏 山本氏は経済同友会の桜田謙悟代表が３１日の定例会見でワクチン接種について「義務化に向けた議論があっていい」と発言したという報道を受け「打たな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手を洗う救急医Taka（木下喬弘） on Twitter: "ご子息を亡くした方の無念は察するに余りありますし、亡くなった方のご冥福を心からお祈りいたします。 その上で、科学的な観点から一定の見解を示す必要性を感じましたので、長くなりますが書きます。 接種後に30歳息子が死亡　「勧めたの… https://t.co/xvscnk5khZ"]]></title>
-        <id>https://twitter.com/mph_for_doctors/status/1432660803757359105</id>
-        <link href="https://twitter.com/mph_for_doctors/status/1432660803757359105"/>
-        <updated>2021-08-31T11:50:17.000Z</updated>
-        <summary type="html"><![CDATA[ご子息を亡くした方の無念は察するに余りありますし、亡くなった方のご冥福を心からお祈りいたします。 その上で、科学的な観点から一定の見解を示す必要性を感じましたので、長くなりますが書きます。 接種後に30歳息子が死亡　「勧めたの… https://t.co/xvscnk5khZ]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「悪口に聞こえたら申し訳ないんだけどダイドーの自販機の飲み物好きそうだよね」→ダイドーファンが大集結する流れに - Togetter]]></title>
-        <id>https://togetter.com/li/1767596</id>
-        <link href="https://togetter.com/li/1767596"/>
-        <updated>2021-08-31T11:22:56.000Z</updated>
-        <summary type="html"><![CDATA[元11才 @motoeleven 昨日「悪口に聞こえたら申し訳ないんだけど、ダイドーの自販機の飲み物好きそうだよね」って言われて、これは純度の高い悪口だと思ったし、実際にダイドーが好きだからぐうの音も出なかった 2021-08-29 18:05:27]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

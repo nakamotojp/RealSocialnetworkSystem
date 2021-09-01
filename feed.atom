@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-01T22:12:29.066Z</id>
+    <id>urn:2021-09-01T23:12:47.653Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-01T22:12:29.066Z</updated>
+    <updated>2021-09-01T23:12:47.653Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://note.stopcovid19.jp/n/n0b078f2b3dce"/>
         <updated>2021-09-01T14:40:37.000Z</updated>
         <summary type="html"><![CDATA[有志の会の尾身です。 この1年半以上の間、世界中が新型コロナウイルスと戦ってきました。 目覚ましい研究の成果があり、重症化予防に有効なワクチンが実用化し、治療法も日々進化しています。 しかし、急激に感染が拡大し、感染者数や重症者数が高止まりになっている都市部では、新型コロナ以外の医療や他の病気の患者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女だけど女性が活躍してる企業は絶対応募しない]]></title>
+        <id>https://anond.hatelabo.jp/20210901184524</id>
+        <link href="https://anond.hatelabo.jp/20210901184524"/>
+        <updated>2021-09-01T13:34:31.000Z</updated>
+        <summary type="html"><![CDATA[「女性が働きやすい」「女性が活躍中」「女性比率○%以上」「育休取得○%」「女性管理職比率○%」 求人サイトを開くといかに女性社員が多いかの表記がズラッと並んでることが多いけど、過剰にそこをアピールしてる企業は絶対に応募しない。 まず女性の働きやすさ・育休の取りやすさははほぼイコールで独身の犠牲率なので、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -156,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大阪府 新型コロナ 12人死亡 3004人感染確認 3000人超は初 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210901/k10013236791000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210901/k10013236791000.html"/>
-        <updated>2021-09-01T08:13:35.000Z</updated>
-        <summary type="html"><![CDATA[大阪府は、1日、これまでで最も多い3004人が新型コロナウイルスに感染していることが新たに確認されたと発表しました。 大阪府内で一日に発表された感染者数が3000人を超えるのは初めてです。 また大阪府は、先月30日と31日に発表した感染者、合わせて2人が重複していたとして取り下げました。府内の感染者の累計は17万1...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[河村たかし市長が新型コロナに感染　名古屋市 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP915K8DP91OIPE01D.html</id>
         <link href="https://www.asahi.com/articles/ASP915K8DP91OIPE01D.html"/>
@@ -236,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WHO、「ミュー株」を注目すべき変異株に　写真4枚　国際ニュース：AFPBB News]]></title>
-        <id>https://www.afpbb.com/articles/-/3364266</id>
-        <link href="https://www.afpbb.com/articles/-/3364266"/>
-        <updated>2021-09-01T05:19:12.000Z</updated>
-        <summary type="html"><![CDATA[コロンビア・メデジンの公園で新型コロナウイルスのワクチン接種を受ける人（2021年8月5日撮影）。(c)JOAQUIN SARMIENTO / AFP 【9月1日 AFP】世界保健機関（WHO）は8月31日、1月にコロンビアで最初に確認された新型コロナウイルス変異株「ミュー株」を注視していると明らかにした。 WHOは新型ウイルスのパンデミック（...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[あおひろ on Twitter: "3社経営してわかった。仕事が遅い人の特徴は「あとまわしの癖がある」「キャパオーバー」「プレッシャーに弱い」「100%他責」「ニガテも自分で処理」「1分経っても手をつけない」「時間とお金にルーズ」「プライベートが充実してない」固定ツイートには、仕事の効率を上げる習慣を残しています。"]]></title>
         <id>https://twitter.com/AokiFudosan/status/1432816723070050304</id>
         <link href="https://twitter.com/AokiFudosan/status/1432816723070050304"/>
@@ -271,6 +261,16 @@
         <link href="https://twitter.com/itoi_shigesato/status/1432568669951774722"/>
         <updated>2021-09-01T03:50:56.000Z</updated>
         <summary type="html"><![CDATA[ウーバーイーツ？って頼んだことないんだけど、配達してくれる人の服装の清潔感とかサンダル履き禁止とか自転車の汚れ方とかについてのルールはないみたいだね。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行政文書をマークダウン化しよう！ところでマークダウンって何？｜METI-DX 経済産業省情報プロジェクト室]]></title>
+        <id>https://metidx-gov.note.jp/n/n2bd18b23dba3</id>
+        <link href="https://metidx-gov.note.jp/n/n2bd18b23dba3"/>
+        <updated>2021-09-01T02:56:31.000Z</updated>
+        <summary type="html"><![CDATA[最初に見つけたのがこのユーザー会さんのページです。こちらにマークダウンとは「文章の書き方」とあります。なるほど簡単。軽量マークアップ言語よりは、かなり柔らかくなりました。ただ、むしろ簡単になりすぎて今度は具体的なイメージが沸かないか？ 次に見つけたのは、こちらのブログです。 ここでは、「手軽にドキ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

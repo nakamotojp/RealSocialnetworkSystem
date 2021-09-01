@@ -6,12 +6,21 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210901/k10013237631000.html",
+          "author": null,
+          "description": "愛知県常滑市で開かれた野外の音楽フェスティバルで、感染防止対策が不十分なまま酒の提供も行われた問題で、大村知事は、主催した会社の代表取締役が31日、県庁を訪れ「酒を売らなければ損失をかぶることになり、県の要請は認識していたが売らざるをえなかった」などと釈明したと明らかにしました。 先月29日に常滑市で...",
+          "link": "https://www3.nhk.or.jp/news/html/20210901/k10013237631000.html",
+          "publishedOn": "2021-09-01T11:20:32.000Z",
+          "wordCount": 18,
+          "title": "愛知野外音楽フェス「酒売らなければ損失」主催会社が県に釈明 | 新型コロナウイルス | NHKニュース"
+        },
+        {
           "id": "https://togetter.com/li/1768019",
           "author": null,
           "description": "リンク www.microsoft.com Microsoft Teams | リモート ワークのためのコラボレーション ツール チームワークを実現する安全なコラボレーション プラットフォーム、Teams に無料でサインアップして、リモート ワーク、テレビ会議、インスタント メッセージング、グループ チャットのためのツールを入手できます。",
           "link": "https://togetter.com/li/1768019",
           "publishedOn": "2021-09-01T08:46:38.000Z",
-          "wordCount": 994,
+          "wordCount": 1024,
           "title": "会社のチャットで『いいねボタン』が「相手に失礼だ」と禁止になってしまった→その後ボタンそのものが禁止された - Togetter"
         },
         {
@@ -29,7 +38,7 @@
           "description": "名古屋市の河村たかし市長（72）が新型コロナウイルスに感染したことが1日、わかった。複数の関係者が明らかにした。 名古屋市では先月29日に市長の特別秘書の30代男性が感染したことが判明していた。河村氏は濃厚接触者ではなかったが、自宅待機し、PCR検査を受けていた。",
           "link": "https://www.asahi.com/articles/ASP915K8DP91OIPE01D.html",
           "publishedOn": "2021-09-01T08:10:52.000Z",
-          "wordCount": 229,
+          "wordCount": 228,
           "title": "河村たかし市長が新型コロナに感染　名古屋市 [新型コロナウイルス]：朝日新聞デジタル"
         },
         {
@@ -38,7 +47,7 @@
           "description": "かねてより西浦氏は開催すれば医療逼迫のリスクが高まるとし、「一年延期」を提唱してきた。開催が事実上決まった6月には、政府分科会の尾身茂会長らと共に、無観客開催を求めた。 だが東京の新規感染者数は爆発的に増加。自宅療養者数は12万人近くに達した。一都三県で自宅療養中に亡くなったのは8月だけで30人を超える...",
           "link": "https://bunshun.jp/articles/-/48319",
           "publishedOn": "2021-09-01T07:55:04.000Z",
-          "wordCount": 170,
+          "wordCount": 176,
           "title": "西浦博教授の後悔　東京五輪を「嫌われても強く止めておくべきだった」 | 文春オンライン"
         },
         {
@@ -56,7 +65,7 @@
           "description": "会議には河野氏のほか、内閣府の山田正人参事官と、エネ庁の山下隆一次長、小澤典明統括調整官の3名が参加した。「週刊文春」はこの会議の様子を録音した約28分間の音声を入手。河野氏が山下氏と小澤氏を大声で怒鳴りつける様子が収録されていた。 議題となったのは、3年に一度見直しが行われる「エネルギー基本計画」だ...",
           "link": "https://bunshun.jp/articles/-/48318",
           "publishedOn": "2021-09-01T07:16:50.000Z",
-          "wordCount": 163,
+          "wordCount": 169,
           "title": "河野太郎大臣パワハラ音声　官僚に怒鳴り声「日本語わかる奴、出せよ」 | 文春オンライン"
         },
         {
@@ -65,7 +74,7 @@
           "description": "女優の綾瀬はるか（36）が新型コロナウイルスに感染したことが明らかになった。所属するホリプロによると、綾瀬は８月20日夜、微熱があり抗原検査を行ったが陰性。翌日、念のためPCR検査も受けたが陰性。症状は治まってきたものの、その後発熱が続いたため抗原検査をしたところまた陰性。しかし26日、再診し抗原検査を行...",
           "link": "https://news.yahoo.co.jp/articles/2f766398d25070a5d6118e4941ab89937879c9e6",
           "publishedOn": "2021-09-01T06:58:13.000Z",
-          "wordCount": 71,
+          "wordCount": 72,
           "title": "綾瀬はるかコロナ感染、即入院でネットいまだ“大荒れ”…医療崩壊下ゆえ「上級国民」批判も根強く（日刊ゲンダイDIGITAL） - Yahoo!ニュース"
         },
         {
@@ -76,6 +85,15 @@
           "publishedOn": "2021-09-01T06:49:33.000Z",
           "wordCount": 196,
           "title": "黒色中国💉 on Twitter: \"スティーブ・ジョブズは、自転車が人間の移動効率を28倍にすることから、パソコンを「知性の自転車」と呼んだが、今の日本の若者の多くが自分のPCを持たないのは、自転車で走る外国の若者を相手に、徒歩で競争するようなもので、圧倒的に不利だ… https://t.co/wF1tkIQKch\""
+        },
+        {
+          "id": "https://twitter.com/kodo202006/status/1432632777090891784",
+          "author": null,
+          "description": "40代から週末使って大学院に通って学び直ししている社員がいるんだけど、陰で「学歴ロンダリング」って呼ばれてバカにされているらしい。クソみたいな国だなここは。",
+          "link": "https://twitter.com/kodo202006/status/1432632777090891784",
+          "publishedOn": "2021-09-01T06:36:48.000Z",
+          "wordCount": 196,
+          "title": "心動(こどう) on Twitter: \"40代から週末使って大学院に通って学び直ししている社員がいるんだけど、陰で「学歴ロンダリング」って呼ばれてバカにされているらしい。クソみたいな国だなここは。\""
         },
         {
           "id": "https://www.afpbb.com/articles/-/3364266",
@@ -110,7 +128,7 @@
           "description": "江藤俊司／es @esfeb0203s サバイバルの本に「キノコは無視して良い、リスクを取るほど栄養がない」って書いてあったの、時たま思い出しては面白くなってる 2021-08-30 23:48:38",
           "link": "https://togetter.com/li/1767932",
           "publishedOn": "2021-09-01T03:47:25.000Z",
-          "wordCount": 906,
+          "wordCount": 948,
           "title": "サバイバルの本に『キノコは無視していい、リスクを取るほど栄養がない』って書いてあった「そもそもサバイバルでのキノコは最終手段かと」 - Togetter"
         },
         {
@@ -222,15 +240,6 @@
           "title": "ゲーム開発者へっぽこさん、711ページに及ぶ技術書『Unity uGUI アドバンスド・リファレンス』を無償公開"
         },
         {
-          "id": "https://togetter.com/li/1767872",
-          "author": null,
-          "description": "手を洗う救急医Taka（木下喬弘） @mph_for_doctors ご子息を亡くした方の無念は察するに余りありますし、亡くなった方のご冥福を心からお祈りいたします。 その上で、科学的な観点から一定の見解を示す必要性を感じましたので、長くなりますが書きます。 接種後に30歳息子が死亡　「勧めたのは私」涙ぐむ父：朝日新聞デ...",
-          "link": "https://togetter.com/li/1767872",
-          "publishedOn": "2021-08-31T23:15:41.000Z",
-          "wordCount": 1229,
-          "title": "「朝日新聞が、専門家の調査の途中で、いたずらにワクチンの安全性に疑念を抱かせる報道を行った」 - Togetter"
-        },
-        {
           "id": "https://kantodaishinsai.filmarchives.jp/",
           "author": null,
           "description": "With the aim of sharing knowledge about the historic disaster and its impact on society via moving images, this website offers a selection of films of the Great Kanto Earthquake of 1923 which have survived over the century and now part of the collection of the National Film Archive of Japan. 関東...",
@@ -263,17 +272,8 @@
           "description": "れいわ新選組代表で前参議院議員の山本太郎氏（４６）が３１日、ツイッターでワクチン義務化に反対の意向を示した。 【写真】れいわの異色候補・元グラドルの八幡愛氏 山本氏は経済同友会の桜田謙悟代表が３１日の定例会見でワクチン接種について「義務化に向けた議論があっていい」と発言したという報道を受け「打たな...",
           "link": "https://news.yahoo.co.jp/articles/fc782e9c79a5ec8044f3a17cf7686b994f235ba2",
           "publishedOn": "2021-08-31T11:52:12.000Z",
-          "wordCount": 66,
+          "wordCount": 67,
           "title": "山本太郎氏 “ワクチン義務化”に反対「打たない人たちの権利を侵害するな」（東スポWeb） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210817083708",
-          "author": null,
-          "description": "これ正論なんだよな 俺は天皇制自体っていうより、完全世襲で意味わからん謎の家族が強制的にああいう立場に置かれてるって状況に反感を覚えている 選挙やりゃいいんだ選挙 実力のある者を天皇にすればいい 年齢不問、国籍不問、経歴不問、性別不問 誰でも、名乗り出て、実力があれば天皇になれる それでいいじゃん ほぼ...",
-          "link": "https://anond.hatelabo.jp/20210817083708",
-          "publishedOn": "2021-08-31T06:06:51.000Z",
-          "wordCount": 208,
-          "title": "実力のある者をドシドシ天皇にするべきだ"
         }
       ]
     }

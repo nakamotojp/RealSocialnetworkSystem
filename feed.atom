@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T01:53:08.478Z</id>
+    <id>urn:2021-09-02T02:22:37.552Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T01:53:08.478Z</updated>
+    <updated>2021-09-02T02:22:37.552Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[時間跳躍式完全無劣化転送装置 - 山素 / 【読み切り】時間跳躍式完全無劣化転送装置 | コミックDAYS]]></title>
+        <id>https://comic-days.com/episode/3269754496432828238</id>
+        <link href="https://comic-days.com/episode/3269754496432828238"/>
+        <updated>2021-09-02T01:10:16.000Z</updated>
+        <summary type="html"><![CDATA[コミックDAYSは正規版配信サイトマークを取得したサービスです。 © KODANSHA Ltd. All rights reserved. このサイトのデータの著作権は講談社が保有します。無断複製転載放送等は禁止します。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音楽フェス「スーパーソニック」延期を主催者側に要望 千葉市 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210902/k10013237801000.html</id>
@@ -156,11 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[混入異物はステンレス　モデルナ製、製造機器破片―厚労省：時事ドットコム]]></title>
+        <title type="html"><![CDATA[ワクチン異物はステンレス　機器破片、製造過程で混入―モデルナ製・厚労省：時事ドットコム]]></title>
         <id>https://www.jiji.com/jc/article?k=2021090101150&amp;g=soc</id>
         <link href="https://www.jiji.com/jc/article?k=2021090101150&amp;g=soc"/>
         <updated>2021-09-01T12:33:07.000Z</updated>
-        <summary type="html"><![CDATA[混入異物はステンレス　モデルナ製、製造機器破片―厚労省 2021年09月01日21時21分 米モデルナ社製の新型コロナウイルスワクチンに混入していた異物について、厚生労働省は１日、製造機器の破片でステンレスだったと発表した。 社会 新型コロナ スリランカ女性死亡 台風・大雨情報 コメントをする]]></summary>
+        <summary type="html"><![CDATA[ワクチン異物はステンレス　機器破片、製造過程で混入―モデルナ製・厚労省 2021年09月01日23時37分 米モデルナ製ワクチン 厚生労働省は１日、使用を見合わせていた米モデルナ社製の新型コロナウイルスワクチンに混入していた異物について、製造機器の破片でステンレスだったと発表した。同社などが詳しい成分と混入の経...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,6 +226,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[弘中綾香アナ、コロナ禍に男友達と「宅飲み“密”パーティー」　テレ朝は本人を注意 | デイリー新潮]]></title>
+        <id>https://www.dailyshincho.jp/article/2021/09011550/?all=1</id>
+        <link href="https://www.dailyshincho.jp/article/2021/09011550/?all=1"/>
+        <updated>2021-09-01T09:55:30.000Z</updated>
+        <summary type="html"><![CDATA[「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転載を禁じます。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[カクサン部長 on Twitter: "保護者の皆さん、学校のPCR検査ガイドラインが変わりました。 これまで感染者が出ても、濃厚接触でしかやらなかった検査を、1人の陽性でクラス全員の検査が可能に。もちろん無料で。 万一、学校の対応が違ったら改善してもらいましょう。… https://t.co/hiv7uwSn3V"]]></title>
         <id>https://twitter.com/kakusanbuchoo/status/1432852004959703043</id>
         <link href="https://twitter.com/kakusanbuchoo/status/1432852004959703043"/>
@@ -251,26 +271,6 @@
         <link href="https://36kr.jp/148962/"/>
         <updated>2021-09-01T07:54:36.000Z</updated>
         <summary type="html"><![CDATA[世界最大のECプラットフォームAmazonが、中国業者の大規模な締め出しを行っている。アカウントを閉鎖された事業者は5万店舗に上り、損失額は1000億元（約1兆7000億円）を超えるとも言われる。 これに対し、Amazon側は「業者による不正レビューのため」としている。EC業界において架空注文や不正レビューは後を絶たない。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河野太郎大臣パワハラ音声　官僚に怒鳴り声「日本語わかる奴、出せよ」 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/48318</id>
-        <link href="https://bunshun.jp/articles/-/48318"/>
-        <updated>2021-09-01T07:16:50.000Z</updated>
-        <summary type="html"><![CDATA[会議には河野氏のほか、内閣府の山田正人参事官と、エネ庁の山下隆一次長、小澤典明統括調整官の3名が参加した。「週刊文春」はこの会議の様子を録音した約28分間の音声を入手。河野氏が山下氏と小澤氏を大声で怒鳴りつける様子が収録されていた。 議題となったのは、3年に一度見直しが行われる「エネルギー基本計画」だ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心動(こどう) on Twitter: "40代から週末使って大学院に通って学び直ししている社員がいるんだけど、陰で「学歴ロンダリング」って呼ばれてバカにされているらしい。クソみたいな国だなここは。"]]></title>
-        <id>https://twitter.com/kodo202006/status/1432632777090891784</id>
-        <link href="https://twitter.com/kodo202006/status/1432632777090891784"/>
-        <updated>2021-09-01T06:36:48.000Z</updated>
-        <summary type="html"><![CDATA[40代から週末使って大学院に通って学び直ししている社員がいるんだけど、陰で「学歴ロンダリング」って呼ばれてバカにされているらしい。クソみたいな国だなここは。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

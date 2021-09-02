@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T19:09:44.477Z</id>
+    <id>urn:2021-09-02T20:12:45.001Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T19:09:44.477Z</updated>
+    <updated>2021-09-02T20:12:45.001Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,6 +91,16 @@
         <link href="https://note.com/hal_sk/n/n916a422caafd"/>
         <updated>2021-09-02T08:10:47.000Z</updated>
         <summary type="html"><![CDATA[行政文章のMarkdown化、進めていきたい。公開時だけでなく、普段からMarkdownでやりとりできるといいんだけどな。Wordを使って文章作ってる人をターゲットにしたMarkdownエディタを作ってみたい。 HackMDでもまだ難しいイメージ。実務に寄せていく必要がある。https://t.co/3iVDjXVHcQ — Hal Seki (@hal_sk) August 31, ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任期満了選挙中の解散可能　政府：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021090200709&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021090200709&amp;g=pol"/>
+        <updated>2021-09-02T08:07:30.000Z</updated>
+        <summary type="html"><![CDATA[任期満了選挙中の解散可能　政府 2021年09月02日15時27分 記者会見する加藤勝信官房長官＝１日、首相官邸 加藤勝信官房長官は２日の記者会見で、任期満了による衆院選の公示後、投開票日前に国会を召集して衆院解散は可能だとする見解を示した。公職選挙法３１条５項は「総選挙の期日の公示がなされた後、その期日前に衆...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://jp.reuters.com/article/china-tv-idJPKBN2FY02Y"/>
         <updated>2021-09-02T06:02:38.000Z</updated>
         <summary type="html"><![CDATA[中国国家ラジオテレビ総局は２日付のオンライン通知で、文化プログラムの規制を強化すると表明した。写真は、上海市内の歩行者専用道路に設置された大型テレビ画面に映し出された習近平主席。２０１７年１０月２５日に撮影。（２０２１年　ロイター／Aly Song） ［北京　２日　ロイター］ - 中国政府は２日、娯楽産業へ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国の日本テーマ施設、営業停止　「文化侵略」批判で: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOGM014AF0R00C21A9000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOGM014AF0R00C21A9000000/"/>
-        <updated>2021-09-02T05:20:10.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【大連=渡辺伸】京都の風景を再現した中国最大級となる日本をテーマにした複合商業施設が1日、地元政府の指示で営業を停止した。再開時期は未定。この施設は日本の商品...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

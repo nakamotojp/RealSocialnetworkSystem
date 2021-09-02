@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T06:15:03.774Z</id>
+    <id>urn:2021-09-02T07:18:15.872Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T06:15:03.774Z</updated>
+    <updated>2021-09-02T07:18:15.872Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[本社ビル建替えに関するご案内 | 三省堂書店]]></title>
+        <id>https://www.books-sanseido.co.jp/news/1530160</id>
+        <link href="https://www.books-sanseido.co.jp/news/1530160"/>
+        <updated>2021-09-02T01:56:39.000Z</updated>
+        <summary type="html"><![CDATA[2021年9月2日 お客様並びにお取引先各位 株式会社三省堂書店 本社ビル建替えに関するご案内 謹啓　平素は格別のお引き立てを賜り厚く御礼申し上げます。 この度、株式会社三省堂書店は、本社・本店ビル（東京都千代田区神田神保町一丁目1番。隣接する第2・第3アネックスビルを含め敷地面積合計1745.88㎡）を建替えること...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[時間跳躍式完全無劣化転送装置 - 山素 / 【読み切り】時間跳躍式完全無劣化転送装置 | コミックDAYS]]></title>
         <id>https://comic-days.com/episode/3269754496432828238</id>
         <link href="https://comic-days.com/episode/3269754496432828238"/>
@@ -56,11 +66,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple、書籍などアプリ規約変更　日本の公取委調査受け: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOGN020CC0S1A900C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOGN020CC0S1A900C2000000/"/>
-        <updated>2021-09-02T00:23:22.000Z</updated>
-        <summary type="html"><![CDATA[【シリコンバレー=白石武志】米アップルは1日、同社のアプリストアについて反競争的行為がないかを調べていた日本の公正取引委員会と調査終了で合意したと発表した。2022年に全世界で規約の一部を変更し、書籍や音楽、動画などのコンテンツを閲覧する「リーダーアプリ」について15～30%の配信手数料を回避しやすくするこ...]]></summary>
+        <title type="html"><![CDATA[日本の公正取引委員会によるApp Storeの調査が終結 - Apple (日本)]]></title>
+        <id>https://www.apple.com/jp/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/</id>
+        <link href="https://www.apple.com/jp/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/"/>
+        <updated>2021-09-02T00:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、来年初めに世界中の「リーダー」アプリケーションのデベロッパが、アカウントの設定と管理を行うために外部ウェブサイトにリンクすることを可能にします カリフォルニア州、クパティーノ Appleは本日、公正取引委員会による調査を終了することになるApp Storeに導入するアップデートを発表しました。このアップ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -101,6 +111,16 @@
         <link href="https://news.yahoo.co.jp/articles/9b458391dd85165af65101043f0d280e4d90a1bd"/>
         <updated>2021-09-01T22:38:34.000Z</updated>
         <summary type="html"><![CDATA[指定暴力団山口組（神戸市）が傘下の構成員に対し、公共の場で銃器を使わないよう通達を出したことが関係者への取材でわかった。特定危険指定暴力団工藤会（北九州市）の組員が市民を襲撃した事件をめぐり、最高幹部の刑事責任を認める判決を福岡地裁が言い渡したことを受けた対応とみられる。 【画像】余裕見せた暴力団...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「名代富士そば」運営会社 雇用調整助成金を不正受給 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210902/k10013238021000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210902/k10013238021000.html"/>
+        <updated>2021-09-01T22:21:16.000Z</updated>
+        <summary type="html"><![CDATA[首都圏で立ち食いそば店を運営する会社が国の雇用調整助成金の一部を不正に受給していたことが分かり、厚生労働省がおよそ300万円の返還を命じる処分を行ったことが関係者への取材で分かりました。会社はすでに返還をしていて「コンプライアンス体制の確立に向けて引き続き努力したい」としています。 処分を受けたのは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[愛知野外音楽フェス「酒売らなければ損失」主催会社が県に釈明 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210901/k10013237631000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210901/k10013237631000.html"/>
-        <updated>2021-09-01T11:20:32.000Z</updated>
-        <summary type="html"><![CDATA[愛知県常滑市で開かれた野外の音楽フェスティバルで、感染防止対策が不十分なまま酒の提供も行われた問題で、大村知事は、主催した会社の代表取締役が31日、県庁を訪れ「酒を売らなければ損失をかぶることになり、県の要請は認識していたが売らざるをえなかった」などと釈明したと明らかにしました。 先月29日に常滑市で...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「楽天ポイント」発行数が年々加速　累計2.5兆ポイント突破で“楽天経済圏”拡大をアピール - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2109/01/news169.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2109/01/news169.html"/>
@@ -291,16 +301,6 @@
         <link href="https://twitter.com/TJO_datasci/status/1432876352307281927"/>
         <updated>2021-09-01T09:16:38.000Z</updated>
         <summary type="html"><![CDATA[旧ブログ時代に有志と「科学研究予算は『選択と集中』をやめて広く分散投資を」「事務校務の効率化で無駄な支出削減を」などの提言をまとめて総合科学技術会議と日本学術会議に出したら、「研究者の側から予算削減の言質を政府に与える反逆行為だ」と当時の偉い先生たちから迫害されたのを思い出した]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon、強気のアカウント大量閉鎖で中国越境ECに激震 リストラ・休業も | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア]]></title>
-        <id>https://36kr.jp/148962/</id>
-        <link href="https://36kr.jp/148962/"/>
-        <updated>2021-09-01T07:54:36.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のECプラットフォームAmazonが、中国業者の大規模な締め出しを行っている。アカウントを閉鎖された事業者は5万店舗に上り、損失額は1000億元（約1兆7000億円）を超えるとも言われる。 これに対し、Amazon側は「業者による不正レビューのため」としている。EC業界において架空注文や不正レビューは後を絶たない。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

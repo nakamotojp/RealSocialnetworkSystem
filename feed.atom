@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T14:11:43.225Z</id>
+    <id>urn:2021-09-02T15:13:07.283Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T14:11:43.225Z</updated>
+    <updated>2021-09-02T15:13:07.283Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://p-shirokuma.hatenadiary.com/entry/20210902/1630575055"/>
         <updated>2021-09-02T09:38:44.000Z</updated>
         <summary type="html"><![CDATA[www3.nhk.or.jp 今週、NHKのサイトで"在宅勤務中も禁煙"を求める企業の動きについての報道があった。野村ホールディングスは、出社している社員に加えて在宅でリモートワークしている社員にも、就業時間中は禁煙を求めるのだという。 こうした動きは社員の健康の維持と生産性向上を図るねらいがあるとのことで、イオン、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Desktopの代替方法 - Windows and Mac編]]></title>
+        <id>https://zenn.dev/koduki/articles/ba54daaba28f93</id>
+        <link href="https://zenn.dev/koduki/articles/ba54daaba28f93"/>
+        <updated>2021-09-02T09:28:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 新方針でDocker Desktopが大企業での利用の場合は商用ライセンスの使用が必要になるようです。新料金体系は8/31から実施ですが、2022年1月31日まで猶予期間があります。 個人やスモールビジネス、あるいは教育やOSSプロダクトなどは継続して無料版のPersonalを利用できるようですが、従業員数250人以上/年間売...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +231,6 @@
         <link href="https://www.asahi.com/articles/ASP8Z3VS9P8WPTLC001.html"/>
         <updated>2021-09-02T00:14:03.000Z</updated>
         <summary type="html"><![CDATA[トラックの荷台からショベルカーを下ろす際に機体ごと転落し、運転していた作業員が死亡する事故が6月、高松市内であった。高さのある荷台からスロープなどを使わず、アームを地面につけて機体を支えながら下ろす「裏技」的な操作を誤ったとみられ、高松労働基準監督署の監督官は「想定外で危険な方法」と驚く。決して推...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音楽フェス「スーパーソニック」延期を主催者側に要望 千葉市 | 新型コロナウイルス | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210902/k10013237801000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210902/k10013237801000.html"/>
-        <updated>2021-09-01T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[今月、千葉市で開催される音楽フェスティバル「スーパーソニック」について、感染状況を踏まえ千葉市が主催者側に延期するよう要望したことが分かりました。 「スーパーソニック」は「サマソニ」の愛称で知られる音楽フェスティバル「サマーソニック」の名称をことしだけ変更したもので、今月18日と19日の2日間、千葉市...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T09:12:18.740Z</id>
+    <id>urn:2021-09-02T10:13:50.385Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T09:12:18.741Z</updated>
+    <updated>2021-09-02T10:13:50.385Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013239311000.html"/>
         <updated>2021-09-02T07:51:05.000Z</updated>
         <summary type="html"><![CDATA[東京都は2日、都内で新たに3099人が新型コロナウイルスに感染していることを確認したと発表しました。 また、都は、感染が確認された10人が死亡したことを明らかにしました。 東京都は2日、都内で新たに10歳未満から90代までの男女合わせて3099人が新型コロナウイルスに感染していることを確認したと発表しました。 1週...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パラリンピック 学校連携観戦 引率教諭感染の学校で生徒ら陽性 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210902/k10013239111000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210902/k10013239111000.html"/>
+        <updated>2021-09-02T06:47:52.000Z</updated>
+        <summary type="html"><![CDATA[東京パラリンピックの「学校連携観戦」を引率した教諭などの感染が確認されていた、千葉市の市立中学校で、新たに生徒2人、教諭2人の合わせて4人が検査で陽性となったことがわかりました。 千葉市内の市立中学校では、8月29日までに30代から50代の教諭6人が新型コロナの検査で陽性となり、このうち2人は25日に行われた東...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHC韓国法人が撤退表明　会長のコリアン差別発言で不買運動 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210902/k00/00m/030/172000c</id>
+        <link href="https://mainichi.jp/articles/20210902/k00/00m/030/172000c"/>
+        <updated>2021-09-02T06:39:39.000Z</updated>
+        <summary type="html"><![CDATA[化粧品会社ディーエイチシー（DHC）が、韓国からの撤退を決めた。同社の韓国法人「DHCコリア」が1日、「良い製品とサービスでお客様に満足していただくように努力したが、残念ながら、韓国国内での営業を終了することとなった」と公式ホームページ（HP）で表明した。DHCは2002年に韓国市場に進出していた。 DHCは、創業...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -126,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[カスガ on Twitter: "私、世代的に「敵にも敵の事情があり、民衆が巨大ロボットの足元で死んでいくようなリアルな戦争を描いたロボットアニメは、ガンダムが最初だった」みたいなリアルロボット史観を無邪気に信じてたんで、ボルテスVやザンボット３を初めて見たときは… https://t.co/FZzQata0pN"]]></title>
-        <id>https://twitter.com/kasuga391/status/1431296196669165568</id>
-        <link href="https://twitter.com/kasuga391/status/1431296196669165568"/>
-        <updated>2021-09-01T23:24:27.000Z</updated>
-        <summary type="html"><![CDATA[私、世代的に「敵にも敵の事情があり、民衆が巨大ロボットの足元で死んでいくようなリアルな戦争を描いたロボットアニメは、ガンダムが最初だった」みたいなリアルロボット史観を無邪気に信じてたんで、ボルテスVやザンボット３を初めて見たときは… https://t.co/FZzQata0pN]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[音楽フェス「スーパーソニック」延期を主催者側に要望 千葉市 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210902/k10013237801000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013237801000.html"/>
@@ -151,16 +161,6 @@
         <link href="https://news.yahoo.co.jp/articles/9b458391dd85165af65101043f0d280e4d90a1bd"/>
         <updated>2021-09-01T22:38:34.000Z</updated>
         <summary type="html"><![CDATA[指定暴力団山口組（神戸市）が傘下の構成員に対し、公共の場で銃器を使わないよう通達を出したことが関係者への取材でわかった。特定危険指定暴力団工藤会（北九州市）の組員が市民を襲撃した事件をめぐり、最高幹部の刑事責任を認める判決を福岡地裁が言い渡したことを受けた対応とみられる。 【画像】余裕見せた暴力団...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[池袋暴走事故きょう判決 90歳被告“無罪主張” 裁判所の判断は | 事故 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210902/k10013237981000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210902/k10013237981000.html"/>
-        <updated>2021-09-01T21:43:51.000Z</updated>
-        <summary type="html"><![CDATA[東京 池袋で車を暴走させて母親と子どもを死亡させたほか、9人に重軽傷を負わせた罪に問われている90歳の被告に2日、東京地方裁判所で判決が言い渡されます。被告は運転にミスはなかったと無罪を主張していて、裁判所の判断が注目されます。 おととし4月、東京 池袋で車が暴走し ▽松永真菜さん（31）と ▽長女の莉子ちゃ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T02:22:37.552Z</id>
+    <id>urn:2021-09-02T03:12:53.924Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T02:22:37.552Z</updated>
+    <updated>2021-09-02T03:12:53.924Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,26 @@
         <link href="https://comic-days.com/episode/3269754496432828238"/>
         <updated>2021-09-02T01:10:16.000Z</updated>
         <summary type="html"><![CDATA[コミックDAYSは正規版配信サイトマークを取得したサービスです。 © KODANSHA Ltd. All rights reserved. このサイトのデータの著作権は講談社が保有します。無断複製転載放送等は禁止します。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、書籍などアプリ規約変更　日本の公取委調査受け: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOGN020CC0S1A900C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOGN020CC0S1A900C2000000/"/>
+        <updated>2021-09-02T00:23:22.000Z</updated>
+        <summary type="html"><![CDATA[【シリコンバレー=白石武志】米アップルは1日、同社のアプリストアについて反競争的行為がないかを調べていた日本の公正取引委員会と調査終了で合意したと発表した。2022年に全世界で規約の一部を変更し、書籍や音楽、動画などのコンテンツを閲覧する「リーダーアプリ」について15～30%の配信手数料を回避しやすくするこ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ショベルカー「裏技」操作で死亡事故　ネットでは「神業」と紹介も：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8Z3VS9P8WPTLC001.html</id>
+        <link href="https://www.asahi.com/articles/ASP8Z3VS9P8WPTLC001.html"/>
+        <updated>2021-09-02T00:14:03.000Z</updated>
+        <summary type="html"><![CDATA[トラックの荷台からショベルカーを下ろす際に機体ごと転落し、運転していた作業員が死亡する事故が6月、高松市内であった。高さのある荷台からスロープなどを使わず、アームを地面につけて機体を支えながら下ろす「裏技」的な操作を誤ったとみられ、高松労働基準監督署の監督官は「想定外で危険な方法」と驚く。決して推...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +51,16 @@
         <link href="https://news.yahoo.co.jp/articles/9b458391dd85165af65101043f0d280e4d90a1bd"/>
         <updated>2021-09-01T22:38:34.000Z</updated>
         <summary type="html"><![CDATA[指定暴力団山口組（神戸市）が傘下の構成員に対し、公共の場で銃器を使わないよう通達を出したことが関係者への取材でわかった。特定危険指定暴力団工藤会（北九州市）の組員が市民を襲撃した事件をめぐり、最高幹部の刑事責任を認める判決を福岡地裁が言い渡したことを受けた対応とみられる。 【画像】余裕見せた暴力団...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「名代富士そば」運営会社 雇用調整助成金を不正受給 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210902/k10013238021000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210902/k10013238021000.html"/>
+        <updated>2021-09-01T22:21:16.000Z</updated>
+        <summary type="html"><![CDATA[首都圏で立ち食いそば店を運営する会社が国の雇用調整助成金の一部を不正に受給していたことが分かり、厚生労働省がおよそ300万円の返還を命じる処分を行ったことが関係者への取材で分かりました。会社はすでに返還をしていて「コンプライアンス体制の確立に向けて引き続き努力したい」としています。 処分を受けたのは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -116,21 +146,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[女だけど女性が活躍してる企業は絶対応募しない]]></title>
-        <id>https://anond.hatelabo.jp/20210901184524</id>
-        <link href="https://anond.hatelabo.jp/20210901184524"/>
-        <updated>2021-09-01T13:34:31.000Z</updated>
-        <summary type="html"><![CDATA[「女性が働きやすい」「女性が活躍中」「女性比率○%以上」「育休取得○%」「女性管理職比率○%」 求人サイトを開くといかに女性社員が多いかの表記がズラッと並んでることが多いけど、過剰にそこをアピールしてる企業は絶対に応募しない。 まず女性の働きやすさ・育休の取りやすさははほぼイコールで独身の犠牲率なので、...]]></summary>
+        <title type="html"><![CDATA[日本銀行 on Twitter: "じゃーん！新一万円券 https://t.co/a7emAPkOOt https://t.co/9ZangzrnZB"]]></title>
+        <id>https://twitter.com/Bank_of_Japan_j/status/1433041960303042568</id>
+        <link href="https://twitter.com/Bank_of_Japan_j/status/1433041960303042568"/>
+        <updated>2021-09-01T14:29:04.000Z</updated>
+        <summary type="html"><![CDATA[じゃーん！新一万円券 https://t.co/a7emAPkOOt https://t.co/9ZangzrnZB]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[コロナ変異株の「ミュー株」を国内初確認 ｜ 共同通信]]></title>
-        <id>https://nordot.app/805789785971113984</id>
-        <link href="https://nordot.app/805789785971113984"/>
-        <updated>2021-09-01T13:25:51.000Z</updated>
-        <summary type="html"><![CDATA[厚生労働省は1日、新型コロナウイルスの変異株でコロンビア由来の「ミュー株」が、6月と7月に空港検疫で感染が判明した2人から確認されたと明らかにした。国内で初めての感染確認。]]></summary>
+        <title type="html"><![CDATA[女だけど女性が活躍してる企業は絶対応募しない]]></title>
+        <id>https://anond.hatelabo.jp/20210901184524</id>
+        <link href="https://anond.hatelabo.jp/20210901184524"/>
+        <updated>2021-09-01T13:34:31.000Z</updated>
+        <summary type="html"><![CDATA[「女性が働きやすい」「女性が活躍中」「女性比率○%以上」「育休取得○%」「女性管理職比率○%」 求人サイトを開くといかに女性社員が多いかの表記がズラッと並んでることが多いけど、過剰にそこをアピールしてる企業は絶対に応募しない。 まず女性の働きやすさ・育休の取りやすさははほぼイコールで独身の犠牲率なので、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker Desktop から podman に変えた - HsbtDiary(2021-09-01)]]></title>
-        <id>https://www.hsbt.org/diary/20210901.html</id>
-        <link href="https://www.hsbt.org/diary/20210901.html"/>
-        <updated>2021-09-01T12:23:46.000Z</updated>
-        <summary type="html"><![CDATA[■ Docker Desktop から podman に変えた 朝起きたら Docker Desktop が 4.0 になって、物々しい感じの表示が出たので調べてみたら、営利利用は課金してねということになったっぽい。 https://www.docker.com/blog/updating-product-subscriptions/ 最近は個人の開発でしか使ってないし OSS 利用とは言えるけど、会社関連...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[愛知野外音楽フェス「酒売らなければ損失」主催会社が県に釈明 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210901/k10013237631000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210901/k10013237631000.html"/>
@@ -196,7 +216,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「バ美肉」アニメ好きの20代新婚夫婦が女子高生を「殺害」した仰天の動機 (1/3) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
+        <title type="html"><![CDATA[「バ美肉」、アニメ好きの20代新婚夫婦が女子高生を「殺害」した仰天の動機 (1/3) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
         <id>https://dot.asahi.com/dot/photoarticle/2021090100071.html</id>
         <link href="https://dot.asahi.com/dot/photoarticle/2021090100071.html"/>
         <updated>2021-09-01T11:09:16.000Z</updated>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ジロウ on Twitter: "「家にPCないんです」という学生、年々増えてる。"]]></title>
-        <id>https://twitter.com/jiro6663/status/1432689560832528391</id>
-        <link href="https://twitter.com/jiro6663/status/1432689560832528391"/>
-        <updated>2021-09-01T04:38:27.000Z</updated>
-        <summary type="html"><![CDATA[「家にPCないんです」という学生、年々増えてる。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[糸井 重里 on Twitter: "ウーバーイーツ？って頼んだことないんだけど、配達してくれる人の服装の清潔感とかサンダル履き禁止とか自転車の汚れ方とかについてのルールはないみたいだね。"]]></title>
         <id>https://twitter.com/itoi_shigesato/status/1432568669951774722</id>
         <link href="https://twitter.com/itoi_shigesato/status/1432568669951774722"/>
         <updated>2021-09-01T03:50:56.000Z</updated>
         <summary type="html"><![CDATA[ウーバーイーツ？って頼んだことないんだけど、配達してくれる人の服装の清潔感とかサンダル履き禁止とか自転車の汚れ方とかについてのルールはないみたいだね。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行政文書をマークダウン化しよう！ところでマークダウンって何？｜METI-DX 経済産業省情報プロジェクト室]]></title>
-        <id>https://metidx-gov.note.jp/n/n2bd18b23dba3</id>
-        <link href="https://metidx-gov.note.jp/n/n2bd18b23dba3"/>
-        <updated>2021-09-01T02:56:31.000Z</updated>
-        <summary type="html"><![CDATA[最初に見つけたのがこのユーザー会さんのページです。こちらにマークダウンとは「文章の書き方」とあります。なるほど簡単。軽量マークアップ言語よりは、かなり柔らかくなりました。ただ、むしろ簡単になりすぎて今度は具体的なイメージが沸かないか？ 次に見つけたのは、こちらのブログです。 ここでは、「手軽にドキ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

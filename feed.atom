@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T11:10:16.709Z</id>
+    <id>urn:2021-09-02T12:19:16.579Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T11:10:16.709Z</updated>
+    <updated>2021-09-02T12:19:16.579Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[コロナ家族感染 “子を残し親が亡くなる” 相次ぐ親の重症化 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210902/k10013239701000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210902/k10013239701000.html"/>
+        <updated>2021-09-02T09:57:40.000Z</updated>
+        <summary type="html"><![CDATA[感染力が強い「デルタ株」が主流となる新型コロナウイルスの第5波では、子育て中の家庭で感染が広がり、親が重症化するケースが相次いでいます。首都圏にある大学病院では、子どもとともに感染し、重症化した夫婦に対して懸命な治療が続けられたものの、50代の夫が子を残して亡くなる事態が起きました。 川越市にある、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 10人死亡 3099人感染 11日連続で前週下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210902/k10013239311000.html</id>
@@ -56,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【独自】大使館が職員を口止めか　アフガン退避遅れ｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_international/articles/000227562.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_international/articles/000227562.html"/>
+        <updated>2021-09-02T06:06:12.000Z</updated>
+        <summary type="html"><![CDATA[1日、アフガニスタンにいる日本人らの自衛隊機による退避作戦を、「今回のオペレーションの最大の目標というのは、邦人を保護することでありました。そういう意味では、良かったというふうに思っています」と総括した、菅義偉総理大臣。 しかし、実際に出国できたのは、日本人1人だけで、約500人もの現地スタッフなどは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[池袋暴走母子死亡事故 90歳被告に禁錮5年の実刑判決 東京地裁 | 高齢ドライバー事故 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210902/k10013238711000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013238711000.html"/>
@@ -66,7 +86,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中野ブロードウェイのファンシーショップとまんだらけ #中野ブロードウェイ]]></title>
+        <title type="html"><![CDATA[中野ブロードウェイのファンシーショップとまんだらけ @mandarake]]></title>
         <id>https://anond.hatelabo.jp/20210902135525</id>
         <link href="https://anond.hatelabo.jp/20210902135525"/>
         <updated>2021-09-02T04:59:38.000Z</updated>
@@ -276,31 +296,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「楽天ポイント」発行数が年々加速　累計2.5兆ポイント突破で“楽天経済圏”拡大をアピール - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2109/01/news169.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2109/01/news169.html"/>
-        <updated>2021-09-01T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[「楽天ポイント」の累計発行数が2兆5000億ポイントを超えた。ポイント発行数が年々加速しているとして、楽天経済圏”の拡大をアピールしている。 楽天グループは9月1日、「楽天ポイント」の累計発行数が2兆5000億ポイントを超えたと発表した。ポイント発行数が年々増えていることに加え、過去12カ月間に2つ以上の楽天関連...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gの何が1番怖いかって]]></title>
         <id>https://anond.hatelabo.jp/20210901191911</id>
         <link href="https://anond.hatelabo.jp/20210901191911"/>
         <updated>2021-09-01T10:25:04.000Z</updated>
         <summary type="html"><![CDATA[飛ぼうと思えば飛べるくせに滅多に飛ばないところだよ。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TJO on Twitter: "旧ブログ時代に有志と「科学研究予算は『選択と集中』をやめて広く分散投資を」「事務校務の効率化で無駄な支出削減を」などの提言をまとめて総合科学技術会議と日本学術会議に出したら、「研究者の側から予算削減の言質を政府に与える反逆行為だ」と当時の偉い先生たちから迫害されたのを思い出した"]]></title>
-        <id>https://twitter.com/TJO_datasci/status/1432876352307281927</id>
-        <link href="https://twitter.com/TJO_datasci/status/1432876352307281927"/>
-        <updated>2021-09-01T09:16:38.000Z</updated>
-        <summary type="html"><![CDATA[旧ブログ時代に有志と「科学研究予算は『選択と集中』をやめて広く分散投資を」「事務校務の効率化で無駄な支出削減を」などの提言をまとめて総合科学技術会議と日本学術会議に出したら、「研究者の側から予算削減の言質を政府に与える反逆行為だ」と当時の偉い先生たちから迫害されたのを思い出した]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T15:13:07.283Z</id>
+    <id>urn:2021-09-02T16:19:59.699Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T15:13:07.283Z</updated>
+    <updated>2021-09-02T16:19:59.699Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://mainichi.jp/articles/20210902/k00/00m/040/261000c"/>
         <updated>2021-09-02T10:58:21.000Z</updated>
         <summary type="html"><![CDATA[光で化学反応を起こす「光触媒」を発見し、ノーベル賞候補にも名前が挙がる藤嶋昭・東京大特別栄誉教授（元東京理科大学長）が8月末に、自ら育成した研究チームと共に中国の上海理工大に移籍した。同大は今後、藤嶋氏を中心とした研究所を新設する。 財源不足などにより日本の研究環境が悪化する中で、産業競争力にも直...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1年半の苦労を台無しにする暴挙」　音楽4団体が「NAMIMONOGATARI」問題で共同声明 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2109/02/news159.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2109/02/news159.html"/>
+        <updated>2021-09-02T10:56:26.000Z</updated>
+        <summary type="html"><![CDATA[コンサートプロモーターズ協会、日本音楽制作者連盟、日本音楽事業者協会、日本音楽出版社協会の音楽4団体は9月2日、観客が密集していたと問題になっている「NAMIMONOGATARI 2021」などの主催者を非難する共同声明を発表した。 4団体によると、NAMIMONOGATARIを含む複数の野外フェス公演で感染拡大防止対策ガイドライン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -146,7 +156,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中野ブロードウェイのファンシーショップとまんだらけ @mandarake]]></title>
+        <title type="html"><![CDATA[中野ブロードウェイのファンシーショップとまんだらけ]]></title>
         <id>https://anond.hatelabo.jp/20210902135525</id>
         <link href="https://anond.hatelabo.jp/20210902135525"/>
         <updated>2021-09-02T04:59:38.000Z</updated>
@@ -271,16 +281,6 @@
         <link href="https://togetter.com/li/1768155"/>
         <updated>2021-09-01T15:24:22.000Z</updated>
         <summary type="html"><![CDATA[540 @peptide540 ローソンで名札が「ソラ」って人がいて、「変わった名前ですね」と言うと 「最近はフェイスブックやインスタで探し出して来る人がいらっしゃるのでLAWSONネームで働いている」とのこと 恐ろしい時代です。 2021-08-31 22:52:23]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皆さんの声を聞かせてください。皆さんの力を貸してください。 #ねえねえ尾身さん｜コロナ専門家有志の会 | COVID-PAGE]]></title>
-        <id>https://note.stopcovid19.jp/n/n0b078f2b3dce</id>
-        <link href="https://note.stopcovid19.jp/n/n0b078f2b3dce"/>
-        <updated>2021-09-01T14:40:37.000Z</updated>
-        <summary type="html"><![CDATA[有志の会の尾身です。 この1年半以上の間、世界中が新型コロナウイルスと戦ってきました。 目覚ましい研究の成果があり、重症化予防に有効なワクチンが実用化し、治療法も日々進化しています。 しかし、急激に感染が拡大し、感染者数や重症者数が高止まりになっている都市部では、新型コロナ以外の医療や他の病気の患者...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

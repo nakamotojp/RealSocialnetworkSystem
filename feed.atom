@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T13:19:08.585Z</id>
+    <id>urn:2021-09-02T14:11:43.225Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T13:19:08.585Z</updated>
+    <updated>2021-09-02T14:11:43.225Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013239701000.html"/>
         <updated>2021-09-02T09:57:40.000Z</updated>
         <summary type="html"><![CDATA[感染力が強い「デルタ株」が主流となる新型コロナウイルスの第5波では、子育て中の家庭で感染が広がり、親が重症化するケースが相次いでいます。首都圏にある大学病院では、子どもとともに感染し、重症化した夫婦に対して懸命な治療が続けられたものの、50代の夫が子を残して亡くなる事態が起きました。 川越市にある、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「本物の社畜」が生まれようとしている - シロクマの屑籠]]></title>
+        <id>https://p-shirokuma.hatenadiary.com/entry/20210902/1630575055</id>
+        <link href="https://p-shirokuma.hatenadiary.com/entry/20210902/1630575055"/>
+        <updated>2021-09-02T09:38:44.000Z</updated>
+        <summary type="html"><![CDATA[www3.nhk.or.jp 今週、NHKのサイトで"在宅勤務中も禁煙"を求める企業の動きについての報道があった。野村ホールディングスは、出社している社員に加えて在宅でリモートワークしている社員にも、就業時間中は禁煙を求めるのだという。 こうした動きは社員の健康の維持と生産性向上を図るねらいがあるとのことで、イオン、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +231,6 @@
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013237801000.html"/>
         <updated>2021-09-01T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[今月、千葉市で開催される音楽フェスティバル「スーパーソニック」について、感染状況を踏まえ千葉市が主催者側に延期するよう要望したことが分かりました。 「スーパーソニック」は「サマソニ」の愛称で知られる音楽フェスティバル「サマーソニック」の名称をことしだけ変更したもので、今月18日と19日の2日間、千葉市...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[産休申し出た途端「辞めて」　女性研究者が実験台を殴って耐えたのは：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP855HX2P7MULBJ007.html</id>
-        <link href="https://www.asahi.com/articles/ASP855HX2P7MULBJ007.html"/>
-        <updated>2021-09-01T21:31:32.000Z</updated>
-        <summary type="html"><![CDATA[ここで我慢しなければ次はない。絶対に、この人とケンカはできない――。そう自分に言い聞かせ、言い返したい思いをのみ込んだ。 生物系の分野でポスドク（博士研究員）をする女性は30代のとき、研究室の代表に産休を取りたいと申し出た。すると、がくぜんとする言葉が返ってきた。 「後釜決めたから、辞めて」 ショックだ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

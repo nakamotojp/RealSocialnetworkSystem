@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T03:12:53.924Z</id>
+    <id>urn:2021-09-02T04:15:59.982Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T03:12:53.924Z</updated>
+    <updated>2021-09-02T04:15:59.982Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.asahi.com/articles/ASP8Z3VS9P8WPTLC001.html"/>
         <updated>2021-09-02T00:14:03.000Z</updated>
         <summary type="html"><![CDATA[トラックの荷台からショベルカーを下ろす際に機体ごと転落し、運転していた作業員が死亡する事故が6月、高松市内であった。高さのある荷台からスロープなどを使わず、アームを地面につけて機体を支えながら下ろす「裏技」的な操作を誤ったとみられ、高松労働基準監督署の監督官は「想定外で危険な方法」と驚く。決して推...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カスガ on Twitter: "私、世代的に「敵にも敵の事情があり、民衆が巨大ロボットの足元で死んでいくようなリアルな戦争を描いたロボットアニメは、ガンダムが最初だった」みたいなリアルロボット史観を無邪気に信じてたんで、ボルテスVやザンボット３を初めて見たときは… https://t.co/FZzQata0pN"]]></title>
+        <id>https://twitter.com/kasuga391/status/1431296196669165568</id>
+        <link href="https://twitter.com/kasuga391/status/1431296196669165568"/>
+        <updated>2021-09-01T23:24:27.000Z</updated>
+        <summary type="html"><![CDATA[私、世代的に「敵にも敵の事情があり、民衆が巨大ロボットの足元で死んでいくようなリアルな戦争を描いたロボットアニメは、ガンダムが最初だった」みたいなリアルロボット史観を無邪気に信じてたんで、ボルテスVやザンボット３を初めて見たときは… https://t.co/FZzQata0pN]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -96,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ささがさん on Twitter: "【独自】コロナ病床30～50％に空き、尾身茂氏が理事長の公的病院　132億円の補助金「ぼったくり」 https://t.co/yY5u3AZPQY @dot_asahi_pubより 敢えて触れないでおこうかなと思ったけども ちょっと出鱈目な感じなので触れておく。"]]></title>
+        <id>https://twitter.com/sasaga012/status/1433049867207667715</id>
+        <link href="https://twitter.com/sasaga012/status/1433049867207667715"/>
+        <updated>2021-09-01T19:51:12.000Z</updated>
+        <summary type="html"><![CDATA[【独自】コロナ病床30～50％に空き、尾身茂氏が理事長の公的病院　132億円の補助金「ぼったくり」 https://t.co/yY5u3AZPQY @dot_asahi_pubより 敢えて触れないでおこうかなと思ったけども ちょっと出鱈目な感じなので触れておく。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[渡辺輝人 on Twitter: "法律の解釈からすると利根川みたいな「国会は開くがいつかは決まってない」は詭弁に過ぎなくて、期限が決まってないなら「すぐ」なんですよね。でも地元にいる国会議員が都合つけるのに少々は時間がいるだろう（合理的期間）ということで、自民党改… https://t.co/T4dAsvQO1u"]]></title>
         <id>https://twitter.com/nabeteru1Q78/status/1432891302618689538</id>
         <link href="https://twitter.com/nabeteru1Q78/status/1432891302618689538"/>
@@ -136,7 +156,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[皆さんの声を聞かせてください。皆さんの力を貸してください。｜コロナ専門家有志の会 | COVID-PAGE]]></title>
+        <title type="html"><![CDATA[皆さんの声を聞かせてください。皆さんの力を貸してください。 #ねえねえ尾身さん｜コロナ専門家有志の会 | COVID-PAGE]]></title>
         <id>https://note.stopcovid19.jp/n/n0b078f2b3dce</id>
         <link href="https://note.stopcovid19.jp/n/n0b078f2b3dce"/>
         <updated>2021-09-01T14:40:37.000Z</updated>
@@ -191,16 +211,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2109/01/news174.html"/>
         <updated>2021-09-01T13:08:00.000Z</updated>
         <summary type="html"><![CDATA[新たな中央官庁、「デジタル庁」が9月1日に発足した。「誰一人取り残さない、人に優しいデジタル化」の実現を目指すとして、まずは行政のデジタル化に取り組むとしている。ITに特化した官庁であることから、同日に公開した公式Webサイトの作りなどが、ITエンジニアなどの注目を集めている。 デジタル庁の公式サイトはPC...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン異物はステンレス　機器破片、製造過程で混入―モデルナ製・厚労省：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021090101150&amp;g=soc</id>
-        <link href="https://www.jiji.com/jc/article?k=2021090101150&amp;g=soc"/>
-        <updated>2021-09-01T12:33:07.000Z</updated>
-        <summary type="html"><![CDATA[ワクチン異物はステンレス　機器破片、製造過程で混入―モデルナ製・厚労省 2021年09月01日23時37分 米モデルナ製ワクチン 厚生労働省は１日、使用を見合わせていた米モデルナ社製の新型コロナウイルスワクチンに混入していた異物について、製造機器の破片でステンレスだったと発表した。同社などが詳しい成分と混入の経...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -271,16 +281,6 @@
         <link href="https://twitter.com/TJO_datasci/status/1432876352307281927"/>
         <updated>2021-09-01T09:16:38.000Z</updated>
         <summary type="html"><![CDATA[旧ブログ時代に有志と「科学研究予算は『選択と集中』をやめて広く分散投資を」「事務校務の効率化で無駄な支出削減を」などの提言をまとめて総合科学技術会議と日本学術会議に出したら、「研究者の側から予算削減の言質を政府に与える反逆行為だ」と当時の偉い先生たちから迫害されたのを思い出した]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会社のチャットで『いいねボタン』が「相手に失礼だ」と禁止になってしまった→その後ボタンそのものが禁止された - Togetter]]></title>
-        <id>https://togetter.com/li/1768019</id>
-        <link href="https://togetter.com/li/1768019"/>
-        <updated>2021-09-01T08:46:38.000Z</updated>
-        <summary type="html"><![CDATA[リンク www.microsoft.com Microsoft Teams | リモート ワークのためのコラボレーション ツール チームワークを実現する安全なコラボレーション プラットフォーム、Teams に無料でサインアップして、リモート ワーク、テレビ会議、インスタント メッセージング、グループ チャットのためのツールを入手できます。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

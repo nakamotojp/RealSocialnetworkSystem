@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://mainichi.jp/articles/20210902/k00/00m/040/261000c",
+          "author": null,
+          "description": "光で化学反応を起こす「光触媒」を発見し、ノーベル賞候補にも名前が挙がる藤嶋昭・東京大特別栄誉教授（元東京理科大学長）が8月末に、自ら育成した研究チームと共に中国の上海理工大に移籍した。同大は今後、藤嶋氏を中心とした研究所を新設する。 財源不足などにより日本の研究環境が悪化する中で、産業競争力にも直...",
+          "link": "https://mainichi.jp/articles/20210902/k00/00m/040/261000c",
+          "publishedOn": "2021-09-02T10:58:21.000Z",
+          "wordCount": 386,
+          "title": "光触媒「発見者」藤嶋昭氏と研究チーム、中国・上海理工大に移籍 | 毎日新聞"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210902/k10013239701000.html",
           "author": null,
           "description": "感染力が強い「デルタ株」が主流となる新型コロナウイルスの第5波では、子育て中の家庭で感染が広がり、親が重症化するケースが相次いでいます。首都圏にある大学病院では、子どもとともに感染し、重症化した夫婦に対して懸命な治療が続けられたものの、50代の夫が子を残して亡くなる事態が起きました。 川越市にある、...",
@@ -13,6 +22,15 @@
           "publishedOn": "2021-09-02T09:57:40.000Z",
           "wordCount": 28,
           "title": "コロナ家族感染 “子を残し親が亡くなる” 相次ぐ親の重症化 | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://note.com/hal_sk/n/n916a422caafd",
+          "author": null,
+          "description": "行政文章のMarkdown化、進めていきたい。公開時だけでなく、普段からMarkdownでやりとりできるといいんだけどな。Wordを使って文章作ってる人をターゲットにしたMarkdownエディタを作ってみたい。 HackMDでもまだ難しいイメージ。実務に寄せていく必要がある。https://t.co/3iVDjXVHcQ — Hal Seki (@hal_sk) August 31, ...",
+          "link": "https://note.com/hal_sk/n/n916a422caafd",
+          "publishedOn": "2021-09-02T08:10:47.000Z",
+          "wordCount": 188,
+          "title": "行政文章はMarkdownで管理できるか｜Hal Seki｜note"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210902/k10013239311000.html",
@@ -60,6 +78,15 @@
           "title": "【ミニレビュー】“50チャンネルに一発で飛べるリモコン”借りたら、長すぎた - AV Watch"
         },
         {
+          "id": "https://twitter.com/KAZE/status/1433268216235630599",
+          "author": null,
+          "description": "石倉洋子女史の「私はデジタルの専門家では無いが」は、恐らく「素人質問で恐縮なのですが」の類だぞ、気を付けろ。 Twitterの登録は2009年、自サイトは独自ドメインかつWPできっちり構築されており毎日更新、facebookでは… https://t.co/tBOQ1OxZrg",
+          "link": "https://twitter.com/KAZE/status/1433268216235630599",
+          "publishedOn": "2021-09-02T06:25:39.000Z",
+          "wordCount": 196,
+          "title": "K　A　Z　E　／　高　橋　賢　治 on Twitter: \"石倉洋子女史の「私はデジタルの専門家では無いが」は、恐らく「素人質問で恐縮なのですが」の類だぞ、気を付けろ。 Twitterの登録は2009年、自サイトは独自ドメインかつWPできっちり構築されており毎日更新、facebookでは… https://t.co/tBOQ1OxZrg\""
+        },
+        {
           "id": "https://news.tv-asahi.co.jp/news_international/articles/000227562.html",
           "author": null,
           "description": "1日、アフガニスタンにいる日本人らの自衛隊機による退避作戦を、「今回のオペレーションの最大の目標というのは、邦人を保護することでありました。そういう意味では、良かったというふうに思っています」と総括した、菅義偉総理大臣。 しかし、実際に出国できたのは、日本人1人だけで、約500人もの現地スタッフなどは...",
@@ -67,6 +94,15 @@
           "publishedOn": "2021-09-02T06:06:12.000Z",
           "wordCount": 33,
           "title": "【独自】大使館が職員を口止めか　アフガン退避遅れ｜テレ朝news-テレビ朝日のニュースサイト"
+        },
+        {
+          "id": "https://jp.reuters.com/article/china-tv-idJPKBN2FY02Y",
+          "author": null,
+          "description": "中国国家ラジオテレビ総局は２日付のオンライン通知で、文化プログラムの規制を強化すると表明した。写真は、上海市内の歩行者専用道路に設置された大型テレビ画面に映し出された習近平主席。２０１７年１０月２５日に撮影。（２０２１年　ロイター／Aly Song） ［北京　２日　ロイター］ - 中国政府は２日、娯楽産業へ...",
+          "link": "https://jp.reuters.com/article/china-tv-idJPKBN2FY02Y",
+          "publishedOn": "2021-09-02T06:02:38.000Z",
+          "wordCount": 26,
+          "title": "中国、娯楽産業の規制強化　高額報酬や「男らしくない」番組を批判 | ロイター"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210902/k10013238711000.html",
@@ -83,7 +119,7 @@
           "description": "ちょっと詳しいから頑張って書くよ。法律的なことはわかんないからお気持ち構文になるけど読んでくれたら嬉しいな。 Spank!というショップに置いてあるものが多岐にわたるので発端のツイートで「ファンシーショップ」とぼんやり説明してしまい、サンリオギフトゲートとか小学生向けのバラエティショップを頭に思い浮かべ...",
           "link": "https://anond.hatelabo.jp/20210902135525",
           "publishedOn": "2021-09-02T04:59:38.000Z",
-          "wordCount": 247,
+          "wordCount": 304,
           "title": "中野ブロードウェイのファンシーショップとまんだらけ @mandarake"
         },
         {
@@ -92,7 +128,7 @@
           "description": "はぁとふる倍国土 @keiichisennsei お下劣サイテーパロディー漫画家の田中圭一です。 ファンティアも始めました。作品情報、連載情報、その他の情報を発信していきますので、登録の方よろしくお願いします｡ fantia.jp/fanclubs/19234 facebook.com/keiichisennsei はぁとふる倍国土 @keiichisennsei アマプラで30年ぶり...",
           "link": "https://togetter.com/li/1768370",
           "publishedOn": "2021-09-02T04:52:55.000Z",
-          "wordCount": 1964,
+          "wordCount": 2068,
           "title": "エヴァがなかったら90年代を代表する作品になっていた？要素てんこ盛りSFコメディロボット戦艦アニメ『機動戦艦ナデシコ』の話 - Togetter"
         },
         {
@@ -155,7 +191,7 @@
           "description": "トラックの荷台からショベルカーを下ろす際に機体ごと転落し、運転していた作業員が死亡する事故が6月、高松市内であった。高さのある荷台からスロープなどを使わず、アームを地面につけて機体を支えながら下ろす「裏技」的な操作を誤ったとみられ、高松労働基準監督署の監督官は「想定外で危険な方法」と驚く。決して推...",
           "link": "https://www.asahi.com/articles/ASP8Z3VS9P8WPTLC001.html",
           "publishedOn": "2021-09-02T00:14:03.000Z",
-          "wordCount": 209,
+          "wordCount": 208,
           "title": "ショベルカー「裏技」操作で死亡事故　ネットでは「神業」と紹介も：朝日新聞デジタル"
         },
         {
@@ -168,31 +204,13 @@
           "title": "音楽フェス「スーパーソニック」延期を主催者側に要望 千葉市 | 新型コロナウイルス | NHKニュース"
         },
         {
-          "id": "https://news.yahoo.co.jp/articles/9b458391dd85165af65101043f0d280e4d90a1bd",
-          "author": null,
-          "description": "指定暴力団山口組（神戸市）が傘下の構成員に対し、公共の場で銃器を使わないよう通達を出したことが関係者への取材でわかった。特定危険指定暴力団工藤会（北九州市）の組員が市民を襲撃した事件をめぐり、最高幹部の刑事責任を認める判決を福岡地裁が言い渡したことを受けた対応とみられる。 【画像】余裕見せた暴力団...",
-          "link": "https://news.yahoo.co.jp/articles/9b458391dd85165af65101043f0d280e4d90a1bd",
-          "publishedOn": "2021-09-01T22:38:34.000Z",
-          "wordCount": 77,
-          "title": "山口組、構成員に「公共の場で銃使うな」　判決を意識か（朝日新聞デジタル） - Yahoo!ニュース"
-        },
-        {
           "id": "https://www.asahi.com/articles/ASP855HX2P7MULBJ007.html",
           "author": null,
           "description": "ここで我慢しなければ次はない。絶対に、この人とケンカはできない――。そう自分に言い聞かせ、言い返したい思いをのみ込んだ。 生物系の分野でポスドク（博士研究員）をする女性は30代のとき、研究室の代表に産休を取りたいと申し出た。すると、がくぜんとする言葉が返ってきた。 「後釜決めたから、辞めて」 ショックだ...",
           "link": "https://www.asahi.com/articles/ASP855HX2P7MULBJ007.html",
           "publishedOn": "2021-09-01T21:31:32.000Z",
-          "wordCount": 213,
+          "wordCount": 212,
           "title": "産休申し出た途端「辞めて」　女性研究者が実験台を殴って耐えたのは：朝日新聞デジタル"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210902/k10013238001000.html",
-          "author": null,
-          "description": "87歳の上皇さまは2日、昭和天皇と並び、確かな記録が残るとされる歴代の天皇の中で最高齢となられました。 昭和8年12月23日に生まれた上皇さまは、2日で生まれてから3万2031日となり、在位中に崩御した昭和天皇と並ぶ長寿となられました。 これは確かな記録が残るとされる飛鳥時代の推古天皇以降の天皇の中では最高齢と...",
-          "link": "https://www3.nhk.or.jp/news/html/20210902/k10013238001000.html",
-          "publishedOn": "2021-09-01T21:09:05.000Z",
-          "wordCount": 27,
-          "title": "上皇さま 歴代天皇の中で最高齢に | 皇室 | NHKニュース"
         },
         {
           "id": "https://twitter.com/sasaga012/status/1433049867207667715",
@@ -204,21 +222,12 @@
           "title": "ささがさん on Twitter: \"【独自】コロナ病床30～50％に空き、尾身茂氏が理事長の公的病院　132億円の補助金「ぼったくり」 https://t.co/yY5u3AZPQY @dot_asahi_pubより 敢えて触れないでおこうかなと思ったけども ちょっと出鱈目な感じなので触れておく。\""
         },
         {
-          "id": "https://twitter.com/nabeteru1Q78/status/1432891302618689538",
-          "author": null,
-          "description": "法律の解釈からすると利根川みたいな「国会は開くがいつかは決まってない」は詭弁に過ぎなくて、期限が決まってないなら「すぐ」なんですよね。でも地元にいる国会議員が都合つけるのに少々は時間がいるだろう（合理的期間）ということで、自民党改… https://t.co/T4dAsvQO1u",
-          "link": "https://twitter.com/nabeteru1Q78/status/1432891302618689538",
-          "publishedOn": "2021-09-01T18:21:01.000Z",
-          "wordCount": 196,
-          "title": "渡辺輝人 on Twitter: \"法律の解釈からすると利根川みたいな「国会は開くがいつかは決まってない」は詭弁に過ぎなくて、期限が決まってないなら「すぐ」なんですよね。でも地元にいる国会議員が都合つけるのに少々は時間がいるだろう（合理的期間）ということで、自民党改… https://t.co/T4dAsvQO1u\""
-        },
-        {
           "id": "https://maidonanews.jp/article/14429562",
           "author": null,
           "description": "たくさんもらった桃ちゃんたち🍑はアルミでぴったり覆って野菜室に入れとくと長持ちするってのやってみたら17日めでも全く変化なし。食べてみたけどNo problem. Twitterすごいな～桃農家さんによると1ヶ月でも大丈夫らしいんで...",
           "link": "https://maidonanews.jp/article/14429562",
           "publishedOn": "2021-09-01T17:05:15.000Z",
-          "wordCount": 237,
+          "wordCount": 238,
           "title": "桃を保存するライフハックに14万人が反応　意外なもので包むだけ…「1カ月位もちました」「早く知りたかったよぉ」｜まいどなニュース"
         },
         {
@@ -227,7 +236,7 @@
           "description": "伊藤　剛 @GoITO 「強い調子で叱り飛ばし、人格を傷つけるようなことを言えば、相手は一念発起し、やる気を出して成長する」というのは、現実にはまず起きないことなのだが、なぜこんなことが「効果がある」と思い込まれてしまったのか。 2017-08-28 23:59:00 最速配信研究会 山崎大輔 @yamaz 褒めると成績が下がって怒...",
           "link": "https://togetter.com/li/1768208",
           "publishedOn": "2021-09-01T16:31:51.000Z",
-          "wordCount": 865,
+          "wordCount": 871,
           "title": "「叱り飛ばせば、相手は一念発起し、やる気を出して成長する」→なぜこんなことが「効果がある」と思い込まれてしまったのか - Togetter"
         },
         {
@@ -236,7 +245,7 @@
           "description": "540 @peptide540 ローソンで名札が「ソラ」って人がいて、「変わった名前ですね」と言うと 「最近はフェイスブックやインスタで探し出して来る人がいらっしゃるのでLAWSONネームで働いている」とのこと 恐ろしい時代です。 2021-08-31 22:52:23",
           "link": "https://togetter.com/li/1768155",
           "publishedOn": "2021-09-01T15:24:22.000Z",
-          "wordCount": 1413,
+          "wordCount": 1425,
           "title": "ローソンで珍しい名前の名札の人がいて「変わった名前ですね」と聞いたら「最近はSNSで探し出す人がいるのでローソンネームで働いている」とのこと - Togetter"
         },
         {
@@ -249,21 +258,12 @@
           "title": "皆さんの声を聞かせてください。皆さんの力を貸してください。 #ねえねえ尾身さん｜コロナ専門家有志の会 | COVID-PAGE"
         },
         {
-          "id": "https://twitter.com/Bank_of_Japan_j/status/1433041960303042568",
-          "author": null,
-          "description": "じゃーん！新一万円券 https://t.co/a7emAPkOOt https://t.co/9ZangzrnZB",
-          "link": "https://twitter.com/Bank_of_Japan_j/status/1433041960303042568",
-          "publishedOn": "2021-09-01T14:29:04.000Z",
-          "wordCount": 196,
-          "title": "日本銀行 on Twitter: \"じゃーん！新一万円券 https://t.co/a7emAPkOOt https://t.co/9ZangzrnZB\""
-        },
-        {
           "id": "https://anond.hatelabo.jp/20210901184524",
           "author": null,
           "description": "「女性が働きやすい」「女性が活躍中」「女性比率○%以上」「育休取得○%」「女性管理職比率○%」 求人サイトを開くといかに女性社員が多いかの表記がズラッと並んでることが多いけど、過剰にそこをアピールしてる企業は絶対に応募しない。 まず女性の働きやすさ・育休の取りやすさははほぼイコールで独身の犠牲率なので、...",
           "link": "https://anond.hatelabo.jp/20210901184524",
           "publishedOn": "2021-09-01T13:34:31.000Z",
-          "wordCount": 581,
+          "wordCount": 591,
           "title": "女だけど女性が活躍してる企業は絶対応募しない"
         },
         {

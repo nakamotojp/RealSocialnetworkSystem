@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T22:12:11.140Z</id>
+    <id>urn:2021-09-02T23:12:26.054Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T22:12:11.140Z</updated>
+    <updated>2021-09-02T23:12:26.054Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,6 +26,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[差別的投稿の経緯・問題点・今後の方針 - 尾瀬ガイド協会]]></title>
+        <id>https://oze.guide/free/houshin</id>
+        <link href="https://oze.guide/free/houshin"/>
+        <updated>2021-09-02T14:21:55.000Z</updated>
+        <summary type="html"><![CDATA[令和３年９月２日 当協会公式アカウントによるTwitterにおける多数の差別的投稿に関して 尾瀬ガイド協会 会長　石塚　照久 このたびは、尾瀬ガイド協会（以下「当協会」といいます。）の公式Twitterアカウント（「［公式］尾瀬ガイド協会」@ozekouhou。以下「本件アカウント」といいます。）が複数の差別的な投稿を行っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全スタートアップ は、いますぐ社員研修にバトルグラウンド を導入すべきだ｜深津 貴之 (fladdict)｜note]]></title>
+        <id>https://note.com/fladdict/n/n9317a26ce225</id>
+        <link href="https://note.com/fladdict/n/n9317a26ce225"/>
+        <updated>2021-09-02T14:20:46.000Z</updated>
+        <summary type="html"><![CDATA[全スタートアップは、いますぐ社員研修にバトルグラウンド を導入すべきである。大事なことなので二回言ってみた。 この基本無料ゲームバトルグラウンド には、スタートアップ社員が学ぶべき全てが詰まっている。 ゲームをプレイするだけで様々なことが学べる。レバレッジ、メタゲーム、メガトレンド、シナジー、スケー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中国、タレント発掘番組を禁止 「男らしさ」奨励を放送局に命令　写真3枚　国際ニュース：AFPBB News]]></title>
         <id>https://www.afpbb.com/articles/-/3364529</id>
         <link href="https://www.afpbb.com/articles/-/3364529"/>
@@ -41,6 +61,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2109/02/news166.html"/>
         <updated>2021-09-02T12:24:22.000Z</updated>
         <summary type="html"><![CDATA[デジタル庁の事務方トップ「デジタル監」に就任した石倉洋子氏の発足式での発言が物議を呼んでいる。石倉デジタル監は報道陣との質疑応答で何を言っていたのか。一問一答形式でまとめた。石倉デジタル監はPythonに挑戦した経験もあるという。 菅政権の肝いり政策として、9月1日に発足したデジタル庁。その事務方トップ「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JestでTypeScriptを高速化する | miyauci.me]]></title>
+        <id>https://miyauchi.dev/ja/posts/speeding-up-jest/</id>
+        <link href="https://miyauchi.dev/ja/posts/speeding-up-jest/"/>
+        <updated>2021-09-02T11:58:21.000Z</updated>
+        <summary type="html"><![CDATA[JestでTypeScriptを高速化するJestでテストの高速化させる方法を紹介します。トランスフォーマーとしてesbuildやswcを紹介し、TypeScriptで遅くなりがちなトランスパイルを高速化させることで、テストを自体を高速化します。 はじめにesbuild の登場により、フロントエンドの世界は、開発環境により速度を求めるようにな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -131,16 +161,6 @@
         <link href="https://note.com/hal_sk/n/n916a422caafd"/>
         <updated>2021-09-02T08:10:47.000Z</updated>
         <summary type="html"><![CDATA[行政文章のMarkdown化、進めていきたい。公開時だけでなく、普段からMarkdownでやりとりできるといいんだけどな。Wordを使って文章作ってる人をターゲットにしたMarkdownエディタを作ってみたい。 HackMDでもまだ難しいイメージ。実務に寄せていく必要がある。https://t.co/3iVDjXVHcQ — Hal Seki (@hal_sk) August 31, ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任期満了選挙中の解散可能　政府：時事ドットコム]]></title>
-        <id>https://www.jiji.com/jc/article?k=2021090200709&amp;g=pol</id>
-        <link href="https://www.jiji.com/jc/article?k=2021090200709&amp;g=pol"/>
-        <updated>2021-09-02T08:07:30.000Z</updated>
-        <summary type="html"><![CDATA[任期満了選挙中の解散可能　政府 2021年09月02日15時27分 記者会見する加藤勝信官房長官＝１日、首相官邸 加藤勝信官房長官は２日の記者会見で、任期満了による衆院選の公示後、投開票日前に国会を召集して衆院解散は可能だとする見解を示した。公職選挙法３１条５項は「総選挙の期日の公示がなされた後、その期日前に衆...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,26 +271,6 @@
         <link href="https://freenance.net/media/interview/13005/"/>
         <updated>2021-09-02T03:20:04.000Z</updated>
         <summary type="html"><![CDATA[電気グルーヴはフジロックフェスティバル2021で最終日の大トリを務めました。復帰ステージになる予定だった昨年のフジロックが中止されたこともあり、観客を前にしたライブは実に2年半ぶり。石野卓球さんの「どうだ！ かっこいいだろ！ 電気グルーヴだ！」の雄叫びに、胸がいっぱいになったファンも多かったと思います。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ゲームシナリオ制作会社」ってそもそもどんな仕事をしているの？ ゲームシナリオ制作専門会社の社長たちが語る、業界のリアルな実情]]></title>
-        <id>https://news.denfaminicogamer.jp/interview/210902a</id>
-        <link href="https://news.denfaminicogamer.jp/interview/210902a"/>
-        <updated>2021-09-02T03:19:01.000Z</updated>
-        <summary type="html"><![CDATA[「ゲームシナリオ制作会社」ってそもそもどんな仕事をしているの？ ゲームシナリオ制作専門会社の社長たちが語る、業界のリアルな実情 2010年代は、ゲームシナリオ業界が大きく動いた10年だった。 詳しい事情については別稿をご一読いただければ幸いだが、ようはスマートフォンの普及に伴いシナリオ面を重視したゲームが...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私の黄泉黄泉最短ルート - にことがめ / 【読み切り】私の黄泉黄泉最短ルート | コミックDAYS]]></title>
-        <id>https://comic-days.com/episode/3269754496432828231</id>
-        <link href="https://comic-days.com/episode/3269754496432828231"/>
-        <updated>2021-09-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[コミックDAYSは正規版配信サイトマークを取得したサービスです。 © KODANSHA Ltd. All rights reserved. このサイトのデータの著作権は講談社が保有します。無断複製転載放送等は禁止します。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

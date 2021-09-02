@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T10:13:50.385Z</id>
+    <id>urn:2021-09-02T11:10:16.709Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T10:13:50.385Z</updated>
+    <updated>2021-09-02T11:10:16.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013239311000.html"/>
         <updated>2021-09-02T07:51:05.000Z</updated>
         <summary type="html"><![CDATA[東京都は2日、都内で新たに3099人が新型コロナウイルスに感染していることを確認したと発表しました。 また、都は、感染が確認された10人が死亡したことを明らかにしました。 東京都は2日、都内で新たに10歳未満から90代までの男女合わせて3099人が新型コロナウイルスに感染していることを確認したと発表しました。 1週...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイブックマーク検索の機能を強化し、検索結果の並び替えや絞り込みができるようになりました（PC版ブラウザ） - はてなブックマーク開発ブログ]]></title>
+        <id>https://bookmark.hatenastaff.com/entry/2021/09/02/160546</id>
+        <link href="https://bookmark.hatenastaff.com/entry/2021/09/02/160546"/>
+        <updated>2021-09-02T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもはてなブックマークをご利用いただきありがとうございます。 本日より、自分のブックマークした記事を検索できる機能「マイブックマーク検索」を強化し、検索結果をカスタマイズできるようになりました。 マイブックマークの検索結果を「保存した日の新しい（古い）順」もしくは「ブックマーク数の多い（少ない）...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -51,6 +61,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013238711000.html"/>
         <updated>2021-09-02T05:06:28.000Z</updated>
         <summary type="html"><![CDATA[おととし、東京 池袋で車を暴走させて、母親と子どもを死亡させたほか、9人に重軽傷を負わせた罪に問われた、90歳の被告に、東京地方裁判所は、禁錮5年の実刑判決を言い渡しました。 おととし4月、東京 池袋で車が暴走し、松永真菜さん（31）と長女の莉子ちゃん（3）が死亡したほか、9人が重軽傷を負った事故では、旧通...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中野ブロードウェイのファンシーショップとまんだらけ #中野ブロードウェイ]]></title>
+        <id>https://anond.hatelabo.jp/20210902135525</id>
+        <link href="https://anond.hatelabo.jp/20210902135525"/>
+        <updated>2021-09-02T04:59:38.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと詳しいから頑張って書くよ。法律的なことはわかんないからお気持ち構文になるけど読んでくれたら嬉しいな。 Spank!というショップに置いてあるものが多岐にわたるので発端のツイートで「ファンシーショップ」とぼんやり説明してしまい、サンリオギフトゲートとか小学生向けのバラエティショップを頭に思い浮かべ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -121,16 +141,6 @@
         <link href="https://comic-days.com/episode/3269754496432828238"/>
         <updated>2021-09-02T01:10:16.000Z</updated>
         <summary type="html"><![CDATA[コミックDAYSは正規版配信サイトマークを取得したサービスです。 © KODANSHA Ltd. All rights reserved. このサイトのデータの著作権は講談社が保有します。無断複製転載放送等は禁止します。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の公正取引委員会によるApp Storeの調査が終結 - Apple (日本)]]></title>
-        <id>https://www.apple.com/jp/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/</id>
-        <link href="https://www.apple.com/jp/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/"/>
-        <updated>2021-09-02T00:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、来年初めに世界中の「リーダー」アプリケーションのデベロッパが、アカウントの設定と管理を行うために外部ウェブサイトにリンクすることを可能にします カリフォルニア州、クパティーノ Appleは本日、公正取引委員会による調査を終了することになるApp Storeに導入するアップデートを発表しました。このアップ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -221,16 +231,6 @@
         <link href="https://togetter.com/li/1768208"/>
         <updated>2021-09-01T16:31:51.000Z</updated>
         <summary type="html"><![CDATA[伊藤　剛 @GoITO 「強い調子で叱り飛ばし、人格を傷つけるようなことを言えば、相手は一念発起し、やる気を出して成長する」というのは、現実にはまず起きないことなのだが、なぜこんなことが「効果がある」と思い込まれてしまったのか。 2017-08-28 23:59:00 最速配信研究会 山崎大輔 @yamaz 褒めると成績が下がって怒...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眞子さま、小室圭さんと事実上の駆け落ち婚へ（皇族では約60年ぶり2回目） : 市況かぶ全力２階建]]></title>
-        <id>https://kabumatome.doorblog.jp/archives/65984858.html</id>
-        <link href="https://kabumatome.doorblog.jp/archives/65984858.html"/>
-        <updated>2021-09-01T15:40:08.000Z</updated>
-        <summary type="html"><![CDATA[アル中2級@ryoma_banikuお姫様と庶民による禁断の恋。身分差やマスコミに引き裂かれても互いを想い続ける二人。そして最後は異国で結婚してハッピーエンド。 眞子さまと小室圭の一件、50年後にはロミジュリ顔負けのコテコテ純愛映画になって全米を泣かせてそう。 2021/09/01 19:36:54 https://www.youtube.com/watch?v=S...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

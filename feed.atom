@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T14:11:21.276Z</id>
+    <id>urn:2021-09-03T15:12:55.371Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T14:11:21.276Z</updated>
+    <updated>2021-09-03T15:12:55.371Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[数時間かかる週一リリースを毎日何度も爆速でできるようにするまで / CI/CD Conference 2021 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/k0kubun/cd-conference-2021</id>
+        <link href="https://speakerdeck.com/k0kubun/cd-conference-2021"/>
+        <updated>2021-09-03T09:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 数時間かかる週一リリースを 毎日何度も爆速で できるようにするまで @k0kubun / Takashi Kokubun - CI/CD Conference 2021 自己紹介 • GitHub, Twitter: @k0kubun • Treasure Data ◦ API: プラットフォーム 1年 ◦ SRE: デプロイ 1年 ◦ Backend: ストレージ 2年半 None 今日話すこと • なぜ継続的にリリース...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】小泉環境相 菅総理に不出馬進言 涙ながらに語る（TBS系（JNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/c0ecd3bdc0f467b9d5e576af9f755af5f879c5d6</id>
+        <link href="https://news.yahoo.co.jp/articles/c0ecd3bdc0f467b9d5e576af9f755af5f879c5d6"/>
+        <updated>2021-09-03T09:44:05.000Z</updated>
+        <summary type="html"><![CDATA[菅総理が自民党の総裁選挙に出馬しないと表明しましたが、小泉環境大臣は「あらゆる選択肢を提案するのが支えるものの務め」として出馬見送りも含めて進言していたことを明らかにしました。 【調査報道23時】8回着替えて5万円 コロナ補助金組織的不正受給の手口 小泉氏はこれまで菅総理の再選支持を明言し、連日1対1で会...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自民 野田聖子幹事長代行 総裁選立候補の意欲伝える | 2021自民党総裁選 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013242011000.html</id>
@@ -66,11 +86,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一之木 りさ/ライター on Twitter: "信じられないぐらい真面目に有益情報をまとめてしまったのでTwitterにもポストします。元歯科受付がガチで愛用する「推しデンタルケアグッズ」です。わかる人が見たらド定番ばかり。これマジのガチなので今すぐ真似して試してみてほしいしい… https://t.co/xW25pmjKQf"]]></title>
+        <id>https://twitter.com/rrisa_wp/status/1433423746547605504</id>
+        <link href="https://twitter.com/rrisa_wp/status/1433423746547605504"/>
+        <updated>2021-09-03T06:43:51.000Z</updated>
+        <summary type="html"><![CDATA[信じられないぐらい真面目に有益情報をまとめてしまったのでTwitterにもポストします。元歯科受付がガチで愛用する「推しデンタルケアグッズ」です。わかる人が見たらド定番ばかり。これマジのガチなので今すぐ真似して試してみてほしいしい… https://t.co/xW25pmjKQf]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[デジタル庁事務方トップ石倉デジタル監 画像サンプル無断使用 | IT・ネット | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013241131000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210903/k10013241131000.html"/>
         <updated>2021-09-03T05:48:57.000Z</updated>
         <summary type="html"><![CDATA[デジタル庁の事務方トップにあたる「デジタル監」に就任した石倉洋子氏が自身のウェブサイトで、インターネット上の画像サンプルを無断で使用していたことがデジタル庁などへの取材でわかりました。 無断で画像のサンプルが使用されていたのは、石倉デジタル監が個人で運営しているウェブサイトです。 ことし2月以降の記...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今の子どもを苦しめているのは、昔の常識を教える大人　植松努氏が実感した、日本教育の世界との“ズレ” - ログミーBiz]]></title>
+        <id>https://logmi.jp/business/articles/324932</id>
+        <link href="https://logmi.jp/business/articles/324932"/>
+        <updated>2021-09-03T05:35:24.000Z</updated>
+        <summary type="html"><![CDATA[学校は何をすべきなのか、どう組織を変えていくのか 坂本建一郎氏（以下、坂本）：みなさま今日はよろしくお願いいたします。申し込みは200人以上、本日もすでに100人以上の方が参加していると聞いています。私は時事通信の出版部門で出版事業部長をしている坂本と申します。 これまで、何度か「北フェス（北の教育文化...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,6 +206,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[発達障害の息子のために母が自作した"猫のノート"本人だけでなく、支援者も困らない愛と理解の深さが分かる一冊にグッと来る。 - Togetter]]></title>
+        <id>https://togetter.com/li/1768871</id>
+        <link href="https://togetter.com/li/1768871"/>
+        <updated>2021-09-03T02:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Yakkun @yakkun33 駅の近くで息子の大切な「猫のノート」を拾って下さった方ありがとうございました！駅員さんから電話があって無事手元に届きました。これが無いと1人で登校が出来ないので大変助かりました！ここに書いても伝わらないかもだけど、本当に本当にありがとうございました‼️ #おとしもの #発達障がい pic.twi...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[はてなに蔓延るバカの壁問題]]></title>
         <id>https://anond.hatelabo.jp/20210903110658</id>
         <link href="https://anond.hatelabo.jp/20210903110658"/>
@@ -186,41 +236,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[古典「平家物語」をアニメ化！山田尚子×吉田玲子×高野文子×サイエンスSARUで - コミックナタリー]]></title>
-        <id>https://natalie.mu/comic/news/443538</id>
-        <link href="https://natalie.mu/comic/news/443538"/>
-        <updated>2021-09-03T01:28:35.000Z</updated>
-        <summary type="html"><![CDATA[「平家物語」は琵琶法師により語り継がれた、平家一門の繁栄と衰亡を題材にした軍記物語。アニメでは河出書房新社より出版されている古川日出男訳を底本としている。監督を山田尚子、脚本を吉田玲子、キャラクター原案を高野文子、音楽を牛尾憲輔が担当。古川の小説「平家物語 犬王の巻」が原作の劇場アニメ「犬王」を手...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TVアニメ「平家物語」公式サイト]]></title>
         <id>https://heike-anime.asmik-ace.co.jp/</id>
         <link href="https://heike-anime.asmik-ace.co.jp/"/>
         <updated>2021-09-03T01:09:48.000Z</updated>
         <summary type="html"><![CDATA[確かに生きた人たちの、大切な物語に 真摯に向き合いたいと思いました。 「平家物語」は宇宙のように果てしない存在だと思っていましたが、とても色鮮やかで、実に情の深い作品でした。どうかみなさまの心に沁みていけますよう。 よろしくお願いいたします。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代の監視技術 - Telemetry技術のご紹介 - NTT Communications Engineers' Blog]]></title>
-        <id>https://engineers.ntt.com/entry/2021/09/02/162022</id>
-        <link href="https://engineers.ntt.com/entry/2021/09/02/162022"/>
-        <updated>2021-09-02T23:11:50.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、イノベーションセンターの三島です。 本記事では、次世代の監視技術として期待されるTelemetry技術についてご紹介します。 この記事について 本記事では下記の3点を共有します。 従来の監視技術が抱える課題とTelemetryの可能性 Telemetryの技術概要と、各社の実装状況 NTT Comのネットワーク上で検証し得ら...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファンタジー小説において、馬車で移動する時、どれくらいの時間と距離なら妥当なのか？ 実際に簡単に把握する方法をまとめ - Togetter]]></title>
-        <id>https://togetter.com/li/1768803</id>
-        <link href="https://togetter.com/li/1768803"/>
-        <updated>2021-09-02T23:00:49.000Z</updated>
-        <summary type="html"><![CDATA[美風慶伍＠戦記ファンタジー『旋風のルスト』＠改訂完了しました @johfushi @Gyopon 馬車基準で言うと、小走り程度で時速１０km、全力で時速４０km、お馬さんを１時間も全力で走らせるというのは考えられないから、１時間で安定して到達できるのは１０キロから１５キロくらい 半径として考えると半径１５kmの王国…… えら...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -241,25 +261,6 @@
         <link href="https://mainichi.jp/articles/20210903/k00/00m/010/009000c"/>
         <updated>2021-09-02T21:00:18.000Z</updated>
         <summary type="html"><![CDATA[政府の有識者会議「新型コロナウイルス感染症対策分科会」（尾身茂会長）が検討してきた、新型コロナのワクチンを2回接種した人の移動や行動に関する制限緩和の提言案が判明した。接種歴もしくは陰性の検査結果を提示すれば、「人に感染させるリスクが低い」として大規模イベントや会食への参加を容認する内容が含まれる...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【追記】商用画像を無断転載の嵐、「デジタル庁」事務方トップの石倉洋子さん公式サイトがとんでもないことに | Buzzap！]]></title>
-        <id>https://buzzap.jp/news/20210903-digital-yokoishikura-official-hp-photo-unauthorized-reproduction/</id>
-        <link href="https://buzzap.jp/news/20210903-digital-yokoishikura-official-hp-photo-unauthorized-reproduction/"/>
-        <updated>2021-09-02T17:37:37.000Z</updated>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter]]></title>
-        <id>https://togetter.com/li/1768559</id>
-        <link href="https://togetter.com/li/1768559"/>
-        <updated>2021-09-02T16:38:53.000Z</updated>
-        <summary type="html"><![CDATA[かなかわ @kanakawa12 管理者AI「人間は愚かだ。その上弱い。だからそれぞれの適性にあった職をこちらで用意し、栄養素を管理した食事を与え、病気もさせずに管理されている方が幸せなのだ」 主人公「それは違う！人間はどんな困難も乗り越えるべきなんだ！管理される幸せなど偽りだ！」 大衆「えっ？いや……？」 2021-09...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

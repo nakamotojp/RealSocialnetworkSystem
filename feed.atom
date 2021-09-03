@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T08:14:08.413Z</id>
+    <id>urn:2021-09-03T09:12:11.758Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T08:14:08.413Z</updated>
+    <updated>2021-09-03T09:12:11.758Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一見普通のUSBケーブルなのにキーボードで打ち込んだ内容をすべてWi-Fi経由で外部に送信してしまう「O.MGケーブル」が登場 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210903-o-mg-cable-leak-key-type/</id>
+        <link href="https://gigazine.net/news/20210903-o-mg-cable-leak-key-type/"/>
+        <updated>2021-09-03T03:28:47.000Z</updated>
+        <summary type="html"><![CDATA[一見すると普通のUSBケーブルですが、実際にPCに挿すと悪意のある挙動をしてハッキングの手助けをするというのが「O.MGケーブル」です。これまでも通常のUSBケーブルと見分けがつかないO.MGケーブルが発表されていたのですが、新たにPCのキーボードに打ち込んだ内容を保存するキーロガーを内蔵し、Wi-Fi経由で入力内容を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[子どもが出来たので仕事をください｜ヨッピー｜note]]></title>
         <id>https://note.com/yoppymodel/n/na526e5c2ac5e</id>
         <link href="https://note.com/yoppymodel/n/na526e5c2ac5e"/>
@@ -81,6 +91,16 @@
         <link href="https://togetter.com/li/1768856"/>
         <updated>2021-09-03T02:44:21.000Z</updated>
         <summary type="html"><![CDATA[エリザベ酢 @buckwheatpalace 同期がセーラーマーキュリーに憧れて髪色青にした！ってブルーブラックに染めていたのだけど「おじさんには見えない青(黒に見える)だから怒られないの！」って言っていて、そんなモスキート音聴こえないみたいなことあるんだと思った 2021-09-01 21:04:04]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてなに蔓延るバカの壁問題]]></title>
+        <id>https://anond.hatelabo.jp/20210903110658</id>
+        <link href="https://anond.hatelabo.jp/20210903110658"/>
+        <updated>2021-09-03T02:21:28.000Z</updated>
+        <summary type="html"><![CDATA[バカの壁という言葉が昔流行った。 情報化社会の黎明期、人同士のつながる量が加速度的に増えていくことで可視化された問題の一つだ。 当時は言葉の響きだけが独り歩きして、本そのものをちゃんと理解できた人は少なかった。 その反応は大きく分けて2つ。 「自分の言いたいことをはっきりと言ってくれた」と肯定的な反応...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -250,26 +270,6 @@
         <link href="https://www.afpbb.com/articles/-/3364529"/>
         <updated>2021-09-02T12:32:05.000Z</updated>
         <summary type="html"><![CDATA[中国・北京のショッピングモールにあるアイドル関連グッズ専門店（2021年9月21日撮影）。(c)JADE GAO / AFP 【9月2日 AFP】中国当局は2日、タレント発掘型リアリティー番組の放送を禁じ、男性をもっと男性的に見せる番組を制作するよう放送局に命じた。中国政府は、「不道徳な」ポップカルチャーが若者を堕落させている...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光触媒「発見者」藤嶋昭氏と研究チーム、中国・上海理工大に移籍 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210902/k00/00m/040/261000c</id>
-        <link href="https://mainichi.jp/articles/20210902/k00/00m/040/261000c"/>
-        <updated>2021-09-02T10:58:21.000Z</updated>
-        <summary type="html"><![CDATA[光で化学反応を起こす「光触媒」を発見し、ノーベル賞候補にも名前が挙がる藤嶋昭・東京大特別栄誉教授（元東京理科大学長）が8月末に、自ら育成した研究チームと共に中国の上海理工大に移籍した。同大は今後、藤嶋氏を中心とした研究所を新設する。 財源不足などにより日本の研究環境が悪化する中で、産業競争力にも直...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「本物の社畜」が生まれようとしている - シロクマの屑籠]]></title>
-        <id>https://p-shirokuma.hatenadiary.com/entry/20210902/1630575055</id>
-        <link href="https://p-shirokuma.hatenadiary.com/entry/20210902/1630575055"/>
-        <updated>2021-09-02T09:38:44.000Z</updated>
-        <summary type="html"><![CDATA[www3.nhk.or.jp 今週、NHKのサイトで"在宅勤務中も禁煙"を求める企業の動きについての報道があった。野村ホールディングスは、出社している社員に加えて在宅でリモートワークしている社員にも、就業時間中は禁煙を求めるのだという。 こうした動きは社員の健康の維持と生産性向上を図るねらいがあるとのことで、イオン、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

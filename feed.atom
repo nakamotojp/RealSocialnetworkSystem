@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T17:17:48.813Z</id>
+    <id>urn:2021-09-03T18:13:54.263Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T17:17:48.813Z</updated>
+    <updated>2021-09-03T18:13:54.263Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[久々に会社員やってみて「平日毎日8～9時間とか働くのって専業主婦がいることが前提に作られた仕組みなのではないか」と思った - Togetter]]></title>
+        <id>https://togetter.com/li/1769056</id>
+        <link href="https://togetter.com/li/1769056"/>
+        <updated>2021-09-03T11:07:41.000Z</updated>
+        <summary type="html"><![CDATA[ニカイドウレンジ @R_Nikaido 3億年ぶりに会社員やってみて思ったことなんですけど、平日毎日8～9時間とか働くのって「家で掃除や洗濯などやっておいてくれて夕食を用意して待っていてくれる専業主婦」がいることが前提に作られた仕組みなのではないでしょうか。 2021-09-02 14:00:26 ニカイドウレンジ @R_Nikaido あー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[濃厚接触者の妊婦 腹痛もPCR未検査で受診できず流産 三重 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013242071000.html</id>
@@ -291,16 +301,6 @@
         <link href="https://oze.guide/free/houshin"/>
         <updated>2021-09-02T14:21:55.000Z</updated>
         <summary type="html"><![CDATA[令和３年９月２日 当協会公式アカウントによるTwitterにおける多数の差別的投稿に関して 尾瀬ガイド協会 会長　石塚　照久 このたびは、尾瀬ガイド協会（以下「当協会」といいます。）の公式Twitterアカウント（「［公式］尾瀬ガイド協会」@ozekouhou。以下「本件アカウント」といいます。）が複数の差別的な投稿を行っ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「スーパーフォロー」のご紹介]]></title>
-        <id>https://blog.twitter.com/ja_jp/topics/product/2021/introducing-super-follows</id>
-        <link href="https://blog.twitter.com/ja_jp/topics/product/2021/introducing-super-follows"/>
-        <updated>2021-09-02T03:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Twitterは共通の興味関心を持つ人々がリアルな会話を楽しむ場所です。最強のスキンケアルーティーンや星占いに関するツイート、クスッと笑えるミームなどの素晴らしい会話がTwitter上に溢れています。私たちはTwitterがクリエイターと人をつなげる場所であり続けるために、会話を生み出している人々をサポートしたいと考...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

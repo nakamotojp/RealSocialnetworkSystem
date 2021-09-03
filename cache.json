@@ -6,6 +6,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://togetter.com/li/1769056",
+          "author": null,
+          "description": "ニカイドウレンジ @R_Nikaido 3億年ぶりに会社員やってみて思ったことなんですけど、平日毎日8～9時間とか働くのって「家で掃除や洗濯などやっておいてくれて夕食を用意して待っていてくれる専業主婦」がいることが前提に作られた仕組みなのではないでしょうか。 2021-09-02 14:00:26 ニカイドウレンジ @R_Nikaido あー...",
+          "link": "https://togetter.com/li/1769056",
+          "publishedOn": "2021-09-03T11:07:41.000Z",
+          "wordCount": 1012,
+          "title": "久々に会社員やってみて「平日毎日8～9時間とか働くのって専業主婦がいることが前提に作られた仕組みなのではないか」と思った - Togetter"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210903/k10013242071000.html",
           "author": null,
           "description": "三重県四日市市で、新型コロナウイルスに感染した夫の濃厚接触者と判断された妊娠中の女性が、腹痛などの症状が出たため医療機関を受診しようとしましたが、保健所の対応が追いつかずに、PCR検査を受けられなかったために受診できず、流産していたことがわかりました。 四日市市によりますと、8月下旬、市内の20代の男性...",
@@ -20,7 +29,7 @@
           "description": "Transcript 数時間かかる週一リリースを 毎日何度も爆速で できるようにするまで @k0kubun / Takashi Kokubun - CI/CD Conference 2021 自己紹介 • GitHub, Twitter: @k0kubun • Treasure Data ◦ API: プラットフォーム 1年 ◦ SRE: デプロイ 1年 ◦ Backend: ストレージ 2年半 None 今日話すこと • なぜ継続的にリリース...",
           "link": "https://speakerdeck.com/k0kubun/cd-conference-2021",
           "publishedOn": "2021-09-03T09:46:45.000Z",
-          "wordCount": 650,
+          "wordCount": 651,
           "title": "数時間かかる週一リリースを毎日何度も爆速でできるようにするまで / CI/CD Conference 2021 - Speaker Deck"
         },
         {
@@ -101,7 +110,7 @@
           "description": "まるこ@霞が関女子 @1mdHrIstFa0cGy3 辞めたくて仕方ない限界公務員@霞ヶ関(総合職)。細々と転職活動中。ツイートは個人のひとりごとです。本当かどうかわかりません。情報収集が中心です。通知は切っているのでお返事できないことが多いです、すみません。 まるこ@霞が関女子 @1mdHrIstFa0cGy3 デジ庁発足のなか、今日...",
           "link": "https://togetter.com/li/1768949",
           "publishedOn": "2021-09-03T06:56:26.000Z",
-          "wordCount": 962,
+          "wordCount": 995,
           "title": "デジタル庁が発足したが、霞ヶ関ではパソコンのメモリ不足でワードがクラッシュし手作業で200以上のファイルを分類してるとの噂 - Togetter"
         },
         {
@@ -191,7 +200,7 @@
           "description": "日本銀行 @Bank_of_Japan_j 日本銀行の公式アカウントです。日本銀行ホームページの更新情報をお知らせしています。なお、災害発生時などには、必要な情報を個別に発信する場合があります。 ＜本アカウントの運用方針＞boj.or.jp/snspolicy.htm/ boj.or.jp/index.html/ 朝日新聞デジタル @asahicom 新1万円札の実物を初...",
           "link": "https://togetter.com/li/1768851",
           "publishedOn": "2021-09-03T03:02:38.000Z",
-          "wordCount": 1383,
+          "wordCount": 1427,
           "title": "【ダサいことで評判の新紙幣】 → 外国人、こども、弱視者など多くの人が「読みやすい」ことを目指した結果です。 - Togetter"
         },
         {
@@ -209,7 +218,7 @@
           "description": "エリザベ酢 @buckwheatpalace 同期がセーラーマーキュリーに憧れて髪色青にした！ってブルーブラックに染めていたのだけど「おじさんには見えない青(黒に見える)だから怒られないの！」って言っていて、そんなモスキート音聴こえないみたいなことあるんだと思った 2021-09-01 21:04:04",
           "link": "https://togetter.com/li/1768856",
           "publishedOn": "2021-09-03T02:44:21.000Z",
-          "wordCount": 1042,
+          "wordCount": 1048,
           "title": "髪をブルーブラックに染めた同期「おじさんには見えない青だから怒られないの！」 加齢で見えにくくなる髪色で回避するライフハック - Togetter"
         },
         {
@@ -227,7 +236,7 @@
           "description": "バカの壁という言葉が昔流行った。 情報化社会の黎明期、人同士のつながる量が加速度的に増えていくことで可視化された問題の一つだ。 当時は言葉の響きだけが独り歩きして、本そのものをちゃんと理解できた人は少なかった。 その反応は大きく分けて2つ。 「自分の言いたいことをはっきりと言ってくれた」と肯定的な反応...",
           "link": "https://anond.hatelabo.jp/20210903110658",
           "publishedOn": "2021-09-03T02:21:28.000Z",
-          "wordCount": 180,
+          "wordCount": 181,
           "title": "はてなに蔓延るバカの壁問題"
         },
         {
@@ -254,7 +263,7 @@
           "description": "友人曰く、「全年齢向けにエロ描写があると嬉しい、ラッキーな感じがする」らしい。 自分は全く共感出来なかった。 ワイは、成人向け漫画を読む時と全年齢の漫画を読む時では全く違う感情を抱いている。成人向けはぶっちゃけ処理()出来ればいい、エロければいいが、全年齢には話の面白さを求める。 逆に言えば、エロ漫画...",
           "link": "https://anond.hatelabo.jp/20210815230512",
           "publishedOn": "2021-09-02T16:09:00.000Z",
-          "wordCount": 335,
+          "wordCount": 336,
           "title": "求めてないエロは嬉しくない"
         },
         {
@@ -265,15 +274,6 @@
           "publishedOn": "2021-09-02T14:21:55.000Z",
           "wordCount": 179,
           "title": "差別的投稿の経緯・問題点・今後の方針 - 尾瀬ガイド協会"
-        },
-        {
-          "id": "https://blog.twitter.com/ja_jp/topics/product/2021/introducing-super-follows",
-          "author": null,
-          "description": "Twitterは共通の興味関心を持つ人々がリアルな会話を楽しむ場所です。最強のスキンケアルーティーンや星占いに関するツイート、クスッと笑えるミームなどの素晴らしい会話がTwitter上に溢れています。私たちはTwitterがクリエイターと人をつなげる場所であり続けるために、会話を生み出している人々をサポートしたいと考...",
-          "link": "https://blog.twitter.com/ja_jp/topics/product/2021/introducing-super-follows",
-          "publishedOn": "2021-09-02T03:50:16.000Z",
-          "wordCount": 230,
-          "title": "「スーパーフォロー」のご紹介"
         }
       ]
     }

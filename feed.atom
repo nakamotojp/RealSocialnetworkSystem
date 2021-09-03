@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T11:10:13.757Z</id>
+    <id>urn:2021-09-03T12:19:08.598Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T11:10:13.757Z</updated>
+    <updated>2021-09-03T12:19:08.598Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ホリエモン、総裁選不出馬の菅首相は「非常に優れた首相だった」「公約はほとんど実行できている」（スポニチアネックス） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/97a672fb17d0062ef21c016207c1a5e63ef403d8</id>
+        <link href="https://news.yahoo.co.jp/articles/97a672fb17d0062ef21c016207c1a5e63ef403d8"/>
+        <updated>2021-09-03T09:17:44.000Z</updated>
+        <summary type="html"><![CDATA[実業家の堀江貴文氏（48）が3日、自身のYouTubeチャンネルを更新。菅義偉首相が自民党の次期総裁選に不出馬の意向を表明したことについて語った。 堀江氏は「すごいニュースが飛び込んで参りました」とこの話題を取り上げ、「二階（俊博）さんには、菅さんのカードの他に石破（茂）さんというカードも持ってるらしくて。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都 新型コロナ 2539人感染 12日連続前週同じ曜日下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013241151000.html</id>
@@ -56,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[いいコミットメッセージの共通点と書き方〜便利なテンプレートやチーム開発時のお作法まで詳しく解説〜   | PrAhaENGINEERLAB]]></title>
+        <id>https://www.praha-inc.com/lab/posts/commit-message</id>
+        <link href="https://www.praha-inc.com/lab/posts/commit-message"/>
+        <updated>2021-09-03T05:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Gitを用いた開発作業を行う際、意図がわからないメッセージのコミットを積み重ねていくと、コミットログを見る人の負担が増えたり、コミットログを活用する習慣がなくなっていき、開発効率の低下を招きます。このような課題を未然に防ぐために、読み手を意識した「いいコミットメッセージ」を書いていく必要がありますが...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「国は本気の痴漢対策を」高校生たちが署名活動｜NHK 首都圏のニュース]]></title>
         <id>https://www3.nhk.or.jp/shutoken-news/20210903/1000069755.html</id>
         <link href="https://www3.nhk.or.jp/shutoken-news/20210903/1000069755.html"/>
@@ -101,6 +121,16 @@
         <link href="https://note.com/yoppymodel/n/na526e5c2ac5e"/>
         <updated>2021-09-03T03:05:56.000Z</updated>
         <summary type="html"><![CDATA[こんにちは。 「あわてる乞食はもらいが少ない」の「あわてる乞食」ことヨッピーです。 ヤッP～～～～！ なんと、子どもが出来ました～～～～！ ピースピース！ 出産予定は10月です！ もう性別もわかってて男の子なのですが、「どうせなら、かっこよくて強そうで、かわいい名前がいいな」と思いましてね。 僕の苗字は「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ダサいことで評判の新紙幣】 → 外国人、こども、弱視者など多くの人が「読みやすい」ことを目指した結果です。 - Togetter]]></title>
+        <id>https://togetter.com/li/1768851</id>
+        <link href="https://togetter.com/li/1768851"/>
+        <updated>2021-09-03T03:02:38.000Z</updated>
+        <summary type="html"><![CDATA[朝日新聞デジタル @asahicom 新1万円札の実物を初披露、流通は24年度上期めど asahi.com/articles/ASP91… 2024年度上期をめどに市中に出回る予定の新紙幣。 国立印刷局東京工場で印刷が始まり、新1万円札の実物が初めてお披露目されました。 紙幣のデザインが変わるのは04年以来です。 pic.twitter.com/ORIJw9DueQ 2021-...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -255,41 +285,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全スタートアップ は、いますぐ社員研修にバトルグラウンド を導入すべきだ｜深津 貴之 (fladdict)｜note]]></title>
-        <id>https://note.com/fladdict/n/n9317a26ce225</id>
-        <link href="https://note.com/fladdict/n/n9317a26ce225"/>
-        <updated>2021-09-02T14:20:46.000Z</updated>
-        <summary type="html"><![CDATA[全スタートアップは、いますぐ社員研修にバトルグラウンド を導入すべきである。大事なことなので二回言ってみた。 この基本無料ゲームバトルグラウンド には、スタートアップ社員が学ぶべき全てが詰まっている。 ゲームをプレイするだけで様々なことが学べる。レバレッジ、メタゲーム、メガトレンド、シナジー、スケー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パラリンピックの「クラス分け」に批判 不公平で不正の温床とも　写真4枚　国際ニュース：AFPBB News]]></title>
-        <id>https://www.afpbb.com/articles/-/3364459</id>
-        <link href="https://www.afpbb.com/articles/-/3364459"/>
-        <updated>2021-09-02T13:08:57.000Z</updated>
-        <summary type="html"><![CDATA[東京アクアティクスセンターで練習する米国のジェシカ・ロング（2021年8月23日撮影）。(c)Charly TRIBALLEAU / AFP 【9月2日 AFP】パラリンピックなどの障害者スポーツでは、障害の種類や程度に応じて選手を分類し、公平な競争を実現する「クラス分け」が大きな役割を果たすが、このところ批判の声が高まっている。 子ど...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[よねはらうさこ on Twitter: "性的なものが表にあることで起こる被害の話 https://t.co/zNVstS2fIJ"]]></title>
         <id>https://twitter.com/yoneharausako/status/1433044285113307137</id>
         <link href="https://twitter.com/yoneharausako/status/1433044285113307137"/>
         <updated>2021-09-02T09:12:58.000Z</updated>
         <summary type="html"><![CDATA[性的なものが表にあることで起こる被害の話 https://t.co/zNVstS2fIJ]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中共政権を覆す！台湾発ゲーム『逆統戦：地と海の革命者へ』日本語バージョン 予約注文]]></title>
-        <id>https://www.reversedfront.tw/product/46c60f8b-bbfb-4bc9-8db1-0a5f77ff71d2</id>
-        <link href="https://www.reversedfront.tw/product/46c60f8b-bbfb-4bc9-8db1-0a5f77ff71d2"/>
-        <updated>2021-09-02T07:54:53.000Z</updated>
-        <summary type="html"><![CDATA[事前登録はこちら： https://www.surveycake.com/s/pO7DW 当ガー無の予約購入は９月２７日から発売予定しており、購入ご希望の方は事前登録していただくことで、発売の時点で１割引で購入可能になります。 ※9月28日０時までにご購入の際にクーポンコードを入力すれば、１０％割引致します。上記期限が過ぎた場合、５％の...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

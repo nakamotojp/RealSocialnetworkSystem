@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T07:12:16.388Z</id>
+    <id>urn:2021-09-03T08:14:08.413Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T07:12:16.388Z</updated>
+    <updated>2021-09-03T08:14:08.413Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】河野行改相　総裁選出馬の意向固める（TBS系（JNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/95e253e74307d1a3246539160a4e8374a8a39158</id>
+        <link href="https://news.yahoo.co.jp/articles/95e253e74307d1a3246539160a4e8374a8a39158"/>
+        <updated>2021-09-03T07:24:13.000Z</updated>
+        <summary type="html"><![CDATA[菅総理が自民党総裁選挙への出馬を見送ることを表明したことを受け、河野行政改革担当大臣が総裁選へ出馬する意向を固めました。 記者、タリバン報道官に問う「あなたが言うことと現場で起きていることに乖離がある」【インタビューロング版】 河野大臣は既に若手の議員らを中心に出馬に必要な推薦人となるよう要請を始...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「国は本気の痴漢対策を」高校生たちが署名活動｜NHK 首都圏のニュース]]></title>
         <id>https://www3.nhk.or.jp/shutoken-news/20210903/1000069755.html</id>
@@ -26,11 +36,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相、自民党総裁選に立候補せず　役員会で表明：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP933WF4P93UTFK00L.html</id>
-        <link href="https://www.asahi.com/articles/ASP933WF4P93UTFK00L.html"/>
-        <updated>2021-09-03T03:13:29.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相（自民党総裁）は3日午前に開かれた党役員会で、今月に予定されていた党総裁選に立候補しないことを表明した。出席者によると、首相は「コロナ対策に専念する。総裁選には出馬しない」と語ったという。役員人事もしない考えを示した。 総裁選をめぐっては、岸田文雄前政調会長が立候補する考えを表明。コロナ...]]></summary>
+        <title type="html"><![CDATA[電池いらずの「プラレール」登場　62年の歴史で初 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2109/03/news098.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2109/03/news098.html"/>
+        <updated>2021-09-03T03:30:43.000Z</updated>
+        <summary type="html"><![CDATA[タカラトミーは9月3日、電池を使わず電動走行する「プラレール」を発表した。「E5系新幹線はやぶさ」と「E6系新幹線こまち」を各4180円（税込）で10月21日に発売する。 車体を床やテーブルの上で前後に動かし、車輪を回転させると発電する。約30秒間のチャージで正円に組んだレールを5周から6周、電動走行するという（約...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[『ONEPIECE』作者・尾田栄一郎氏、完結への決意「物語は終盤です。」　連載24年目で100巻到達 | ORICON NEWS]]></title>
+        <id>https://www.oricon.co.jp/news/2205575/full/</id>
+        <link href="https://www.oricon.co.jp/news/2205575/full/"/>
+        <updated>2021-09-02T22:34:53.000Z</updated>
+        <summary type="html"><![CDATA[ホーム（ORICON NEWS） アニメ&ゲーム TOP アニメ 『ONE PIECE』作者・尾田栄一郎氏、完結への決意「物語は終盤です。」 連載24年目で100巻到達 人気漫画『ONE PIECE』（ワンピース）のコミックス第100巻が3日、発売された。連載24年目で大台となる100巻に到達したことを記念して、3日付の朝日新聞、読売新聞、毎日新聞...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ABBAが40年ぶりに新曲公開 世界的ポップグループが活動再開 | エンタメ | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013240101000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210903/k10013240101000.html"/>
@@ -161,26 +181,6 @@
         <link href="https://www.afpbb.com/articles/-/3364589"/>
         <updated>2021-09-02T20:51:32.000Z</updated>
         <summary type="html"><![CDATA[アフガニスタン・ヘラートで女性たちが行った、女子教育や女性の就労を求めるデモ（2021年9月2日撮影）。(c)AFP 【9月3日 AFP】アフガニスタン西部ヘラート（Herat）で2日、女性たちが異例の街頭デモを行い、イスラム主義組織タリバン（Taliban）の支配下でも娘たちが学校に通えるならば、全身を覆う衣服「ブルカ」の着...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国「共同富裕」に向けアリババ1.7兆円投入へ 指導部に追従 | 中国 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210903/k10013240121000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210903/k10013240121000.html"/>
-        <updated>2021-09-02T19:41:53.000Z</updated>
-        <summary type="html"><![CDATA[中国の習近平指導部が、企業に寄付などを促し貧富の差を是正する「共同富裕」という目標を掲げる中、ネット通販最大手のアリババグループは、この目標に貢献するため、2025年までに日本円で1兆7000億円を投入する方針を示しました。 中国の習近平指導部は先月開いた会議で、貧富の差を是正し、すべての人が豊かになる「...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[藤本タツキ先生のマンガ『ルックバック』が単行本で発売。「変更されたセリフ表現」に反応する声ぞくぞく - Togetter]]></title>
-        <id>https://togetter.com/li/1768768</id>
-        <link href="https://togetter.com/li/1768768"/>
-        <updated>2021-09-02T17:38:13.000Z</updated>
-        <summary type="html"><![CDATA[林士平（りんしへい） @SHIHEILIN 集英社/少年ジャンプ＋/漫画編集者/チェンソーマン/SPY×FAMILY/HEART GEAR/ダンダダン/神のまにまに 担当中。過去立上げ作品は青の祓魔師/この音とまれ！/ファイアパンチ/怪物事変/左ききのエレン/地獄楽/カッコカワイイ宣言！/貧乏神が！/ドリキャン‼/ムーンランド/ルックバック 他 am...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

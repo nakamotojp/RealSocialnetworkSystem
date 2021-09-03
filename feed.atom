@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T13:18:45.262Z</id>
+    <id>urn:2021-09-03T14:11:21.276Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T13:18:45.262Z</updated>
+    <updated>2021-09-03T14:11:21.276Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,17 +20,17 @@
         <id>https://news.yahoo.co.jp/articles/97a672fb17d0062ef21c016207c1a5e63ef403d8</id>
         <link href="https://news.yahoo.co.jp/articles/97a672fb17d0062ef21c016207c1a5e63ef403d8"/>
         <updated>2021-09-03T09:17:44.000Z</updated>
-        <summary type="html"><![CDATA[実業家の堀江貴文氏（48）が3日、自身のYouTubeチャンネルを更新。菅義偉首相が自民党の次期総裁選に不出馬の意向を表明したことについて語った。 堀江氏は「すごいニュースが飛び込んで参りました」とこの話題を取り上げ、「二階（俊博）さんには、菅さんのカードの他に石破（茂）さんというカードも持ってるらしくて。...]]></summary>
+        <summary type="html"><![CDATA[実業家の堀江貴文氏（48）が3日、自身のYouTubeチャンネルを更新。菅義偉首相が自民党の次期総裁選に不出馬の意向を表明したことについて語った。 【写真】緊急事態宣言の8道県追加などを決め、記者会見する菅首相＝8月25日、首相官邸 堀江氏は「すごいニュースが飛び込んで参りました」とこの話題を取り上げ、「二階（...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 2539人感染 12日連続前週同じ曜日下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[東京都 新型コロナ 10人死亡 2539人感染 12日連続前週下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013241151000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210903/k10013241151000.html"/>
         <updated>2021-09-03T07:47:59.000Z</updated>
-        <summary type="html"><![CDATA[東京都は3日、都内で新たに2539人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の金曜日より1688人減り、12日連続で前の週の同じ曜日を下回りました。一方、都の基準で集計した3日時点の重症の患者は2日より13人減って278人でした。 東京都 小池知事「2週間後の状況を変えるのは今」 都内の...]]></summary>
+        <summary type="html"><![CDATA[東京都内では3日、新たに2539人が新型コロナウイルスに感染していることが確認されました。また、都は、感染が確認された10人が死亡したことを明らかにし、このうち、1人暮らしの50代の女性が自宅療養中に亡くなりました。このほか、入院患者が4339人とこれまでで最も多くなりました。 東京都は3日、都内で新たに10歳未...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -46,7 +46,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ワクチンの「40~50代飛ばし」に関するメモ｜yuco｜note]]></title>
+        <title type="html"><![CDATA[ワクチンの「40~50代飛ばし」に関するメモ (1) ７月中旬からのニュースなど｜yuco｜note]]></title>
         <id>https://note.com/yuco/n/n2208374215f8</id>
         <link href="https://note.com/yuco/n/n2208374215f8"/>
         <updated>2021-09-03T07:20:04.000Z</updated>

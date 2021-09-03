@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T15:12:55.371Z</id>
+    <id>urn:2021-09-03T16:18:04.631Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T15:12:55.371Z</updated>
+    <updated>2021-09-03T16:18:04.631Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[濃厚接触者の妊婦 腹痛もPCR未検査で受診できず流産 三重 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210903/k10013242071000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210903/k10013242071000.html"/>
+        <updated>2021-09-03T10:54:12.000Z</updated>
+        <summary type="html"><![CDATA[三重県四日市市で、新型コロナウイルスに感染した夫の濃厚接触者と判断された妊娠中の女性が、腹痛などの症状が出たため医療機関を受診しようとしましたが、保健所の対応が追いつかずに、PCR検査を受けられなかったために受診できず、流産していたことがわかりました。 四日市市によりますと、8月下旬、市内の20代の男性...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数時間かかる週一リリースを毎日何度も爆速でできるようにするまで / CI/CD Conference 2021 - Speaker Deck]]></title>
         <id>https://speakerdeck.com/k0kubun/cd-conference-2021</id>
@@ -31,6 +41,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210903/k10013242011000.html"/>
         <updated>2021-09-03T09:24:25.000Z</updated>
         <summary type="html"><![CDATA[自民党総裁選挙をめぐり野田聖子幹事長代行は3日午後、複数の自民党議員に対し立候補の意欲を伝えました。 菅総理大臣が自民党の臨時役員会で総裁選挙に立候補しないと表明したことを受け、野田聖子幹事長代行は3日午後、複数の自民党議員と会談するなどして立候補への意欲を伝えました。 野田氏はこれまで総裁選挙に女...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dan Kogai on Twitter: "だから本邦の抱えている問題はDXのはるか手前なんだってば。記者の質問にまともに答えない大臣、墨塗りだらけの開示文書、公文書破棄…そういう「政府しぐさ」を改めずして何がデジタルだと言うのだ⁉︎ https://t.co/xW2a9UfKOt"]]></title>
+        <id>https://twitter.com/dankogai/status/1433705385743962115</id>
+        <link href="https://twitter.com/dankogai/status/1433705385743962115"/>
+        <updated>2021-09-03T09:19:29.000Z</updated>
+        <summary type="html"><![CDATA[だから本邦の抱えている問題はDXのはるか手前なんだってば。記者の質問にまともに答えない大臣、墨塗りだらけの開示文書、公文書破棄…そういう「政府しぐさ」を改めずして何がデジタルだと言うのだ⁉︎ https://t.co/xW2a9UfKOt]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -81,6 +101,16 @@
         <link href="https://twitter.com/mas__yamazaki/status/1433049130784280576"/>
         <updated>2021-09-03T07:05:09.000Z</updated>
         <summary type="html"><![CDATA[紙幣のデザインが、どんどん安っぽくなっていく。 全体のバランスとか、何も考えずに適当に配列したかのような素人臭さ。 国力とは、こういう仕事をきちんとできる能力のことでもある。国力の衰退を感じる。 https://t.co/rI7gDTiQwM]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁が発足したが、霞ヶ関ではパソコンのメモリ不足でワードがクラッシュし手作業で200以上のファイルを分類してるとの噂 - Togetter]]></title>
+        <id>https://togetter.com/li/1768949</id>
+        <link href="https://togetter.com/li/1768949"/>
+        <updated>2021-09-03T06:56:26.000Z</updated>
+        <summary type="html"><![CDATA[まるこ@霞が関女子 @1mdHrIstFa0cGy3 辞めたくて仕方ない限界公務員@霞ヶ関(総合職)。細々と転職活動中。ツイートは個人のひとりごとです。本当かどうかわかりません。情報収集が中心です。通知は切っているのでお返事できないことが多いです、すみません。 まるこ@霞が関女子 @1mdHrIstFa0cGy3 デジ庁発足のなか、今日...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -180,17 +210,17 @@
         <id>https://togetter.com/li/1768851</id>
         <link href="https://togetter.com/li/1768851"/>
         <updated>2021-09-03T03:02:38.000Z</updated>
-        <summary type="html"><![CDATA[朝日新聞デジタル @asahicom 新1万円札の実物を初披露、流通は24年度上期めど asahi.com/articles/ASP91… 2024年度上期をめどに市中に出回る予定の新紙幣。 国立印刷局東京工場で印刷が始まり、新1万円札の実物が初めてお披露目されました。 紙幣のデザインが変わるのは04年以来です。 pic.twitter.com/ORIJw9DueQ 2021-...]]></summary>
+        <summary type="html"><![CDATA[日本銀行 @Bank_of_Japan_j 日本銀行の公式アカウントです。日本銀行ホームページの更新情報をお知らせしています。なお、災害発生時などには、必要な情報を個別に発信する場合があります。 ＜本アカウントの運用方針＞boj.or.jp/snspolicy.htm/ boj.or.jp/index.html/ 朝日新聞デジタル @asahicom 新1万円札の実物を初...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅首相 自民総裁選に立候補せず 総裁任期満了に伴い首相辞任か | 2021自民党総裁選 | NHKニュース]]></title>
+        <title type="html"><![CDATA[菅首相 自民総裁選に立候補せず 総裁任期満了に伴い首相退任へ | 2021自民党総裁選 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013240781000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210903/k10013240781000.html"/>
         <updated>2021-09-03T02:51:29.000Z</updated>
-        <summary type="html"><![CDATA[菅総理大臣は自民党の臨時の役員会で今月行われる自民党総裁選挙に立候補しないことを表明しました。これにより今月末に総裁としての任期が満了するのに伴い、総理大臣を辞任する意向とみられます。 自民党は3日午前11時半すぎから党本部で臨時の役員会を開き、およそ10分ほどで終了しました。 出席者によりますと、この...]]></summary>
+        <summary type="html"><![CDATA[菅総理大臣は自民党の臨時の役員会で今月行われる自民党総裁選挙に立候補しないことを表明しました。これにより今月末に総裁としての任期が満了するのに伴い、総理大臣を退任することになります。 自民党は3日午前11時半すぎから党本部で臨時の役員会を開き、およそ10分ほどで終了しました。 出席者によりますと、この中...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -246,26 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『ONEPIECE』作者・尾田栄一郎氏、完結への決意「物語は終盤です。」　連載24年目で100巻到達 | ORICON NEWS]]></title>
-        <id>https://www.oricon.co.jp/news/2205575/full/</id>
-        <link href="https://www.oricon.co.jp/news/2205575/full/"/>
-        <updated>2021-09-02T22:34:53.000Z</updated>
-        <summary type="html"><![CDATA[ホーム（ORICON NEWS） アニメ&ゲーム TOP アニメ 『ONE PIECE』作者・尾田栄一郎氏、完結への決意「物語は終盤です。」 連載24年目で100巻到達 人気漫画『ONE PIECE』（ワンピース）のコミックス第100巻が3日、発売された。連載24年目で大台となる100巻に到達したことを記念して、3日付の朝日新聞、読売新聞、毎日新聞...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン2回接種後の制限緩和、専門家間で賛否　分科会の提言案判明 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210903/k00/00m/010/009000c</id>
-        <link href="https://mainichi.jp/articles/20210903/k00/00m/010/009000c"/>
-        <updated>2021-09-02T21:00:18.000Z</updated>
-        <summary type="html"><![CDATA[政府の有識者会議「新型コロナウイルス感染症対策分科会」（尾身茂会長）が検討してきた、新型コロナのワクチンを2回接種した人の移動や行動に関する制限緩和の提言案が判明した。接種歴もしくは陰性の検査結果を提示すれば、「人に感染させるリスクが低い」として大規模イベントや会食への参加を容認する内容が含まれる...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[求めてないエロは嬉しくない]]></title>
         <id>https://anond.hatelabo.jp/20210815230512</id>
         <link href="https://anond.hatelabo.jp/20210815230512"/>
@@ -281,16 +291,6 @@
         <link href="https://oze.guide/free/houshin"/>
         <updated>2021-09-02T14:21:55.000Z</updated>
         <summary type="html"><![CDATA[令和３年９月２日 当協会公式アカウントによるTwitterにおける多数の差別的投稿に関して 尾瀬ガイド協会 会長　石塚　照久 このたびは、尾瀬ガイド協会（以下「当協会」といいます。）の公式Twitterアカウント（「［公式］尾瀬ガイド協会」@ozekouhou。以下「本件アカウント」といいます。）が複数の差別的な投稿を行っ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[よねはらうさこ on Twitter: "性的なものが表にあることで起こる被害の話 https://t.co/zNVstS2fIJ"]]></title>
-        <id>https://twitter.com/yoneharausako/status/1433044285113307137</id>
-        <link href="https://twitter.com/yoneharausako/status/1433044285113307137"/>
-        <updated>2021-09-02T09:12:58.000Z</updated>
-        <summary type="html"><![CDATA[性的なものが表にあることで起こる被害の話 https://t.co/zNVstS2fIJ]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

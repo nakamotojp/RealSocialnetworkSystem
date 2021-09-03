@@ -6,13 +6,31 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/87dff18b5deab6c52c196da6f3f74bc8589f652c",
+          "author": null,
+          "description": "さきほど開かれた自民党の臨時役員会で菅総理が今月下旬に予定さてていた自民党総裁選に出馬しない意向を表明しました。週明けに予定されていた党役員人事の刷新についても行わないということです。 【調査報道23時】8回着替えて5万円 コロナ補助金組織的不正受給の手口",
+          "link": "https://news.yahoo.co.jp/articles/87dff18b5deab6c52c196da6f3f74bc8589f652c",
+          "publishedOn": "2021-09-03T02:58:34.000Z",
+          "wordCount": 71,
+          "title": "【速報】菅首相 総裁選立候補断念（TBS系（JNN）） - Yahoo!ニュース"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210903/k10013240781000.html",
           "author": null,
-          "description": "菅総理大臣は自民党の臨時の役員会で今月行われる自民党総裁選挙に立候補しないことを表明しました。これにより、今月末に総裁の任期が満了することに伴い、総理大臣を辞任する意向とみられます。",
+          "description": "菅総理大臣は自民党の臨時の役員会で今月行われる自民党総裁選挙に立候補しないことを表明しました。これにより今月末に総裁としての任期が満了するのに伴い、総理大臣を辞任する意向とみられます。 自民党は3日午前11時半すぎから党本部で臨時の役員会を開き、およそ10分ほどで終了しました。 出席者によりますと、この...",
           "link": "https://www3.nhk.or.jp/news/html/20210903/k10013240781000.html",
           "publishedOn": "2021-09-03T02:51:29.000Z",
-          "wordCount": 28,
-          "title": "菅首相 自民党総裁選に立候補せず 自民党臨時役員会で表明 | 2021自民党総裁選 | NHKニュース"
+          "wordCount": 77,
+          "title": "菅首相 自民総裁選に立候補せず 総裁任期満了に伴い首相辞任か | 2021自民党総裁選 | NHKニュース"
+        },
+        {
+          "id": "https://twitter.com/yokoishikura/status/1433608422939717667",
+          "author": null,
+          "description": "石倉洋子です。全く私の不注意でした。お詫びします。大変申し訳ありませんでした。至急対応いたします。 https://t.co/SYIahsdSqS",
+          "link": "https://twitter.com/yokoishikura/status/1433608422939717667",
+          "publishedOn": "2021-09-03T01:53:09.000Z",
+          "wordCount": 196,
+          "title": "Yoko Ishikura on Twitter: \"石倉洋子です。全く私の不注意でした。お詫びします。大変申し訳ありませんでした。至急対応いたします。 https://t.co/SYIahsdSqS\""
         },
         {
           "id": "https://natalie.mu/comic/news/443538",
@@ -20,7 +38,7 @@
           "description": "「平家物語」は琵琶法師により語り継がれた、平家一門の繁栄と衰亡を題材にした軍記物語。アニメでは河出書房新社より出版されている古川日出男訳を底本としている。監督を山田尚子、脚本を吉田玲子、キャラクター原案を高野文子、音楽を牛尾憲輔が担当。古川の小説「平家物語 犬王の巻」が原作の劇場アニメ「犬王」を手...",
           "link": "https://natalie.mu/comic/news/443538",
           "publishedOn": "2021-09-03T01:28:35.000Z",
-          "wordCount": 465,
+          "wordCount": 467,
           "title": "古典「平家物語」をアニメ化！山田尚子×吉田玲子×高野文子×サイエンスSARUで - コミックナタリー"
         },
         {
@@ -31,6 +49,15 @@
           "publishedOn": "2021-09-03T01:09:48.000Z",
           "wordCount": 13,
           "title": "TVアニメ「平家物語」公式サイト"
+        },
+        {
+          "id": "https://ymotongpoo.hatenablog.com/entry/seeking-sre",
+          "author": null,
+          "description": "はじめに こんにちは、Cloud Operations担当者です。このたび私が監訳者として関わった「SREの探求―様々な企業におけるサイトリライアビリティエンジニアリングの導入と実践」という本がオライリー・ジャパン社より出版されました。本日より書店ならびに各社オンラインストアでご購入いただけます。 SREの探求 ―様々な企...",
+          "link": "https://ymotongpoo.hatenablog.com/entry/seeking-sre",
+          "publishedOn": "2021-09-03T00:03:25.000Z",
+          "wordCount": 409,
+          "title": "「SREの探求」という本が出版されました #seekingsre - YAMAGUCHI::weblog"
         },
         {
           "id": "https://engineers.ntt.com/entry/2021/09/02/162022",
@@ -47,7 +74,7 @@
           "description": "美風慶伍＠戦記ファンタジー『旋風のルスト』＠改訂完了しました @johfushi @Gyopon 馬車基準で言うと、小走り程度で時速１０km、全力で時速４０km、お馬さんを１時間も全力で走らせるというのは考えられないから、１時間で安定して到達できるのは１０キロから１５キロくらい 半径として考えると半径１５kmの王国…… えら...",
           "link": "https://togetter.com/li/1768803",
           "publishedOn": "2021-09-02T23:00:49.000Z",
-          "wordCount": 1221,
+          "wordCount": 1370,
           "title": "ファンタジー小説において、馬車で移動する時、どれくらいの時間と距離なら妥当なのか？ 実際に簡単に把握する方法をまとめ - Togetter"
         },
         {
@@ -65,7 +92,7 @@
           "description": "政府の有識者会議「新型コロナウイルス感染症対策分科会」（尾身茂会長）が検討してきた、新型コロナのワクチンを2回接種した人の移動や行動に関する制限緩和の提言案が判明した。接種歴もしくは陰性の検査結果を提示すれば、「人に感染させるリスクが低い」として大規模イベントや会食への参加を容認する内容が含まれる...",
           "link": "https://mainichi.jp/articles/20210903/k00/00m/010/009000c",
           "publishedOn": "2021-09-02T21:00:18.000Z",
-          "wordCount": 466,
+          "wordCount": 467,
           "title": "ワクチン2回接種後の制限緩和、専門家間で賛否　分科会の提言案判明 | 毎日新聞"
         },
         {
@@ -74,7 +101,7 @@
           "description": "アフガニスタン・ヘラートで女性たちが行った、女子教育や女性の就労を求めるデモ（2021年9月2日撮影）。(c)AFP 【9月3日 AFP】アフガニスタン西部ヘラート（Herat）で2日、女性たちが異例の街頭デモを行い、イスラム主義組織タリバン（Taliban）の支配下でも娘たちが学校に通えるならば、全身を覆う衣服「ブルカ」の着...",
           "link": "https://www.afpbb.com/articles/-/3364589",
           "publishedOn": "2021-09-02T20:51:32.000Z",
-          "wordCount": 151,
+          "wordCount": 150,
           "title": "アフガン女性らが異例のデモ タリバンに権利尊重求め　写真7枚　国際ニュース：AFPBB News"
         },
         {
@@ -92,7 +119,7 @@
           "description": "",
           "link": "https://buzzap.jp/news/20210903-digital-yokoishikura-official-hp-photo-unauthorized-reproduction/",
           "publishedOn": "2021-09-02T17:37:37.000Z",
-          "wordCount": 380,
+          "wordCount": 381,
           "title": "【追記】商用画像を無断転載の嵐、「デジタル庁」事務方トップの石倉洋子さん公式サイトがとんでもないことに | Buzzap！"
         },
         {
@@ -101,8 +128,17 @@
           "description": "かなかわ @kanakawa12 管理者AI「人間は愚かだ。その上弱い。だからそれぞれの適性にあった職をこちらで用意し、栄養素を管理した食事を与え、病気もさせずに管理されている方が幸せなのだ」 主人公「それは違う！人間はどんな困難も乗り越えるべきなんだ！管理される幸せなど偽りだ！」 大衆「えっ？いや……？」 2021-09...",
           "link": "https://togetter.com/li/1768559",
           "publishedOn": "2021-09-02T16:38:53.000Z",
-          "wordCount": 1521,
+          "wordCount": 1657,
           "title": "AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210815230512",
+          "author": null,
+          "description": "友人曰く、「全年齢向けにエロ描写があると嬉しい、ラッキーな感じがする」らしい。 自分は全く共感出来なかった。 ワイは、成人向け漫画を読む時と全年齢の漫画を読む時では全く違う感情を抱いている。成人向けはぶっちゃけ処理()出来ればいい、エロければいいが、全年齢には話の面白さを求める。 逆に言えば、エロ漫画...",
+          "link": "https://anond.hatelabo.jp/20210815230512",
+          "publishedOn": "2021-09-02T16:09:00.000Z",
+          "wordCount": 127,
+          "title": "求めてないエロは嬉しくない"
         },
         {
           "id": "https://www.asahi.com/articles/ASP927TZVP92UTIL04K.html",
@@ -110,7 +146,7 @@
           "description": "自民党神奈川県連の土井隆典幹事長は2日、総裁選に向けた会合後、記者団の取材に応じ、衆院神奈川2区選出の菅義偉首相について、「何とか支えたい気持ちもあるが、目の前の衆院選を勝つにはどうするか考えないといけない。総裁選が行われる中で党員の声をしっかりと受け止めたい。県連としては特に、菅さんを頼むという...",
           "link": "https://www.asahi.com/articles/ASP927TZVP92UTIL04K.html",
           "publishedOn": "2021-09-02T15:06:52.000Z",
-          "wordCount": 207,
+          "wordCount": 212,
           "title": "総裁選で菅首相の応援しない　おひざ元、自民神奈川県連幹事長が発言：朝日新聞デジタル"
         },
         {
@@ -132,30 +168,12 @@
           "title": "全スタートアップ は、いますぐ社員研修にバトルグラウンド を導入すべきだ｜深津 貴之 (fladdict)｜note"
         },
         {
-          "id": "https://togetter.com/li/1768534",
-          "author": null,
-          "description": "新田祐助@もしローコミカライズ2巻発売中 @singekijyosei 兼業作家です。「もしロールプレイングゲームの世界にSNSがあったら」（電撃だいおうじコミカライズ：原作）小説：amzn.to/2VjbxfL コミック：cutt.ly/leXDfj9 他「聖刻 -BEYOND-」「鎮守府空母のLINE事情」など。Vtuber助子は落ち着いたら再開します。 singekij...",
-          "link": "https://togetter.com/li/1768534",
-          "publishedOn": "2021-09-02T13:58:47.000Z",
-          "wordCount": 650,
-          "title": "「この女の子からお前の声がするんじゃが」VTuberをしている作家さんの元に、親族から地獄絵図な写真が送られてくる事態に… - Togetter"
-        },
-        {
-          "id": "https://ics.media/entry/210902/",
-          "author": null,
-          "description": "いずれもMITライセンスで公開されていますので、個人・商用問わず利用可能です。 Slick.js Slickスリック.jsは簡潔なコードで実装できるのが特徴のモバイルフレンドリーなカルーセルライブラリです。機能は少なめですが、ナビゲーションや表示するスライド数を変更するといった基本的な機能は備わっています。jQueryプラ...",
-          "link": "https://ics.media/entry/210902/",
-          "publishedOn": "2021-09-02T13:42:20.000Z",
-          "wordCount": 550,
-          "title": "カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介 - ICS MEDIA"
-        },
-        {
           "id": "https://www.afpbb.com/articles/-/3364459",
           "author": null,
           "description": "東京アクアティクスセンターで練習する米国のジェシカ・ロング（2021年8月23日撮影）。(c)Charly TRIBALLEAU / AFP 【9月2日 AFP】パラリンピックなどの障害者スポーツでは、障害の種類や程度に応じて選手を分類し、公平な競争を実現する「クラス分け」が大きな役割を果たすが、このところ批判の声が高まっている。 子ど...",
           "link": "https://www.afpbb.com/articles/-/3364459",
           "publishedOn": "2021-09-02T13:08:57.000Z",
-          "wordCount": 158,
+          "wordCount": 157,
           "title": "パラリンピックの「クラス分け」に批判 不公平で不正の温床とも　写真4枚　国際ニュース：AFPBB News"
         },
         {
@@ -164,17 +182,8 @@
           "description": "中国・北京のショッピングモールにあるアイドル関連グッズ専門店（2021年9月21日撮影）。(c)JADE GAO / AFP 【9月2日 AFP】中国当局は2日、タレント発掘型リアリティー番組の放送を禁じ、男性をもっと男性的に見せる番組を制作するよう放送局に命じた。中国政府は、「不道徳な」ポップカルチャーが若者を堕落させている...",
           "link": "https://www.afpbb.com/articles/-/3364529",
           "publishedOn": "2021-09-02T12:32:05.000Z",
-          "wordCount": 152,
+          "wordCount": 151,
           "title": "中国、タレント発掘番組を禁止 「男らしさ」奨励を放送局に命令　写真3枚　国際ニュース：AFPBB News"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
-          "author": null,
-          "description": "デジタル庁の事務方トップ「デジタル監」に就任した石倉洋子氏の発足式での発言が物議を呼んでいる。石倉デジタル監は報道陣との質疑応答で何を言っていたのか。一問一答形式でまとめた。石倉デジタル監はPythonに挑戦した経験もあるという。 菅政権の肝いり政策として、9月1日に発足したデジタル庁。その事務方トップ「...",
-          "link": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
-          "publishedOn": "2021-09-02T12:24:22.000Z",
-          "wordCount": 156,
-          "title": "「私はデジタルの専門家でもエンジニアでもない」――石倉洋子デジタル監の発言が話題に　質疑での発言全文 - ITmedia NEWS"
         },
         {
           "id": "https://miyauchi.dev/ja/posts/speeding-up-jest/",
@@ -191,7 +200,7 @@
           "description": "若い世代の「価値観」は新たな環境の変化でどんどん進化を繰り返すといわれます。「おひとりさま」や「草食系男子」「年の差婚」などの言葉を世に広めたマーケティングライターの牛窪恵さんが、「さとり世代」や「Z世代」の考え方、ものの見方について読み解きます。 みなさん、こんにちは。 マーケティングライターで、...",
           "link": "https://bizble.asahi.com/articles/2021083100028.html",
           "publishedOn": "2021-09-02T11:46:25.000Z",
-          "wordCount": 300,
+          "wordCount": 298,
           "title": "ゆとり世代は「コスパ」、Z世代は「タムパ」若者の「価値観」は進化する！ | bizble（ビズブル）"
         },
         {
@@ -211,6 +220,15 @@
           "publishedOn": "2021-09-02T10:56:26.000Z",
           "wordCount": 152,
           "title": "「1年半の苦労を台無しにする暴挙」　音楽4団体が「NAMIMONOGATARI」問題で共同声明 - ITmedia NEWS"
+        },
+        {
+          "id": "https://togetter.com/li/1768518",
+          "author": null,
+          "description": "Testosterone @badassceo 「あぁ、この人話通じないな」って感じの人に出会ってしまったら2秒で諦めて感情をオフにしよう。わかり合おうと思って誠実に対応すると体力も感情もゴッソリ持っていかれる。わかり合うには双方の歩み寄りが必要で、相手にその気がないならわかり合うとか無理。宇宙人か何かだと思って諦めちゃ...",
+          "link": "https://togetter.com/li/1768518",
+          "publishedOn": "2021-09-02T10:27:52.000Z",
+          "wordCount": 834,
+          "title": "「話が通じないな」って感じの人と出会ったら宇宙人だと思って2秒で理解を諦め感情をオフにする人生ライフハック…「茄子と思う」「犬だ」など - Togetter"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210902/k10013239701000.html",
@@ -236,7 +254,7 @@
           "description": "はじめに 新方針でDocker Desktopが大企業での利用の場合は商用ライセンスの使用が必要になるようです。新料金体系は8/31から実施ですが、2022年1月31日まで猶予期間があります。 個人やスモールビジネス、あるいは教育やOSSプロダクトなどは継続して無料版のPersonalを利用できるようですが、従業員数250人以上/年間売...",
           "link": "https://zenn.dev/koduki/articles/ba54daaba28f93",
           "publishedOn": "2021-09-02T09:28:01.000Z",
-          "wordCount": 372,
+          "wordCount": 375,
           "title": "Docker Desktopの代替方法 - Windows and Mac編"
         },
         {
@@ -247,24 +265,6 @@
           "publishedOn": "2021-09-02T09:12:58.000Z",
           "wordCount": 196,
           "title": "よねはらうさこ on Twitter: \"性的なものが表にあることで起こる被害の話 https://t.co/zNVstS2fIJ\""
-        },
-        {
-          "id": "https://news.tv-asahi.co.jp/news_international/articles/000227562.html",
-          "author": null,
-          "description": "1日、アフガニスタンにいる日本人らの自衛隊機による退避作戦を、「今回のオペレーションの最大の目標というのは、邦人を保護することでありました。そういう意味では、良かったというふうに思っています」と総括した、菅義偉総理大臣。 しかし、実際に出国できたのは、日本人1人だけで、約500人もの現地スタッフなどは...",
-          "link": "https://news.tv-asahi.co.jp/news_international/articles/000227562.html",
-          "publishedOn": "2021-09-02T06:06:12.000Z",
-          "wordCount": 33,
-          "title": "【独自】大使館が職員を口止めか　アフガン退避遅れ｜テレ朝news-テレビ朝日のニュースサイト"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210902135525",
-          "author": null,
-          "description": "ちょっと詳しいから頑張って書くよ。法律的なことはわかんないからお気持ち構文になるけど読んでくれたら嬉しいな。 Spank!というショップに置いてあるものが多岐にわたるので発端のツイートで「ファンシーショップ」とぼんやり説明してしまい、サンリオギフトゲートとか小学生向けのバラエティショップを頭に思い浮かべ...",
-          "link": "https://anond.hatelabo.jp/20210902135525",
-          "publishedOn": "2021-09-02T04:59:38.000Z",
-          "wordCount": 498,
-          "title": "中野ブロードウェイのファンシーショップとまんだらけ"
         },
         {
           "id": "https://blog.twitter.com/ja_jp/topics/product/2021/introducing-super-follows",

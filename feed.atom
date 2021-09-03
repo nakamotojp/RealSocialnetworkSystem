@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T01:53:36.157Z</id>
+    <id>urn:2021-09-03T02:23:11.477Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T01:53:36.157Z</updated>
+    <updated>2021-09-03T02:23:11.477Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ABBAが40年ぶりに新曲公開 世界的ポップグループが活動再開 | NHKニュース]]></title>
+        <title type="html"><![CDATA[ABBAが40年ぶりに新曲公開 世界的ポップグループが活動再開 | エンタメ | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210903/k10013240101000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210903/k10013240101000.html"/>
         <updated>2021-09-02T21:59:58.000Z</updated>
@@ -130,6 +130,16 @@
         <link href="https://togetter.com/li/1768534"/>
         <updated>2021-09-02T13:58:47.000Z</updated>
         <summary type="html"><![CDATA[新田祐助@もしローコミカライズ2巻発売中 @singekijyosei 兼業作家です。「もしロールプレイングゲームの世界にSNSがあったら」（電撃だいおうじコミカライズ：原作）小説：amzn.to/2VjbxfL コミック：cutt.ly/leXDfj9 他「聖刻 -BEYOND-」「鎮守府空母のLINE事情」など。Vtuber助子は落ち着いたら再開します。 singekij...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介 - ICS MEDIA]]></title>
+        <id>https://ics.media/entry/210902/</id>
+        <link href="https://ics.media/entry/210902/"/>
+        <updated>2021-09-02T13:42:20.000Z</updated>
+        <summary type="html"><![CDATA[いずれもMITライセンスで公開されていますので、個人・商用問わず利用可能です。 Slick.js Slickスリック.jsは簡潔なコードで実装できるのが特徴のモバイルフレンドリーなカルーセルライブラリです。機能は少なめですが、ナビゲーションや表示するスライド数を変更するといった基本的な機能は備わっています。jQueryプラ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -290,16 +300,6 @@
         <link href="https://comic-days.com/episode/3269754496432828238"/>
         <updated>2021-09-02T01:10:16.000Z</updated>
         <summary type="html"><![CDATA[コミックDAYSは正規版配信サイトマークを取得したサービスです。 © KODANSHA Ltd. All rights reserved. このサイトのデータの著作権は講談社が保有します。無断複製転載放送等は禁止します。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「叱り飛ばせば、相手は一念発起し、やる気を出して成長する」→なぜこんなことが「効果がある」と思い込まれてしまったのか - Togetter]]></title>
-        <id>https://togetter.com/li/1768208</id>
-        <link href="https://togetter.com/li/1768208"/>
-        <updated>2021-09-01T16:31:51.000Z</updated>
-        <summary type="html"><![CDATA[伊藤　剛 @GoITO 「強い調子で叱り飛ばし、人格を傷つけるようなことを言えば、相手は一念発起し、やる気を出して成長する」というのは、現実にはまず起きないことなのだが、なぜこんなことが「効果がある」と思い込まれてしまったのか。 2017-08-28 23:59:00 最速配信研究会 山崎大輔 @yamaz 褒めると成績が下がって怒...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

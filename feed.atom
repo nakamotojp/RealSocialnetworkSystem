@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T17:16:22.041Z</id>
+    <id>urn:2021-09-04T18:13:12.599Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T17:16:22.041Z</updated>
+    <updated>2021-09-04T18:13:12.599Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ビートたけしさんが乗る車襲われる　鈍器のようなもの持った男を確保：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP950CCKP94UTIL02W.html</id>
+        <link href="https://www.asahi.com/articles/ASP950CCKP94UTIL02W.html"/>
+        <updated>2021-09-04T16:29:36.000Z</updated>
+        <summary type="html"><![CDATA[4日午後11時40分ごろ、東京都港区のTBS敷地内で、タレントで映画監督のビートたけし（本名・北野武）さん（74）が乗った車が鈍器のようなものを持った男に襲われた。 警視庁赤坂署によると、男は駆けつけた警察官に身柄を確保された。たけしさんは無事で、ほかにけが人もいなかった。 たけしさんは、同局で午後10時から...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しい首相に望むこと一覧]]></title>
         <id>https://anond.hatelabo.jp/20210904210938</id>
@@ -61,6 +71,16 @@
         <link href="https://mainichi.jp/articles/20210904/k00/00m/010/201000c"/>
         <updated>2021-09-04T09:12:45.000Z</updated>
         <summary type="html"><![CDATA[河野太郎行政改革担当相（58）は4日、新型コロナウイルスワクチンの1回目接種を待つ人が、現時点で国内に約1800万人いるとの試算結果を明らかにした。そのうえで「1日に60万回ずつ進んでいるので（全員の1回目接種完了は）9月末までかかる」とし、「なかなか予約ができないと焦っている方もいるだろうが、少し気長に待っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わたしから伝えたいこと｜江原ニーナ｜note]]></title>
+        <id>https://note.com/bethebestest/n/n6d7185deb520</id>
+        <link href="https://note.com/bethebestest/n/n6d7185deb520"/>
+        <updated>2021-09-04T09:11:31.000Z</updated>
+        <summary type="html"><![CDATA[まず初めに、件の女性が亡くなられた事件に関して、心からご冥福をお祈りするとともに、決してあってはならない、どんな償いを以ってしても許されない出来事であることをここに明記しておきます。 何者も、他者の命と尊厳を脅かす権利などあっていいはずがない。たとえいくら資本を持っていようと、たとえいくら名声があ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,16 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[記者が首相に政権延命の方法を助言した「指南書問題」　21年を経て問われる政治報道の「守るべき一線」（立岩陽一郎） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/tateiwayoichiro/20210904-00253234</id>
-        <link href="https://news.yahoo.co.jp/byline/tateiwayoichiro/20210904-00253234"/>
-        <updated>2021-09-04T01:54:08.000Z</updated>
-        <summary type="html"><![CDATA[窮地に立たされた当時の森喜朗総理を救うために書かれた「指南書」。そこには厳しい質問が予想された記者会見について、「（記者の）質問をはぐらかす言い方で切り抜けるしかありません」と書かれ、政権の延命に記者が手を貸すものだった。その詳細は「窮地に陥った首相に政権延命の策を指南した記者がいた」を参照して...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[窮地に陥った首相に政権延命の策を指南した記者がいた　21年を経て元NHK記者らが語った「指南書問題」（立岩陽一郎） - 個人 - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/byline/tateiwayoichiro/20210904-00252895</id>
         <link href="https://news.yahoo.co.jp/byline/tateiwayoichiro/20210904-00252895"/>
@@ -241,16 +251,6 @@
         <link href="https://anond.hatelabo.jp/20210904101034"/>
         <updated>2021-09-04T01:24:16.000Z</updated>
         <summary type="html"><![CDATA[登場人物は以下のとおり。 わい　・・・　社内システム担当件Web担当 オタク君　・・・　わいの部下、メガネクイクイ系 総務部長　・・・　4月から社内システムもみることになった（ド素人） セクシー　・・・　部長の好みの新卒（セクシー系） という感じで4月から組織変更があったのだが、部長がどうやらオタク君のポ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「お前と一緒に沈められねえだろ」声を荒らげた麻生氏　首相“孤立”の瞬間（西日本新聞） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/481e681b3599f30e3e24c4a850e31096bb1f24fc</id>
-        <link href="https://news.yahoo.co.jp/articles/481e681b3599f30e3e24c4a850e31096bb1f24fc"/>
-        <updated>2021-09-04T01:23:26.000Z</updated>
-        <summary type="html"><![CDATA[総裁選は出馬せず、コロナ対策を優先－。テレビが伝える菅首相の声は、緊急事態宣言のさなか、どう受け止められるか＝3日、福岡市西区（撮影・穴井友梨） 2日夜。菅義偉首相は、自民党役員人事の一任を取り付けるため、麻生太郎副総理兼財務相と接触した。 【写真】秋田時代、友人と実家近くの川で捕ったマスを手にする...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

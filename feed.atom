@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T07:11:53.460Z</id>
+    <id>urn:2021-09-04T08:13:24.442Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T07:11:53.460Z</updated>
+    <updated>2021-09-04T08:13:24.442Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 【テニス】大坂なおみ、暴挙連発で警告　ラケットを何度も叩きつけ、観客席にボールを強打 - ライブドアブログ]]></title>
+        <id>http://blog.livedoor.jp/dqnplus/archives/2010266.html</id>
+        <link href="http://blog.livedoor.jp/dqnplus/archives/2010266.html"/>
+        <updated>2021-09-04T05:15:26.000Z</updated>
+        <summary type="html"><![CDATA[【テニス】大坂なおみ、暴挙連発で警告　ラケットを何度も叩きつけ、観客席にボールを強打 1 名前：爆笑ゴリラ ★：2021/09/04(土) 12:02:50.27 ID:CAP_USER9 テニスの４大大会「全米オープン」の女子シングルス３回戦が３日（日本時間４日）に行われ、世界ランキング３位の大坂なおみ（２３＝日清食品）が同７３位のレイ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あああああああああ／あああああああああ／あああああああああ／あああああああああ／あああああああああ／ | 分析センター | 京セラ]]></title>
         <id>https://www.kyocera.co.jp/analysis-center/member/post/</id>
@@ -51,6 +61,16 @@
         <link href="https://news.yahoo.co.jp/byline/tateiwayoichiro/20210904-00252895"/>
         <updated>2021-09-04T01:27:15.000Z</updated>
         <summary type="html"><![CDATA[支持率が急落する中、菅総理が辞任を表明。「衝撃が走る」と騒ぐ政治記者。仮に菅総理に、「繰り返しで切り抜け、決して余計なことは言わずに、質問をはぐらかす言い方で切り抜けるしかありません」と記者会見の対応を指南して政権の延命に手を貸す政治記者がいたらどうだろうか？実は、これは21年前に起きたことだ。 記...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部長がセクシー新卒に騙されて困っている（前編）]]></title>
+        <id>https://anond.hatelabo.jp/20210904101034</id>
+        <link href="https://anond.hatelabo.jp/20210904101034"/>
+        <updated>2021-09-04T01:24:16.000Z</updated>
+        <summary type="html"><![CDATA[登場人物は以下のとおり。 わい　・・・　社内システム担当件Web担当 オタク君　・・・　わいの部下、メガネクイクイ系 総務部長　・・・　4月から社内システムもみることになった（ド素人） セクシー　・・・　部長の好みの新卒（セクシー系） という感じで4月から組織変更があったのだが、部長がどうやらオタク君のポ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[フキノトウから「がんを壊死させる」強力な化合物を発見！ - ナゾロジー]]></title>
-        <id>https://nazology.net/archives/95830</id>
-        <link href="https://nazology.net/archives/95830"/>
-        <updated>2021-09-03T13:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Credit:Canva . ナゾロジー編集部 全ての画像を見る がん治療の未来はフキノトウが握っているかもしれません。 9月1日に、日本の岐阜大学の研究者たちにより『The Journal of Clinical Investigation』に掲載された論文によれば、日本原産のフキノトウの苦味成分から、極めて強力かつ副作用の少ない、抗がん作用のある化...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[たとえ菅が辞めようと、臨時国会を開かない自民党には政権を任せられない｜ニューズウィーク日本版 オフィシャルサイト]]></title>
         <id>https://www.newsweekjapan.jp/fujisaki/2021/09/post-20.php</id>
         <link href="https://www.newsweekjapan.jp/fujisaki/2021/09/post-20.php"/>
@@ -221,16 +231,6 @@
         <link href="https://speakerdeck.com/k0kubun/cd-conference-2021"/>
         <updated>2021-09-03T09:46:45.000Z</updated>
         <summary type="html"><![CDATA[Transcript 数時間かかる週一リリースを 毎日何度も爆速で できるようにするまで @k0kubun / Takashi Kokubun - CI/CD Conference 2021 自己紹介 • GitHub, Twitter: @k0kubun • Treasure Data ◦ API: プラットフォーム 1年 ◦ SRE: デプロイ 1年 ◦ Backend: ストレージ 2年半 None 今日話すこと • なぜ継続的にリリース...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dan Kogai on Twitter: "だから本邦の抱えている問題はDXのはるか手前なんだってば。記者の質問にまともに答えない大臣、墨塗りだらけの開示文書、公文書破棄…そういう「政府しぐさ」を改めずして何がデジタルだと言うのだ⁉︎ https://t.co/xW2a9UfKOt"]]></title>
-        <id>https://twitter.com/dankogai/status/1433705385743962115</id>
-        <link href="https://twitter.com/dankogai/status/1433705385743962115"/>
-        <updated>2021-09-03T09:19:29.000Z</updated>
-        <summary type="html"><![CDATA[だから本邦の抱えている問題はDXのはるか手前なんだってば。記者の質問にまともに答えない大臣、墨塗りだらけの開示文書、公文書破棄…そういう「政府しぐさ」を改めずして何がデジタルだと言うのだ⁉︎ https://t.co/xW2a9UfKOt]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

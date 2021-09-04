@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T22:11:49.980Z</id>
+    <id>urn:2021-09-04T23:11:56.031Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T22:11:49.980Z</updated>
+    <updated>2021-09-04T23:11:56.031Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ビートたけしさん乗った車突然襲われる けがはなく男逮捕 | 事件 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210905/k10013244581000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210905/k10013244581000.html"/>
+        <updated>2021-09-04T19:06:50.000Z</updated>
+        <summary type="html"><![CDATA[4日夜、東京 港区のTBSの敷地内で、タレントのビートたけしさんが乗った車がつるはしのようなものを持った男に襲われました。たけしさんにけがはなく、警視庁が銃刀法違反の疑いで逮捕して当時の詳しい状況を調べています。 警視庁によりますと4日午後11時40分ごろ、東京 港区赤坂のTBSの敷地内でタレントのビートたけし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビートたけしさんが乗る車襲われる　鈍器のようなもの持った男を確保：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP950CCKP94UTIL02W.html</id>
@@ -21,6 +31,16 @@
         <link href="https://anond.hatelabo.jp/20210905011447"/>
         <updated>2021-09-04T16:15:27.000Z</updated>
         <summary type="html"><![CDATA[自民党の派閥細田派 (97) 、麻生派 (54)、 竹下派 (52)、 二階派(47)、 岸田派(46)、 石破派 (16)、 石原派 (10)、菅グループ(23)、谷垣グループ(15)、無派閥 (26) 今のところ立候補を表明してる人岸田ハト派。中韓からの受けが良く、関係改善への期待を寄せられている。モリカケがどうとかってコメントもあった。 コロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[読売新聞、反ワクチンはお金になることを自紙の広告枠から暗に仄めかす : 市況かぶ全力２階建]]></title>
+        <id>https://kabumatome.doorblog.jp/archives/65985022.html</id>
+        <link href="https://kabumatome.doorblog.jp/archives/65985022.html"/>
+        <updated>2021-09-04T15:46:09.000Z</updated>
+        <summary type="html"><![CDATA[読売新聞は幾ら対価を貰った意見広告とはいえ…こういう公衆衛生を妨げる連中を取り上げるのかと pic.twitter.com/1Xv5p7fmvw — 呑氏 (@DonC_m2017) September 3, 2021 武者小路　丈径@takemichi01これ広告代理店、読売広告？ 2021/09/04 19:42:16 コンプラというか、与信の時点で、却下しなかったんだね... — 武者小路　...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -186,16 +206,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[デジタル庁に入庁しました]]></title>
-        <id>https://blog.keiji.dev/2021/09/digital_agency/</id>
-        <link href="https://blog.keiji.dev/2021/09/digital_agency/"/>
-        <updated>2021-09-04T05:55:21.000Z</updated>
-        <summary type="html"><![CDATA[9月1日付で発足したデジタル庁にAndroidエンジニアとして入庁しました。引き続き接触確認アプリ「COCOA」を担当します。 ぼくは大阪に住んでいるのでフルリモートでの勤務になります。 これまでも厚生労働省の参与として、すべてのコミュニケーションをネットを介して行ってきておりリモートワークに不便を感じたことは...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[神道と仏教が一緒に新型コロナ終息を祈願 京都 北野天満宮 | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210904/k10013243611000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210904/k10013243611000.html"/>
@@ -221,16 +231,6 @@
         <link href="https://togetter.com/li/1769364"/>
         <updated>2021-09-04T05:19:34.000Z</updated>
         <summary type="html"><![CDATA[昭和50年代生まれが通ってきたテレビ番組、CM、アニメ・漫画・ゲーム、飲食物、おもちゃ・グッズ、トレンドなどをまとめました。追加編集大歓迎です。またはコメントいただければ追加します。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 【テニス】大坂なおみ、暴挙連発で警告　ラケットを何度も叩きつけ、観客席にボールを強打 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2010266.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2010266.html"/>
-        <updated>2021-09-04T05:15:26.000Z</updated>
-        <summary type="html"><![CDATA[【テニス】大坂なおみ、暴挙連発で警告　ラケットを何度も叩きつけ、観客席にボールを強打 1 名前：爆笑ゴリラ ★：2021/09/04(土) 12:02:50.27 ID:CAP_USER9 テニスの４大大会「全米オープン」の女子シングルス３回戦が３日（日本時間４日）に行われ、世界ランキング３位の大坂なおみ（２３＝日清食品）が同７３位のレイ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

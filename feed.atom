@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T05:10:18.244Z</id>
+    <id>urn:2021-09-04T06:14:09.505Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T05:10:18.244Z</updated>
+    <updated>2021-09-04T06:14:09.505Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.kyocera.co.jp/analysis-center/member/post/"/>
         <updated>2021-09-04T04:09:36.000Z</updated>
         <summary type="html"><![CDATA[あああああああああ／あああああああああ／あああああああああ／ あああああああああ／あああああああああ／ あああああああああ／あああああああああ／あああああああああ／あああああああああ／あああああああああ／ あああああああああ／あああああああああ／あああああああああ／あああああああああ／あああああああ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「きょうは最後まで答えてください」首相、わずか2分の“終幕宣言”（西日本新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/7874e64e4da8e572dd47223960da241118a15793</id>
+        <link href="https://news.yahoo.co.jp/articles/7874e64e4da8e572dd47223960da241118a15793"/>
+        <updated>2021-09-04T01:32:42.000Z</updated>
+        <summary type="html"><![CDATA[菅首相の総裁選不出馬を伝える街頭のニュース。緊急事態宣言のさなか、どう受け止められるか＝3日午後5時34分、福岡市博多区（撮影・穴井友梨） 「自民党役員会において総裁選には出馬しないことを申し上げました」。3日、首相官邸。菅義偉首相は記者団に淡々と退陣意向を表明した。「総理、総理、きょうは最後まで答え...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,31 +186,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[クジラの肉“本来の味を” 特別に冷凍せず 豊洲市場に出荷 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210903/k10013241851000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210903/k10013241851000.html"/>
-        <updated>2021-09-03T12:46:48.000Z</updated>
-        <summary type="html"><![CDATA[日本で商業捕鯨が再開されてから2年余りがたちましたが、クジラの肉の消費は低迷しています。このため業界団体は、味を知ってもらおうと、大型のクジラの肉を特別に冷凍せずに運び、豊洲市場に出荷しました。 日本は、IWC＝国際捕鯨委員会から脱退し、おととし7月から商業捕鯨を再開しています。 去年の捕獲量は、調査捕...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Meetで文字起こしやチャット保存を実現する無償のChrome拡張 - PC Watch]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/news/1348651.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/news/1348651.html"/>
-        <updated>2021-09-03T12:08:25.000Z</updated>
-        <summary type="html"><![CDATA[株式会社電算システムは9月1日、Google Meet上で音声認識による字幕送信機能などを使えるようになる「こえもじ」を公開した。Google Chrome向けの拡張機能で、無料で利用できる。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[久々に会社員やってみて「平日毎日8～9時間とか働くのって専業主婦がいることが前提に作られた仕組みなのではないか」と思った - Togetter]]></title>
         <id>https://togetter.com/li/1769056</id>
         <link href="https://togetter.com/li/1769056"/>
         <updated>2021-09-03T11:07:41.000Z</updated>
         <summary type="html"><![CDATA[ニカイドウレンジ @R_Nikaido 3億年ぶりに会社員やってみて思ったことなんですけど、平日毎日8～9時間とか働くのって「家で掃除や洗濯などやっておいてくれて夕食を用意して待っていてくれる専業主婦」がいることが前提に作られた仕組みなのではないでしょうか。 2021-09-02 14:00:26 ニカイドウレンジ @R_Nikaido あー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webデザインの種明かし、コピペできる最新HTML／CSSスニペット30個まとめ - PhotoshopVIP]]></title>
+        <id>https://photoshopvip.net/130989</id>
+        <link href="https://photoshopvip.net/130989"/>
+        <updated>2021-09-03T10:52:06.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、Webデザインの引き出しを増やす、コピペで使える最新HTML／CSSスニペットをまとめてご紹介します。 Codepenで話題となっているものを中心に、今後のデザイン制作に活用したいアイデアがずらり揃った今回。新しいウェブデザインの可能性を感じるものばかりとなっています。 https://photoshopvip.net/12989...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T01:54:05.795Z</id>
+    <id>urn:2021-09-04T02:26:08.351Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T01:54:05.795Z</updated>
+    <updated>2021-09-04T02:26:08.351Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[菅義偉とは何者だったのか　望月衣塑子記者が語る「権力に酔って、権力に負けた」悲しき首相の最後 (1/4) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
+        <id>https://dot.asahi.com/dot/2021090400002.html</id>
+        <link href="https://dot.asahi.com/dot/2021090400002.html"/>
+        <updated>2021-09-04T00:22:50.000Z</updated>
+        <summary type="html"><![CDATA[まさに、逃げるような退任劇だった。菅義偉首相の自民党総裁選不出馬が報じられた3日、13時からの囲み取材では「総裁選よりもコロナ対策に専念する」とだけ語り、記者の相次ぐ質問を振り切った。この1年の菅政権とは一体何だったのか。ほぼ何も説明もせず、首相の座を放り出した菅氏とは、結局、どのような人物だったの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「お前と一緒に沈められねえだろ」退陣表明前夜、“2A”から首相に三くだり半｜【西日本新聞me】]]></title>
         <id>https://www.nishinippon.co.jp/item/n/795598/</id>
@@ -36,16 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[愛知県のロックフェス、コロナ陽性者判明で行動履歴など公開…近くにいた人には来場自粛呼びかけ（スポーツ報知） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/6736b3b830ae9a3691c531cb935b65c48a3b2bd9</id>
-        <link href="https://news.yahoo.co.jp/articles/6736b3b830ae9a3691c531cb935b65c48a3b2bd9"/>
-        <updated>2021-09-03T19:26:51.000Z</updated>
-        <summary type="html"><![CDATA[愛知県・日本ガイシホールで３～５日の予定で行われているロックフェス「ＴＲＥＡＳＵＲＥ０５Ｘ」の公式サイトは４日未明、３日公演の参加者の中に、公演中に新型コロナウイルスの陽性判定の連絡を受けた人がいたことを発表した。当該者は濃厚接触者としてＰＣＲ検査を受けながら来場していたのではなく「会社内全体の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ポルノグラフィティ - サウダージ / THE FIRST TAKE]]></title>
         <id>https://www.youtube.com/watch?v=41c9vRZ4mB4</id>
         <link href="https://www.youtube.com/watch?v=41c9vRZ4mB4"/>
@@ -71,6 +71,16 @@
         <link href="https://twitter.com/nagatarj/status/1433765395521892356"/>
         <updated>2021-09-03T14:48:10.000Z</updated>
         <summary type="html"><![CDATA[ワクチンなんで効くのか全くわからん、て人向け 8ページでなんとなくわかる 「ワクチンなんだろう」(1/2) https://t.co/g5AbJkTVLg]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俺らの側にいるようにみせかけてあっちにいくやつ]]></title>
+        <id>https://anond.hatelabo.jp/20210903232841</id>
+        <link href="https://anond.hatelabo.jp/20210903232841"/>
+        <updated>2021-09-03T14:42:28.000Z</updated>
+        <summary type="html"><![CDATA[まるでもてない陰キャのように振る舞って、友達とか彼女なんていなーい、って雰囲気をさらけ出して、オタクな感じのこと言って、バカやって。 童貞みたいな面構えして、でも最終的には 結婚しました～ 子供が出来ました～ お金は毎月XX円くらい貰ってます～ って人達。 切込隊長とか昔は童貞ゆうてたのに、今や奥さんと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -211,16 +221,6 @@
         <link href="https://president.jp/articles/-/49501"/>
         <updated>2021-09-03T07:41:27.000Z</updated>
         <summary type="html"><![CDATA[8月7日と8日、ドイツ・デュッセルドルフで「ドイツ・コミック・マーケット」が開催された。愛称は「ドコミ」という日本語で、当初は日本の作品を中心としたアニメやマンガの大型イベントだった。ところが今年の来場者のコスプレは中国のゲームのキャラが大人気に。一体なにが起きているのか――。 例年5万5000人超が集まる...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】河野行改相　総裁選出馬の意向固める（TBS系（JNN）） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/95e253e74307d1a3246539160a4e8374a8a39158</id>
-        <link href="https://news.yahoo.co.jp/articles/95e253e74307d1a3246539160a4e8374a8a39158"/>
-        <updated>2021-09-03T07:24:13.000Z</updated>
-        <summary type="html"><![CDATA[菅総理が自民党総裁選挙への出馬を見送ることを表明したことを受け、河野行政改革担当大臣が総裁選へ出馬する意向を固めました。 記者、タリバン報道官に問う「あなたが言うことと現場で起きていることに乖離がある」【インタビューロング版】 河野大臣は既に若手の議員らを中心に出馬に必要な推薦人となるよう要請を始...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

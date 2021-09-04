@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T06:14:09.505Z</id>
+    <id>urn:2021-09-04T07:11:53.460Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T06:14:09.505Z</updated>
+    <updated>2021-09-04T07:11:53.460Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「元歯科受付がガチで愛用する『推しデンタルケアグッズ』です」さようなら、全ての黄ばんだ歯と口臭。ド定番8アイテムとは？ - Togetter]]></title>
+        <id>https://togetter.com/li/1769355</id>
+        <link href="https://togetter.com/li/1769355"/>
+        <updated>2021-09-04T03:32:18.000Z</updated>
+        <summary type="html"><![CDATA[一之木 りさ/ライター @rrisa_wp ブログ/SNSなどWebコンテンツが大好きなおばあちゃん（アイコンの人）。チームのインスタフォロワー数9万人。ライターとかツイ廃をしています。なんやかんやありましたらDMへお願いします。「りささん」と呼んでください。おばあちゃんなので優しくしてください。 polipoliweb.com メー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「きょうは最後まで答えてください」首相、わずか2分の“終幕宣言”（西日本新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/7874e64e4da8e572dd47223960da241118a15793</id>
         <link href="https://news.yahoo.co.jp/articles/7874e64e4da8e572dd47223960da241118a15793"/>
         <updated>2021-09-04T01:32:42.000Z</updated>
         <summary type="html"><![CDATA[菅首相の総裁選不出馬を伝える街頭のニュース。緊急事態宣言のさなか、どう受け止められるか＝3日午後5時34分、福岡市博多区（撮影・穴井友梨） 「自民党役員会において総裁選には出馬しないことを申し上げました」。3日、首相官邸。菅義偉首相は記者団に淡々と退陣意向を表明した。「総理、総理、きょうは最後まで答え...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斉藤由貴「頭もおかしくなりますよ」デビュー映画で浴びた相米監督の洗礼 - シネマ : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/entertainment/news/202108300000372.html</id>
+        <link href="https://www.nikkansports.com/entertainment/news/202108300000372.html"/>
+        <updated>2021-09-04T01:29:56.000Z</updated>
+        <summary type="html"><![CDATA[どんな達人にも無力の駆け出し時代がある。多様なキャラクターを変幻自在に演じ、三谷幸喜、是枝裕和ら人気演出家から指名を受ける女優斉藤由貴（54）にも、未熟さに悩み、泣くばかりの日々があった。ニッカンスポーツ・コムの取材に応じ、85年の映画デビュー作「雪の断章－情熱－」（相米慎二監督）の撮影当時や、風変...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Webデザインの種明かし、コピペできる最新HTML／CSSスニペット30個まとめ - PhotoshopVIP]]></title>
-        <id>https://photoshopvip.net/130989</id>
-        <link href="https://photoshopvip.net/130989"/>
-        <updated>2021-09-03T10:52:06.000Z</updated>
-        <summary type="html"><![CDATA[この記事では、Webデザインの引き出しを増やす、コピペで使える最新HTML／CSSスニペットをまとめてご紹介します。 Codepenで話題となっているものを中心に、今後のデザイン制作に活用したいアイデアがずらり揃った今回。新しいウェブデザインの可能性を感じるものばかりとなっています。 https://photoshopvip.net/12989...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数時間かかる週一リリースを毎日何度も爆速でできるようにするまで / CI/CD Conference 2021 - Speaker Deck]]></title>
         <id>https://speakerdeck.com/k0kubun/cd-conference-2021</id>
         <link href="https://speakerdeck.com/k0kubun/cd-conference-2021"/>
@@ -241,16 +251,6 @@
         <link href="https://www.newsweekjapan.jp/stories/world/2021/09/24-36.php"/>
         <updated>2021-09-03T08:12:10.000Z</updated>
         <summary type="html"><![CDATA[コロナにかかった時のためにイベルメクチンを買ったボリビアの男性（5月19日、ボリビアではコロナ治療薬としての処方が認められている）　Rodrigo Urzagasti-REUTERS ＜アメリカでは家畜用の寄生虫駆除薬であるイベルメクチンをコロナ治療薬として勝手に服用し、具合が悪くなって救急車で運び込まれる患者が急増＞ 米オ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[｢日本の作品にはもう目もくれない｣ドイツ版コミケで感じた"中国ゲーム"のすごい勢い 会場は｢原神｣のコスプレだらけ | PRESIDENT Online（プレジデントオンライン）]]></title>
-        <id>https://president.jp/articles/-/49501</id>
-        <link href="https://president.jp/articles/-/49501"/>
-        <updated>2021-09-03T07:41:27.000Z</updated>
-        <summary type="html"><![CDATA[8月7日と8日、ドイツ・デュッセルドルフで「ドイツ・コミック・マーケット」が開催された。愛称は「ドコミ」という日本語で、当初は日本の作品を中心としたアニメやマンガの大型イベントだった。ところが今年の来場者のコスプレは中国のゲームのキャラが大人気に。一体なにが起きているのか――。 例年5万5000人超が集まる...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

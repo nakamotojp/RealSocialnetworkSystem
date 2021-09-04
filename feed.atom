@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T12:18:07.871Z</id>
+    <id>urn:2021-09-04T13:16:50.794Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T12:18:07.871Z</updated>
+    <updated>2021-09-04T13:16:50.794Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 新たに2362人感染確認 13日連続前週下回る | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <title type="html"><![CDATA[河野担当相、コロナワクチン1回目接種を待つ人は「1800万人」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210904/k00/00m/010/201000c</id>
+        <link href="https://mainichi.jp/articles/20210904/k00/00m/010/201000c"/>
+        <updated>2021-09-04T09:12:45.000Z</updated>
+        <summary type="html"><![CDATA[河野太郎行政改革担当相（58）は4日、新型コロナウイルスワクチンの1回目接種を待つ人が、現時点で国内に約1800万人いるとの試算結果を明らかにした。そのうえで「1日に60万回ずつ進んでいるので（全員の1回目接種完了は）9月末までかかる」とし、「なかなか予約ができないと焦っている方もいるだろうが、少し気長に待っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京 新型コロナ 15人死亡 2362人感染確認 感染減も入院最多に | 新型コロナ 国内感染者数 | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210904/k10013243811000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210904/k10013243811000.html"/>
         <updated>2021-09-04T07:49:44.000Z</updated>
-        <summary type="html"><![CDATA[東京都は4日、都内で新たに2362人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の土曜日より1219人減り、13日連続で前の週の同じ曜日を下回りました。 一方、都の基準で集計した4日時点の重症の患者は、3日より11人減って267人でした。]]></summary>
+        <summary type="html"><![CDATA[東京都は4日、都内で新たに10歳未満から90代までの男女合わせて2362人が新型コロナウイルスに感染していることを確認したと発表しました。 1週間前の土曜日より1219人減り、13日連続で前週の同じ曜日を下回りました。 また、感染が確認された15人が死亡したことを明らかにし、このうち40代男性は1人暮らしで自宅療養中に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -31,6 +41,16 @@
         <link href="https://togetter.com/li/1769378"/>
         <updated>2021-09-04T06:41:57.000Z</updated>
         <summary type="html"><![CDATA[Melville @MelvilleTw Twitterにはリプライ欄をリプライ欄だと思っている人間と、リプライ欄をコメント欄だと思っている人間がいることを理解しなければならない 2021-09-03 08:47:55 Melville @MelvilleTw これに対する僕の見解ですが、機能に対する理解が人によって違うのはUI設計が悪いです(つまり悪いのはTwitter) ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁に入庁しました]]></title>
+        <id>https://blog.keiji.dev/2021/09/digital_agency/</id>
+        <link href="https://blog.keiji.dev/2021/09/digital_agency/"/>
+        <updated>2021-09-04T05:55:21.000Z</updated>
+        <summary type="html"><![CDATA[9月1日付で発足したデジタル庁にAndroidエンジニアとして入庁しました。引き続き接触確認アプリ「COCOA」を担当します。 ぼくは大阪に住んでいるのでフルリモートでの勤務になります。 これまでも厚生労働省の参与として、すべてのコミュニケーションをネットを介して行ってきておりリモートワークに不便を感じたことは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -71,6 +91,16 @@
         <link href="https://www.hakone-garasunomori.jp/units/"/>
         <updated>2021-09-04T05:13:00.000Z</updated>
         <summary type="html"><![CDATA[あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。 Lorem Ipsum is simply dummy text of the printing and typesetting industry. あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民総裁選、動き本格化へ　安倍氏、高市氏を支援―岸田氏「党員に発信」：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021090400239&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021090400239&amp;g=pol"/>
+        <updated>2021-09-04T05:03:55.000Z</updated>
+        <summary type="html"><![CDATA[自民総裁選、動き本格化へ　安倍氏、高市氏を支援―岸田氏「党員に発信」 2021年09月04日11時58分 記者団の取材に応じる安倍晋三前首相＝３日午後、山口県宇部市 菅義偉首相（自民党総裁）の退陣表明から一夜明け、後継を選ぶ総裁選（１７日告示、２９日投開票）に向けた動きが広がってきた。出馬を表明している岸田文雄...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -236,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ポルノグラフィティ - サウダージ / THE FIRST TAKE]]></title>
-        <id>https://www.youtube.com/watch?v=41c9vRZ4mB4</id>
-        <link href="https://www.youtube.com/watch?v=41c9vRZ4mB4"/>
-        <updated>2021-09-03T15:22:58.000Z</updated>
-        <summary type="html"><![CDATA[「THE FIRST TAKE」は、一発撮りのパフォーマンスを鮮明に切り取るYouTubeチャンネル。 ONE TAKE ONLY, ONE LIFE ONLY. 一発撮りで、音楽と向き合う。 第148回は、先日”新始動”を発表し、その活動に注目が高まっているポルノグラフィティが登場。 切ない恋心を歌い、未だに幅広い層から支持を集める「サウダージ」をTHE ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[俺らの側にいるようにみせかけてあっちにいくやつ]]></title>
         <id>https://anond.hatelabo.jp/20210903232841</id>
         <link href="https://anond.hatelabo.jp/20210903232841"/>
@@ -261,16 +281,6 @@
         <link href="https://www.newsweekjapan.jp/fujisaki/2021/09/post-20.php"/>
         <updated>2021-09-03T13:38:14.000Z</updated>
         <summary type="html"><![CDATA[一年前に菅義偉を総裁に選び、守ってきたのは自民党だ（2020年9月14日）　Kyodo/REUTERS ＜自民党は安倍政権のときから国会のチェックを受けることから逃げ続け、憲法の義務である臨時国会を開くことも拒んだ。今日のコロナ感染爆発を招いた責任も問わせないまま総選挙に突入する勢いだ＞ 7月16日、野党4党は憲法53条に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「もしアンドロメダ銀河がもっと明るかったら夜空はこう見える」という画像がなんともロマン溢れる「でっっけ」「夢がある」 - Togetter]]></title>
-        <id>https://togetter.com/li/1769071</id>
-        <link href="https://togetter.com/li/1769071"/>
-        <updated>2021-09-03T13:11:42.000Z</updated>
-        <summary type="html"><![CDATA[岡部いさく @Mossie633 アンドメダ銀河がものすごく明るかったら、夜空にこのぐらいの大きさで見えるはずなんですって。そうかあ、考えたことなかったけど、想像してみるべきだったなあ。こんなに大きいんだ。 twitter.com/latestinspace/… 2021-09-03 02:35:24 Latest in space @latestinspace If Andromeda were brigh...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

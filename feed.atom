@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T18:13:12.599Z</id>
+    <id>urn:2021-09-04T19:11:00.865Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T18:13:12.599Z</updated>
+    <updated>2021-09-04T19:11:00.865Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -86,11 +86,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[保守派に見放された菅政権の１年（古谷経衡） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/furuyatsunehira/20210904-00256594</id>
+        <link href="https://news.yahoo.co.jp/byline/furuyatsunehira/20210904-00256594"/>
+        <updated>2021-09-04T09:08:38.000Z</updated>
+        <summary type="html"><![CDATA[保守派にとってみれば、2020年9月、電撃的な安倍晋三前総理辞任劇から総裁選を経て組閣した菅義偉政権は「安倍政権の正統的後継者」として一挙に期待を集めた。ところがその期待は長くは続かず、いつの間にか保守派は菅政権を見限り、2021年9月3日の菅総理が退陣表明を発する「前」の段階から、高市早苗前総務大臣に一挙...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[日本の「人が住んでいるところ」を光らせてみたら色々と興味深かった「北海道暗すぎ…」「福島でゾクッとした」 - Togetter]]></title>
         <id>https://togetter.com/li/1769474</id>
         <link href="https://togetter.com/li/1769474"/>
         <updated>2021-09-04T08:17:57.000Z</updated>
         <summary type="html"><![CDATA[にゃんこそば⛅データ可視化 @ShinagawaJP 日本国内で「人が住んでいるところ」を光らせてみた。煌々と輝く太平洋ベルト、中国山地の隅々に広がる集落など見所いっぱいで、拡大して色々観察したくなる。海岸線に沿って光が連なっているのも興味深い。 データは東大CSIS『平成27年簡易100mメッシュ人口データ』を使用。 p...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 名門野球部コーチ逮捕　生徒14人の下半身を弄び、男性器を咥えさせるなどあらゆる性的乱暴を行う - ライブドアブログ]]></title>
+        <id>http://blog.livedoor.jp/dqnplus/archives/2010269.html</id>
+        <link href="http://blog.livedoor.jp/dqnplus/archives/2010269.html"/>
+        <updated>2021-09-04T07:50:42.000Z</updated>
+        <summary type="html"><![CDATA[名門野球部コーチ逮捕　生徒14人の下半身を弄び、男性器を咥えさせるなどあらゆる性的乱暴を行う 1 名前：Stargazer ★：2021/09/04(土) 14:01:14.09 ID:Exy/itDx9 夏の甲子園大会に出場経験のある大阪市内の私立高の野球部で、元コーチの水落雄基容疑者（31）が8月18日、男子部員にわいせつな行為をしたことで大阪府警に...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -176,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ユニットテスト | 箱根ガラスの森美術館]]></title>
-        <id>https://www.hakone-garasunomori.jp/units/</id>
-        <link href="https://www.hakone-garasunomori.jp/units/"/>
-        <updated>2021-09-04T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。 Lorem Ipsum is simply dummy text of the printing and typesetting industry. あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在野に学問あり　第6回　読書猿さん]]></title>
         <id>https://www.iwanamishinsho80.com/post/zaiya6</id>
         <link href="https://www.iwanamishinsho80.com/post/zaiya6"/>
@@ -251,16 +261,6 @@
         <link href="https://anond.hatelabo.jp/20210904101034"/>
         <updated>2021-09-04T01:24:16.000Z</updated>
         <summary type="html"><![CDATA[登場人物は以下のとおり。 わい　・・・　社内システム担当件Web担当 オタク君　・・・　わいの部下、メガネクイクイ系 総務部長　・・・　4月から社内システムもみることになった（ド素人） セクシー　・・・　部長の好みの新卒（セクシー系） という感じで4月から組織変更があったのだが、部長がどうやらオタク君のポ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅義偉とは何者だったのか　望月衣塑子記者が語る「権力に酔って、権力に負けた」悲しき首相の最後 (1/4) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
-        <id>https://dot.asahi.com/dot/2021090400002.html</id>
-        <link href="https://dot.asahi.com/dot/2021090400002.html"/>
-        <updated>2021-09-04T00:22:50.000Z</updated>
-        <summary type="html"><![CDATA[まさに、逃げるような退任劇だった。菅義偉首相の自民党総裁選不出馬が報じられた3日、13時からの囲み取材では「総裁選よりもコロナ対策に専念する」とだけ語り、記者の相次ぐ質問を振り切った。この1年の菅政権とは一体何だったのか。ほぼ何も説明もせず、首相の座を放り出した菅氏とは、結局、どのような人物だったの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

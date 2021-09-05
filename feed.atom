@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T04:15:33.361Z</id>
+    <id>urn:2021-09-05T05:10:22.844Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T04:15:33.361Z</updated>
+    <updated>2021-09-05T05:10:22.844Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://twitter.com/hattatu_matome/status/1433809404730609676"/>
         <updated>2021-09-05T00:53:04.000Z</updated>
         <summary type="html"><![CDATA[発達障害の人は「やるべきこと」のために「やりたいこと」の総量を削減できない傾向があるので、労働で日中に失った自分の時間を夜に取り返そうとして睡眠不足になる『リベンジ夜ふかし』と呼ばれる行動パターンに嵌りがちなのだが、それが生活リズ… https://t.co/UqZiJXw1LD]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レシピにおける代用が冒涜になっていることに気付け]]></title>
+        <id>https://anond.hatelabo.jp/20210905092450</id>
+        <link href="https://anond.hatelabo.jp/20210905092450"/>
+        <updated>2021-09-05T00:41:35.000Z</updated>
+        <summary type="html"><![CDATA[よく料理番組が好きで見ているが、その後にSNSなどをみると「もも肉の代わりにむね肉を使いました♪」「牛肉が無かったので豚肉で☆」みたいなのを見ると、お前が食っているものは別の料理だぞ、という悲しい気持ちになる。 だいたいが安い食材に置き換えられているのがつらくて、料理家としてはもも肉や豚バラを使うのは...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://twitter.com/caoryu_YS/status/1434025181484175363"/>
         <updated>2021-09-04T13:56:35.000Z</updated>
         <summary type="html"><![CDATA[とんでもないサイトを知ってしまった。絵描きやデザイナー大歓喜のカラーチャート『Colorbase』https://t.co/CLWprkukt6 色を選ぶと、その色の補色・類似色・同じ明るさを持つ色・白と合わせた時の見やすさ・色相… https://t.co/rOgsnechfT]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[齊藤明紀 on Twitter: "客が逃げにくいようにしてからバンバン値上げというORACLE DB商法が怖いのでOracle Cloudは使う気になれない。「複数のOracleDB利用システムがあれば、全部保守に入るか全部入らないかどっちかしか選べない」とかいろ… https://t.co/PghH9SiMx0"]]></title>
-        <id>https://twitter.com/a_saitoh/status/1433995425787248640</id>
-        <link href="https://twitter.com/a_saitoh/status/1433995425787248640"/>
-        <updated>2021-09-04T13:37:48.000Z</updated>
-        <summary type="html"><![CDATA[客が逃げにくいようにしてからバンバン値上げというORACLE DB商法が怖いのでOracle Cloudは使う気になれない。「複数のOracleDB利用システムがあれば、全部保守に入るか全部入らないかどっちかしか選べない」とかいろ… https://t.co/PghH9SiMx0]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

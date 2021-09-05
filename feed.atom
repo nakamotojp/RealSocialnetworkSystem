@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T17:16:32.617Z</id>
+    <id>urn:2021-09-05T18:13:21.125Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T17:16:32.617Z</updated>
+    <updated>2021-09-05T18:13:21.125Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://anond.hatelabo.jp/20210905202132"/>
         <updated>2021-09-05T11:53:50.000Z</updated>
         <summary type="html"><![CDATA[買い切り、シナリオゲーにおいてもはや洋ゲーは衰退した的な観方が本邦では強い 実際、そういうゲームは任天堂やカプコン、フロムソフトウェアの独壇場だ その考えは甘い　甘すぎる 洋ゲーは完全にその買い切りゲーを凌駕する方法を編み出してしまった それも彼ら白人がもっとも得意とする方法でだ 「クリエイト系ゲーム...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「五輪よりパラリンピックが中心になる」　ロボット工学者が語る未来：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP95577PP92ULBJ027.html</id>
+        <link href="https://www.asahi.com/articles/ASP95577PP92ULBJ027.html"/>
+        <updated>2021-09-05T09:38:57.000Z</updated>
+        <summary type="html"><![CDATA[石黒浩・大阪大学大学院基礎工学研究科教授　パラリンピックでは、車いすなどの技術を使った競技に関心があります。好きな競技の一つが車いすラグビー。障害のない人が車いすに乗って参加しても、あのレベルでプレーするのは難しいと思わせるほど、試合内容はとても高度です。車いすの100メートル走もレベルが高い。車い...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -166,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[太陽系に未知の惑星、99.6%存在、天の川の方向 | ナショナルジオグラフィック日本版サイト]]></title>
-        <id>https://natgeo.nikkeibp.co.jp/atcl/news/21/090200432/</id>
-        <link href="https://natgeo.nikkeibp.co.jp/atcl/news/21/090200432/"/>
-        <updated>2021-09-05T03:42:33.000Z</updated>
-        <summary type="html"><![CDATA[一部の天文学者たちは、太陽系外縁のどこかに、地球のおよそ6倍の質量をもつ惑星が潜んでいると考えている。（CALTECH/R. HURT (IPAC)） 太陽系にまつわる謎のなかでも特に興味深いのは、海王星の外側に巨大な氷の惑星が本当にあるのかどうか、という問題だ。もし実在すれば太陽系第9の惑星となることから、仮に「プラネ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[孫正義 on Twitter: "ひろゆきがデジタル庁に応募したというのも驚いたけど、落とされたっていう事に更に驚いた。彼なら長官として最適な気がする。彼みたいな人が責任者なら日本も変わると思うけどなぁ。"]]></title>
         <id>https://twitter.com/masason/status/1434339273352749067</id>
         <link href="https://twitter.com/masason/status/1434339273352749067"/>
@@ -246,21 +246,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[シティポップ（再）入門：山下達郎『FOR YOU』　揺るぎない最高傑作、シティポップのアイコンとして位置づけられる所以 - Real Sound｜リアルサウンド]]></title>
-        <id>https://realsound.jp/2021/09/post-851172.html</id>
-        <link href="https://realsound.jp/2021/09/post-851172.html"/>
-        <updated>2021-09-04T20:56:32.000Z</updated>
-        <summary type="html"><![CDATA[シティポップ（再）入門：山下達郎『FOR YOU』　揺るぎない最高傑作、シティポップのアイコンとして位置づけられる所以 日本国内で生まれた“シティポップ”と呼ばれる音楽が世界的に注目を集めるようになって久しい。それぞれの作品が評価されたり、認知されるまでの過程は千差万別だ。特に楽曲単位で言えば、カバーバー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[かおりゅ on Twitter: "とんでもないサイトを知ってしまった。絵描きやデザイナー大歓喜のカラーチャート『Colorbase』https://t.co/CLWprkukt6 色を選ぶと、その色の補色・類似色・同じ明るさを持つ色・白と合わせた時の見やすさ・色相… https://t.co/rOgsnechfT"]]></title>
         <id>https://twitter.com/caoryu_YS/status/1434025181484175363</id>
         <link href="https://twitter.com/caoryu_YS/status/1434025181484175363"/>
         <updated>2021-09-04T13:56:35.000Z</updated>
         <summary type="html"><![CDATA[とんでもないサイトを知ってしまった。絵描きやデザイナー大歓喜のカラーチャート『Colorbase』https://t.co/CLWprkukt6 色を選ぶと、その色の補色・類似色・同じ明るさを持つ色・白と合わせた時の見やすさ・色相… https://t.co/rOgsnechfT]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitのオブジェクトの中身]]></title>
+        <id>https://zenn.dev/kaityo256/articles/objects_of_git</id>
+        <link href="https://zenn.dev/kaityo256/articles/objects_of_git"/>
+        <updated>2021-09-04T10:28:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Gitのインデックスの中身、Gitのブランチの実装に続く、Gitの中身を見てみようシリーズです。Gitが管理するオブジェクトの種類や中身について見てみます。基本的にはPro Gitの10. Gitの内側をまとめなおしたものです。 オブジェクトの種類 Gitは、内部でファイルやコミットを「オブジェクト」として.git/object...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T01:55:59.284Z</id>
+    <id>urn:2021-09-05T02:25:00.661Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T01:55:59.284Z</updated>
+    <updated>2021-09-05T02:25:00.661Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://anond.hatelabo.jp/20210905011447"/>
         <updated>2021-09-04T16:15:27.000Z</updated>
         <summary type="html"><![CDATA[自民党の派閥細田派 (97) 、麻生派 (54)、 竹下派 (52)、 二階派(47)、 岸田派(46)、 石破派 (16)、 石原派 (10)、菅グループ(23)、谷垣グループ(15)、無派閥 (26) 今のところ立候補を表明してる人岸田ハト派。中韓からの受けが良く、関係改善への期待を寄せられている。モリカケがどうとかってコメントもあった。 コロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use bookmarks in bash/zsh. | by threkk | Medium]]></title>
+        <id>https://threkk.medium.com/how-to-use-bookmarks-in-bash-zsh-6b8074e40774</id>
+        <link href="https://threkk.medium.com/how-to-use-bookmarks-in-bash-zsh-6b8074e40774"/>
+        <updated>2021-09-04T15:59:05.000Z</updated>
+        <summary type="html"><![CDATA[How to installHere is where the magic is. Add these 4 lines of code to your bashrc or zshrc file. if [ -d "$HOME/.bookmarks" ]; then export CDPATH=".:$HOME/.bookmarks:/" alias goto="cd -P" fiAdditionally, you need to create the directory in your home folder or wherever it suits you, just remember...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -251,16 +261,6 @@
         <link href="https://togetter.com/li/1769418"/>
         <updated>2021-09-04T06:00:32.000Z</updated>
         <summary type="html"><![CDATA[リンク Wikipedia Left 4 Dead 2 『Left 4 Dead 2』（レフト フォー デッド 2、略称: L4D2）は、2009年11月17日にValve Softwareから発売されたFPSゲーム。『Left 4 Dead』の続編。 ジョージア州からルイジアナ州までのアメリカ南東部を舞台に、ウイルスにより凶暴化した感染者が徘徊する都市からの脱出を図る協力型（Co...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マコなり社長の株式会社divを退職しました]]></title>
-        <id>https://anond.hatelabo.jp/20210904134315</id>
-        <link href="https://anond.hatelabo.jp/20210904134315"/>
-        <updated>2021-09-04T05:27:26.000Z</updated>
-        <summary type="html"><![CDATA[マコなり社長の株式会社divを退職しました あなたは誰？マコなり社長が経営する株式会社divの元社員です。 数年勤務した後に退職しました。 divで働けて良かった？良かったと考えてます。 divの同僚はみんな心優しくて有能な方ばかりでした。 退職した今では、親友として連絡を取り合っている元同僚もいます。 また、div...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

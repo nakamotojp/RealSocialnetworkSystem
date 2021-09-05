@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T12:18:31.893Z</id>
+    <id>urn:2021-09-05T13:17:22.915Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T12:18:31.893Z</updated>
+    <updated>2021-09-05T13:17:22.915Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://anond.hatelabo.jp/20210904182223"/>
         <updated>2021-09-05T06:07:54.000Z</updated>
         <summary type="html"><![CDATA[欲しいな]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヘンリー・キッシンジャー「アメリカはなぜアフガニスタンでの戦争に失敗したのか」（クーリエ・ジャポン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/b5e627b88dea7e1f0daaf2ba47c8065cb906b305</id>
+        <link href="https://news.yahoo.co.jp/articles/b5e627b88dea7e1f0daaf2ba47c8065cb906b305"/>
+        <updated>2021-09-05T06:00:16.000Z</updated>
+        <summary type="html"><![CDATA[ヘンリー・キッシンジャー。1923年ドイツ生まれの米国際政治学者。1938年にアメリカに亡命。ニクソン政権、フォード政権で国務長官などを務め、米中国交正常化やベトナム戦争集結に尽力し、1973年にノーベル平和賞を受賞。　Photo： Chip Somod… ニクソン政権およびフォード政権期に米国務長官などを務め、米中国交正常...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -216,31 +226,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菅原 琢（SUGAWARA, Taku） on Twitter: "立憲民主党議員の質疑を少し調べたけど、誰もワクチン推進反対と主張していなかった（当たり前だが）。むしろ、ワクチン供給を危惧したり接種体制整備をもとめたりと、接種推進の立場からの意見が多い（当たり前だが）。 国会会議録検索システム… https://t.co/Mpi2OdvQsP"]]></title>
-        <id>https://twitter.com/sugawarataku/status/1434213994097635329</id>
-        <link href="https://twitter.com/sugawarataku/status/1434213994097635329"/>
-        <updated>2021-09-04T18:30:19.000Z</updated>
-        <summary type="html"><![CDATA[立憲民主党議員の質疑を少し調べたけど、誰もワクチン推進反対と主張していなかった（当たり前だが）。むしろ、ワクチン供給を危惧したり接種体制整備をもとめたりと、接種推進の立場からの意見が多い（当たり前だが）。 国会会議録検索システム… https://t.co/Mpi2OdvQsP]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自民党総裁選候補寸評]]></title>
         <id>https://anond.hatelabo.jp/20210905011447</id>
         <link href="https://anond.hatelabo.jp/20210905011447"/>
         <updated>2021-09-04T16:15:27.000Z</updated>
         <summary type="html"><![CDATA[自民党の派閥細田派 (97) 、麻生派 (54)、 竹下派 (52)、 二階派(47)、 岸田派(46)、 石破派 (16)、 石原派 (10)、菅グループ(23)、谷垣グループ(15)、無派閥 (26) 今のところ立候補を表明してる人岸田ハト派。中韓からの受けが良く、関係改善への期待を寄せられている。モリカケがどうとかってコメントもあった。 コロ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[読売新聞、反ワクチンはお金になることを自紙の広告枠から暗に仄めかす : 市況かぶ全力２階建]]></title>
-        <id>https://kabumatome.doorblog.jp/archives/65985022.html</id>
-        <link href="https://kabumatome.doorblog.jp/archives/65985022.html"/>
-        <updated>2021-09-04T15:46:09.000Z</updated>
-        <summary type="html"><![CDATA[読売新聞は幾ら対価を貰った意見広告とはいえ…こういう公衆衛生を妨げる連中を取り上げるのかと pic.twitter.com/1Xv5p7fmvw — 呑氏 (@DonC_m2017) September 3, 2021 武者小路　丈径@takemichi01これ広告代理店、読売広告？ 2021/09/04 19:42:16 コンプラというか、与信の時点で、却下しなかったんだね... — 武者小路　...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -291,6 +281,16 @@
         <link href="https://diamond.jp/articles/-/281333"/>
         <updated>2021-09-04T02:08:11.000Z</updated>
         <summary type="html"><![CDATA[1976年、大阪府生まれ。灘高校、東京大学経済学部卒業後、日系メーカーで17年間勤務。経理や営業、マーケティング、経営企画などに携わり、独学で覚えたエクセルマクロを用いて様々な分析や業務改革を行う。 2017年、GAFAの日本法人のうちの1社へシニアマネージャー（部長）として転職。これまでエクセルマクロを用いた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定期的に知識をリフレッシュする - Magnolia Tech]]></title>
+        <id>https://blog.magnolia.tech/entry/2021/09/04/023941</id>
+        <link href="https://blog.magnolia.tech/entry/2021/09/04/023941"/>
+        <updated>2021-09-04T01:23:15.000Z</updated>
+        <summary type="html"><![CDATA[IT系に身を置いていると、つい新しい知識ばかりを追いかけがちになるけど、CS的な基礎知識や、Linuxのコマンドとかの（もちろんソラでコマンド10個のオプションを言える必要は、無い)も当然大事なわけです。というか、土台となる知識が無いと、新しい知識がちゃんと身につきません。 だけど、普段使わない、手を動かさな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

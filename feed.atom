@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T03:12:41.144Z</id>
+    <id>urn:2021-09-05T04:15:33.361Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T03:12:41.144Z</updated>
+    <updated>2021-09-05T04:15:33.361Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[孫正義 on Twitter: "ひろゆきがデジタル庁に応募したというのも驚いたけど、落とされたっていう事に更に驚いた。彼なら長官として最適な気がする。彼みたいな人が責任者なら日本も変わると思うけどなぁ。"]]></title>
+        <id>https://twitter.com/masason/status/1434339273352749067</id>
+        <link href="https://twitter.com/masason/status/1434339273352749067"/>
+        <updated>2021-09-05T02:27:15.000Z</updated>
+        <summary type="html"><![CDATA[ひろゆきがデジタル庁に応募したというのも驚いたけど、落とされたっていう事に更に驚いた。彼なら長官として最適な気がする。彼みたいな人が責任者なら日本も変わると思うけどなぁ。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ツイフェミまじ迷惑]]></title>
         <id>https://anond.hatelabo.jp/20210905025143</id>
         <link href="https://anond.hatelabo.jp/20210905025143"/>
         <updated>2021-09-05T01:25:25.000Z</updated>
         <summary type="html"><![CDATA[絶賛勉強中のフェミニストだけど、ツイフェミクソ嫌いだ〜〜〜〜〜〜 ツイフェミのせいでフェミニスト＝女尊男卑の人間みたいに思われててマジ迷惑。 そもそもフェミニストって「女性の権利を守る活動をする人間」を指すから、女でも男でもLGBT＋でもなれる。別に職業名でもないから女性の権利を守りたいと思ったらその...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[途上国で調査をしてる方が語る「一番身の安全上ヤバいのはテロや殺人や自然災害よりも、寄生虫炎や疫病」という話が具体的かつ壮絶すぎる - Togetter]]></title>
+        <id>https://togetter.com/li/1769834</id>
+        <link href="https://togetter.com/li/1769834"/>
+        <updated>2021-09-05T00:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Aisanazman Marukwamy (愛沙奈まみ) @marukwamy 私の調査地で一番身の安全上ヤバいのはテロや殺人や自然災害に遭うことよりも、寄生虫炎や疫病に感染することです。どんなに注意をして予防接種をして渡航しても私は必ず毎回寄生虫炎に罹ります。これが調査地に来た外国人たちに「もう二度とごめんだ」と思わ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -191,16 +211,6 @@
         <link href="https://twitter.com/a_saitoh/status/1433995425787248640"/>
         <updated>2021-09-04T13:37:48.000Z</updated>
         <summary type="html"><![CDATA[客が逃げにくいようにしてからバンバン値上げというORACLE DB商法が怖いのでOracle Cloudは使う気になれない。「複数のOracleDB利用システムがあれば、全部保守に入るか全部入らないかどっちかしか選べない」とかいろ… https://t.co/PghH9SiMx0]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おもしろ日本語が出てくるスペイン語ソングを発見]]></title>
-        <id>https://anond.hatelabo.jp/20210904220153</id>
-        <link href="https://anond.hatelabo.jp/20210904220153"/>
-        <updated>2021-09-04T13:06:40.000Z</updated>
-        <summary type="html"><![CDATA[https://m.youtube.com/watch?v=doLMt10ytHY この曲の2:50〜からなんですけど、マジで笑い転げてしまった いや、実際バカにするべきではないし、発音もかなりしっかりしててすごいと思うんだけど、それはそれとして、イカツいラッパーの兄ちゃんがいきなり日本語で 今日はセックスしたい　でもあなたとだけ　どこにいま...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>

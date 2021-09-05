@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-05T06:14:08.994Z</id>
+    <id>urn:2021-09-05T07:11:42.715Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-05T06:14:08.994Z</updated>
+    <updated>2021-09-05T07:11:42.715Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,7 +116,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[家に本が多いほうがテストの正答率高い？ 文科省調査 | 教育 | NHKニュース]]></title>
+        <title type="html"><![CDATA[家に本が多いほうがテストの正答率高い？ 文科省調査]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210905/k10013244361000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210905/k10013244361000.html"/>
         <updated>2021-09-04T22:34:55.000Z</updated>
